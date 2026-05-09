@@ -1,0 +1,129 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-vehicle-registration-within-nsw",
+  "title": "Cancel a vehicle registration within NSW",
+  "summary": "Registered vehicle operators can cancel their vehicle registration and hand in the number plates at a Service NSW Centre.",
+  "topics": [
+    "cancel-registration",
+    "vehicle-plates",
+    "service-nsw",
+    "nsw-vehicle-tax"
+  ],
+  "intro": "If you're the registered operator of a vehicle, you can cancel your registration and hand in the vehicle's number plates, at a Service NSW Centre.\n\nThere's a cancellation fee, but you're able to apply for a refund of any unused portion of the motor vehicle tax.",
+  "who_can_apply": [
+    "You must be the registered operator of the vehicle."
+  ],
+  "what_you_need": [
+    "The vehicle's registration certificate (if available)",
+    "The vehicle's number plates (or a Police Event Number if the plates have been lost, stolen, or destroyed)",
+    "Proof of identity",
+    "Fee payment",
+    "The required PDF forms:",
+    "If the vehicle was written-off or stolen, a document from the Police or insurance company with the date of the incident."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Ensure you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre, lodge your application, and return the vehicle's number plates.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you want to keep the plates after you cancel your vehicle's registration, you'll need to put them in reserve at a service centre. Additional fees may apply.",
+      "link": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "If your vehicle is registered in joint names, you only need the signature of the primary operator.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number Plates and/or Cancellation of Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "Request for refund of NSW registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071541-request-for-refund.pdf"
+    },
+    {
+      "text": "Application for Transfer/Refund of NSW Registrations for Motor Dealers – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071069-transfer-refund-nsw-motor-dealers.pdf"
+    },
+    {
+      "text": "Cancelling your registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration/cancelling-your-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "cancel your registration from interstate",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate"
+    },
+    {
+      "text": "put them in reserve",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Cancel a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Cancel a trader's plate",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-traders-plate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens to my motor vehicle tax?",
+      "a": "There is a cancellation fee, but you may be able to apply for a refund of any unused portion of the motor vehicle tax.",
+      "link": null
+    },
+    {
+      "q": "What do I need to cancel my registration?",
+      "a": "You need the vehicle's registration certificate (if available), the number plates (or a Police Event Number if lost, stolen, or destroyed), proof of identity, fee payment, and the required PDF forms.",
+      "link": null
+    },
+    {
+      "q": "How do I cancel my vehicle registration?",
+      "a": "First, download and complete the required PDF form. Then, ensure you have all necessary documents. Finally, visit a Service Centre, lodge your application, and return the vehicle's number plates.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:01Z",
+    "last_modified": "17 October 2024",
+    "html_sha1": "b269e830b5a56dec508b4e4d1e8df3499a57e312",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

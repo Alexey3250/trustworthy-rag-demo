@@ -1,0 +1,162 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "digital-vehicle-registration",
+  "title": "Opt in to Digital Vehicle Registration",
+  "summary": "Learn how to opt in to Digital Vehicle Registration for easier renewal and notifications.",
+  "topics": [
+    "vehicle-registration",
+    "digital-services",
+    "service-nsw"
+  ],
+  "intro": "If you opt in to Digital Vehicle Registration, you'll:",
+  "who_can_apply": [
+    "Registered operator of a vehicle that can be renewed online",
+    "Individual (not a company)",
+    "Must not have a conditional registration"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Opt in’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to add the ‘NSW Driver Licence and vehicle registration’ service to your MyServiceNSW Account (if you have not done so already).",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Under 'Notification preferences', select 'Digital Vehicle Registration' to opt in.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "To get notifications in the Service NSW app, go to ‘Manage account’ then ‘Preferences’ and enable push notifications.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "How to sign up for Digital Vehicle Registration – Video",
+      "link": "https://vimeo.com/679885561/2c8115886e"
+    },
+    {
+      "n": 8,
+      "text": "How to opt in to Digital Vehicle Registration – PDF.",
+      "link": "https://www.service.nsw.gov.au/system/files/2023-10/opt-in-digital-vehicle-registration_1.pdf"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After you opt in, your MyServiceNSW Account will be your electronic address for service.",
+      "link": null
+    },
+    {
+      "text": "You can access your digital Certificate of Registration in your MyServiceNSW Account under the registration details for eligible vehicles.",
+      "link": null
+    },
+    {
+      "text": "You can opt out and go back to paper delivery at anytime in your MyServiceNSW Account notification preferences. Save a copy of your Certificate of Registration for your records before you opt out.",
+      "link": null
+    },
+    {
+      "text": "The digital Certificate of Registration does not have any forms on the back. If you sell your vehicle, let us know the buyer’s details by submitting a notice of disposal. Once this is done, the buyer can transfer the registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "You do not need to show your registration details to your mechanic to do a safety inspection. They already have these details on their system and must check the vehicle itself (not the certificate) for the correct VIN or chassis number.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "How to sign up for Digital Vehicle Registration – Video",
+      "url": "https://vimeo.com/679885561/2c8115886e"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "How to opt in to Digital Vehicle Registration – PDF",
+      "url": "https://www.service.nsw.gov.au/system/files/2023-10/opt-in-digital-vehicle-registration_1.pdf"
+    },
+    {
+      "text": "submitting a notice of disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "transfer the registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Digital Certificate of Registration sample – PDF",
+      "url": "https://www.service.nsw.gov.au/system/files/2022-02/digital-certificate-of-registration.pdf"
+    },
+    {
+      "text": "Digital Vehicle Registration – Privacy statement",
+      "url": "https://www.service.nsw.gov.au/digital-vehicle-registration-privacy-statement"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "Automatic rego renewal for pensioners",
+      "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to opt in to Digital Vehicle Registration?",
+      "a": "You must be the registered operator of a vehicle that can be renewed online, and you must be an individual (not a company). Conditional registrations are excluded.",
+      "link": null
+    },
+    {
+      "q": "What do I need to opt in to Digital Vehicle Registration?",
+      "a": "You need a MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "q": "How do I opt in to Digital Vehicle Registration?",
+      "a": "You must check eligibility, select the 'Opt in' button, log in or create your MyServiceNSW Account, add the ‘NSW Driver Licence and vehicle registration’ service, and select 'Digital Vehicle Registration' under 'Notification preferences'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:02Z",
+    "last_modified": "11 November 2025",
+    "html_sha1": "22bfee0a8431d0d4ac58c8d68a6f69e93a55cf0a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

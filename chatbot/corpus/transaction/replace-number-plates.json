@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-number-plates",
+  "title": "Replace or change number plates",
+  "summary": "You can replace or change your existing NSW-issued number plates if they are damaged or worn through myPlates or at a Service NSW Centre.",
+  "topics": [
+    "number-plates",
+    "replace-plates",
+    "vehicle-registration"
+  ],
+  "intro": "If your existing NSW-issued number plates are damaged or worn, you can replace them with the same content and style (if still available) through myPlates or at a Service NSW Centre.\n\nYou can also:\n\nYou cannot order a replacement for number plates that have been lost, stolen or destroyed.",
+  "who_can_apply": [
+    "Anyone who has number plates registered in their name."
+  ],
+  "what_you_need": [
+    "Name and contact details",
+    "Driver licence number or customer number (if a business)",
+    "Number plate details",
+    "Old number plates",
+    "Fee payment",
+    "Completed PDF form – 'Number Plates and/or Cancellation of Registration'",
+    "Proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "like-for-like remake (same content, same style)",
+      "link": "https://www.myplates.com.au/replace-plate"
+    },
+    {
+      "n": 2,
+      "text": "restyle (same content, different style)",
+      "link": "https://www.myplates.com.au/#/restyle-home"
+    },
+    {
+      "n": 3,
+      "text": "new order (different content, different style).",
+      "link": "https://www.myplates.com.au/create-plate"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Fees will depend on the replacement option you choose. The least expensive option is general issue number plates (black and yellow).",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Your existing number plate style may no longer be available for manufacture.",
+      "link": null
+    },
+    {
+      "text": "### Fees and styles",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "like-for-like remake (same content, same style)",
+      "url": "https://www.myplates.com.au/replace-plate"
+    },
+    {
+      "text": "restyle (same content, different style)",
+      "url": "https://www.myplates.com.au/#/restyle-home"
+    },
+    {
+      "text": "new order (different content, different style)",
+      "url": "https://www.myplates.com.au/create-plate"
+    },
+    {
+      "text": "Number Plates and/or Cancellation of Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "number plates that have been lost, stolen or destroyed",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply to collect number plates from another service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre"
+    },
+    {
+      "text": "Transfer number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates"
+    },
+    {
+      "text": "Change the storage location of your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates"
+    },
+    {
+      "text": "Collect or surrender number plates held in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I replace number plates that were lost, stolen, or destroyed?",
+      "a": "No, you cannot order a replacement for number plates that have been lost, stolen, or destroyed.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates"
+    },
+    {
+      "q": "Who is eligible to replace number plates?",
+      "a": "Anyone who has number plates registered in their name can apply.",
+      "link": null
+    },
+    {
+      "q": "What do I need to replace my number plates?",
+      "a": "You will need your name and contact details, driver licence number or customer number (if a business), number plate details, old number plates, proof of identity, fee payment, and the completed PDF form – 'Number Plates and/or Cancellation of Registration'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:06Z",
+    "last_modified": "5 February 2025",
+    "html_sha1": "81bbc1bee0197c2bfc80acc2b10a8670243e7aa6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

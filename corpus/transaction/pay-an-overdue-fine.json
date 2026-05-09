@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-an-overdue-fine",
+  "title": "Pay an overdue fine",
+  "summary": "Learn how to pay an overdue fine online or by calling 13 77 88.",
+  "topics": [
+    "overdue-fine",
+    "pay-a-fine",
+    "nsw-fines"
+  ],
+  "intro": "If you receive an overdue fine, you can pay it or:\n\nPayments for an overdue fine can be made online. Alternatively, you can call 13 77 88.\n\nIf you don’t finalise your overdue fine, it may lead to further action such as the suspension of your licence, cancellation of your registration or a property seizure.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your overdue fine notice",
+    "your personal details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete your payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Pay your fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/pay-your-fine"
+    },
+    {
+      "text": "Authority to act – Revenue NSW",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/forms/fines/authority"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a payment plan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "apply to reduce the overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "apply to cancel the overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine"
+    },
+    {
+      "text": "apply to dispute the overdue fine in court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    },
+    {
+      "text": "request a work and development order",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    },
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I don't pay my overdue fine?",
+      "a": "Not finalising your overdue fine may lead to further action, such as the suspension of your licence, cancellation of your registration, or a property seizure.",
+      "link": null
+    },
+    {
+      "q": "How can I pay my overdue fine?",
+      "a": "You can pay an overdue fine online or by calling 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "What do I need to pay my overdue fine?",
+      "a": "You need your overdue fine notice and your personal details. Call 13 77 88 if you need a copy of your overdue fine notice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:03Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "4089cf3a515c8ae408f01cb3dcdabc154465dd77",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

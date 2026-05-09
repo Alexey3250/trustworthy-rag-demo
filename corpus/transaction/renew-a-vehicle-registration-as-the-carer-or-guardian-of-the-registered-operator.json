@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "title": "Renew a vehicle registration as the carer or guardian of the registered operator",
+  "summary": "This page explains how to renew a vehicle registration if you are acting as the carer or guardian for the registered operator.",
+  "topics": [
+    "vehicle-registration",
+    "carer",
+    "guardian",
+    "service-nsw"
+  ],
+  "intro": "If you're wanting to renew a vehicle registration as the carer or guardian of the registered operator, you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the billing number (available on your renewal notice or digital Certificate of Registration)",
+    "a pensioner concession card in the name of the registered operator",
+    "proof of carer or guardian status (court order, Power of Attorney or Statutory Declaration)",
+    "a safety inspection report (pink slip)",
+    "compulsory third party (CTP) insurance policy (green slip)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Renewing vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "digital Certificate of Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:05Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "4971534dd74eb8e4c51bb00b2a9c58d96a619c82",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

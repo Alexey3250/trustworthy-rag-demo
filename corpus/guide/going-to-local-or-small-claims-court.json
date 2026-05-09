@@ -1,0 +1,127 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/going-to-local-or-small-claims-court",
+  "source_url": "https://www.service.nsw.gov.au/guide/going-to-local-or-small-claims-court",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "going-to-local-or-small-claims-court",
+  "title": "Going to local or small claims court",
+  "summary": "This guide provides information on appealing fines, licences, or registration issues by going to a local or small claims court.",
+  "topics": [
+    "local-court",
+    "small-claims-court",
+    "fines",
+    "legal-support",
+    "court-process"
+  ],
+  "intro": "If you are thinking about appealing a fine, licence or registration issue, this guide links to information about:",
+  "who_can_apply": [
+    "Individuals appealing a fine, licence, or registration issue."
+  ],
+  "what_you_need": [
+    "Understanding the costs and time involved in going to court for a fine.",
+    "Legal advice and support (including special services for Aboriginal and Torres Strait Islander people).",
+    "If under 18, advice can be obtained by calling the Youth Hotline on 1800 10 18 10."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "vehicle offences",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/request-a-review/review-assist-guide/vehicle-offences"
+    },
+    {
+      "text": "Guided Pathways",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/guided-pathways"
+    },
+    {
+      "text": "going to court for a fine",
+      "url": "https://localcourt.nsw.gov.au/about-us/jurisdictions0/criminal-jurisdiction/going-to-court-for-a-penalty-notice.html"
+    },
+    {
+      "text": "legal help and support",
+      "url": "https://courts.nsw.gov.au/help-and-support/get-legal-help-and-support.html"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander",
+      "url": "https://courts.nsw.gov.au/help-and-support/get-legal-help-and-support/support-for-aboriginal-and-torres-strait-islander-people.html"
+    },
+    {
+      "text": "help with translation or disability support",
+      "url": "https://courts.nsw.gov.au/help-and-support.html"
+    },
+    {
+      "text": "represent yourself in court",
+      "url": "https://localcourt.nsw.gov.au/help-and-support/representing-yourself.html"
+    },
+    {
+      "text": "Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/representing-yourself"
+    },
+    {
+      "text": "Attending the Local Court",
+      "url": "https://localcourt.nsw.gov.au/help-and-support/attending-the-local-court.html"
+    },
+    {
+      "text": "The court journey",
+      "url": "https://courts.nsw.gov.au/going-to-court.html"
+    },
+    {
+      "text": "Going to court as a defendant",
+      "url": "https://www.nsw.gov.au/legal-and-justice/going-to-court-as-a-defendant"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "apply for a payment plan for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "nominate someone else for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "request a review for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I want to appeal a fine?",
+      "a": "You can pay the fine, or you can find more information about going to court for a fine. Legal Aid NSW also has an online tool to help you work out the best way to deal with your legal problem.",
+      "link": "https://www.legalaid.nsw.gov.au/ways-to-get-help/guided-pathways"
+    },
+    {
+      "q": "Where can I get legal help and support?",
+      "a": "You can contact an organization that offers legal help and support. Special court support services are available for Aboriginal and Torres Strait Islander people, and you can get help with translation or disability support.",
+      "link": "https://courts.nsw.gov.au/help-and-support/get-legal-help-and-support.html"
+    },
+    {
+      "q": "How can I represent myself in court?",
+      "a": "Representing yourself in court gives you access to your case information, allows you to file documents, and manages your profile in the NSW Courts and Tribunals services.",
+      "link": "https://localcourt.nsw.gov.au/help-and-support/representing-yourself.html"
+    },
+    {
+      "q": "What do I need to know about the court process?",
+      "a": "Information is available on what to wear, the people you will see, and how to behave inside a courtroom (Attending the Local Court). You can also learn about the court journey, and what to know about charges, bail, and appearing in court (Going to court as a defendant).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:49Z",
+    "last_modified": "10 March 2026",
+    "html_sha1": "e9df81c5479c3f423aa844b273f3d115de48c28b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

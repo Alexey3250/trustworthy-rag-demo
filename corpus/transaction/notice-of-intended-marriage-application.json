@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notice-of-intended-marriage-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notice-of-intended-marriage-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notice-of-intended-marriage-application",
+  "title": "Complete a Notice of Intended Marriage form",
+  "summary": "This page provides information on completing the legal Notice of Intended Marriage form before getting married in Australia.",
+  "topics": [
+    "marriage",
+    "notice-of-intended-marriage",
+    "wedding-requirements",
+    "celebrant"
+  ],
+  "intro": "Before you get married, you must complete a Notice of Intended Marriage. The form is a legal requirement for getting married in Australia.\n\nPart of the form needs to be completed by you and the other part by your authorised marriage celebrant.\n\nYou need to give the form and your identity documents to your marriage celebrant at least one month before the wedding date.",
+  "who_can_apply": [
+    "Be aged 18 years or older, unless a court has approved a marriage where one person is 16 to 18 years old.",
+    "Not already be married.",
+    "You do not have to be an Australian citizen or permanent resident to get married in Australia."
+  ],
+  "what_you_need": [
+    "Date and place of birth for both parties.",
+    "Personal details of parents.",
+    "Proof of date and place of birth.",
+    "Proof of identity with a photo (such as a driver licence, passport or official identity card).",
+    "Proof that a previous marriage has ended (if applicable) – either a divorce certificate or a full death certificate (if widowed).",
+    "The celebrant will need information from an authorised witness, such as a Justice of the Peace, medical practitioner, barrister, solicitor, or member of the Australian Federal Police or the police force of a state or territory."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and sign in front of an authorised witness.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Provide your celebrant with the completed form at least one month before your wedding date.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The form is valid for up to 18 months.",
+      "link": null
+    },
+    {
+      "text": "If you need help completing the form, contact your celebrant.",
+      "link": null
+    },
+    {
+      "text": "After the ceremony, the celebrant will send the form to the NSW Registry of Births, Deaths & Marriages.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "legal requirements for getting married in Australia",
+      "url": "https://www.ag.gov.au/families-and-marriage/marriage/get-married"
+    },
+    {
+      "text": "Marriages – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/marriages"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need to be an Australian citizen or permanent resident to get married?",
+      "a": "No, you do not have to be an Australian citizen or permanent resident to get married in Australia.",
+      "link": null
+    },
+    {
+      "q": "How far in advance do I need to give the form to my celebrant?",
+      "a": "You need to give the form and your identity documents to your marriage celebrant at least one month before the wedding date.",
+      "link": null
+    },
+    {
+      "q": "Who can witness the signing of the form?",
+      "a": "An authorised person needs to witness your signature and sign the form. If you are outside Australia, see the form for a list of authorised witnesses you can use.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:03Z",
+    "last_modified": "29 October 2025",
+    "html_sha1": "5b54ff07848475affbfe602af39e3c3e4ea17411",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

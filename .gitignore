@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Spider runtime data
+cache/
+data/
+
+# Embeddings are reproducible from corpus/ via `npm run build-index`.
+# Excluded from git; users opting into hybrid retrieval rebuild locally
+# (or in their CI) and Vercel re-deploys pick them up.
+corpus/.embeddings.json
+chatbot/corpus/.embeddings.json
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.log
+npm-debug.log*
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db

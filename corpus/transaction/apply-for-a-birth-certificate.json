@@ -1,0 +1,220 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-birth-certificate",
+  "title": "Apply for a birth certificate",
+  "summary": "Find out how to apply for a birth certificate for a birth or adoption registered in NSW.",
+  "topics": [
+    "birth-certificate",
+    "nsw-registry",
+    "identity-document",
+    "apply-online"
+  ],
+  "intro": "A birth certificate is an official copy of the birth registration held by the NSW Registry of Births, Deaths & Marriages. It's often used to help establish a person's identity.\n\nFor a birth or adoption that was registered in NSW, you can apply for a birth certificate online, by post, or in person at a Service NSW Centre.\n\nNote: If you have not previously registered the child's birth, you can order a birth certificate at the same time as you register a birth.\n\nWhen you order a standard birth certificate, you can buy a commemorative certificate. You cannot use a commemorative certificate as an identity document with government agencies.\n\nIf the birth occurred 100 or more years ago and you do not need a certificate for official use, you can Order a Family History Certificate.",
+  "who_can_apply": [
+    "The birth or adoption must have been registered in NSW.",
+    "You are applying for your own birth certificate.",
+    "You are applying for your child's birth certificate.",
+    "You are applying on behalf of someone else and have the required supporting documents.",
+    "Your parent's birth must be registered in NSW.",
+    "You must have been born in Australia after 20 August 1986.",
+    "You need the birth certificate of a parent for your Australian passport application."
+  ],
+  "what_you_need": [
+    "The birth registration details.",
+    "Copies of 3 personal identity documents.",
+    "Your payment.",
+    "Copies of 3 personal identity documents for the person named on the form (or for one of their parents if applying for a child's birth certificate).",
+    "Documents must be clear and easy to read.",
+    "Documents must be a TIF, JPG, or PDF file.",
+    "If applying on behalf of someone else, you also need the following ready for uploading."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Prepare your supporting documents ready for uploading.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to apply.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete Birth Certificate Application – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-birth-certificate.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Prepare your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Lodge your application and documents:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 8,
+      "text": "You can check the status of your application online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "n": 9,
+      "text": "A tax invoice will be sent to the email address you provided.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "When the Registry receives your complete and correct application, the processing time starts. It excludes delivery time.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates#toc-processing-times"
+    },
+    {
+      "n": 11,
+      "text": "Certificates are sent to you by the Registry, using registered post. You can ask for the certificate to be sent to a government agency. You cannot get a certificate from a service centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Certificates are not sent to foreign embassies, work emails or personal emails.",
+      "link": null
+    },
+    {
+      "text": "An additional fee applies.",
+      "link": null
+    },
+    {
+      "text": "### Caring for your certificate",
+      "link": null
+    },
+    {
+      "text": "We suggest you do not laminate your certificate. Where possible, identity documents should be kept in their original state.",
+      "link": null
+    },
+    {
+      "text": "If you want your certificate to be sent to an Australian passport office, consulate or embassy you must ask for this when make your application. You cannot make a request after you have submitted your application.",
+      "link": null
+    },
+    {
+      "text": "If using a PDF form for your application include a letter with the name and address of the office where you want the certificate sent.",
+      "link": null
+    },
+    {
+      "text": "If your birth, marriage or change of name certificate was destroyed due to a natural disaster you can get a free replacement within 6 months of the event. Go to a Service NSW Centre or call 13 77 88.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "letter of authority",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-letter-of-authority.pdf"
+    },
+    {
+      "text": "ID Support NSW",
+      "url": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "commemorative certificate",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/commemorative-birth-certificates"
+    },
+    {
+      "text": "personal identity documents",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates#toc-about-the-process"
+    },
+    {
+      "text": "Birth Certificate Application – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-birth-certificate.pdf"
+    },
+    {
+      "text": "processing time",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates#toc-processing-times"
+    },
+    {
+      "text": "NSW Registry of Births, Deaths & Marriages privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/about-registry/privacy-collection-notice"
+    },
+    {
+      "text": "Birth certificates – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register a birth",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "Order a Family History Certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "text": "resume your application",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "check the status of your application",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Verifying your identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Replace a change of name certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-change-of-name-certificate"
+    },
+    {
+      "text": "Report a lost or stolen birth or marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a commemorative certificate?",
+      "a": "Yes, you can buy a commemorative certificate when ordering a standard birth certificate, but you cannot use it as an identity document with government agencies.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/births/commemorative-birth-certificates"
+    },
+    {
+      "q": "What if the birth happened many years ago?",
+      "a": "If the birth occurred 100 or more years ago and you do not need the certificate for official use, you can order a Family History Certificate.",
+      "link": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "q": "How do I check the status of my application?",
+      "a": "You can check the status of your application online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:57Z",
+    "last_modified": "9 February 2026",
+    "html_sha1": "42681399fb10fdd832fc6b6fd95ba4de0248ba10",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

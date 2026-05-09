@@ -1,0 +1,154 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-the-toll-relief-cap",
+  "title": "Claim toll relief rebate – $60 weekly cap",
+  "summary": "Learn how to claim a toll relief rebate if you spend more than $60 per week on tolls.",
+  "topics": [
+    "toll-rebate",
+    "nsw-tolls",
+    "toll-account",
+    "motorists"
+  ],
+  "intro": "Eligible motorists that spend more than $60 a week on tolls can claim a rebate:\n\n### When you can claim\n\n*Notes:",
+  "who_can_apply": [
+    "Must be a NSW resident.",
+    "Must have an active NSW personal toll account with E-Toll or Linkt (not suspended or closed).",
+    "Must have spent more than $60 a week on tolls (up to $400) per tag and/or licence plate number on your personal toll account.",
+    "The toll spend must be for an eligible vehicle, such as:",
+    "A vehicle paid for travel on an eligible NSW toll road.",
+    "A vehicle used for business trips in vehicles registered for private use, or by food/courier delivery, taxi, hire car, or ride share businesses.",
+    "A vehicle on a toll account held in another state or territory, or on toll roads outside NSW.",
+    "A Class B vehicle (such as a truck or bus) or a car towing a caravan, boat, or horse float.",
+    "The toll spend must not have already received a rebate in the quarter for which you are claiming."
+  ],
+  "what_you_need": [
+    "Your bank account details for payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Link your toll account to your MyServiceNSW Account. This provides you with access to Toll Tracker where you can check your toll spend and see when you're able to claim toll relief.",
+      "link": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "n": 2,
+      "text": "Make sure your contact and vehicle details are up to date with your toll provider.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "n": 3,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the ‘Claim online’ button.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to claim your rebate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "By making a claim for the rebate, you may get audited.",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap#audit-documents"
+    },
+    {
+      "text": "If your claim is audited, a Service NSW assessor will email or call you to request supporting documents, such as toll statements, vehicle registration certificates and bank statements.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "toll provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "text": "all toll roads in NSW",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/all-australian-toll-roads"
+    },
+    {
+      "text": "Find the costs for each toll road in NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "Class A vehicle",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap#definitions"
+    },
+    {
+      "text": "Link your toll account to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "text": "you may get audited",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap#audit-documents"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/toll-relief-weekly-cap"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Track your toll spend with Toll Tracker",
+      "url": "https://www.service.nsw.gov.au/transaction/toll-tracker"
+    },
+    {
+      "text": "Register for the M5 South-West Cashback Scheme rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-the-m5-south-west-cashback-scheme-rebate"
+    },
+    {
+      "text": "Use the Sydney Motorways Toll Calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-sydney-motorways-toll-calculator"
+    },
+    {
+      "text": "Claim the Large Towed Recreational Vehicle Toll Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-large-towed-recreational-vehicle-toll-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum spend required to claim the rebate?",
+      "a": "You must spend more than $60 a week on tolls for any tags and licence plate numbers on your personal toll account.",
+      "link": null
+    },
+    {
+      "q": "How is the toll relief rebate calculated and claimed?",
+      "a": "The rebate is calculated and claimed each quarter.",
+      "link": null
+    },
+    {
+      "q": "What types of toll spend count towards the rebate?",
+      "a": "Tolls paid on all toll roads in NSW count towards your spend. This includes tolls for other future toll roads and licence number plate recognition charges.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:01Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "dce6170e8148ebaf517dbac7d2bf9392e2f2db8a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

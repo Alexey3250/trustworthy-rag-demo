@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/how-to-upload-documents-for-an-online-application",
+  "source_url": "https://www.service.nsw.gov.au/guide/how-to-upload-documents-for-an-online-application",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "how-to-upload-documents-for-an-online-application",
+  "title": "How to upload documents for an online application",
+  "summary": "This page explains how to prepare and upload documents when applying for a NSW Government service online.",
+  "topics": [
+    "online-application",
+    "uploading-documents",
+    "document-format",
+    "digital-documents",
+    "scanned-documents"
+  ],
+  "intro": "When you apply for a NSW Government service or support, you might need to provide details from a document to confirm your identity or prove your eligibility. Sometimes we'll ask you to upload a copy of the document to confirm your details.\n\nMake sure your name, address and all the details requested are clearly visible when you submit your documents.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The document must clearly show your name, address, and all requested details.",
+    "Digital documents should be saved and uploaded as files.",
+    "Paper documents should be scanned or photographed, and the resulting file should be saved and uploaded.",
+    "Photos of documents should be saved as JPEG, JPG, PDF, PNG, or TIF files."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Verifying your identity",
+      "link": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "How to find your Centrelink Customer Reference Number (CRN)",
+      "link": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "link": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Cyber security, identity theft and scams",
+      "link": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "manage, save and share files",
+      "url": "https://beconnected.esafety.gov.au/topic-library?catalog_fts=files&orderbykey=score&itemstyle=narrow"
+    },
+    {
+      "text": "email account security",
+      "url": "https://www.cyber.gov.au/report-and-recover/recover-from/business-email-compromise/review-your-email-account-security"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Verifying your identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Centrelink Customer Reference Number (CRN)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Cyber security, identity theft and scams",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What details must be visible when I submit my documents?",
+      "a": "Ensure that your name, address, and all requested details are clearly visible on the documents you submit.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements for the file name and format?",
+      "a": "The file must be saved in the requested format (such as JPEG, JPG, PDF, PNG, or TIF), be less than 6 MB, and include only letters and numbers in the file name (no spaces or special characters).",
+      "link": null
+    },
+    {
+      "q": "How should I handle digital documents?",
+      "a": "If you have digital documents, ask the provider to email you a copy, save the attachments to your device, and then upload them when you apply online.",
+      "link": null
+    },
+    {
+      "q": "How do I upload documents if I only have photos?",
+      "a": "If you take a photo of documents, email the photo to yourself, open the email on a computer or tablet, and save the image as a JPEG, JPG, PDF, PNG, or TIF file before uploading.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:48Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "0d47b0d90551e5a5c1c49a2e5a90edf93a10dd5d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices",
+  "source_url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "toll-roads-and-toll-notices",
+  "title": "Toll roads and toll notices",
+  "summary": "Find information about toll roads, how to pay tolls, and how to manage toll notices in New South Wales.",
+  "topics": [
+    "toll-roads",
+    "paying-tolls",
+    "toll-notices",
+    "nsw-driving"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Toll relief",
+      "link": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Toll costs by road",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    },
+    {
+      "text": "All Australian toll roads",
+      "link": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/all-australian-toll-roads"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "travelling on NSW toll roads",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/using-toll-roads"
+    },
+    {
+      "text": "use the Sydney Motorways calculator",
+      "url": "https://maps.transport.nsw.gov.au/egeomaps/sydney-motorways-toll-calculator/index.html"
+    },
+    {
+      "text": "toll costs by road",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    },
+    {
+      "text": "E-Toll Account",
+      "url": "https://account.myetoll.transport.nsw.gov.au/open-new-account"
+    },
+    {
+      "text": "eMU Casual Pass",
+      "url": "https://account.myetoll.transport.nsw.gov.au/emu-pass"
+    },
+    {
+      "text": "visit E-Toll",
+      "url": "https://paytollnotice.mye-toll.com.au/tollnotice/"
+    },
+    {
+      "text": "visit Linkt",
+      "url": "https://tollnotice.linkt.com.au/search.asp"
+    },
+    {
+      "text": "driving a rental vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/using-toll-roads#toc-rental-cars-and-toll-roads"
+    },
+    {
+      "text": "All Australian toll roads",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/all-australian-toll-roads"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pay a toll trip",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "dispute a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice"
+    },
+    {
+      "text": "submit a statutory declaration for a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice"
+    },
+    {
+      "text": "How to open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "How to order an eMU Casual Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-casual-emu-pass"
+    },
+    {
+      "text": "How to apply for an eRider account",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-erider-pass"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I calculate the cost of a toll journey?",
+      "a": "Use the Sydney Motorways calculator to work out the total cost for a journey. To check the cost for a specific toll road, see toll costs by road.",
+      "link": null
+    },
+    {
+      "q": "What options do I have for paying tolls?",
+      "a": "You can use an E-Toll Account for regular toll road use on Sydney toll roads, an eMU Casual Pass for visiting NSW or up to 30 days of use, or an eRider account for frequent travel on the Sydney Harbour Bridge and Sydney Harbour Tunnel.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I travel without a toll account or pass?",
+      "a": "For the Sydney Harbour Bridge and Sydney Harbour Tunnel, visit E-Toll. For all other toll road notices, visit Linkt.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:57Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "d51bfa87862efbe594af352ee8cbf5160491cbf0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

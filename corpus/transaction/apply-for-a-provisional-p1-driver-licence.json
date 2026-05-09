@@ -1,0 +1,175 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-provisional-p1-driver-licence",
+  "title": "Apply for a provisional P1 driver licence",
+  "summary": "You can apply for a provisional P1 driver licence if you meet the required criteria and pass the necessary tests.",
+  "topics": [
+    "driver-licence",
+    "provisional-p1",
+    "nsw-licence",
+    "driving-test"
+  ],
+  "intro": "You can apply for a provisional P1 driver licence if you've held a NSW learner licence for the required period of time, and passed the necessary tests. You can also apply if you've passed the driving test as a holder of an interstate learner licence, provisional licence or an overseas licence.\n\nApplications for the licence are made at a service centre, and if you wish you can apply for a NSW Photo Card at the same time, and take advantage of paying a reduced application fee for it.",
+  "who_can_apply": [
+    "Be at least 17 years of age.",
+    "Have held a learner licence for at least 12 months (if aged between 17 and 24).",
+    "Have logged the required driving hours.",
+    "Have passed the Hazard Perception Test (HPT)."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Licence Application'",
+    "Your current learner licence",
+    "Proof of identity documents (if applicable)",
+    "Your contact lenses or glasses (if you wear them)",
+    "An Occupational Therapist assessment report (if applicable)",
+    "Your concession card details (if applicable)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check the tick box to apply for a Photo Card (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Take the completed form, required documents and contact lenses or glasses (if you wear them) to a service centre and lodge your application with your payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must not use any function of a mobile phone while you're driving or riding. This includes when you're waiting at lights, or stuck in traffic, and means texting, hands-free, speaker mode and GPS functions. The only time you can use your mobile is when you're safely parked out of the line of traffic.",
+      "link": null
+    },
+    {
+      "text": "If you're aged between 17 and 24 you must have held your learner licence for at least 12 months, but you're allowed to attempt the HPT after 10 months.",
+      "link": null
+    },
+    {
+      "text": "The Photo Card is voluntary – you don't have to have one, but you may find it useful to prove your identity in situations not related to driving.",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are posted generally within 6 weeks of the card's expiry date.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-nsw-photo-card-fees"
+    },
+    {
+      "text": "required driving hours",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p1-licence#toc-check-your-eligibility"
+    },
+    {
+      "text": "Hazard Perception Test",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests/hazard-perception-test"
+    },
+    {
+      "text": "Occupational Therapist driving assessment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/driving-assessments#toc-occupational-therapist-ot-driving-assessment"
+    },
+    {
+      "text": "Disability driving test",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/driving-assessments#toc-disability-driving-test"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "A Guide to the Driving Test – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-08/guide-to-driving-test.pdf"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Provisional P1 driver licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p1-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a learner driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Book a hazard perception test (HPT)",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-hazard-perception-test-hpt"
+    },
+    {
+      "text": "Apply to join NRMA's Roadside Assistance Free2go program",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-join-nrmas-roadside-assistance-free2go-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a P1 driver licence?",
+      "a": "You can apply if you are at least 17 years of age and have held a learner licence for the required period, or if you passed the driving test using an interstate, provisional, or overseas licence.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a P1 licence?",
+      "a": "You need the 'Licence Application' PDF form, your current learner licence, proof of identity documents, and your payment.",
+      "link": null
+    },
+    {
+      "q": "Do I need to take a special assessment if I have a disability?",
+      "a": "If you live with a disability, talk to your doctor about a possible Occupational Therapist driving assessment before applying. You may be eligible for a Disability driving test.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:00Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "20218d63669535b0ec360ab1b23a8a7f36b2d5f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-driving-record",
+  "title": "Request a driving record",
+  "summary": "You can order a copy of your driving record, which details your licence offences, online or in person.",
+  "topics": [
+    "driving-record",
+    "nsw-driver-licence",
+    "offences"
+  ],
+  "intro": "A driving record is a history of offences recorded against your licence, and you're able to buy a copy of your own record if you need it.\n\nYou can order 2 types of driving record online:\n\nNote: Certified driving records will be posted to you at the mailing address recorded with Transport for NSW – they should be received within 10 to 14 days.",
+  "who_can_apply": [
+    "NSW driver licence holders who have a MyServiceNSW Account",
+    "NSW residents who have previously held a NSW driver licence"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The PDF form: 'Access to Own Personal Records Application'",
+    "Proof of identity documents (such as passport, Photo Card)",
+    "A detailed description of the information you would like to access",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account. Enter your NSW driver licence details if your account is new or you haven't previously entered them.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read and accept the Terms and Conditions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Buy a certified driving record' or 'Buy an uncertified driving record'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Check and confirm your order details.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Print your transaction receipt, and:",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Download and complete the Access to Own Personal Records Application – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    },
+    {
+      "n": 9,
+      "text": "Make sure you attach all the required documents.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Visit a service centre and submit your application with payment in person, or send to the contact details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Only the certified driving record can be used as evidence in legal proceedings or in a court of law. You cannot use an uncertified driving record in court or for a driver licence disqualification application.",
+      "link": null
+    },
+    {
+      "text": "If you require the record to be mailed to a state other than NSW, you'll need to order via post, using Access to Own Personal Records Application – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    },
+    {
+      "text": "When you buy a certified driving record, you automatically get an uncertified driving record as well.",
+      "link": null
+    },
+    {
+      "text": "If you buy an uncertified driving record, it will be available immediately, and for 7 days.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-requests-for-information-fees"
+    },
+    {
+      "text": "proof of identity documents",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Access to Own Personal Records Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    },
+    {
+      "text": "Sample certified driving record",
+      "url": "https://www.myrta.com/myrta/applications/clenq/sample_certified_driving_records.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long will it take to receive a certified driving record?",
+      "a": "Certified driving records will be posted to the mailing address recorded with Transport for NSW and should be received within 10 to 14 days.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to order a driving record?",
+      "a": "NSW driver licence holders who have a MyServiceNSW Account, or NSW residents who previously held a NSW driver licence.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I cannot order online?",
+      "a": "If you are unable to order online, you will need to visit a service centre and submit your application with payment in person, or send it to the contact details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:05Z",
+    "last_modified": "18 February 2026",
+    "html_sha1": "60924b2ac7ee2d16bf89f08a0a0c83736d26c774",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

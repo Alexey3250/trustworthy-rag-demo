@@ -1,0 +1,363 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/carers",
+  "source_url": "https://www.service.nsw.gov.au/guide/carers",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "carers",
+  "title": "Guide to carer support in NSW",
+  "summary": "This guide provides comprehensive information and support contacts for carers in New South Wales.",
+  "topics": [
+    "carer-support",
+    "nsw-health",
+    "financial-assistance",
+    "disability-support",
+    "mental-health"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Being a carer in NSW",
+    "Caring for a person with a disability or mental illness",
+    "Being a young carer (25 or under)"
+  ],
+  "what_you_need": [
+    "Contact details for specific support services (e.g., Carer Gateway, Young Carer Hub)",
+    "Information on financial payments (e.g., Carer Payment, Carer Allowance)",
+    "Knowledge of local support programs (e.g., ASTP, Mobility Parking Scheme)",
+    "Emergency contact numbers (000, 13 11 14)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Government Grants and Funding",
+      "url": "https://www.nsw.gov.au/grants-and-funding/nsw-national-carers-week-grants-2026"
+    },
+    {
+      "text": "Carers (Recognition) Act 2010",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2010-020"
+    },
+    {
+      "text": "Carer Gateway",
+      "url": "https://www.carergateway.gov.au/"
+    },
+    {
+      "text": "NDIS",
+      "url": "https://www.ndis.gov.au/applying-access-ndis"
+    },
+    {
+      "text": "How we can help carers",
+      "url": "https://www.ndis.gov.au/understanding/families-and-carers/how-we-can-help-carers"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "Carers NSW",
+      "url": "https://www.carersnsw.org.au"
+    },
+    {
+      "text": "carer rights and how to make a complaint",
+      "url": "https://www.carersnsw.org.au/services-and-support/advice-for-carers/rights-and-complaints"
+    },
+    {
+      "text": "tailored carer resources",
+      "url": "https://www.carersnsw.org.au/resources/carer-resources"
+    },
+    {
+      "text": "education sessions and workshops",
+      "url": "https://www.carersnsw.org.au/services-and-support/programs-services/education"
+    },
+    {
+      "text": "Patient information and privacy: a guide for carers and family",
+      "url": "https://www.health.nsw.gov.au/carers/Publications/patient-info-privacy-brochure.pdf"
+    },
+    {
+      "text": "Resources for NSW Health employees",
+      "url": "https://www.health.nsw.gov.au/carers/Pages/resources.aspx"
+    },
+    {
+      "text": "Carers Australia online",
+      "url": "https://www.carersaustralia.com.au/about-us/contact-us"
+    },
+    {
+      "text": "Learn more about the advisory council",
+      "url": "https://dcj.nsw.gov.au/community-inclusion/advisory-councils/nsw-carers-advisory-council.html"
+    },
+    {
+      "text": "Triple Zero (000)",
+      "url": "https://www.triplezero.gov.au/"
+    },
+    {
+      "text": "hospital emergency department",
+      "url": "https://www.emergencywait.health.nsw.gov.au/"
+    },
+    {
+      "text": "Young Carer Hub",
+      "url": "https://www.carersnsw.org.au/services-and-support/information-hubs/young-carer-hub"
+    },
+    {
+      "text": "Young Carer Bursary Program",
+      "url": "https://youngcarersnetwork.com.au/bursary/young-carer-bursary/"
+    },
+    {
+      "text": "NSW Department of Education",
+      "url": "https://education.nsw.gov.au/schooling/school-community/wellbeing-support"
+    },
+    {
+      "text": "Mental Health Carers NSW",
+      "url": "https://mentalhealthcarersnsw.org/"
+    },
+    {
+      "text": "NSW Family & Carer Mental Health Program",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/services/carers/Pages/support.aspx"
+    },
+    {
+      "text": "Transcultural Mental Health Centre's Carer Support Program",
+      "url": "https://www.dhi.health.nsw.gov.au/transcultural-mental-health-centre-tmhc/community/carers"
+    },
+    {
+      "text": "Dementia Australia",
+      "url": "https://www.dementia.org.au/"
+    },
+    {
+      "text": "Live Chat service,",
+      "url": "https://www.dementia.org.au/get-support/national-dementia-helpline"
+    },
+    {
+      "text": "Rural Women’s Network",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network"
+    },
+    {
+      "text": "Rural Women's Resource page",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr"
+    },
+    {
+      "text": "ACON",
+      "url": "https://www.acon.org.au/"
+    },
+    {
+      "text": "Financial Counsellors Association of NSW",
+      "url": "https://fcan.org.au/"
+    },
+    {
+      "text": "Women's Financial Toolkit",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/womens-financial-toolkit"
+    },
+    {
+      "text": "Women NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/women-nsw"
+    },
+    {
+      "text": "Get Healthy Service",
+      "url": "https://www.gethealthynsw.com.au/"
+    },
+    {
+      "text": "sign up online",
+      "url": "https://www.gethealthynsw.com.au/get-started"
+    },
+    {
+      "text": "NSW Ageing and Disability Commission",
+      "url": "https://ageingdisabilitycommission.nsw.gov.au/"
+    },
+    {
+      "text": "Payments for carers",
+      "url": "https://www.servicesaustralia.gov.au/getting-payment-if-youre-carer?context=60097"
+    },
+    {
+      "text": "Financial relief one-off payment",
+      "url": "https://www.servicesaustralia.gov.au/crisis-and-special-help?context=60042"
+    },
+    {
+      "text": "Bereavement payment",
+      "url": "https://www.servicesaustralia.gov.au/what-help-there-when-adult-dies?context=60101"
+    },
+    {
+      "text": "Savings Finder online tool",
+      "url": "https://assistance.service.nsw.gov.au/savings-finder"
+    },
+    {
+      "text": "Community transport services",
+      "url": "https://transportnsw.info/travel-info/ways-to-get-around/community-transport"
+    },
+    {
+      "text": "Qantas Carer Concession Card",
+      "url": "https://www.qantas.com/au/en/travel-info/specific-needs/travelling-with-specific-needs/travelling-with-a-carer.html"
+    },
+    {
+      "text": "Health Care Card",
+      "url": "https://www.servicesaustralia.gov.au/health-care-card"
+    },
+    {
+      "text": "Chronic Disease Management Plan or Team Care Arrangements",
+      "url": "https://www.servicesaustralia.gov.au/chronic-disease-gp-management-plans-and-team-care-arrangements"
+    },
+    {
+      "text": "EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/services"
+    },
+    {
+      "text": "Continence Aids Payment Scheme",
+      "url": "https://www.servicesaustralia.gov.au/continence-aids-payment-scheme"
+    },
+    {
+      "text": "Essential Medical Equipment Payment",
+      "url": "https://www.servicesaustralia.gov.au/essential-medical-equipment-payment"
+    },
+    {
+      "text": "Special Disability Trust",
+      "url": "https://www.servicesaustralia.gov.au/special-disability-trusts"
+    },
+    {
+      "text": "Life events – Retirement",
+      "url": "https://www.nsw.gov.au/life-events"
+    },
+    {
+      "text": "Age Pension and planning your retirement",
+      "url": "https://www.servicesaustralia.gov.au/retirement-years"
+    },
+    {
+      "text": "Planning for end of life",
+      "url": "https://www.carergateway.gov.au/your-life-carer/end-life-caring"
+    },
+    {
+      "text": "A guide to end of life caring",
+      "url": "https://www.carerhelp.com.au/tabid/5856/Default.aspx"
+    },
+    {
+      "text": "Easy and flexible ways to plan ahead",
+      "url": "https://www.tag.nsw.gov.au/wills"
+    },
+    {
+      "text": "Aboriginal planning ahead",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/learn-about-wills#toc-wills-for-aboriginal-peoples"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "NDIS Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "free, one-hour phone appointment",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment"
+    },
+    {
+      "text": "list of rebates and vouchers",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Public transport concessions and subsidies",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies"
+    },
+    {
+      "text": "Vision Impaired Person’s Travel Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vision-impaired-persons-vip-travel-pass"
+    },
+    {
+      "text": "Assisted School Travel Program (ASTP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program"
+    },
+    {
+      "text": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas"
+    },
+    {
+      "text": "Mobility Parking Scheme (MPS) permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    },
+    {
+      "text": "Concession car parking at NSW public hospitals",
+      "url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals"
+    },
+    {
+      "text": "Transport Taxi Subsidy Scheme (TTSS)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme"
+    },
+    {
+      "text": "Medical Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Life Support Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Pensioner water rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-pensioner-water-rebate"
+    },
+    {
+      "text": "NSW Gas Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers"
+    },
+    {
+      "text": "Low Income Household Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-companion-card"
+    },
+    {
+      "text": "NSW Seniors Card or Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Council rate rebates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-pensioner-council-rates-rebates"
+    },
+    {
+      "text": "Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "carer's registration refund",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do in a medical emergency?",
+      "a": "Call Triple Zero (000), or go to a hospital emergency department.",
+      "link": null
+    },
+    {
+      "q": "Where can I find support for young carers?",
+      "a": "Young Carer Hub (call 02 9280 4744) provides counselling, information, and referrals. Carer Gateway (call 1800 422 737) also offers support, advice, and courses.",
+      "link": null
+    },
+    {
+      "q": "What financial payments are available to carers?",
+      "a": "Payments include Carer Payment, Carer Allowance, Carer Supplement, Carer Adjustment Payment, and Child Disability Assistance Payment.",
+      "link": null
+    },
+    {
+      "q": "How can I get help with travel concessions?",
+      "a": "Public transport concessions and subsidies (call 131 500) may be available. Other schemes include the Vision Impaired Person’s Travel Pass and Mobility Parking Scheme (call 13 22 13).",
+      "link": null
+    },
+    {
+      "q": "What support is available for mental health carers?",
+      "a": "Mental Health Carers NSW provides advocacy and support. The NSW Family & Carer Mental Health Program offers training and education for families and carers.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:43Z",
+    "last_modified": "1 May 2026",
+    "html_sha1": "5ced3c9d806a8361f7910e978c55f72f822670db",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

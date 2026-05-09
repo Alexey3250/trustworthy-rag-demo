@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-working-with-children-check",
+  "title": "Apply for a Working with Children Check",
+  "summary": "Find out about and apply for a Working with Children Check (WWCC), which is required for working or volunteering with children in NSW.",
+  "topics": [
+    "working-with-children-check",
+    "nsw",
+    "child-safety",
+    "police-check"
+  ],
+  "intro": "The Working with Children Check (WWCC) is a requirement for anyone who works or volunteers in child-related work in NSW. It involves a National Police Check (criminal history record check) and a review of reportable workplace misconduct.\n\nResults of a National Police Check can take up to 4 weeks to be received.\n\nThe outcome of a check is either a clearance to work with children or a bar against working with children. If cleared, the check will be valid for 5 years, however applicants are continuously monitored.\n\nThe application costs $107 for paid workers and is free for volunteers.",
+  "who_can_apply": [
+    "Must be aged 18 or over."
+  ],
+  "what_you_need": [
+    "One commencement of identity document",
+    "One primary use in the community document",
+    "Two secondary use in the community documents",
+    "Photos, photocopies, or certified copies",
+    "Expired documents are acceptable unless specified otherwise",
+    "If your primary use document is not a NSW Driver Licence or a NSW Photo Card, you must apply for a customer number with Transport for NSW (individuals)",
+    "The NSW Digital Driver Licence is accepted, but other digital identity documents (like a digital Medicare card) are not accepted",
+    "Four proof of identity (POI) documents are required, including at least one document that contains your signature and photo",
+    "All POI documents must be current and original"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form ensuring the name you enter matches your identity documents exactly.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a Service NSW Centre to present your original identity documents and (if applicable) pay the fee.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find out when a WWCC is required, visit Who needs a WWCC.",
+      "link": "https://ocg.nsw.gov.au/working-children-check/who-needs-check"
+    },
+    {
+      "text": "If you'd like help with your application, contact the Office of the Children's Guardian.",
+      "link": "https://ocg.nsw.gov.au/contact-us"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity (POI) documents",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/proof-identity"
+    },
+    {
+      "text": "Who needs a WWCC",
+      "url": "https://ocg.nsw.gov.au/working-children-check/who-needs-check"
+    },
+    {
+      "text": "contact the Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Application process – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/how-apply-wwcc"
+    },
+    {
+      "text": "Frequently asked questions – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/frequently-asked-questions-about-wwcc"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a customer number with Transport for NSW (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Add your Working with Children Check to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Find your Working with Children Check number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    },
+    {
+      "text": "Renew your Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a Working with Children Check valid for?",
+      "a": "If cleared, the check will be valid for 5 years, although applicants are continuously monitored.",
+      "link": null
+    },
+    {
+      "q": "How much does the Working with Children Check cost?",
+      "a": "The application costs $107 for paid workers and is free for volunteers.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for a Working with Children Check?",
+      "a": "You must be aged 18 or over.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:01Z",
+    "last_modified": "16 December 2025",
+    "html_sha1": "c9b322b8cf58f4796dfa7b9938289dfe4f362c54",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

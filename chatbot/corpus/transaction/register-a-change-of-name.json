@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-change-of-name",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-change-of-name",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-change-of-name",
+  "title": "Register a change of name",
+  "summary": "You can register a change of name online, but you must check eligibility and requirements first.",
+  "topics": [
+    "change-of-name",
+    "nsw-registry",
+    "identity-documents",
+    "name-change-rules"
+  ],
+  "intro": "If you want to change your name, you can do it online. You can change your name only once in a 12-month period and 3 times in your lifetime.\n\nChanging your name or the name of a child is a complex process. For information on eligibility, required documents and how to apply, visit Change of name – NSW Registry of Births, Deaths & Marriages.",
+  "who_can_apply": [
+    "Were born or adopted in NSW.",
+    "Were born overseas and have lived in NSW for the past 3 years.",
+    "Have not changed your name with any Australian Registry in the past 12 months.",
+    "Have not previously registered 3 official changes of name in Australia.",
+    "Parents, guardians, and caseworkers can register a change of name for children under 18 years."
+  ],
+  "what_you_need": [
+    "Proof of identity.",
+    "Completed online form.",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility and document requirements at Change of name – NSW Registry of Births, Deaths & Marriages.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name"
+    },
+    {
+      "n": 2,
+      "text": "Gather the documents you need, including proof of identity.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete the online form and payment.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name#toc-fees-and-processing-times"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Change of name – NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name"
+    },
+    {
+      "text": "Change your surname after marriage",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-your-surname-after-marriage"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name#toc-fees-and-processing-times"
+    },
+    {
+      "text": "Common questions about changing your name – NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name#toc-commonly-asked-questions"
+    },
+    {
+      "text": "Change of name certificates – NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name-certificates-0"
+    },
+    {
+      "text": "Online form help – NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/online-form-help"
+    },
+    {
+      "text": "Birth certificates – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates"
+    },
+    {
+      "text": "Change of sex – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change of name with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many times can I change my name?",
+      "a": "You can change your name up to 3 times in your lifetime, and you can only change it once within a 12-month period.",
+      "link": null
+    },
+    {
+      "q": "Can parents change a child's name?",
+      "a": "Yes, parents, guardians, and caseworkers can register a change of name for children under 18 years.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information on eligibility and required documents?",
+      "a": "You must check the eligibility and document requirements at Change of name – NSW Registry of Births, Deaths & Marriages.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:03Z",
+    "last_modified": "20 March 2026",
+    "html_sha1": "dee612ad31b53850dd584352dc6b54d17a49fb5a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

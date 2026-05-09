@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-birth",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-birth",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-birth",
+  "title": "Register a birth",
+  "summary": "This page provides information on how and when to register a baby's birth in NSW.",
+  "topics": [
+    "register-a-birth",
+    "new-baby",
+    "nsw-birth-registration",
+    "birth-certificate"
+  ],
+  "intro": "You should register your baby within 60 days of the birth.\n\nAfter 60 days, you can still register a birth but you may be asked for additional details. The registration can also take longer to process.\n\nParents have 180 days to register their baby’s birth if their child is born with variations of sex characteristics that do not allow for an easy assignment of sex.\n\nIt's free to register a birth. There is a fee if you want to order a birth certificate.",
+  "who_can_apply": [
+    "You are the parent of the baby and the baby was born in NSW.",
+    "Other people such as grandparents and case workers can register a birth using the paper form application method.",
+    "If the baby was born in Wodonga and the parent lives in Albury, the registration can be done in either NSW or Victoria, but not both."
+  ],
+  "what_you_need": [
+    "Identity documents for each parent listed on the birth registration.",
+    "Full name, address, and contact details.",
+    "Place of birth.",
+    "The mother's surname at the time of her birth.",
+    "Occupation.",
+    "Address during most of the pregnancy.",
+    "Date and place of marriage (if applicable).",
+    "Full name, date, and place of birth of older children from the relationship or a different relationship (if applicable).",
+    "Full name, date, time, and place of birth of the baby.",
+    "Birth weight in grams.",
+    "3 forms of current identity documents.",
+    "If visiting a service centre, bring original identity documents (digital versions of driver licence or Medicare card cannot be used)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Start your application and follow the prompts. Note: You can save your application to finish it later, but it must be within 14 days. After 14 days, the application expires and you will need to start a new one.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the form Birth Registration Statement – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/noindex/2025-02/BDM-birth-registration-statement.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Submit the completed form with the required identification documents:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "choosing a name",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/choosing-a-name"
+    },
+    {
+      "text": "Birth Registration Statement – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-02/BDM-birth-registration-statement.pdf"
+    },
+    {
+      "text": "Births – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "order a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Learn more about the documents you can use",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "find a location near you",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "visit our Contact us page",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to register a baby's birth?",
+      "a": "You should register your baby within 60 days of the birth. If the baby is born with variations of sex characteristics that do not allow for an easy assignment of sex, parents have 180 days to register the birth.",
+      "link": null
+    },
+    {
+      "q": "Is it free to register a birth?",
+      "a": "Registering a birth is free. There is a fee only if you want to order a birth certificate.",
+      "link": null
+    },
+    {
+      "q": "What do I need to register a birth online?",
+      "a": "You will need identity documents for each parent listed on the birth registration. For online registration, you can enter licence and card numbers instead of uploading copies.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:03Z",
+    "last_modified": "21 April 2026",
+    "html_sha1": "c7dbd081ede8a9248487b0ac3730a6d0cd5697ce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

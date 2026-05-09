@@ -1,0 +1,201 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-death-certificate",
+  "title": "Apply for a death certificate",
+  "summary": "You can apply for an official NSW death certificate online, by post, or in person at a service centre, though the certificate must be sent by the Registry.",
+  "topics": [
+    "death-certificate",
+    "nsw-registry-of-births-deaths-marriages",
+    "apply-online"
+  ],
+  "intro": "A NSW standard death certificate is the official certified copy of registration data held by the NSW Registry of Births, Deaths & Marriages.\n\nFor the certificate of a death that occurred in NSW, you can apply online, by post, or in person at a service centre.\n\nCertificates are sent by the Registry, using registered post. You cannot get a certificate from a Service NSW Centre.",
+  "who_can_apply": [
+    "The next of kin named on the death certificate (e.g., current spouse, parent, or child of the deceased).",
+    "The funeral director (must apply within 30 days of the death registration).",
+    "The executor of the estate.",
+    "The solicitor acting for the next of kin of the estate.",
+    "A relative not listed on the certificate, provided the deceased had no living spouse, children, or parents.",
+    "A solicitor applying for a certificate on behalf of a client.",
+    "Other applicants must satisfy specific conditions if not named on the death certificate and are not a relative."
+  ],
+  "what_you_need": [
+    "The details of the death.",
+    "Your/applicant's personal and contact details.",
+    "Personal identity documents as specified on the form.",
+    "A scanner or phone/tablet camera to upload required documentation copies.",
+    "Company documents (if applicable).",
+    "Evidence that you have permission to be provided with the death certificate (if applicable).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select and upload copies of all the required identification documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Read and acknowledge the declaration.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your payment information.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Submit your application for processing.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Download and complete the Death Certificate Application – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-death-certificate.pdf"
+    },
+    {
+      "n": 9,
+      "text": "Lodge it with the required documentation and payment using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you begin filling in the online application form and want to save it to complete later, you're able to resume your application.",
+      "link": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "You can check the status of your application online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "If the death occurred 30 or more years ago and you don't need a certificate for official use, please refer to the Order a family history certificate transaction.",
+      "link": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "text": "Make sure that the copies of the documents you have scanned or photographed are clear and easy to read. The file types can be TIFs, JPGs or PDFs (no spaces or dashes in the filename).",
+      "link": null
+    },
+    {
+      "text": "When your application form and payment is received you'll be sent a tax invoice to the email address you provided. You also have the option to print the summary page, or your entire application form.",
+      "link": null
+    },
+    {
+      "text": "Processing times commence when applications are received in full compliance with Registry requirements, and exclude delivery time.",
+      "link": "https://www.nsw.gov.au/births-deaths-marriages/processing-times"
+    },
+    {
+      "text": "If you change your mind, or decide the certificate is no longer required, your application fee will not be refunded",
+      "link": null
+    },
+    {
+      "text": "We suggest you do not laminate your certificates. Where possible, identity documents should be kept in their original state.",
+      "link": null
+    },
+    {
+      "text": "Privacy",
+      "link": null
+    },
+    {
+      "text": "This information is being collected by the NSW Registry of Births, Deaths & Marriages for the purpose of assessing your application for a death certificate.",
+      "link": null
+    },
+    {
+      "text": "Service NSW does not collect or maintain any personal information in relation to this transaction.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "letter of authority",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-letter-of-authority.pdf"
+    },
+    {
+      "text": "ID Support NSW",
+      "url": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "Death Certificate Application – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-death-certificate.pdf"
+    },
+    {
+      "text": "Processing times",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages/processing-times"
+    },
+    {
+      "text": "NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages/about-us/privacy-collection-notice"
+    },
+    {
+      "text": "Solicitors applying for a death certificate – PDF",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/business-partners/solicitors-applying-for-certificates"
+    },
+    {
+      "text": "All about death certificates",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/death-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "resume your application",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "check the status of your application",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I get a death certificate?",
+      "a": "You can apply online, by post, or in person at a service centre. However, the certificate itself is sent by the Registry, using registered post, and cannot be obtained from a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for a death certificate?",
+      "a": "Eligible applicants include the next of kin (such as a current spouse, parent, or child), the funeral director (within 30 days of death registration), the executor of the estate, or the solicitor acting for the next of kin.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a death certificate?",
+      "a": "You will need the details of the death, your personal and contact details, personal identity documents, a scanner or phone/tablet camera for uploading copies, company documents (if applicable), evidence of permission, and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:58Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "d863260190bde5ed4dc36c92893457157e2c7c6d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

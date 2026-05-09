@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "nominate-someone-else-for-a-fine",
+  "title": "Nominate someone else for a fine",
+  "summary": "You can transfer a fine by nominating the person who was actually responsible for the offence.",
+  "topics": [
+    "fines",
+    "nominate-driver",
+    "offence-details",
+    "transport-nsw"
+  ],
+  "intro": "If you receive a fine (fine notice, fine reminder notice or overdue fine) but were not the driver or person responsible for the offence, you can transfer the fine by nominating the person responsible.\n\nSome offences, such as camera-detected offences and parking in a school zone, will apply demerit points to a driver licence, so you are required by law to nominate the person responsible. For offences such as littering from a vehicle, you should name the person responsible, even if you were the driver at the time.\n\nIf the fine is under a company name, then an authorised person from your company must nominate the driver or person responsible.",
+  "who_can_apply": [
+    "Received a fine (fine notice, fine reminder notice, or overdue fine) but were not the driver or person responsible for the offence."
+  ],
+  "what_you_need": [
+    "Your email address and phone number",
+    "Your fine notice number and the date of the offence",
+    "The details of the other driver or person responsible",
+    "Your organisation's Transport for NSW customer number (if applicable, found on the vehicle's registration certificate)",
+    "Statutory declaration for a fine notice: Individual – PDF",
+    "Statutory declaration for a fine notice: Organisation – PDF (if applying as a company)",
+    "If unable to apply online, you will need the required documents."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to myPenalty' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to name the driver or person responsible.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "An organisation's Transport for NSW customer number is found on the vehicle's registration papers.",
+      "link": null
+    },
+    {
+      "text": "You can be fined and have restrictions on your driver licence if you make a false nomination.",
+      "link": null
+    },
+    {
+      "text": "You must nominate the driver or person responsible by the due date on the fine notice.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Statutory declaration for a fine notice: Individual – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-02/revenue-nsw-statutory-declaration-form-individuals.pdf"
+    },
+    {
+      "text": "Statutory declaration for a fine notice: Organisation – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-02/revenue-nsw-statutory-declaration-organisations.pdf"
+    },
+    {
+      "text": "Nominate someone else for a fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/nominate-someone-else-for-a-fine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Request a review for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    },
+    {
+      "text": "Apply to go to court for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I have to nominate the person responsible for the fine?",
+      "a": "Yes, you are required by law to nominate the person responsible for offences such as camera-detected offences and parking in a school zone. You should also name the person responsible for offences like littering from a vehicle, even if you were the driver.",
+      "link": null
+    },
+    {
+      "q": "What if the fine is under a company name?",
+      "a": "An authorised person from your company must nominate the driver or person responsible.",
+      "link": null
+    },
+    {
+      "q": "How do I nominate someone else for a fine?",
+      "a": "Select the 'Go to myPenalty' button and follow the prompts to name the driver or person responsible.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:02Z",
+    "last_modified": "3 October 2024",
+    "html_sha1": "e4f88c6008176f8c0515ad1e4df474c3f8f32bdf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

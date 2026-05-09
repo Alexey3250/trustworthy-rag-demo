@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/small-business-superannuation-clearing-house-sbsch",
+  "source_url": "https://www.service.nsw.gov.au/guide/small-business-superannuation-clearing-house-sbsch",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "small-business-superannuation-clearing-house-sbsch",
+  "title": "Small Business Superannuation Clearing House (SBSCH)",
+  "summary": "Small businesses can pay employee superannuation contributions through the ATO's Small Business Superannuation Clearing House (SBSCH).",
+  "topics": [
+    "small-business",
+    "superannuation",
+    "sbsch",
+    "super-contributions"
+  ],
+  "intro": "If you're running a small business, you have the option to pay your employees' superannuation contributions through the ATO's Small Business Superannuation Clearing House (SBSCH).\n\nYou send your employees' contributions to the SBSCH which then distributes the payments to your employees' nominated super funds.\n\nAs soon as your payment and instructions are accepted by the SBSCH your super guarantee obligations are met.\n\nIn addition to being able to make all your super contributions in the one transaction, the SBSCH:\n\nTo be eligible to use the SBSCH, your business must have:",
+  "who_can_apply": [
+    "Your business must meet specific criteria to be eligible to use the SBSCH."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Small Business Superannuation Clearing House",
+      "url": "https://www.ato.gov.au/Business/super-for-employers/paying-super-contributions/how-to-pay-super/small-business-superannuation-clearing-house/"
+    },
+    {
+      "text": "SuperStream",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-electronically-through-superstream"
+    },
+    {
+      "text": "aggregated turnover",
+      "url": "https://www.ato.gov.au/about-ato/using-our-website/definitions"
+    },
+    {
+      "text": "Online services for business",
+      "url": "https://onlineservices.ato.gov.au/business/BusinessLogin.html"
+    },
+    {
+      "text": "myGovID that has been linked to your business",
+      "url": "https://www.ato.gov.au/General/Online-services/Accessing-online-services-with-myGovID-and-RAM/"
+    },
+    {
+      "text": "myGov account",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Using ATO online services – individuals and sole traders",
+      "url": "https://www.ato.gov.au/online-services/online-services-for-individuals-and-sole-traders/ato-online-services-and-mygov/using-ato-online-services"
+    },
+    {
+      "text": "scheduled system maintenance",
+      "url": "https://www.ato.gov.au/online-services/system-maintenance"
+    },
+    {
+      "text": "Relationship Authorisation Manager (RAM)",
+      "url": "https://info.authorisationmanager.gov.au/"
+    },
+    {
+      "text": "SBSCH – Employee list spreadsheet – XLSX",
+      "url": "https://www.ato.gov.au/uploadedFiles/Content/SPR/downloads/sbsch_employee_list_wpns.xlsx"
+    },
+    {
+      "text": "Offer your employees a choice of super fund",
+      "url": "https://www.ato.gov.au/Business/Super-for-employers/Setting-up-super-for-your-business/Offer-employees-a-choice-of-super-fund/"
+    },
+    {
+      "text": "SBSCH troubleshooting",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-super-contributions/how-to-pay-super/small-business-superannuation-clearing-house/clearing-house-troubleshooting"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Use the superannuation guarantee contributions calculator",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-contributions-calculator"
+    },
+    {
+      "text": "Use the superannuation guarantee eligibility decision tool",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-eligibility-decision-tool"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the SBSCH work?",
+      "a": "You send your employees' contributions to the SBSCH, which then distributes the payments to your employees' nominated super funds. As soon as your payment and instructions are accepted by the SBSCH, your super guarantee obligations are met.",
+      "link": null
+    },
+    {
+      "q": "What are the benefits of using the SBSCH?",
+      "a": "In addition to being able to make all your super contributions in one transaction, the SBSCH offers other benefits.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:54Z",
+    "last_modified": "14 October 2025",
+    "html_sha1": "6ce037f114eb01cd48a521851799df9aad7c258d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

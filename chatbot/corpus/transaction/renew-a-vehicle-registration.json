@@ -1,0 +1,268 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-vehicle-registration",
+  "title": "Renew a vehicle registration online",
+  "summary": "You can renew your vehicle registration online if you meet certain eligibility criteria, and you may also be able to make changes to details like your usage type and the registration term.",
+  "topics": [
+    "vehicle-registration",
+    "renewing-online",
+    "ctp-insurance",
+    "safety-inspection"
+  ],
+  "intro": "If you meet certain eligibility criteria, you can renew your vehicle registration online.\n\nWhile renewing you may be able to make changes to details like your usage type and the registration term.\n\nIf you want to change the term, you must have bought compulsory third party (CTP) insurance for the same term. A change in registration term may also affect the inspection requirements.\n\nNote: When renewing a conditional registration (non-standard vehicle) online:",
+  "who_can_apply": [
+    "The vehicle is registered under the Common Expiry Date (CED) Scheme.",
+    "The vehicle is conditionally registered and requires changes to the operating conditions.",
+    "The vehicle is conditionally registered and requires an inspection.",
+    "The vehicle has been unregistered for more than 3 months (in which case you need to re-register it).",
+    "You ordered special number plates within the registration renewal period, and you have not received the new plates yet.",
+    "You cannot renew online and must visit a service centre if the above conditions apply."
+  ],
+  "what_you_need": [
+    "The vehicle plate number or the billing number (found on your paper or digital renewal notice and digital Certificate of Registration).",
+    "A compulsory third party (CTP) insurance policy (a green slip), unless the vehicle is a trailer, caravan, or has a conditional registration.",
+    "If required, an inspection report for light vehicles, as these reports are only valid for 6 months.",
+    "If the new registration expiry date will be more than 12 months after the previous registration renewal date when an inspection was required."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you are eligible to renew online.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Renew online' button and follow the prompts to renew the vehicle registration.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Keep a copy of the receipt for your records.",
+      "link": null
+    }
+  ],
+  "fees": "### How to pay\n\n### BPAY\n\nIf you choose to pay with BPAY, keep in mind that it takes 2 or 3 business days to process, and the registration will not be renewed until TfNSW receives the full payment. Read more about using BPAY to pay for your vehicle registration renewal.\n\n### In person\n\nIf you wish to visit a service centre and pay by cash, before you visit:\n\n### Fees\n\nFor a list of fees visit Vehicle registration fees.\n\n### Rebates and concessions\n\n### Pensioner Concession Card holders\n\nIf you hold a NSW Pensioner Concession Card you're entitled to free registration for one vehicle where you are recorded as the registered operator. You may also be eligible for automatic registration renewal (not applicable for conditional registrations). Visit Automatic rego renewal for pensioners to find out how it works.\n\n### Toll relief rebate\n\nEligible motorists can claim a rebate of up to $340 if they spend more than $60 a week on tolls.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When renewing your registration:",
+      "link": null
+    },
+    {
+      "text": "If you changed the term or usage, a new registration certificate will be mailed to the address of the registered operator within 7 days.",
+      "link": null
+    },
+    {
+      "text": "During the renewal process you may be offered (independent of your renewal fee) to offset your vehicle's carbon emissions by making a voluntary contribution. For more information, visit NSW Climate and Energy Action, Vehicle emissions offset scheme FAQ.",
+      "link": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/vehicle-emissions-offset-scheme-veos/vehicle-emissions-offset"
+    },
+    {
+      "text": "before it expires but you will need to have a renewal notice to do so (unless you’re renewing a conditional registration). A renewal notice can be generated up to 3 months earlier, by calling 13 77 88 or visiting a service centre.",
+      "link": "tel:137788"
+    },
+    {
+      "text": "after the expiry date and the new registration period will start from the date you make the payment however the expiry date remains the same – you will not get a full year of registration.",
+      "link": null
+    },
+    {
+      "text": "Information on Compulsory Green Slip insurance",
+      "link": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips"
+    },
+    {
+      "text": "Use the Green Slip calculator",
+      "link": "https://www.greenslips.nsw.gov.au/price-check"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Find a mobile safety check provider",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/find-a-mobile-safety-check-provider"
+    },
+    {
+      "text": "### Registration renewal terms",
+      "link": null
+    },
+    {
+      "text": "Learn more about vehicle registration renewal rules for standard and written-off vehicles.",
+      "link": null
+    },
+    {
+      "text": "### Renewal notices",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are sent out 4 to 6 weeks prior to the renewal due date.",
+      "link": null
+    },
+    {
+      "text": "### Digital Certificate of Registration",
+      "link": null
+    },
+    {
+      "text": "If you have opted in to digital vehicle registration you can access your digital Certificate of Registration in your MyServiceNSW Account. Your certificate is under the registration details for eligible vehicles.",
+      "link": null
+    },
+    {
+      "text": "### Conditional registration",
+      "link": null
+    },
+    {
+      "text": "A conditionally registered vehicle must be safe for use as detailed in the Certificate of Approved Operations. If you are renewing a conditional registration, a confirmation letter and QBE CTP insurance tax invoice will be mailed to the registered operator after you've renewed online.",
+      "link": null
+    },
+    {
+      "text": "Learn more about Conditional registration or find vehicle sheets for non-standard vehicles.",
+      "link": null
+    },
+    {
+      "text": "### Renewing before or after the expiry date",
+      "link": null
+    },
+    {
+      "text": "You can renew your registration online up to 3 months:",
+      "link": null
+    },
+    {
+      "text": "Read more about Early or late registration renewal.",
+      "link": null
+    },
+    {
+      "text": "### Green Slip and CTP insurance links",
+      "link": null
+    },
+    {
+      "text": "### Unregistered vehicles",
+      "link": null
+    },
+    {
+      "text": "If you do not renew the registration by the expiry date, your vehicle is unregistered. Driving an unregistered vehicle is illegal and carries heavy penalties, and can mean your vehicle is not covered by CTP insurance.",
+      "link": null
+    },
+    {
+      "text": "Read the rules on unregistered vehicles.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "conditional registration",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/apply-for-conditional-vehicle-registration"
+    },
+    {
+      "text": "requires an inspection",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/renew-transfer-or-cancel-conditional-registration"
+    },
+    {
+      "text": "safety inspection report",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "Vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Vehicle emissions offset scheme FAQ",
+      "url": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/vehicle-emissions-offset-scheme-veos/vehicle-emissions-offset"
+    },
+    {
+      "text": "vehicle registration renewal rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration"
+    },
+    {
+      "text": "vehicle sheets for non-standard vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    },
+    {
+      "text": "Early or late registration renewal",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/early-or-late-registration-renewal"
+    },
+    {
+      "text": "Compulsory Green Slip insurance",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips"
+    },
+    {
+      "text": "Green Slip calculator",
+      "url": "https://www.greenslips.nsw.gov.au/price-check"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Find a mobile safety check provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/find-a-mobile-safety-check-provider"
+    },
+    {
+      "text": "unregistered vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "unregistered for more than 3 months",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle"
+    },
+    {
+      "text": "re-register it",
+      "url": "https://www.service.nsw.gov.au/services/registering-vehicle"
+    },
+    {
+      "text": "Common Expiry Date (CED) Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/bulk-register-fleet-vehicles-with-a-common-expiry-date"
+    },
+    {
+      "text": "visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "using BPAY to pay for your vehicle registration renewal",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    },
+    {
+      "text": "Automatic rego renewal for pensioners",
+      "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    },
+    {
+      "text": "claim a rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "text": "digital vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do if my vehicle is conditionally registered and requires an inspection?",
+      "a": "You must renew the registration within 6 months of the inspection report date. You will need an inspection report for light vehicles, as they are only valid for 6 months.",
+      "link": null
+    },
+    {
+      "q": "How do I pay for my vehicle registration renewal online?",
+      "a": "If you pay with BPAY, the payment can take 2 or 3 business days to process, and the registration will not be renewed until TfNSW receives the full payment.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to renew a vehicle registration online?",
+      "a": "You can renew online if the vehicle is registered under the Common Expiry Date (CED) Scheme, or if it is conditionally registered and does not require an inspection, or if it is a light vehicle that is not more than 5 years old.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:03Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "a5a71b423dbe42eab601a10d0c186ac6517d2dc6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

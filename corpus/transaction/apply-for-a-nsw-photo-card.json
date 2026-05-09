@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-nsw-photo-card",
+  "title": "Apply for a NSW Photo Card",
+  "summary": "Learn about and apply for a NSW Photo Card to prove your identity if you do not have a NSW Driver Licence.",
+  "topics": [
+    "nsw-photo-card",
+    "proof-of-identity",
+    "service-nsw",
+    "driver-licence"
+  ],
+  "intro": "If you do not have photo identification such as a NSW Driver Licence, you can use a NSW Photo Card to prove your identity in most places a driver licence is recognised.\n\nYou cannot use a NSW Photo Card as identification or in place of a NSW Driver Licence in certain situations, including some online applications. Always check the proof of identity requirements for details.\n\nThe Photo Card has the same security features as the NSW Driver Licence and shows your name, address, date of birth and photo. It is valid for 5 years (or 10 years for eligible customers aged 21 and over).\n\nGetting a Photo Card is voluntary. It has the same application process as a NSW Driver Licence.\n\nVisit a Service NSW Centre and apply in person for your Photo Card.",
+  "who_can_apply": [
+    "Must be a NSW resident",
+    "Must be aged 16 or over",
+    "Must be able to provide acceptable proof of identity documents"
+  ],
+  "what_you_need": [
+    "The PDF form: 'NSW Photo Card Application' (https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf)",
+    "Your concession card details (if applicable)",
+    "Your driver licence or expired Photo Card",
+    "Necessary identity documents"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather your driver licence or expired Photo Card, or the necessary identity documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre to:",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Use our search tool to find a service centre or mobile service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 6,
+      "text": "You can visit during Quiet Hour, available at most service centres.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    }
+  ],
+  "fees": "### Fees\n\nFee amounts for Photo Cards depend on whether you hold a NSW Drivers Licence and when you apply for one.\n\nView a list of NSW Photo Card fees.\n\n### Paying by cash\n\nTo pay with cash, check that the service centre you plan to visit accepts cash payments. Check which locations do not accept cash.\n\n### Who is eligible for a free NSW Photo Card\n\nYou may be eligible for a free NSW Photo Card if you have one of the following:",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Photo Card Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "text": "Proving your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "NSW Photo Card fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/photo-cards/fees-and-concessions"
+    },
+    {
+      "text": "Photo Cards – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/photo-cards"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check which locations do not accept cash",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#in-person"
+    },
+    {
+      "text": "Use our search tool",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "visit during Quiet Hour",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    },
+    {
+      "text": "photo guidelines",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/service-centre-photos"
+    },
+    {
+      "text": "apply for a NSW Photo Card using a photo kit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-or-replace-a-photo-card-using-a-photo-kit-form"
+    },
+    {
+      "text": "Applying for a Photo Card – Visual Story",
+      "url": "https://www.service.nsw.gov.au/visual-story/applying-for-a-photo-card"
+    },
+    {
+      "text": "Replace a NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-photocard"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a NSW Photo Card?",
+      "a": "The NSW Photo Card is an alternative form of identification that can be used in most places where a driver licence is recognized. It shows your name, address, date of birth, and photo.",
+      "link": null
+    },
+    {
+      "q": "Can I use a NSW Photo Card instead of a NSW Driver Licence?",
+      "a": "You can use it in most places a driver licence is recognized, but you cannot use it in certain situations, including some online applications.",
+      "link": null
+    },
+    {
+      "q": "How long is a NSW Photo Card valid for?",
+      "a": "It is valid for 5 years, or 10 years for eligible customers aged 21 and over.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:59Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "ea1451d2d7e270def0b1b495f0da5a3ecccfa564",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

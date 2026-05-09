@@ -1,0 +1,185 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-learner-driver-licence",
+  "title": "Apply for a learner driver licence",
+  "summary": "Learn how to apply for a learner driver licence, including the requirements and steps needed.",
+  "topics": [
+    "learner-driver-licence",
+    "service-nsw",
+    "driver-knowledge-test",
+    "apply-for-licence"
+  ],
+  "intro": "To apply for a learner driver licence, you must be 16 years of age or older. You need to have passed a Driver Knowledge Test (DKT) online or in-person at a Service NSW Centre.\n\nIf you passed the test in DKT online you’ll still need to visit a service centre to prove your identity and have your eyes tested.\n\nYou can apply for a NSW Photo Card at the same time and take advantage of paying a reduced application fee for it.",
+  "who_can_apply": [
+    "Be 16 years of age or older",
+    "Have passed the Driver Knowledge Test"
+  ],
+  "what_you_need": [
+    "Your Photo Card or concession card details",
+    "A Fitness to Drive medical assessment (if you have a condition that affects your driving)",
+    "Your glasses or contact lenses (if you wear them)",
+    "Your payment",
+    "The completed 'Licence Application' PDF form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Licence Application – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Tick the check box to apply for a Photo Card (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you’re under 25, you must hold your learner licence for at least 12 months before you apply for a provisional P1 licence. You must complete 120 hours of supervised driving practice, including 20 hours of night driving. If you are 25 years or older, you are not required to log your driving hours in a log book and you can apply for your provisional P1 licence at any time after obtaining your learner licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    },
+    {
+      "text": "If you live with disability, visit Your driver or rider licence – for people with disability to find out the options that are available to you when getting your NSW driver licence.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/your-licence"
+    },
+    {
+      "text": "The Photo Card is voluntary – you do not have to have one, but you may find it useful to prove your identity in situations not related to driving.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    },
+    {
+      "text": "The Driver Licensing Access Program supports disadvantaged communities enter or re-enter the NSW driver licensing system. The program helps with the management of outstanding fines, literacy support, understanding road rules, preparation for licensing tests and driving experience.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licensing-access-program"
+    },
+    {
+      "text": "The Get licensed, get legal, get work program helps with the literacy, numeracy and computer skills needed to pass the DKT.",
+      "link": "https://barabarang.org.au/services/the-driving-program/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "application fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-nsw-photo-card-fees"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Fitness to Drive medical assessment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/fitness-to-drive/medical-assessments"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Your driver or rider licence – for people with disability",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/your-licence"
+    },
+    {
+      "text": "Driver Licensing Access Program",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licensing-access-program"
+    },
+    {
+      "text": "Get licensed, get legal, get work",
+      "url": "https://barabarang.org.au/services/the-driving-program/"
+    },
+    {
+      "text": "Driver Knowledge Test",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests/driver-knowledge-test"
+    },
+    {
+      "text": "Find a Safer Drivers Course provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/find-safer-drivers-course-providers"
+    },
+    {
+      "text": "Learner driver rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence#toc-learner-driver-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "apply for your provisional P1 licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Road User Handbook (includes language translations)",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "Do your Driver Knowledge Test (DKT) online",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    },
+    {
+      "text": "Book a Driver Knowledge Test (DKT) in-person",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-knowledge-test-dkt-in-person"
+    },
+    {
+      "text": "Get the learner driver log book app",
+      "url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app"
+    },
+    {
+      "text": "Replace a learner driver log book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book"
+    },
+    {
+      "text": "Apply for a learner rider licence (unserviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-unserviced-area"
+    },
+    {
+      "text": "Apply for a learner rider licence (MLTTS serviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-mltts-serviced-area"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum age to apply for a learner driver licence?",
+      "a": "You must be 16 years of age or older.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do after passing the Driver Knowledge Test (DKT)?",
+      "a": "If you passed the DKT online, you still need to visit a service centre to prove your identity and have your eyes tested.",
+      "link": null
+    },
+    {
+      "q": "Can I apply for a Photo Card when I apply for a learner licence?",
+      "a": "Yes, you can apply for a NSW Photo Card at the same time and receive a reduced application fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:00Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "b729a51f9a4077388afc8586491a41401e89f4e3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

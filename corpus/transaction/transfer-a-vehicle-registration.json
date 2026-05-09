@@ -1,0 +1,215 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-a-vehicle-registration",
+  "title": "Transfer a vehicle registration",
+  "summary": "Find out how to transfer the ownership of a NSW-registered vehicle to update Transport for NSW records.",
+  "topics": [
+    "transfer-vehicle-registration",
+    "nsw-vehicle-ownership",
+    "service-nsw"
+  ],
+  "intro": "When a NSW-registered vehicle changes ownership, Transport for NSW needs to update its records. To do this, it requires:",
+  "who_can_apply": [
+    "You are transferring the ownership of a vehicle registered in NSW.",
+    "The previous owner/seller submitted a Notice of Disposal (NOD).",
+    "You bought the vehicle due to the death of the owner.",
+    "You are transferring the registration as the carer or guardian of the vehicle’s owner.",
+    "The vehicle is a heavy vehicle with a gross vehicle mass of over 4.5 tonnes.",
+    "The vehicle has special or personalised number plates that you do not want to keep.",
+    "The vehicle’s previous NSW registration expired more than 3 months ago.",
+    "You are entitled to a stamp duty exemption."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Your concession details (if applicable).",
+    "The purchase date of the vehicle.",
+    "The purchase price or market price of the vehicle (whichever is higher).",
+    "Payment for the completed PDF form – 'Application for Transfer of Registration'.",
+    "Your proof of identity.",
+    "Your concession details (if applicable).",
+    "The vehicle's certificate of registration, completed and signed on the back by the seller, or other proof of registration entitlement.",
+    "Your payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Transfer online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to transfer the registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When you buy a vehicle that has a current NSW registration, the compulsory third party (CTP) insurance (green slip) will automatically transfer to you.",
+      "link": null
+    },
+    {
+      "text": "If you are transferring a current NSW registration, you will not need a safety inspection report (pink slip).",
+      "link": null
+    },
+    {
+      "text": "If special or personalised number plates have been transferred with the vehicle, you take on all the rights, responsibilities and annual fees that go with those plates.",
+      "link": null
+    },
+    {
+      "text": "Contact your provider to update your vehicle details if you have an e-toll or toll pass account. You can open an account if you do not already have one.",
+      "link": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Read the guide for more about how to Transfer ownership of a NSW-registered vehicle. The guide includes information for a vehicle:",
+      "link": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "stamp duty exemption",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/stamp-duty-when-buying-a-vehicle#toc-exemptions"
+    },
+    {
+      "text": "transfer fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "exempt",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty/exemptions"
+    },
+    {
+      "text": "Application for Transfer of Registration'",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070107-transfer-of-reg.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Buying and registering a vehicle – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/buying-and-registering-a-vehicle"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notice of Disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "interstate",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "text": "death of the owner",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "carer or guardian of the vehicle’s owner",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    },
+    {
+      "text": "special or personalised number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "NSW registration expired",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle"
+    },
+    {
+      "text": "added to your account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "market price",
+      "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle"
+    },
+    {
+      "text": "registration stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "e-toll or toll pass account",
+      "url": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Buying a vehicle guide",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "Change the vehicle details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vehicle-details-e-toll-account"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to transfer the vehicle registration?",
+      "a": "You must transfer the registration when a NSW-registered vehicle changes ownership.",
+      "link": null
+    },
+    {
+      "q": "What do I need to transfer the registration online?",
+      "a": "You need a MyServiceNSW Account, your concession details (if applicable), the purchase date, the purchase price or market price of the vehicle (whichever is higher), proof of identity, and your payment.",
+      "link": null
+    },
+    {
+      "q": "What is required if the previous owner did not submit a Notice of Disposal?",
+      "a": "The content does not specify what to do if the previous owner has not submitted a Notice of Disposal.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:05Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "31b022f2dd9ed7daddbe731266defaa0ed9a514b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-a-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-a-fine",
+  "title": "Pay a fine",
+  "summary": "This page provides information on how to pay a fine notice, fine reminder notice, or overdue fine.",
+  "topics": [
+    "pay-a-fine",
+    "fine-notice",
+    "overdue-fine",
+    "service-nsw"
+  ],
+  "intro": "If you receive a fine (fine notice, fine reminder notice or overdue fine), such as a vehicle-related fine, you can pay it or:\n\nIf payment is made after the due date, further costs may apply.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your fine (fine notice, fine reminder notice or overdue fine)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to pay your fine.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "View, pay or query your fine with your MyServiceNSW Account.",
+      "link": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "n": 4,
+      "text": "View or pay your fine with the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 5,
+      "text": "use the location finder to check opening times and payment methods accepted",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 6,
+      "text": "check the locations where cash is not accepted.",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Fines – Revenue NSW",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines"
+    },
+    {
+      "text": "Pay your fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/pay-your-fine"
+    },
+    {
+      "text": "Authority to act – Revenue NSW",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/forms/fines/authority"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a payment plan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "request a review",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "nominate the person responsible",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "view images of the offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    },
+    {
+      "text": "apply to go to court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    },
+    {
+      "text": "your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "use the location finder",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to pay my fine?",
+      "a": "You will need your fine notice, fine reminder notice, or overdue fine.",
+      "link": null
+    },
+    {
+      "q": "How can I pay my fine?",
+      "a": "You can pay your fine by selecting the 'Pay online' button, following the prompts, or using your MyServiceNSW Account or the Service NSW app.",
+      "link": null
+    },
+    {
+      "q": "What happens if I pay my fine after the due date?",
+      "a": "If payment is made after the due date, further costs may apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:02Z",
+    "last_modified": "13 June 2025",
+    "html_sha1": "bfb071589cb302b91928446b8606f6c06a0c3c8e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

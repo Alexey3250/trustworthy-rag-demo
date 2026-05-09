@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/having-a-baby",
+  "source_url": "https://www.service.nsw.gov.au/guide/having-a-baby",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "having-a-baby",
+  "title": "Having a baby",
+  "summary": "This page provides information and links for parents on various aspects of having a baby, including financial support, registering the birth, and obtaining certificates.",
+  "topics": [
+    "having-a-baby",
+    "parental-leave",
+    "birth-registration",
+    "newborn-support",
+    "family-tax-benefit"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Parents or guardians expecting or who have recently had a baby."
+  ],
+  "what_you_need": [
+    "Information regarding Parental Leave Pay, Family Tax Benefit (FTB), Newborn Upfront Payment and Newborn Supplement, and Medicare Safety Nets."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Parental Leave Pay",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/parental-leave-pay"
+    },
+    {
+      "text": "Family Tax Benefit (FTB)",
+      "url": "https://www.servicesaustralia.gov.au/family-tax-benefit"
+    },
+    {
+      "text": "Newborn Upfront Payment and Newborn Supplement",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/newborn-upfront-payment-and-newborn-supplement"
+    },
+    {
+      "text": "Medicare Safety Nets",
+      "url": "https://www.servicesaustralia.gov.au/medicare-safety-nets"
+    },
+    {
+      "text": "handy tool",
+      "url": "https://www.centrelink.gov.au/custsite_pfe/pymtfinderest/paymentFinderEstimatorPage.jsf?wec-appid=pymtfinderest&wec-locale=en_US#stay"
+    },
+    {
+      "text": "unpaid parental leave",
+      "url": "https://www.fairwork.gov.au/leave/maternity-and-parental-leave"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register the birth online",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "resume an online birth certificate application",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "check the status of your online birth certificate application",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Recognition of Early Pregnancy Loss certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-of-early-pregnancy-loss"
+    },
+    {
+      "text": "add another parent’s details to the child’s birth registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-parent-to-a-birth-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What financial support is available when having a baby?",
+      "a": "Support options include Parental Leave Pay, Family Tax Benefit (FTB), Newborn Upfront Payment and Newborn Supplement, and Medicare Safety Nets.",
+      "link": null
+    },
+    {
+      "q": "How do I register a baby's birth?",
+      "a": "You can register a birth online using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "q": "What if I need to add another parent's details to the birth registration?",
+      "a": "There is a specific process to add another parent’s details to the child’s birth registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-parent-to-a-birth-registration"
+    },
+    {
+      "q": "How do I apply for a birth certificate?",
+      "a": "You can apply for a birth certificate through the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:50Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "9e04329a3a48234a59fa3294c799c45884f621c1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

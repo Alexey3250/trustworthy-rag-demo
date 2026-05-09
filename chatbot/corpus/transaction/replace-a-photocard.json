@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-photocard",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-photocard",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-photocard",
+  "title": "Replace a NSW Photo Card",
+  "summary": "Learn how to replace a lost, stolen, or damaged NSW Photo Card, or if your personal details have changed.",
+  "topics": [
+    "nsw-photo-card",
+    "replace-card",
+    "service-nsw"
+  ],
+  "intro": "If your NSW Photo Card is lost, stolen or damaged, you'll need to replace it as soon as possible. You'll also need to replace it if your personal details change.\n\nYou can order a replacement NSW Photo Card online, or by visiting a Service NSW Centre.",
+  "who_can_apply": [
+    "Changed your address within the last 14 days",
+    "Ordered a replacement licence online in the last 12 months"
+  ],
+  "what_you_need": [
+    "NSW Driver Licence or NSW Photo Card",
+    "An Online Services account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Accept the Terms and Conditions and privacy statement.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Sign up or log in to your Online Services account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to replace your NSW Photo Card online.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and fill in the NSW Photo Card application or replacement – PDF form.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Visit a service centre to submit your form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll need to visit a service centre if:",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are posted generally within 6 weeks of the card's expiry date.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proving your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "NSW Photo Card application or replacement – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "text": "Photo Cards – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/photo-cards"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "Replace a NSW Driver Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I replace my NSW Photo Card?",
+      "a": "You can order a replacement NSW Photo Card online or by visiting a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to replace a NSW Photo Card?",
+      "a": "You may be eligible if you have changed your address within the last 14 days, or if you ordered a replacement licence online in the last 12 months.",
+      "link": null
+    },
+    {
+      "q": "What do I need to replace my NSW Photo Card?",
+      "a": "You need an NSW Driver Licence or NSW Photo Card, and an Online Services account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:04Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "9b1630e50614901999373c449b90fc5a6eb396ea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

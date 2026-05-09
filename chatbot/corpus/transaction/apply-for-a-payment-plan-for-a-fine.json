@@ -1,0 +1,143 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-payment-plan-for-a-fine",
+  "title": "Apply for a payment plan for a fine",
+  "summary": "You can set up a payment plan to pay your fine or overdue fine over a longer period using smaller instalments.",
+  "topics": [
+    "fines",
+    "payment-plan",
+    "overdue-fine",
+    "revenue-nsw"
+  ],
+  "intro": "If you cannot pay your fine or overdue fine in full by the due date, you can pay over a longer period by setting up a payment plan.\n\nA payment plan allows you to break down your payment into smaller amounts that are made via instalments. When you set up a payment plan, you pay an agreed sum of money weekly or fortnightly until the balance is cleared.\n\nYou may be eligible to repay your fines by doing unpaid work, courses, counselling, mentoring or treatment programs, through a Work and Development Order. Call 1300 478 879 before your fine's due date for more information.",
+  "who_can_apply": [
+    "Cannot pay the fine or overdue fine in full by the due date."
+  ],
+  "what_you_need": [
+    "The fine reference number (printed on the fine notice)",
+    "Your personal and contact details",
+    "Your licence number or Transport for NSW customer number",
+    "Your vehicle's registration number (if applicable)",
+    "The amount you are able to pay",
+    "Your Centrelink details (if you wish for repayments to be deducted from your Centrelink payment)",
+    "If applying as a company: company's name, ACN/ABN, and contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Call Revenue NSW on 1300 138 118.",
+      "link": "tel:1300138118"
+    },
+    {
+      "n": 2,
+      "text": "Submit an online enquiry.",
+      "link": "https://www.apps09.revenue.nsw.gov.au/customer_service/forms/fines/enquiry"
+    },
+    {
+      "n": 3,
+      "text": "Call Revenue NSW on 1300 138 118 if you want to apply to have your fine early enforced so that you can pay by instalments.",
+      "link": "tel:1300138118"
+    },
+    {
+      "n": 4,
+      "text": "If your fine is overdue and you have received an overdue fine notice, you can set up a payment plan for an overdue fine online.",
+      "link": "https://www.apps09.revenue.nsw.gov.au/customer_service/fss/"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Failure to finalise a fine may lead to recovery action. This may include suspension of your licence, cancellation of your registration, taking money from your bank account or wages, ordering the sheriff to take your goods or property and sell them, an examination notice or other recovery action.",
+      "link": null
+    },
+    {
+      "text": "If you can't afford to pay, please call 13 77 88 or visit a service centre before the due date on the fine.",
+      "link": "tel:137788"
+    },
+    {
+      "text": "Call 13 77 88 if you need a copy of your fine.",
+      "link": "tel:137788"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Work and Development Order",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/work-and-development-order"
+    },
+    {
+      "text": "online enquiry",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/forms/fines/enquiry"
+    },
+    {
+      "text": "set up a payment plan for an overdue fine online",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/fss/"
+    },
+    {
+      "text": "Set up a payment plan – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/payment-plan"
+    },
+    {
+      "text": "Pay your fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/pay-your-fine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine"
+    },
+    {
+      "text": "Apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "Apply to write-off an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine"
+    },
+    {
+      "text": "Apply to review an overdue fine in court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    },
+    {
+      "text": "Requesting a Work and Development Order",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I pay my fine in smaller amounts?",
+      "a": "You can set up a payment plan to break down your payment into smaller amounts made via instalments, paid weekly or fortnightly.",
+      "link": null
+    },
+    {
+      "q": "What if I cannot pay my fine by the due date?",
+      "a": "You can set up a payment plan if you cannot pay your fine or overdue fine in full by the due date.",
+      "link": null
+    },
+    {
+      "q": "Can I repay my fines through unpaid work?",
+      "a": "You may be eligible to repay your fines by doing unpaid work, courses, counselling, mentoring, or treatment programs through a Work and Development Order. Call 1300 478 879 before your fine's due date for more information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:00Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "83d296836a3c0b8ce27e0b206aa0d8155ece156b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

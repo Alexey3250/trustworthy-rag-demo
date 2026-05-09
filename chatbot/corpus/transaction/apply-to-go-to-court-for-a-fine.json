@@ -1,0 +1,158 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-go-to-court-for-a-fine",
+  "title": "Apply to go to court for a fine",
+  "summary": "You can apply to have a fine matter heard and decided in court if you received a fine notice, reminder notice, or overdue fine.",
+  "topics": [
+    "fines",
+    "court",
+    "penalty",
+    "overdue-fine"
+  ],
+  "intro": "If you received a fine (fine notice, fine reminder notice or overdue fine), you can apply to have the matter heard and decided in court.\n\n### When to apply\n\nYou need to apply before the due date on your fine reminder notice.\n\nIf you paid your fine before the overdue date, you have 90 days from the date the fine was issued to go to court.\n\nIf your fine is overdue, see Apply to go to court for an overdue fine.\n\n### Other options\n\nBefore applying to go to court you should consider:\n\nIf you're having difficulty paying your fine, you can:\n\nVisit the NSW Government website for a step-by-step guide: Apply to go to court for a fine.",
+  "who_can_apply": [
+    "The person named on the fine notice.",
+    "The vehicle owner if there is no name on the notice.",
+    "The authorised representative of the person named on the notice, provided they complete the Authority to Act form."
+  ],
+  "what_you_need": [
+    "Your name, date of birth, and driver licence details.",
+    "Your residential address (PO boxes are not accepted) to post your Court Attendance Notice (CAN).",
+    "Your fine notice number.",
+    "The date of the offence.",
+    "For camera-detected seatbelt offences, you must nominate the driver for both driver and passenger fines."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to myPenalty' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the:",
+      "link": "https://www.nsw.gov.au/sites/default/files/2022-09/request-to-have-penalty-decided-in-court-indivdual.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Put a request in writing and send it by post to:Revenue NSWPO Box 786Strawberry Hills NSW 2012If you make a request in writing, you must include:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply to go to court for a fine",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/apply-to-go-to-court-for-a-fine"
+    },
+    {
+      "text": "Authority to Act",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/forms/fines/authority"
+    },
+    {
+      "text": "camera-detected seatbelt offences",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/seatbelts"
+    },
+    {
+      "text": "Request to Have a Fine Decided in Court Form – Individual – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-09/request-to-have-penalty-decided-in-court-indivdual.pdf"
+    },
+    {
+      "text": "Request to Have a Fine Decided in Court Form – Organisation – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-09/request-to-have-penalty-decided-in-court-organisation.pdf"
+    },
+    {
+      "text": "contact the court",
+      "url": "https://localcourt.nsw.gov.au/locations--lists-and-forms/cl-2.html"
+    },
+    {
+      "text": "online service",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/finesonline/login"
+    },
+    {
+      "text": "Fines – Revenue NSW",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to go to court for an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    },
+    {
+      "text": "requesting a review",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "nominating the person responsible",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "set up a payment plan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "request a Work and Development Order",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    },
+    {
+      "text": "apply to have your fine written-off",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine"
+    },
+    {
+      "text": "Going to local or small claims court",
+      "url": "https://www.service.nsw.gov.au/guide/going-to-local-or-small-claims-court"
+    },
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do I need to apply to go to court?",
+      "a": "You must apply before the due date on your fine reminder notice. If you paid your fine before the overdue date, you have 90 days from the date the fine was issued to go to court.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to have the fine matter heard in court?",
+      "a": "The person named on the fine notice, the vehicle owner (if no name is on the notice), or the authorised representative of the person named on the notice (who must complete the Authority to Act form).",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply to go to court?",
+      "a": "You need your name, date of birth, driver licence details, residential address (PO boxes are not accepted) for the Court Attendance Notice (CAN), your fine notice number, and the date of the offence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:01Z",
+    "last_modified": "10 March 2026",
+    "html_sha1": "53499d72ec4ba4abeb81c2c65c0395c9dea6e9c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

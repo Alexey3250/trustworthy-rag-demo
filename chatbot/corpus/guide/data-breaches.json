@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/data-breaches",
+  "source_url": "https://www.service.nsw.gov.au/guide/data-breaches",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "data-breaches",
+  "title": "Data breaches",
+  "summary": "Provides information and support following data breaches involving companies like Optus and Latitude Financial.",
+  "topics": [
+    "data-breaches",
+    "identity-theft",
+    "nsw-driver-licence",
+    "document-verification"
+  ],
+  "intro": "The NSW Government is working with both Latitude Financial (March 2023) and Optus (October 2022) to support impacted customers following data breaches of both companies.\n\nMore information can be found on the Optus website or the Latitude Financial website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Find a Service NSW location",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "ID support NSW – NSW Government",
+      "link": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "Cyber security, identity theft and scams",
+      "link": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "MyServiceNSW Account privacy collection notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Optus website",
+      "url": "https://www.optus.com.au/support/cyberresponse"
+    },
+    {
+      "text": "Latitude Financial website",
+      "url": "https://www.latitudefinancial.com.au/latitude-cyber-incident/"
+    },
+    {
+      "text": "pay for the replacement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "ID Support NSW website.",
+      "url": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.nsw.gov.au/id-support-nsw/contact/contact-form-id-support-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "replace your licence card online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "Find a Service NSW location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Cyber security, identity theft and scams",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "MyServiceNSW Account privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a replacement driver licence?",
+      "a": "You should replace your NSW driver licence, and you will be contacted by the breached company.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:44Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "5a3df70a51b3adce42d264448552e7f5d90b3ed3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-vehicle-registration",
+  "title": "Check a vehicle registration",
+  "summary": "You can check a vehicle's registration details online or using the Service NSW mobile app.",
+  "topics": [
+    "vehicle-registration",
+    "nsw-vehicles",
+    "service-nsw"
+  ],
+  "intro": "You can check a vehicle's registration details online or on the Service NSW mobile app. A free registration check includes:\n\nThe free registration check can only be run on vehicles previously or currently registered in NSW.\n\nRegistration details for your own vehicles can also be found in your MyServiceNSW Account and in the Service NSW mobile app under Registrations.",
+  "who_can_apply": [
+    "The vehicle must be previously or currently registered in NSW."
+  ],
+  "what_you_need": [
+    "The vehicle's NSW registration plate number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to check a vehicle's registration details.",
+      "link": null
+    },
+    {
+      "n": 1,
+      "text": "Open the Service NSW mobile app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 2,
+      "text": "Go to Services.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Registrations'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Scan or enter the number plate number.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you need more information such as if the vehicle has been written off, or if the vehicle, its number plate or engine are reported as stolen, you can pay for a vehicle history report.",
+      "link": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report"
+    },
+    {
+      "text": "If you intend on buying a vehicle from a private seller, you should visit the Personal Property Securities Register website to find out if there is any finance owing.",
+      "link": "https://www.ppsr.gov.au/"
+    },
+    {
+      "text": "If you need information for legal proceedings you can request a certified copy from: Transport for NSW Certificates Unit, Locked Bag 14, Grafton NSW 2460.",
+      "link": null
+    },
+    {
+      "text": "Service NSW and Transport for NSW are aware of a third party website offering vehicle registration checks. This site charges a fee for the registration check. Customers should note that Transport for NSW and Service NSW do not have any connection with other websites or services.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Personal Property Securities Register website",
+      "url": "https://www.ppsr.gov.au/"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    },
+    {
+      "text": "Queensland vehicle registration check",
+      "url": "https://www.service.transport.qld.gov.au/checkrego/public/Welcome.xhtml"
+    },
+    {
+      "text": "Victoria vehicle registration check",
+      "url": "https://www.vicroads.vic.gov.au/registration/buy-sell-or-transfer-a-vehicle/check-vehicle-registration"
+    },
+    {
+      "text": "South Australia vehicle registration check",
+      "url": "https://account.ezyreg.sa.gov.au/account/check-registration.htm"
+    },
+    {
+      "text": "Western Australia vehicle registration check",
+      "url": "https://online.transport.wa.gov.au/webExternal/registration/;jsessionid=fwv2872tUn95o4jZKj1ABkjo4BuEhZ6_YpLllqLQhNOapD-DA-yy!-1380193140!569426330?0="
+    },
+    {
+      "text": "Tasmania vehicle registration check",
+      "url": "https://transport.stgro-2780.saas.squiz.cloud/rego-status/search"
+    },
+    {
+      "text": "Australian Capital Territory vehicle registration check",
+      "url": "https://rego.act.gov.au/regosoawicket/public/reg/FindRegistrationPage?0"
+    },
+    {
+      "text": "Northern Territory vehicle registration check",
+      "url": "https://nt.gov.au/driving/rego/existing-nt-registration/rego-check"
+    },
+    {
+      "text": "Takata airbag recall online check – Federal Chamber of Automotive Industries",
+      "url": "https://www.fcai.com.au/is-my-airbag-safe/"
+    },
+    {
+      "text": "Takata airbag recalls list – ACCC",
+      "url": "https://www.productsafety.gov.au/recalls/compulsory-takata-airbag-recall/takata-airbag-recalls-list"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "vehicle history report",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What kind of vehicles can I check?",
+      "a": "The free registration check can only be run on vehicles previously or currently registered in NSW.",
+      "link": null
+    },
+    {
+      "q": "Where can I find my own vehicle's registration details?",
+      "a": "You can find your own vehicle's registration details in your MyServiceNSW Account or in the Service NSW mobile app under Registrations.",
+      "link": null
+    },
+    {
+      "q": "How do I check a vehicle's registration online?",
+      "a": "You can select the 'Check online' button and follow the prompts to check the vehicle's registration details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:02Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "e441a87fb830ac9baf774e46099e486df77cc960",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

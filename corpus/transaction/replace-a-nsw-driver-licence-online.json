@@ -1,0 +1,150 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-nsw-driver-licence-online",
+  "title": "Replace a NSW Driver Licence",
+  "summary": "Learn how to replace a lost, stolen, destroyed, or expired NSW driver licence, and find out if you can do it online or if you need to visit a Service NSW Centre.",
+  "topics": [
+    "driver-licence",
+    "nsw",
+    "replace",
+    "service-nsw"
+  ],
+  "intro": "In certain instances, you may find it necessary to replace your driver licence. For example, it could have been lost, stolen, destroyed, or involved in a data breach.\n\nIf you meet the eligibility criteria, you can order a replacement online.\n\nIf you do not meet the eligibility criteria, or you'd like to apply for a NSW Photo Card at the same time, you'll need to visit a Service NSW Centre.\n\nWhen you replace your licence, your driver licence number remains the same but your card number changes. This protects you from unauthorised Document Verification Service checks using the old card's information.",
+  "who_can_apply": [
+    "You changed your address within the last 14 days.",
+    "You ordered a replacement licence online in the last 12 months.",
+    "You want to apply for a NSW Photo Card at the same time.",
+    "You've been prohibited from driving a motor vehicle or riding a motorcycle in NSW or elsewhere since last obtaining your licence.",
+    "Your licence has been disqualified, cancelled, suspended, or expired.",
+    "You are not eligible to order a replacement online and will need to visit a service centre if any of the following apply."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The licence fee or your concession card details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account. Enter your driver licence or vehicle registration details if your account is new or you have not previously entered them.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to replace your NSW Driver Licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download or update your NSW Digital Driver Licence on the Service NSW app or print your interim paper licence.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Download and complete the form 'Replacement Application – PDF'.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "n": 7,
+      "text": "Visit a service centre with your completed form, or fill out the form at the service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The Document Verification Service (DVS) checks whether the information on your identity documents match the original records. The DVS is used by government organisations and large private organisations such as banks to verify a customer's identity.",
+      "link": null
+    },
+    {
+      "text": "If you have not received your card within 15 business days, call us on 13 77 88.",
+      "link": "tel:137788"
+    },
+    {
+      "text": "If your temporary paper licence is lost, stolen or damaged before you receive your new card, you can get a copy of it online – visit Reprint a NSW Driver Licence Receipt.",
+      "link": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "licence fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Replacement Application – PDF'",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Driver and rider licences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences"
+    },
+    {
+      "text": "Driver and rider licence publications – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-publications"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-driver-rider-and-heavy-vehicle-licence-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Reprint a NSW Driver Licence Receipt",
+      "url": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt"
+    },
+    {
+      "text": "NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "Data breaches",
+      "url": "https://www.service.nsw.gov.au/guide/data-breaches"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens to my driver licence number when I replace it?",
+      "a": "Your driver licence number remains the same, but your card number changes. This helps protect you from unauthorised Document Verification Service checks using the old card's information.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to replace their licence online?",
+      "a": "You may be eligible if you changed your address within the last 14 days, ordered a replacement online in the last 12 months, want to apply for a NSW Photo Card at the same time, or if your licence has been disqualified, cancelled, suspended, or expired.",
+      "link": null
+    },
+    {
+      "q": "What do I need to replace my licence?",
+      "a": "You need a MyServiceNSW Account and the licence fee or your concession card details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:04Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "ec58e01496bf144c2b59ea73e3cad32143baf42c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-review-for-a-fine",
+  "title": "Request a review for a fine",
+  "summary": "You can request a review of a fine notice, fine reminder notice, or overdue fine.",
+  "topics": [
+    "fines",
+    "review",
+    "revenue-nsw"
+  ],
+  "intro": "You can request a review of a fine (fine notice, fine reminder notice or overdue fine) if:\n\nThe outcome of the review could be the fine is to stand, you being let off with a caution or the fine being cancelled.\n\nRevenue NSW will consider your personal situation and any special circumstances that resulted in you receiving the fine.\n\nIf you have had your driver licence for more than 10 years and have a clear driving record, you may be eligible for a caution for some offences. If you are eligible, a caution will automatically be applied during the review process. Cautions do not apply for serious offences.\n\nBefore requesting a review, you should consider:\n\nFor more information, refer to the Review Assist Guide and Request a review.",
+  "who_can_apply": [
+    "You can request a review of a fine notice, fine reminder notice, or overdue fine.",
+    "If you have had your driver licence for more than 10 years and have a clear driving record, you may be eligible for a caution for some offences."
+  ],
+  "what_you_need": [
+    "Your date of birth and driver licence details (if applying online).",
+    "Your address, date of birth and driver licence number (if applying by post).",
+    "Your fine notice number.",
+    "The date of the offence.",
+    "Any supporting evidence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to myPenalty' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to request a review.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Make sure you request a review before the due date on the fine notice to avoid further costs or action.",
+      "link": null
+    },
+    {
+      "text": "Once you've submitted your request, you can return to the online service to track its progress.",
+      "link": "https://www.apps09.revenue.nsw.gov.au/customer_service/finesonline/login"
+    },
+    {
+      "text": "If the review is unsuccessful, you can apply to go to court for a fine.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    },
+    {
+      "text": "You can't request a review and apply to go to court at the same time, as this will cancel the review. Your matter will then only be heard in court.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Review Assist Guide",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/request-a-review/review-assist-guide"
+    },
+    {
+      "text": "Request a review",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/request-a-review"
+    },
+    {
+      "text": "online service",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/finesonline/login"
+    },
+    {
+      "text": "Fines – Revenue NSW",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "viewing camera images of the offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    },
+    {
+      "text": "nominate the person responsible",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "apply to go to court for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    },
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can happen if I request a review?",
+      "a": "The outcome of the review could be that the fine stands, you are let off with a caution, or the fine is cancelled. Revenue NSW will consider your personal situation and any special circumstances that resulted in you receiving the fine.",
+      "link": null
+    },
+    {
+      "q": "Am I eligible for a caution?",
+      "a": "If you have had your driver licence for more than 10 years and have a clear driving record, you may be eligible for a caution for some offences. If you are eligible, a caution will automatically be applied during the review process. Cautions do not apply for serious offences.",
+      "link": null
+    },
+    {
+      "q": "How do I request a review?",
+      "a": "Select the 'Go to myPenalty' button and follow the prompts to request a review.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:05Z",
+    "last_modified": "21 November 2025",
+    "html_sha1": "9b3cd8691704f9c96803ac316be4534e1b154d37",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

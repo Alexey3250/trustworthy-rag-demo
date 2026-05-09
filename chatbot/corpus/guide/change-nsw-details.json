@@ -1,0 +1,312 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/change-nsw-details",
+  "source_url": "https://www.service.nsw.gov.au/guide/change-nsw-details",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "change-nsw-details",
+  "title": "Change contact details on NSW Government services",
+  "summary": "This page provides guides and links to help you change your contact details and personal information across various NSW Government services.",
+  "topics": [
+    "change-details",
+    "nsw-government",
+    "contact-details",
+    "address-change"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "NSW Government service users",
+    "Individuals with various NSW licenses or cards (e.g., Seniors Card, driver licence, boat licence)",
+    "Employees or workers requiring updated registration details (e.g., Working with Children Check, NDIS Worker Check)"
+  ],
+  "what_you_need": [
+    "Your MyServiceNSW Account credentials",
+    "Relevant license or card details (e.g., Seniors Card, driver licence, boat licence)",
+    "Proof of identity or current details for the service you are updating"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Death and bereavement",
+      "link": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Change of name",
+      "link": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "Driving and transport and E-toll account",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change address and contact details on a Traffic Control Work Card",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/public/LicenceForm.mvc/New?formKey=FrmCommonAmendContactDetailsV2&agencyKey=AgencyCommon"
+    },
+    {
+      "text": "Update your contact details with Board of Surveying and Spatial Information (BOSSI)",
+      "url": "https://www.onegov.nsw.gov.au/gls_portal/public/licenceform.mvc/New?formKey=FrmCommonAmendContactDetailsV2&agencyKey=AgencyCommon&otherParams=landing:UpdateContactBOSSI"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Change your Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    },
+    {
+      "text": "Change the details on a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Moving house guide",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Manage your details with your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Change or correct personal details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    },
+    {
+      "text": "Change an email address or mobile number with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    },
+    {
+      "text": "Sign up for an Online Services (myRTA.com) account",
+      "url": "https://www.service.nsw.gov.au/transaction/sign-up-for-an-online-services-myrtacom-account"
+    },
+    {
+      "text": "Change address and contact details on a transport concession entitlement card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-transport-concession-entitlement-card"
+    },
+    {
+      "text": "Change address as a holder of a passenger exemption letter",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-as-a-holder-of-a-passenger-exemption-letter"
+    },
+    {
+      "text": "Report a patient's medical condition to Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-patients-medical-condition-to-transport-for-nsw"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (organisations)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations"
+    },
+    {
+      "text": "Change an organisation's name, address or contact details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-address-or-contact-details-with-transport-for-nsw-organisations"
+    },
+    {
+      "text": "Change the details on your bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-your-bus-driver-authority-online"
+    },
+    {
+      "text": "Change the customer details on a personal E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-personal-e-toll-account"
+    },
+    {
+      "text": "Add another person to an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/add-another-person-to-an-e-toll-account"
+    },
+    {
+      "text": "Change an additional contact's details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-an-additional-contact-on-an-e-toll-account"
+    },
+    {
+      "text": "Change the organisation's name or contact person on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account"
+    },
+    {
+      "text": "Change the customer details on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-business-e-toll-account"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    },
+    {
+      "text": "Change your pensioner or concession details on maritime products",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-pensioner-or-concession-details-on-maritime-products"
+    },
+    {
+      "text": "Change address and contact details on an aquatic event licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-an-aquatic-event-licence"
+    },
+    {
+      "text": "Change address and contact details on a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-private-mooring-licence"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change to a personalised vessel registration number",
+      "url": "https://www.service.nsw.gov.au/transaction/change-to-a-personalised-vessel-registration-number"
+    },
+    {
+      "text": "Update the details of a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-the-details-of-a-beekeeper-registration"
+    },
+    {
+      "text": "Change the licence class or details on a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Change your Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-update-details"
+    },
+    {
+      "text": "Change the Details registered with EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw"
+    },
+    {
+      "text": "Update your Automatic Mutual Recognition notification details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details"
+    },
+    {
+      "text": "Change details on a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card"
+    },
+    {
+      "text": "Change details on a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "Change details on a SafeWork NSW licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-safework-nsw-licence"
+    },
+    {
+      "text": "Change address and contact details on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Access the NSW Building Certifiers' Portal",
+      "url": "https://www.service.nsw.gov.au/referral/access-the-nsw-building-certifiers-portal"
+    },
+    {
+      "text": "Update details on an RSA/RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card"
+    },
+    {
+      "text": "Change the details on a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-liquor-licence"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Change the details on a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence"
+    },
+    {
+      "text": "Update your registered surveyor contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    },
+    {
+      "text": "Change address and contact details on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change the details on a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate"
+    },
+    {
+      "text": "Change the details on a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Change the details on a charitable fundraising authority",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-charitable-fundraising-authority"
+    },
+    {
+      "text": "Update your electoral enrolment details",
+      "url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details"
+    },
+    {
+      "text": "Update organ donation details",
+      "url": "https://www.service.nsw.gov.au/referral/update-organ-donation-details"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "E-toll account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change my address with the NSW Government?",
+      "a": "You can change your address with the NSW Government using this guide.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "q": "How do I update my details on a Seniors Card or Savers Card?",
+      "a": "You can change the details on a NSW Seniors Card or NSW Senior Savers Card using this guide.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "q": "Where can I change my contact details for Transport for NSW services?",
+      "a": "You can change personal details, email, or mobile numbers for various Transport for NSW services.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:43Z",
+    "last_modified": "14 April 2026",
+    "html_sha1": "4ac62152f35bba1331405bcafcf5f659a0c93187",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

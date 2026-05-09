@@ -1,0 +1,151 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/getting-married",
+  "source_url": "https://www.service.nsw.gov.au/guide/getting-married",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "getting-married",
+  "title": "Getting married",
+  "summary": "This page provides information on the processes for getting married, registering relationships, and changing names in NSW.",
+  "topics": [
+    "getting-married",
+    "relationships",
+    "name-changes"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must apply for a Notice of Intended Marriage before getting married.",
+    "Must apply to get married at a Registry Office."
+  ],
+  "what_you_need": [
+    "Notice of Intended Marriage application",
+    "Proof of divorce order (if applicable)",
+    "Documentation for registering a relationship"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Notice of Intended Marriage applicationBefore you get married you, must complete a Notice of Intended Marriage and give it to your authorised celebrant. This needs to be done at least a month prior to the wedding date.",
+      "link": null
+    },
+    {
+      "text": "Apply to get married at a Registry OfficeThe Registry conducts wedding ceremonies at a number of locations around Sydney, and will take care of all the legal requirements for you, from ceremony to certificate.",
+      "link": null
+    },
+    {
+      "text": "Apply for a single status certificateA single status certificate verifies that you've not been married in NSW during a specified period of time.",
+      "link": null
+    },
+    {
+      "text": "Request a proof of divorce orderYou can request a search of the records of the Family Court of Australia and the Federal Circuit Court of Australia to prove that a divorce was granted and finalised.",
+      "link": null
+    },
+    {
+      "text": "What to know when getting married – NSW Government",
+      "link": "https://www.nsw.gov.au/family-and-relationships/marriages"
+    },
+    {
+      "text": "Making it official – Australian Government",
+      "link": "https://www.servicesaustralia.gov.au/making-your-relationship-official"
+    },
+    {
+      "text": "Get married – Attorney-General's Department",
+      "link": "https://www.ag.gov.au/families-and-marriage/marriage/get-married"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change your surname after marriage",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-your-surname-after-marriage"
+    },
+    {
+      "text": "What to know when getting married – NSW Government",
+      "url": "https://www.nsw.gov.au/family-and-relationships/marriages"
+    },
+    {
+      "text": "Making it official – Australian Government",
+      "url": "https://www.servicesaustralia.gov.au/making-your-relationship-official"
+    },
+    {
+      "text": "Get married – Attorney-General's Department",
+      "url": "https://www.ag.gov.au/families-and-marriage/marriage/get-married"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notice of Intended Marriage application",
+      "url": "https://www.service.nsw.gov.au/transaction/notice-of-intended-marriage-application"
+    },
+    {
+      "text": "Apply to get married at a Registry Office",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-get-married-by-the-nsw-registry"
+    },
+    {
+      "text": "Apply for a single status certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-single-status-certificate"
+    },
+    {
+      "text": "Request a proof of divorce order",
+      "url": "https://www.service.nsw.gov.au/referral/request-a-proof-of-divorce-order"
+    },
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Check the status of your online marriage certificate application",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Apply to register a relationship in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    },
+    {
+      "text": "Withdraw your application to register your relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-your-application-to-register-your-relationship"
+    },
+    {
+      "text": "Apply for a registered relationship certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-registered-relationship-certificate"
+    },
+    {
+      "text": "Apply to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-revoke-a-registered-relationship"
+    },
+    {
+      "text": "Withdraw an application to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-an-application-to-revoke-a-registered-relationship"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start the process of getting married?",
+      "a": "You must first apply for a Notice of Intended Marriage. You can apply online using the Notice of Intended Marriage application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/notice-of-intended-marriage-application"
+    },
+    {
+      "q": "Where can I get married?",
+      "a": "You can apply to get married at a Registry Office.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-get-married-by-the-nsw-registry"
+    },
+    {
+      "q": "What if I am divorced and need to prove it?",
+      "a": "You can request a proof of divorce order.",
+      "link": "https://www.service.nsw.gov.au/referral/request-a-proof-of-divorce-order"
+    },
+    {
+      "q": "How do I register a relationship in NSW?",
+      "a": "You can apply to register a relationship in NSW. If you need to withdraw this application, you can use the withdrawal link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:47Z",
+    "last_modified": "31 October 2025",
+    "html_sha1": "bb0224162d97cfe4ef599343489a760b5be1d864",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

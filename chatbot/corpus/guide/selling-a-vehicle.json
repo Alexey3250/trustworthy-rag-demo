@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "selling-a-vehicle",
+  "title": "Selling a vehicle",
+  "summary": "This guide provides information on the steps and documents required when selling, gifting, or disposing of a vehicle.",
+  "topics": [
+    "selling-a-vehicle",
+    "vehicle-disposal",
+    "used-car-sale",
+    "vehicle-ownership"
+  ],
+  "intro": "If you sell, gift or dispose of a vehicle, such as a car, motorcycle or trailer, this is what you need to know.\n\nYou can also visit our guide for what to do when buying a vehicle.",
+  "who_can_apply": [
+    "The person selling, gifting, or disposing of a vehicle (car, motorcycle, or trailer)."
+  ],
+  "what_you_need": [
+    "Documents proving you are responsible for selling the vehicle.",
+    "General number plates (to replace personalised or special number plates).",
+    "Buyer's name, address, and signature.",
+    "Seller's name, address, and signature.",
+    "Vehicle details.",
+    "Date and time of sale."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Buying and selling vehicles – NSW Fair Trading",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles"
+    },
+    {
+      "text": "Make a complaint about a motor vehicle dealer or repairer",
+      "link": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer"
+    },
+    {
+      "text": "Working as a motor dealer – business obligations in NSW",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "benefits and costs of each option",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles/selling-a-used-car#toc-ways-to-sell-your-vehicle"
+    },
+    {
+      "text": "compulsory third party (CTP) insurance",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips"
+    },
+    {
+      "text": "transfer fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Buying and selling vehicles – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles"
+    },
+    {
+      "text": "Working as a motor dealer – business obligations in NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "market value of your vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle"
+    },
+    {
+      "text": "Pay any outstanding fines",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "apply for a replacement online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "safety inspection report (pink slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip"
+    },
+    {
+      "text": "transfer the number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "submit a notice of disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "transfer ownership of the vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "Make a complaint about a motor vehicle dealer or repairer",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do before I sell my vehicle?",
+      "a": "Before selling, decide if you want to sell privately or to a dealership. Research the market value, wash and clean the vehicle, take photos, pay outstanding fines, and ensure all finance obligations are met.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need when selling a vehicle?",
+      "a": "You must gather documents proving you are responsible for selling the vehicle. You must also replace your personalised or special number plates with general number plates.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do after the sale?",
+      "a": "After the sale, you must record the vehicle details, the date and time of sale, and the name, address, and signature of both the buyer and seller. The seller must submit a notice of disposal, and the buyer must transfer ownership.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:03:54Z",
+    "last_modified": "10 February 2026",
+    "html_sha1": "f7520569e611b0bb42ed1b178f7642c42765d1bb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-recreational-fishing-licence-1-year-or-3-year",
+  "title": "Apply for a recreational fishing licence (1-year or 3-year)",
+  "summary": "Find out when and how to apply for a recreational fishing licence for NSW waters.",
+  "topics": [
+    "fishing-licence",
+    "recreational-fishing",
+    "nsw-waters",
+    "apply-online"
+  ],
+  "intro": "A recreational fishing licence is required if you want to fish in NSW waters, both freshwater and saltwater.\n\nYou need a licence if:\n\nActivities in NSW freshwater or saltwater that require a licence include:",
+  "who_can_apply": [
+    "You must be fishing in NSW waters (freshwater or saltwater)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "A credit card",
+    "MyServiceNSW Account (to add a digital licence)",
+    "The Service NSW app (to add a digital licence)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select a licence duration, either 1 year or 3 years.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the date you want your licence to start.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select a type of licence, either a digital licence or plastic card.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 5,
+      "text": "Enter your personal details.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "n": 6,
+      "text": "Review your details and make sure they are correct before proceeding to payment.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "a credit card, and",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "proof of identity.",
+      "link": null
+    }
+  ],
+  "fees": "The NSW Government recreational fishing licence fees are:\n\nIf you need a licence for a shorter time you can apply for a 3-day or 1-month licence.\n\nYou must show your licence fee receipt if asked by an authorised officer.\n\nFor more information on recreational fishing and licence fees visit NSW Primary Industries website.\n\n### Fee exemptions\n\nNot everyone has to pay a fee for a recreational fishing licence.\n\nCheck if you are eligible for a recreational fishing fee exemption.\n\nIf you are eligible, you'll need to carry the necessary proof with you when you're fishing, in case you're called upon to show it.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Primary Industries website",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee"
+    },
+    {
+      "text": "recreational fishing fee exemption",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/exemptions"
+    },
+    {
+      "text": "NSW Fishing guides",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/info"
+    },
+    {
+      "text": "Fishing rules and regulations",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs"
+    },
+    {
+      "text": "Find a fishing fee agent",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/fishing-fee-agents"
+    },
+    {
+      "text": "Aboriginal cultural fishing",
+      "url": "https://www.dpi.nsw.gov.au/dpi/fishing/aboriginal-fishing"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/declaration-and-privacy-collection-notice"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a 3-day or 1-month licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month"
+    },
+    {
+      "text": "the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "your MyServiceNSW account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Replace a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to fish in NSW?",
+      "a": "Yes, a recreational fishing licence is required if you want to fish in NSW waters, both freshwater and saltwater.",
+      "link": null
+    },
+    {
+      "q": "What are the different licence options?",
+      "a": "You can apply for a 1-year or 3-year licence, or you can apply for a 3-day or 1-month licence for shorter periods.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month"
+    },
+    {
+      "q": "How do I apply for a licence?",
+      "a": "Select the 'Apply online' button, choose a duration (1 year or 3 years), enter the start date, select a licence type (digital or plastic card), enter your personal details, and review your information before paying.",
+      "link": null
+    },
+    {
+      "q": "Are there fee exemptions?",
+      "a": "Not everyone has to pay a fee. You should check if you are eligible for a recreational fishing fee exemption.",
+      "link": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/exemptions"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:00Z",
+    "last_modified": "15 December 2025",
+    "html_sha1": "34c62702efc2f995392be934629f6b8438e0583d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

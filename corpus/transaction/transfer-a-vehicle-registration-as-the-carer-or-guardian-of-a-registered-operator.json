@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator",
+  "title": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+  "summary": "Carers or guardians can transfer a vehicle registration on behalf of a registered operator by visiting a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "carer-guardian",
+    "transfer-registration",
+    "service-nsw"
+  ],
+  "intro": "If you're a carer or guardian and need to transfer the registration of a vehicle on behalf of the registered operator, please visit a Service NSW Centre.",
+  "who_can_apply": [
+    "You must be a carer or guardian needing to transfer the registration of a vehicle on behalf of a registered operator."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Transfer of Registration' (https://tfnswforms.transport.nsw.gov.au/45070107-transfer-of-reg.pdf)",
+    "The carer/guardian's pensioner concession card in the name of the registered operator",
+    "Proof of registration entitlement in the name of the registered operator or carer/guardian (https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement)",
+    "Proof of compulsory third party (CTP) insurance",
+    "An unregistered vehicle inspection report (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form in the applicant's name (the carer or guardian).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Application for Transfer of Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070107-transfer-of-reg.pdf"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Renew a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I go to transfer the vehicle registration?",
+      "a": "You must visit a Service NSW Centre to transfer the registration.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to transfer the registration?",
+      "a": "You need the 'Application for Transfer of Registration' form, the carer/guardian's pensioner concession card (in the registered operator's name), proof of registration entitlement, proof of CTP insurance, and an unregistered vehicle inspection report (if applicable).",
+      "link": null
+    },
+    {
+      "q": "Who should fill out the transfer form?",
+      "a": "The form must be completed in the name of the applicant (the carer or guardian).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:04:06Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "224e3c35bc3c6447f13dc8339eb058822be90b0f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

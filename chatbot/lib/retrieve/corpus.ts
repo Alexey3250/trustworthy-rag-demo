@@ -32,6 +32,25 @@ let cached: {
   embeddings?: EmbeddingsFile;
 } | null = null;
 
+async function loadDocsBatched(
+  entries: IndexEntry[],
+  corpusDir: string,
+  batchSize: number,
+): Promise<Map<string, CorpusDoc>> {
+  const docs = new Map<string, CorpusDoc>();
+  for (let i = 0; i < entries.length; i += batchSize) {
+    const chunk = entries.slice(i, i + batchSize);
+    await Promise.all(
+      chunk.map(async (entry) => {
+        const docPath = path.join(corpusDir, entry.path);
+        const raw = await fs.readFile(docPath, "utf-8");
+        docs.set(entry.path, JSON.parse(raw) as CorpusDoc);
+      }),
+    );
+  }
+  return docs;
+}
+
 export async function loadCorpus(): Promise<{
   index: CorpusIndex;
   docs: Map<string, CorpusDoc>;
@@ -42,14 +61,10 @@ export async function loadCorpus(): Promise<{
   const indexRaw = await fs.readFile(INDEX_PATH, "utf-8");
   const index: CorpusIndex = JSON.parse(indexRaw);
 
-  const docs = new Map<string, CorpusDoc>();
-  await Promise.all(
-    index.docs.map(async (entry: IndexEntry) => {
-      const docPath = path.join(CORPUS_DIR, entry.path);
-      const raw = await fs.readFile(docPath, "utf-8");
-      docs.set(entry.path, JSON.parse(raw) as CorpusDoc);
-    }),
-  );
+  // Thousands of simultaneous fs.readFile promises can blow the heap on
+  // Node serverless — batch parallel reads instead.
+  const batch = Number(process.env.CORPUS_LOAD_CONCURRENCY ?? "24");
+  const docs = await loadDocsBatched(index.docs, CORPUS_DIR, batch);
 
   let embeddings: EmbeddingsFile | undefined;
   try {

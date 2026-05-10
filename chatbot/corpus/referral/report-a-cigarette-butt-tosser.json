@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-cigarette-butt-tosser",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-cigarette-butt-tosser",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-cigarette-butt-tosser",
+  "title": "Report a cigarette butt tosser",
+  "summary": "This page provides information on how to report someone throwing a cigarette butt from a car or truck.",
+  "topics": [
+    "cigarette-butt-tosser",
+    "report-incident",
+    "safety",
+    "environment"
+  ],
+  "intro": "If you see someone throwing a cigarette butt from a car or truck, you can report the incident online.\n\nYou will need to provide:\n\nNote: Reports must be made within 14 days of the incident occurring.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Reports must be made within 14 days of the incident occurring."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The information collected from the form is used for the purposes of confirming the vehicle details, and investigating whether an offence has been committed.",
+      "link": null
+    },
+    {
+      "text": "There are heavy penalties for people caught throwing lit cigarette butts from vehicles, especially on days of total fire ban.",
+      "link": "https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules"
+    },
+    {
+      "text": "You can also report an incident by calling 1800 679 737.",
+      "link": "tel:1800679737"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "an online form for reporting cigarette butt tossers",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/cigarette-form"
+    },
+    {
+      "text": "total fire ban",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans/total-fire-ban-rules"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:12Z",
+    "last_modified": "24 July 2025",
+    "html_sha1": "44be8fe2e402c61d05cb722578417554b8f3e239",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

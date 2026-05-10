@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/change-address-and-contact-details",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/change-address-and-contact-details",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "change-address-and-contact-details",
+  "title": "Change address and contact details collection notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal information when you change your address and contact details.",
+  "topics": [
+    "privacy",
+    "address-change",
+    "contact-details",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:24Z",
+    "last_modified": "25 February 2026",
+    "html_sha1": "912b6132757576bfc46afe2128dd651bf11e5867",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

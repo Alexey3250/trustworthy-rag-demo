@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-general-construction-induction-training-courses",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-general-construction-induction-training-courses",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-general-construction-induction-training-courses",
+  "title": "Manage general construction induction training courses",
+  "summary": "GIT RTOs and approved training officers can use the online portal to manage general construction induction training courses, including notifications and fee payments.",
+  "topics": [
+    "construction-induction-training",
+    "git",
+    "safe-work-nsw",
+    "online-portal",
+    "rto"
+  ],
+  "intro": "General construction induction training (GIT) is delivered by registered training organisations (RTOs) approved by SafeWork NSW. The training ensures workers in the construction industry have a basic knowledge of:\n\nGIT RTOs and their approved training officers can use the online portal to manage their courses, including the notification of training and the payment of fees.",
+  "who_can_apply": [
+    "GIT RTOs",
+    "approved training officers"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Sign in to your OneGov account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to manage GIT assessments.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "General construction induction training – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations/construction-induction-rtos"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage high risk work licence assessments",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-high-risk-work-licence-assessments"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:09Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "2477bfd5c5dfa4858056434e68445b0dca7f7ef8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

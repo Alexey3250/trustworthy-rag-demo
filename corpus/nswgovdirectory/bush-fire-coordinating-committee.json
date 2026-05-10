@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bush-fire-coordinating-committee",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bush-fire-coordinating-committee",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bush-fire-coordinating-committee",
+  "title": "Bush Fire Coordinating Committee (NSW Rural Fire Service)",
+  "summary": "This page provides information about the Bush Fire Coordinating Committee, which helps coordinate bushfire response efforts in NSW.",
+  "topics": [
+    "bush-fire",
+    "coordinating-committee",
+    "nsw-rfs",
+    "emergency-response"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.rfs.nsw.gov.au/plan-and-prepare/managing-bush-fire-risk/bush-fire-coordinating-committee",
+      "url": "https://www.rfs.nsw.gov.au/plan-and-prepare/managing-bush-fire-risk/bush-fire-coordinating-committee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Rural Fire Service NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:13Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8f112c4113b9a61412dc15cda4cf174864a6e366",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

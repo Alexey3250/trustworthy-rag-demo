@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-property-certificate-or-licence",
+  "title": "Change the details on a property certificate or licence",
+  "summary": "Learn how to notify NSW Fair Trading of changes to your property certificate or licence details.",
+  "topics": [
+    "property-certificate",
+    "property-licence",
+    "nsw-fair-trading",
+    "business-details"
+  ],
+  "intro": "If your details have changed you must notify NSW Fair Trading within 14 days if you hold a:\n\nCorporation licence holders must notify NSW Fair Trading of changes to the licensee in charge within 5 business days.\n\nTo check your property licence or certificate details, visit Verify NSW.",
+  "who_can_apply": [
+    "Individuals or corporations who hold a property certificate or licence and whose details have changed."
+  ],
+  "what_you_need": [
+    "The relevant form for the change (e.g., Change of Details: Property certificate or licence, Change of Director: Corporation property licence, or Notification of Licensee in Charge Details).",
+    "Evidence of the changed details as stated on the form.",
+    "A method to submit the completed form (Service NSW Centre)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the relevant form.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit the completed form:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "Change of Details: Property certificate or licence",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4365b.pdf"
+    },
+    {
+      "text": "Change of Director: Corporation property licence",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59848.pdf"
+    },
+    {
+      "text": "Notification of Licensee in Charge Details",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726f.pdf"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    },
+    {
+      "text": "Becoming a property agent – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent"
+    },
+    {
+      "text": "Real Estate Institute of NSW (REINSW)",
+      "url": "https://www.reinsw.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I notify NSW Fair Trading of changes?",
+      "a": "If your details have changed, you must notify NSW Fair Trading within 14 days. Corporation licence holders must notify NSW Fair Trading of changes to the licensee in charge within 5 business days.",
+      "link": null
+    },
+    {
+      "q": "Where can I check my property licence or certificate details?",
+      "a": "You can check your property licence or certificate details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "q": "What do I need to submit a change of details?",
+      "a": "You need the relevant form, supporting documents proving the change, and the specific form based on the type of change.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:20Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "f8269d6dad3e499770b37540a2542da0a2b6db64",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

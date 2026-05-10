@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/mental-health-review-tribunal",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/mental-health-review-tribunal",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "mental-health-review-tribunal",
+  "title": "Mental Health Review Tribunal",
+  "summary": "This page provides information about the Mental Health Review Tribunal, which reviews decisions about mental health treatment.",
+  "topics": [
+    "mental-health",
+    "review-tribunal",
+    "mental-health-treatment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.mhrt.nsw.gov.au/the-tribunal/",
+      "url": "https://www.mhrt.nsw.gov.au/the-tribunal/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Mental Health Review Tribunal?",
+      "a": "The Mental Health Review Tribunal reviews decisions about mental health treatment.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the Tribunal?",
+      "a": "You can find more information on the dedicated Tribunal website.",
+      "link": "https://www.mhrt.nsw.gov.au/the-tribunal/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3ec293999df081f68dc96bb61981e644c34d79d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

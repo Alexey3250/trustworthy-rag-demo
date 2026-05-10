@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/non-standard-software",
+  "source_url": "https://www.service.nsw.gov.au/non-standard-software",
+  "category": "non-standard-software",
+  "article_kind": "content",
+  "slug": "non-standard-software",
+  "title": "Non-standard software",
+  "summary": "This page provides information about the security measures used by the Service NSW app, including third-party services that check the security of your device.",
+  "topics": [
+    "service-nsw-app",
+    "device-security",
+    "personal-information",
+    "mobile-security"
+  ],
+  "intro": "Keeping your personal information secure is as important to us as it is to you.\n\nThe Service NSW app has been built with your security in mind.\n\nWe use some third party services provided by Google and Android to help decide whether or not the phone or device your information is stored on is secure.\n\nThese services check if the phone has:\n\nSometimes, these services also detect issues that you might not be aware of. For example, you might be using:\n\nThings you can do:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get instructions",
+      "url": "https://support.google.com/googleplay/answer/7165974?hl=en"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the Service NSW app keep my information secure?",
+      "a": "The Service NSW app is built with your security in mind, and we use third-party services provided by Google and Android to help decide if the phone or device storing your information is secure.",
+      "link": null
+    },
+    {
+      "q": "What do the third-party services check for?",
+      "a": "These services check if the phone has certain security features. They can also detect issues you might not be aware of, such as using unsupported software.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:29Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "ad979fd677b9511533e47d5828d89a4f1cdfe2a2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

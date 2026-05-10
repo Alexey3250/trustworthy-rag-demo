@@ -1,0 +1,156 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/open-register-or-close-a-trust-account-property",
+  "source_url": "https://www.service.nsw.gov.au/transaction/open-register-or-close-a-trust-account-property",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "open-register-or-close-a-trust-account-property",
+  "title": "Open, register or close a trust account (property)",
+  "summary": "Learn how to open, register, or close a trust account required for licensees under the Property and Stock Agents Act 2002.",
+  "topics": [
+    "real-estate-agent",
+    "trust-account",
+    "property-licensee",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you're a Licensee under the Property and Stock Agents Act 2002 – such as a real estate agent, strata managing agent or stock and station agent – you must hold clients’ funds in a trust account kept at an authorised deposit-taking institution in NSW.",
+  "who_can_apply": [
+    "Licensee under the Property and Stock Agents Act 2002 (e.g., real estate agent, strata managing agent, or stock and station agent)"
+  ],
+  "what_you_need": [
+    "Your real estate licence number",
+    "Details for the name of the trustee accounts"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the relevant link to notify Fair Trading online of your intention in relation to a property trust account.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "### Opening a trust account",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Create a new registration number for a new trust account that has not yet been opened.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Open trust account",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "### Registering an existing trust account",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Create a registration number for an existing trust account that has already been opened.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Register trust account",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "### Closing a trust account",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "You must notify Fair Trading within 14 days after closing a trust account.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Close trust account",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Note: if you are not able to close a trust account online, you can download and complete Notice of closing of a trust account – PDF.",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "### Accessing a closed trust account",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "You can access a closed trust account online by entering your account details.",
+      "link": null
+    },
+    {
+      "n": 14,
+      "text": "Access closed trust account",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When you write a cheque to draw funds from the trust account, you must include the words ‘trust account’.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "authorised deposit-taking institution in NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/supervising-an-agency/real-estate-trust-accounts-and-audit-requirements"
+    },
+    {
+      "text": "Open trust account",
+      "url": "https://www.onegov.nsw.gov.au/gls_portal/public/LicenceForm.mvc/New?formKey=OFTTrustAccount&agencyKey=OFTTrustAccount&otherParams=ActionType:CreateNew"
+    },
+    {
+      "text": "Register trust account",
+      "url": "https://www.onegov.nsw.gov.au/gls_portal/public/LicenceForm.mvc/New?formKey=OFTTrustAccount&agencyKey=OFTTrustAccount&otherParams=ActionType:RegisterExisting"
+    },
+    {
+      "text": "Close trust account",
+      "url": "https://www.onegov.nsw.gov.au/gls_portal/public/LicenceForm.mvc/New?formKey=OFTTrustAccount&agencyKey=OFTTrustAccount&otherParams=ActionType:CloseExisting"
+    },
+    {
+      "text": "Notice of closing of a trust account – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/notice-of-closing-of-trust-account"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge real estate or conveyancer trust account audits",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-real-estate-or-conveyancer-trust-account-audits"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who must hold clients' funds in a trust account?",
+      "a": "Licensees under the Property and Stock Agents Act 2002, such as real estate agents, strata managing agents, or stock and station agents, must hold clients’ funds in a trust account kept at an authorised deposit-taking institution in NSW.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements for managing trust accounts?",
+      "a": "The licensee or firm (a corporation) must register separate accounts with NSW Fair Trading. A unique identifying number will be issued for each account, which must then be provided to the authorised deposit-taking institution for monthly returns.",
+      "link": null
+    },
+    {
+      "q": "How do I close a trust account?",
+      "a": "You must notify Fair Trading within 14 days after closing the trust account. You can close it online using the provided link, or download and complete the Notice of closing of a trust account – PDF.",
+      "link": "https://www.onegov.nsw.gov.au/gls_portal/public/LicenceForm.mvc/New?formKey=OFTTrustAccount&agencyKey=OFTTrustAccount&otherParams=ActionType:CloseExisting"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:10Z",
+    "last_modified": "23 August 2024",
+    "html_sha1": "24156c43797d45cfd8d7cf822b8cb2c8559ff902",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

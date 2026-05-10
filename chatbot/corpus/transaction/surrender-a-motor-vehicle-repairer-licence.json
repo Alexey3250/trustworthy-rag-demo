@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-motor-vehicle-repairer-licence",
+  "title": "Surrender a motor vehicle repairer licence",
+  "summary": "This page explains how to notify NSW Fair Trading if you no longer wish to keep your motor vehicle repairer licence.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "surrender-licence",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you do not want to keep your motor vehicle repairer licence you need to notify NSW Fair Trading.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licence details",
+    "the PDF form – 'Notice of Surrender'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To look up your motor dealer licence number and details, visit Verify NSW.",
+      "link": null
+    },
+    {
+      "text": "To find out more visit the NSW Fair Trading – Working as a motor vehicle repairer.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Working as a motor vehicle repairer",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:11Z",
+    "last_modified": "2 September 2025",
+    "html_sha1": "baaa9f1f6c6122ef043bb84442414e5277b87f84",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

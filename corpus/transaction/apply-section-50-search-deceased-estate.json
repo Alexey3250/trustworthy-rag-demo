@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-section-50-search-deceased-estate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-section-50-search-deceased-estate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-section-50-search-deceased-estate",
+  "title": "Apply for a Section 50 search (deceased estate)",
+  "summary": "Learn how to apply for a Section 50 search to find out if a deceased person is recorded as a parent of any children.",
+  "topics": [
+    "deceased-estate",
+    "section-50-search",
+    "beneficiaries",
+    "nsw-death-records"
+  ],
+  "intro": "If you're the executor, administrator or trustee of a deceased person's estate, and you need to find out if the deceased is recorded as being a parent of any children, you can apply for a Section 50 search. This search is often used to find beneficiaries of a deceased's estate.\n\nYou can visit a service centre and lodge your application in person, or post the information.",
+  "who_can_apply": [
+    "The applicant must be the executor, administrator, or trustee of a deceased person's estate.",
+    "Searches are available for deceased females aged 12 to 60, and for males aged 12 until death.",
+    "If the deceased was born overseas, the search will only cover their time as a resident in NSW."
+  ],
+  "what_you_need": [
+    "Your personal and contact details.",
+    "Your client's details.",
+    "The details of the search required.",
+    "3 personal identity documents (if applicable).",
+    "The completed PDF form: Apply for a Section 50 Search – PDF."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the Apply for a Section 50 Search – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-section-50.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Certificates are sent by the Registry of Births, Deaths & Marriages via registered post. They cannot be collected at a service centre.",
+      "link": null
+    },
+    {
+      "text": "Turnaround times commence when applications are received in full compliance with Registry requirements, and exclude delivery time.",
+      "link": null
+    },
+    {
+      "text": "If you change your mind, or decide the certificate is no longer required, your application fee will not be refunded.",
+      "link": null
+    },
+    {
+      "text": "Documents provided as proof of identity may have their authenticity verified through the online Certificate Validation Service (CertValid) and the National Document Verification Service (DVS).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Apply for a Section 50 Search – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-section-50.pdf"
+    },
+    {
+      "text": "All About Estate Searches",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/beneficiaries-search-section-50"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a Section 50 search?",
+      "a": "The executor, administrator, or trustee of a deceased person's estate can apply for this search.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for the deceased person?",
+      "a": "Searches can be conducted for deceased females aged 12 to 60, and for males from age 12 until death. If the deceased was born overseas, only their time as a resident in NSW will be searched.",
+      "link": null
+    },
+    {
+      "q": "What documentation is required if I am the administrator or trustee?",
+      "a": "If you are not a legal practitioner but are the administrator or trustee of the estate, you must provide 3 forms of your identification.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:07Z",
+    "last_modified": "14 April 2026",
+    "html_sha1": "ecc8db4ec73bf3da3548263d73ed5b3602e3535d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-a-deceased-persons-account",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-a-deceased-persons-account",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "deactivate-a-deceased-persons-account",
+  "title": "Deactivate a deceased person’s account",
+  "summary": "Learn how to deactivate a deceased person's MyServiceNSW Account if you have evidence of death.",
+  "topics": [
+    "death",
+    "bereavement",
+    "myservicensw-account",
+    "account-deactivation"
+  ],
+  "intro": "You can deactivate a deceased person's MyServiceNSW Account if you have evidence to prove the person is deceased.",
+  "who_can_apply": [
+    "You must have evidence to prove the person is deceased."
+  ],
+  "what_you_need": [
+    "One of the required documents (list of documents not provided in the content)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "We encourage you to submit one of the required documents by visiting a service centre. We can locate the deceased person's MyServiceNSW Account and deactivate it on the spot.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You can also call us on 13 77 88. We'll provide instructions on how to submit one of the appropriate documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Death and bereavement",
+      "link": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "close or transfer accounts, registrations or licences",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement#licences-and-registrations"
+    },
+    {
+      "text": "Retention and Disposal of Customer Data Policy",
+      "url": "https://www.service.nsw.gov.au/system/files/2024-12/retention-and-disposal-customer-data-policy.pdf"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:07Z",
+    "last_modified": "27 June 2025",
+    "html_sha1": "5575f4a9604356b7d3dba9897dfe758fd5fef732",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/producer-wholesaler-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/producer-wholesaler-liquor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "producer-wholesaler-liquor-licence",
+  "title": "Producer/wholesaler liquor licence",
+  "summary": "This page provides information about obtaining a producer/wholesaler liquor licence in New South Wales.",
+  "topics": [
+    "liquor-licence",
+    "producer",
+    "wholesaler",
+    "nsw-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a producer/wholesaler liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-producer-wholesaler-liquor-licence"
+    },
+    {
+      "text": "Check a producer/wholesaler liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a producer/wholesaler liquor licence?",
+      "a": "You can apply for a producer/wholesaler liquor licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-producer-wholesaler-liquor-licence"
+    },
+    {
+      "q": "How can I check the status of a liquor licence?",
+      "a": "You can check a producer/wholesaler liquor licence using the dedicated check page.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:07Z",
+    "last_modified": "28 May 2024",
+    "html_sha1": "637ee55081c59cc7d1452adaa4182872750602fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

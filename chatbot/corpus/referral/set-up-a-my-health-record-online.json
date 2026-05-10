@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/set-up-a-my-health-record-online",
+  "source_url": "https://www.service.nsw.gov.au/referral/set-up-a-my-health-record-online",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "set-up-a-my-health-record-online",
+  "title": "Set up a My Health Record online",
+  "summary": "Learn how to set up a My Health Record online, which is a secure summary of your health information that you control.",
+  "topics": [
+    "my-health-record",
+    "health-information",
+    "online-setup",
+    "healthcare-records"
+  ],
+  "intro": "A My Health record is a secure online summary of your health information. You control what goes into it, and who is allowed to access it.\n\nIt allows you and your doctors, hospitals and other healthcare providers to view and share your health information to provide you with the best possible care.\n\nSet up your My Health Record online using the steps on the Australian Digital Health Agency website.\n\nFor more information visit:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Set up your My Health Record online",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record/getting-started/set-up-your-record-online"
+    },
+    {
+      "text": "About My Health Record – Australian Digital Health Agency",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:37Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "957017b97648734c5097eb70b58afc173369f90e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

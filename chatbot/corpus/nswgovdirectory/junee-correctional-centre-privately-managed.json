@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/junee-correctional-centre-privately-managed",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/junee-correctional-centre-privately-managed",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "junee-correctional-centre-privately-managed",
+  "title": "Junee Correctional Centre (Privately Managed)",
+  "summary": "This page provides information about the Junee Correctional Centre, which is privately managed.",
+  "topics": [
+    "correctional-centre",
+    "junee",
+    "nsw-justice",
+    "prisons"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/junee-correctional-centre.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/junee-correctional-centre.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Justice Health and Forensic Mental Health Network",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/justice-health-and-forensic-mental-health-network"
+    },
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7f6d4dae3dd8b75497f7f8ee8b3692f789330998",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

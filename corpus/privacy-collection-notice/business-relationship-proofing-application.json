@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-relationship-proofing-application",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-relationship-proofing-application",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "business-relationship-proofing-application",
+  "title": "Business Relationship Proofing Application – Privacy Collection Notice",
+  "summary": "This page explains the privacy collection notice for the Business Relationship Proofing application, which allows eligible business representatives to validate their details and manage interactions with government agencies.",
+  "topics": [
+    "business-relationships",
+    "privacy",
+    "australian-business-register",
+    "service-nsw"
+  ],
+  "intro": "Service NSW is delivering the Business Relationship Proofing application, which allows eligible business representatives to validate their details with the Australian Business Register and establish themselves as a principal authority for the business. Business Relationship Proofing will enable business representatives to manage their interactions on behalf of the business with various government agencies using a single service.\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Act 1998.",
+  "who_can_apply": [
+    "Eligible business representatives who wish to validate their details with the Australian Business Register and establish themselves as a principal authority for the business."
+  ],
+  "what_you_need": [
+    "Proof of identity information (such as driver’s licence number, Medicare card details, or information from other identity documents).",
+    "Business details including Australian Business Number (ABN), business name, entity name, trading name, entity type, main business location, ABN status, and GST status."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "Service NSW collects your information to establish your status as a principal authority, contact you about your application, verify your details with services like the Document Verification Service and the Australian Business Register, and for internal administrative purposes.",
+      "link": null
+    },
+    {
+      "q": "What kind of personal and business information is collected?",
+      "a": "They collect personal details (like name, date of birth, and contact information) and business details (such as ABN, business name, and entity type). If processing a transfer application, the name and email of the new owner are also collected.",
+      "link": null
+    },
+    {
+      "q": "Who will Service NSW share my information with?",
+      "a": "Information may be disclosed to public/private entities (including the Document Verification Service, the Australian Business Register, and ASIC) for verification. It may also be shared with the ATO, NSW Police, AUSTRAC, or regulatory bodies if fraud or misconduct is suspected.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:58Z",
+    "last_modified": "18 March 2024",
+    "html_sha1": "ecc58df598090d3b6320751ff24e80cb78195a78",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

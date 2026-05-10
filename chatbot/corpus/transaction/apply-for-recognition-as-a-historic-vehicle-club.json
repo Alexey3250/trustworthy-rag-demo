@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-as-a-historic-vehicle-club",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-as-a-historic-vehicle-club",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-recognition-as-a-historic-vehicle-club",
+  "title": "Apply for recognition as a historic vehicle club",
+  "summary": "Find out how to apply for recognition as a historic vehicle club under the Historic Vehicle Scheme.",
+  "topics": [
+    "historic-vehicle-club",
+    "transport-for-nsw",
+    "application",
+    "scheme"
+  ],
+  "intro": "If your organisation wishes to be recognised as a historic vehicle club under the Historic Vehicle Scheme, club officials will need to lodge an application with Transport for NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The club's details, including evidence of its corporate status.",
+    "A copy of the club's constitution showing that the club can meet the Historic Vehicle Scheme policy.",
+    "The inspection process and proof of compliance requirements used to ensure an eligible historic vehicle meets the Historic Vehicle Scheme policy.",
+    "A list of the club's evidence, such as policies and procedures documentation, showing the club has professional and safety standards appropriate to provide administrative controls over:",
+    "The completed PDF form, 'Application for a Historic Vehicle Club'."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all the required supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application by email or post to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To get a copy of a sample constitution document, you can email Transport for NSW (address is available on the application form).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 1259: Application for a Historic Vehicle Club – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/45071935-application-for-a-historic-vehicle-club.pdf"
+    },
+    {
+      "text": "Historic vehicle clubs – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/historic-vehicles-registration/historic-vehicle-clubs"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:45Z",
+    "last_modified": "2 March 2026",
+    "html_sha1": "000c13a4f7874b6c85cd8d23217bdac8c03b8b3b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

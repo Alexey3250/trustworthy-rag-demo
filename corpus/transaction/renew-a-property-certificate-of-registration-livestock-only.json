@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-property-certificate-of-registration-livestock-only",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-property-certificate-of-registration-livestock-only",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-property-certificate-of-registration-livestock-only",
+  "title": "Renew or restore a property certificate of registration (Restricted to Livestock only)",
+  "summary": "This page provides information on renewing or restoring a property certificate of registration restricted to livestock activities.",
+  "topics": [
+    "livestock",
+    "property-certificate",
+    "renewal",
+    "registration"
+  ],
+  "intro": "The restricted certificate allows the holder to carry out livestock-related activities. This certificate was only made available to holders of a stock and station certificate of registration immediately before 23 March 2020 and is no longer being offered.",
+  "who_can_apply": [
+    "You must be an assistant stock and station agent with a certificate of registration restricted to livestock-related activities."
+  ],
+  "what_you_need": [
+    "Your certificate number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your fee payment",
+    "To apply for renewal online, you need to follow the online prompts."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete your renewal.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "To pay at a service centre check the payment options available.",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "n": 4,
+      "text": "Some service centres do not accept cash payments.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Visit the NSW Fair Trading website for more information on Working as an agent in the real estate and property industry.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Working as an agent in the real estate and property industry",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "payment options available",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-property-certificate-of-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can renew or restore this certificate?",
+      "a": "You can renew or restore your certificate if you are an assistant stock and station agent with a certificate of registration restricted to livestock-related activities.",
+      "link": null
+    },
+    {
+      "q": "What happens if my certificate has expired?",
+      "a": "If your certificate has expired, you can apply online to restore your licence within 3 months of the certificate expiry date, and you will need to pay the restoration fee.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my certificate online?",
+      "a": "Select the 'Renew online' button and follow the prompts to complete your renewal.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:16Z",
+    "last_modified": "6 March 2026",
+    "html_sha1": "2f7d991066996895cba8e1e8708ab1c1ca4bb6c7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

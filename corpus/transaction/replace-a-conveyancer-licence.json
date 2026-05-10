@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-conveyancer-licence",
+  "title": "Replace a conveyancer licence",
+  "summary": "You can apply for a replacement conveyancer licence if your current licence has been lost, stolen, or damaged.",
+  "topics": [
+    "conveyancer-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If your conveyancer licence has been damaged, lost or stolen, you can apply for a replacement licence at a Service NSW Centre or by email.\n\nTo check your conveyancer licence number and details visit Verify NSW.",
+  "who_can_apply": [
+    "The licence must be damaged, lost, or stolen."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for a Replacement Licence'",
+    "Your licence number",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Conveyancer"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/licensing-fees"
+    },
+    {
+      "text": "Conveyancer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/conveyancer-licences"
+    },
+    {
+      "text": "Conveyancing for property buyers and sellers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-corporation"
+    },
+    {
+      "text": "Renew or restore a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-an-individual-conveyancer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my conveyancer licence number and details?",
+      "a": "You can check your conveyancer licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Conveyancer"
+    },
+    {
+      "q": "How do I apply for a replacement licence?",
+      "a": "You can apply for a replacement licence at a Service NSW Centre or by email.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a replacement licence?",
+      "a": "You need the 'Application for a Replacement Licence' PDF form, your licence number, and payment for the fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:36Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "68974ea77d3744ced6f5a980633268a182d29d2f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

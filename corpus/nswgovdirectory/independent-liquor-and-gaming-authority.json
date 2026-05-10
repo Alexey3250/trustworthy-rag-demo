@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-liquor-and-gaming-authority",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-liquor-and-gaming-authority",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "independent-liquor-and-gaming-authority",
+  "title": "Independent Liquor and Gaming Authority",
+  "summary": "This page provides information about the Independent Liquor and Gaming Authority (ILGA), which regulates the liquor and gaming industries in NSW.",
+  "topics": [
+    "liquor-gaming",
+    "regulation",
+    "nsw-government",
+    "industry-authority"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.liquorandgaming.nsw.gov.au/independent-liquor-and-gaming-authority",
+      "url": "https://www.liquorandgaming.nsw.gov.au/independent-liquor-and-gaming-authority"
+    },
+    {
+      "text": "Find out what is happening in your local area and share your opinions",
+      "url": "https://www.liquorandgaming.nsw.gov.au/independent-liquor-and-gaming-authority/ilga-and-l-and-gnsw-decisions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/liquor-gaming-nsw"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "38c3a728be5986ac5cf98714fe199c895c062509",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

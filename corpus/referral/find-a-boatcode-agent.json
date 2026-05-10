@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-boatcode-agent",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-boatcode-agent",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-boatcode-agent",
+  "title": "Find a Boatcode Agent",
+  "summary": "This page provides information about the Hull Identification Number (HIN), or Boatcode, a unique numbering system for vessels, and helps you find a Boatcode Agent.",
+  "topics": [
+    "boatcode",
+    "hin",
+    "vessel-registration",
+    "nsw-boating"
+  ],
+  "intro": "The Hull Identification Number (HIN) system, or Boatcode, is a unique numbering system for vessels that:\n\nThe HIN is attached to the hull on most boats. In newer boats it’s put there permanently during manufacture. Find out what numbers and labels to put on a vessel for NSW registration.\n\nIn older boats, a Boatcode Agent can help you get an HIN.\n\nTransport for NSW (TfNSW) has established a network of Boatcode Agents throughout NSW who can:\n\nFind a Boatcode agent near you.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Hull Identification Number (HIN) system, or Boatcode",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    },
+    {
+      "text": "Find out what numbers and labels to put on a vessel",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/what-to-display"
+    },
+    {
+      "text": "Find a Boatcode agent",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/find-a-boatcode-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    },
+    {
+      "text": "Check the Personal Property Securities Register (PPSR)",
+      "url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Hull Identification Number (HIN) or Boatcode?",
+      "a": "The HIN, or Boatcode, is a unique numbering system for vessels. It is attached to the hull on most boats, or permanently during manufacture in newer boats.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    },
+    {
+      "q": "How can I get an HIN for an older boat?",
+      "a": "A Boatcode Agent can help you get an HIN for older boats.",
+      "link": null
+    },
+    {
+      "q": "Where can I find a Boatcode Agent?",
+      "a": "Transport for NSW (TfNSW) has established a network of Boatcode Agents throughout NSW who can help you find one near you.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/find-a-boatcode-agent"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:26Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "2f9fceb2e173327a1664399aaaf22abd2a54acc3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-olympic-park-authority",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-olympic-park-authority",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sydney-olympic-park-authority",
+  "title": "Sydney Olympic Park Authority",
+  "summary": "This page provides information about the Sydney Olympic Park Authority, detailing various facilities and activities available at the park.",
+  "topics": [
+    "sydney-olympic-park",
+    "activities",
+    "venues",
+    "parks",
+    "infrastructure"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sydneyolympicpark.nsw.gov.au/",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/"
+    },
+    {
+      "text": "the Aquatic Centre",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/aquatic-centre"
+    },
+    {
+      "text": "the Archery Centre",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/archery-centre"
+    },
+    {
+      "text": "the Athletic Centre",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/athletic-centre"
+    },
+    {
+      "text": "the Hockey Centre",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/hockey-centre"
+    },
+    {
+      "text": "Things to see and do – Sydney Olympic Park",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/things-to-see-and-do"
+    },
+    {
+      "text": "Venues – Sydney Olympic Park",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/venues"
+    },
+    {
+      "text": "Parks and playgrounds – Sydney Olympic Park",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/parks-and-playgrounds"
+    },
+    {
+      "text": "Parking at Sydney Olympic Park",
+      "url": "https://www.sydneyolympicpark.nsw.gov.au/parking"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Sydney Olympic Park?",
+      "a": "You can find general information and details about the park at https://www.sydneyolympicpark.nsw.gov.au/",
+      "link": "https://www.sydneyolympicpark.nsw.gov.au/"
+    },
+    {
+      "q": "What activities are available at the park?",
+      "a": "The park offers various facilities, including the Aquatic Centre, the Archery Centre, the Athletic Centre, and the Hockey Centre.",
+      "link": null
+    },
+    {
+      "q": "What can I do or see at Sydney Olympic Park?",
+      "a": "You can explore things to see and do, visit the various venues, or check out the parks and playgrounds.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "02879601b42303b5e2f1330279401d72f4974faa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

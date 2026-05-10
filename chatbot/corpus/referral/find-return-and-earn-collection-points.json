@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-return-and-earn-collection-points",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-return-and-earn-collection-points",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-return-and-earn-collection-points",
+  "title": "Find Return and Earn collection points",
+  "summary": "This page helps you find local collection points for the Return and Earn scheme and check which containers are accepted.",
+  "topics": [
+    "return-and-earn",
+    "recycling",
+    "collection-points",
+    "containers"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The containers you wish to return: glass, plastic, aluminium, steel, and liquid paperboard (cartons)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Use the map search tool",
+      "url": "https://returnandearn.org.au/map/"
+    },
+    {
+      "text": "Find out which containers the Return and Earn scheme accepts",
+      "url": "https://returnandearn.org.au/eligible-containers/"
+    },
+    {
+      "text": "Return and Earn Container Search",
+      "url": "https://cds.epa.nsw.gov.au/CDSContainerSearchPage"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:33Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "97f8a7dc5abfe2369f8210863bec29ad7df92e13",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

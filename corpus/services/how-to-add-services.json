@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "how-to-add-services",
+  "title": "How to add services to your MyServiceNSW Account",
+  "summary": "This page explains how to add and apply for various NSW Government services using your MyServiceNSW Account.",
+  "topics": [
+    "myservicensw-account",
+    "add-services",
+    "nsw-government-services",
+    "online-account"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Services you already have (e.g., a driver licence, which you can add by confirming details).",
+    "Services you would like to apply for.",
+    "A MyServiceNSW Account to connect you online with NSW Government services."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "n": 2,
+      "text": "Go to 'Add services'.",
+      "link": "https://account.service.nsw.gov.au/services/add"
+    },
+    {
+      "n": 3,
+      "text": "Select the service you would like to add or apply for.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to add your service.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help with your account, contact us.",
+  "more_info": [
+    {
+      "text": "Get the Service NSW app",
+      "link": null
+    },
+    {
+      "text": "Check the status of your NDISWC",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "Add services",
+      "url": "https://account.service.nsw.gov.au/services/add"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Get the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Check the status of your NDISWC",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I add services to my MyServiceNSW Account?",
+      "a": "Log in to your MyServiceNSW Account, go to 'Add services', select the service you want, and follow the prompts to add it.",
+      "link": "https://account.service.nsw.gov.au/services/add"
+    },
+    {
+      "q": "Do I need to do anything myself when adding services?",
+      "a": "Yes, for security and privacy reasons, you must choose which services you want to add and confirm your details yourself. Service NSW cannot do this for you.",
+      "link": null
+    },
+    {
+      "q": "Where can I log in to my MyServiceNSW Account?",
+      "a": "You can log in to your MyServiceNSW Account here: https://account.service.nsw.gov.au/api/auth/login",
+      "link": "https://account.service.nsw.gov.au/api/auth/login"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:31Z",
+    "last_modified": "5 November 2025",
+    "html_sha1": "d81b2e501d567b1e8705c4aafc4ce1024c4b3af0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

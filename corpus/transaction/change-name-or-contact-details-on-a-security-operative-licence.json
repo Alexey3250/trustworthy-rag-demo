@@ -1,0 +1,127 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-name-or-contact-details-on-a-security-operative-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-name-or-contact-details-on-a-security-operative-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-name-or-contact-details-on-a-security-operative-licence",
+  "title": "Change name or contact details on a security operative licence",
+  "summary": "You can change your contact details (address, email, mobile, or telephone number) on a security operative licence online.",
+  "topics": [
+    "security-licence",
+    "change-details",
+    "contact-details"
+  ],
+  "intro": "You can change your contact details (address, email, mobile or telephone number) on a security operative licence online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence details",
+    "Your previous and current contact details",
+    "Your fee payment (if applicable)",
+    "The PDF form: Application to Amend, Vary or Replace an Existing Class 1 and/or Class 2 licence",
+    "A certified copy of a change of name document from a Justice of the Peace, Legal Practitioner, or Notary Public (if changing name/personal details)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to change your contact details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the form Application to Amend, Vary or Replace an Existing Class 1 and/or Class 2 licence – PDF'.",
+      "link": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/248240/SEC_-_P645_-_Amend,_Vary_or_Replace_an_Existing_Class_1_and_or_2_Licence_2025.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Send the form and your documents (if applicable) by post to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/class_2_licences/class_2_licences_content/fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "text": "Application to Amend, Vary or Replace an Existing Class 1 and/or Class 2 licence – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/248240/SEC_-_P645_-_Amend,_Vary_or_Replace_an_Existing_Class_1_and_or_2_Licence_2025.pdf"
+    },
+    {
+      "text": "Security licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/840318/SLED_Security_PCN_December_2025.pdf"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "add or remove a security operative subclass",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-security-operative-subclass"
+    },
+    {
+      "text": "Justice of the Peace",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-justice-of-the-peace-jp"
+    },
+    {
+      "text": "Apply for a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-operative-licence"
+    },
+    {
+      "text": "Renew a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-operative-licence"
+    },
+    {
+      "text": "Replace a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-security-operative-licence"
+    },
+    {
+      "text": "Check a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I change my contact details on my security operative licence?",
+      "a": "To change your contact details, you must check your security operative licence number and details via Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "q": "What do I need if I want to change my name or other personal details?",
+      "a": "If you need to change your name or other personal details, you must provide change of name documents certified by a Justice of the Peace, Legal Practitioner, or Notary Public.",
+      "link": null
+    },
+    {
+      "q": "What is the process for changing my licence details?",
+      "a": "You can start by selecting the 'Change online' button, logging in or creating a MyServiceNSW Account, and following the prompts to change your contact details. You may also need to download and complete the form 'Application to Amend, Vary or Replace an Existing Class 1 and/or Class 2 licence' and send it by post.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:50Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "75baecc5602996ceeb4a448140cd09ec0c808b05",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

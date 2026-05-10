@@ -1,0 +1,165 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-your-dog-or-cat-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-your-dog-or-cat-in-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-your-dog-or-cat-in-nsw",
+  "title": "Register your dog or cat in NSW",
+  "summary": "Learn how to register your dog or cat for life on the NSW Pet Registry.",
+  "topics": [
+    "pet-registration",
+    "dog",
+    "cat",
+    "nsw-pets"
+  ],
+  "intro": "All pet dogs and cats in NSW need to be registered on the NSW Pet Registry. This must be done after the animal has been microchipped, and:\n\nRegistration covers the dog or cat for its lifetime, even if their owner changes.",
+  "who_can_apply": [
+    "You must be aged 18 or over to own a dog or cat.",
+    "The pet must be microchipped prior to being registered."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The registration fee",
+    "Proof of purchase",
+    "A statutory declaration",
+    "An M1 form – PDF",
+    "If unable to register online, you may need documentation regarding the pet's transfer or origin (interstate/overseas)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Log in to NSW Pet Registry'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Continue with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to create your Pet Registry profile.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Register a pet' on your dashboard.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select the specific pet.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Follow the prompts to pay the registration fee.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Visit your local council, with your documentation and registration fee (if applicable).",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "additional fee if you do not desex your dog by 6 months of age",
+      "link": null
+    },
+    {
+      "text": "annual permit fee if you do not desex your cat by 4 months of age.",
+      "link": null
+    },
+    {
+      "text": "Your pet does not have to be desexed at the time of registration. In NSW, there are additional charges for owning a non-desexed pet.",
+      "link": null
+    },
+    {
+      "text": "You'll be charged an:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "registration fee",
+      "url": "https://petregistry.olg.nsw.gov.au/registration-and-permit-fees"
+    },
+    {
+      "text": "Lifetime registration (R2)",
+      "url": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/pet-registration-r2.pdf"
+    },
+    {
+      "text": "Change of owner (C3A)",
+      "url": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/change-of-owner-c3a.pdf"
+    },
+    {
+      "text": "Permanent Identification (P1A)",
+      "url": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/permanent-identification-p1a.pdf"
+    },
+    {
+      "text": "M1 form – PDF",
+      "url": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/verification-of-existing-microchip-m1.pdf"
+    },
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Microchipping pets",
+      "url": "https://petregistry.olg.nsw.gov.au/owners/microchipping"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Transfer your pet to a new owner",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-your-pet-to-a-new-owner"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does pet registration cover the pet for life?",
+      "a": "Yes, registration covers the dog or cat for its lifetime, even if the owner changes.",
+      "link": null
+    },
+    {
+      "q": "What is required before I can register my pet?",
+      "a": "The pet must be microchipped before registration.",
+      "link": null
+    },
+    {
+      "q": "Who is responsible for microchipping the pet?",
+      "a": "The person who is selling or giving the pet away is responsible for having the animal microchipped.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:23Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "1e5659f058fdc144b3bfe520f2edb156873b3627",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

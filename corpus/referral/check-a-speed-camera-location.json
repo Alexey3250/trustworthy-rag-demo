@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-a-speed-camera-location",
+  "title": "Check a speed camera location",
+  "summary": "Use an online tool to find the locations of speed cameras in NSW by location, road, and camera type.",
+  "topics": [
+    "speed-camera",
+    "nsw",
+    "road-safety",
+    "enforcement-cameras"
+  ],
+  "intro": "You can use this online tool to find the locations of speed cameras in NSW by location, road, and type of camera.\n\nThere are 3 different types:\n\nFind out more information on enforcement cameras.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "use this online tool",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding/enforcement-cameras/speed-camera-locations-map"
+    },
+    {
+      "text": "Find out more information",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding/enforcement-cameras"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:25Z",
+    "last_modified": "24 September 2025",
+    "html_sha1": "b36cd4b0bc0a3b6ce5178224324e2e3be8a0f579",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

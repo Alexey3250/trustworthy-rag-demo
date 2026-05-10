@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-working-with-children-check-status",
+  "title": "Check a Working with Children Check status",
+  "summary": "This page provides information on how to check the status of a Working with Children Check (WWCC) for yourself or an organization.",
+  "topics": [
+    "working-with-children-check",
+    "wwcc-status",
+    "service-nsw",
+    "ocg"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals who are parents, guardians, or carers.",
+    "Organizations, businesses, or sole traders with employees."
+  ],
+  "what_you_need": [
+    "Name",
+    "Date of birth",
+    "WWCC number or application (APP) number",
+    "The latest version of the Service NSW app on your phone"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Employer Portal",
+      "url": "https://wwccemployer.ocg.nsw.gov.au/Login"
+    },
+    {
+      "text": "OCG online form",
+      "url": "https://wwccheck.ocg.nsw.gov.au/VerifyIndividual"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check/wwcc-information-organisations/wwcc-status"
+    },
+    {
+      "text": "who needs a WWCC",
+      "url": "https://ocg.nsw.gov.au/working-children-check/who-needs-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-organisation-for-the-online-working-with-children-check-system"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "add your WWCC to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "find your number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Renew your Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my Working with Children Check status?",
+      "a": "You can check your status by adding your WWCC to the Service NSW app or by completing the Office of the Children's Guardian (OCG) online form. When using the OCG form, select 'Verifying my own check' as the reason for verification.",
+      "link": null
+    },
+    {
+      "q": "Who can verify a Working with Children Check?",
+      "a": "Verification is available for an organization, business or sole trader with employees, or for a parent, guardian, or carer.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to check my WWCC status?",
+      "a": "You will need your name, date of birth, and either your WWCC number or application (APP) number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:19Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "af7fcc6ac8d335fc5c1ce115cf662e0b847d76fc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

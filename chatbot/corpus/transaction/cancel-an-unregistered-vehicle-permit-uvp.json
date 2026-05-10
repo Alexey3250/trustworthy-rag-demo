@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-an-unregistered-vehicle-permit-uvp",
+  "title": "Cancel an unregistered vehicle permit (UVP)",
+  "summary": "Learn how to cancel an unregistered vehicle permit (UVP) and understand the refund and disposal rules.",
+  "topics": [
+    "unregistered-vehicle-permit",
+    "uvp",
+    "cancel-permit",
+    "refunds"
+  ],
+  "intro": "An unregistered vehicle permit (UVP) can be issued for one day or a period up to 28 days.\n\nYou can cancel your UVP and receive a refund before the start date of the permit by visiting a Service NSW Centre or calling 13 77 88.\n\nNo refunds are available for cancellations after the UVP's start date.\n\nIf you no longer need your permit and the UVP's start date has passed, remove the UVP from your vehicle and throw it away.\n\nNote: You cannot transfer your UVP to another vehicle.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "All about unregistered vehicle permits",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/unregistered-vehicle-permits-uvp"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for an unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit"
+    },
+    {
+      "text": "Replace an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I cancel my UVP and get a refund?",
+      "a": "You can cancel your UVP and receive a refund before the start date of the permit by visiting a Service NSW Centre or calling 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "When are refunds available for UVP cancellations?",
+      "a": "Refunds are only available for cancellations made before the UVP's start date. No refunds are available for cancellations after the UVP's start date.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my UVP start date has passed?",
+      "a": "If you no longer need your permit and the UVP's start date has passed, remove the UVP from your vehicle and throw it away.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:38Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "465f328d1c6dbf01faa098421be643faaf6602c8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

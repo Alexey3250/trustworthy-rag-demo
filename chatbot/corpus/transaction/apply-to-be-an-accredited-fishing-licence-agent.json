@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-be-an-accredited-fishing-licence-agent",
+  "title": "Apply to be an accredited fishing licence agent",
+  "summary": "Learn how to apply to become an accredited fishing licence agent if you wish to sell recreational fishing licences at your place of business.",
+  "topics": [
+    "fishing-licence",
+    "agent-accreditation",
+    "nsw-business"
+  ],
+  "intro": "If you want to sell recreational fishing licences at your place of business you will need to apply to become an accredited fishing licence agent.\n\nThere are different types of accredited agents.\n\nFishing fee agents accreditation is managed by the NSW Department of Primary Industries and Regional Development. For more information visit Fishing fee agents.",
+  "who_can_apply": [
+    "Have a registered Australian Business Number (ABN).",
+    "Agree to the department seeking credit information from a credit reporting agency.",
+    "Be registered for GST if you are a standard agent.",
+    "Provide personal and business details, including an ABN.",
+    "Provide 3 written references vouching for your business integrity, one of which must be from your usual business bank.",
+    "Provide the names and addresses of your referees."
+  ],
+  "what_you_need": [
+    "A registered Australian Business Number (ABN).",
+    "Personal and business details, including an ABN.",
+    "3 written references vouching for your business integrity (one from your usual business bank).",
+    "The names and addresses of your referees.",
+    "If applying as a standard agent, you must pay a bond and be registered for GST."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Call 1300 660 436 (Fisheries) during business hours to request a new agent information application pack.",
+      "link": "tel:1300660436"
+    },
+    {
+      "n": 2,
+      "text": "Return your completed application form and supporting documents to: Recreational LicensingLocked Mail Bag 3020Nowra NSW 2541.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Recreational Fishing Trusts",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/fishing-fee-agents"
+    },
+    {
+      "text": "Contact a fisheries officer",
+      "url": "https://www.dpi.nsw.gov.au/contact-us/contact-a-dpi-fisheries-officer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who manages accreditation for fishing fee agents?",
+      "a": "The NSW Department of Primary Industries and Regional Development manages accreditation for fishing fee agents.",
+      "link": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/fishing-fee-agents"
+    },
+    {
+      "q": "How do I start the application process?",
+      "a": "Call 1300 660 436 (Fisheries) during business hours to request a new agent information application pack.",
+      "link": null
+    },
+    {
+      "q": "Where do I return my completed application?",
+      "a": "Return your completed application form and supporting documents to: Recreational Licensing Locked Mail Bag 3020 Nowra NSW 2541.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:25Z",
+    "last_modified": "29 October 2025",
+    "html_sha1": "6eeedc04d0baa4a20d4ee557fd82f9833a80d9cb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

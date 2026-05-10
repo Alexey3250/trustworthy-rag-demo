@@ -1,0 +1,152 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-professional-engineer-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-professional-engineer-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-professional-engineer-registration",
+  "title": "Renew a professional engineer registration",
+  "summary": "Learn how to renew your professional engineer registration online before it expires.",
+  "topics": [
+    "professional-engineer",
+    "registration",
+    "renew",
+    "nsw"
+  ],
+  "intro": "When your professional engineer registration is nearing its expiry date you'll receive a renewal notice. You can then renew your registration online before the due date.\n\n### If your registration has expired\n\nYou cannot make declarations or lodge regulated designs as a professional engineer in NSW if your registration has expired.\n\n### Change of name or contact details\n\nIf you have changed your name or contact details do not start your application until you complete the Building Commission NSW form Change of Details – PDF.\n\n### Check your registration details\n\nTo check your registration number and details visit Verify NSW.",
+  "who_can_apply": [
+    "Be aged 18 or over.",
+    "Complete 50 hours each year of relevant continuing professional development (CPD).",
+    "Hold the required level of insurance cover."
+  ],
+  "what_you_need": [
+    "Your registration number.",
+    "Your renewal number (as shown on your renewal notice).",
+    "Evidence of your continuing professional development.",
+    "Your fee payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents including evidence of your continuing professional development.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Renew online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to renew your registration.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "your application will be assessed by Building Commission NSW on set criteria for:",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "if Building Commission NSW contacts you to ask for more information the processing time may increase",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "you will be notified about the result of your application when the assessment is completed.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have questions about your registration you can contact Building Commission NSW.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "restore or replace a licence or registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/renew-restore-or-replace"
+    },
+    {
+      "text": "Change of Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/DBP"
+    },
+    {
+      "text": "maintain your registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/professional-engineers#toc-maintaining-your-registration"
+    },
+    {
+      "text": "work on regulated buildings",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/professionals-working-on-regulated-buildings/professional-engineers"
+    },
+    {
+      "text": "continuing professional development (CPD)",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/guidelines-for-professional-engineers"
+    },
+    {
+      "text": "insurance cover",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/insurance-cover"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-registration"
+    },
+    {
+      "text": "assessment process and time frames for licence and registration applications",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Professional engineer and/or design practitioner registration – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/about-us/privacy/privacy-collection-notices/privacy-collection-notice-for-professional-engineer-and/or-design-practitioner-registration"
+    },
+    {
+      "text": "Enquiry form",
+      "url": "https://dbp-enquiry.fairtrading.nsw.gov.au/forms/20467"
+    },
+    {
+      "text": "Design and Building Practitioners Act 2020",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2020-007"
+    },
+    {
+      "text": "Design and Building Practitioners Regulation 2021",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2021-0152"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-professional-engineer-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my professional engineer registration has expired?",
+      "a": "If your registration has expired, you cannot make declarations or lodge regulated designs as a professional engineer in NSW.",
+      "link": null
+    },
+    {
+      "q": "Do I need to update my name or contact details before applying?",
+      "a": "Yes, if you have changed your name or contact details, you must complete the Building Commission NSW form Change of Details – PDF before starting your application.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "q": "How can I check my current registration details?",
+      "a": "You can check your registration number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/DBP"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:50Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "133e6a841c1dedf93c1f0da6a1e9a7c9712afb8c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

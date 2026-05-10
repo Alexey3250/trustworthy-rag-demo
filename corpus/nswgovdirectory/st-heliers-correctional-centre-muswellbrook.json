@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/st-heliers-correctional-centre-muswellbrook",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/st-heliers-correctional-centre-muswellbrook",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "st-heliers-correctional-centre-muswellbrook",
+  "title": "St Heliers Correctional Centre (Muswellbrook)",
+  "summary": "This page provides information about the St Heliers Correctional Centre in Muswellbrook.",
+  "topics": [
+    "correctional-centre",
+    "muswellbrook",
+    "st-heliers"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/st-heliers-correctional-centre-muswellbrook.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/st-heliers-correctional-centre-muswellbrook.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:46Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0763c34a9384d2c40610ba75560df80634372a75",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

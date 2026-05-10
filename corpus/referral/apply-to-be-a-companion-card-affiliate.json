@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-to-be-a-companion-card-affiliate",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-to-be-a-companion-card-affiliate",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-to-be-a-companion-card-affiliate",
+  "title": "Apply to be a Companion Card affiliate",
+  "summary": "Find out how to register your business or organisation to become a Companion Card affiliate.",
+  "topics": [
+    "companion-card",
+    "affiliate-business",
+    "disability-support",
+    "community-access"
+  ],
+  "intro": "The Companion Card program was developed to ease the financial burden on people with significant and permanent disability who need attendant care when engaging in community activities. The card allows the card holder's accompanying carer or support person free entry into participating events and venues.\n\nThe program aims to promote a person’s right to fair ticketing and to make community access and participation more affordable. Hundreds of businesses, organisations, events and venues across NSW have registered as affiliates with the Companion Card program, promoting the rights of people with a lifelong disability.\n\nIf you'd like to register as an affiliate, you can do so online.",
+  "who_can_apply": [
+    "A business or organisation that wishes to promote the rights of people with a lifelong disability."
+  ],
+  "what_you_need": [
+    "Your business/organisation's details",
+    "Contact person's name and details",
+    "Description of your organisation's activities"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit Sign up as an affiliated business and select the 'Apply online' button.",
+      "link": "https://www.nsw.gov.au/community-services/companion-card/for-businesses/sign-up-as-an-affiliated-business"
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the online form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Learn more about being a Companion Card affiliate.",
+  "more_info": [
+    {
+      "text": "abide by the Companion Card Affiliate Terms and Conditions, and",
+      "link": "https://www.nsw.gov.au/community-services/companion-card/for-businesses/terms-and-conditions-for-affiliated-businesses"
+    },
+    {
+      "text": "display the Companion Card logo in a prominent customer service area and in promotional material where possible.",
+      "link": null
+    },
+    {
+      "text": "By registering as a Companion Card affiliate, you agree to:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Sign up as an affiliated business",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/for-businesses/sign-up-as-an-affiliated-business"
+    },
+    {
+      "text": "Companion Card Affiliate Terms and Conditions",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/for-businesses/terms-and-conditions-for-affiliated-businesses"
+    },
+    {
+      "text": "Companion Card affiliate",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/for-businesses"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the Companion Card program?",
+      "a": "The Companion Card program helps ease the financial burden on people with significant and permanent disability who need attendant care when engaging in community activities. It allows the card holder's accompanying carer or support person free entry into participating events and venues.",
+      "link": null
+    },
+    {
+      "q": "How can I apply to be an affiliate?",
+      "a": "You can register as an affiliate online by visiting the sign-up page and completing the online form.",
+      "link": "https://www.nsw.gov.au/community-services/companion-card/for-businesses/sign-up-as-an-affiliated-business"
+    },
+    {
+      "q": "What is the purpose of the Companion Card program?",
+      "a": "The program aims to promote a person’s right to fair ticketing and to make community access and participation more affordable.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:11Z",
+    "last_modified": "31 July 2025",
+    "html_sha1": "e85e81780b321c2b5ad326018194d7ba43edd880",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

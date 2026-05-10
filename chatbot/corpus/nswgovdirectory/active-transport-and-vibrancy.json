@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/active-transport-and-vibrancy",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/active-transport-and-vibrancy",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "active-transport-and-vibrancy",
+  "title": "Active Transport and Vibrancy",
+  "summary": "This page provides information about active transport and vibrancy initiatives in NSW.",
+  "topics": [
+    "active-transport",
+    "vibrancy",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.transport.nsw.gov.au/industry/active-transport-and-vibrancy",
+      "url": "https://www.transport.nsw.gov.au/industry/active-transport-and-vibrancy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:09Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b2aa725ceead6de74a1998c532fba81b31b765d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

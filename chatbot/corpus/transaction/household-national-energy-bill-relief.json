@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/household-national-energy-bill-relief",
+  "source_url": "https://www.service.nsw.gov.au/transaction/household-national-energy-bill-relief",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "household-national-energy-bill-relief",
+  "title": "Apply for the household National Energy Bill Relief payment",
+  "summary": "Find out about the National Energy Bill Relief payment available to NSW households to help with electricity costs.",
+  "topics": [
+    "energy-bill-relief",
+    "nsw-rebates",
+    "electricity-bills",
+    "household-payments"
+  ],
+  "intro": "The Australian Government has announced that all NSW households are eligible for up to $150 to help with the cost of their electricity bills in the 2025-26 financial year.\n\nMost households will receive their Bill Relief payment automatically from their electricity provider in two quarterly instalments of $75 on their electricity bill from 31 July 2025 and 1 October 2025.",
+  "who_can_apply": [
+    "All NSW households are eligible for up to $150 in National Energy Bill Relief for the 2025-26 financial year."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "apply separately for your Bill Relief payment",
+      "url": "https://application.billrelief.energy.nsw.gov.au/BillRelief/s/"
+    },
+    {
+      "text": "National Energy Bill Relief – NSW Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/national-energy-bill-relief"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Apply for the NSW Low Income Household Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Family Energy Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Life Support Energy Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-on-supply-customers"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:57Z",
+    "last_modified": "18 December 2025",
+    "html_sha1": "6630df3d3379326c0f5898407fd9147c72d3b5b0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

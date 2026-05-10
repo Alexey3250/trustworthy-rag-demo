@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-police-force-academy",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-police-force-academy",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-police-force-academy",
+  "title": "NSW Police Force Academy",
+  "summary": "This page provides information about the NSW Police Force Academy, which is where police officers receive their training.",
+  "topics": [
+    "police-career",
+    "training",
+    "nsw-police",
+    "academy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.police.nsw.gov.au/recruitment/academy_training/about_the_academy",
+      "url": "https://www.police.nsw.gov.au/recruitment/academy_training/about_the_academy"
+    },
+    {
+      "text": "Police officer careers",
+      "url": "https://www.police.nsw.gov.au/recruitment"
+    },
+    {
+      "text": "Police officer application – eligibility quiz",
+      "url": "https://www.police.nsw.gov.au/recruitment/application_process"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the academy?",
+      "a": "The NSW Police Force Academy provides training for police officers.",
+      "link": "https://www.police.nsw.gov.au/recruitment/academy_training/about_the_academy"
+    },
+    {
+      "q": "How can I start my police career?",
+      "a": "You can find general information about police officer careers at the NSW Police Force website.",
+      "link": "https://www.police.nsw.gov.au/recruitment"
+    },
+    {
+      "q": "What is the application process?",
+      "a": "You can use the eligibility quiz to help determine if you are suitable for a police officer role.",
+      "link": "https://www.police.nsw.gov.au/recruitment/application_process"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:00Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ffe0a1da514befb18dbf10edf082529cb788c144",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

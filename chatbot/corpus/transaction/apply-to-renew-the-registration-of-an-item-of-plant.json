@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-renew-the-registration-of-an-item-of-plant",
+  "title": "Apply to renew the registration of an item of plant",
+  "summary": "This page explains how to renew the registration for an item of plant before its expiry date.",
+  "topics": [
+    "plant-registration",
+    "renew-registration",
+    "work-health-safety",
+    "item-of-plant"
+  ],
+  "intro": "You must renew your item of plant registration before it expires.\n\nSafeWork NSW will email or post you your renewal notice approximately 60 days prior to the expiry date.\n\nIf you have not applied to renew before the item's registration expiry date, you'll have to apply for a new registration.\n\nNote: If the registration holder or location address has changed, visit Notify the relocation or change of ownership of registered plant.",
+  "who_can_apply": [
+    "The item of plant must still be in use.",
+    "The item must have been maintained, inspected, and tested according to Work Health and Safety (WHS) regulation standards by a competent person.",
+    "The registration holder must be able to renew the item of plant."
+  ],
+  "what_you_need": [
+    "A valid email address (this can be a shared mailbox).",
+    "Your renewal number (as shown on your renewal notice), or your registration number and the postcode of the item.",
+    "Supporting documentation, such as proof of payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your plant item registration.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach your supporting documents (if applicable).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A person is competent to inspect an item of plant if they have:",
+      "link": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0012/50313/SW09073-0818-427575.pdf"
+    },
+    {
+      "text": "If SafeWork NSW receives your renewal application before the registration expires, it will continue as current until you receive notice of the decision on your renewal application.",
+      "link": null
+    },
+    {
+      "text": "Items that are located at the same location and have the same owner will be aligned to the same renewal date. For further information on linking registrations at a location contact SafeWork NSW.",
+      "link": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations/plant-item-registration#contact-us"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "maintained, inspected and tested",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations/plant-item-registration#renew-a-registration"
+    },
+    {
+      "text": "engineer's inspection certificate – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0004/1069825/amusement-device-mechanical-structural-inspection-certificate.pdf"
+    },
+    {
+      "text": "electrical inspection certificate – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0003/1069824/amusement-device-electrical-inspection-certificate.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "competent person by SafeWork – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0012/50313/SW09073-0818-427575.pdf"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations/plant-item-registration#contact-us"
+    },
+    {
+      "text": "Plant registrations – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations"
+    },
+    {
+      "text": "Plant registration – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/plant-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I do not renew my plant registration before it expires?",
+      "a": "If you do not apply to renew before the item's registration expiry date, you will have to apply for a new registration.",
+      "link": null
+    },
+    {
+      "q": "When will I receive notice about the renewal?",
+      "a": "SafeWork NSW will email or post your renewal notice approximately 60 days prior to the expiry date.",
+      "link": null
+    },
+    {
+      "q": "What should I do if the registration holder or location address has changed?",
+      "a": "If the registration holder or location address has changed, you must visit the page to notify the relocation or change of ownership of registered plant.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:38Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "e024d45014b7f6fe65c7313cf66decf9da574460",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

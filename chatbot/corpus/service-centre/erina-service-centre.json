@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/erina-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/erina-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "erina-service-centre",
+  "title": "Erina Service Centre",
+  "summary": "This page provides information about the Erina Service Centre, including payment options, accessibility features, and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payment",
+    "gosford",
+    "woy-woy",
+    "tuggerah"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.437377,151.384871"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Gosford Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/gosford-service-centre"
+    },
+    {
+      "text": "Woy Woy Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/woy-woy-service-centre"
+    },
+    {
+      "text": "Tuggerah Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tuggerah-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:23Z",
+    "last_modified": null,
+    "html_sha1": "965f2000673ddafbb8eb44f099c0f04f2bc75061",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

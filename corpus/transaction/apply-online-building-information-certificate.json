@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-online-building-information-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-online-building-information-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-online-building-information-certificate",
+  "title": "Apply online for a building information certificate",
+  "summary": "You can apply online for a building information certificate (BIC) if you suspect work was done on a property without proper council or private certifier approvals.",
+  "topics": [
+    "building-information-certificate",
+    "property-purchase",
+    "council-approvals",
+    "nsw-planning-portal"
+  ],
+  "intro": "If you’re buying or selling a property and you suspect work may have been done without appropriate council or private certifier approvals, you can apply for a building information certificate (BIC).\n\nThis certificate ensures the whole or part of the building covered by the certificate won’t be subject to any regulatory action by the local council for 7 years.\n\nRegulatory action could include:\n\nYou can apply online for a BIC via the NSW Planning Portal.\n\nBefore you apply, check with your local council to ensure it is accepting online applications through the NSW Planning Portal.",
+  "who_can_apply": [
+    "The owner of the property",
+    "Another person, with the consent of the property owner",
+    "The purchaser of a property under a contract of sale (including the purchaser’s solicitor or agent)",
+    "A public authority that has notified the owner of its intention to apply for the certificate"
+  ],
+  "what_you_need": [
+    "An original, or certified copy, of a survey report and plan (if the land is zoned as residential), or a survey report (if the land is situated in other zones)",
+    "Specific documents requested by council such as building plans, specifications, or certificates (if applicable)",
+    "Copies of documents for uploading (the survey report and plan must represent the property and buildings as existing at the time of submitting the application)",
+    "Payment for the service (fees are listed on the NSW Planning Portal Service website)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You'll have the option to log in using your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Submit an online enquiry or contact Department of Planning, Housing and Infrastructure.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "NSW Planning Portal Service website",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Submitting an application for a building information certificate – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/QRGs/Submitting+an+Application+for+a+Building+Information+Certificate.pdf"
+    },
+    {
+      "text": "Submit an online enquiry",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Department of Planning, Housing and Infrastructure",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a building information certificate do?",
+      "a": "This certificate ensures that the whole or part of the building covered by the certificate will not be subject to any regulatory action by the local council for 7 years.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for a building information certificate?",
+      "a": "The owner of the property, another person (with the owner's consent), the purchaser of a property under a contract of sale, or a public authority that has notified the owner of its intention to apply.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for a BIC?",
+      "a": "You can apply online for a BIC via the NSW Planning Portal. Before applying, check with your local council to ensure they accept online applications through the NSW Planning Portal.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:23Z",
+    "last_modified": "13 May 2025",
+    "html_sha1": "fbd2acfc33e69a3db33a5546335abcb7d2554c03",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

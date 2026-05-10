@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/supreme-court",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/supreme-court",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "supreme-court",
+  "title": "Supreme Court",
+  "summary": "This page provides information about the Supreme Court of New South Wales.",
+  "topics": [
+    "supreme-court",
+    "nsw-justice",
+    "law",
+    "courts"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://supremecourt.nsw.gov.au/",
+      "url": "https://supremecourt.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3298d4dfe40dc4578a84831b5d0ee7a7ef03863f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

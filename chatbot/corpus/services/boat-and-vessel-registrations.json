@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations",
+  "source_url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "boat-and-vessel-registrations",
+  "title": "Boat and vessel registrations",
+  "summary": "This page provides information and links for managing all aspects of boat and vessel registrations in New South Wales.",
+  "topics": [
+    "boat-registration",
+    "vessel-registration",
+    "boatcode",
+    "vessel-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vessel-registration"
+    },
+    {
+      "text": "Reserve a personalised vessel registration number",
+      "url": "https://www.service.nsw.gov.au/transaction/reserve-a-personalised-vessel-registration-number"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    },
+    {
+      "text": "Change to a personalised vessel registration number",
+      "url": "https://www.service.nsw.gov.au/transaction/change-to-a-personalised-vessel-registration-number"
+    },
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    },
+    {
+      "text": "Submit a notice of disposal for a vessel",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-notice-disposal-vessel"
+    },
+    {
+      "text": "Transfer a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration"
+    },
+    {
+      "text": "Transfer a vessel registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator"
+    },
+    {
+      "text": "Cancel a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration"
+    },
+    {
+      "text": "Check the PPSR before buying a boat",
+      "url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register"
+    },
+    {
+      "text": "Check a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration"
+    },
+    {
+      "text": "Find a Boatcode Agent",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-boatcode-agent"
+    },
+    {
+      "text": "Apply for Boatcode Agency Accreditation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-boatcode-agency-accreditation"
+    },
+    {
+      "text": "Change the HIN certificate details for a vessel",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-hin-certificate-details-for-a-vessel"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start or update my vessel registration?",
+      "a": "You can apply for a new vessel registration, reserve a personalized number, or renew/restore an existing registration. You can also change details or transfer ownership.",
+      "link": null
+    },
+    {
+      "q": "What do I do if I sell or dispose of my boat?",
+      "a": "You must submit a notice of disposal for the vessel to properly transfer or cancel the registration.",
+      "link": null
+    },
+    {
+      "q": "How can I check the status of a boat or vessel?",
+      "a": "You can check a vessel registration directly, or check the Personal Property Securities Register (PPSR) before buying a boat.",
+      "link": null
+    },
+    {
+      "q": "What if I need to change the identification details of my vessel?",
+      "a": "You can change a vessel's details, change to a personalized registration number, or update the HIN certificate details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:35Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e7e113949801a3b4d51ce994437f7beeb0694341",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-to-be-a-nsw-seniors-card-program-participating-business",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-to-be-a-nsw-seniors-card-program-participating-business",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-to-be-a-nsw-seniors-card-program-participating-business",
+  "title": "Register to be a NSW Seniors Card program participating business",
+  "summary": "Businesses can register online to participate in the NSW Seniors Card program and offer discounts to seniors.",
+  "topics": [
+    "nsw-seniors-card",
+    "business-registration",
+    "discounts",
+    "australian-business-number"
+  ],
+  "intro": "More than 1.9 million seniors in NSW use their Seniors Card and Seniors Saver Card to spend money at businesses that offer product and service discounts to customers.\n\nCustomers can use an online map to find discounts in their local area. This map includes your business contact information, discount details and directions to your business. Customers can then redeem discounts by showing their Seniors Card or Senior Savers Card at the point of purchase.\n\nTo participate in the NSW Seniors Card program, you can register online.\n\nOnce you’ve registered, you can:",
+  "who_can_apply": [
+    "Must be a business operating in NSW.",
+    "Must have a valid Australian Business Number (ABN) or Australian Company Number (ACN).",
+    "Must be authorized to act on behalf of the business (listed as an associate in the Australian Business Register, or supply a letter of authority)."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Business details, including a valid licence (if applicable).",
+    "A letter of authority (if applicable).",
+    "The proposed service or product discount (minimum 10% discount required)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to register for the program.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Seniors Card and Seniors Saver Card",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card"
+    },
+    {
+      "text": "online map",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card/deals-discounts"
+    },
+    {
+      "text": "Australian Business Register (ABR)",
+      "url": "https://www.abr.gov.au/business-super-funds-charities/updating-or-cancelling-your-abn/update-your-abn-details"
+    },
+    {
+      "text": "Terms and conditions – NSW Seniors Card business providers – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-04/NSW%20Seniors%20Card%20%E2%80%93%20Terms%20and%20Conditions%20%28Businesses%29_0.pdf"
+    },
+    {
+      "text": "Connect your business with Seniors Card",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card/connecting-your-business"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "letter of authority",
+      "url": "https://www.service.nsw.gov.au/letter-of-authority/nsw-seniors-card-program"
+    },
+    {
+      "text": "Privacy Collection Notice – NSW Seniors Card business providers",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-seniors-card-program-participating-businesses"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can register to be a participating business?",
+      "a": "You must be a business operating in NSW with a valid Australian Business Number (ABN) or Australian Company Number (ACN). You must also be authorized to act on behalf of the business.",
+      "link": null
+    },
+    {
+      "q": "What is required to maintain the program's standards?",
+      "a": "The proposed service or product discount must be a minimum of 10%.",
+      "link": null
+    },
+    {
+      "q": "How do I check if my ABN details are correct?",
+      "a": "You can check and update your ABN details through the Australian Business Register (ABR).",
+      "link": "https://www.abr.gov.au/business-super-funds-charities/updating-or-cancelling-your-abn/update-your-abn-details"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:33Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "aec839ac050368119c2a5babb498b32314657402",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

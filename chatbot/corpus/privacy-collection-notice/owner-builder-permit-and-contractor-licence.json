@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/owner-builder-permit-and-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/owner-builder-permit-and-contractor-licence",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "owner-builder-permit-and-contractor-licence",
+  "title": "Owner-Builder Permit and Company/Partnership Contractor Licence – Privacy statement",
+  "summary": "This page outlines the privacy notice regarding the collection and use of personal information for owner-builder permits and contractor licences.",
+  "topics": [
+    "owner-builder",
+    "contractor-licence",
+    "privacy-notice",
+    "building-commission"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "we handle your personal information",
+      "link": null
+    },
+    {
+      "text": "you can access requests and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made, and",
+      "link": null
+    },
+    {
+      "text": "how you can contact each agency, including our addresses.",
+      "link": null
+    },
+    {
+      "text": "Read the Building Commission NSW privacy notice and the Service NSW privacy statement for more information about how",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW website",
+      "url": "https://verify.licence.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.idmatch.gov.au/resources/privacy-statement-identity-verification-services",
+      "url": "https://www.idmatch.gov.au/resources/identity-verification-services-privacy-statement"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces"
+    },
+    {
+      "text": "Building Commission NSW privacy notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/about-us/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is my personal information being collected?",
+      "a": "Information is collected to process your application under the Home Building Act 1989, verify your identity, contact you about your application, confirm your details for future applications, and manage your eligibility for the licence or permit.",
+      "link": null
+    },
+    {
+      "q": "Who might use my information?",
+      "a": "Your information may be used and disclosed to other NSW government agencies (including the NSW Police Force), other States, Territories, or the Commonwealth for assessing your application and compliance purposes, and to any organization or individual verifying your provided documents.",
+      "link": null
+    },
+    {
+      "q": "Will my information be made public?",
+      "a": "Yes, information may be recorded on a public register and published online on the Verify NSW website, as required by legislation.",
+      "link": "https://verify.licence.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:23Z",
+    "last_modified": "12 December 2025",
+    "html_sha1": "5351d416f60dfce95f310c0d2d2f1e71f7c43beb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

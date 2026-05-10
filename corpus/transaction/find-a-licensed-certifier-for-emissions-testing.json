@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-certifier-for-emissions-testing",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-certifier-for-emissions-testing",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-licensed-certifier-for-emissions-testing",
+  "title": "Find a licensed certifier for emissions testing",
+  "summary": "Find a licensed certifier if you need an emissions test for your non-standard light vehicle.",
+  "topics": [
+    "emissions-testing",
+    "non-standard-vehicles",
+    "vehicle-safety",
+    "certifier"
+  ],
+  "intro": "If you need an emissions test for your non-standard light vehicle, you can do this via a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier.\n\nNon-standard vehicles include:\n\nFor more information on emissions testing, visit the Transport for NSW website.",
+  "who_can_apply": [
+    "Owner of a non-standard light vehicle needing an emissions test"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/vehicle-standards-guidelines-for-registration/transport-for-nsw-standard-compliance-specifications"
+    },
+    {
+      "text": "Modified and non-standard vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/modified-and-non-standard-vehicles"
+    },
+    {
+      "text": "Air pollution and reducing emissions – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/environment-and-heritage/air-quality/air-pollution-and-vehicle"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:27Z",
+    "last_modified": "18 February 2026",
+    "html_sha1": "d16a22196af37da614430d586e6a3f8cc0d28a92",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

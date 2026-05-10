@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-eligibility-tool",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-eligibility-tool",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-fuel-tax-credit-eligibility-tool",
+  "title": "Use the fuel tax credit eligibility tool",
+  "summary": "Use the fuel tax eligibility tool to check your eligibility for fuel tax credits.",
+  "topics": [
+    "fuel-tax-credit",
+    "eligibility",
+    "australian-taxation-office",
+    "tax-credits"
+  ],
+  "intro": "You can use the fuel tax eligibility tool to check:\n\nVisit the Australian Taxation Office to learn more about fuel tax credits and to register online.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fuel tax credit eligibility tool",
+      "url": "https://www.ato.gov.au/calculators-and-tools/fuel-tax-credit-tools/"
+    },
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I learn more about fuel tax credits and register?",
+      "a": "Visit the Australian Taxation Office to learn more about fuel tax credits and to register online.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:56Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "3fb26a070f38dcd7f4275e550abad6cd1ee5f608",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

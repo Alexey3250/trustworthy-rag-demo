@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-under-the-automotive-workshop-scheme-raws",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-under-the-automotive-workshop-scheme-raws",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-registration-under-the-automotive-workshop-scheme-raws",
+  "title": "Apply for registration under the automotive workshop scheme (RAWS)",
+  "summary": "Find out what you need and how to apply to register a used vehicle that was imported into Australia under the registered automotive workshop scheme (RAWS).",
+  "topics": [
+    "automotive-workshop-scheme",
+    "vehicle-registration",
+    "imported-vehicle",
+    "service-nsw"
+  ],
+  "intro": "If you want to register a used vehicle that has been imported into Australia under the registered automotive workshop scheme (RAWS), you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [
+    "You are registering a used vehicle that has been imported into Australia under the registered automotive workshop scheme (RAWS)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Proof of registration entitlement",
+    "Proof of concession (if applicable)",
+    "Compulsory third party (CTP) insurance receipt (green slip) with the number plate section left blank (except for trailers)",
+    "Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (blue slip)",
+    "Vehicle Compliance Certificate from a licensed certifier (if the vehicle has been modified)",
+    "Fee payment",
+    "The PDF form – 'Application for Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Take the completed form and required documents to a service centre and lodge your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Vehicle Compliance Certificate from a licensed certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply to register a personally imported vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-personally-imported-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I apply to register my imported vehicle?",
+      "a": "You must visit a Service NSW Centre to lodge your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to register my imported vehicle?",
+      "a": "You need proof of identity, proof of registration entitlement, your proof of concession (if applicable), a CTP insurance receipt (green slip), an AUVIS report (blue slip), and a Vehicle Compliance Certificate if the vehicle was modified.",
+      "link": null
+    },
+    {
+      "q": "What forms do I need for the application?",
+      "a": "You need the PDF form, 'Application for Registration', and your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:22Z",
+    "last_modified": "14 November 2024",
+    "html_sha1": "369db8f828fcfa336bb5a9ab01d405773fd20508",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/app/vc-sharing",
+  "source_url": "https://www.service.nsw.gov.au/app/vc-sharing",
+  "category": "app",
+  "article_kind": "content",
+  "slug": "vc-sharing",
+  "title": "Share a credential",
+  "summary": "This page explains how to add and share credentials, such as licences, using the Service NSW app.",
+  "topics": [
+    "credential-sharing",
+    "service-nsw-app",
+    "licence-wallet",
+    "my-service-nsw-account"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The Service NSW app (downloaded or updated)",
+    "MyServiceNSW Account details",
+    "A phone camera (to scan the QR code)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://itunes.apple.com/au/app/nsw-rego/id577283433?mt=8"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.service"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Download the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I add a licence or credential to my wallet?",
+      "a": "Download the Service NSW app, log in with your MyServiceNSW Account details, select 'Wallet' from the homescreen, and then tap the 'Add' button. Follow the prompts to add your licence or credential.",
+      "link": null
+    },
+    {
+      "q": "How do I share a credential?",
+      "a": "Scan the QR code with your phone camera; the app's check-in page will open automatically. You will then review the requested information and complete a biometric check.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:59Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "a54d51c0b2a0de4bdd0d2e13ab4e3bc2f2fd9da8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

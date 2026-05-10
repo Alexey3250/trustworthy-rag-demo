@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-dangerous-goods-driver-licence",
+  "title": "Apply for a dangerous goods driver licence",
+  "summary": "This page provides information and steps on how to apply for a dangerous goods driver licence.",
+  "topics": [
+    "dangerous-goods",
+    "driver-licence",
+    "transport",
+    "apply-online"
+  ],
+  "intro": "You need a dangerous goods driver licence if you want to transport dangerous goods:\n\nIntermediate bulk containers (IBCs) with a total capacity of up to 3,000 litres are exempt, as long as they are not filled or emptied while on the vehicle.\n\nYou can apply online via eConnect EPA.",
+  "who_can_apply": [
+    "Have completed the training course 'TLILIC0001 Course in the transport of dangerous goods by road'.",
+    "Be certified as medically fit to drive by a general practitioner (GP).",
+    "Have a satisfactory driving history."
+  ],
+  "what_you_need": [
+    "Copies of required documents for online upload.",
+    "A credit card for payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Register to start a new application' and follow the prompts to apply.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you hold a current dangerous goods driver licence issued by another state or territory, you're able to drive a dangerous goods vehicle in NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Registered Training Organisation (RTO)",
+      "url": "https://www.yourcareer.gov.au/learn-and-train/training-providers"
+    },
+    {
+      "text": "Dangerous goods – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/dangerous-goods"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a dangerous goods vehicle licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-vehicle-licence"
+    },
+    {
+      "text": "Check a dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a dangerous goods driver licence?",
+      "a": "You need this licence if you plan to transport dangerous goods.",
+      "link": null
+    },
+    {
+      "q": "Are all dangerous goods exempt from this licence?",
+      "a": "Intermediate bulk containers (IBCs) with a total capacity of up to 3,000 litres are exempt, provided they are not filled or emptied while on the vehicle.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the licence?",
+      "a": "You can apply online via eConnect EPA.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:59Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "b6937f62b4a029c59590392bfb17a4cfb41157c0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

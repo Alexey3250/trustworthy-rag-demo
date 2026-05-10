@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/pawnbroker-and-second-hand-dealer-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/pawnbroker-and-second-hand-dealer-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "pawnbroker-and-second-hand-dealer-licences",
+  "title": "Pawnbroker and second-hand dealer licences",
+  "summary": "This page provides information and links for pawnbroker and second-hand dealer licence services in NSW.",
+  "topics": [
+    "pawnbroker-licence",
+    "second-hand-dealer-licence",
+    "business-licences",
+    "nsw-business-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a pawnbroker licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-pawnbroker-licence"
+    },
+    {
+      "text": "Apply for a second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-second-hand-dealer-licence"
+    },
+    {
+      "text": "Renew a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Replace a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Restore a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Change the details on a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Change the class on a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Surrender a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "NSW Civil and Administrative Tribunal (NCAT)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-civil-and-administrative-tribunal-ncat"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a pawnbroker or second-hand dealer licence?",
+      "a": "You can apply for a pawnbroker licence or a second-hand dealer licence using the dedicated application links.",
+      "link": null
+    },
+    {
+      "q": "What if I need to renew or replace my licence?",
+      "a": "You can renew, replace, or restore your pawnbroker or second-hand dealer licence through the service links.",
+      "link": null
+    },
+    {
+      "q": "How do I change my licence details or class?",
+      "a": "The service provides options to change the details or the class on an existing pawnbroker or second-hand dealer licence.",
+      "link": null
+    },
+    {
+      "q": "What is the process for surrendering a licence?",
+      "a": "You can surrender a pawnbroker or second-hand dealer licence using the provided service link.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:14Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "880a34c362ad16fef9a0464d4729c6f1c333ae2e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-document-translation-services",
+  "title": "Apply for document translation services",
+  "summary": "You can book an appointment and submit documents at a Service NSW Centre to get documents translated into English or another language.",
+  "topics": [
+    "document-translation",
+    "service-nsw",
+    "language-services",
+    "translation-services"
+  ],
+  "intro": "If you need documents translated into English, or from English into another language, you can book an appointment and submit the documents for translation at a Service NSW Centre.\n\nIf you need an interpreter, refer to Book an interpreter for spoken language.\n\nDocument translation services are available to:\n\nNote: You can request translation services on behalf of another person.",
+  "who_can_apply": [
+    "You can request translation services for yourself or on behalf of another person."
+  ],
+  "what_you_need": [
+    "Your original or certified document(s) for translation",
+    "Your reference number or confirmation email (received after submitting the Translation Lodgement Form)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the Translation Lodgement Form. Note: You can view this form in other languages.",
+      "link": "https://multiculturalnsw.plumsail.io/dad83aa0-e979-4e16-850c-b27481857450"
+    },
+    {
+      "n": 2,
+      "text": "Book an appointment at a service centre.",
+      "link": "https://www.service.nsw.gov.au/OnlineBookings?AT=DTR1"
+    },
+    {
+      "n": 3,
+      "text": "Attend your appointment with the document(s) to be translated, your Translation Lodgement Form confirmation email and your payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://multicultural.nsw.gov.au/translations-and-transcripts/"
+    },
+    {
+      "text": "Translation Lodgement Form",
+      "url": "https://multiculturalnsw.plumsail.io/dad83aa0-e979-4e16-850c-b27481857450"
+    },
+    {
+      "text": "free translation service",
+      "url": "https://translating.homeaffairs.gov.au/en"
+    },
+    {
+      "text": "Language services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/language-service-providers-nsw/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Book an appointment",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings?AT=DTR1"
+    },
+    {
+      "text": "Multicultural NSW Parramatta office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/multicultural-nsw"
+    },
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Support and guidance for new arrivals",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "Provide language interpretation for a statutory declaration",
+      "url": "https://www.service.nsw.gov.au/referral/provide-language-interpretation-for-a-statutory-declaration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What documents can be translated?",
+      "a": "Services are available for translating various documents, including driver licences, marriage certificates, divorce certificates, birth certificates, death certificates, passport extracts, baptismal certificates, and family entries.",
+      "link": null
+    },
+    {
+      "q": "How do I start the translation process?",
+      "a": "First, complete the Translation Lodgement Form. You can view this form in other languages. After that, book an appointment at a Service NSW Centre.",
+      "link": "https://multiculturalnsw.plumsail.io/dad83aa0-e979-4e16-850c-b27481857450"
+    },
+    {
+      "q": "What do I need to bring to my appointment?",
+      "a": "You need your original or certified document(s) for translation, your reference number or confirmation email, and your payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:35Z",
+    "last_modified": "5 August 2025",
+    "html_sha1": "6c56af53d8796b2255d95b92e77f2d0ed86fe97a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

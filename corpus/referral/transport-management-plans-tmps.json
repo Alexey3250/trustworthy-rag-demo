@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/transport-management-plans-tmps",
+  "source_url": "https://www.service.nsw.gov.au/referral/transport-management-plans-tmps",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "transport-management-plans-tmps",
+  "title": "Transport Management Plans (TMPs)",
+  "summary": "This page explains what a Transport Management Plan (TMP) is and when it is required for oversize and/or overmass (OSOM) journeys on NSW roads.",
+  "topics": [
+    "transport-management-plan",
+    "oversize-overmass",
+    "nsw-roads",
+    "heavy-vehicles"
+  ],
+  "intro": "A Transport Management Plan (TMP) – PDF describes how an oversize and/or overmass (OSOM) journey will be managed on NSW roads.\n\nThe purpose of the plan is to ensure that journeys are carried out in a safe and responsible manner and with minimum impact on other road users and road infrastructure.\n\nA TMP is required for all OSOM movements that:\n\nTo complete the TMP you'll need to provide details of:\n\nThe Transport Management Plan Fact Sheet – PDF provides clear instructions as to what is expected when completing the form\n\nNote: If you'll be travelling over a railway crossing you will also need Rail Infrastructure Manager (RIM) approval.",
+  "who_can_apply": [
+    "OSOM movements on NSW roads"
+  ],
+  "what_you_need": [
+    "Details of the OSOM journey",
+    "Transport Management Plan Fact Sheet (for instructions on completing the form)",
+    "Rail Infrastructure Manager (RIM) approval (if travelling over a railway crossing)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport Management Plan (TMP) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071763-spu-transport-mng-plan.pdf"
+    },
+    {
+      "text": "Transport Management Plan Fact Sheet – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2025/transport-management-plan-fact-sheet.pdf"
+    },
+    {
+      "text": "Rail Infrastructure Manager (RIM) approval",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access-1#Rail_Infrastructure_Manager_(RIM)_approval"
+    },
+    {
+      "text": "Transport Management Plans",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access-1#Transport_Management_Plans_(TMPs)"
+    },
+    {
+      "text": "Level Crossing Finder – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/projects/programs/level-crossing-safety/level-crossing-finder"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is a Transport Management Plan (TMP)?",
+      "a": "A Transport Management Plan (TMP) describes how an oversize and/or overmass (OSOM) journey will be managed on NSW roads.",
+      "link": null
+    },
+    {
+      "q": "When is a TMP required?",
+      "a": "A TMP is required for all OSOM movements.",
+      "link": null
+    },
+    {
+      "q": "Do I need special approval if I cross a railway?",
+      "a": "If you are travelling over a railway crossing, you will also need Rail Infrastructure Manager (RIM) approval.",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access-1#Rail_Infrastructure_Manager_(RIM)_approval"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:32Z",
+    "last_modified": "21 January 2025",
+    "html_sha1": "445406cdeb50ba212bc3aacf3aa64ca11ea6bb4b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

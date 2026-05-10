@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation",
+  "title": "Apply for a liquor licence exemption for a non-profit organisation",
+  "summary": "Non-profit organisations can apply for a liquor licence exemption to sell alcohol at up to six fundraising functions in a year.",
+  "topics": [
+    "liquor-licence",
+    "non-profit-organisation",
+    "fundraising-event",
+    "alcohol-exemption"
+  ],
+  "intro": "If you’re a non-profit organisation and you want to sell alcohol at an event, you may be eligible to have up to 6 fundraising functions a year without the need to get a liquor licence.\n\nExamples of functions include dinners, balls, conventions, sporting events, performances, exhibitions, seminars, carnivals and fetes.\n\nA non-profit organisation (also known as a non-proprietary association) includes amateur sports clubs, community groups, parents and citizens’ associations, and charities.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Must be a non-profit organisation (non-proprietary association) as defined under liquor laws and described by Liquor & Gaming.",
+    "Must currently hold a limited liquor licence on behalf of an organisation.",
+    "Must not have been prevented from holding a liquor licence by an order.",
+    "Must not be an organisation that has been declared ineligible for exemption.",
+    "Must not be an organisation, secretary, or office holder who has committed a serious offence under the liquor laws during the last 6 months."
+  ],
+  "what_you_need": [
+    "Personal and contact details.",
+    "Name of the non-profit organisation.",
+    "Details of the function/s.",
+    "The PDF form: 'Liquor licence exemption for fundraising function'."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Print, complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your completed form at least 14 days before the start of the function, by mail or email, to the details on the form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Forward a copy of the form to the local police and local council where the function is being held.",
+      "link": "https://www.police.nsw.gov.au"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/licence-types/exemption-nfps#toc-is-my-organisation-eligible"
+    },
+    {
+      "text": "local police",
+      "url": "https://www.police.nsw.gov.au"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a limited liquor licence – single function",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-single-function"
+    },
+    {
+      "text": "Apply for a limited liquor licence – multiple functions",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-multiple-functions"
+    },
+    {
+      "text": "Submit a limited liquor licence functions notification",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-limited-liquor-licence-functions-notification"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of events qualify for the exemption?",
+      "a": "Examples of qualifying functions include dinners, balls, conventions, sporting events, performances, exhibitions, seminars, carnivals, and fetes.",
+      "link": null
+    },
+    {
+      "q": "Who is considered a non-profit organisation for this exemption?",
+      "a": "A non-profit organisation includes amateur sports clubs, community groups, parents and citizens’ associations, and charities.",
+      "link": null
+    },
+    {
+      "q": "How many functions can I hold under this exemption?",
+      "a": "You may be eligible to have up to 6 fundraising functions a year without needing a liquor licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:35Z",
+    "last_modified": "11 August 2025",
+    "html_sha1": "75679268cb60aedf04ceb3ab11916b4176c69244",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-family-history-certificate",
+  "title": "Order a family history certificate",
+  "summary": "This page provides instructions on how to apply for a family history certificate from the Registry of Births Deaths & Marriages.",
+  "topics": [
+    "family-history",
+    "certificate",
+    "birth-death-marriage",
+    "registry"
+  ],
+  "intro": "The Registry of Births Deaths & Marriages holds early church records from 1788 to 1855, and records of birth, death and marriage registrations from 1856.\n\nYou can apply for a family history certificate, once a set amount of time has elapsed:",
+  "who_can_apply": [
+    "The application can be made once a set amount of time has elapsed."
+  ],
+  "what_you_need": [
+    "Your personal details",
+    "Payment",
+    "Family name/s and the date range of the event",
+    "The registration number (if known)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the event you want to search for.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If you know the registration number, enter it. If you don't, fill in at least one name field and the date range.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Search'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Check the box next to the certificate you want to purchase, and select 'Add to order'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Choose the delivery method from the drop-down menu and select 'Update Order'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select 'Purchase'.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Enter your personal details.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Print your confirmation page.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Download and complete the Application for a Family History Certificate – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2025-01/apply-for-family-history-certificate.pdf"
+    },
+    {
+      "n": 12,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "Submit according to the instructions on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you change your mind, or decide the certificate is no longer required, your application fee will not be refunded.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Application for a Family History Certificate – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2025-01/apply-for-family-history-certificate.pdf"
+    },
+    {
+      "text": "All about family history",
+      "url": "https://www.nsw.gov.au/family-and-relationships/family-history-search"
+    },
+    {
+      "text": "Family ancestry search guide – Births Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/family-history-search/search-guide"
+    },
+    {
+      "text": "Early church and district codes – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/family-history-search/early-church-and-district-codes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of records are available?",
+      "a": "The Registry of Births Deaths & Marriages holds early church records from 1788 to 1855, and records of birth, death and marriage registrations from 1856.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a certificate?",
+      "a": "You need your personal details, payment, family name/s and the date range of the event, and the registration number if you know it.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a family history certificate?",
+      "a": "You can apply by selecting 'Apply online', following the steps to search for the certificate, adding it to your order, and completing the purchase and application form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:03Z",
+    "last_modified": "23 October 2025",
+    "html_sha1": "644c4cb82a07f2b91c6c6aca37a4c5ae0d9cc2d8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

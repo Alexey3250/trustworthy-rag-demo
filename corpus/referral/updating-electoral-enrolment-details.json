@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details",
+  "source_url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "updating-electoral-enrolment-details",
+  "title": "Updating electoral enrolment details",
+  "summary": "This page explains that if your name, residential address, or postal address has changed, you must update your details on the electoral rolls.",
+  "topics": [
+    "electoral-enrolment",
+    "update-details",
+    "address-change",
+    "name-change"
+  ],
+  "intro": "If details regarding your name, residential address or postal address have changed, you must update the various electoral rolls.\n\nThe Australian Electoral Commission (AEC) website provides an online form whereby you can update your details on all the electoral rolls:\n\nIf you're unable to update online, there are alternative methods of updating explained on the website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Electoral Commission (AEC) website",
+      "url": "https://www.aec.gov.au/enrol/update-my-details.htm"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:57Z",
+    "last_modified": "10 January 2025",
+    "html_sha1": "4dc054e8d8bd9a7d8a19cb5ef3f78dd44cc02c3b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

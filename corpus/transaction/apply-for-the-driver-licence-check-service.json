@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-driver-licence-check-service",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-driver-licence-check-service",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-driver-licence-check-service",
+  "title": "Apply for the Driver Licence Check service",
+  "summary": "This page explains how organizations can apply for the Driver Licence Check service to validate driver licence requirements for company vehicles.",
+  "topics": [
+    "driver-licence",
+    "company-vehicles",
+    "road-safety",
+    "licence-check"
+  ],
+  "intro": "The Driver Licence Check validation service helps companies determine that drivers of company vehicles meet the required licence requirements, and provides a general means to enhance good driving, road safety and identity security.\n\nThe Driver Licence Check service covers licence and selective demerit point validation. If you're acting for an organisation that would like to apply for the Driver Licence Check service, you can do this online.",
+  "who_can_apply": [
+    "acting for an organisation"
+  ],
+  "what_you_need": [
+    "your organisation's details",
+    "your contact and employment details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form with your personal and organisation details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit the completed form for processing.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Each user must apply to Transport for NSW (TfNSW) for approval to use the Driver Licence Check service.",
+      "link": null
+    },
+    {
+      "text": "TfNSW will contact you directly to give you information and a Standard Agreement about using the service.",
+      "link": null
+    },
+    {
+      "text": "The Standard Agreement must be signed by a senior member of your organisation before being returned to TfNSW.",
+      "link": null
+    },
+    {
+      "text": "The Standard Agreement requires each user to give a significant undertaking about permitted use, record-keeping, administration, auditing and privacy conditions.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Driver Licence Check – Terms and Conditions",
+      "url": "https://www.myrta.com/myrta/applications/tpe/tpe_eoi_conditions.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:44Z",
+    "last_modified": "10 February 2026",
+    "html_sha1": "d3c3460018b4bad6f31953d999348dc806b374e9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

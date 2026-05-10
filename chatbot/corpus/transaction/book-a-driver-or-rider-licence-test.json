@@ -1,0 +1,233 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-driver-or-rider-licence-test",
+  "title": "Book a driver or rider licence test",
+  "summary": "This page provides information on how to book and prepare for driver or rider licence tests required to progress to a full licence.",
+  "topics": [
+    "driver-licence",
+    "rider-licence",
+    "licence-test",
+    "graduated-licensing"
+  ],
+  "intro": "To progress to a full licence through the NSW driver/rider graduated licensing scheme, you need to pass tests at each stage, including:\n\nYou can book appointments to take these tests.\n\nTo take the driver knowledge test (DKT) online, you can choose the DKT online course.\n\nYou can prepare for your tests by:",
+  "who_can_apply": [
+    "You must complete all requirements specific to the test you are taking, and there is a different minimum age requirement for each test.",
+    "Testing requirements may differ for older drivers and riders.",
+    "To drive a heavy vehicle, you must have the appropriate class of heavy vehicle licence and meet load requirements.",
+    "If you logged hours via a log book app, you must submit those hours through the app at least 48 hours before your practical driving test."
+  ],
+  "what_you_need": [
+    "Your driver licence number, Photo Card, or TfNSW customer number (for all bookings except the driver knowledge test).",
+    "Payment.",
+    "Proof of identity (when visiting a service centre for testing)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Book online' button. This will take you to the 'Book a test' booking system.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select one the options, either:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to book your test.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can take your test in a quieter environment at a Quiet Hour service centre location.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "You can take the driving test as many times as you like, but you must pay each time, and allow 7 days between tests.",
+      "link": null
+    },
+    {
+      "text": "If you fail your driving test, the examiner will explain to you why you failed a particular area/s.",
+      "link": null
+    },
+    {
+      "text": "### Test attempts",
+      "link": null
+    },
+    {
+      "text": "### Airbag recall",
+      "link": null
+    },
+    {
+      "text": "If the vehicle you will be driving for your test has an airbag affected by the Takata airbag recall, your driver test won’t take place unless you have it replaced before your test. Check online if your vehicle is affected.",
+      "link": null
+    },
+    {
+      "text": "### Other licence booking websites",
+      "link": null
+    },
+    {
+      "text": "Service NSW and Transport for NSW are aware of a Third Party website offering to book licence tests online. As well as the fee charged by Transport for NSW, this site will charge you additional fees to book a test.",
+      "link": null
+    },
+    {
+      "text": "Transport for NSW and Service NSW do not have any connection with these other websites or services, and are limited in providing help if you have difficulties booking through them.",
+      "link": null
+    },
+    {
+      "text": "If you'd like to book a driver or licence test we recommend that you use the online test booking service provided on this page.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "log book app",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/learners-driver-log-book-app"
+    },
+    {
+      "text": "heavy vehicle licence",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/getting-a-heavy-vehicle-licence"
+    },
+    {
+      "text": "load requirements",
+      "url": "https://www.nhvr.gov.au/road-access/mass-dimension-and-loading/general-mass-and-dimension-limits"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-test-fees"
+    },
+    {
+      "text": "prove your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Find a rider training centre",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres/find-a-rider-training-centre"
+    },
+    {
+      "text": "Check online",
+      "url": "https://www.fcai.com.au/is-my-airbag-safe/"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "A Guide to the Driving Test – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-08/guide-to-driving-test.pdf"
+    },
+    {
+      "text": "Hazard perception handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-08/hazard-perception-handbook.pdf"
+    },
+    {
+      "text": "Tests and practice tests for drivers – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests"
+    },
+    {
+      "text": "Driver licences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences"
+    },
+    {
+      "text": "Roads information – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw"
+    },
+    {
+      "text": "Learner driver rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence#toc-learner-driver-rules"
+    },
+    {
+      "text": "Rules for P1 drivers and riders – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p1-licence#toc-rules-for-provisional-p1-licence"
+    },
+    {
+      "text": "Provisional P2 licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p2-licence"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Knowledge and driving test exemption – overseas licence holders",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/visiting-or-moving-to-nsw/moving-your-overseas-licence/knowledge-and-driving-test-exemptions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "more about DKT online",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    },
+    {
+      "text": "older drivers and riders",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Common questions about what you need for your driving test",
+      "url": "https://www.service.nsw.gov.au/common-questions/practical-driving-test-checklist"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Quiet Hour service centre location",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Road User Handbook (includes language translations)",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "Book a Driver Knowledge Test (DKT) in-person",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-knowledge-test-dkt-in-person"
+    },
+    {
+      "text": "Book a motorcycle rider training course",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course"
+    },
+    {
+      "text": "Apply for a learner driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do to get a full licence?",
+      "a": "To progress to a full licence through the NSW driver/rider graduated licensing scheme, you must pass tests at each stage.",
+      "link": null
+    },
+    {
+      "q": "How do I book a licence test?",
+      "a": "Select the 'Book online' button to go to the 'Book a test' booking system, then follow the prompts to book your test.",
+      "link": null
+    },
+    {
+      "q": "What do I need to bring to the test?",
+      "a": "You need your driver licence number, Photo Card, or TfNSW customer number (for all bookings except the driver knowledge test), and your payment. You must also prove your identity.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:45Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "a84c4ccf556aae15dbd6fc62dc412d1380b9f83a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

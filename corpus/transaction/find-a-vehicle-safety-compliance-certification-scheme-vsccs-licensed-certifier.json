@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier",
+  "title": "Find a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier",
+  "summary": "Find information about using a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier to inspect non-standard vehicles for compliance with NSW safety standards.",
+  "topics": [
+    "vehicle-safety",
+    "non-standard-vehicles",
+    "vscs",
+    "modifications"
+  ],
+  "intro": "If you have a non-standard vehicle, it will need to be inspected by a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier to ensure it complies with NSW vehicle safety standards.\n\nNon-standard vehicles include:\n\nHeavy vehicle modifications are inspected and assessed for compliance by VSCCS J&P certifiers. A heavy vehicle J code modification includes simple body mountings and a P code modification includes tow coupling, fifth wheel and king pin installations.\n\nFind out more about modified and non-standard vehicles.\n\nBefore you make modifications to a vehicle, you should check the certification requirements with a licensed certifier. For example, you might need photos of the modification work, or bring the vehicle in for inspection at various stages during the modification process. Some minor modifications may not require certification.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Checking certification requirements with a licensed certifier is recommended before making modifications.",
+    "You might need photos of the modification work or need to bring the vehicle in for inspection at various stages during the modification process."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "modified and non-standard vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/modified-and-non-standard-vehicles"
+    },
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme (VSCCS) – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/vehicle"
+    },
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme J&P (VSCCS J&P) – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors-2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Vehicle Safety Compliance certifier licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-safety-compliance-certifier-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What kind of vehicles need to be inspected by a VSCCS licensed certifier?",
+      "a": "Non-standard vehicles must be inspected by a VSCCS licensed certifier to ensure they comply with NSW vehicle safety standards.",
+      "link": null
+    },
+    {
+      "q": "What modifications are inspected by VSCCS J&P certifiers?",
+      "a": "Heavy vehicle J code modifications (including simple body mountings) and P code modifications (including tow coupling, fifth wheel, and king pin installations) are inspected and assessed for compliance by VSCCS J&P certifiers.",
+      "link": null
+    },
+    {
+      "q": "Do I need to check certification requirements before making modifications?",
+      "a": "Yes, before making modifications, you should check the certification requirements with a licensed certifier, as you might need photos or bring the vehicle in for inspection at various stages.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:44Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "3e33b434f80d3282a70d08bf43054e16a6687a23",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/victims-services-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/victims-services-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "victims-services-nsw",
+  "title": "Victims Services NSW",
+  "summary": "This page provides information and links to various services available for victims of crime in New South Wales.",
+  "topics": [
+    "victims-support",
+    "crime-victim-help",
+    "nsw-services",
+    "support-after-crime"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/victims-services",
+      "url": "https://www.nsw.gov.au/victims-services"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Victims Support Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/get-help-through-the-victims-support-scheme"
+    },
+    {
+      "text": "Families and Friends of Missing Persons Unit",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/families-and-friends-of-missing-persons-unit"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Get help through the Victims Support Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/get-help-through-the-victims-support-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find help for victims of crime in NSW?",
+      "a": "The page lists several services and resources, including the Victims Support Scheme, to help victims of crime in New South Wales.",
+      "link": "https://www.nsw.gov.au/victims-services"
+    },
+    {
+      "q": "What is the Victims Support Scheme?",
+      "a": "The Victims Support Scheme is a resource that provides assistance and support to victims of crime.",
+      "link": "https://www.service.nsw.gov.au/referral/get-help-through-the-victims-support-scheme"
+    },
+    {
+      "q": "What services are available for families of missing persons?",
+      "a": "The Families and Friends of Missing Persons Unit provides support and information for families dealing with missing persons.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/families-and-friends-of-missing-persons-unit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:05Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cf2b6b0da0bf59631d88232d7fe10aa46b42b2c5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

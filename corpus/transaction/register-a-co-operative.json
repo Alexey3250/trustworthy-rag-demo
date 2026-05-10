@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-co-operative",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-co-operative",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-co-operative",
+  "title": "Register a co-operative",
+  "summary": "This page outlines the steps and requirements for registering a new co-operative in NSW.",
+  "topics": [
+    "co-operative",
+    "register",
+    "business",
+    "nsw"
+  ],
+  "intro": "There are 3 steps to registering a new co-operative:\n\nYou can lodge the completed forms and supporting documents by email, mail, or in person at a service centre.\n\nFor detailed information on the documentation you need to complete this transaction visit About co-operatives on the NSW Fair Trading website.",
+  "who_can_apply": [
+    "Two-thirds of prospective members must vote to adopt the rules at the formation meeting.",
+    "A proposed co-operative must have a membership."
+  ],
+  "what_you_need": [
+    "Form 'Application to approve co-operative name, rules and formation disclosure statement'",
+    "Name of the proposed co-operative",
+    "Draft rules",
+    "Draft formation disclosure statement (if applicable)",
+    "At least 5 prospective members in attendance",
+    "The completed 'Application to Register a Co-operative' form",
+    "Registered office and postal addresses of the co-operative",
+    "Estimated financial details including share numbers and value, revenue, gross assets, and number of employees",
+    "Details of co-operative board members elected at the formation meeting",
+    "2 signed and certified copies of the rules",
+    "1 copy of signed and certified formation disclosure statement (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your supporting documents and the completed 'Application to approve co-operative name, rules and formation disclosure statement'.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Submit the documents and completed form either:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "When approval from the Registrar has been received:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit the signed 'Application to Register a Co-operative' form, rules and disclosure statement (if applicable), and application fee to Registry Services.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "All members of a co-operative have equal status and voting rights.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "About co-operatives",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives"
+    },
+    {
+      "text": "Application to approve co-operative name, rules and formation disclosure statement",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives/co-operatives-forms/form-c1"
+    },
+    {
+      "text": "Application to Register a Co-operative",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives/co-operatives-forms/form-c4"
+    },
+    {
+      "text": "Starting a co-operative – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives/starting-a-co-operative"
+    },
+    {
+      "text": "Co-operatives fees – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives/about-co-operatives/co-operatives-fees"
+    },
+    {
+      "text": "Co-operatives forms – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives/co-operatives-forms"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I submit my co-operative registration documents?",
+      "a": "You can lodge the completed forms and supporting documents by email, mail, or in person at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What is the first step to registering a co-operative?",
+      "a": "The first step is to gather your supporting documents and the completed 'Application to approve co-operative name, rules and formation disclosure statement'.",
+      "link": null
+    },
+    {
+      "q": "What do I need to submit after the Registrar approves the name and rules?",
+      "a": "You must submit the signed 'Application to Register a Co-operative' form, rules and disclosure statement (if applicable), and the application fee to Registry Services.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:58Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "70dbc795897fd2c7529c05d6a8ec860f2903d225",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-liquor-licence-manager",
+  "title": "Use the Liquor Licence Manager",
+  "summary": "Use the Liquor Licence Manager online service to manage your liquor licence.",
+  "topics": [
+    "liquor-licence",
+    "nsw",
+    "business-owner",
+    "manager"
+  ],
+  "intro": "The Liquor Licence Manager is an online service where you can:",
+  "who_can_apply": [
+    "Be at least 18 years of age",
+    "Hold a NSW Liquor Licence and be listed as a premises owner, business owner, spouse or family member, or legal representative.",
+    "Act on behalf of the licensee as one of the following: premises owner, business owner, spouse or family member, or legal representative."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "A current liquor licence number",
+    "Personal details of the licensee (for individuals)",
+    "ABN, ACN, or Y/Inc of the licensee (for organisations)",
+    "The representative's name and contact details (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in using an existing MyServiceNSW Account or follow the prompts to create a new account.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can contact Liquor & Gaming NSW at liquorlicencemanager@liquorandgaming.nsw.gov.au for more information.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Applying for and managing your liquor licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/modify-manage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a liquor approved manager licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:50Z",
+    "last_modified": "4 September 2024",
+    "html_sha1": "18ad12b7b869b0d3c2ec5fdeb8ef6095ee651b40",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

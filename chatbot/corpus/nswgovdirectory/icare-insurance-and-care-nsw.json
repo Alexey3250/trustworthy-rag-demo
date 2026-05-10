@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "icare-insurance-and-care-nsw",
+  "title": "icare (Insurance and Care NSW)",
+  "summary": "This page provides information about various insurance and care schemes available in NSW, including details on who they cover and how to get help.",
+  "topics": [
+    "insurance",
+    "care-support",
+    "nsw-schemes",
+    "health-care"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals covered by CTP Care",
+    "Individuals covered by Dust Diseases Care",
+    "Individuals covered by Home Building Compensation Fund (HBCF)",
+    "Individuals covered by Insurance for NSW",
+    "Individuals covered by Lifetime Care and Support Scheme",
+    "Individuals covered by Sporting Injuries Insurance Scheme",
+    "Individuals covered by Workers Insurance and Workers Care Program"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/",
+      "url": "https://www.icare.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.icare.nsw.gov.au/contact-us",
+      "url": "https://www.icare.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "CTP Care (icare)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/ctp-care-icare"
+    },
+    {
+      "text": "Dust Diseases Care (icare)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-care-icare"
+    },
+    {
+      "text": "Home Building Compensation Fund (HBCF)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/home-building-compensation-fund-hbcf"
+    },
+    {
+      "text": "Insurance for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/insurance-for-nsw"
+    },
+    {
+      "text": "Lifetime Care and Support Scheme (icare)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/lifetime-care-and-support-scheme-icare"
+    },
+    {
+      "text": "Sporting Injuries Insurance Scheme",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sporting-injuries-insurance-scheme"
+    },
+    {
+      "text": "Workers Insurance and Workers Care Program (icare)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/workers-insurance-and-workers-care-program-icare"
+    },
+    {
+      "text": "Dust Diseases Board",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-board"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general information about iCare (Insurance and Care NSW)?",
+      "a": "You can visit the main iCare website for general information.",
+      "link": "https://www.icare.nsw.gov.au/"
+    },
+    {
+      "q": "What schemes are covered by iCare?",
+      "a": "iCare covers various schemes, including CTP Care, Dust Diseases Care, Home Building Compensation Fund (HBCF), Insurance for NSW, Lifetime Care and Support Scheme, Sporting Injuries Insurance Scheme, and Workers Insurance and Workers Care Program.",
+      "link": null
+    },
+    {
+      "q": "How can I contact iCare for assistance?",
+      "a": "You can find contact details on the dedicated iCare contact page.",
+      "link": "https://www.icare.nsw.gov.au/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "63ad402f3f5f03d22afc4568f3395646a1a5f914",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

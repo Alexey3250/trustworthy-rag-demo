@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-permit-to-acquire-a-firearm-pta",
+  "title": "Apply for a permit to acquire a firearm (PTA)",
+  "summary": "This page explains how to apply for a permit to acquire a firearm (PTA) if you already hold a current NSW firearms licence or permit.",
+  "topics": [
+    "firearms",
+    "firearm-permit",
+    "nsw-licence",
+    "pta-application"
+  ],
+  "intro": "To acquire a firearm, you must be the holder of a current NSW firearms licence or permit. You're then able to apply for a permit to acquire a firearm (PTA).\n\nThe category of licence or permit you hold will indicate what category of firearm you're eligible to possess. For example, if you hold a category B licence or permit, you're only authorised to acquire a category B firearm.\n\nNote: If any personal or business details have changed you must update them before you apply for your PTA.To do so, visit either:",
+  "who_can_apply": [
+    "You must hold a current NSW firearms licence or permit.",
+    "You may only apply for the type of firearm that your category of licence authorises you to possess.",
+    "Probationary pistol licence (PPL) holders can only apply for a PTA in the second 6 months of their pistol licence."
+  ],
+  "what_you_need": [
+    "Proof of identity documents (such as your driver licence and birth certificate).",
+    "A MyServiceNSW Account.",
+    "Your current firearm licence or permit number.",
+    "A current credit card (Visa or Mastercard) for payment (if applicable).",
+    "A Pistol Firearms Safety Training (PPL) Completion Certificate – PDF (for probationary pistol licence holders only).",
+    "A COPS Event Number to confirm adequate safe storage, unless you are storing your firearms at your club.",
+    "Club confirmation (this is triggered automatically when providing your nominated club details in the online PTA application).",
+    "If applying for a handgun for sports target shooting, you also need the required documentation."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You will be taken to the NSW Police Force Community Self Service Portal.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check that you have all the documentation required.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Log in with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Personal/business details include your:",
+      "link": null
+    },
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562, between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": "tel:1300362562"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Firearms Registry Public Register",
+      "url": "https://apps.police.nsw.gov.au/FPR/licenceCheck/search.jsp"
+    },
+    {
+      "text": "Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    },
+    {
+      "text": "Pistol Firearms Safety Training (PPL) Completion Certificate – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0007/187468/PPL_FST_Completion_Certificate.pdf"
+    },
+    {
+      "text": "Firearm licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/854721/NSWPF_Firearms_Registry_Privacy_Collection_Notice.pdf"
+    },
+    {
+      "text": "Licence Categories and Firearm Types – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0007/133198/Licence_Categories_and_Firearm_Types_FACT_Sheet.pdf"
+    },
+    {
+      "text": "Licence Categories & Genuine Reason Table – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0015/133134/GR_TABLE.pdf"
+    },
+    {
+      "text": "Club Confirmation Information – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0008/743660/Club_Confirmation_Flyer.pdf"
+    },
+    {
+      "text": "Firearms and ammunition – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/firearms_and_ammunition"
+    },
+    {
+      "text": "Safe storage of firearms – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    },
+    {
+      "text": "Firearms Data – NSW Police",
+      "url": "https://www.police.nsw.gov.au/about_us/information_of_interest_to_the_community/firearms_data"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Update details on a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a Permit to Acquire a Firearm (PTA)?",
+      "a": "You must hold a current NSW firearms licence or permit. The category of your licence or permit determines what category of firearm you are eligible to possess.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I am a probationary pistol licence (PPL) holder?",
+      "a": "PPL holders can only apply for a PTA in the second 6 months of their pistol licence. You can check your PPL issue date on the Firearms Registry Public Register.",
+      "link": "https://apps.police.nsw.gov.au/FPR/licenceCheck/search.jsp"
+    },
+    {
+      "q": "What documentation do I need to apply for a PTA?",
+      "a": "You need proof of identity (like a driver licence and birth certificate), a MyServiceNSW Account, your current firearm licence or permit number, and a current credit card for payment (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:10Z",
+    "last_modified": "2 March 2026",
+    "html_sha1": "0fcb90abf852142f1bcf72afea3433ad8a06df16",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

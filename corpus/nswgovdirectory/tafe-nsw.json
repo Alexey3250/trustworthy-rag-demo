@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "tafe-nsw",
+  "title": "TAFE NSW",
+  "summary": "This page provides information about TAFE NSW, including course areas, campus locations, and how to apply for international students.",
+  "topics": [
+    "tafe-nsw",
+    "education",
+    "courses",
+    "international-students",
+    "campus-locations"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.tafensw.edu.au/",
+      "url": "https://www.tafensw.edu.au/"
+    },
+    {
+      "text": "https://tafensw.custhelp.com/app/contact-us/enquire",
+      "url": "https://tafensw.custhelp.com/app/contact-us/enquire"
+    },
+    {
+      "text": "Find a TAFE campus",
+      "url": "https://www.tafensw.edu.au/locations"
+    },
+    {
+      "text": "TAFE NSW course areas",
+      "url": "https://www.tafensw.edu.au/course-areas"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "TAFE Commission Board",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-commission-board"
+    },
+    {
+      "text": "Education, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    },
+    {
+      "text": "Apply to enrol as a TAFE NSW international student",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-as-a-tafe-nsw-international-student"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find a TAFE campus?",
+      "a": "You can find information about TAFE campus locations using this link.",
+      "link": "https://www.tafensw.edu.au/locations"
+    },
+    {
+      "q": "What course areas does TAFE NSW offer?",
+      "a": "TAFE NSW offers courses across various areas, which can be explored here.",
+      "link": "https://www.tafensw.edu.au/course-areas"
+    },
+    {
+      "q": "How do I apply to enrol as an international student?",
+      "a": "You can apply to enrol as a TAFE NSW international student through the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-as-a-tafe-nsw-international-student"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:57Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "18d4fa2e3bdaecf9e33c50a34a7842043be15513",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

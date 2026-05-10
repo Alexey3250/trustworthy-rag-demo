@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/search-for-planning-information-about-a-property",
+  "source_url": "https://www.service.nsw.gov.au/transaction/search-for-planning-information-about-a-property",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "search-for-planning-information-about-a-property",
+  "title": "Search for planning information about a property",
+  "summary": "Search for planning information about a property online using the NSW Planning Portal's Spatial Viewer.",
+  "topics": [
+    "planning-information",
+    "property-search",
+    "nsw-planning-portal",
+    "spatial-viewer"
+  ],
+  "intro": "If you'd like to search for planning information about a property, you can do this online via the NSW Planning Portal's Spatial Viewer.\n\nThe Spatial Viewer is a digital mapping service that provides easy-to-use, information-rich maps for every address and lot in NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The address of the property you wish to search."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Search online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the address, lot, or local government area you'd like to investigate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ePlanning Spatial Viewer Guide – PDF",
+      "url": "https://www.planningportal.nsw.gov.au/sites/default/files/documents/2022/Using%20the%20Spatial%20Viewer.pdf"
+    },
+    {
+      "text": "NSW Planning Portal",
+      "url": "https://www.planningportal.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:40Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "28878cafd7004925854b1dbb67f5aa0773977909",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-interpreter",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-interpreter",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-interpreter",
+  "title": "Book an interpreter for spoken language",
+  "summary": "You can request a quote and book an interpreter through Multicultural NSW if you need help understanding spoken English.",
+  "topics": [
+    "interpreter-services",
+    "multicultural-nsw",
+    "language-support",
+    "spoken-english"
+  ],
+  "intro": "If you need help with understanding spoken English, you can request a quote and book an interpreter through Multicultural NSW. Interpretation services are available in 120 languages and dialects, including Australian Sign Language (Auslan).\n\nYou can request a face-to-face, video or telephone interpreter for a wide range of needs, including:\n\nFor help with written documents, you can apply for document translation services.",
+  "who_can_apply": [
+    "individuals",
+    "community groups",
+    "private and commercial organisations",
+    "NSW Government departments and agencies"
+  ],
+  "what_you_need": [
+    "your contact details",
+    "the time and date you need language interpreter help",
+    "your Multicultural NSW Language Services account number (if you have one)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Request a quote' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the steps to submit a request.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Requests for a language interpreter should be made in advance whenever possible.",
+      "link": null
+    },
+    {
+      "text": "Fees apply to language interpreter services.",
+      "link": null
+    },
+    {
+      "text": "Cancellation fees apply when bookings are cancelled within 48 hours of the booked starting time.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Face to face interpreting services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/face-to-face-interpreting/"
+    },
+    {
+      "text": "Video and telephone interpreting – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/video-and-telephone-interpreting/"
+    },
+    {
+      "text": "Language services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/services/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Support and guidance for new arrivals",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "Transfer an overseas driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of interpreting services are available?",
+      "a": "You can request face-to-face, video, or telephone interpreters for a wide range of needs.",
+      "link": null
+    },
+    {
+      "q": "Are interpreter services available for written documents?",
+      "a": "For help with written documents, you can apply for document translation services.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "q": "Who can apply for interpreter services?",
+      "a": "Services are available to individuals, community groups, private and commercial organisations, and all NSW Government departments and agencies.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:36Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "ae0d40040c502b2875aaf3263e74a6ae110d203b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

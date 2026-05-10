@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/land-and-environment-court",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/land-and-environment-court",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "land-and-environment-court",
+  "title": "Land and Environment Court",
+  "summary": "This page provides information about the Land and Environment Court, which handles legal matters related to land and the environment.",
+  "topics": [
+    "land-and-environment",
+    "court-services",
+    "legal-matters"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.lec.nsw.gov.au/",
+      "url": "https://www.lec.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:09Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f317881c69f3eb0385b62b015af8d53e5eee9e2a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

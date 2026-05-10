@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/universities-admissions-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/universities-admissions-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "universities-admissions-centre",
+  "title": "Universities Admissions Centre",
+  "summary": "This page provides information about the Universities Admissions Centre (UAC) for students applying to universities.",
+  "topics": [
+    "university-applications",
+    "higher-education",
+    "uac",
+    "studying-in-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.uac.edu.au/",
+      "url": "https://www.uac.edu.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Education, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:29Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "659991991b4752cab3804d854d3e473062839378",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

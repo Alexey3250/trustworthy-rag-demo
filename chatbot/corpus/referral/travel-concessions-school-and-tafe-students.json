@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-school-and-tafe-students",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-school-and-tafe-students",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-school-and-tafe-students",
+  "title": "Public transport concessions for school and TAFE students",
+  "summary": "Find out about free or subsidised public transport travel passes for eligible school and TAFE students in NSW.",
+  "topics": [
+    "school-travel",
+    "tafe-students",
+    "public-transport",
+    "concessions"
+  ],
+  "intro": "Eligible school and TAFE students can apply for free or subsidised travel between home and school on NSW public transport, including trains, buses, ferries and light rail.\n\nDepending on where you're travelling, you may receive a free school travel pass, a School Opal card, or both.\n\nEligible cards are automatically updated for the new school year, so you'll only need to apply if you're:\n\nSchool Opal cards are issued for free school travel, and as School Term Bus Passes, for travel within the Opal network. They're issued by Transport for NSW.\n\nFor students travelling on buses outside the Opal network, school bus passes and School Term Bus Passes are issued by individual operators. Some operators in rural and regional areas may choose not to issue passes to students.\n\nFor personal travel, children aged 16 years and under should use a Child/Youth Opal card.\n\nFor more information including eligibility and how to apply visit Transport for NSW.",
+  "who_can_apply": [
+    "Eligible school and TAFE students.",
+    "Children aged 16 years and under (for personal travel)."
+  ],
+  "what_you_need": [
+    "To apply for passes, you only need to apply if you are not automatically updated for the new school year.",
+    "For more information including eligibility and how to apply, visit Transport for NSW."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/school-student-travel"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Child/Youth Opal card",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-adult-or-child-youth-opal-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of passes are available for school and TAFE students?",
+      "a": "Depending on where you are travelling, you may receive a free school travel pass, a School Opal card, or both.",
+      "link": null
+    },
+    {
+      "q": "Who issues the School Opal cards and School Term Bus Passes?",
+      "a": "School Opal cards are issued by Transport for NSW for free school travel and as School Term Bus Passes for travel within the Opal network. For buses outside the Opal network, passes are issued by individual operators.",
+      "link": null
+    },
+    {
+      "q": "What should children aged 16 and under use for personal travel?",
+      "a": "Children aged 16 years and under should use a Child/Youth Opal card for personal travel.",
+      "link": "https://www.service.nsw.gov.au/transaction/get-an-adult-or-child-youth-opal-card"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:55Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "cc63fa4bdd0debe4dd4f6bc95fc46d420acbb859",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

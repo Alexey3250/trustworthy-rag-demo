@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/recovery-centres",
+  "source_url": "https://www.service.nsw.gov.au/services/recovery-centres",
+  "category": "services",
+  "article_kind": "landing-page",
+  "slug": "recovery-centres",
+  "title": "Community support services",
+  "summary": "Find information and support services available at recovery centres after a natural disaster.",
+  "topics": [
+    "disaster-recovery",
+    "community-support",
+    "emergency-help",
+    "nsw-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Check the NSW RFS map",
+      "url": "https://www.rfs.nsw.gov.au/"
+    },
+    {
+      "text": "Download the Hazards Near Me app",
+      "url": "https://www.nsw.gov.au/emergency/hazards-near-me-app"
+    },
+    {
+      "text": "Latest updates",
+      "url": "https://www.nsw.gov.au/emergency/recovery"
+    },
+    {
+      "text": "Check what has been declared a natural disaster",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "Managing your mental health during and after a disaster",
+      "url": "https://www.nsw.gov.au/emergency/recovery/mental-health-support"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Download the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Make a booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find support after a natural disaster?",
+      "a": "Recovery centres provide support and resources following a natural disaster.",
+      "link": null
+    },
+    {
+      "q": "What kind of help is available at recovery centres?",
+      "a": "Recovery centres offer various services, including support for immediate needs and connecting people with further assistance.",
+      "link": null
+    },
+    {
+      "q": "How do I find a recovery centre?",
+      "a": "The page provides information on locating and accessing recovery centres in your area.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:45Z",
+    "last_modified": null,
+    "html_sha1": "7295859ba24483fdd20e4c46ca1bb0795e811271",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

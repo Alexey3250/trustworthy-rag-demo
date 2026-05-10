@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-customer-number-with-transport-for-nsw-individuals",
+  "title": "Apply for a customer number with Transport for NSW (individuals)",
+  "summary": "Learn how to apply for a customer number with Transport for NSW (TfNSW) to access various registration and licensing services online.",
+  "topics": [
+    "customer-number",
+    "transport-for-nsw",
+    "licensing",
+    "registration"
+  ],
+  "intro": "When you have a customer number with Transport for NSW (TfNSW), you're able to access a range of registration and licensing services via Online Services.\n\nIf you'd like to set up a customer number (usually the same as your NSW licence number), you can do so at a service centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'TfNSW Customer Number Application (Private customer)'",
+    "Proof of identity",
+    "Pensioner concession card (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete TfNSW Customer Number Application (Private customer) – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071265-customer-number-application-private.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge your application at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "TfNSW Customer Number Application (Private customer) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071265-customer-number-application-private.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (organisations)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:10Z",
+    "last_modified": "29 April 2025",
+    "html_sha1": "e81082a1b661ef8c5a3ccbc992abcd0497bf55d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

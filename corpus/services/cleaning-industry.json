@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/cleaning-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/cleaning-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "cleaning-industry",
+  "title": "Cleaning industry",
+  "summary": "This page provides information about the cleaning industry, including licensing, regulations, and services related to pest and pesticide management.",
+  "topics": [
+    "cleaning-industry",
+    "pesticides",
+    "pest-control",
+    "licensing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a fumigator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fumigator-licence"
+    },
+    {
+      "text": "Register with the long service leave scheme (contract cleaning industry)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-with-the-long-service-leave-scheme-contract-cleaning-industry"
+    },
+    {
+      "text": "Apply for a pest management technician licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-pest-management-technician-licence"
+    },
+    {
+      "text": "Renew a pest management technician or fumigator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-pest-management-technician-or-fumigator-licence"
+    },
+    {
+      "text": "Apply to replace a pesticide licence identification card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-replace-a-pesticide-licence-identification-card"
+    },
+    {
+      "text": "Keep a record of pesticide use",
+      "url": "https://www.service.nsw.gov.au/transaction/keep-a-record-of-pesticide-use"
+    },
+    {
+      "text": "Notify the use of pesticides near sensitive places",
+      "url": "https://www.service.nsw.gov.au/referral/notify-the-use-of-pesticides-near-sensitive-places"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:49Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "3b3f36fb86eb721636e563890d4113ef1a6d2160",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

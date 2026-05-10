@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-the-sharksmart-app",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-the-sharksmart-app",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-the-sharksmart-app",
+  "title": "Get the SharkSmart app",
+  "summary": "Learn about the SharkSmart app, which provides real-time alerts and resources for people using NSW ocean beaches.",
+  "topics": [
+    "sharksmart",
+    "ocean-beaches",
+    "safety-alerts",
+    "nsw-beaches"
+  ],
+  "intro": "The SharkSmart app provides real-time alerts, information and resources for people using NSW ocean beaches.\n\nFeatures include:\n\nThe app is free and is available for Apple and Android devices.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "SharkSmart app",
+      "url": "https://www.sharksmart.nsw.gov.au/staying-safe#app"
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/sharksmart/id915621811"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=mobiddiction.com.sharksmart.nsw&hl=en_AU&gl=US"
+    },
+    {
+      "text": "SharkSmart – Department of Primary Industries",
+      "url": "https://www.sharksmart.nsw.gov.au"
+    },
+    {
+      "text": "SharkSmart App: Features and FAQs – Department of Primary Industries",
+      "url": "https://www.sharksmart.nsw.gov.au/sharksmart-app"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Using waterways and beaches",
+      "url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches"
+    },
+    {
+      "text": "Order NSW boating and coastal maps",
+      "url": "https://www.service.nsw.gov.au/transaction/order-nsw-boating-and-coastal-maps"
+    },
+    {
+      "text": "Get the FishSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:58Z",
+    "last_modified": "15 October 2024",
+    "html_sha1": "ae8ab8908cf20cf4607e031ebc0d79a31d6e61b1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

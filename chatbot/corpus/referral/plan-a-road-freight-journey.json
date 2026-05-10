@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/plan-a-road-freight-journey",
+  "source_url": "https://www.service.nsw.gov.au/referral/plan-a-road-freight-journey",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "plan-a-road-freight-journey",
+  "title": "Plan a road freight journey",
+  "summary": "This page provides resources and guidance for operating a road freight business, helping you plan journeys and identify necessary access permits.",
+  "topics": [
+    "road-freight",
+    "heavy-vehicles",
+    "journey-planning",
+    "access-permits"
+  ],
+  "intro": "If you're intending to operate a road freight business, you'll need to plan your journeys to find approved routes for the types of heavy vehicles you'll be operating, and to identify the access permits you may require.\n\nThe National Heavy Vehicle Regulator (NHVR) manages the passage of heavy vehicles to ensure a safe, efficient and sustainable road network.\n\nTo help plan a road freight journey, you can use the following NHVR resources:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NHVR Route Planner",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner"
+    },
+    {
+      "text": "state road transport authority mapping sites",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "Gazette notices and permit-based schemes",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes"
+    },
+    {
+      "text": "NHVR Guidelines for granting access",
+      "url": "https://www.nhvr.gov.au/road-access/local-government-road-managers/guidelines-for-granting-access"
+    },
+    {
+      "text": "Mass, dimension and loading",
+      "url": "https://www.nhvr.gov.au/road-access/mass-dimension-and-loading"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:18Z",
+    "last_modified": "24 December 2024",
+    "html_sha1": "ed5cf164b372a72e1098a4a1204d351110c2a48c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

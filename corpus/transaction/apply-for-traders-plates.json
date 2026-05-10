@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-traders-plates",
+  "title": "Apply for trader's plates",
+  "summary": "This page provides information on how motor businesses can apply for trader's plates to drive unregistered vehicles for specific business purposes.",
+  "topics": [
+    "traders-plates",
+    "motor-business",
+    "vehicle-registration",
+    "service-nsw"
+  ],
+  "intro": "Trader's plates allow a motor business to drive an unregistered vehicle for purposes that are incidental to the manufacture, repair, or dealings of the vehicle, such as test driving, or moving a vehicle from one dealership to another.\n\nBusinesses issued with trader's plates include:\n\nTo apply for trader's plates, visit a Service NSW Centre.",
+  "who_can_apply": [
+    "A motor business that needs to drive an unregistered vehicle for purposes incidental to the manufacture, repair, or dealings of the vehicle (e.g., test driving, moving a vehicle between dealerships)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Business details",
+    "Evidence of registration under business name (if applicable)",
+    "A copy of your motor industry licence",
+    "A copy or extract of your certificate of business registration or company name, ABN certificate",
+    "A detailed description on company letterhead of your business activities and the reasons why you need trader's plates",
+    "The name of the service centre where you will collect the plates",
+    "Payment",
+    "The completed PDF form: 'Trader's Plate Application'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers#Trader%E2%80%99s_plates"
+    },
+    {
+      "text": "Form 1728: Trader's Plate Conditions of Use – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071875-traders-plates-condition-of-use.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are trader's plates used for?",
+      "a": "Trader's plates allow a motor business to drive an unregistered vehicle for purposes incidental to the manufacture, repair, or dealings of the vehicle, such as test driving or moving a vehicle between dealerships.",
+      "link": null
+    },
+    {
+      "q": "Where do I apply for trader's plates?",
+      "a": "You must visit a Service NSW Centre to apply for trader's plates.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need your proof of identity, business details, evidence of registration under a business name (if applicable), a copy of your motor industry licence, and a copy or extract of your certificate of business registration or company name, ABN certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:20Z",
+    "last_modified": "30 January 2026",
+    "html_sha1": "b121560831cff3a982497dccad602b858e800486",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-nsw-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-nsw-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-western-nsw-district",
+  "title": "DCJ Western NSW District",
+  "summary": "This page provides a directory of DCJ Community Services Centres across Western NSW.",
+  "topics": [
+    "dcj",
+    "community-services",
+    "western-nsw",
+    "nsw-directory"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Bathurst Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bathurst-community-services-centre"
+    },
+    {
+      "text": "Bourke Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bourke-community-services-centre"
+    },
+    {
+      "text": "Brewarrina Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/brewarrina-community-services-centre"
+    },
+    {
+      "text": "Cobar Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/cobar-community-services-centre"
+    },
+    {
+      "text": "Condobolin Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/condobolin-community-services-centre"
+    },
+    {
+      "text": "Coonabarabran Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/coonabarabran-community-services-centre"
+    },
+    {
+      "text": "Coonamble Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/coonamble-community-services-centre"
+    },
+    {
+      "text": "Cowra Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/cowra-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Dubbo Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dubbo-community-services-centre"
+    },
+    {
+      "text": "Mudgee Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/mudgee-community-services-centre"
+    },
+    {
+      "text": "Nyngan Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nyngan-community-services-centre"
+    },
+    {
+      "text": "Orange Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/orange-community-services-centre"
+    },
+    {
+      "text": "Parkes Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/parkes-community-services-centre"
+    },
+    {
+      "text": "Walgett Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/walgett-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find a DCJ Community Services Centre in Western NSW?",
+      "a": "The page lists various DCJ Community Services Centres across Western NSW, including centres in Bathurst, Bourke, Cobar, and many others.",
+      "link": null
+    },
+    {
+      "q": "What is the DCJ?",
+      "a": "The DCJ stands for Department of Communities and Justice.",
+      "link": null
+    },
+    {
+      "q": "How can I find contact information for a specific centre?",
+      "a": "You can use the provided links to find the specific centre you need, such as the Coonamble Community Services Centre or the Orange Community Services Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:05Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e395265b3f4d92ae08c8a2a155b9ea88591dc72b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

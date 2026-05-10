@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-blasting-explosive-user-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-blasting-explosive-user-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-a-blasting-explosive-user-licence",
+  "title": "Change the details of a blasting explosive user licence",
+  "summary": "Use an amendment form to add classes or change approvals on your blasting explosive user licence.",
+  "topics": [
+    "blasting-explosive-user-licence",
+    "amendment",
+    "licence-changes",
+    "explosives"
+  ],
+  "intro": "If you want to add classes or change the approvals on your blasting explosive user licence, you’ll need to lodge an amendment form. There is no fee associated with this request.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: ‘Amendment to a blasting explosive user licence – Application’"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application by email (preferred) or post to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Amendment to a blasting explosive user licence – Application – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0016/50407/SW08136-0318-407150.pdf"
+    },
+    {
+      "text": "Blasting explosives user licence – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/explosives-and-fireworks-licences/blasting-explosives-user-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a blasting explosives user licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-blasting-explosives-user-licence"
+    },
+    {
+      "text": "Replace an explosives, pyrotechnician or blasting licence, or security clearance card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-explosives-pyrotechnician-or-blasting-licence-or-security-clearance-card"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:55Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "3b55d573edab7d2a7c75eea53f45d7a46edde694",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

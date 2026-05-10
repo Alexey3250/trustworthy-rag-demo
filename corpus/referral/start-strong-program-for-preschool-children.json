@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/start-strong-program-for-preschool-children",
+  "source_url": "https://www.service.nsw.gov.au/referral/start-strong-program-for-preschool-children",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "start-strong-program-for-preschool-children",
+  "title": "Start Strong program for preschool children",
+  "summary": "This page explains the Start Strong program, which provides funding for preschool and long day care services to help children access quality early education.",
+  "topics": [
+    "preschool",
+    "early-education",
+    "start-strong",
+    "childcare"
+  ],
+  "intro": "The Start Strong program provides funding for approved community and mobile preschools and long day care (LDC) services across NSW.\n\nThe purpose of the program is to ensure all children can access 600 hours of quality preschool education in the years before entering school.\n\nAsk your service if they are participating in the Start Strong program, and if they are, ask for a declaration and consent form so you can receive the fee relief.\n\nChildren need to be:\n\nNote: Services are not required to reduce fees if they don't receive funding under Start Strong.",
+  "who_can_apply": [
+    "Children who need to be enrolled in the program."
+  ],
+  "what_you_need": [
+    "A declaration and consent form from the service if they are participating in the Start Strong program."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Start Strong program",
+      "url": "https://education.nsw.gov.au/early-childhood-education/operating-an-early-childhood-education-service/grants-and-funded-programs/start-strong-funding"
+    },
+    {
+      "text": "Start Strong preschool program for families - NSW Department of Education",
+      "url": "https://education.nsw.gov.au/early-childhood-education/operating-an-early-childhood-education-service/grants-and-funded-programs/start-strong-funding/start-strong-for-families"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the Start Strong program?",
+      "a": "The Start Strong program provides funding for approved community and mobile preschools and long day care (LDC) services across NSW.",
+      "link": null
+    },
+    {
+      "q": "What is the goal of the Start Strong program?",
+      "a": "The purpose is to ensure all children can access 600 hours of quality preschool education in the years before entering school.",
+      "link": null
+    },
+    {
+      "q": "How can I receive fee relief?",
+      "a": "Ask your service if they are participating in the Start Strong program, and if they are, ask for a declaration and consent form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:25Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "56c536387d0600004b8c3634d401f02652f3adbe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

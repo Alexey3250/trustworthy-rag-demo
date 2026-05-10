@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-help-with-sydney-water-bills",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-help-with-sydney-water-bills",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-help-with-sydney-water-bills",
+  "title": "Get help with Sydney Water bills",
+  "summary": "Find out about assistance options and support for paying your Sydney Water bills.",
+  "topics": [
+    "sydney-water",
+    "bills",
+    "payment-assistance",
+    "water-bills"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Pensioners",
+    "Centrelink recipients"
+  ],
+  "what_you_need": [
+    "Contact the Sydney Water Customer Care Team on 13 20 92 or submit an online enquiry."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Call the Sydney Water Customer Care Team on 13 20 92, or send an enquiry online.",
+  "more_info": [
+    {
+      "text": "Energy Accounts Payment Assistance (EAPA)",
+      "link": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "link": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Savings Finder",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Help to pay your water bill",
+      "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill.html"
+    },
+    {
+      "text": "apply online",
+      "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/confidential-help-and-support.html"
+    },
+    {
+      "text": "View a list of accredited agencies by local government area",
+      "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill/accredited-community-agencies.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Energy Accounts Payment Assistance (EAPA)",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get help with my Sydney Water bills?",
+      "a": "You can call the Sydney Water Customer Care Team on 13 20 92, or send an enquiry online.",
+      "link": null
+    },
+    {
+      "q": "What types of assistance are available for water bills?",
+      "a": "Assistance includes payment extensions and plans, the Payment Assistance Scheme (PAS), free essential plumbing repairs, emergency support, deductions from Centrelink payments, and discounts for pensioners.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:20Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "848d5754e722ce25c086396c32e0bc77f7fafada",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

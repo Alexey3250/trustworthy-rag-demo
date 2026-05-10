@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/revenue-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/revenue-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "revenue-nsw",
+  "title": "Revenue NSW",
+  "summary": "This page provides information about Revenue NSW, which manages various state revenues and services.",
+  "topics": [
+    "revenue-nsw",
+    "taxes",
+    "fines",
+    "stamp-duty",
+    "land-tax"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.revenue.nsw.gov.au/",
+      "url": "https://www.revenue.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.revenue.nsw.gov.au/contact",
+      "url": "https://www.revenue.nsw.gov.au/contact"
+    },
+    {
+      "text": "where your money goes",
+      "url": "https://www.revenue.nsw.gov.au/about/distribution"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Check motor vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "Pay fees and manage your debt payment plan with myDebts",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-fees-and-manage-your-debt-payment-plan-with-mydebts"
+    },
+    {
+      "text": "Manage your land tax with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account"
+    },
+    {
+      "text": "Pay a land tax notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice"
+    },
+    {
+      "text": "Calculate the stamp duty on the sale of land or businesses in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw"
+    },
+    {
+      "text": "Find and claim lost money – Revenue NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-and-claim-lost-money-revenue-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about how NSW revenue is distributed?",
+      "a": "You can find information about where your money goes at the 'where your money goes' link.",
+      "link": "https://www.revenue.nsw.gov.au/about/distribution"
+    },
+    {
+      "q": "How can I pay a fine or manage my fines?",
+      "a": "You can pay a fine or manage your fines using the provided links.",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "q": "How do I manage my land tax?",
+      "a": "You can manage your land tax using a MyServiceNSW Account.",
+      "link": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "07c3bfbe256e7e8417c56a5ff4ef96897ff1f4a4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

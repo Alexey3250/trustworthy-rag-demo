@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-terms-and-conditions",
+  "category": "manage-your-land-tax-myservicensw-account-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "manage-your-land-tax-myservicensw-account-terms-and-conditions",
+  "title": "Manage your land tax with a MyServiceNSW Account – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for managing your land tax using a MyServiceNSW Account.",
+  "topics": [
+    "land-tax",
+    "myservicensw",
+    "terms-and-conditions",
+    "revenue-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You have received a Land Tax Notice of Assessment or recent correspondence.",
+    "You have a Client ID (found on the Land Tax Notice of Assessment or recent correspondence) to connect your MyServiceNSW Account with RNSW's online services."
+  ],
+  "what_you_need": [
+    "A Land Tax Notice of Assessment or recent correspondence.",
+    "A Client ID (found on the Land Tax Notice of Assessment or recent correspondence)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-privacy-statement"
+    },
+    {
+      "text": "online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:45Z",
+    "last_modified": "9 February 2024",
+    "html_sha1": "5b9d78339fded1701d2530adaace221ef740988a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

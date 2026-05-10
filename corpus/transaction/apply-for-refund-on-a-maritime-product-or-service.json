@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-refund-on-a-maritime-product-or-service",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-refund-on-a-maritime-product-or-service",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-refund-on-a-maritime-product-or-service",
+  "title": "Apply for refund on a maritime product or service",
+  "summary": "You can apply for a refund on a maritime product or service if you meet specific criteria.",
+  "topics": [
+    "maritime-refund",
+    "vessel-registration",
+    "nsw-service"
+  ],
+  "intro": "You can apply for a refund on a maritime product or service:",
+  "who_can_apply": [
+    "Former NSW residents who move interstate, register the vessel in the new state or territory, and wish to claim a refund on the remaining NSW registration.",
+    "Interstate acquirers of a NSW-registered vessel who wish to claim a refund on the remaining NSW registration."
+  ],
+  "what_you_need": [
+    "Receipt for the product or service (if applicable).",
+    "The form Request for refund – Maritime customers only (PDF).",
+    "Other supporting documentation relating to the product or service as listed on the form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the request for refund form.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Return your form and supporting documentation:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Request for refund – Maritime customers only (PDF)",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Boat and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations"
+    },
+    {
+      "text": "Boating licences",
+      "url": "https://www.service.nsw.gov.au/services/boating-licences"
+    },
+    {
+      "text": "Submit a notice of disposal for a vessel",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-notice-disposal-vessel"
+    },
+    {
+      "text": "Transfer a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration"
+    },
+    {
+      "text": "Cancel a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for a refund?",
+      "a": "Former NSW residents who move interstate and register the vessel in the new state or territory, or interstate acquirers of a NSW-registered vessel.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for a refund?",
+      "a": "You need a receipt for the product or service (if applicable), the form Request for refund – Maritime customers only, and other supporting documentation listed on the form.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my refund application?",
+      "a": "First, download and complete the request for refund form. Then, return your form and supporting documentation to the service centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:18Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "f0cdb1c1759c13505613cbe003b0516e7e215f67",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

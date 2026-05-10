@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-rsa-rcg-arcg-training-courses",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-rsa-rcg-arcg-training-courses",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-rsa-rcg-arcg-training-courses",
+  "title": "Access the RSA, RCG and ARCG course management portal",
+  "summary": "This page provides information for Approved Training Providers (ATPs) on how to use the online portal to manage industry training courses.",
+  "topics": [
+    "atp-portal",
+    "training-provider",
+    "liquor-and-gaming",
+    "course-management"
+  ],
+  "intro": "Approved training providers (ATPs) are authorised by Liquor & Gaming NSW to deliver industry training in:\n\n### ATP portal\n\nATPs who manage training courses use the online ATP portal to:",
+  "who_can_apply": [
+    "Approved Training Providers (ATPs) who manage training courses"
+  ],
+  "what_you_need": [
+    "A unique email address (not shared or generic)",
+    "An activation email from the ATP portal administrator in your Registered Training Organisation (RTO)",
+    "The ability to create a password and set up multi-factor authentication",
+    "Your log-in details"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW: Training",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Training online portal system – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/atps/course-portal"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find up-to-date information and resources for liquor and gaming training?",
+      "a": "Visit Liquor & Gaming NSW: Training for up-to-date information, resources and tools.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "q": "Who should I contact if I have questions about liquor and gaming training?",
+      "a": "Contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "q": "How do I access the ATP portal for the first time?",
+      "a": "You need to activate an account. For the portal, use the link provided for the Training online portal system – Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/atps/course-portal"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:10Z",
+    "last_modified": "3 February 2026",
+    "html_sha1": "861eb08436b0277583c52611cec75f7ff8a4c698",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

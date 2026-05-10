@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/judicial-commission-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/judicial-commission-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "judicial-commission-of-nsw",
+  "title": "Judicial Commission of NSW",
+  "summary": "This page provides information about the Judicial Commission of NSW, which is an independent body that oversees the NSW judiciary.",
+  "topics": [
+    "judicial-commission",
+    "nsw-judiciary",
+    "legal-oversight",
+    "complaints"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.judcom.nsw.gov.au/",
+      "url": "https://www.judcom.nsw.gov.au/"
+    },
+    {
+      "text": "Forms, complaints and feedback – Judicial Commission of NSW",
+      "url": "https://www.judcom.nsw.gov.au/complaints"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3ec2a1d40ed8a89ca8a3ba0809658fcfb17997be",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-plant-vehicle-registration-including-forklifts",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-plant-vehicle-registration-including-forklifts",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-plant-vehicle-registration-including-forklifts",
+  "title": "Apply for a plant vehicle registration (including forklifts)",
+  "summary": "Find out how to apply for a plant vehicle registration, including for forklifts, at a Service NSW Centre.",
+  "topics": [
+    "plant-vehicle-registration",
+    "forklifts",
+    "service-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "The type of plant vehicle you have will determine if the vehicle requires full or conditional registration:\n\nYou can apply for plant vehicle registration at a Service NSW Centre. Please check the conditional vehicle list prior to visiting the service centre, or call 13 77 88.",
+  "who_can_apply": [
+    "The type of plant vehicle determines if the vehicle requires full or conditional registration."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your concession card details (if applicable)",
+    "One of the following PDF forms: Application for Registration or Application for Conditional Registration"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "conditional vehicle list",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Application for Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Application for Conditional Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to know if my vehicle requires full or conditional registration?",
+      "a": "Yes, the type of plant vehicle you have will determine if the vehicle requires full or conditional registration.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for plant vehicle registration?",
+      "a": "You can apply for plant vehicle registration at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What should I do before visiting a Service NSW Centre?",
+      "a": "You should check the conditional vehicle list or call 13 77 88 before visiting the service centre.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:19Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "8c2e0878fd75c57cc1d0c2bbd9f5d4f373480be3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

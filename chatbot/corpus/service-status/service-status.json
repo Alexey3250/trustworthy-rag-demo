@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-status",
+  "source_url": "https://www.service.nsw.gov.au/service-status",
+  "category": "service-status",
+  "article_kind": "landing-page",
+  "slug": "service-status",
+  "title": "Service status and planned maintenance",
+  "summary": "Check the current operational status of Service NSW services and planned maintenance.",
+  "topics": [
+    "service-status",
+    "maintenance",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Use our online enquiry form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "mobile service location",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check if a Service NSW service is open?",
+      "a": "You can check the current status of services on the Service NSW website.",
+      "link": null
+    },
+    {
+      "q": "Are there any planned maintenance periods?",
+      "a": "The page provides information on planned maintenance for various services.",
+      "link": null
+    },
+    {
+      "q": "What should I do if a service is temporarily unavailable?",
+      "a": "The page advises checking the status updates for the most current information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:04Z",
+    "last_modified": null,
+    "html_sha1": "95778ca634ee222b621b1fa71d097895a3f18a8e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/dangerous-goods-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/dangerous-goods-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "dangerous-goods-licence",
+  "title": "Dangerous goods licence",
+  "summary": "Find information and apply for various types of dangerous goods licences required for transporting dangerous materials in NSW.",
+  "topics": [
+    "dangerous-goods",
+    "licence",
+    "transport",
+    "safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a dangerous goods driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-driver-licence"
+    },
+    {
+      "text": "Apply for a dangerous goods vehicle licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-vehicle-licence"
+    },
+    {
+      "text": "Apply for a licence to transport explosives or security sensitive dangerous substances",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-transport-explosives-or-security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "Check a dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a dangerous goods licence?",
+      "a": "You can apply for different types of dangerous goods licences, including for drivers, vehicles, and specific substances, depending on your needs.",
+      "link": null
+    },
+    {
+      "q": "What if I need to check my existing dangerous goods licence?",
+      "a": "You can check the status of your dangerous goods licence using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:21Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "f270729b2946e3f8356b3a56f1a59e4d9352c9f5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

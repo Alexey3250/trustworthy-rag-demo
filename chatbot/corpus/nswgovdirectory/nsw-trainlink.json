@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-trainlink",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-trainlink",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-trainlink",
+  "title": "NSW TrainLink",
+  "summary": "This page provides information about NSW TrainLink services, including booking, fares, and travel alerts.",
+  "topics": [
+    "train-travel",
+    "regional-travel",
+    "nsw-trainlink",
+    "tickets-and-fares"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://transportnsw.info/regional-bookings/",
+      "url": "https://transportnsw.info/regional-bookings/"
+    },
+    {
+      "text": "Travel alerts",
+      "url": "https://transportnsw.info/alerts#/nsw-trainlink"
+    },
+    {
+      "text": "Regional booking enquiries",
+      "url": "https://transportnsw.info/regional-travel/booking-information/regional-booking-enquiries"
+    },
+    {
+      "text": "Regional tickets and fares",
+      "url": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    },
+    {
+      "text": "Report lost property online",
+      "url": "https://transportnsw.info/help-contact/report-lost-property#/what-have-you-lost"
+    },
+    {
+      "text": "Send feedback (Transport for NSW)",
+      "url": "https://transportnsw.info/contact-us/feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I book my train journey?",
+      "a": "You can find information on regional bookings.",
+      "link": "https://transportnsw.info/regional-bookings/"
+    },
+    {
+      "q": "What information do I need about regional tickets and fares?",
+      "a": "You can find details about regional tickets and fares.",
+      "link": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    },
+    {
+      "q": "How do I check for travel alerts?",
+      "a": "You can check for travel alerts on the NSW TrainLink page.",
+      "link": "https://transportnsw.info/alerts#/nsw-trainlink"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:27Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e686868a02b03afbf23a0a33ac22b1979efaa43f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

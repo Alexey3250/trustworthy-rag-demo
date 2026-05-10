@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-security-operative-subclass",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-security-operative-subclass",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-or-remove-a-security-operative-subclass",
+  "title": "Add or remove a security operative subclass",
+  "summary": "You can apply online to add or remove a class or subclass to your security operative licence if you meet the required qualifications, training, and experience.",
+  "topics": [
+    "security-licence",
+    "security-operative-licence",
+    "add-subclass",
+    "remove-subclass"
+  ],
+  "intro": "If you hold a security operative licence, you can apply online to add another class or subclass if you have the required qualifications, training and experience.\n\nYou can also remove a class or subclass if you wish.\n\nIf your licence has been issued under mutual recognition you need to contact the Security Licensing & Enforcement Directorate (SLED) on 1300 362 001.",
+  "who_can_apply": [
+    "Australian citizen or permanent Australian resident",
+    "New Zealand citizen",
+    "Holder of a visa sponsored by a master licence holder",
+    "Holder of a visa for a skilled occupation corresponding to the proposed licence activities"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence details",
+    "Your fee payment",
+    "Copies of acceptable training documents for Class 1A, 1B, 1C, 1D, or 1F licences, showing your name, date of issue, and units of competency.",
+    "Evidence of required training and experience for Class 2A, 2D, or 2E licences",
+    "The security operative licence number and details (check at Verify NSW)",
+    "All documents must show your name written and spelt in exactly the same way (unless you provide acceptable evidence of a change of name)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather all the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to add or remove a security operative subclass.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "mutual recognition",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/mutual_recognition_scheme"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/class_2_licences/class_2_licences_content/fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "text": "Class 1 licences",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/class_1_licences"
+    },
+    {
+      "text": "Class 2 licences",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences/class_2_licences"
+    },
+    {
+      "text": "Security licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/840318/SLED_Security_PCN_December_2025.pdf"
+    },
+    {
+      "text": "Am I eligible for a NSW security licence? – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0011/286139/SEC_-_Fact_Sheet_6_-_Am_I_Eligible_for_a_NSW_Security_Licence.pdf"
+    },
+    {
+      "text": "Security licence courses: Class 1 competency requirements – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0008/278684/Competency_Requirements_for_Class_1_Licences_Dec_2024.pdf"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/transaction/change-name-or-contact-details-on-a-security-operative-licence"
+    },
+    {
+      "text": "Replace a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-security-operative-licence"
+    },
+    {
+      "text": "Renew a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-operative-licence"
+    },
+    {
+      "text": "Check a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-operative-licence"
+    },
+    {
+      "text": "Apply for a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my licence was issued under mutual recognition?",
+      "a": "You need to contact the Security Licensing & Enforcement Directorate (SLED) on 1300 362 001.",
+      "link": null
+    },
+    {
+      "q": "How do I check my security operative licence number and details?",
+      "a": "You can visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "q": "What is required to add a subclass to my licence?",
+      "a": "You must gather all required details and documents, log in or create a MyServiceNSW Account, and follow the prompts to add the subclass.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:25Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "3789fec15e259ff62631d4bf9b1a2f01bdfb138d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

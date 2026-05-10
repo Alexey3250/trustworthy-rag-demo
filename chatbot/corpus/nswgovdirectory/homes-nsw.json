@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "homes-nsw",
+  "title": "Homes NSW",
+  "summary": "This page provides information and links to various housing services and departments across NSW.",
+  "topics": [
+    "housing",
+    "social-housing",
+    "affordable-housing",
+    "nsw-government",
+    "accommodation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw"
+    },
+    {
+      "text": "Find your nearest housing office – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office"
+    },
+    {
+      "text": "Social and affordable housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    },
+    {
+      "text": "Emergency accommodation and housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/emergency-housing"
+    },
+    {
+      "text": "MyHousing Online Services – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/myhousing-online-services"
+    },
+    {
+      "text": "MyHousing mobile app help page – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/myhousing-online-services/myhousing-mobile-app-help"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Aboriginal Housing Office (Parramatta Head Office)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-parramatta-head-office"
+    },
+    {
+      "text": "Key worker housing (Teacher Housing Authority and Police Force Housing)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/key-worker-housing-teacher-housing-authority-and-police-force-housing"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Social housing",
+      "url": "https://www.service.nsw.gov.au/services/social-housing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about different housing services in NSW?",
+      "a": "The page provides links to various housing services, including social housing, affordable housing, and specific departmental information.",
+      "link": null
+    },
+    {
+      "q": "What services are available for emergency accommodation?",
+      "a": "You can find information regarding emergency accommodation and housing via the dedicated link.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/emergency-housing"
+    },
+    {
+      "q": "How can I find a local housing office?",
+      "a": "You can use the link provided to find your nearest housing office.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:10Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "411703d9fdbf99d106699e77eaa7c411596c0053",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

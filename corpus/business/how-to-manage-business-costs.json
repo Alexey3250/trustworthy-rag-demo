@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/how-to-manage-business-costs",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/how-to-manage-business-costs",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "how-to-manage-business-costs",
+  "title": "How to manage your business costs: 10 practical steps for small businesses",
+  "summary": "This page provides 10 practical steps and tips for small businesses on how to manage and reduce operational costs.",
+  "topics": [
+    "small-business",
+    "cost-management",
+    "business-tips",
+    "finance"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources?resourceType=Podcast"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:57Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "a8e4ba74dc1b06963fda6b4b97a21b6a8a5fb4c4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

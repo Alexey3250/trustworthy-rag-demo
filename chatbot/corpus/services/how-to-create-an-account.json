@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "how-to-create-an-account",
+  "title": "How to create a MyServiceNSW Account",
+  "summary": "This page explains how to create and manage a secure MyServiceNSW Account to manage your government services online.",
+  "topics": [
+    "nsw-government",
+    "my-service-nsw",
+    "online-account",
+    "digital-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "A personal email address (not a work or shared email).",
+    "A password.",
+    "An Australian mobile number (optional).",
+    "Steps to set up multi-factor authentication."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Help with multiple MyServiceNSW Accounts",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "Manage your details",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Create an account",
+      "url": "https://account.service.nsw.gov.au/createaccount"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "stay cyber safe",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/protect-your-personal-information-with-service-nsw"
+    },
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Help with multiple MyServiceNSW Accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "Manage your details",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can I do with a MyServiceNSW Account?",
+      "a": "You can use your account to check and renew licences and registrations, claim vouchers and rebates, switch to digital notifications, and find details about your services without calling or waiting in line.",
+      "link": null
+    },
+    {
+      "q": "How do I start creating my MyServiceNSW Account?",
+      "a": "Go to the Create an account page and follow the prompts.",
+      "link": "https://account.service.nsw.gov.au/createaccount"
+    },
+    {
+      "q": "What should I do after creating my account?",
+      "a": "You should add services you want to manage online, add personal details like your mobile number and address, set your notification preferences, and keep your account details private.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:30Z",
+    "last_modified": "14 July 2025",
+    "html_sha1": "5c9f34fdd011446b7849e70257ac319ae3f0dc3a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

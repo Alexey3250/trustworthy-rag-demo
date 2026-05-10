@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/dcj-legal-representation",
+  "source_url": "https://www.service.nsw.gov.au/referral/dcj-legal-representation",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "dcj-legal-representation",
+  "title": "DCJ Legal Representation",
+  "summary": "The Department of Communities and Justice (DCJ Legal) can provide or assist with legal advice and representation for witnesses called before the NSW Independent Commission Against Corruption (ICAC), the Law Enforcement Conduct Commission (LECC), and the NSW Crime Commission (NSWCC).",
+  "topics": [
+    "legal-advice",
+    "legal-representation",
+    "witness-assistance",
+    "dcj-legal"
+  ],
+  "intro": "The Department of Communities and Justice, Legal (DCJ Legal) can provide or assist in providing legal advice and representation to witnesses called before the NSW Independent Commission Against Corruption (ICAC), the Law Enforcement Conduct Commission (LECC) and the NSW Crime Commission (NSWCC).\n\nTo find out more or apply for legal assistance, visit Legal Representation – Department of Communities and Justice.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Legal Representation – Department of Communities and Justice",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/legal-representation.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:33Z",
+    "last_modified": "22 October 2025",
+    "html_sha1": "c73b2607b877b37ff9491a32ff7660cecdd02950",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

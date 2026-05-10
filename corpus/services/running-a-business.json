@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/running-a-business",
+  "source_url": "https://www.service.nsw.gov.au/services/running-a-business",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "running-a-business",
+  "title": "Running a business",
+  "summary": "This page provides information and links to various services for running and managing a business in New South Wales.",
+  "topics": [
+    "running-a-business",
+    "business-support",
+    "compliance",
+    "employees",
+    "finance"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Compliance and regulation for businesses",
+      "url": "https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses"
+    },
+    {
+      "text": "Fundraising and trade lotteries",
+      "url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries"
+    },
+    {
+      "text": "Apply to install a street awning or business sign",
+      "url": "https://www.service.nsw.gov.au/referral/apply-to-install-a-street-awning-or-business-sign"
+    },
+    {
+      "text": "Manage employees and contractors",
+      "url": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors"
+    },
+    {
+      "text": "Manage employee pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation"
+    },
+    {
+      "text": "Lodge an annual summary of financial affairs: Tier 1 and 2 associations",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-annual-summary-of-financial-affairs-tier-1-and-2-associations"
+    },
+    {
+      "text": "Get help when your small business is in debt",
+      "url": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    },
+    {
+      "text": "Fuel tax credits",
+      "url": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Insurance for businesses",
+      "url": "https://www.service.nsw.gov.au/services/insurance-for-businesses"
+    },
+    {
+      "text": "Intellectual property and trademark registration",
+      "url": "https://www.service.nsw.gov.au/services/intellectual-property-and-trademark-registration"
+    },
+    {
+      "text": "Redirect your mail",
+      "url": "https://www.service.nsw.gov.au/referral/redirect-your-mail"
+    },
+    {
+      "text": "Personalised support The Service NSW Business Bureau offers one-on-one support for your business, including help with licences and permits.",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Service NSW Business Profile With a Business Profile, you can keep track of your licences, applications, or support programs and search for government tenders.",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app Manage your business transactions, save and track licences, and connect with us via your mobile device.",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information on business compliance and regulation?",
+      "a": "You can find information on compliance and regulation for businesses here: https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses",
+      "link": "https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses"
+    },
+    {
+      "q": "How can I manage my employees and contractors?",
+      "a": "Information on managing employees and contractors is available at https://www.service.nsw.gov.au/referral/managing-employees-and-contractors",
+      "link": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors"
+    },
+    {
+      "q": "What support is available for my business?",
+      "a": "The Service NSW Business Bureau offers one-on-one support, including help with licences and permits. You can also use the Service NSW Business Profile to track licences and applications.",
+      "link": null
+    },
+    {
+      "q": "How can I get help if my small business is in debt?",
+      "a": "You can get help when your small business is in debt by visiting this guide: https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt",
+      "link": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:20Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e20407ddfe043ab37f5cb8d5e27c0b0e027ffaf6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

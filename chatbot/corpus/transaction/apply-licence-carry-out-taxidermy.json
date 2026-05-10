@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-licence-carry-out-taxidermy",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-licence-carry-out-taxidermy",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-licence-carry-out-taxidermy",
+  "title": "Apply for a licence to carry out taxidermy or possess preserved specimens",
+  "summary": "Find out what you need and how to apply for a licence to carry out taxidermy or possess preserved specimens.",
+  "topics": [
+    "taxidermy",
+    "specimens",
+    "licence",
+    "biodiversity"
+  ],
+  "intro": "Taxidermy is the preservation and mounting of an animal for study or display.\n\nYou'll need a licence if you want to carry out taxidermy on or keep preserved specimens of:",
+  "who_can_apply": [
+    "A professional or hobbyist (under tutelage) taxidermist wanting to carry out taxidermy on native animals or threatened species.",
+    "An individual wanting to keep or have a native/threatened specimen preserved by a professional taxidermist."
+  ],
+  "what_you_need": [
+    "Your contact details.",
+    "Details of any other licences previously granted under the Biodiversity Conservation Act 2016 or the National Parks and Wildlife Act 1974.",
+    "Payment for the application fee.",
+    "The common and scientific names of the species.",
+    "Where and how the native specimen was obtained.",
+    "Reason for taxidermy.",
+    "Name and licence number of the intended taxidermist.",
+    "Name and licence number of your taxidermy tutor.",
+    "Details of your taxidermy experience.",
+    "Photographs of your work.",
+    "List of species you already hold.",
+    "Depending on your role (hobbyist, professional taxidermist, or individual), you may also need to provide: where applicable."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your supporting documents and photographs, if applicable.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply for a taxidermy or specimen licence' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A licence for private purposes may not be granted for any bird of prey or a threatened species unless you can show a legitimate scientific or educational purpose for the specimen.",
+      "link": null
+    },
+    {
+      "text": "You do not need a licence to keep or carry out taxidermy on non-native animals or hold processed animal products.",
+      "link": null
+    },
+    {
+      "text": "It is illegal to remove or preserve any animal or animal part from a national park or nature reserve without authorisation.",
+      "link": null
+    },
+    {
+      "text": "You cannot sell or trade animal specimens, even if you do not want to keep it. If you’re a professional taxidermist, you may advertise and charge for your taxidermy services.",
+      "link": null
+    },
+    {
+      "text": "When you hold a taxidermy licence, you'll need to follow the relevant conditions for your licence type found in:",
+      "link": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/taxidermist-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "For more information, contact the Wildlife Team on 02 9585 6406 or email wildlife.licensing@environment.nsw.gov.au.",
+      "link": "tel:0295856406"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Biodiversity Conservation Act 2016",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2016-063"
+    },
+    {
+      "text": "Taxidermist Biodiversity Conservation Licence",
+      "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/taxidermist-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "Protected Animal Specimens Biodiversity Conservation Licence",
+      "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/protected-animal-specimen-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "Licence to Possess Preserved Specimens and/or Carry Out Taxidermy – PDF",
+      "url": "https://nswdpie.tfaforms.net/1244"
+    },
+    {
+      "text": "Taxidermy licence – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/taxidermy-licence"
+    },
+    {
+      "text": "Wildlife licences – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a licence to carry out taxidermy or possess preserved specimens",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-licence-to-carry-out-taxidermy-or-possess-preserved-specimens"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is taxidermy?",
+      "a": "Taxidermy is the preservation and mounting of an animal for study or display.",
+      "link": null
+    },
+    {
+      "q": "Who needs a licence to carry out taxidermy or keep preserved specimens?",
+      "a": "You need a licence if you want to carry out taxidermy on or keep preserved specimens of certain animals.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for a taxidermy licence?",
+      "a": "You will need your contact details, details of any previous licences under the Biodiversity Conservation Act 2016 or the National Parks and Wildlife Act 1974, and payment for the application fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:12Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "0f7954e8928a20e105c17345d3b1118e983b2994",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

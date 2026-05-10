@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/land-value",
+  "source_url": "https://www.service.nsw.gov.au/services/land-value",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "land-value",
+  "title": "Land value",
+  "summary": "Find information about the land value of a property in New South Wales.",
+  "topics": [
+    "land-value",
+    "property-valuation",
+    "land-tax",
+    "stamp-duty"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Land tax and stamp duty",
+      "link": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Find out the land value of a property",
+      "url": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property"
+    },
+    {
+      "text": "Lodge an objection to a Notice of Valuation",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation"
+    },
+    {
+      "text": "Opt in to receive your Notice of Valuation by email",
+      "url": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email"
+    },
+    {
+      "text": "Land tax and stamp duty",
+      "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find out the land value of a property?",
+      "a": "You can find out the land value of a property using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property"
+    },
+    {
+      "q": "What if I disagree with a Notice of Valuation?",
+      "a": "You can lodge an objection to a Notice of Valuation if you disagree with the valuation.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation"
+    },
+    {
+      "q": "How can I receive my Notice of Valuation by email?",
+      "a": "You can opt in to receive your Notice of Valuation by email.",
+      "link": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:40Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "2d9f9b0b011a545ca2906315a19ccdba51275295",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

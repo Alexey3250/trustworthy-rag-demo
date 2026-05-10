@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "view-images-of-an-offence",
+  "title": "View images of an offence",
+  "summary": "You can view and download images of a fine offence for free if the offence was photographed.",
+  "topics": [
+    "fines",
+    "offences",
+    "images",
+    "viewing-evidence"
+  ],
+  "intro": "If you've been fined for an offence that has been photographed, you can view and download the images free of charge.",
+  "who_can_apply": [
+    "You have been fined for an offence that has been photographed."
+  ],
+  "what_you_need": [
+    "Your fine notice number (fine notice, fine reminder notice, or overdue fine)",
+    "The date of the offence",
+    "Proof of identity (if requesting by phone), such as your address, date of birth, or driver licence number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to myPenalty' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to view your images.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "View a camera image of your offence – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/view-camera-image"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage your fines with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Pay an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine"
+    },
+    {
+      "text": "Nominate someone else for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "Request a review for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I view images of a fine offence?",
+      "a": "Select the 'Go to myPenalty' button and follow the prompts to view your images.",
+      "link": null
+    },
+    {
+      "q": "What do I need to view the images?",
+      "a": "You need your fine notice number (fine notice, fine reminder notice, or overdue fine) and the date of the offence.",
+      "link": null
+    },
+    {
+      "q": "What if I request the images by phone?",
+      "a": "If requesting by phone, you must also provide proof of your identity, such as your address, date of birth, or driver licence number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:22Z",
+    "last_modified": "20 January 2025",
+    "html_sha1": "f6f9790082ba599b3d19a08e137bacc8d45b116c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

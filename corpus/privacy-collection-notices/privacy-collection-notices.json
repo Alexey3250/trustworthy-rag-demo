@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notices",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notices",
+  "category": "privacy-collection-notices",
+  "article_kind": "landing-page",
+  "slug": "privacy-collection-notices",
+  "title": "Privacy collection notices",
+  "summary": "This page provides information and links to various privacy collection notices for specific government services.",
+  "topics": [
+    "privacy",
+    "data-collection",
+    "service-nsw",
+    "government-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Disaster Assistance Finder",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notices/disaster-assistance-finder"
+    },
+    {
+      "text": "Pre-IVF Fertility Testing Rebate",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notices/pre-ivf-fertility-testing-rebate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:59Z",
+    "last_modified": "5 May 2026",
+    "html_sha1": "0ea096bed5d81d805ad6bc11efbbe181556eb433",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

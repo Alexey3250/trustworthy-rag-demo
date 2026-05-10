@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/tobacco-retailers",
+  "source_url": "https://www.service.nsw.gov.au/services/tobacco-retailers",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "tobacco-retailers",
+  "title": "Tobacco licences",
+  "summary": "This page provides information and links for applying for a tobacco licence in New South Wales.",
+  "topics": [
+    "tobacco-licence",
+    "retailer",
+    "nsw-business",
+    "apply-for-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NSW tobacco licensing scheme",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-licensing.aspx"
+    },
+    {
+      "text": "Tobacco retailing laws in NSW",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-retailing-laws.aspx"
+    },
+    {
+      "text": "Public Health (Tobacco) Act 2008",
+      "link": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2008-094"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW tobacco licensing scheme",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-licensing.aspx"
+    },
+    {
+      "text": "Tobacco retailing laws in NSW",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-retailing-laws.aspx"
+    },
+    {
+      "text": "Public Health (Tobacco) Act 2008",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2008-094"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply as an individual business owner",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-individual"
+    },
+    {
+      "text": "Apply as a corporation, trust or partnership",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-corporation-trust-or-partnership"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a tobacco licence?",
+      "a": "You can apply for a tobacco licence depending on your business structure: as an individual business owner or as a corporation, trust, or partnership.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about tobacco retailing laws?",
+      "a": "You can view the tobacco retailing laws in NSW.",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-retailing-laws.aspx"
+    },
+    {
+      "q": "What is the NSW tobacco licensing scheme?",
+      "a": "The NSW tobacco licensing scheme provides general information about tobacco licensing.",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-licensing.aspx"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:14Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "39f4212a49ce23061c1c4d880f592562f6e1098c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

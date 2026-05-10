@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-your-registered-surveyor-contact-details",
+  "title": "Update your registered surveyor contact details",
+  "summary": "Learn how to update your contact details for your registered surveyor status with the Board of Surveying and Spatial Information (BOSSI).",
+  "topics": [
+    "surveyor-registration",
+    "contact-details",
+    "bossi",
+    "nsw-licence"
+  ],
+  "intro": "The registration of land and mining surveyors in NSW is the responsibility of the Board of Surveying and Spatial Information (BOSSI).\n\nYou must notify BOSSI if there is a change to:\n\nIf BOSSI has your email address or mobile number on record your details will be updated across all your BOSSI registrations.\n\nTo check your licence or registration details visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your surveyor licence or registration number",
+    "Your email or mobile number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Update your details’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start' on the application screen.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to update your contact details with BOSSI.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Board of Surveying and Spatial Information",
+      "url": "https://www.bossi.nsw.gov.au"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    },
+    {
+      "text": "contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Replace your registered surveyor identity card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-your-registered-surveyor-identity-card"
+    },
+    {
+      "text": "Renew your surveyor registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is responsible for the registration of land and mining surveyors in NSW?",
+      "a": "The Board of Surveying and Spatial Information (BOSSI) is responsible for the registration of land and mining surveyors in NSW.",
+      "link": null
+    },
+    {
+      "q": "What happens if I change my contact details?",
+      "a": "If BOSSI has your email address or mobile number on record, your details will be updated across all your BOSSI registrations.",
+      "link": null
+    },
+    {
+      "q": "How can I check my licence or registration details?",
+      "a": "You can check your licence or registration details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:27Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "f381295107ce97f2a1dcf50de22b718f9affa202",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters/insurance-claims-and-legal-support",
+  "source_url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters/insurance-claims-and-legal-support",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "insurance-claims-and-legal-support",
+  "title": "Insurance claims and legal support",
+  "summary": "This page provides information and resources regarding insurance claims and legal support following emergencies and natural disasters.",
+  "topics": [
+    "natural-disaster-support",
+    "insurance-claims",
+    "legal-advice",
+    "disaster-recovery"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Disaster and emergency support for business",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Financial support for businesses",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Manage and grow your business",
+      "link": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Financial Rights Legal Service",
+      "url": "https://insurancelaw.org.au/caseworker-resources/fact-sheets/"
+    },
+    {
+      "text": "Legal Aid NSW",
+      "url": "https://disasterhelp.legalaid.nsw.gov.au/"
+    },
+    {
+      "text": "Tenants' Union",
+      "url": "https://www.tenants.org.au/factsheet-22-disaster-damage"
+    },
+    {
+      "text": "ASIC's Moneysmart",
+      "url": "https://moneysmart.gov.au/home-insurance/storm-flood-and-fire-insurance"
+    },
+    {
+      "text": "NSW Small Business Commissioner",
+      "url": "https://www.smallbusiness.nsw.gov.au/help/common-questions/quick-guide-to-making-insurance-claims"
+    },
+    {
+      "text": "disaster declaration",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "Insurance Council of Australia",
+      "url": "https://insurancecouncil.com.au/consumers/help-in-disasters/"
+    },
+    {
+      "text": "ways to get legal help",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help"
+    },
+    {
+      "text": "Legal Aid NSW advice service near you",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/legal-advice"
+    },
+    {
+      "text": "community legal centres",
+      "url": "https://www.clcnsw.org.au/"
+    },
+    {
+      "text": "Aboriginal Legal Service",
+      "url": "https://www.alsnswact.org.au/"
+    },
+    {
+      "text": "Insurance Law Service",
+      "url": "https://financialrights.org.au/getting-help/insurance/"
+    },
+    {
+      "text": "Tenants' Union of New South Wales",
+      "url": "https://www.tenants.org.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Financial support for businesses",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Manage and grow your business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about insurance coverage and claims after a disaster?",
+      "a": "You can find fact sheets on insurance coverage and claims from the Financial Rights Legal Service, information on home insurance (storm, flood, and fire) from ASIC's Moneysmart, and guidance on damage to rented premises from the Tenants' Union.",
+      "link": null
+    },
+    {
+      "q": "What types of legal issues can the Disaster Response Legal Service help with?",
+      "a": "The Disaster Response Legal Service covers insurance claims and disputes, employment, financial hardship (such as loans, mortgages, and credit cards), unpaid fines, housing and rental, coronial inquests, and Centrelink payments.",
+      "link": null
+    },
+    {
+      "q": "How can I get general legal assistance?",
+      "a": "You can find ways to get legal help by calling 1300 888 529, finding a Legal Aid NSW advice service near you, learning about community legal centres, or going to the Aboriginal Legal Service.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:58Z",
+    "last_modified": "5 May 2026",
+    "html_sha1": "b22a636ee1d086b8fdaece5347932ae236dc70d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

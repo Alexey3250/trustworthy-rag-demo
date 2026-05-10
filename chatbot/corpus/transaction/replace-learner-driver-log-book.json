@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-learner-driver-log-book",
+  "title": "Replace a learner driver log book",
+  "summary": "Find out what you need and how to replace a lost or damaged learner driver paper log book at a Service NSW Centre.",
+  "topics": [
+    "learner-driver-log-book",
+    "service-nsw",
+    "driver-licence",
+    "replacement-fee"
+  ],
+  "intro": "When you get your learner driver licence, you also receive a learner driver paper log book. If you want to replace your paper log book, you'll need to visit a Service NSW Centre.\n\nYou may have to pay a replacement fee.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of identity",
+    "The completed 'Replacement Learner Log Book Application' PDF form",
+    "The replacement fee (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather your identity documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre to replace your log book.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can use a free learner driver log book app to record your hours instead of a paper log book.",
+      "link": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app"
+    },
+    {
+      "text": "If you want to switch to an app from the paper log book, you have to manually enter the completed paper log book entries into the app. Your supervisor will need to confirm each entry.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "replacement fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Replacement Learner Log Book Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070787-replacement-learners-log-book-application.pdf"
+    },
+    {
+      "text": "Learner driver licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence"
+    },
+    {
+      "text": "Find a Safer Drivers Course provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/find-safer-drivers-course-providers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "learner driver log book app",
+      "url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Road User Handbook (available in multiple languages)",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "Apply for a learner driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I go to replace my learner driver log book?",
+      "a": "You must visit a Service NSW Centre to replace your paper log book.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to replace my log book?",
+      "a": "You need your proof of identity, the completed 'Replacement Learner Log Book Application' form, and the replacement fee (if applicable).",
+      "link": null
+    },
+    {
+      "q": "Do I have to pay to replace the log book?",
+      "a": "You may have to pay a replacement fee.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:03Z",
+    "last_modified": "18 September 2025",
+    "html_sha1": "2eedf94b5f29d721e1f43d08feade0e659af23f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

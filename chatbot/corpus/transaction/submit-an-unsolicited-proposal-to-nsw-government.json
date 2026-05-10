@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-an-unsolicited-proposal-to-nsw-government",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-an-unsolicited-proposal-to-nsw-government",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-an-unsolicited-proposal-to-nsw-government",
+  "title": "Submit an unsolicited proposal to NSW Government",
+  "summary": "Submit an unsolicited proposal to the NSW Government if you have an innovative idea for building, financing, or providing goods or services.",
+  "topics": [
+    "nsw-government",
+    "unsolicited-proposal",
+    "business-ideas",
+    "infrastructure"
+  ],
+  "intro": "If you have an idea to deliver an innovative project in NSW you can submit an unsolicited proposal to the NSW Government.\n\nAn unsolicited proposal is an approach to the NSW Government where the proposal has not been requested.\n\nThese proposals may be for building or financing infrastructure, providing goods or services, or undertaking a major commercial transaction.\n\nThe NSW Government accepts unsolicited proposals that address the following criteria:",
+  "who_can_apply": [
+    "Private individuals",
+    "Companies",
+    "Not-for-profit entities",
+    "Local councils",
+    "Non-government sector"
+  ],
+  "what_you_need": [
+    "Read the Unsolicited Proposals Guide for Submissions and Assessment - PDF.",
+    "Request a pre-lodgement review.",
+    "Complete the Unsolicited Proposals Schedule of Information Requirements - DOCX.",
+    "Lodge your unsolicited proposal."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read the Unsolicited Proposals Guide for Submissions and Assessment - PDF.",
+      "link": "https://www.service.nsw.gov.au/system/files/2023-08/Unsolicited_Proposals_Guide.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Request a pre-lodgement review.",
+      "link": "https://www.nsw.gov.au/unsolicited-proposals/request-a-pre-lodgement-review-or-make-a-proposal-enquiry"
+    },
+    {
+      "n": 3,
+      "text": "Complete the Unsolicited Proposals Schedule of Information Requirements - DOCX.",
+      "link": "https://www.service.nsw.gov.au/system/files/2023-08/Unsolicited_Proposals_Schedule_of_Information_Requirements.docx"
+    },
+    {
+      "n": 4,
+      "text": "Lodge your unsolicited proposal.",
+      "link": "https://www.nsw.gov.au/unsolicited-proposals/lodge-an-unsolicited-proposal"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "pre-lodgement review",
+      "url": "https://www.nsw.gov.au/unsolicited-proposals/request-a-pre-lodgement-review-or-make-a-proposal-enquiry"
+    },
+    {
+      "text": "Lodge your unsolicited proposal",
+      "url": "https://www.nsw.gov.au/unsolicited-proposals/lodge-an-unsolicited-proposal"
+    },
+    {
+      "text": "Unsolicited proposals - NSW Government",
+      "url": "https://www.nsw.gov.au/nsw-government/unsolicited-proposals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Unsolicited Proposals Guide for Submissions and Assessment - PDF",
+      "url": "https://www.service.nsw.gov.au/system/files/2023-08/Unsolicited_Proposals_Guide.pdf"
+    },
+    {
+      "text": "Unsolicited Proposals Schedule of Information Requirements - DOCX",
+      "url": "https://www.service.nsw.gov.au/system/files/2023-08/Unsolicited_Proposals_Schedule_of_Information_Requirements.docx"
+    },
+    {
+      "text": "Supply to NSW Government",
+      "url": "https://www.service.nsw.gov.au/services/supply-nsw-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an unsolicited proposal?",
+      "a": "An unsolicited proposal is an approach to the NSW Government where the proposal has not been requested.",
+      "link": null
+    },
+    {
+      "q": "Who can submit an unsolicited proposal?",
+      "a": "Private individuals, companies, not-for-profit entities, and local councils can submit proposals. The non-government sector can also lodge proposals.",
+      "link": null
+    },
+    {
+      "q": "What types of projects can I propose?",
+      "a": "Proposals may be for building or financing infrastructure, providing goods or services, or undertaking a major commercial transaction.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:54Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "33bc74e750fc8139cbb99b9ed2f52fd83dbf1e0c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

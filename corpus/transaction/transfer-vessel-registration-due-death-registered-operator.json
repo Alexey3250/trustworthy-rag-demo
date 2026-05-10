@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-vessel-registration-due-death-registered-operator",
+  "title": "Transfer a vessel registration due to the death of the registered operator",
+  "summary": "You can transfer a vessel registration to another person if the original registered operator has passed away, by visiting a service centre.",
+  "topics": [
+    "vessel-registration",
+    "death-of-operator",
+    "estate-transfer"
+  ],
+  "intro": "If you need to transfer a vessel registration to another person because the vessel owner is deceased, you can do this at a service centre.",
+  "who_can_apply": [
+    "The vessel owner is deceased."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "The PDF form: 'Application for Transfer of Vessel Registration'",
+    "Additional documents depending on whether there is a will or not:",
+    "A copy of the relevant section of the will or probate document,",
+    "Signed, written advice from a solicitor or NSW Trustee and Guardian.",
+    "If the beneficiary is listed in the will, the new operator must provide a letter signed by all other beneficiaries outlining their agreement to the transfer.",
+    "If the executor, a document signed by all the executors authorising the transfer of registration, unless the will states the executors can act jointly and severally.",
+    "If the beneficiary/executor is transferring, a copy of the relevant section of the will or probate document and a letter, signed by both parties, outlining the agreement between the beneficiary/executor and the surviving joint operator.",
+    "Signed, written advice from a solicitor including details of the agreement.",
+    "A copy of the Letters of Administration, issued by the Supreme Court (if available).",
+    "A Statutory declaration completed by the administrator stating they are the appointed administrator of the estate (if transferring to next of kin).",
+    "Their relationship with the deceased (for example, spouse, sibling, child).",
+    "A declaration that to their knowledge there is no administrator for the estate.",
+    "A declaration that to their knowledge there is no will.",
+    "A declaration of the reason they are entitled to transfer the registration into their name.",
+    "A declaration that there is no other closer relative who would be given preference or is entitled to the registration (if transferring to next of kin).",
+    "If there is a will, one of the following documents naming the new operator as the beneficiary or executor.",
+    "If there is more than one person involved, one of the following documents."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Stamp duty and transfer fees do not apply if the vehicle is transferred into the name of one of the following:",
+      "link": null
+    },
+    {
+      "text": "If the vessel is disposed of/sold without being transferred to a person named in a will or other acceptable document, the new operator must meet the normal requirements to transfer the registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration"
+    },
+    {
+      "text": "Transport for NSW has strict requirements for transfers in order to protect:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Application for Transfer of Vessel Registration",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072015-application-transfer-vessel-registration.pdf"
+    },
+    {
+      "text": "Advice of Death – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf"
+    },
+    {
+      "text": "Statutory declaration for transfer of a vehicle – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065876-statutory-declaration-for-deceased-with-no-will.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "a",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    },
+    {
+      "text": "transfer the registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Death and bereavement guide",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Cancel a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration"
+    },
+    {
+      "text": "Transfer a vehicle registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "Advise Maritime that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/advise-maritime-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I transfer the vessel registration?",
+      "a": "You must visit a service centre to transfer the vessel registration.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to transfer the registration?",
+      "a": "You need your proof of identity, the 'Application for Transfer of Vessel Registration' form, and additional documents depending on whether there is a will or not.",
+      "link": null
+    },
+    {
+      "q": "What is 'jointly and severally'?",
+      "a": "It means that any one of the executors can sign a document without the signature of the other(s).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:50Z",
+    "last_modified": "11 April 2024",
+    "html_sha1": "a35d63658b6de181726f61b8d84ff3f867cdcce5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

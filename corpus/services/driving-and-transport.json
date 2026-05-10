@@ -1,0 +1,209 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/driving-and-transport",
+  "source_url": "https://www.service.nsw.gov.au/services/driving-and-transport",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "driving-and-transport",
+  "title": "Driving and transport",
+  "summary": "Find information and services related to driving, vehicles, and road transport in New South Wales.",
+  "topics": [
+    "driving",
+    "vehicles",
+    "licences",
+    "road-safety",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Fines and overdue fines",
+      "url": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Demerits and demerit points",
+      "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Transfer or check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Notice of Disposal (NOD)",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "Electric vehicles (EVs)",
+      "url": "https://www.service.nsw.gov.au/services/electric-vehicles"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Motor vehicle repairer, dealer or recycler licences",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Trader's plates",
+      "url": "https://www.service.nsw.gov.au/services/traders-plates"
+    },
+    {
+      "text": "Public passenger vehicles (taxis, buses and hire cars)",
+      "url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Tow trucks",
+      "url": "https://www.service.nsw.gov.au/services/tow-trucks"
+    },
+    {
+      "text": "Tolls (toll relief, toll notices, E-Toll, eMU and ERider passes)",
+      "url": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Vehicle safety, traffic and road conditions",
+      "url": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety"
+    },
+    {
+      "text": "Parking, speed limits and speed cameras",
+      "url": "https://www.service.nsw.gov.au/services/parking"
+    },
+    {
+      "text": "Cycling",
+      "url": "https://www.service.nsw.gov.au/services/cycling"
+    },
+    {
+      "text": "Report potholes or damaged roads",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road"
+    },
+    {
+      "text": "Special mobility vehicles (apply or register)",
+      "url": "https://www.service.nsw.gov.au/services/special-mobility-vehicles"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance#transport"
+    },
+    {
+      "text": "Prove your identity",
+      "url": "https://www.service.nsw.gov.au/services/proving-your-identity"
+    },
+    {
+      "text": "Driver licence support for Aboriginal and Torres Strait Islander communities",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Transport concessions, cards and passes",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-assistance"
+    },
+    {
+      "text": "Public transport concessions and subsidies",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies"
+    },
+    {
+      "text": "Get a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Losing your licence (suspension)",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Toll roads and toll notices",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    },
+    {
+      "text": "Australian passports and visas",
+      "url": "https://www.service.nsw.gov.au/guide/australian-passports-and-visas"
+    },
+    {
+      "text": "ACT driver licences and vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about driver and rider licences?",
+      "a": "You can find information about driver and rider licences at https://www.service.nsw.gov.au/services/driver-and-rider-licences.",
+      "link": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "q": "How do I manage fines, demerits, and points related to driving?",
+      "a": "Information on fines, demerits, and points can be found at https://www.service.nsw.gov.au/services/fines-driving-and-transport-related and https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence.",
+      "link": null
+    },
+    {
+      "q": "What services are available for vehicle registration and number plates?",
+      "a": "Services include vehicle registrations, transferring registrations, notice of disposal (NOD), and number plates.",
+      "link": null
+    },
+    {
+      "q": "Do I need to know about tolls and road conditions?",
+      "a": "You can find details on tolls, vehicle safety, traffic, and road conditions under the 'Using the road' section.",
+      "link": null
+    },
+    {
+      "q": "What support is available for special mobility or disability assistance?",
+      "a": "Support is available for special mobility vehicles and disability assistance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:25Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "ab4428f213adeb74730eaaeffe23fc1c1c1eb6ad",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

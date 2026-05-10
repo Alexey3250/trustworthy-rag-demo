@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice",
+  "source_url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "dispute-a-toll-notice",
+  "title": "Dispute a toll notice",
+  "summary": "This page explains how you can lodge an objection if you wish to dispute a toll notice you have received.",
+  "topics": [
+    "dispute-toll-notice",
+    "toll-road",
+    "objection",
+    "toll-charges"
+  ],
+  "intro": "If you’ve received a toll notice and you want to dispute it, you can lodge an objection.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The reason for the objection (e.g., incorrect charges, no choice but to travel due to road works)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Pay a toll trip",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Guide to toll roads and toll notices",
+      "link": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "lodge an objection",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-notices/lodge-an-objection"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "submit a statutory declaration for a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice"
+    },
+    {
+      "text": "Pay a toll trip",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Guide to toll roads and toll notices",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I dispute a toll notice?",
+      "a": "You can lodge an objection if you want to dispute a toll notice.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-notices/lodge-an-objection"
+    },
+    {
+      "q": "What are some reasons I might object to a toll notice?",
+      "a": "Reasons for objection include having no choice but to travel on the toll road due to road works, incorrect charges, the trip already being paid, or the vehicle not making the trip.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:19Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "41ecd99b3ef94e8eeb9ac7567231c4fa4252176f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

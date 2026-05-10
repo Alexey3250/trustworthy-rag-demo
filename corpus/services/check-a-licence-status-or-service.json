@@ -1,0 +1,271 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/check-a-licence-status-or-service",
+  "source_url": "https://www.service.nsw.gov.au/services/check-a-licence-status-or-service",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "check-a-licence-status-or-service",
+  "title": "Check a licence, status or service",
+  "summary": "Use this page to check the status of various licences, certificates, and service records in NSW.",
+  "topics": [
+    "licence-check",
+    "status-check",
+    "service-nsw",
+    "building-permits",
+    "driving-records"
+  ],
+  "intro": "If you cannot find what you're looking for please use the feedback form to make a suggestion.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Apply for an NDIS Worker Check",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Check award rates, pay and wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "text": "Check for lost super",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-lost-super"
+    },
+    {
+      "text": "Check for unpaid wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-unpaid-wages"
+    },
+    {
+      "text": "Check superannuation payments",
+      "url": "https://www.service.nsw.gov.au/referral/check-superannuation-payments"
+    },
+    {
+      "text": "Check the status of your NDISWC",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Check a dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence"
+    },
+    {
+      "text": "Check a speed camera location",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location"
+    },
+    {
+      "text": "Check a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-dealer-licence"
+    },
+    {
+      "text": "Check a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Check a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Check a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Check motor vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Check a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration"
+    },
+    {
+      "text": "Check fuel prices",
+      "url": "https://www.service.nsw.gov.au/referral/check-fuel-prices"
+    },
+    {
+      "text": "Check prohibited vehicles for provisional P1 and P2 drivers",
+      "url": "https://www.service.nsw.gov.au/referral/check-prohibited-vehicles-for-provisional-p1-and-p2-drivers"
+    },
+    {
+      "text": "Check road and traffic conditions with Live Traffic NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw"
+    },
+    {
+      "text": "Check the Personal Property Securities Register (PPSR)",
+      "url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register"
+    },
+    {
+      "text": "Check the On the Road 65Plus guide",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-on-the-road-65plus-guide"
+    },
+    {
+      "text": "Check vehicles eligible for motor vehicle tax concession",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession"
+    },
+    {
+      "text": "Driver Licence Check service",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-driver-licence-check-service"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    },
+    {
+      "text": "Check a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-high-risk-work-licence"
+    },
+    {
+      "text": "Check a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Check a qualified supervisor's certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate"
+    },
+    {
+      "text": "Check a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Check an asbestos or demolition licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-asbestos-or-demolition-licence"
+    },
+    {
+      "text": "Check an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-owner-builder-permit"
+    },
+    {
+      "text": "Check if a property is in a Mine Subsidence District",
+      "url": "https://www.service.nsw.gov.au/referral/check-if-a-property-is-in-a-mine-subsidence-district"
+    },
+    {
+      "text": "Check the 10/50 vegetation clearing entitlement area",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-10-50-vegetation-clearing-entitlement-area"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Check a charitable fundraising licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    },
+    {
+      "text": "Check a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-commercial-agent-licence"
+    },
+    {
+      "text": "Check a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Check a property conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence"
+    },
+    {
+      "text": "Check a real estate agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence"
+    },
+    {
+      "text": "Check a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-master-licence"
+    },
+    {
+      "text": "Check a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-operative-licence"
+    },
+    {
+      "text": "Check a surveyor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-surveyor-licence"
+    },
+    {
+      "text": "Check availability of an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name"
+    },
+    {
+      "text": "Check the Liquor & Gaming NSW application noticeboard",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-liquor-gaming-nsw-application-noticeboard"
+    },
+    {
+      "text": "Check the local impact assessment (LIA) public register",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-local-impact-assessment-lia-public-register"
+    },
+    {
+      "text": "Check the NSW Carers Register",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-nsw-carers-register"
+    },
+    {
+      "text": "Check the register of authorised community gaming and trade promotions",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    },
+    {
+      "text": "Check the registration of a professional engineer, design practitioner or building practitioner",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my demerit points?",
+      "a": "You can check your demerit points using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "q": "Where can I check for a builder or tradesperson licence?",
+      "a": "You can check a builder or tradesperson licence using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "q": "What services can I check the status of?",
+      "a": "You can check the status of items including National Police Checks, Working with Children Checks, and various vehicle and building permits.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:42Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "33299848909367493b1378f09926db90c4210774",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

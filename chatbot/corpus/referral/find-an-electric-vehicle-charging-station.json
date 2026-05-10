@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-an-electric-vehicle-charging-station",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-an-electric-vehicle-charging-station",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-an-electric-vehicle-charging-station",
+  "title": "Find an electric vehicle charging station",
+  "summary": "Find information and locations for electric vehicle (EV) charging stations across NSW.",
+  "topics": [
+    "electric-vehicle",
+    "charging-station",
+    "nsw",
+    "ev"
+  ],
+  "intro": "You can find electric vehicle (EV) charging stations around NSW using Transport for NSW's interactive online map.\n\nThe EV charging station map shows the:\n\nYou should always plan ahead as charging stations vary in power, so this may impact on your charging time.\n\nThe NSW Government's Electric Vehicle Strategy outlines its future plans to make NSW the easiest place to buy and use an EV.\n\nThis includes installing more fast and ultra-fast charging stations around the state and changing the government fleet to EVs by 2030.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "vehicle charging map",
+      "url": "https://www.transport.nsw.gov.au/projects/electric-vehicles/charging-an-electric-vehicle/nsw-electric-vehicle-charging-map"
+    },
+    {
+      "text": "Electric Vehicle Strategy",
+      "url": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/government-strategies-and-frameworks/nsw-electric-vehicle-strategy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the electric vehicle purchase rebate (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-individuals"
+    },
+    {
+      "text": "Apply for the electric vehicle purchase rebate (organisations)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-organisations"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:43Z",
+    "last_modified": "16 April 2026",
+    "html_sha1": "f471870c9f8dc9635d667c46d638a2e2a070cad3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

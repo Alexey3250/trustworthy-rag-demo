@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-working-children-check-number",
+  "title": "Find your Working with Children Check number",
+  "summary": "Find your lost Working with Children Check (WWCC) number online.",
+  "topics": [
+    "working-with-children-check",
+    "wwcc",
+    "service-nsw",
+    "find-number"
+  ],
+  "intro": "If you've applied for a Working with Children Check (WWCC) and have lost your number, you can find it online.\n\nThe WWCC is an online system and does not have a physical card or certificate. The email you received when you were cleared has your WWCC number.\n\nYou can also access your WWCC on the Service NSW app.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your driver licence number",
+    "your WWCC application number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Find online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to retrieve your WWCC number.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Office of Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Frequently asked questions (for WWCC applicants)",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/frequently-asked-questions-about-wwcc"
+    },
+    {
+      "text": "Who needs a WWCC",
+      "url": "https://ocg.nsw.gov.au/working-children-check/who-needs-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access your WWCC on the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Renew your Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Working with Children Check (WWCC)?",
+      "a": "The WWCC is an online system and does not have a physical card or certificate.",
+      "link": null
+    },
+    {
+      "q": "How can I access my WWCC number?",
+      "a": "You can find your number online, or access your WWCC on the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "q": "What do I need to find my WWCC number?",
+      "a": "You need either your driver licence number or your WWCC application number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:26Z",
+    "last_modified": "22 March 2024",
+    "html_sha1": "ace4f31f34d846e26510332c0cd8217db954e349",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

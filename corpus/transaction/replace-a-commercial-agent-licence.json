@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-commercial-agent-licence",
+  "title": "Replace a commercial agent licence",
+  "summary": "You can apply for a replacement commercial agent licence if your original licence has been lost, damaged, or destroyed.",
+  "topics": [
+    "commercial-agent-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If your commercial agent licence has been lost, damaged or destroyed, you can apply for a replacement licence at a Service NSW Centre.",
+  "who_can_apply": [
+    "The licence holder (individuals/sole traders)",
+    "An authorised officer (corporations)"
+  ],
+  "what_you_need": [
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you're replacing the licence due to a printing error, the replacement is free.",
+      "link": null
+    },
+    {
+      "text": "To look up your commercial agent licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/CA"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licensing-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/CA"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    },
+    {
+      "text": "Apply for a commercial agent licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation"
+    },
+    {
+      "text": "Change the details on a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a replacement licence?",
+      "a": "The licence holder (individuals/sole traders) or an authorised officer (corporations) can apply.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a replacement licence?",
+      "a": "Select the 'Download PDF form' button, complete the form, and visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to apply for a replacement licence?",
+      "a": "You must have your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:23Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "9e9fcb9e8791694e2e8f16a0a79e2a6d25690640",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

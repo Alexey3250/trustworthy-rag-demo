@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-virtual-healthcare-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-virtual-healthcare-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-virtual-healthcare-in-nsw",
+  "title": "Access virtual healthcare in NSW",
+  "summary": "This page explains how to access virtual healthcare for urgent but non-life-threatening illnesses or conditions in NSW.",
+  "topics": [
+    "virtual-healthcare",
+    "nsw-health",
+    "gp-alternative",
+    "telehealth"
+  ],
+  "intro": "The virtual healthcare service provides care for urgent but non life-threatening illnesses or conditions, including:\n\nThe service is designed to help residents across Sydney avoid a wait for a GP, or a visit to a hospital's emergency department. Using video conferencing technology it connects the patient with the relevant medical clinician in the multidisciplinary team.\n\nYou do not need an appointment and the service can be free.\n\nYou will need a computer, phone or device with working camera to receive assistance.\n\nYou can access the 24-hour service by calling HealthDirect on 1800 022 222.\n\nWhen you call, a registered nurse will assess your condition and refer you to the virtual care service where appropriate.",
+  "who_can_apply": [
+    "Residents across Sydney",
+    "Urgent but non-life-threatening illnesses or conditions"
+  ],
+  "what_you_need": [
+    "A computer, phone, or device with a working camera"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "HealthDirect",
+      "url": "https://www.healthdirect.gov.au/virtual-care-clinics"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What kind of care does the virtual healthcare service provide?",
+      "a": "It provides care for urgent but non-life-threatening illnesses or conditions.",
+      "link": null
+    },
+    {
+      "q": "Do I need an appointment to use the service?",
+      "a": "No, you do not need an appointment.",
+      "link": null
+    },
+    {
+      "q": "How do I access the 24-hour virtual care service?",
+      "a": "You can access the 24-hour service by calling HealthDirect on 1800 022 222.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:44Z",
+    "last_modified": "26 May 2025",
+    "html_sha1": "906fe5b1e72a301080be862928c3b3bab3469734",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

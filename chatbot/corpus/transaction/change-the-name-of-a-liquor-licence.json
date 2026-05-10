@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-name-of-a-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-name-of-a-liquor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-name-of-a-liquor-licence",
+  "title": "Change the name of a liquor licence",
+  "summary": "Apply online to Liquor & Gaming NSW to get approval to change the name of your licensed premises.",
+  "topics": [
+    "liquor-licence",
+    "change-name",
+    "business-name",
+    "nsw-liquor-licensing"
+  ],
+  "intro": "If you want to change the name of your licensed premises, you need to apply for approval from Liquor & Gaming NSW. You can do this online. The new name must relate to the business you conduct on your premises.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "The new name must relate to the business conducted on the premises."
+  ],
+  "what_you_need": [
+    "Licensee's details, including ACN, ABN, and Y/Inc (if applicable)",
+    "Reason for the name change",
+    "A copy of your record of registration of the business name that matches the proposed licence name",
+    "Notify interest in a liquor licence business (if the entity that holds the registration certificate is not listed on your licence)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your name and the required liquor licence number.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Change premises name'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to change the name of a liquor licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Attach any supporting documents.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Submit your application with payment.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When lodging online, ensure all the documents you attach are in PDF format.",
+      "link": null
+    },
+    {
+      "text": "Applications will generally be determined within 7 working days.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify interest in a liquor licence business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-interest-in-a-liquor-licence-business"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find up-to-date liquor licence guidelines and resources?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who should I contact if I have questions about liquor licensing?",
+      "a": "Contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "q": "What do I need to apply to change the name of a liquor licence?",
+      "a": "You need the licensee's details (including ACN, ABN, Y/Inc if applicable), the reason for the name change, a copy of your record of registration of the business name, and to notify interest in a liquor licence business if the entity holding the registration certificate is not listed on your licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:49Z",
+    "last_modified": "28 August 2025",
+    "html_sha1": "a0383fe3b54038cf77b48c4a88ddfc5f95f8549d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

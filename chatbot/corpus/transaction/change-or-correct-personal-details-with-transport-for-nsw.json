@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-or-correct-personal-details-with-transport-for-nsw",
+  "title": "Change or correct personal details with Transport for NSW",
+  "summary": "You must visit a Service NSW Centre to update your date of birth or gender on your driver licence, NSW Photo Card, or Mobility Parking Scheme permit.",
+  "topics": [
+    "personal-details",
+    "driver-licence",
+    "nsw-photo-card",
+    "mobility-parking-scheme"
+  ],
+  "intro": "If you want to update your date of birth or gender on your driver licence, NSW Photo Card or Mobility Parking Scheme permit, you need to visit a Service NSW Centre.",
+  "who_can_apply": [
+    "Individuals who want to update their date of birth or gender on their driver licence, NSW Photo Card, or Mobility Parking Scheme permit."
+  ],
+  "what_you_need": [
+    "To correct the date of birth: A List 1 proof of identity document showing the correct date of birth.",
+    "For change of gender: If a replacement product (like a driver licence card) is needed, bring the relevant form.",
+    "For change of gender: If no replacement product is needed, bring the Change of Records form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre to request a change to your personal details. Make sure to bring the required documents with you.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "List 1 proof of identity document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Replacement Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "NSW Photo Card Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "text": "Mobility Parking Scheme Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061469-mps-conditions-eng.pdf"
+    },
+    {
+      "text": "Change of Records – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "changed your name",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/updating-personal-details/changing-your-name-or-address"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change an email address or mobile number with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw"
+    },
+    {
+      "text": "Change of name with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I go to change my personal details?",
+      "a": "You need to visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to correct my date of birth?",
+      "a": "You need a List 1 proof of identity document that shows your correct date of birth.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "q": "What documents do I need for a gender change?",
+      "a": "For a change of gender, you need one of the following: if you need a replacement product (like a driver licence card), bring the relevant form; if you do not need a replacement product, bring the Change of Records form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:02Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "d66f287ef1c591f6b72b15bab2c2555061f2fabb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

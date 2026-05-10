@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-nsw-boating-and-coastal-maps",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-nsw-boating-and-coastal-maps",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-nsw-boating-and-coastal-maps",
+  "title": "Order NSW boating and coastal maps",
+  "summary": "Order waterproof NSW boating and coastal maps online, at a service centre, or by phone.",
+  "topics": [
+    "boating",
+    "coastal-maps",
+    "nsw-waterways",
+    "navigation"
+  ],
+  "intro": "NSW boating and coastal maps are printed on waterproof paper and are available to buy online with your credit card. You can also order these at a service centre or by calling us on 13 77 88.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "personal details",
+    "delivery address details",
+    "credit card details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Buy now' under the items you want to buy.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "When you've finished choosing, select the cart button in the top right hand corner of your screen to proceed to checkout.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Check the quantity and details of your order.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Confirm your order by selecting 'Checkout'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your personal and payment details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Boating maps for NSW waterways – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/navigation-communication-maps-times-and-restrictions/boating-maps"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:38Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "9dd8e77e2a490aa9ff8a9f9083ca5ba4277c0eed",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-the-registration-on-a-written-off-vehicle",
+  "title": "Cancel the registration on a written-off vehicle",
+  "summary": "Learn how to complete the cancellation of a vehicle registration after a vehicle has been written off.",
+  "topics": [
+    "written-off-vehicle",
+    "cancel-registration",
+    "service-nsw"
+  ],
+  "intro": "If your vehicle is classified as written-off by the insurer, it will be recorded on the NSW Written-Off Vehicle Register.\n\nYou'll be notified in writing that the vehicle has been written-off and the registration cancelled.\n\nYou then need to take the number plates to a Service NSW Centre within 14 days to complete the cancellation.",
+  "who_can_apply": [
+    "The vehicle must be classified as written-off by the insurer."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "The PDF form: Number Plates and/or Cancellation of Registration Application",
+    "Your current Certificate of Registration (if available)",
+    "The number plates (or a written declaration that the plates were lost or stolen, a police event number, or a receipt if surrendered interstate)",
+    "A police incident report or insurance statement showing the date of the incident (if applicable)",
+    "For refunds: A police incident report or insurance statement showing the date of the incident"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents and the number plates (if available) and visit a service centre to complete the cancellation.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Cancelled policy refunds",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips/cancelled-policy-refunds"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    },
+    {
+      "text": "Cancelling your registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration/cancelling-your-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to re-register a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    },
+    {
+      "text": "Book a VIIU inspection for a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    },
+    {
+      "text": "Cancel a vehicle registration from interstate",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate"
+    },
+    {
+      "text": "Cancel a vehicle registration within NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens when my vehicle is written off?",
+      "a": "If your vehicle is classified as written-off by the insurer, it will be recorded on the NSW Written-Off Vehicle Register, and you will be notified in writing that the registration has been cancelled.",
+      "link": null
+    },
+    {
+      "q": "How do I complete the cancellation of my registration?",
+      "a": "You must take the number plates to a Service NSW Centre within 14 days to complete the cancellation.",
+      "link": null
+    },
+    {
+      "q": "Am I eligible for a refund?",
+      "a": "You may be eligible for a refund of the unused portion of the motor vehicle tax and any remaining CTP insurance. For more information on refunds, visit the State Insurance Regulatory Authority website.",
+      "link": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips/cancelled-policy-refunds"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:32Z",
+    "last_modified": "9 September 2025",
+    "html_sha1": "292c8cfb091563711607172c0af355440ba3b467",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

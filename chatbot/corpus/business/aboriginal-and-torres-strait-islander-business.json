@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/aboriginal-and-torres-strait-islander-business",
+  "source_url": "https://www.service.nsw.gov.au/business/aboriginal-and-torres-strait-islander-business",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "aboriginal-and-torres-strait-islander-business",
+  "title": "Support for Aboriginal and Torres Strait Islander business owners",
+  "summary": "This page provides resources and support for Aboriginal and Torres Strait Islander business owners in NSW.",
+  "topics": [
+    "aboriginal-business",
+    "torres-strait-islander-business",
+    "business-support",
+    "funding",
+    "entrepreneurship"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=aboriginal-business"
+    },
+    {
+      "text": "Online resources Access free videos and articles on a range of topics.",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Grants and funding finder Find a NSW Government initiative, grant or funding program.",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    },
+    {
+      "text": "Aboriginal Economic Development NSW Government team supporting regional Aboriginal business, employment and training.",
+      "url": "https://www.nsw.gov.au/regional-and-primary-industries/aboriginal-economic-development"
+    },
+    {
+      "text": "NSW Indigenous Chamber of Commerce Peak body for Indigenous business in NSW.",
+      "url": "https://nswicc.com.au/"
+    },
+    {
+      "text": "Yarpa Services, resources and networks for Aboriginal and Torres Strait Islander businesses.",
+      "url": "https://yarpa.com.au/"
+    },
+    {
+      "text": "Supply Nation Leading database of verified Indigenous businesses.",
+      "url": "https://supplynation.org.au/"
+    },
+    {
+      "text": "Many Rivers Support to develop your business, including microfinance loans.",
+      "url": "https://manyrivers.org.au/about-us/"
+    },
+    {
+      "text": "Indigenous Business Australia Business finance and partnerships for Aboriginal and Torres Strait Islander entrepreneurs.",
+      "url": "https://iba.gov.au/"
+    },
+    {
+      "text": "access option",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Starting a business Learn how to set up your business, choose the right structure and apply for key registrations.",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Manage and grow Solve business challenges, build your skills or explore new opportunities.",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find support for my Aboriginal or Torres Strait Islander business?",
+      "a": "You can find support through various resources, including the NSW Indigenous Chamber of Commerce, Yarpa Services, and Supply Nation.",
+      "link": null
+    },
+    {
+      "q": "What resources are available for Aboriginal and Torres Strait Islander businesses?",
+      "a": "Resources include information on starting and growing a business, accessing funding, and connecting with networks.",
+      "link": null
+    },
+    {
+      "q": "How can I find funding or grants for my business?",
+      "a": "You can use the Grants and funding finder to locate NSW Government initiatives, grants, or funding programs.",
+      "link": "https://www.nsw.gov.au/grants-and-funding"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:26Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "b3568182ef089834ed7c999b18ad0d4c27f78df9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

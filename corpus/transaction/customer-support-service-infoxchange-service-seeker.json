@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/customer-support-service-infoxchange-service-seeker",
+  "source_url": "https://www.service.nsw.gov.au/transaction/customer-support-service-infoxchange-service-seeker",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "customer-support-service-infoxchange-service-seeker",
+  "title": "Customer support service - Infoxchange Service Seeker",
+  "summary": "Use the Infoxchange Service Seeker directory to find local health, welfare, and community service providers in Australia.",
+  "topics": [
+    "health",
+    "welfare",
+    "community-services",
+    "support-services"
+  ],
+  "intro": "Infoxchange Service Seeker is an online directory of over 390,000 health, welfare and community service providers in Australia.\n\nTo find the services you need, enter the topic and your postcode. You can browse a list of providers or view the services near you on a map.\n\nSupport services in the directory include:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:11Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "acfc92ace5320e7f825f2b78c52433f8f51bb58a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

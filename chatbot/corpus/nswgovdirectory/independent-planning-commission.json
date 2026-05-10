@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-planning-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-planning-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "independent-planning-commission",
+  "title": "Independent Planning Commission",
+  "summary": "This page provides information about the Independent Planning Commission (IPC), which is an independent body that provides advice on planning matters.",
+  "topics": [
+    "planning",
+    "independent-commission",
+    "housing",
+    "infrastructure"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.ipcn.nsw.gov.au/",
+      "url": "https://www.ipcn.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:34Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "75f082986b07e63b560a6fb3921a8fc3abb34e63",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/energy-accounts-payment-assistance-eapa-scheme",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/energy-accounts-payment-assistance-eapa-scheme",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "energy-accounts-payment-assistance-eapa-scheme",
+  "title": "Energy Accounts Payment Assistance (EAPA) Scheme – Privacy statement",
+  "summary": "This notice explains how the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW) handles your personal information when you apply for the Energy Accounts Payment Assistance (EAPA) scheme.",
+  "topics": [
+    "energy-accounts",
+    "payment-assistance",
+    "privacy-notice",
+    "dccew"
+  ],
+  "intro": "The Energy Climate Change and Sustainability Group which is a part of the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), delivers the Energy Accounts Payment Assistance (EAPA) scheme.\n\nService NSW is collecting your personal information as part of exercising certain customer service functions of the DCCEEW for the EAPA scheme. The information you provide in your EAPA application is collected and stored by Service NSW, and transferred to DCCEEW.\n\nThis Privacy Notice describes how DCCEEW will deal with the personal information it receives from Service NSW about your EAPA application.\n\nDCCEEW has obligations under the Privacy and Personal Information Protection Act 1998 in managing your personal information. Any queries or complaints regarding privacy are handled by DCCEEW’s Information Access & Privacy unit. This Privacy Statement should be read together with DCCEEW's Privacy Management Plan.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "DCCEEW's Privacy Management Plan",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2024-05/dcceew-privacy-management-plan-24.03.05.pdf"
+    },
+    {
+      "text": "https://www.energy.nsw.gov.au/privacy",
+      "url": "https://www.energy.nsw.gov.au/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Energy Accounts Payment Assistance (EAPA) scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What personal information does DCCEEW collect?",
+      "a": "DCCEEW collects your personal details (name, address, contact details), your energy account and bills details, and details of your current short-term financial crisis and/or emergency.",
+      "link": null
+    },
+    {
+      "q": "Why is my personal information being collected?",
+      "a": "Service NSW collects your information as part of exercising certain customer service functions of the DCCEEW for the EAPA scheme.",
+      "link": null
+    },
+    {
+      "q": "How is my information stored?",
+      "a": "The information you provide is collected and stored by Service NSW, and then transferred to DCCEEW.",
+      "link": null
+    },
+    {
+      "q": "Who handles privacy queries or complaints?",
+      "a": "Any queries or complaints regarding privacy are handled by DCCEEW’s Information Access & Privacy unit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:37Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "f370e3acc18159b252c6b341101b48aa8aeca927",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

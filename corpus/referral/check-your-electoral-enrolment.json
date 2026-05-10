@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-your-electoral-enrolment",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-your-electoral-enrolment",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-your-electoral-enrolment",
+  "title": "Check your electoral enrolment",
+  "summary": "Check your current federal, state, and local electoral enrolment details to ensure you are registered to vote.",
+  "topics": [
+    "electoral-enrolment",
+    "voting-details",
+    "australian-electoral-commission",
+    "check-enrolment"
+  ],
+  "intro": "To check your electoral enrolment, you must be enrolled to vote.\n\nYou can verify your enrolment, and review your current federal, state and local electoral enrolment details, via the Australian Electoral Commission (AEC) website.\n\nYou will need to provide:\n\nFor privacy reasons, you must enter your details exactly as they appear on the electoral roll. If your search is not successful, check that you have entered the information correctly.\n\nIf you’ve enrolled as a silent elector, you will not be able to check your enrolment details online. You'll need to contact the AEC.\n\nIf you cannot check online or need help, call 13 23 26 or contact your local AEC office.",
+  "who_can_apply": [
+    "Must be enrolled to vote."
+  ],
+  "what_you_need": [
+    "Your details must be entered exactly as they appear on the electoral roll for privacy reasons."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "via the Australian Electoral Commission (AEC) website",
+      "url": "https://check.aec.gov.au/"
+    },
+    {
+      "text": "silent elector",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/Special_Category/silent-electors.htm"
+    },
+    {
+      "text": "contact the AEC",
+      "url": "https://www.aec.gov.au/About_AEC/Contact_the_AEC/index.htm"
+    },
+    {
+      "text": "Information to help you check your enrolment – AEC",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/check-help.htm"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I check my electoral enrolment?",
+      "a": "You can verify and review your current federal, state, and local electoral enrolment details via the Australian Electoral Commission (AEC) website.",
+      "link": "https://check.aec.gov.au/"
+    },
+    {
+      "q": "What should I do if I am a silent elector?",
+      "a": "If you enrolled as a silent elector, you will not be able to check your enrolment details online. You must contact the AEC.",
+      "link": "https://www.aec.gov.au/Enrolling_to_vote/Special_Category/silent-electors.htm"
+    },
+    {
+      "q": "What should I do if I cannot check my enrolment online or need help?",
+      "a": "Call 13 23 26 or contact your local AEC office.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:19Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "4469751ac48624503a1703a0f9f02b90eb18c155",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

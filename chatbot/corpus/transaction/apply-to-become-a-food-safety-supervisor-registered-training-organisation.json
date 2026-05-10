@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-food-safety-supervisor-registered-training-organisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-food-safety-supervisor-registered-training-organisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-become-a-food-safety-supervisor-registered-training-organisation",
+  "title": "Apply to become a food safety supervisor registered training organisation",
+  "summary": "Find out the requirements and steps to apply for your business to operate as an approved Registered Training Organisation (RTO) for the NSW Food Safety Supervisor program.",
+  "topics": [
+    "food-safety",
+    "registered-training-organisation",
+    "nsw-food-authority",
+    "business-registration"
+  ],
+  "intro": "For your business to operate as an approved registered training organisation (RTO) under the NSW Food Safety Supervisor (FSS) program, you need to apply to the NSW Food Authority.\n\nNote: Each FSS trainer in your organisation must complete the relevant section of the application form.",
+  "who_can_apply": [
+    "Must have been operating as an RTO continuously for at least one year before applying.",
+    "Must be registered with the Australian Skills Quality Authority (ASQA).",
+    "Must deliver the competency units specified by the NSW Food Authority.",
+    "Must offer one, or a combination of, the following training methods."
+  ],
+  "what_you_need": [
+    "Your business details (ABN/ACN).",
+    "A copy of the Certificate of Registration of Business Name (if applicable).",
+    "A copy of your ASQA RTO certificate and scope of registration.",
+    "The units of competency offered and the methods of delivery.",
+    "Your payment (as indicated on the form).",
+    "The PDF form – 'Food Safety Supervisor Program – RTO Application'.",
+    "Food safety supervisor certificate.",
+    "Training qualification.",
+    "Statement of attainment for the valid FSS units of competency.",
+    "Current resumé.",
+    "Certified copies of each FSS trainer's documents: food safety supervisor certificate, training qualification, statement of attainment for the valid FSS units of competency, and current resumé."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application with payment by mail, fax or email, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If your application is successful, the RTO approval lasts for 12 months.",
+      "link": null
+    },
+    {
+      "text": "Approved RTOs will be published on the Food Authority’s website.",
+      "link": null
+    },
+    {
+      "text": "A ‘certified copy’ is a photocopy that has been compared with the original and endorsed as a true copy by a Justice of the Peace (JP), or a public officer such as a police officer.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "criteria",
+      "url": "https://www.foodauthority.nsw.gov.au/sites/default/files/_Documents/fss/RTO_approval_criteria.pdf"
+    },
+    {
+      "text": "Australian Skills Quality Authority (ASQA)",
+      "url": "https://www.asqa.gov.au/rtos"
+    },
+    {
+      "text": "specified by the NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/fss-food-safety-supervisors/for-rtos"
+    },
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who must apply to become an RTO?",
+      "a": "The business must apply to the NSW Food Authority. Each FSS trainer in the organisation must also complete the relevant section of the application form.",
+      "link": null
+    },
+    {
+      "q": "What are the general eligibility requirements?",
+      "a": "The business must have been operating as an RTO continuously for at least one year before applying, be registered with the Australian Skills Quality Authority (ASQA), and deliver the competency units specified by the NSW Food Authority.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "Select the 'Download PDF form' button, complete and sign the form, gather the required documents, and submit your application with payment by mail, fax, or email to the details on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:56Z",
+    "last_modified": "11 October 2024",
+    "html_sha1": "0d1e799ca037acb3f6c76aaf3806c9e4042d3ca8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

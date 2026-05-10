@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/public-guardian-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/public-guardian-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "public-guardian-nsw",
+  "title": "Public Guardian NSW",
+  "summary": "This page provides information about the Public Guardian in NSW, who helps people who need assistance with their affairs.",
+  "topics": [
+    "public-guardian",
+    "guardianship",
+    "nsw-legal-services",
+    "financial-management"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/financial-management-and-guardianship-orders/guardianship-orders/public-guardian-my-guardian",
+      "url": "https://www.nsw.gov.au/legal-and-justice/financial-management-and-guardianship-orders/guardianship-orders/public-guardian-my-guardian"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Trustee and Guardian, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/trustee-and-guardian-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Public Guardian do?",
+      "a": "The Public Guardian acts on behalf of people who are unable to manage their own affairs, providing assistance and protection.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to become a Public Guardian?",
+      "a": "The page does not specify who can apply to become a Public Guardian.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:54Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "30c52afcae264e611ce4a162374747f8a05d954e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

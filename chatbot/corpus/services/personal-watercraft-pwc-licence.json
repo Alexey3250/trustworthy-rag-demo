@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "personal-watercraft-pwc-licence",
+  "title": "Personal watercraft (PWC) licence",
+  "summary": "This page provides information on how to apply for, renew, replace, or manage a personal watercraft (PWC) driving licence in New South Wales.",
+  "topics": [
+    "pwc-licence",
+    "boating-licence",
+    "driving-licence",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "General boat driving licence",
+      "link": "https://www.service.nsw.gov.au/services/general-boat-driving-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Book a general boat or personal watercraft (PWC) licence knowledge test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-general-boat-or-personal-watercraft-pwc-licence-knowledge-test"
+    },
+    {
+      "text": "Take the boating knowledge practice quiz",
+      "url": "https://www.service.nsw.gov.au/transaction/take-the-boating-knowledge-practice-quiz"
+    },
+    {
+      "text": "Renew or restore a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Replace a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Change the conditions for a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-for-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Downgrade from a personal watercraft (PWC) driving licence to a general boat driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/downgrade-from-a-personal-watercraft-pwc-driving-licence-to-a-general-boat-driving-licence"
+    },
+    {
+      "text": "Cancel a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "General boat driving licence",
+      "url": "https://www.service.nsw.gov.au/services/general-boat-driving-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a PWC driving licence?",
+      "a": "You can apply for a personal watercraft (PWC) driving licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "q": "What do I need to do if I want to renew or restore my PWC licence?",
+      "a": "You can renew or restore your personal watercraft (PWC) driving licence through the official transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "q": "How can I change my PWC licence conditions or downgrade it?",
+      "a": "You can change the conditions for your PWC licence or downgrade from a PWC licence to a general boat licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-conditions-for-a-personal-watercraft-pwc-driving-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:35Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "9560f10433c83273505775b2e8f8a5b3c5548c12",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

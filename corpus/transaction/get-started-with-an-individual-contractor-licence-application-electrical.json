@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-started-with-an-individual-contractor-licence-application-electrical",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-started-with-an-individual-contractor-licence-application-electrical",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-started-with-an-individual-contractor-licence-application-electrical",
+  "title": "Get started with an individual contractor licence application (electrical)",
+  "summary": "This page provides information and steps for individuals to apply for an electrical contractor licence or certificate in NSW.",
+  "topics": [
+    "electrical-licence",
+    "contractor-licence",
+    "nsw-electrical-work",
+    "automatic-mutual-recognition"
+  ],
+  "intro": "You must have an electrical licence or certificate to do electrical wiring work in NSW. This applies to all residential, commercial or industrial regardless of the cost of the work.\n\nTo help you get the information and documents you need to apply for a licence or certificate that's right for you:\n\n### Working in NSW with an interstate licence\n\nYou may be able to use your interstate licence to work in NSW. This is called the Automatic Mutual Recognition (AMR) scheme. If you are eligible you must notify the licence regulator of your intention to work in NSW.",
+  "who_can_apply": [
+    "Must be an individual with approved qualifications and experience.",
+    "Cannot apply if currently an apprentice or trainee; must apply after finishing the apprenticeship or traineeship.",
+    "Companies, partnerships, or contractors in a different trade are not eligible to apply using this online tool."
+  ],
+  "what_you_need": [
+    "Select the ‘Start online’ button and log in or create a MyServiceNSW Account.",
+    "Gather supporting documents, including proof of identity, certificate of proficiency or craft certificate, and certificate of eligibility to obtain insurance (if applicable).",
+    "Complete forms and upload them with your documents.",
+    "Book an appointment at a Service NSW Centre to finalise the application."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Start online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts and complete the questions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download the forms and documents displayed.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete your forms and upload them with your documents.",
+      "link": "https://www.service.nsw.gov.au/guide/how-to-upload-documents-for-an-online-application"
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to book your appointment at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "n": 8,
+      "text": "To finalise your application, attend your appointment:",
+      "link": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For help with your application or more information about training and accreditation:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "approved qualifications and experience",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/electrical"
+    },
+    {
+      "text": "proof of your identity",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/proof-of-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "assess your application",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Building Commission NSW",
+      "url": "https://www.nsw.gov.au/building-commission"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of your intention to work in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/company-contractor-licence"
+    },
+    {
+      "text": "upload them with your documents",
+      "url": "https://www.service.nsw.gov.au/guide/how-to-upload-documents-for-an-online-application"
+    },
+    {
+      "text": "book your appointment at a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to do electrical work in NSW?",
+      "a": "Yes, you must have an electrical licence or certificate to do electrical wiring work in NSW, regardless of whether the work is residential, commercial, or industrial.",
+      "link": null
+    },
+    {
+      "q": "Can I use my interstate licence in NSW?",
+      "a": "You may be able to use your interstate licence through the Automatic Mutual Recognition (AMR) scheme. If you are eligible, you must notify the licence regulator of your intention to work in NSW.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "q": "Who is eligible to apply for a licence or certificate?",
+      "a": "To apply, you must be an individual with approved qualifications and experience. Apprentices or trainees cannot apply; they must apply as soon as they finish their apprenticeship or traineeship.",
+      "link": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/electrical"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:25Z",
+    "last_modified": "8 October 2025",
+    "html_sha1": "fd12eda1c691748cc1385a78e1f9820a13a8dd78",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

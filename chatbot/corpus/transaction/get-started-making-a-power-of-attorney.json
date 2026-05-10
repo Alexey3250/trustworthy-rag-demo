@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-started-making-a-power-of-attorney",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-started-making-a-power-of-attorney",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-started-making-a-power-of-attorney",
+  "title": "Get started making a Power of Attorney",
+  "summary": "Learn about and begin the process of making a Power of Attorney to manage your assets and financial affairs.",
+  "topics": [
+    "power-of-attorney",
+    "legal-documents",
+    "financial-planning",
+    "nsw-trustee-and-guardian"
+  ],
+  "intro": "A Power of Attorney is a legal document where you nominate a person or trustee to manage your assets and financial affairs. This may be because you are travelling, or ill, or have had an accident.\n\nYou still control your affairs, and you can revoke your Power of Attorney at any time, if you understand the importance of the decisions you are making.\n\nA General Power of Attorney becomes invalid when you die, or you lose the mental capacity to manage your own affairs.\n\nAn Enduring Power of Attorney will continue to have effect during your lifetime, even if you lose the capacity to self-manage. It also becomes invalid on your death.\n\nIf you’d like NSW Trustee and Guardian to make your Power of Attorney document you can begin the process online.\n\nNote: Certain pensioners may be able to access this service for free if they meet the eligibility criteria.",
+  "who_can_apply": [
+    "Be 18 years or over",
+    "Understand the nature and effect of the appointment of a Power of Attorney",
+    "People eligible for a full Centrelink age pension (including those receiving other government benefits, such as a Department of Veterans' Affairs pension) may receive free preparation services."
+  ],
+  "what_you_need": [
+    "Understanding the nature and effect of the Power of Attorney appointment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Get started' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "View your options.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the 'Request an appointment' button and complete the online form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "NSW Trustee and Guardian will contact you to organise an appointment time.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "arrange an appointment at a NSW Trustee and Guardian branch, or",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-locations"
+    },
+    {
+      "n": 7,
+      "text": "make a booking at a local location.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-locations"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When NSW Trustee and Guardian prepares your Power of Attorney, you can appoint to act as your attorney either:",
+      "link": null
+    },
+    {
+      "text": "When you appoint NSW Trustee and Guardian as your attorney (or first-named substitute only), the original document is held free of charge by the agency, and you receive a copy for your own records.",
+      "link": null
+    },
+    {
+      "text": "The fees and charges for NSW Trustee and Guardian to prepare your Power of Attorney and to act as Power of Attorney once it is activated are set by government.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees#toc-power-of-attorney-fees"
+    },
+    {
+      "text": "Enduring Guardianship is a complementary document to an Enduring Power of Attorney. An Enduring Guardian is someone you appoint to make lifestyle, health and medical decisions for you when you're not capable of making them for yourself.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/choose-enduring-guardian"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "arrange an appointment",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-locations"
+    },
+    {
+      "text": "fees and charges",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees#toc-power-of-attorney-fees"
+    },
+    {
+      "text": "Enduring Guardianship",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/choose-enduring-guardian"
+    },
+    {
+      "text": "Have you planned ahead? – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2024-06/NSW-trustee-guardian-end-of-life-planning.pdf"
+    },
+    {
+      "text": "Make a Power of Attorney – NSW Trustee and Guardian",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/make-power-of-attorney"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage a deceased estate",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Power of Attorney?",
+      "a": "A Power of Attorney is a legal document where you nominate a person or trustee to manage your assets and financial affairs, which can be useful if you are travelling, ill, or have had an accident.",
+      "link": null
+    },
+    {
+      "q": "Does a General Power of Attorney remain valid if I die?",
+      "a": "No, a General Power of Attorney becomes invalid when you die, or if you lose the mental capacity to manage your own affairs.",
+      "link": null
+    },
+    {
+      "q": "What is an Enduring Power of Attorney?",
+      "a": "An Enduring Power of Attorney will continue to have effect during your lifetime, even if you lose the capacity to self-manage, but it also becomes invalid on your death.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:28Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "54d7229a2ae47efbea135f627fc00044d0d0a39e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

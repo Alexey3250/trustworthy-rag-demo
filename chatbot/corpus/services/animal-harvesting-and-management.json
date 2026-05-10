@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management",
+  "source_url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "animal-harvesting-and-management",
+  "title": "Animal harvesting and management",
+  "summary": "This page provides information and links for various licenses and registrations related to managing and harvesting native animals, game, and other specimens in NSW.",
+  "topics": [
+    "animal-management",
+    "wildlife-licences",
+    "game-harvesting",
+    "beekeeping",
+    "taxidermy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Environment, parks and wildlife",
+      "link": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Change the licence class or details on a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Renew a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Manage your native animal keeper record book online",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-native-animal-keeper-record-book-online"
+    },
+    {
+      "text": "Apply for a native animal import/export licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-import-export-licence"
+    },
+    {
+      "text": "Apply for a companion native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-companion-native-animal-keeper-licence"
+    },
+    {
+      "text": "Apply for a licence to harm or pick a threatened species",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-harm-or-pick-a-threatened-species"
+    },
+    {
+      "text": "Apply for a native game bird management (owner/occupier) licence",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-native-game-bird-management-owner-occupier-licence"
+    },
+    {
+      "text": "Apply for a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-beekeeper-registration"
+    },
+    {
+      "text": "Renew a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-beekeeper-registration"
+    },
+    {
+      "text": "Update the details of a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-the-details-of-a-beekeeper-registration"
+    },
+    {
+      "text": "Lodge a professional licence harvest return",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-professional-licence-harvest-return"
+    },
+    {
+      "text": "Lodge a public land harvest return",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-land-harvest-return"
+    },
+    {
+      "text": "Apply for a NSW game hunting licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    },
+    {
+      "text": "Apply for a licence to carry out taxidermy or possess preserved specimens",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-licence-carry-out-taxidermy"
+    },
+    {
+      "text": "Renew a licence to carry out taxidermy or possess preserved specimens",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-licence-to-carry-out-taxidermy-or-possess-preserved-specimens"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Environment, parks and wildlife",
+      "url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a native animal keeper licence?",
+      "a": "You can apply for a native animal keeper licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "q": "What are the options for managing native animals and birds?",
+      "a": "You can apply for a licence to harm or pick a threatened species, or apply for a native game bird management licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about beekeeping?",
+      "a": "You can apply for, renew, or update your beekeeper registration.",
+      "link": null
+    },
+    {
+      "q": "What licenses are needed for game harvesting?",
+      "a": "You can apply for a NSW game hunting licence, and lodge harvest returns for both professional and public land.",
+      "link": null
+    },
+    {
+      "q": "Do I need a licence for taxidermy or possessing preserved specimens?",
+      "a": "Yes, you must apply for or renew a licence to carry out taxidermy or possess preserved specimens.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:56Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "7b637a682d42fbacec8b32c8d066d75f7650c69e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

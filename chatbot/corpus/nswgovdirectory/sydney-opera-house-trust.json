@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house-trust",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house-trust",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sydney-opera-house-trust",
+  "title": "Sydney Opera House Trust",
+  "summary": "This page provides information about the Sydney Opera House Trust.",
+  "topics": [
+    "sydney-opera-house",
+    "trust",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sydneyoperahouse.com/about-us/our-people/trust",
+      "url": "https://www.sydneyoperahouse.com/about-us/our-people/trust"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Sydney Opera House",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:16Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a8e210d9de842498d4d4463bb85099c4d43fd923",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

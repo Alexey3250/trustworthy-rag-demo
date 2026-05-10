@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/tolls",
+  "source_url": "https://www.service.nsw.gov.au/services/tolls",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "tolls",
+  "title": "Tolls",
+  "summary": "This page provides information and links for managing tolls, paying notices, and claiming rebates for various toll services in New South Wales.",
+  "topics": [
+    "tolls",
+    "toll-accounts",
+    "toll-rebates",
+    "toll-notices",
+    "transport-fees"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "E-Toll account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "Order an eMU Casual Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-casual-emu-pass"
+    },
+    {
+      "text": "Apply for an ERider pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-erider-pass"
+    },
+    {
+      "text": "Toll relief: savings for frequent toll users",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Link your Toll and MyServiceNSW Accounts to claim toll relief",
+      "url": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "text": "Register for the M5 South-West Cashback Scheme rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-the-m5-south-west-cashback-scheme-rebate"
+    },
+    {
+      "text": "Claim the M5 South-West Cashback Scheme rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-m5-south-west-cashback-scheme-rebate"
+    },
+    {
+      "text": "Register for the Large Towed Recreational Vehicle Toll Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-the-large-towed-recreational-vehicle-toll-rebate"
+    },
+    {
+      "text": "Claim the Large Towed Recreational Vehicle Toll Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-large-towed-recreational-vehicle-toll-rebate"
+    },
+    {
+      "text": "Pay a toll or toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Pay a Toll Notice for the Sydney Harbour Bridge or Tunnel",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-notice-for-the-sydney-harbour-bridge-or-tunnel"
+    },
+    {
+      "text": "Submit a statutory declaration for a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice"
+    },
+    {
+      "text": "Use the Sydney Motorways Toll Calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-sydney-motorways-toll-calculator"
+    },
+    {
+      "text": "Dispute a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice"
+    },
+    {
+      "text": "Toll roads and toll notices guide",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    },
+    {
+      "text": "Fines and overdue fines (driving and transport related)",
+      "url": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I manage my toll account or pass?",
+      "a": "You can manage your toll account by ordering an eMU Casual Pass, applying for an ERider pass, or setting up an E-Toll account.",
+      "link": null
+    },
+    {
+      "q": "What options do I have for claiming toll rebates?",
+      "a": "You can claim rebates for frequent toll use, the M5 South-West Cashback Scheme, or for large towed recreational vehicles.",
+      "link": null
+    },
+    {
+      "q": "How do I pay a toll or a toll notice?",
+      "a": "You can pay a toll or toll notice directly, or pay a specific Toll Notice for the Sydney Harbour Bridge or Tunnel.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I need to dispute a toll notice?",
+      "a": "You can dispute a toll notice or submit a statutory declaration if necessary.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:49Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c2b611e07a62f7d671f8a7b60fc2fe20f8eda00a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

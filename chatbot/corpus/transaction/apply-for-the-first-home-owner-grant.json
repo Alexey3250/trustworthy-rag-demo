@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-owner-grant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-owner-grant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-first-home-owner-grant",
+  "title": "Apply for the First Home Owner Grant",
+  "summary": "Find out if you qualify for and how to apply for the $10,000 First Home Owner Grant (New Homes) if you are buying or building a new home.",
+  "topics": [
+    "first-home-owner-grant",
+    "new-home-buyer",
+    "housing-assistance",
+    "nsw-property-purchase"
+  ],
+  "intro": "If you’re a first home buyer and you’re buying or building a new home, you may qualify for a $10,000 grant under the First Home Owner Grant (New Homes) scheme.\n\nYou can make a claim if:",
+  "who_can_apply": [
+    "Must be an individual (not a company or trust) and at least 18 years old.",
+    "You, or at least one person you are buying with, must be an Australian citizen or permanent resident.",
+    "You or your spouse must not have previously received the grant."
+  ],
+  "what_you_need": [
+    "A copy of the contract, dated and signed by the seller.",
+    "Your proof of identity (https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/identity).",
+    "Supporting documents (https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/first-home-owner-new-homes-grant)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the PDF: Application Form and Lodgement Guide for New Homes.",
+      "link": "https://www.revenue.nsw.gov.au/help-centre/resources-library/forms/fhog/OFH002.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge the completed form and supporting documents with an approved agent.",
+      "link": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/approved-agents"
+    },
+    {
+      "n": 4,
+      "text": "your property settlement date",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "the completed construction date of your new home.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to apply for a First Home Owner Grant.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Penalties apply for false or misleading information.",
+      "link": null
+    },
+    {
+      "text": "You need to occupy the home as your principal place of residence for at least 12 months continuously, within:",
+      "link": null
+    },
+    {
+      "text": "If your circumstances change after you’ve received the grant and you no longer meet the eligibility requirements, you’ll need to pay back the grant.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/identity"
+    },
+    {
+      "text": "supporting documents",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/first-home-owner-new-homes-grant"
+    },
+    {
+      "text": "Application Form and Lodgement Guide for New Homes",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/resources-library/forms/fhog/OFH002.pdf"
+    },
+    {
+      "text": "approved agent",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/approved-agents"
+    },
+    {
+      "text": "Home buyer grants and assistance",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/home-buying-assistance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the First Home Buyers Assistance scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-buyers-assistance-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the First Home Owner Grant (New Homes)?",
+      "a": "The First Home Owner Grant (New Homes) may provide a $10,000 grant if you are a first home buyer and are buying or building a new home.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the grant?",
+      "a": "You must be an individual (not a company or trust), at least 18 years old. You, or at least one person you are buying with, must be an Australian citizen or permanent resident. You or your spouse must not have previously received the grant.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need a copy of the contract signed by the seller, your proof of identity, and supporting documents (as applicable to the dwelling category).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:23Z",
+    "last_modified": "8 December 2022",
+    "html_sha1": "2b230ce46af18786798199dc7edbb80e0505096e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

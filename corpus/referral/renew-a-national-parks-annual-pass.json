@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/renew-a-national-parks-annual-pass",
+  "source_url": "https://www.service.nsw.gov.au/referral/renew-a-national-parks-annual-pass",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "renew-a-national-parks-annual-pass",
+  "title": "Renew a National Parks annual pass",
+  "summary": "This page provides information on renewing an eligible NSW National Parks annual pass.",
+  "topics": [
+    "national-parks",
+    "annual-pass",
+    "renewal"
+  ],
+  "intro": "Eligible NSW National Parks annual passes can be renewed up to 30 days before the pass expiry date.\n\nYou'll receive a reminder email from National Parks and Wildlife Service (NPWS) with a link to renew.\n\nAnnual passes are digital, which means you can use them straight away. You will not receive a physical pass to display in your vehicle.\n\nIf you have not received a renewal notice, call NPWS on 1300 072 757.\n\nFor more information, visit the NSW National Parks and Wildlife Service website.",
+  "who_can_apply": [
+    "NSW National Parks annual passes that are eligible for renewal"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW National Parks and Wildlife Service website",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/national-parks-annual-pass-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a National Parks Concession Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass"
+    },
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I renew my National Parks annual pass?",
+      "a": "Eligible NSW National Parks annual passes can be renewed up to 30 days before the pass expiry date. You will receive a reminder email from National Parks and Wildlife Service (NPWS) with a link to renew.",
+      "link": null
+    },
+    {
+      "q": "What format is the annual pass?",
+      "a": "Annual passes are digital, meaning you can use them straight away. You will not receive a physical pass to display in your vehicle.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I haven't received a renewal notice?",
+      "a": "If you have not received a renewal notice, call NPWS on 1300 072 757.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:11Z",
+    "last_modified": "9 January 2025",
+    "html_sha1": "d2fa41719e36b4d2cf6b5e011a5908f9d56553c0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

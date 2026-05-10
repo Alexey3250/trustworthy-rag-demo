@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-farm-firefighting-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-farm-firefighting-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-farm-firefighting-vehicle-registration",
+  "title": "Apply for a farm firefighting vehicle registration",
+  "summary": "Learn about and apply for conditional registration for a farm firefighting vehicle or trailer for emergency use.",
+  "topics": [
+    "farm-firefighting-vehicle",
+    "conditional-registration",
+    "vehicle-registration",
+    "emergency-use"
+  ],
+  "intro": "Your dedicated farm firefighting vehicle or trailer may be eligible for conditional registration.\n\nFarm firefighting vehicle registration is for emergency use only. If you plan to use your vehicle more regularly, consider applying for standard vehicle registration.",
+  "who_can_apply": [
+    "The vehicle must be for emergency use (farm firefighting)."
+  ],
+  "what_you_need": [
+    "An inspection report (manual or electronic)",
+    "Proof of identity",
+    "The vehicle registration details",
+    "Proof of registration entitlement (statutory declarations are acceptable)",
+    "Fee payment",
+    "The PDF form: 'Application for Conditional Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete Application for Conditional Registration – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required inspection report.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application with payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "unregistered vehicle (AUVIS) inspection",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Application for Conditional Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "text": "Farm firefighting vehicle – vehicle sheet",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets/farm-firefighting-vehicle"
+    },
+    {
+      "text": "Farm firefighting vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/farm-firefighting-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "statutory declarations",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    },
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the details on a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conditional-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is this registration for regular use?",
+      "a": "No, farm firefighting vehicle registration is for emergency use only. If you plan to use your vehicle more regularly, you should consider applying for standard vehicle registration.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for conditional registration?",
+      "a": "You need an inspection report, proof of identity, vehicle registration details, proof of registration entitlement, fee payment, and the 'Application for Conditional Registration' PDF form.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "First, download and complete the 'Application for Conditional Registration' PDF. Then, ensure you have the required inspection report. Finally, visit a service centre to submit your application with payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:28Z",
+    "last_modified": "7 October 2025",
+    "html_sha1": "2b443cb3fc518457e34b015d1bcd404e75e202b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

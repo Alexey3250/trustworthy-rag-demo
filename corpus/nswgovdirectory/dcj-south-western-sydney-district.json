@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-western-sydney-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-western-sydney-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-south-western-sydney-district",
+  "title": "DCJ South Western Sydney District",
+  "summary": "This page provides information and links for the Department of Communities and Justice (DCJ) South Western Sydney District.",
+  "topics": [
+    "justice",
+    "community-services",
+    "south-western-sydney",
+    "dcj"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Bankstown Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bankstown-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Fairfield Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fairfield-community-services-centre"
+    },
+    {
+      "text": "Highlands Hub Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/highlands-hub-community-services-centre"
+    },
+    {
+      "text": "Ingleburn Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/ingleburn-community-services-centre"
+    },
+    {
+      "text": "Liverpool Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/liverpool-community-services-centre"
+    },
+    {
+      "text": "Macarthur Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/macarthur-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:03Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7f1ad07abe4570422ee5f8fba804f0aa707a2f91",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

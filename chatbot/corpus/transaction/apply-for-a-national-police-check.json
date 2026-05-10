@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-national-police-check",
+  "title": "Apply for a National Police Check",
+  "summary": "You can apply online for a National Police Check from the NSW Police Force.",
+  "topics": [
+    "national-police-check",
+    "nsw-police-force",
+    "apply-online",
+    "identity-documents"
+  ],
+  "intro": "You can apply online for a National Police Check from the NSW Police Force. This check may be required for any of the following:",
+  "who_can_apply": [
+    "Must be 14 years old or over when applying.",
+    "Must be a permanent resident of NSW.",
+    "If living outside NSW, you can apply in your state or territory."
+  ],
+  "what_you_need": [
+    "An email account to receive your verification code.",
+    "Proof of identity documents (see https://portal.police.nsw.gov.au/s/article/List-of-Identification-Documents).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for your police check.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you need a name, date of birth and fingerprint check as part of your application, you'll receive a letter by email advising you to attend your local police station to have your fingerprints taken.",
+      "link": null
+    },
+    {
+      "text": "If you need a criminal record check for Australian citizenship, residency, spouse visa, guardianship of a child from another country, working visa, or while travelling or living abroad, you can apply online via the Australian Federal Police website.",
+      "link": "https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity documents",
+      "url": "https://portal.police.nsw.gov.au/s/article/List-of-Identification-Documents"
+    },
+    {
+      "text": "payment",
+      "url": "https://portal.police.nsw.gov.au/s/article/Frequently-Asked-Questions#npc4"
+    },
+    {
+      "text": "Australian Federal Police website",
+      "url": "https://www.afp.gov.au/what-we-do/services/criminal-records/national-police-checks"
+    },
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    },
+    {
+      "text": "Frequently asked questions: National Police Check – NSW Police Force",
+      "url": "https://portal.police.nsw.gov.au/s/article/Frequently-Asked-Questions"
+    },
+    {
+      "text": "National Police Check verification (validate a certificate)",
+      "url": "https://portal.police.nsw.gov.au/s/policecheck-nswpolicecheckverify"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:35Z",
+    "last_modified": "30 August 2024",
+    "html_sha1": "299cc4ea1c14267b706288081dc5a4eff19423f2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

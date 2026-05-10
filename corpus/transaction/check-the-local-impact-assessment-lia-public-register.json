@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-the-local-impact-assessment-lia-public-register",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-the-local-impact-assessment-lia-public-register",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-the-local-impact-assessment-lia-public-register",
+  "title": "Check the local impact assessment (LIA) public register",
+  "summary": "This page allows you to check the public register for Local Impact Assessments (LIA) related to gaming machine changes or location changes at hotels and clubs.",
+  "topics": [
+    "gaming-machines",
+    "local-impact-assessment",
+    "hotels",
+    "clubs",
+    "community-input"
+  ],
+  "intro": "When a hotel or registered club applies to increase its gaming machine threshold (GMT) so they can operate more gaming machines, or if a hotel or club changes location, a local impact assessment (LIA) may be required of them.\n\nAn LIA looks at the impact to communities of an increase in gaming machines. The LIA process ensures local councils, police and residents have a say in what happens in their community.\n\nLIAs that have been submitted and are pending approval are posted on the LIA public register. You can submit a comment online to a pending LIA. You can also find out which LIAs have been determined (approved).",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Local impact assessments – Liquor & Gaming",
+      "url": "https://www.liquorandgaming.nsw.gov.au/operating-a-business/community-involvement/Preparing-an-LIA"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check the Liquor & Gaming NSW application noticeboard",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-liquor-gaming-nsw-application-noticeboard"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Local Impact Assessment (LIA)?",
+      "a": "An LIA looks at the impact to communities of an increase in gaming machines. The LIA process ensures local councils, police and residents have a say in what happens in their community.",
+      "link": null
+    },
+    {
+      "q": "Where can I find out about pending LIAs?",
+      "a": "LIAs that have been submitted and are pending approval are posted on the LIA public register. You can submit a comment online to a pending LIA.",
+      "link": null
+    },
+    {
+      "q": "How do I find out if an LIA has been approved?",
+      "a": "You can also find out which LIAs have been determined (approved).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:21Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "270786d134234b137d6c29a8a86b37d8880dd298",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

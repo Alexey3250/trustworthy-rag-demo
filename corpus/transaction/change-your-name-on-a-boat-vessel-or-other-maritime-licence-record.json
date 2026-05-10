@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-a-boat-vessel-or-other-maritime-licence-record",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-a-boat-vessel-or-other-maritime-licence-record",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-your-name-on-a-boat-vessel-or-other-maritime-licence-record",
+  "title": "Change your name on a boat, vessel or other maritime licence record",
+  "summary": "You can update your name on maritime records, such as a vessel registration or boat licence, by visiting a Service NSW Centre or submitting a request via mail.",
+  "topics": [
+    "maritime-licences",
+    "boat-licence",
+    "vessel-registration",
+    "name-change"
+  ],
+  "intro": "If you need to change your name on maritime-related products or services such as a vessel registration or your boat licence, you can update in person at a Service NSW Centre, or via mail.",
+  "who_can_apply": [
+    "Need to change name on maritime-related products or services (e.g., vessel registration, boat licence)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Proof of name change documentation",
+    "The PDF form: 'Change of Records – Maritime Products Only'",
+    "If you hold a vehicle registration, NSW driver licence or combined licence and/or photo card, you must use the 'Change of Records - Road and Maritime Products' form and visit a service centre."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Provide the information:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Form 1021: Change of Records – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change my name on my boat or vessel records?",
+      "a": "You can update your name on maritime records by visiting a Service NSW Centre or submitting a request via mail.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to change my name?",
+      "a": "You need your proof of identity, proof of name change documentation, and the 'Change of Records – Maritime Products Only' form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:05Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "fdc12800c3684bb02710a1bee63e7d38e8a6d49e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

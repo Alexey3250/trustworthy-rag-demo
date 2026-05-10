@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/pets",
+  "source_url": "https://www.service.nsw.gov.au/services/pets",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "pets",
+  "title": "Pets",
+  "summary": "Find information and services related to owning pets in New South Wales.",
+  "topics": [
+    "pets",
+    "dogs",
+    "cats",
+    "animal-licences",
+    "animal-care"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Pet owners in NSW",
+    "Individuals interested in companion native animals"
+  ],
+  "what_you_need": [
+    "Pet details (for registration or transfer)",
+    "Information about companion native animals (for licensing)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register your dog or cat in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/register-your-dog-or-cat-in-nsw"
+    },
+    {
+      "text": "Transfer your pet to a new owner",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-your-pet-to-a-new-owner"
+    },
+    {
+      "text": "Report a nuisance dog or cat",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    },
+    {
+      "text": "Report a pet scam",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pet-scam"
+    },
+    {
+      "text": "Apply for a companion native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-companion-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I register my dog or cat in NSW?",
+      "a": "You can register your dog or cat in NSW using the provided service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-your-dog-or-cat-in-nsw"
+    },
+    {
+      "q": "What should I do if I need to transfer my pet to a new owner?",
+      "a": "You can transfer your pet to a new owner through the designated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-your-pet-to-a-new-owner"
+    },
+    {
+      "q": "How do I report a nuisance dog or cat?",
+      "a": "You can report a nuisance dog or cat using the official reporting service.",
+      "link": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:29Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "918a02b363f2f91b3a16798fa5682e42751ef602",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

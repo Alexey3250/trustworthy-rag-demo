@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-interest-in-a-liquor-licence-business",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-interest-in-a-liquor-licence-business",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-interest-in-a-liquor-licence-business",
+  "title": "Notify interest in a liquor licence business",
+  "summary": "Learn how to officially notify Liquor & Gaming NSW if you obtain an interest in a liquor licence business.",
+  "topics": [
+    "liquor-licence",
+    "business-interest",
+    "liquor-licensing",
+    "nsw-government"
+  ],
+  "intro": "If you obtain an interest in a liquor licence business, you'll need to officially notify Liquor & Gaming NSW within 28 days.\n\nIf you have the necessary authorisation, you can notify online.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Any person or organisation other than the liquor licensee or a financial institution, who becomes interested in a liquor licence business (except a limited licence)."
+  ],
+  "what_you_need": [
+    "Liquor licence name and number",
+    "Licensee name",
+    "Personal and contact details (if an individual)",
+    "Name, ABN, ACN, and contact details (if an organisation)",
+    "A current ASIC extract, or the names of all directors and officeholders (if the organisation is a proprietary company/Pty Ltd)",
+    "The nature of the interest"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Notify online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your liquor licence number (including the letters) and your name.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Upload any required documentation.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When uploading, ensure all the documents are in PDF format.",
+      "link": null
+    },
+    {
+      "text": "To find your liquor licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Liquor"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Liquor"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "NSW liquor licences",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage#types"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How long do I have to notify Liquor & Gaming NSW?",
+      "a": "You must officially notify Liquor & Gaming NSW within 28 days of obtaining an interest in a liquor licence business.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to notify interest in a liquor licence business?",
+      "a": "Any person or organisation, other than the liquor licensee or a financial institution, who becomes interested in a liquor licence business (except a limited licence) can notify.",
+      "link": null
+    },
+    {
+      "q": "Where can I find up-to-date liquor licence guidelines?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page for guidelines, resources, and tools.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:26Z",
+    "last_modified": "8 September 2025",
+    "html_sha1": "364414834fc41acb825f9abe1df9c9b46717f1ac",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

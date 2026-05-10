@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nursing-and-midwifery-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nursing-and-midwifery-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nursing-and-midwifery-council-of-nsw",
+  "title": "Nursing and Midwifery Council of NSW",
+  "summary": "This page provides information about the Nursing and Midwifery Council of NSW.",
+  "topics": [
+    "nursing",
+    "midwifery",
+    "health-professionals",
+    "nsw-council"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nursingandmidwiferycouncil.nsw.gov.au/",
+      "url": "https://www.nursingandmidwiferycouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "356aa3e238e7e30a71883d7934dd8d567b5a25b2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

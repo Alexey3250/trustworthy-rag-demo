@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-state-parole-authority",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-state-parole-authority",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-state-parole-authority",
+  "title": "State Parole Authority, NSW",
+  "summary": "This page provides information about the State Parole Authority, which is part of the NSW Department of Communities and Justice.",
+  "topics": [
+    "parole",
+    "state-parole-authority",
+    "nsw-department-of-communities-and-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.paroleauthority.nsw.gov.au",
+      "url": "https://www.paroleauthority.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:37Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f7dec735e965a59c01ee180d295a78679143be00",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

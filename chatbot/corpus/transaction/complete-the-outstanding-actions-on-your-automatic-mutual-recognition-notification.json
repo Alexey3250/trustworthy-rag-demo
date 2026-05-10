@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification",
+  "source_url": "https://www.service.nsw.gov.au/transaction/complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification",
+  "title": "Complete the outstanding actions on your Automatic Mutual Recognition notification",
+  "summary": "This page guides you on how to complete outstanding actions related to your Automatic Mutual Recognition (AMR) notification online.",
+  "topics": [
+    "automatic-mutual-recognition",
+    "nsw-registration",
+    "online-notification",
+    "my-services-nsw"
+  ],
+  "intro": "If you've received an email from the NSW local registration authority advising of an issue with your Automatic Mutual Recognition (AMR) notification, you can complete the outstanding actions online.\n\nIf there is a mismatch between what you've notified NSW and the confirmation information received from your home state regulator, you may need to contact your home state regulator to resolve the matter.",
+  "who_can_apply": [
+    "Received an email from the NSW local registration authority advising of an issue with your Automatic Mutual Recognition (AMR) notification."
+  ],
+  "what_you_need": [
+    "Copies of documents (if requested) in PDF, DOCX, DOC, JPEG, JPG, or PNG format, with a maximum file size of 2MB."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Complete online' button.Note: You can save and resume your notification, but if you have not submitted it within 60 days, any details you've entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log into your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "From 'My Outstanding Items' select the item you need to update.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete the outstanding items.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information about AMR, visit Automatic Mutual Recognition.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Automatic Mutual Recognition – privacy collection notice",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition/managing-your-information"
+    },
+    {
+      "text": "Automatic Mutual Recognition",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify to work in NSW under Automatic Mutual Recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Update your Automatic Mutual Recognition notification details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I receive an email about an issue with my AMR notification?",
+      "a": "You can complete the outstanding actions online.",
+      "link": null
+    },
+    {
+      "q": "What if there is a mismatch between my notification and the information from my home state regulator?",
+      "a": "You may need to contact your home state regulator to resolve the matter.",
+      "link": null
+    },
+    {
+      "q": "How do I complete the outstanding actions online?",
+      "a": "Select 'Complete online', log into your MyServiceNSW Account, select the item from 'My Outstanding Items', and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:15Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "c5ba2ce244ec98867a13b9010926dc0b47f6e7d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

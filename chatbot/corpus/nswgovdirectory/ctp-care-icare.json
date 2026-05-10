@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/ctp-care-icare",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/ctp-care-icare",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "ctp-care-icare",
+  "title": "CTP Care (icare)",
+  "summary": "This page provides information about CTP Care (icare), which assists people who are injured or ill due to a motor vehicle accident.",
+  "topics": [
+    "motor-accident",
+    "ctp-care",
+    "icare",
+    "injuries"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "People who are injured or ill due to a motor vehicle accident."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries-ctp-care/who-we-care-for",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries-ctp-care/who-we-care-for"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "State Insurance Regulatory Authority (SIRA)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-insurance-regulatory-authority-sira"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is CTP Care (icare) for?",
+      "a": "CTP Care (icare) provides assistance to people who are injured or ill due to a motor vehicle accident.",
+      "link": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries-ctp-care/who-we-care-for"
+    },
+    {
+      "q": "Where can I find more information about CTP Care?",
+      "a": "You can find more information on the iCare (Insurance and Care NSW) website.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "2a9779b5648a58179c515c38adf8c78fc7eeccd4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

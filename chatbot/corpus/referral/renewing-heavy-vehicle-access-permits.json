@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits",
+  "source_url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "renewing-heavy-vehicle-access-permits",
+  "title": "Renewing heavy vehicle access permits",
+  "summary": "This page explains how to renew a heavy vehicle access permit through the National Heavy Vehicle Regulator (NHVR) portal.",
+  "topics": [
+    "heavy-vehicle",
+    "access-permit",
+    "renewal",
+    "nhvr"
+  ],
+  "intro": "If you need to renew your heavy vehicle access permit, you must submit your renewal application via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go before the permit expires. It is also advisable to check under the appropriate gazette notice to ensure that you still need a permit for your requested route.\n\nThe NHVR processes all renewals for permits including those issued by the NHVR, a state or territory authority, or local government.\n\nRenewal applications can be received 6 weeks before the permit expires.",
+  "who_can_apply": [
+    "Must have a heavy vehicle access permit that needs renewal."
+  ],
+  "what_you_need": [
+    "Submit the renewal application via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+    "Check the appropriate gazette notice to ensure you still need a permit for your requested route."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Heavy Vehicle Regulator (NHVR) portal, NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "gazette notice",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes/national-notices"
+    },
+    {
+      "text": "NHVR website",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/renew-permit"
+    },
+    {
+      "text": "State and territory road transport authorities",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where do I renew my heavy vehicle access permit?",
+      "a": "You must submit your renewal application via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go, before the permit expires.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "q": "How far in advance can I renew my permit?",
+      "a": "Renewal applications can be received 6 weeks before the permit expires.",
+      "link": null
+    },
+    {
+      "q": "Does the NHVR process all types of permit renewals?",
+      "a": "Yes, the NHVR processes all renewals for permits, including those issued by the NHVR, a state or territory authority, or local government.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:23Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "b4d770c45d4b0a2da28fc840d26e3a40282c880e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

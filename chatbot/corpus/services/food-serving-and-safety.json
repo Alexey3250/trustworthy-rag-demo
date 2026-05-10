@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/food-serving-and-safety",
+  "source_url": "https://www.service.nsw.gov.au/services/food-serving-and-safety",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "food-serving-and-safety",
+  "title": "Food serving and safety",
+  "summary": "Find information and services related to food safety, including requirements for food businesses and outdoor dining.",
+  "topics": [
+    "food-safety",
+    "food-business",
+    "outdoor-dining",
+    "food-inspection"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Food processing, storage and production",
+      "link": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "link": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Smoke-free commercial outdoor dining laws",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/outdoor-dining.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Appoint a food safety supervisor",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor"
+    },
+    {
+      "text": "Meet food safety requirements",
+      "url": "https://www.service.nsw.gov.au/referral/food-safety"
+    },
+    {
+      "text": "Prepare for a regular food inspection",
+      "url": "https://www.service.nsw.gov.au/referral/prepare-for-a-regular-food-inspection"
+    },
+    {
+      "text": "Apply to become a regulatory food safety auditor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-regulatory-food-safety-auditor"
+    },
+    {
+      "text": "Request a food safety supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-food-safety-supervisor-certificate"
+    },
+    {
+      "text": "Apply to become a food safety supervisor registered training organisation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-food-safety-supervisor-registered-training-organisation"
+    },
+    {
+      "text": "Change the details of a food safety supervisor trainer",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-supervisor-trainer"
+    },
+    {
+      "text": "Change the details of a food safety registered training organisation",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-registered-training-organisation"
+    },
+    {
+      "text": "Apply to amend information on a NSW Food Authority register",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-amend-information-on-a-nsw-food-authority-register"
+    },
+    {
+      "text": "Notify the Food Authority or local council of a food business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business"
+    },
+    {
+      "text": "Report a food safety complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint"
+    },
+    {
+      "text": "Food processing, storage and production",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "url": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start or operate a food business?",
+      "a": "You can find general guidance on starting or growing a business in NSW.",
+      "link": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    },
+    {
+      "q": "What are the rules for outdoor dining?",
+      "a": "Information is available regarding smoke-free commercial outdoor dining laws.",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/outdoor-dining.aspx"
+    },
+    {
+      "q": "How do I report a food safety complaint?",
+      "a": "You can report a food safety complaint using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:10Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "f17b70a4450e0479a4d63207a0e5ef93fea49691",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

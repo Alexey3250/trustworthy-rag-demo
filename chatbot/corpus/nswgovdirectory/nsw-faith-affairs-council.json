@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-faith-affairs-council",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-faith-affairs-council",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-faith-affairs-council",
+  "title": "NSW Faith Affairs Council",
+  "summary": "This page provides an overview of the NSW Faith Affairs Council.",
+  "topics": [
+    "faith-affairs",
+    "multiculturalism",
+    "nsw-community-groups"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://multicultural.nsw.gov.au/communities/nsw-faith-affairs-council/",
+      "url": "https://multicultural.nsw.gov.au/communities/nsw-faith-affairs-council/"
+    },
+    {
+      "text": "Overview of NSW's population and communities – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/communities"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Multicultural NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/multicultural-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:02Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "da1a1d907eb5cecb1c48d519fd11dedc12d3e0ef",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

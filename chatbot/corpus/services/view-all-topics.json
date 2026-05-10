@@ -1,0 +1,840 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/view-all-topics",
+  "source_url": "https://www.service.nsw.gov.au/services/view-all-topics",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "view-all-topics",
+  "title": "Services topics on the Service NSW website",
+  "summary": "This page provides an index of various topics and services available on the Service NSW website.",
+  "topics": [
+    "services",
+    "topics",
+    "licences",
+    "business",
+    "health",
+    "transport"
+  ],
+  "intro": "A | B | C | D | E | F | G | H | I | J | L | M | N | O | P | R | S | T | U | V | W",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Accessibility services",
+      "url": "https://www.service.nsw.gov.au/services/accessibility-services"
+    },
+    {
+      "text": "Adoptions",
+      "url": "https://www.service.nsw.gov.au/services/adoptions"
+    },
+    {
+      "text": "Agriculture and farming",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry"
+    },
+    {
+      "text": "Animal harvesting and management",
+      "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "text": "Apprentices and trainees – concessions and assistance",
+      "url": "https://www.service.nsw.gov.au/services/apprentices-and-trainees"
+    },
+    {
+      "text": "Aquatic licences",
+      "url": "https://www.service.nsw.gov.au/services/aquatic-licence"
+    },
+    {
+      "text": "Arts, culture and entertainment",
+      "url": "https://www.service.nsw.gov.au/services/arts-culture-entertainment-sport"
+    },
+    {
+      "text": "Australian Government services",
+      "url": "https://www.service.nsw.gov.au/services/australian-government-services"
+    },
+    {
+      "text": "Automatic mutual recognition of interstate work licences",
+      "url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences"
+    },
+    {
+      "text": "Births",
+      "url": "https://www.service.nsw.gov.au/services/births"
+    },
+    {
+      "text": "Boat and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations"
+    },
+    {
+      "text": "Boating licences",
+      "url": "https://www.service.nsw.gov.au/services/boating-licences"
+    },
+    {
+      "text": "Boat driving licence",
+      "url": "https://www.service.nsw.gov.au/services/general-boat-driving-licence"
+    },
+    {
+      "text": "Building and construction",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Contractor licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    },
+    {
+      "text": "White card",
+      "url": "https://www.service.nsw.gov.au/services/general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Building or renovating",
+      "url": "https://www.service.nsw.gov.au/services/building-or-renovating"
+    },
+    {
+      "text": "Bus tour operator accreditation",
+      "url": "https://www.service.nsw.gov.au/services/bus-tour-operator-accreditation"
+    },
+    {
+      "text": "Business grants, voucher programs and financial assistance",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "Business licences",
+      "url": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Buy or sell a vehicle",
+      "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Buying a property",
+      "url": "https://www.service.nsw.gov.au/services/buying-property"
+    },
+    {
+      "text": "Cancel a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/cancelling-vehicle-registration"
+    },
+    {
+      "text": "Certifier accreditation and registration",
+      "url": "https://www.service.nsw.gov.au/services/certifier-accreditation-and-registration"
+    },
+    {
+      "text": "Change a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/changing-vehicle-registration"
+    },
+    {
+      "text": "Change of sex",
+      "url": "https://www.service.nsw.gov.au/services/change-of-sex"
+    },
+    {
+      "text": "Change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "Child care support and providers",
+      "url": "https://www.service.nsw.gov.au/services/child-care"
+    },
+    {
+      "text": "Cleaning industry",
+      "url": "https://www.service.nsw.gov.au/services/cleaning-industry"
+    },
+    {
+      "text": "Club and hotel liquor licences",
+      "url": "https://www.service.nsw.gov.au/services/club-and-hotel-liquor-licences"
+    },
+    {
+      "text": "Commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/services/commercial-mooring-licence"
+    },
+    {
+      "text": "Community services",
+      "url": "https://www.service.nsw.gov.au/services/community-services"
+    },
+    {
+      "text": "Company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/company-contractor-licence"
+    },
+    {
+      "text": "Compliance and regulation for businesses",
+      "url": "https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/conditional-vehicle-registration"
+    },
+    {
+      "text": "Construction cards, certificates and information",
+      "url": "https://www.service.nsw.gov.au/services/construction-cards-certificates-and-information"
+    },
+    {
+      "text": "Convert an interstate or overseas driver licence",
+      "url": "https://www.service.nsw.gov.au/services/convert-interstate-or-overseas-licence"
+    },
+    {
+      "text": "Conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/services/conveyancer-licence"
+    },
+    {
+      "text": "Corporation property licence",
+      "url": "https://www.service.nsw.gov.au/services/corporation-property-licence"
+    },
+    {
+      "text": "Crop harvesting",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry#crop-harvesting"
+    },
+    {
+      "text": "Cyber security, identity theft and scams",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "Cycling",
+      "url": "https://www.service.nsw.gov.au/services/cycling"
+    },
+    {
+      "text": "Dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/services/dangerous-goods-licence"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Debt collection industry",
+      "url": "https://www.service.nsw.gov.au/services/debt-collection-industry"
+    },
+    {
+      "text": "Demerits (driver or rider licence demerit points)",
+      "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    },
+    {
+      "text": "Demolitions, asbestos removal, explosives and fireworks",
+      "url": "https://www.service.nsw.gov.au/services/demolitions-asbestos-removal-explosives-and-fireworks"
+    },
+    {
+      "text": "Digital identification (proving your identity)",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Digital licences and credentials in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/services/service-nsw-app-and-digital-licences"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Driving and riding instructor licences",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences"
+    },
+    {
+      "text": "International driving permit (IDP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "Driving handbooks",
+      "url": "https://www.service.nsw.gov.au/services/driving-handbooks"
+    },
+    {
+      "text": "E-Toll tag account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "Early childhood education, long day care and other care",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    },
+    {
+      "text": "Electric vehicles",
+      "url": "https://www.service.nsw.gov.au/services/electric-vehicles"
+    },
+    {
+      "text": "Emergencies and natural disasters",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    },
+    {
+      "text": "Employee entitlements and obligations",
+      "url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "text": "Employees and contractors",
+      "url": "https://www.service.nsw.gov.au/services/employees-and-contractors"
+    },
+    {
+      "text": "EnableNSW services",
+      "url": "https://www.service.nsw.gov.au/services/enablensw"
+    },
+    {
+      "text": "Energy and utilities",
+      "url": "https://www.service.nsw.gov.au/services/energy-and-utilities"
+    },
+    {
+      "text": "Environment, parks and wildlife",
+      "url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife"
+    },
+    {
+      "text": "Financial support after a natural disaster",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster"
+    },
+    {
+      "text": "Financial support for students",
+      "url": "https://www.service.nsw.gov.au/services/financial-support-students"
+    },
+    {
+      "text": "Fines and overdue fines (driving and transport related)",
+      "url": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Firearms licence",
+      "url": "https://www.service.nsw.gov.au/services/firearms-licence"
+    },
+    {
+      "text": "Food processing, storage and production",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Food serving and safety",
+      "url": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "text": "Fuel tax credits",
+      "url": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Fundraising and trade lotteries",
+      "url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries"
+    },
+    {
+      "text": "Gaming and gambling",
+      "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    },
+    {
+      "text": "Government jobs",
+      "url": "https://www.service.nsw.gov.au/services/find-a-government-job"
+    },
+    {
+      "text": "Health and care",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    },
+    {
+      "text": "Health concessions and assistance",
+      "url": "https://www.service.nsw.gov.au/services/health-concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Heavy vehicle licence",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    },
+    {
+      "text": "Heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "High risk work licence",
+      "url": "https://www.service.nsw.gov.au/services/high-risk-work-licence"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Hospitality industry training (RSA, RCG, ARCG)",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Hospitals and ambulances",
+      "url": "https://www.service.nsw.gov.au/services/hospitals-and-ambulances"
+    },
+    {
+      "text": "Housing and property",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "Individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Individual property licence",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual"
+    },
+    {
+      "text": "Industry sectors",
+      "url": "https://www.service.nsw.gov.au/services/employment-and-industries"
+    },
+    {
+      "text": "Insurance for businesses",
+      "url": "https://www.service.nsw.gov.au/services/insurance-for-businesses"
+    },
+    {
+      "text": "Intellectual property",
+      "url": "https://www.service.nsw.gov.au/services/intellectual-property-and-trademark-registration"
+    },
+    {
+      "text": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+      "url": "https://www.service.nsw.gov.au/services/isolated-patients-travel-and-accommodation-assistance-scheme-iptaas"
+    },
+    {
+      "text": "Jury service",
+      "url": "https://www.service.nsw.gov.au/services/jury-service"
+    },
+    {
+      "text": "Land tax and stamp duty",
+      "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "text": "Land value",
+      "url": "https://www.service.nsw.gov.au/services/land-value"
+    },
+    {
+      "text": "Learner driver licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Learner rider licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    },
+    {
+      "text": "Legal and Police services",
+      "url": "https://www.service.nsw.gov.au/services/legal-and-police-services"
+    },
+    {
+      "text": "Limited liquor licence",
+      "url": "https://www.service.nsw.gov.au/services/limited-liquor-licence"
+    },
+    {
+      "text": "Liquor approved manager licence",
+      "url": "https://www.service.nsw.gov.au/services/liquor-approved-manager-licence"
+    },
+    {
+      "text": "Liquor licences and information",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "List of NSW Government agencies",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    },
+    {
+      "text": "Make a complaint",
+      "url": "https://www.service.nsw.gov.au/services/complaints"
+    },
+    {
+      "text": "Manage and grow your business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "text": "Managing employee pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation"
+    },
+    {
+      "text": "Maritime and shipping",
+      "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Marriages, relationships and divorces",
+      "url": "https://www.service.nsw.gov.au/services/marriages-relationships-and-divorces"
+    },
+    {
+      "text": "Migrants and refugees",
+      "url": "https://www.service.nsw.gov.au/services/migrants-and-refugees"
+    },
+    {
+      "text": "Mobility parking scheme",
+      "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme"
+    },
+    {
+      "text": "Motor dealers",
+      "url": "https://www.service.nsw.gov.au/services/motor-dealers"
+    },
+    {
+      "text": "Motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-dealer-licence"
+    },
+    {
+      "text": "Motor vehicle and road transport",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry"
+    },
+    {
+      "text": "Motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "National Parks and State Forests",
+      "url": "https://www.service.nsw.gov.au/services/national-parks-and-state-forests"
+    },
+    {
+      "text": "National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/services/national-parks-annual-pass"
+    },
+    {
+      "text": "NSW courts",
+      "url": "https://www.service.nsw.gov.au/services/nsw-courts"
+    },
+    {
+      "text": "NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/services/nsw-driver-licence"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "On-premises liquor licence",
+      "url": "https://www.service.nsw.gov.au/services/on-premises-liquor-licence"
+    },
+    {
+      "text": "Opal cards",
+      "url": "https://www.service.nsw.gov.au/services/opal-cards"
+    },
+    {
+      "text": "Out of home care",
+      "url": "https://www.service.nsw.gov.au/services/out-of-home-care"
+    },
+    {
+      "text": "Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/services/owner-builder-permit"
+    },
+    {
+      "text": "Packaged liquor licence",
+      "url": "https://www.service.nsw.gov.au/services/packaged-liquor-licence"
+    },
+    {
+      "text": "Paintball",
+      "url": "https://www.service.nsw.gov.au/services/paintball"
+    },
+    {
+      "text": "Parking, speed limits and speed cameras",
+      "url": "https://www.service.nsw.gov.au/services/parking"
+    },
+    {
+      "text": "Pawnbroker and second-hand dealer licences",
+      "url": "https://www.service.nsw.gov.au/services/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/pay-leave-and-superannuation"
+    },
+    {
+      "text": "Payment methods and fees",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods-and-fees"
+    },
+    {
+      "text": "Personal watercraft (PWC) licence",
+      "url": "https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence"
+    },
+    {
+      "text": "Pets",
+      "url": "https://www.service.nsw.gov.au/services/pets"
+    },
+    {
+      "text": "Plant item and design registration",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry/plant-item-and-design-registration"
+    },
+    {
+      "text": "Portable long service scheme (building and construction)",
+      "url": "https://www.service.nsw.gov.au/services/portable-long-service-scheme"
+    },
+    {
+      "text": "Power of attorney",
+      "url": "https://www.service.nsw.gov.au/services/guardianship-and-power-attorney"
+    },
+    {
+      "text": "Principal certifiers (PC)",
+      "url": "https://www.service.nsw.gov.au/services/principal-certifiers"
+    },
+    {
+      "text": "Private health facilities and nursing homes",
+      "url": "https://www.service.nsw.gov.au/services/private-health-industry"
+    },
+    {
+      "text": "Private mooring licence",
+      "url": "https://www.service.nsw.gov.au/services/private-mooring-licence"
+    },
+    {
+      "text": "Producer/wholesaler liquor licence",
+      "url": "https://www.service.nsw.gov.au/services/producer-wholesaler-liquor-licence"
+    },
+    {
+      "text": "Professional engineers, design practitioners and building practitioners",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners"
+    },
+    {
+      "text": "Property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-property-certificate"
+    },
+    {
+      "text": "Property in a mine subsidence district",
+      "url": "https://www.service.nsw.gov.au/services/property-in-a-mine-subsidence-district"
+    },
+    {
+      "text": "Prove your identity",
+      "url": "https://www.service.nsw.gov.au/services/proving-your-identity"
+    },
+    {
+      "text": "Provisional driver licences",
+      "url": "https://www.service.nsw.gov.au/services/provisional-driver-licences"
+    },
+    {
+      "text": "Provisional rider licence",
+      "url": "https://www.service.nsw.gov.au/services/provisional-rider-licence"
+    },
+    {
+      "text": "Public passenger vehicles (taxis, buses and hire cars)",
+      "url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars"
+    },
+    {
+      "text": "Public transport concessions and assistance",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-assistance"
+    },
+    {
+      "text": "Qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/services/qualified-supervisor-certificate"
+    },
+    {
+      "text": "Real estate and property industry",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry"
+    },
+    {
+      "text": "Recreational fishing",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "Recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing-licence"
+    },
+    {
+      "text": "Recycling, waste and litter prevention",
+      "url": "https://www.service.nsw.gov.au/services/waste-and-recycling"
+    },
+    {
+      "text": "Register a business or association name",
+      "url": "https://www.service.nsw.gov.au/services/register-a-business-or-association-name"
+    },
+    {
+      "text": "Register a vehicle",
+      "url": "https://www.service.nsw.gov.au/services/registering-vehicle"
+    },
+    {
+      "text": "Renew a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/renewing-vehicle-registration"
+    },
+    {
+      "text": "Rental bond (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/services/rental-bond-landlords-and-agents"
+    },
+    {
+      "text": "Renting",
+      "url": "https://www.service.nsw.gov.au/services/renting"
+    },
+    {
+      "text": "Report an issue or concern",
+      "url": "https://www.service.nsw.gov.au/services/what-you-can-report"
+    },
+    {
+      "text": "Report a crime, scam or misdemeanour",
+      "url": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours"
+    },
+    {
+      "text": "Retail industry",
+      "url": "https://www.service.nsw.gov.au/services/retail-industry"
+    },
+    {
+      "text": "Road freight",
+      "url": "https://www.service.nsw.gov.au/services/road-freight"
+    },
+    {
+      "text": "Running a business",
+      "url": "https://www.service.nsw.gov.au/services/running-a-business"
+    },
+    {
+      "text": "Safety checks, inspections and vehicle changes",
+      "url": "https://www.service.nsw.gov.au/services/safety-checks-inspections-and-vehicle-changes"
+    },
+    {
+      "text": "Seasonal vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/seasonal-vehicle-registration"
+    },
+    {
+      "text": "Security industry",
+      "url": "https://www.service.nsw.gov.au/services/security-industry"
+    },
+    {
+      "text": "Security master licence",
+      "url": "https://www.service.nsw.gov.au/services/security-master-licence"
+    },
+    {
+      "text": "Security operative licence",
+      "url": "https://www.service.nsw.gov.au/services/security-operative-licence"
+    },
+    {
+      "text": "Seniors, carers and pensioners",
+      "url": "https://www.service.nsw.gov.au/services/seniors-carers-pensioners"
+    },
+    {
+      "text": "Service NSW online services",
+      "url": "https://www.service.nsw.gov.au/services/service-nsw-online-services"
+    },
+    {
+      "text": "Short-term rental accommodation (holiday letting)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property"
+    },
+    {
+      "text": "Small bar licence",
+      "url": "https://www.service.nsw.gov.au/services/small-bar-liquor-licence"
+    },
+    {
+      "text": "Social housing",
+      "url": "https://www.service.nsw.gov.au/services/social-housing"
+    },
+    {
+      "text": "Solar energy",
+      "url": "https://www.service.nsw.gov.au/services/solar-energy"
+    },
+    {
+      "text": "Special mobility vehicles",
+      "url": "https://www.service.nsw.gov.au/services/special-mobility-vehicles"
+    },
+    {
+      "text": "Starting a business",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Strata schemes and Strata Hub",
+      "url": "https://www.service.nsw.gov.au/services/strata-schemes"
+    },
+    {
+      "text": "Supply to NSW Government",
+      "url": "https://www.service.nsw.gov.au/services/supply-nsw-government"
+    },
+    {
+      "text": "Surveyors (land and mining)",
+      "url": "https://www.service.nsw.gov.au/services/surveyors"
+    },
+    {
+      "text": "Tattooist and tattoo master licences",
+      "url": "https://www.service.nsw.gov.au/services/tattooist-and-tattoo-master-licences"
+    },
+    {
+      "text": "Tobacco retailers",
+      "url": "https://www.service.nsw.gov.au/services/tobacco-retailers"
+    },
+    {
+      "text": "Tolls",
+      "url": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Tow trucks",
+      "url": "https://www.service.nsw.gov.au/services/tow-trucks"
+    },
+    {
+      "text": "Trader's plates",
+      "url": "https://www.service.nsw.gov.au/services/traders-plates"
+    },
+    {
+      "text": "Tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/services/tradesperson-certificate"
+    },
+    {
+      "text": "Unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/unregistered-vehicle-permit"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Using waterways and beaches",
+      "url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Vehicle safety, traffic and road conditions",
+      "url": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety"
+    },
+    {
+      "text": "Visual stories",
+      "url": "https://www.service.nsw.gov.au/services/visual-stories"
+    },
+    {
+      "text": "Voting and elections",
+      "url": "https://www.service.nsw.gov.au/services/voting-and-elections"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/services/vouchers"
+    },
+    {
+      "text": "Washing machine exchange program",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-the-washing-machine-exchange-program"
+    },
+    {
+      "text": "Wharf bookings",
+      "url": "https://www.service.nsw.gov.au/services/wharf-bookings"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Young people",
+      "url": "https://www.service.nsw.gov.au/services/young-people"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:15Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "3bc4b9baeb1afa3599a67f44f017e1e85e9ab69e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

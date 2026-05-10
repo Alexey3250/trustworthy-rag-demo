@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "heavy-vehicle-licence",
+  "title": "Heavy vehicle licence",
+  "summary": "This page provides information about obtaining and managing a heavy vehicle licence in New South Wales.",
+  "topics": [
+    "heavy-vehicle-licence",
+    "driver-licence",
+    "heavy-vehicle-registration",
+    "heavy-vehicle-permit"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Heavy vehicle registration",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a heavy vehicle licence (LR, MR, HR and HC)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-lr-mr-hr-and-hc"
+    },
+    {
+      "text": "Apply for a heavy vehicle licence (multi-combination only)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-multi-combination-only"
+    },
+    {
+      "text": "Request a replacement or cancellation of a Heavy Vehicle CBA Learner's Logbook",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-replacement-or-cancellation-of-a-heavy-vehicle-cba-learners-logbook"
+    },
+    {
+      "text": "Heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a heavy vehicle licence?",
+      "a": "You can apply for a heavy vehicle licence (LR, MR, HR, and HC) or for a multi-combination only licence.",
+      "link": null
+    },
+    {
+      "q": "What if I need to replace or cancel my Heavy Vehicle CBA Learner's Logbook?",
+      "a": "You can request a replacement or cancellation of your Heavy Vehicle CBA Learner's Logbook.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:59Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b9aa5bbda5837305d46aff2e4d0db433329c618f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

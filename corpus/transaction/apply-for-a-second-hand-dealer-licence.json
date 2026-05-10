@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-second-hand-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-second-hand-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-second-hand-dealer-licence",
+  "title": "Apply for a second-hand dealer licence",
+  "summary": "Find out what you need to do if you want to run a business buying and selling used items or unwanted goods, or if you offer loans using property as collateral.",
+  "topics": [
+    "second-hand-dealer-licence",
+    "pawnbroker-licence",
+    "running-a-business",
+    "used-goods"
+  ],
+  "intro": "If you want to run a business buying and selling used items or unwanted, unused goods such as gifts, you'll need a second-hand dealer licence.\n\nIf you offer loans to people using their property as collateral, you'll also need a pawnbroker licence.\n\nPawnbroker and second-hand dealer licences can be issued separately, or together as a combined licence.",
+  "who_can_apply": [
+    "Be aged 18 years or over.",
+    "Be a fit and proper person to hold a licence.",
+    "Not be a disqualified person."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for a Licence Under the Pawnbrokers and Second-Hand Dealers Act'",
+    "Your payment",
+    "Proof of identity (such as driver licence or passport)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a Service NSW Centre, or by email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbrokers-and-second-hand-dealers-fees"
+    },
+    {
+      "text": "Pawnbrokers and second-hand dealers licence application – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4521.pdf"
+    },
+    {
+      "text": "Pawnbrokers/second-hand Dealers licensing guidelines – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4521.pdf"
+    },
+    {
+      "text": "Amend a pawnbroker and second-hand dealer licence – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4521a.pdf"
+    },
+    {
+      "text": "Pawnbroker and second-hand dealer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Pawnbroking and secondhand dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/services/pawnbroking-and-secondhand-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a pawnbroker licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-pawnbroker-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What kind of licence do I need if I buy and sell used items?",
+      "a": "You will need a second-hand dealer licence. If you also offer loans using property as collateral, you will need a pawnbroker licence.",
+      "link": null
+    },
+    {
+      "q": "Can I get a combined licence?",
+      "a": "Pawnbroker and second-hand dealer licences can be issued separately, or together as a combined licence.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a licence?",
+      "a": "Select the 'Download PDF form' button, complete the form, and submit your application in person at a Service NSW Centre, or by email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:00Z",
+    "last_modified": "31 July 2025",
+    "html_sha1": "660a9163727f7b198bd82ea4e474230d5d5a9f76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

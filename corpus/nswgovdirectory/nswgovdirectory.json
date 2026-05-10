@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory",
+  "category": "nswgovdirectory",
+  "article_kind": "category",
+  "slug": "nswgovdirectory",
+  "title": "Find a NSW Government agency",
+  "summary": "Use this directory to find information and contact details for various NSW Government agencies and departments.",
+  "topics": [
+    "nsw-government",
+    "directory",
+    "departments",
+    "ministers",
+    "parliament"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Governance Arrangements chart",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/cabinet-office/resources/governance-arrangements-chart"
+    },
+    {
+      "text": "Schedule 1",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-040#sch.1"
+    },
+    {
+      "text": "NSW Boards and Committees Register",
+      "url": "https://boards.nsw.gov.au/"
+    },
+    {
+      "text": "Contact a NSW Government minister",
+      "url": "https://www.nsw.gov.au/nsw-government/ministers"
+    },
+    {
+      "text": "Contact a Member of Parliament",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx"
+    },
+    {
+      "text": "Australian Government Directory",
+      "url": "https://www.directory.gov.au/"
+    },
+    {
+      "text": "Guide to the NSW Public Sector",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/the-cabinet-office/resources/guide-to-nsw-public-sector"
+    },
+    {
+      "text": "Memos and Circulars",
+      "url": "https://www.dpc.nsw.gov.au/memos-and-circulars/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find an agency by name (A to Z)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    },
+    {
+      "text": "The Cabinet Office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-cabinet-office"
+    },
+    {
+      "text": "Climate Change, Energy, the Environment and Water",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    },
+    {
+      "text": "Communities and Justice",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    },
+    {
+      "text": "Customer Service",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    },
+    {
+      "text": "Treasury",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find a specific NSW Government agency?",
+      "a": "You can find an agency by name (A to Z) using the directory.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    },
+    {
+      "q": "Where can I find contact information for NSW Government ministers or Members of Parliament?",
+      "a": "You can find contact details for NSW Government ministers or Members of Parliament through dedicated links.",
+      "link": null
+    },
+    {
+      "q": "What types of NSW departments can I browse?",
+      "a": "You can browse departments such as Health, Education, Premier's Department, and The Cabinet Office.",
+      "link": null
+    },
+    {
+      "q": "Do you have a directory for other government bodies?",
+      "a": "Yes, you can access the Australian Government Directory, Boards and Committees Register, and the Guide to the NSW Public Sector.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:48Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b0fd26355e197d30a686f5c68843a517feb85695",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

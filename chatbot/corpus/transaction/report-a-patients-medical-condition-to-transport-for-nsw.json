@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-patients-medical-condition-to-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-patients-medical-condition-to-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-patients-medical-condition-to-transport-for-nsw",
+  "title": "Report a patient's medical condition to Transport for NSW",
+  "summary": "Medical practitioners can report a patient's impaired ability to drive safely to Transport for NSW using the Medical Condition Notification Form.",
+  "topics": [
+    "medical-condition",
+    "driver-licence",
+    "transport-for-nsw",
+    "medical-practitioner"
+  ],
+  "intro": "If you're a medical practitioner and assess that a patient's ability to drive safely is impaired, you can submit a Medical Condition Notification Form online.\n\nIf you are making a direct report to Transport for NSW, you may wish to inform your patient.\n\nWhen assessing fitness to drive, refer to Assessing Fitness to Drive for the medical standards.\n\n### Information for older drivers\n\nFor information on what to do to keep driving or riding after you turn 70 see the guide for Older drivers, riders and road users.",
+  "who_can_apply": [
+    "You must be a medical practitioner.",
+    "You must assess that a patient's ability to drive safely is impaired."
+  ],
+  "what_you_need": [
+    "Your details and provider number.",
+    "The patient's full name, date of birth, and address.",
+    "The patient's driver licence number (if known).",
+    "The relevant medical condition(s).",
+    "Evidence of how the patient meets or does not meet the criteria detailed in Assessing Fitness to Drive.",
+    "Recommendations for further assessment or licence conditions/restrictions (if applicable).",
+    "Access to the HealthLink Portal (your practice’s SmartForms portal)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Report online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to the HealthLink portal.If you do not have an account you can register for access to the HealthLink Portal.Note: Approval for access may take up to 5 business days.",
+      "link": "https://www.healthlink.com.au/healthlink-application"
+    },
+    {
+      "n": 3,
+      "text": "Select 'Transport for NSW' and follow the prompts to submit the 'Medical Condition Notification' form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the Medical Condition Notification Form – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071651-medical-condition-notification-form.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Submit the form, along with any additional documents, to Transport for NSW using the email or postal address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Transport for NSW will also accept a letter from you, provided it includes sufficient information to make a decision on the patient's fitness to drive.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Assessing Fitness to Drive",
+      "url": "https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive"
+    },
+    {
+      "text": "HealthLink Portal",
+      "url": "https://www.healthlink.com.au/healthlink-application"
+    },
+    {
+      "text": "Medical Condition Notification Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071651-medical-condition-notification-form.pdf"
+    },
+    {
+      "text": "Assessing fitness to drive (for medical professionals) – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/health-professionals/fitness-to-drive"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Report erratic or unsafe driving practices",
+      "url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who should report a patient's medical condition?",
+      "a": "A medical practitioner should report a patient's medical condition if they assess that the patient's ability to drive safely is impaired.",
+      "link": null
+    },
+    {
+      "q": "Where can I find medical standards for assessing fitness to drive?",
+      "a": "Refer to Assessing Fitness to Drive for the medical standards.",
+      "link": "https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive"
+    },
+    {
+      "q": "What is the process for submitting the report?",
+      "a": "You can submit the report online via the HealthLink portal, or download and submit the Medical Condition Notification Form – PDF using email or postal address.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:46Z",
+    "last_modified": "25 November 2025",
+    "html_sha1": "e0dab5164137ec3ba39efb3a7034bbd077dbb25c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

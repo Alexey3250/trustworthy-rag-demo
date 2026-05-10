@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/coroners-court-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/coroners-court-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "coroners-court-nsw",
+  "title": "Coroners Court NSW",
+  "summary": "This page provides information about the Coroners Court in NSW.",
+  "topics": [
+    "coroners-court",
+    "nsw-justice",
+    "legal-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.coroners.nsw.gov.au/",
+      "url": "https://www.coroners.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:14Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a86ed5244eb2a38277dcc6ce3a4a7040094105b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-and-forestry",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-and-forestry",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "fisheries-and-forestry",
+  "title": "Fisheries and Forestry",
+  "summary": "This page provides information about the Department of Primary Industries and Regional Development's Fisheries and Forestry division.",
+  "topics": [
+    "fisheries",
+    "forestry",
+    "fishing-licence",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/fisheries-and-forestry",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/fisheries-and-forestry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (3-day or 1-month)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month"
+    },
+    {
+      "text": "Replace a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about Fisheries and Forestry?",
+      "a": "Fisheries and Forestry is part of the Primary Industries and Regional Development, Department of.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "q": "How do I apply for a recreational fishing licence?",
+      "a": "You can apply for a recreational fishing licence for 1-year or 3-year periods, or for 3-day or 1-month periods.",
+      "link": null
+    },
+    {
+      "q": "What can I do with my existing fishing licence?",
+      "a": "You can renew, replace, or change details on your recreational fishing licence, such as contact details or name.",
+      "link": null
+    },
+    {
+      "q": "Do I need to report illegal fishing?",
+      "a": "Yes, there is a process to report illegal fishing.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a2293ae8b043d07af309213bee2c160b25182dfe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

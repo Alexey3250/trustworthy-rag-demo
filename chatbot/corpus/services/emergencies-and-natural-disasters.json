@@ -1,0 +1,146 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters",
+  "source_url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "emergencies-and-natural-disasters",
+  "title": "Emergencies and natural disasters",
+  "summary": "Find information and support resources for individuals and businesses affected by emergencies and natural disasters in NSW.",
+  "topics": [
+    "disaster-relief",
+    "emergency-support",
+    "natural-disasters",
+    "financial-assistance"
+  ],
+  "intro": "Financial support is available for individuals and businesses",
+  "who_can_apply": [
+    "Individuals directly affected by natural disasters",
+    "Businesses affected by natural disasters"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Disaster Assistance Finder Complete our online questionnaire to receive a personalised list of available programs and services.",
+      "url": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "text": "NSW State Emergency Service (SES)",
+      "url": "https://www.ses.nsw.gov.au"
+    },
+    {
+      "text": "Live Traffic NSW",
+      "url": "https://www.livetraffic.com"
+    },
+    {
+      "text": "Bureau of Meteorology",
+      "url": "http://www.bom.gov.au"
+    },
+    {
+      "text": "Get Ready (prepare for an emergency)",
+      "url": "https://www.nsw.gov.au/emergency/get-ready"
+    },
+    {
+      "text": "Check if your area is in a declared natural disaster",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "if a builder or contractor has a current licence",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "if a charitable organisation is authorised to fundraise",
+      "url": "https://verify.licence.nsw.gov.au/home/Charities"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Individual support Disaster relief payments and grants available for people directly affected by disasters.",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster"
+    },
+    {
+      "text": "Business support Information on the relief packages and financial and practical assistance available to businesses.",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    },
+    {
+      "text": "book an appointment",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Enquire online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find a location",
+      "url": "https://www.service.nsw.gov.au/services/recovery-centres"
+    },
+    {
+      "text": "View more services",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Replace your ID",
+      "url": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "How to spot a scam",
+      "url": "https://www.service.nsw.gov.au/referral/protect-yourself-from-fraudsters-after-a-natural-disaster"
+    },
+    {
+      "text": "Guide to services if you are experiencing DV or DFV",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Storms and floods guide",
+      "url": "https://www.service.nsw.gov.au/guide/storm-and-flood-preparation-and-recovery"
+    },
+    {
+      "text": "Bushfires guide",
+      "url": "https://www.service.nsw.gov.au/guide/bushfire-preparation-and-recovery"
+    },
+    {
+      "text": "Drought support guide",
+      "url": "https://www.service.nsw.gov.au/guide/drought-support"
+    },
+    {
+      "text": "Customer support service (Infoxchange Service Seeker)",
+      "url": "https://www.service.nsw.gov.au/transaction/customer-support-service-infoxchange-service-seeker"
+    },
+    {
+      "text": "Support for Aboriginal and Torres Strait Islander communities",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Mental wellbeing",
+      "url": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do immediately during an emergency?",
+      "a": "Call Triple Zero (000) immediately or TTY - 106. You can also call NSW SES on 132 500 or visit the NSW State Emergency Service (SES) website.",
+      "link": "https://www.ses.nsw.gov.au"
+    },
+    {
+      "q": "Where can I check for road closures or traffic updates?",
+      "a": "You can go to Live Traffic NSW or call 132 701 to check if roads are clear.",
+      "link": "https://www.livetraffic.com"
+    },
+    {
+      "q": "What support is available for businesses after a disaster?",
+      "a": "Information is available regarding relief packages and financial and practical assistance for businesses.",
+      "link": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:43Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b1dd5170f3d197dc78d8f7406c71daf9cdf7dbd4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

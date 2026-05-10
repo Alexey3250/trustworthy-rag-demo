@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "business-mobile-app",
+  "title": "Privacy and security – Service NSW Business Bureau app",
+  "summary": "This page provides information regarding the privacy and security aspects of the Service NSW Business Bureau app.",
+  "topics": [
+    "business-app",
+    "privacy",
+    "security",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Participating businesses",
+    "Businesses with a Business Profile",
+    "Businesses with access to a business location code",
+    "Businesses registered in a NSW Government program"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Profile",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Business support",
+      "link": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "NSW Government program",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "non-standard software",
+      "url": "https://www.service.nsw.gov.au/non-standard-software"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Redeeming vouchers from customers",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "text": "Connect or disconnect your devices",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations"
+    },
+    {
+      "text": "System requirements for the Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Business support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to use the Business Bureau app?",
+      "a": "The app is for participating businesses that have a Business Profile, access a business location code from the owner, or are registered in a NSW Government program.",
+      "link": null
+    },
+    {
+      "q": "Where can I find help with the Business Bureau app?",
+      "a": "Support topics include using the Service NSW Business Bureau app, redeeming vouchers from customers, connecting or disconnecting devices, and system requirements.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:13Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "6958c9de914207422d5fd8c08bd90b104c1626b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

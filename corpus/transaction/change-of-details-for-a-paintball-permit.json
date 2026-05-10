@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-of-details-for-a-paintball-permit",
+  "title": "Change of details for a paintball permit",
+  "summary": "This page explains the process for notifying NSW Fair Trading when your details change for an existing paintball permit.",
+  "topics": [
+    "paintball-permit",
+    "change-of-details",
+    "nsw-fair-trading",
+    "service-nsw"
+  ],
+  "intro": "If you hold one of the following permits and your details have changed, you need to notify NSW Fair Trading:",
+  "who_can_apply": [
+    "Hold one of the following permits: paintball permit, international paintball competitor permit, or paintball venue permit."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Change of details for a paintball permit'",
+    "The specific details that have changed",
+    "Copy of name change documentation (if applicable)",
+    "Passport details (if applying for an international paintball competitor permit)",
+    "Business details (if applying for a paintball venue permit)",
+    "Proof of fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Download PDF form’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your payment online and enter your receipt number on the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Email the form and supporting documents using the details on the form, or visit a Service NSW Centre to submit in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "Running a paintball business requirements in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit"
+    },
+    {
+      "text": "Apply for a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    },
+    {
+      "text": "Apply for an international paintball competitor permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do if my details change for a paintball permit?",
+      "a": "If you hold a paintball permit and your details have changed, you must notify NSW Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "How can I submit my updated details?",
+      "a": "You can email the form and supporting documents using the details on the form, or you can visit a Service NSW Centre to submit in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What payment methods are accepted?",
+      "a": "Payment can be made via PayPal or by using a credit or debit card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:49Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "dd4d26f1c11e3d81216c5553cae4e6e6b2d556f9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

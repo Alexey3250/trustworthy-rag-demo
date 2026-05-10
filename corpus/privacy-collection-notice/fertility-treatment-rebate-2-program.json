@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-2-program",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-2-program",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "fertility-treatment-rebate-2-program",
+  "title": "Fertility Treatment Rebate-2 Program – Privacy Collection Notice",
+  "summary": "This notice explains what personal and health information Service NSW collects when processing an application for the Fertility Treatment Rebate-2 Program.",
+  "topics": [
+    "fertility-treatment-rebate-2",
+    "nsw-health",
+    "privacy-notice",
+    "rebate-program"
+  ],
+  "intro": "Service NSW is delivering the Fertility Treatment Rebate-2 Program (Program) on behalf of NSW Health. We are collecting your personal and health information to process your application and assess your eligibility for the rebate.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your name, date of birth, and contact details (email address, phone number, and residential address).",
+    "Evidence that you are a NSW resident.",
+    "Banking details (including bank account name, BSB, and account number).",
+    "Proof of name change (if applicable), such as a marriage certificate or change of name certificate issued by the NSW Registry of Births, Deaths & Marriages.",
+    "Your Centrelink Customer Reference Number (to determine if you receive the Family Tax Benefit or hold a Centrelink Health Care Card).",
+    "Your ATO notice of assessment, and your partner’s ATO notice of assessment (if they contribute to your annual household income).",
+    "Your Fertility Treatment Rebate-2 Declaration Form, completed by your specialist.",
+    "Invoices or receipts of your treatment."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "we handle your personal information",
+      "link": null
+    },
+    {
+      "text": "you can access and seek correction of your information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made.",
+      "link": null
+    },
+    {
+      "text": "Read the Service NSW privacy statement for more information on how:",
+      "link": null
+    },
+    {
+      "text": "You can call Service NSW on 13 77 88.",
+      "link": null
+    },
+    {
+      "text": "Service NSW is located at 2–24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    },
+    {
+      "text": "Apply for the Fertility Treatment Rebate-2",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "text": "Guidelines",
+      "link": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-2-program"
+    },
+    {
+      "text": "Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-2-program"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Fertility Treatment Rebate-2 Program",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-2-program"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-2-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of collecting my personal and health information?",
+      "a": "The information is collected to process your application and assess your eligibility for the rebate.",
+      "link": null
+    },
+    {
+      "q": "Who will use my information?",
+      "a": "Service NSW uses the information to process your application, contact you, handle enquiries, maintain records in your MyServiceNSW Account, and conduct auditing and compliance activities. Your clinic and Services Australia may also receive it.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to provide?",
+      "a": "You may need to provide your name, date of birth, contact details, evidence of NSW residency, banking details, proof of name change, Centrelink Customer Reference Number, ATO notices of assessment, the Declaration Form from your specialist, and invoices or receipts of your treatment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:09Z",
+    "last_modified": "11 March 2025",
+    "html_sha1": "88f496d52752d05ba9479aebcfe23bbaa3617319",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-an-rsa-or-rcg-competency-card",
+  "title": "Renew an RSA or RCG competency card",
+  "summary": "Learn how to renew your Responsible Service of Alcohol (RSA) or Responsible Conduct of Gambling (RCG) competency card online.",
+  "topics": [
+    "rsa-renewal",
+    "rcg-renewal",
+    "competency-card",
+    "liquor-gaming"
+  ],
+  "intro": "Your Responsible Service of Alcohol (RSA) and/or Responsible Conduct of Gambling (RCG) competency card is valid for 5 years. Approximately 3 months before your card is due to expire you'll receive a renewal reminder notice by email or SMS.\n\nYou need to do online refresher training to renew. When you've completed the training your new card will be valid for a further 5 years.\n\nYou can access a digital version of your competency card through the Service NSW app.\n\nFor up-to-date information, resources and tools visit Liquor & Gaming NSW: Training.\n\nIf you have questions or feedback about liquor and gaming training contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Must complete online refresher training to renew the card."
+  ],
+  "what_you_need": [
+    "Your competency card holder (CCH) licence number",
+    "Your renewal number (found on your email or SMS notification)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your licence number and renewal number.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If you don't have your renewal number, select 'Don't have?' and enter your name, birth date and postcode.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete the appropriate refresher training course/s.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Make your payment online.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Confirm or edit your contact details.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Agree to the declaration.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Make your payment by credit card (Visa or Mastercard).",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "You'll receive a confirmation email with your receipt/interim certificate.",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "Your new card will be posted to you within 5 weeks.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Each refresher training course takes about 45 minutes to complete.",
+      "link": null
+    },
+    {
+      "text": "If you have both RSA and RCG competencies, the renewal date on your card is determined by the date you completed the first course. For example, if you have an RSA competency card issued on 1 January 2018, it will expire on 31 December 2023. If you complete an RCG course on 15 January 2020, both RSA and RCG competencies will expire on 31 December 2023.",
+      "link": null
+    },
+    {
+      "text": "If you didn't receive a renewal notice, then your personal details may not be up to date. You can update your details using this online form.",
+      "link": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    },
+    {
+      "text": "Only refresher training provided online by Liquor & Gaming can renew your card. If your card is still current, you cannot renew it by repeating full courses at approved training organisations.",
+      "link": null
+    },
+    {
+      "text": "You can find more information on the competency card renewal process on the Liquor & Gaming NSW website.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards#toc-renew-your-competency-card-before-5-years"
+    },
+    {
+      "text": "If you have completed the Advanced Responsible Conduct of Gambling (ARCG) course:",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards/fees"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    },
+    {
+      "text": "Liquor & Gaming NSW website",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards#toc-renew-your-competency-card-before-5-years"
+    },
+    {
+      "text": "Liquor & Gaming NSW: Training",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "request a replacement physical card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Undertake Responsible Conduct of Gambling (RCG) training",
+      "url": "https://www.service.nsw.gov.au/referral/responsible-conduct-of-gambling-rcg-training"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is an RSA or RCG competency card valid for?",
+      "a": "Your competency card is valid for 5 years.",
+      "link": null
+    },
+    {
+      "q": "How will I know when my card is due to expire?",
+      "a": "You will receive a renewal reminder notice by email or SMS approximately 3 months before it expires.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do to renew my card?",
+      "a": "You must complete online refresher training to renew your card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:24Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "c98a00bc7bc70f666e8901469258267c9a5e1ab0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

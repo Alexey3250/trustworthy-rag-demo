@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-to-a-personalised-vessel-registration-number",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-to-a-personalised-vessel-registration-number",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-to-a-personalised-vessel-registration-number",
+  "title": "Change to a personalised vessel registration number",
+  "summary": "Learn how to apply to personalize your vessel's registration number.",
+  "topics": [
+    "vessel-registration",
+    "personalisation",
+    "boating"
+  ],
+  "intro": "To personalise your vessel's registration number, you'll need to complete and lodge an application form.\n\nThe requested number can be up to six alpha/numeric characters followed by the letter 'N'. You can call us on 13 77 88 to find out the availability of a number, or ask at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of identity",
+    "Current vessel registration details and certificate",
+    "Payment",
+    "The PDF form: 'Application to Personalise an Existing Vessel Registration'",
+    "A JP or authorised witness to confirm your signature on the form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions#toc-personalised-registration-numbers"
+    },
+    {
+      "text": "Application to personalise an existing vessel registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071766-personalise-existing-vessel-registration.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Boat and vessel registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Reserve a personalised vessel registration number",
+      "url": "https://www.service.nsw.gov.au/transaction/reserve-a-personalised-vessel-registration-number"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can the personalized vessel registration number look like?",
+      "a": "The requested number can be up to six alpha/numeric characters followed by the letter 'N'.",
+      "link": null
+    },
+    {
+      "q": "How can I check if a personalized number is available?",
+      "a": "You can call 13 77 88 or ask at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my application?",
+      "a": "You must visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:48Z",
+    "last_modified": "27 January 2026",
+    "html_sha1": "b051463235b55b47b7ea9e4cc31d7b0ed5cfdac8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-elder-abuse",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-elder-abuse",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-elder-abuse",
+  "title": "Report elder abuse",
+  "summary": "This page provides information on what constitutes elder abuse and how to report it.",
+  "topics": [
+    "elder-abuse",
+    "reporting-abuse",
+    "safety"
+  ],
+  "intro": "Elder abuse is any act that causes harm to an older person. It can be an intentional act that is physical, psychological, financial, verbal, or neglect.\n\nCall Emergency Triple Zero (000) if you are in immediate danger.\n\nSigns of elder abuse can include:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Triple Zero (000)",
+      "url": "https://www.triplezero.gov.au/"
+    },
+    {
+      "text": "submit a report online",
+      "url": "https://www.ageingdisabilitycommission.nsw.gov.au/contact-us/submit-an-online-report.html"
+    },
+    {
+      "text": "NSW Ageing and Disability Commission",
+      "url": "https://ageingdisabilitycommission.nsw.gov.au/"
+    },
+    {
+      "text": "Domestic, family and sexual violence – Department of Communities & Justice",
+      "url": "https://dcj.nsw.gov.au/children-and-families/family-domestic-and-sexual-violence.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Guide to help people impacted by domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:28Z",
+    "last_modified": "29 September 2025",
+    "html_sha1": "78634398735a1a399ec1c0ddf37c079470e3c77d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

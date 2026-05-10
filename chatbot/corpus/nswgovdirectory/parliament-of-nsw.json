@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/parliament-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/parliament-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "parliament-of-nsw",
+  "title": "Parliament of NSW",
+  "summary": "This page provides information about the Parliament of NSW, including how it works, how to contact members, and details for planning a visit.",
+  "topics": [
+    "nsw-parliament",
+    "nsw-government",
+    "legislative-assembly",
+    "legislative-council",
+    "nsw-politics"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.parliament.nsw.gov.au/Pages/home.aspx",
+      "url": "https://www.parliament.nsw.gov.au/Pages/home.aspx"
+    },
+    {
+      "text": "Find your local MP",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx"
+    },
+    {
+      "text": "Plan your visit",
+      "url": "https://www.parliament.nsw.gov.au/visit/pages/planning-a-visit.aspx"
+    },
+    {
+      "text": "Watch NSW Parliament live",
+      "url": "https://www.parliament.nsw.gov.au/pages/webcasts.aspx"
+    },
+    {
+      "text": "Contact a member of the NSW Legislative Assembly",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx?house=LA"
+    },
+    {
+      "text": "Contact a member of the NSW Legislative Council",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx?house=LC"
+    },
+    {
+      "text": "Hansard and House papers",
+      "url": "https://www.parliament.nsw.gov.au/hansard/Pages/hansard-house-paper-overview.aspx"
+    },
+    {
+      "text": "How Parliament works",
+      "url": "https://www.parliament.nsw.gov.au/about/howparliamentworks/pages/how-parliament-works.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the Parliament of NSW work?",
+      "a": "You can learn more about the workings of Parliament by visiting the dedicated information page.",
+      "link": "https://www.parliament.nsw.gov.au/about/howparliamentworks/pages/how-parliament-works.aspx"
+    },
+    {
+      "q": "How can I find my local Member of Parliament (MP)?",
+      "a": "You can find your local MP using the dedicated search tool.",
+      "link": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx"
+    },
+    {
+      "q": "What do I need to know before visiting the Parliament?",
+      "a": "The site provides information on planning your visit to the Parliament.",
+      "link": "https://www.parliament.nsw.gov.au/visit/pages/planning-a-visit.aspx"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:11Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7a85f1eaca41856f98ee09ec368e8d13ffbdcf28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

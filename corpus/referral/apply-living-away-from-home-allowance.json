@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-living-away-from-home-allowance",
+  "title": "Apply for a Living Away from Home Allowance (for secondary students)",
+  "summary": "Find out if your child is eligible for the Living Away from Home Allowance if they must board away from home for secondary education.",
+  "topics": [
+    "secondary-education",
+    "allowance",
+    "living-away-from-home",
+    "students"
+  ],
+  "intro": "If a child in your care must board away from home to access secondary education (Years 7 to 12), you may be eligible for the Living Away from Home Allowance.\n\nTo be eligible for the allowance, your child must:\n\nOther circumstances taken into consideration include:\n\nYou must send in applications before 30 September of the year you are applying for the allowance.\n\nThe allowance starts at the beginning of the year you put in the application. You get paid yearly in two equal instalments.",
+  "who_can_apply": [
+    "The child must be in your care.",
+    "The child must board away from home.",
+    "The child must be accessing secondary education (Years 7 to 12)."
+  ],
+  "what_you_need": [
+    "Send in applications before 30 September of the year you are applying for the allowance."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about how to apply, visit the Rural and Distance Education webpage.\n\nYou can get help call completing the form from Rural and Distance Education on (02) 6334 8070 or (02) 6334 8072.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Rural and Distance Education",
+      "url": "https://education.nsw.gov.au/teaching-and-learning/curriculum/rural-and-distance-education/rural-and-remote-education"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for the Living Away from Home Allowance?",
+      "a": "A child in your care who must board away from home to access secondary education (Years 7 to 12) may be eligible.",
+      "link": null
+    },
+    {
+      "q": "When must I apply for the allowance?",
+      "a": "Applications must be sent in before 30 September of the year you are applying for the allowance.",
+      "link": null
+    },
+    {
+      "q": "How is the allowance paid?",
+      "a": "The allowance starts at the beginning of the year you put in the application and is paid yearly in two equal instalments.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:23Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "c4c4724ea95de2715e36a5b17552a6a41630e813",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/boarding-scholarships-for-isolated-students-bsis",
+  "source_url": "https://www.service.nsw.gov.au/referral/boarding-scholarships-for-isolated-students-bsis",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "boarding-scholarships-for-isolated-students-bsis",
+  "title": "Apply for Boarding Scholarships for Isolated Students",
+  "summary": "Find out about Boarding Scholarships for Isolated Students (BSIS) to help cover educational costs for students boarding away from home.",
+  "topics": [
+    "scholarships",
+    "education",
+    "isolated-students",
+    "financial-support"
+  ],
+  "intro": "Boarding Scholarships for Isolated Students (BSIS) provides financial support for eligible students boarding away from home or residential fees to access education.\n\nScholarships are available for students in Years 7 to 12 who are disadvantaged by a low family income and geographical isolation.\n\nStudents cannot apply if they receive:\n\nNote: Application closing dates change each year. You can check the application due date on the form.",
+  "who_can_apply": [
+    "Student must be in Years 7 to 12.",
+    "Student must be disadvantaged by a low family income.",
+    "Student must be disadvantaged by geographical isolation."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A limited number of scholarships are available each year. The process is competitive, and scholarships are given based on the greatest need.",
+      "link": null
+    },
+    {
+      "text": "If family circumstances change from those given in the application, you will need to notify the Rural and Distance Education office within 14 days.",
+      "link": "https://education.nsw.gov.au/teaching-and-learning/curriculum/rural-and-distance-education/contact-us"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "the NSW Education website",
+      "url": "https://education.nsw.gov.au/teaching-and-learning/curriculum/rural-and-distance-education/rural-and-remote-education#Boarding1"
+    },
+    {
+      "text": "Rural and Distance Education office",
+      "url": "https://education.nsw.gov.au/teaching-and-learning/curriculum/rural-and-distance-education/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for Boarding Scholarships for Isolated Students (BSIS)?",
+      "a": "BSIS provides financial support for students in Years 7 to 12 who are disadvantaged by a low family income and geographical isolation.",
+      "link": null
+    },
+    {
+      "q": "What does this scholarship cover?",
+      "a": "The scholarship provides financial support for eligible students boarding away from home or residential fees to access education.",
+      "link": null
+    },
+    {
+      "q": "Are there any restrictions on who can apply?",
+      "a": "Students cannot apply if they receive [information cut off].",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:23Z",
+    "last_modified": "8 January 2025",
+    "html_sha1": "bccdc8c6b5177de9915c9e84a6399127f03b2a89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

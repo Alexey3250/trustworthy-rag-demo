@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-the-fishsmart-app",
+  "title": "Get the FishSmart app",
+  "summary": "Learn about the FishSmart app, which provides essential information for recreational fishers in NSW.",
+  "topics": [
+    "fishing",
+    "fishsmart-app",
+    "nsw-recreational-fishing"
+  ],
+  "intro": "The FishSmart app provides essential information for NSW recreational fishers, including:\n\nYou can also use the app to:\n\nThe app is free and is available for Apple and Android devices.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "FishSmart",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/fishsmart-app"
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/fishsmart-nsw-nsw-fishing/id1092320415"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.mobiddiction.fishsmart&hl=en_AU&pli=1"
+    },
+    {
+      "text": "FishSmart app terms and conditions – Department of Primary Industries",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/resources/fishsmart-app/fish-smart-app-terms-and-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Fisheries NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-nsw"
+    },
+    {
+      "text": "Using waterways and beaches",
+      "url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Get the SharkSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-sharksmart-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the FishSmart app?",
+      "a": "The FishSmart app provides essential information for NSW recreational fishers.",
+      "link": null
+    },
+    {
+      "q": "What can I do with the FishSmart app?",
+      "a": "The app provides essential information for NSW recreational fishers, and you can also use it to find other information.",
+      "link": null
+    },
+    {
+      "q": "Is the FishSmart app free?",
+      "a": "The app is free.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:59Z",
+    "last_modified": "15 January 2025",
+    "html_sha1": "ddcc41f4cfb1b40437290c809aa3e957d6771587",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

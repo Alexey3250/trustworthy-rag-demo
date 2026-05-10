@@ -1,0 +1,413 @@
+{
+  "url": "https://www.service.nsw.gov.au/",
+  "source_url": "https://www.service.nsw.gov.au/",
+  "category": "home",
+  "article_kind": "landing-page",
+  "slug": "home",
+  "title": "Welcome to Service NSW",
+  "summary": "This is the main portal for accessing various government services provided by Service NSW.",
+  "topics": [
+    "nsw-services",
+    "government-services",
+    "driver-licence",
+    "vehicle-registration",
+    "business-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Primary producers disaster support",
+      "url": "https://www.nsw.gov.au/emergency/recovery"
+    },
+    {
+      "text": "List of disaster declarations (AGRNs)",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations/fy-2025-26"
+    },
+    {
+      "text": "Mutual Recognition",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747c.pdf"
+    },
+    {
+      "text": "Contractor Licence",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "text": "Register a Change of Name",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-12/apply-for-name-change-adult.pdf"
+    },
+    {
+      "text": "Customer Number Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071265-customer-number-application-private.pdf"
+    },
+    {
+      "text": "Modified Licence",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071414-request-for-a-modified-licence.pdf"
+    },
+    {
+      "text": "Association Annual Statement T2",
+      "url": "https://associations.fairtrading.nsw.gov.au/forms/a12-t2"
+    },
+    {
+      "text": "Transport Licence Code",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072066-application-passenger-transport-licence-code.pdf"
+    },
+    {
+      "text": "Customer Complaint",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/how-nsw-fair-trading-handles-general-complaints/general-complaint-form"
+    },
+    {
+      "text": "IPTAAS",
+      "url": "https://www.iptaas.health.nsw.gov.au/__data/assets/pdf_file/0009/449370/Form-1-Travel-and-Accommodation-Claims.pdf"
+    },
+    {
+      "text": "Statutory Declaration (Individuals)",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-02/revenue-nsw-statutory-declaration-form-individuals.pdf"
+    },
+    {
+      "text": "Owner builder forms",
+      "url": "https://ablis.business.gov.au/service/nsw/owner-builder-permit/16675"
+    },
+    {
+      "text": "Correct an Entry - Births Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-02/apply-for-correct-an-entry.pdf"
+    },
+    {
+      "text": "Tradesperson's certificate application",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4739.pdf"
+    },
+    {
+      "text": "Rental Bonds Registration",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/rental-bonds-online-landlord-or-owner-proof-of-identity-registration-form"
+    },
+    {
+      "text": "Application for Unregistered Vehicle Permit – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070190-unregistered-vehicle-permit.pdf"
+    },
+    {
+      "text": "Vehicle Suitable for Safe Use Declaration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070938-safe-use-declaration.pdf"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Access to Own Personal Records Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    },
+    {
+      "text": "Change of Records",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Birth Certificate",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-birth-certificate.pdf"
+    },
+    {
+      "text": "Marriage Certificate",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-marriage-certificate.pdf"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Form 1150: Mobility Parking Scheme Application (Individual or Temporary Permit) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061469-mps-conditions-eng.pdf"
+    },
+    {
+      "text": "Replacement Learner's Log Book Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070787-replacement-learners-log-book-application.pdf"
+    },
+    {
+      "text": "Form 1018: Replacement Application – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "NSW fuel supply update",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/fuel-update-for-nsw"
+    },
+    {
+      "text": "Crisis support (food and bills) Where to get free meals, emergency parcels and other help if you cannot afford food and essentials, or you cannot pay your bills.",
+      "url": "https://www.nsw.gov.au/money-and-taxes/cost-of-living-hub/crisis-support"
+    },
+    {
+      "text": "Looking for work Visit Services Australia to find Information and support while you're job hunting or re-entering the workforce.",
+      "url": "https://www.servicesaustralia.gov.au/looking-for-work"
+    },
+    {
+      "text": "Help is available (domestic and family violence) You have a right to be safe. Domestic and family violence is never okay – there is no excuse. If you feel unsafe, reach out.",
+      "url": "https://www.nsw.gov.au/community-services/domestic-and-family-support"
+    },
+    {
+      "text": "Build your business skills Discover expert-led webinars, podcasts and more to boost your business skills and stay ahead.",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Talk to us Get ongoing, one-on-one support – book a call with the Service NSW Business Bureau.",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew rego",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Transfer rego",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Renew or upgrade driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "Check rego",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Check fuel prices",
+      "url": "https://www.service.nsw.gov.au/referral/check-fuel-prices"
+    },
+    {
+      "text": "Fines – request a review",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "Notice of disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Change your address",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Claim toll relief rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "text": "Register a birth",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "NDIS Worker Check guide",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "NSW Seniors Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Manage and grow your business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Book driver or rider test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Replace driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "Renew or restore vessel rego",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Reprint licence receipt",
+      "url": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt"
+    },
+    {
+      "text": "Renew general boat licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc"
+    },
+    {
+      "text": "Proving your identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Financial support (individuals)",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster"
+    },
+    {
+      "text": "Disaster Relief Grant (for low-income earners)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant"
+    },
+    {
+      "text": "Small business grant (Bondi Beach)",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-grant-bondi-agrn1240"
+    },
+    {
+      "text": "Disaster recovery for business",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "E-Toll",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "View an A to Z list of topics",
+      "url": "https://www.service.nsw.gov.au/services/view-all-topics"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "Emergencies and natural disasters",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Business",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Employment and industries",
+      "url": "https://www.service.nsw.gov.au/services/employment-and-industries"
+    },
+    {
+      "text": "Housing and property",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "Health and care",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    },
+    {
+      "text": "Births, relationships and deaths",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Education and training",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    },
+    {
+      "text": "Environment, parks and wildlife",
+      "url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife"
+    },
+    {
+      "text": "Legal and Police services",
+      "url": "https://www.service.nsw.gov.au/services/legal-and-police-services"
+    },
+    {
+      "text": "Safety planning A list of transactions and services to help people who may be impacted by domestic and family violence to establish and maintain safety.",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Get started Start your business with confidence with resources on business planning, licences and permits, and more.",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Get your DKT online Enrol and complete the Driver Knowledge Test (DKT) online. You'll get 12 months access to the course and pay one fee for unlimited test attempts.",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    },
+    {
+      "text": "Active and Creative Kids voucher Families receiving Family Tax Benefit can apply for an Active and Creative Kids voucher for each eligible child. Applications for voucher 2 are open now.",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Savings Finder Find out if you're eligible to apply for NSW Government rebates and vouchers.",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Browse all guides",
+      "url": "https://www.service.nsw.gov.au/guide"
+    },
+    {
+      "text": "Set up a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Set up a Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Forms in PDF format",
+      "url": "https://www.service.nsw.gov.au/guide/forms-in-pdf-format"
+    },
+    {
+      "text": "How to check",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "How to replace your ID",
+      "url": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "How to apply",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "How to apply or renew",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Browse licences",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I renew my vehicle registration?",
+      "a": "You can renew your vehicle registration using the dedicated service page.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "q": "Where can I check fuel prices?",
+      "a": "You can check current fuel prices through the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/referral/check-fuel-prices"
+    },
+    {
+      "q": "What services are available for driver's licences?",
+      "a": "You can renew, upgrade, replace, or book a test for your driver's licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "q": "How do I manage my business?",
+      "a": "Service NSW provides resources to help you manage and grow your business.",
+      "link": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:14Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "47e7efa6dedef9e80232037f4e08d22a3e6f3b9b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

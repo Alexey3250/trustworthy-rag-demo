@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-vehicle-registration-calculator",
+  "title": "Use the vehicle registration calculator",
+  "summary": "Use the vehicle registration calculator to estimate costs for vehicle registration, renewal, and transfer.",
+  "topics": [
+    "vehicle-registration",
+    "calculator",
+    "vehicle-costs",
+    "nsw-driving"
+  ],
+  "intro": "The vehicle registration calculator helps you estimate registration, renewal and transfer costs for a:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "body type",
+    "make and model (for new vehicles)",
+    "registration usage",
+    "tare weight",
+    "market value/purchase price (whichever is greater)",
+    "plate number",
+    "VIN/chassis",
+    "date of acquisition"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to calculate costs.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Stamp duty may be waived if you submit evidence that you were the previous registered owner.",
+      "link": null
+    },
+    {
+      "text": "Additional fees may apply if the vehicle has special number plates.",
+      "link": null
+    },
+    {
+      "text": "Special number plate fees may include a discount if eligible.",
+      "link": null
+    },
+    {
+      "text": "Tare weight is the empty weight of your vehicle (also known as unladen weight).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Green Slip calculator",
+      "url": "https://www.greenslips.nsw.gov.au/price-check"
+    },
+    {
+      "text": "Exemptions from vehicle registration",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/exemptions-from-vehicle-registration"
+    },
+    {
+      "text": "Vehicle registration fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "market value",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Use the Green Slip Price Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-green-slip-price-check"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:53Z",
+    "last_modified": "27 January 2026",
+    "html_sha1": "dc852ee9138e443fa3e209545cc3002cd85d0d83",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

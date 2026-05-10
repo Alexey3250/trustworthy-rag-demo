@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-white-card-dwc-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-white-card-dwc-terms-and-conditions",
+  "category": "nsw-digital-white-card-dwc-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "nsw-digital-white-card-dwc-terms-and-conditions",
+  "title": "Digital White Card – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using the Digital White Card (DWC), an electronic version of the NSW general construction induction training card.",
+  "topics": [
+    "digital-white-card",
+    "construction-induction-card",
+    "nsw-safety",
+    "terms-and-conditions"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Hold a valid NSW general construction induction training card (white card).",
+    "Have or be able to obtain a MyServiceNSW Account.",
+    "Have or link your MyServiceNSW Account to your general construction induction training card (white card)."
+  ],
+  "what_you_need": [
+    "A physical general construction induction training card (white card) (as a backup).",
+    "A working electronic device with a charged battery and an unobstructed screen.",
+    "A MyServiceNSW Account (or the ability to link it to your white card)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "SafeWork NSW Privacy Statement",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/safework-nsw-privacy-statement"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is a Digital White Card (DWC)?",
+      "a": "A DWC is an electronic version of a NSW general construction induction training card (white card) that can be used to show you hold a current general construction induction training card.",
+      "link": null
+    },
+    {
+      "q": "Do I still need my physical white card?",
+      "a": "Yes, you must always carry your physical general construction induction training card (white card) as a backup, as you may be required to produce it for inspection. When working outside of NSW, you should always carry your physical card because the DWC may not be recognized in other jurisdictions.",
+      "link": null
+    },
+    {
+      "q": "What happens if my phone or device is damaged?",
+      "a": "You must ensure your phone or other electronic device is working, sufficiently charged, and that the screen is not cracked, dimmed, or obstructed, otherwise your DWC will not be accepted.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:56Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "be2c2f81e8998eb6a2301555fe8e591f0cf3db93",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

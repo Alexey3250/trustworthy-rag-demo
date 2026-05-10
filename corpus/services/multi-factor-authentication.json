@@ -1,0 +1,223 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "multi-factor-authentication",
+  "title": "Set up multi-factor authentication",
+  "summary": "Learn how to set up multi-factor authentication (MFA) for your MyServiceNSW Account to improve security.",
+  "topics": [
+    "my-service-nsw-account",
+    "security",
+    "multi-factor-authentication",
+    "online-login"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "An existing MyServiceNSW Account or the ability to create one.",
+    "An Australian mobile number.",
+    "The Service NSW app (downloadable from the App Store or Google Play).",
+    "A reputable authenticator app (such as Microsoft Authenticator or Google Authenticator) downloaded from the App Store or Google Play."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 2,
+      "text": "Go to 'Manage account'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Go to 'Settings and security'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Go to 'Multi-factor authentication'.",
+      "link": "https://account.service.nsw.gov.au/manage/settings/multifactor"
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to select an MFA method and set up:",
+      "link": "https://www.microsoft.com/en-au/security/mobile-authenticator-app"
+    },
+    {
+      "n": 6,
+      "text": "Open and log in to the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 7,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Go to 'Security settings'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Go to 'Multi-factor authentication' and select an MFA method to set up:",
+      "link": "https://www.microsoft.com/en-au/security/mobile-authenticator-app"
+    },
+    {
+      "n": 10,
+      "text": "Log in using your Business Bureau app or Business Profile using your MyServiceNSW Account.",
+      "link": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "n": 11,
+      "text": "Go to ‘Edit profile’.",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "Under the title ‘Security’, select ‘multi-factor authentication’.",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "Select an MFA method follow the prompts to set it up.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help or have questions, call us on 13 77 88 or go to a service centre.",
+  "more_info": [
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW Mobile App",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Multi-factor authentication",
+      "url": "https://account.service.nsw.gov.au/manage/settings/multifactor"
+    },
+    {
+      "text": "Microsoft Authenticator",
+      "url": "https://www.microsoft.com/en-au/security/mobile-authenticator-app"
+    },
+    {
+      "text": "Google Authenticator",
+      "url": "https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DiOS&oco=0"
+    },
+    {
+      "text": "Apple support",
+      "url": "https://support.apple.com/en-au/108781"
+    },
+    {
+      "text": "Android support",
+      "url": "https://support.google.com/android/answer/9079661"
+    },
+    {
+      "text": "OneAuth by Zoho",
+      "url": "https://www.zoho.com/accounts/oneauth/"
+    },
+    {
+      "text": "authenticator.cc",
+      "url": "https://authenticator.cc"
+    },
+    {
+      "text": "Mac",
+      "url": "https://support.apple.com/en-au/guide/mac-help/mchl8bd4e9c2/mac#:~:text=Get%20a%20verification%20code%20on%20a%20Mac"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is multi-factor authentication (MFA)?",
+      "a": "MFA is a security measure that requires you to use multiple methods to verify your identity when logging in.",
+      "link": null
+    },
+    {
+      "q": "Are there different ways to set up MFA?",
+      "a": "Yes, you can set up MFA using the Service NSW app or a reputable authenticator app, which are more secure than using text messages (SMS).",
+      "link": null
+    },
+    {
+      "q": "Where can I set up multi-factor authentication?",
+      "a": "You can set up MFA through the MyServiceNSW Account settings by navigating to 'Multi-factor authentication'.",
+      "link": "https://account.service.nsw.gov.au/manage/settings/multifactor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:09Z",
+    "last_modified": "24 October 2025",
+    "html_sha1": "d2d683cc07db4ed3f9470a20e1ac180ca2d37339",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

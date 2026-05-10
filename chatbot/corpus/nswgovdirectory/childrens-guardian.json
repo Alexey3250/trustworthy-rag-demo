@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/childrens-guardian",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/childrens-guardian",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "childrens-guardian",
+  "title": "Children's Guardian, Office of the",
+  "summary": "This page provides information about the Office of the Children's Guardian, which is responsible for child safety and welfare in NSW.",
+  "topics": [
+    "child-safety",
+    "childrens-guardian",
+    "child-welfare",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://ocg.nsw.gov.au",
+      "url": "https://ocg.nsw.gov.au"
+    },
+    {
+      "text": "https://ocg.nsw.gov.au/contact-us",
+      "url": "https://ocg.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Statutory out-of-home care and adoption – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/organisations/statutory-out-home-care-and-adoption"
+    },
+    {
+      "text": "Specialised substitute residential care – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/organisations/specialised-substitute-residential-care"
+    },
+    {
+      "text": "Employing children in acting and modelling – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/organisations/employing-children-acting-and-modelling"
+    },
+    {
+      "text": "Child Safe Scheme – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/child-safe-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Office of the Children's Guardian?",
+      "a": "The Office of the Children's Guardian (OCG) is a statutory body that works to protect children and promote their welfare in NSW.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about child safety?",
+      "a": "You can find more information about child safety and related services on the OCG website.",
+      "link": "https://ocg.nsw.gov.au"
+    },
+    {
+      "q": "How can I contact the Office of the Children's Guardian?",
+      "a": "You can find contact details for the Office of the Children's Guardian on their dedicated contact page.",
+      "link": "https://ocg.nsw.gov.au/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:36Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "994d31008cc71c34dfadba9b676b84ca022556b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

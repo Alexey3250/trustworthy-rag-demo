@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-strata-and-property-services-commissioner",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-strata-and-property-services-commissioner",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-the-strata-and-property-services-commissioner",
+  "title": "Office of the Strata and Property Services Commissioner",
+  "summary": "This page provides information about the Office of the Strata and Property Services Commissioner.",
+  "topics": [
+    "strata",
+    "property-services",
+    "commissioner",
+    "nsw-fair-trading"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/about/strata-and-property-services-commissioner",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/about/strata-and-property-services-commissioner"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-fair-trading"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c2a878ca86efea30540eef867c6f0bc5c16e4a22",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

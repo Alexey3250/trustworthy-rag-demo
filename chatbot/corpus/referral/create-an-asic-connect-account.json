@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/create-an-asic-connect-account",
+  "source_url": "https://www.service.nsw.gov.au/referral/create-an-asic-connect-account",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "create-an-asic-connect-account",
+  "title": "Create an ASIC Connect account",
+  "summary": "This page explains how to create an ASIC Connect account to manage business names or approved self-managed superannuation fund (SMSF) auditor registrations.",
+  "topics": [
+    "asic-connect",
+    "business-name",
+    "smsf-auditor",
+    "account-management"
+  ],
+  "intro": "ASIC Connect is an online service you can use to manage your business name or approved self-managed superannuation fund (SMSF) auditor registration. Services available include:\n\nOnce you've created your ASIC Connect account, you can request an ASIC key which enables you to link your business name and conduct your transactions.\n\nIf you have a few business names, you can manage them all from the same account.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ASIC Connect website",
+      "url": "https://asicconnect.asic.gov.au/public/faces/GetStarted"
+    },
+    {
+      "text": "ASIC key",
+      "url": "https://www.asic.gov.au/online-services/asic-portals/asic-portal-keys/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:21Z",
+    "last_modified": "9 September 2025",
+    "html_sha1": "4b57b868741db9592bbc0530e658093ba10adcfb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

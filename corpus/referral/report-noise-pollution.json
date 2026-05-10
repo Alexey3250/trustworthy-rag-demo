@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-noise-pollution",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-noise-pollution",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-noise-pollution",
+  "title": "Report noise pollution",
+  "summary": "Find out about noise pollution and which agencies can help you report the issue.",
+  "topics": [
+    "noise-pollution",
+    "environmental-noise",
+    "reporting-pollution",
+    "nsw-legislation"
+  ],
+  "intro": "Noise pollution is sound at a level that is annoying, disturbing or harmful to your health. This noise can come from sources such as other people, vehicles, events or construction. It can affect your enjoyment of the environment as well as native animals in the area.\n\nThere are laws that determine what levels of noise are acceptable and when.\n\nReporting the issue will depend on where the noise is coming from. There are different agencies that can help, these may include:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Noise pollution",
+      "url": "https://www.epa.nsw.gov.au/your-environment/noise"
+    },
+    {
+      "text": "Environmental Protection Authority",
+      "url": "https://www.epa.nsw.gov.au/about-us/contact-us/environmentline"
+    },
+    {
+      "text": "EPA Contacts for noise pollution",
+      "url": "https://www.epa.nsw.gov.au/reporting-and-incidents/report-pollution/contacts-for-noise-pollution"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Comply with NSW environmental legislation",
+      "url": "https://www.service.nsw.gov.au/transaction/comply-with-nsw-environmental-legislation"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:41Z",
+    "last_modified": "9 December 2024",
+    "html_sha1": "59c8b4433b33f617cfbb49e0b76a7845517de2c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

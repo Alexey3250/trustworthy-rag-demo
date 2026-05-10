@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-customer-number-with-transport-for-nsw-organisations",
+  "title": "Apply for a customer number with Transport for NSW (organisations)",
+  "summary": "Organisations must apply for a customer number with Transport for NSW before they can register vehicles.",
+  "topics": [
+    "transport-for-nsw",
+    "organisations",
+    "customer-number",
+    "vehicle-registration"
+  ],
+  "intro": "Vehicles can be registered by individuals or organisations. Organisations first need to be assigned a customer number.\n\nAn authorised representative needs to apply at a service centre and bring the required documentation.",
+  "who_can_apply": [
+    "Organisations that need to register vehicles."
+  ],
+  "what_you_need": [
+    "The completed PDF form: TfNSW Customer Number Application (Organisation) (https://tfnswforms.transport.nsw.gov.au/45071266-customer-number-application.pdf)",
+    "For incorporated companies: An Australian Securities and Investments Commission document confirming the organisation's details, including the ACN or ABN.",
+    "For other incorporated bodies: Refer to the details on the form.",
+    "The authorised representative's proof of identity (if applicable).",
+    "If you are a motor dealer: Your dealer's licence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete TfNSW Customer Number Application (Organisation) – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071266-customer-number-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "TfNSW Customer Number Application (Organisation)",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071266-customer-number-application.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Mobility parking scheme application (Organisation) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071455-mps-organisation-permits.pdf"
+    },
+    {
+      "text": "Sign up to Online Services",
+      "url": "https://www.myrta.com/wps/portal/extvp/myrta/sign-up/!ut/p/z1/hY9NC4JAGIR_iwevvq9a9nHbLPxAUfow20tYbGq4Kusm-O8roVvR3AaeYWaAQgq0zvoyz2TZ1Fn18idqnf14E4eBO9cjb4FIJoG99dah4dgTOI4A_hBBoP_ydETQ3cTJwZjpuPMs9FaHJEqIqTuW-QF-V_hA-bDdk_daUl_MeQ5UsBsTTGgP8TpRSNl2SxVV5IOhdaVkJW9F0zPt2nAVv-WKppOQfsGh5Snep1UfEEV5Ag_iLEE!/dz/d5/L2dBISEvZ0FBIS9nQSEh/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a customer number?",
+      "a": "Organisations need to be assigned a customer number before they can register vehicles.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a customer number?",
+      "a": "An authorised representative must apply at a service centre.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to bring?",
+      "a": "You need the completed application form, required documentation (such as an ASIC document for incorporated companies), and proof of identity for the authorised representative.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:11Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "28765500a8beacda0b95d676db626e4cbf95c776",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

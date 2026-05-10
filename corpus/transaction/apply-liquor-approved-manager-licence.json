@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-liquor-approved-manager-licence",
+  "title": "Apply for a liquor approved manager licence",
+  "summary": "This page provides information on how to apply for a liquor approved manager licence if you plan to work as a manager of a licensed premises owned by a company or corporation.",
+  "topics": [
+    "liquor-licence",
+    "manager-licence",
+    "service-nsw"
+  ],
+  "intro": "If you'd like to work as the manager of a licensed premises owned by a company or corporation, you must have a liquor approved manager licence.",
+  "who_can_apply": [
+    "Be aged at least 18 years.",
+    "Hold an RSA competency card or certificate.",
+    "Hold an RCG competency card or certificate if working in a hotel or club.",
+    "Be considered a fit and proper person to manage a licensed premises."
+  ],
+  "what_you_need": [
+    "A OneGov account or a MyServiceNSW Account.",
+    "Evidence of your Responsible Service of Alcohol (RSA) qualification.",
+    "Evidence of your Responsible Conduct of Gambling qualification (if applicable).",
+    "Your personal and contact details.",
+    "Your professional experience details.",
+    "A National Police Check certificate, issued within the last 3 months.",
+    "Copies of the 3 identity documents used when you applied for the National Police Check.",
+    "A completed approved manager declaration form – PDF (if applicable).",
+    "The application fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create an account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Responsible Service of Alcohol (RSA)",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "text": "approved manager declaration form – PDF",
+      "url": "https://www.liquorandgaming.nsw.gov.au/operating-a-business/liquor-licences/applying-for-and-managing-your-liquor-licence/manage-your-licence#manager"
+    },
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Appoint a liquor approved manager",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a liquor approved manager licence?",
+      "a": "You must have a liquor approved manager licence if you want to work as the manager of a licensed premises owned by a company or corporation.",
+      "link": null
+    },
+    {
+      "q": "What are the basic eligibility requirements?",
+      "a": "You must be at least 18 years old, hold an RSA competency card (and an RCG card if working in a hotel or club), and be considered a fit and proper person to manage a licensed premises.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need a OneGov or MyServiceNSW Account, evidence of your RSA qualification, personal details, professional experience details, a National Police Check (issued within the last 3 months), and copies of the 3 identity documents used for the police check.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:35Z",
+    "last_modified": "22 July 2025",
+    "html_sha1": "eb0896d185fcf4d282089dadc53d88d661f1f019",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

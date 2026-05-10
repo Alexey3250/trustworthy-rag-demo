@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-herbarium-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/national-herbarium-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "national-herbarium-of-nsw",
+  "title": "National Herbarium of NSW",
+  "summary": "This page provides information about the National Herbarium of NSW, which is part of the Royal Botanic Gardens and Domain Trust.",
+  "topics": [
+    "botany",
+    "herbarium",
+    "nsw-wildlife",
+    "plant-identification"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.botanicgardens.org.au/our-science/science-facilities/national-herbarium-new-south-wales",
+      "url": "https://www.botanicgardens.org.au/our-science/science-facilities/national-herbarium-new-south-wales"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Royal Botanic Gardens and Domain Trust, The",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:01Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e6efce12bc5ac3b047bf68a6c6574d157074cd12",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

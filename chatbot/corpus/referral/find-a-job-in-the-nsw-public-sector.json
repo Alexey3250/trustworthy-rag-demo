@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-job-in-the-nsw-public-sector",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-job-in-the-nsw-public-sector",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-job-in-the-nsw-public-sector",
+  "title": "Find a job in the NSW public sector",
+  "summary": "This page directs you to the 'I work for NSW' website to search for job opportunities within the NSW public sector.",
+  "topics": [
+    "job-search",
+    "nsw-public-sector",
+    "career-opportunities",
+    "employment"
+  ],
+  "intro": "You can search for NSW public sector jobs online at the 'I work for NSW' website.\n\nThe website also includes information about:\n\nYou can search for jobs by keywords, or reference ID. You can browse available jobs by category, portfolio and location.\n\nTo get started, go to the I work for NSW website.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Access to the I work for NSW website"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "I work for NSW website",
+      "url": "https://iworkfor.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:02Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "1a6dea7f670bce30556223484f05cb6a50aff7b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

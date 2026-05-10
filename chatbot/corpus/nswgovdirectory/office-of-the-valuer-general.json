@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-valuer-general",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-valuer-general",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-the-valuer-general",
+  "title": "Valuer General, Office of the",
+  "summary": "This page provides information about the Valuer General and the Office of the Valuer General.",
+  "topics": [
+    "valuer-general",
+    "property-valuation",
+    "land-value",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general"
+    },
+    {
+      "text": "Contact us - NSW Valuer General",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Find out the land value of a property",
+      "url": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property"
+    },
+    {
+      "text": "Lodge an objection to a Notice of Valuation",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation"
+    },
+    {
+      "text": "Opt in to receive your Notice of Valuation by email",
+      "url": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4c07ad94d83924fcb2638f4f7a96831cd23a547e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

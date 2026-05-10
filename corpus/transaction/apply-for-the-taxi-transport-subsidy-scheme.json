@@ -1,0 +1,154 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-taxi-transport-subsidy-scheme",
+  "title": "Apply for the Taxi Transport Subsidy Scheme",
+  "summary": "Find out if you are eligible for and how to apply for the Taxi Transport Subsidy Scheme (TTSS) to receive a subsidy on taxi fares.",
+  "topics": [
+    "taxi-subsidy",
+    "disability-support",
+    "nsw-residents",
+    "transport-assistance"
+  ],
+  "intro": "The Taxi Transport Subsidy Scheme (TTSS) supports NSW residents who are unable to use public transport because of a severe and permanent disability.\n\nIf you're eligible, you could receive a subsidy of 50% of a taxi fare, up to a maximum subsidy of $60, and only pay the remaining fare. This includes travel in wheelchair-accessible taxis.",
+  "who_can_apply": [
+    "Be a permanent resident of Australia.",
+    "Normally reside in NSW.",
+    "Not be a member of a similar scheme in another Australian state or territory.",
+    "Be over school age (preschool-aged children are not eligible).",
+    "Have a severe and permanent disability in one of the specified categories.",
+    "Participation in TTSS is not means tested."
+  ],
+  "what_you_need": [
+    "The 'Taxi Transport Subsidy Scheme Application Form' PDF.",
+    "Your doctor or specialist to complete the relevant sections in Parts B and C of the application form.",
+    "Your photo in JPEG format (if submitting online) or two personal photos (if posting your application).",
+    "If requesting a form by mail, call 131 500."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read and ensure you understand the TTSS Terms and Conditions.",
+      "link": "https://transportnsw.info/taxi-subsidy-scheme#accordion-11-participant-responsibilities-content"
+    },
+    {
+      "n": 2,
+      "text": "Download and print Taxi Transport Subsidy Scheme Application Form – PDF.",
+      "link": "https://transportnsw.info/ttss-application-form"
+    },
+    {
+      "n": 3,
+      "text": "Complete Part A of the form, and have your doctor or specialist complete the relevant sections in Parts B and C.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Sign and date the form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Prepare digital copies of:",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the instructions on the application form to upload your documents and photo.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select 'Send' to lodge your application.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Taxi Transport Subsidy SchemePO Box K659Haymarket NSW 1240",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Each application is reviewed by Transport for NSW's independent medical assessor. It's important that your medical practitioner or treating specialist provides enough detail and supporting documents so the severity of your disability or medical condition can be accurately assessed.",
+      "link": null
+    },
+    {
+      "text": "If you're receiving treatment or undergoing rehabilitation that is expected to improve your condition, you're not eligible for the scheme.",
+      "link": null
+    },
+    {
+      "text": "The National Disability Insurance Scheme does not change the way customers use their TTSS dockets.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis"
+    },
+    {
+      "text": "Transport for NSW reserves the right to decline your application if you have previously been suspended or removed from the NSW Scheme or a similar scheme in another state or territory.",
+      "link": null
+    },
+    {
+      "text": "The TTSS involves a smartcard, which looks similar to a bank card. If you are a new applicant and your application is successful, you'll be sent a TTSS Smartcard and a separate paper travel docket booklet.",
+      "link": null
+    },
+    {
+      "text": "The TTSS Smartcard should be used to claim the subsidy portion of your fare. The paper travel docket should only be used in incidences where a taxi is not yet set up to receive the TTSS Smartcard. We recommend carrying two paper travel dockets until further notice.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "TTSS Terms and Conditions",
+      "url": "https://transportnsw.info/taxi-subsidy-scheme#accordion-11-participant-responsibilities-content"
+    },
+    {
+      "text": "Taxi Transport Subsidy Scheme Application Form – PDF",
+      "url": "https://transportnsw.info/ttss-application-form"
+    },
+    {
+      "text": "About the TTSS",
+      "url": "https://transportnsw.info/taxi-subsidy-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Disability Insurance Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much subsidy can I receive?",
+      "a": "If eligible, you could receive a subsidy of 50% of a taxi fare, up to a maximum subsidy of $60, and only pay the remaining fare.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the TTSS?",
+      "a": "You must be a permanent resident of Australia, normally reside in NSW, not be a member of a similar scheme in another Australian state or territory, be over school age, and have a severe and permanent disability in a specified category.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the subsidy?",
+      "a": "You must complete the application form (Parts A, B, and C), have your doctor or specialist complete the relevant sections, sign and date the form, and then submit it either online or by mail.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:38Z",
+    "last_modified": "30 October 2025",
+    "html_sha1": "2c358d732a1ea46a8a1079b7e9e3457f94e05d45",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

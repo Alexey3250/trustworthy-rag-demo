@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-hin-certificate-details-for-a-vessel",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-hin-certificate-details-for-a-vessel",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-hin-certificate-details-for-a-vessel",
+  "title": "Change the HIN certificate details for a vessel",
+  "summary": "Learn how to amend the details on a vessel's Hull Identification Number (HIN) certificate.",
+  "topics": [
+    "boat-registration",
+    "hin-certificate",
+    "vessel-details",
+    "boatcode"
+  ],
+  "intro": "The Hull Identification Number (HIN) is the unique identifier for a boat. When a vessel is registered, it requires a HIN certificate, which lists important vessel details.\n\nIf details on the original (blue certificate) or copy (pink certificate) of the HIN certificate need to be amended, you must obtain a 'Modification Certificate' from a Boatcode Agent.\n\nThe Boatcode Agent will inspect the vessel and issue you the Modification Certificate. In addition, you will need to complete the Application for HIN (Boatcode) form that the agent will give you.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your proof of identity",
+    "HIN (Boatcode) certificate",
+    "Vessel registration documents",
+    "Proof of ownership documentation",
+    "The required fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documentation and completed forms from the Boatcode Agent.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and provide the information in person, or mail to:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "required fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions#toc-boatcode-fees"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "NSW boat ramps",
+      "url": "https://roads-waterways.transport.nsw.gov.au/maritime/using-waterways/boat-ramps-map/boat-ramps/index.html"
+    },
+    {
+      "text": "Find a Boatcode agent – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/find-a-boatcode-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Hull Identification Number (HIN)?",
+      "a": "The HIN is the unique identifier for a boat.",
+      "link": null
+    },
+    {
+      "q": "Who can help me amend my HIN certificate details?",
+      "a": "You must obtain a 'Modification Certificate' from a Boatcode Agent.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do to change my HIN details?",
+      "a": "The Boatcode Agent will inspect the vessel and issue the Modification Certificate. You must also complete the Application for HIN (Boatcode) form provided by the agent.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:50Z",
+    "last_modified": "21 April 2026",
+    "html_sha1": "4699453d217e2da4fafb53485dcefceed974ec65",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

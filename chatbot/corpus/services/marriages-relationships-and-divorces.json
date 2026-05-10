@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/marriages-relationships-and-divorces",
+  "source_url": "https://www.service.nsw.gov.au/services/marriages-relationships-and-divorces",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "marriages-relationships-and-divorces",
+  "title": "Marriages and relationships",
+  "summary": "This page provides information and links for various services related to marriages, registered relationships, and family history records in NSW.",
+  "topics": [
+    "marriage",
+    "relationships",
+    "family-history",
+    "certificate"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Change the details on a birth, death or marriage record",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "text": "Report a lost or stolen birth or marriage certificate",
+      "link": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate"
+    },
+    {
+      "text": "Change your surname after marriage",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-your-surname-after-marriage"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change your surname after marriage",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-your-surname-after-marriage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Apply to get married by the NSW Registry",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-get-married-by-the-nsw-registry"
+    },
+    {
+      "text": "Apply for a single status certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-single-status-certificate"
+    },
+    {
+      "text": "Complete a Notice of Intended Marriage form",
+      "url": "https://www.service.nsw.gov.au/transaction/notice-of-intended-marriage-application"
+    },
+    {
+      "text": "Apply to register a relationship in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    },
+    {
+      "text": "Apply for a registered relationship certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-registered-relationship-certificate"
+    },
+    {
+      "text": "Apply to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-revoke-a-registered-relationship"
+    },
+    {
+      "text": "Withdraw an application to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-an-application-to-revoke-a-registered-relationship"
+    },
+    {
+      "text": "Withdraw your application to register your relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-your-application-to-register-your-relationship"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    },
+    {
+      "text": "Getting married",
+      "url": "https://www.service.nsw.gov.au/guide/getting-married"
+    },
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Resume your online application or registration – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "Change the details on a birth, death or marriage record",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "text": "Report a lost or stolen birth or marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a marriage certificate?",
+      "a": "You can apply for a marriage certificate using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "q": "Where can I find information on getting married?",
+      "a": "There is a guide available that provides details on the process of getting married.",
+      "link": "https://www.service.nsw.gov.au/guide/getting-married"
+    },
+    {
+      "q": "How do I register a relationship in NSW?",
+      "a": "You can apply to register a relationship in NSW through the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    },
+    {
+      "q": "What if I need to change details on a birth, death, or marriage record?",
+      "a": "You can find information on changing the details on a birth, death, or marriage record.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:30Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "7ed356dc622f9d5ae0a9de32008c77ec4ba1e594",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

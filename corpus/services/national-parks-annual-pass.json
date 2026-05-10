@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/national-parks-annual-pass",
+  "source_url": "https://www.service.nsw.gov.au/services/national-parks-annual-pass",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "national-parks-annual-pass",
+  "title": "National Parks annual pass",
+  "summary": "Find information and services for buying, renewing, managing, and applying for discounts on a National Parks annual pass.",
+  "topics": [
+    "national-parks",
+    "annual-pass",
+    "concessions",
+    "seniors-discount",
+    "rego"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    },
+    {
+      "text": "Renew a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/referral/renew-a-national-parks-annual-pass"
+    },
+    {
+      "text": "Manage your National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-national-parks-annual-pass"
+    },
+    {
+      "text": "Apply for a National Parks Concession Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass"
+    },
+    {
+      "text": "Apply for a seniors discount on National Parks annual passes",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seniors-discount-on-national-parks-annual-passes"
+    },
+    {
+      "text": "Access National Parks annual pass discounts when you renew your rego",
+      "url": "https://www.service.nsw.gov.au/referral/access-national-parks-annual-pass-discounts-when-you-renew-your-rego"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:33Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "663ea1314f7ebd7a8ba2b12639cc135565fd8e71",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

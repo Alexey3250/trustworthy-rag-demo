@@ -1,0 +1,44 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/community-support-bondi",
+  "source_url": "https://www.service.nsw.gov.au/transaction/community-support-bondi",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "community-support-bondi",
+  "title": "Bondi Community Support Package",
+  "summary": "This page provides information and support options for victims, families, and small businesses affected by events in Bondi.",
+  "topics": [
+    "community-support",
+    "victims-assistance",
+    "small-business-support",
+    "funeral-costs",
+    "mental-health"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find out how to apply",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-grant-bondi-agrn1240"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:42Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "70ad17db6f64296be554bc75218c29d61020dac9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

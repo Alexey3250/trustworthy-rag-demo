@@ -1,0 +1,140 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-historic-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-historic-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-historic-vehicle-registration",
+  "title": "Apply for a historic vehicle registration",
+  "summary": "Learn how to apply for a conditional vehicle registration for a historic vehicle so you can participate in community events.",
+  "topics": [
+    "historic-vehicle",
+    "conditional-registration",
+    "service-nsw"
+  ],
+  "intro": "If you have a historic vehicle and you want to participate in events organised by historic vehicle clubs or community organisations, you'll need to apply for a conditional vehicle registration.",
+  "who_can_apply": [
+    "Be a member of a recognised historic vehicle club.",
+    "Hold a driver licence appropriate to the type of vehicle.",
+    "Be 30 years or older.",
+    "The vehicle must be in as close to original condition as possible, with only safety features (like seatbelts and turn indicators) or period accessories and options altered.",
+    "The vehicle must be officially declared as safe to drive."
+  ],
+  "what_you_need": [
+    "Proof of identity (e.g., NSW driver licence).",
+    "Proof of registration entitlement (such as an original purchase receipt).",
+    "A vehicle safety check report (if your historic vehicle club is less than 2 years old).",
+    "The 'Historic Vehicle Declaration' PDF form, proving your membership in a recognised historic vehicle club.",
+    "The 'Application for Conditional Registration' PDF form.",
+    "Payment for the fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the Form 1246 Application for Conditional Registration – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the Form 1259 Historic Vehicle Declaration – PDF and have it signed by an official of your recognised historic vehicle club.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070967-historic-vehicle-declaration.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Submit your application and supporting documents in person at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Historic vehicles must display conditional registration number plates and a current registration label.",
+      "link": null
+    },
+    {
+      "text": "Name bars can be attached to the number plate, but must not cover the number plate.",
+      "link": null
+    },
+    {
+      "text": "Historic vehicles can be used:",
+      "link": null
+    },
+    {
+      "text": "If you want to use your historic vehicle to transport passengers for weddings or other functions, you'll need to check the requirements under the Passenger Transport Act 1990, seek approval from the club, and have the details recorded in the Day Book.",
+      "link": null
+    },
+    {
+      "text": "NSW historic vehicles may be used for a short time in other states and territories under the same conditions that apply in NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "recognised historic vehicle club",
+      "url": "https://www.nsw.gov.au/sites/default/files/2025-02/historic-vehicle-clubs-list_0.pdf"
+    },
+    {
+      "text": "seatbelts",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/historic-vehicles-registration/period-options-accessories-and-safety-items#toc-safety-items"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "safety check report",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1246 Application for Conditional Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "text": "Form 1259 Historic Vehicle Declaration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070967-historic-vehicle-declaration.pdf"
+    },
+    {
+      "text": "Historic vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/historic-vehicles-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a conditional registration?",
+      "a": "You must be a member of a recognised historic vehicle club, hold an appropriate driver licence, be 30 years or older, and ensure the vehicle is in as close to original condition as possible.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need proof of identity, proof of registration entitlement, a vehicle safety check report (if your club is less than 2 years old), the 'Historic Vehicle Declaration' form, the 'Application for Conditional Registration' form, and payment for the fee.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "You must complete the required forms, have the declaration signed by your club official, and then submit all documents in person at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:28Z",
+    "last_modified": "17 October 2024",
+    "html_sha1": "806c0fde4f6e09f6a655cfdb801205e163386080",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

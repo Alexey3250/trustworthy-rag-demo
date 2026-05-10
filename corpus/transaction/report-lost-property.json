@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-lost-property",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-lost-property",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-lost-property",
+  "title": "Report lost property",
+  "summary": "Use the Community Portal to create an online report if you have lost property, provided the loss did not occur outside of NSW.",
+  "topics": [
+    "lost-property",
+    "nsw-police-force",
+    "community-portal"
+  ],
+  "intro": "You can use the Community Portal to:\n\nYou can create an online lost property report if the loss is not:\n\nIf you report property lost outside NSW using the NSW Police Force Community Portal you should also report the loss to the Police Force in the state or territory where the item was lost.\n\nIf the incident is an emergency or occurring now, call Triple Zero (000) immediately.",
+  "who_can_apply": [
+    "When you require a NSW Police Force Event number for insurance purposes",
+    "After you have cancelled any lost credit or debit card",
+    "Where the description or identifying features of the property may increase the possibility of its return, should it be located or handed to police."
+  ],
+  "what_you_need": [
+    "Your personal details or the personal details of the property owner (if applicable)",
+    "Details of how the property was lost",
+    "When the lost property was last seen and when it was discovered missing",
+    "A description of the lost property"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Report online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Read the information provided.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter the required details.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your online police report.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report theft",
+      "url": "https://www.service.nsw.gov.au/transaction/report-theft"
+    },
+    {
+      "text": "Report an incident to Crime Stoppers",
+      "url": "https://www.service.nsw.gov.au/transaction/report-an-incident-to-crime-stoppers"
+    },
+    {
+      "text": "Report identity theft, scams or cybercrime",
+      "url": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "text": "Report your E-Tag as lost or stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen"
+    },
+    {
+      "text": "Access the NSW Police Force Community Portal",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-police-force-community-portal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I lose property outside of NSW?",
+      "a": "If you report property lost outside NSW using the NSW Police Force Community Portal, you must also report the loss to the Police Force in the state or territory where the item was lost.",
+      "link": null
+    },
+    {
+      "q": "What should I do if the loss is an emergency?",
+      "a": "If the incident is an emergency or occurring now, call Triple Zero (000) immediately.",
+      "link": null
+    },
+    {
+      "q": "Who can report lost property online?",
+      "a": "Anyone can report lost property online, even if you live interstate or overseas or are reporting on behalf of a business.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:29Z",
+    "last_modified": "2 September 2024",
+    "html_sha1": "2432c03696a80234d9fe9b673b075fd110e12cd0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-vessel-registration",
+  "title": "Cancel a vessel registration",
+  "summary": "You can cancel your vessel registration at a Service NSW Centre, or by mail or email.",
+  "topics": [
+    "vessel-registration",
+    "cancel-registration",
+    "maritime-licence"
+  ],
+  "intro": "If you want to cancel your vessel registration, you can do this at a Service NSW Centre, or by mail or email.\n\nNote: Refunds on registration payments may be available in certain circumstances.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "a written request to cancel your registration",
+    "the Request for Refund (Maritime) – PDF (if applicable)",
+    "your proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Request for Refund (Maritime) – PDF (if applicable).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application in person, or mail/email it using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Request for Refund (Maritime) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Boat and vessel registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Report a vessel or engine as stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-vessel-or-engine-as-stolen"
+    },
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    },
+    {
+      "text": "Apply for a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vessel-registration"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:44Z",
+    "last_modified": "17 February 2026",
+    "html_sha1": "a852c29560871cb3e050be47f9e346d26ecb1bc2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "update-details-transport-for-nsw",
+  "title": "Update details with Transport for NSW",
+  "summary": "This page provides links and information on how to update various personal, contact, and organizational details related to Transport for NSW services.",
+  "topics": [
+    "update-details",
+    "transport-for-nsw",
+    "personal-details",
+    "maritime-licences",
+    "customer-accounts"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Maritime and shipping industry",
+      "link": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Death and bereavement: cancelling licences and registration",
+      "link": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Change an email address or mobile number with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    },
+    {
+      "text": "Change or correct personal details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    },
+    {
+      "text": "Change of name with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw"
+    },
+    {
+      "text": "Change your name on a boat, vessel or other maritime licence record",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-a-boat-vessel-or-other-maritime-licence-record"
+    },
+    {
+      "text": "Change your pensioner or concession details on maritime products",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-pensioner-or-concession-details-on-maritime-products"
+    },
+    {
+      "text": "Change an organisation's name, address or contact details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-address-or-contact-details-with-transport-for-nsw-organisations"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (organisations)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations"
+    },
+    {
+      "text": "Sign up for an Online Services (myRTA.com) account",
+      "url": "https://www.service.nsw.gov.au/transaction/sign-up-for-an-online-services-myrtacom-account"
+    },
+    {
+      "text": "Report a patient's medical condition to Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-patients-medical-condition-to-transport-for-nsw"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    },
+    {
+      "text": "Surrender an Authorised Inspection Station report book",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-an-authorised-inspection-station-report-book"
+    },
+    {
+      "text": "Return or exchange maritime merchandise",
+      "url": "https://www.service.nsw.gov.au/transaction/return-or-exchange-maritime-merchandise"
+    },
+    {
+      "text": "Maritime and shipping industry",
+      "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Death and bereavement: cancelling licences and registration",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I change my address or contact details?",
+      "a": "You can change your address with the NSW Government, or update your email address or mobile number specifically with Transport for NSW.",
+      "link": null
+    },
+    {
+      "q": "What if I need to change my name or personal details?",
+      "a": "You can change or correct personal details, change your name, or update your pensioner/concession details related to maritime products.",
+      "link": null
+    },
+    {
+      "q": "How can I manage my online accounts and customer numbers?",
+      "a": "You can learn how to add services to your MyServiceNSW Account, apply for a customer number (for individuals or organisations), or sign up for an Online Services (myRTA.com) account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:50Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "00da6a3048631289b85018060dc899eec26dc87c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

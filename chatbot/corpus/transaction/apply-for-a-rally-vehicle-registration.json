@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rally-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rally-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-rally-vehicle-registration",
+  "title": "Apply for a rally vehicle registration",
+  "summary": "Apply for a conditional registration if you plan to operate a rally vehicle under the rally vehicle scheme.",
+  "topics": [
+    "rally-vehicle",
+    "registration",
+    "conditional-registration",
+    "motorsport"
+  ],
+  "intro": "If you want to operate a rally vehicle, you'll need to apply for a conditional registration under the rally vehicle scheme (RVS).",
+  "who_can_apply": [
+    "Be a financial member of an approved organisation (AMSAG or Motorsport Australia).",
+    "Hold a class C or higher driver licence.",
+    "Hold a competition licence (if an individual) or an entrants/competitors licence (if a corporation).",
+    "As the registered operator, the vehicle must have passed an inspection as an eligible rally vehicle within the last 42 days."
+  ],
+  "what_you_need": [
+    "Application for Conditional Registration form (PDF).",
+    "Rally Vehicle Declaration form (PDF), signed by an approved organisation representative.",
+    "Vehicle details.",
+    "Licensed certifier report (if required in the technical manual).",
+    "Vehicle import approval (if applicable).",
+    "Proof of identity (e.g., NSW Driver Licence).",
+    "Proof of registration entitlement (e.g., original vehicle receipt)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download, complete, print and sign the Application for Conditional Registration form – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Download, complete and print the Rally Vehicle Declaration – PDF and have it signed by the responsible person of an approved organisation, either AMSAG or Motorsport Australia.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071805-rally-vehicle-declaration.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Take your completed forms and supporting documents to a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Rally vehicles under the RVS may only operate on roads and road related areas:",
+      "link": null
+    },
+    {
+      "text": "Conditional registration is not transferable. The vehicle's new owner/operator has to apply for a new conditional registration. If a rally vehicle is sold or disposed of, you have to surrender the conditional registration.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Australian Motor Sport Action Group (AMSAG)",
+      "url": "https://www.amsag.com.au/"
+    },
+    {
+      "text": "Motorsport Australia",
+      "url": "https://motorsport.org.au"
+    },
+    {
+      "text": "technical manual",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-02/RMS-infosheet-rally-vehicle-technical-manual.pdf"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Application for Conditional Registration form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "text": "Rally Vehicle Declaration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071805-rally-vehicle-declaration.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Richmond Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/richmond-service-centre"
+    },
+    {
+      "text": "Apply for a historic vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-historic-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a rally vehicle registration?",
+      "a": "You must be a financial member of an approved organisation, such as the Australian Motor Sport Action Group (AMSAG) or Motorsport Australia. You must also hold a class C or higher driver licence and have the appropriate competition or entrants/competitors licence.",
+      "link": null
+    },
+    {
+      "q": "What must the rally vehicle meet before I apply?",
+      "a": "The vehicle must have passed an inspection as an eligible rally vehicle within the last 42 days.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my completed application?",
+      "a": "Take your completed forms and supporting documents to a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:29Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "39293b124f789eb3d02967d646e3de54cdec7156",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

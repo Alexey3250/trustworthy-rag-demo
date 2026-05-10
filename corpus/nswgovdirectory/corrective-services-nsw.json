@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "corrective-services-nsw",
+  "title": "Corrective Services NSW",
+  "summary": "This page provides a directory of various services and facilities related to corrective services in NSW.",
+  "topics": [
+    "corrective-services",
+    "nsw-justice",
+    "corrections",
+    "parole",
+    "offender-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Brush Farm Corrective Services Academy",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/brush-farm-corrective-services-academy"
+    },
+    {
+      "text": "Correctional centres (Custodial Corrections)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/correctional-centres-custodial-corrections"
+    },
+    {
+      "text": "Corrections Corporate Support Unit",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrections-corporate-support-unit"
+    },
+    {
+      "text": "Corrective Services Industries (CSI)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-industries-csi"
+    },
+    {
+      "text": "Library@Corrective Services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/library-at-corrective-services"
+    },
+    {
+      "text": "Serious Offenders Review Council (SORC)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/serious-offenders-review-council-sorc"
+    },
+    {
+      "text": "Community Corrections Offices (Probation and Parole)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/community-corrections-offices-probation-and-parole"
+    },
+    {
+      "text": "State Parole Authority, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-state-parole-authority"
+    },
+    {
+      "text": "Balund-a (Tabulam)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/balund-a-tabulam"
+    },
+    {
+      "text": "Miruma",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/miruma"
+    },
+    {
+      "text": "Nunyara Community Offender Support Program Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nunyara-community-offender-support-program-centre"
+    },
+    {
+      "text": "Parramatta Transitional Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-transitional-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ead13c200a8890297c84550d1fd88f55c13c1bf4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

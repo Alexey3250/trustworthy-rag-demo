@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/return-or-exchange-maritime-merchandise",
+  "source_url": "https://www.service.nsw.gov.au/transaction/return-or-exchange-maritime-merchandise",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "return-or-exchange-maritime-merchandise",
+  "title": "Return or exchange maritime merchandise",
+  "summary": "Learn how to return or exchange maritime merchandise, such as maps or vessel stickers, by visiting a Service NSW Centre or mailing the items.",
+  "topics": [
+    "maritime-merchandise",
+    "return-exchange",
+    "service-nsw",
+    "boating"
+  ],
+  "intro": "If you'd like to return or exchange maritime merchandise items such as maritime maps or vessel registration numbers/stickers, please visit a Service NSW Centre. Alternatively you can return the merchandise and associated documentation via mail.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the merchandise you wish to return or exchange",
+    "the receipt/proof of purchase",
+    "a Request for Refund Form (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the Request for Refund Form – PDF (if applicable).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required items and documentation, and then:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Request for Refund Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:09Z",
+    "last_modified": "2 March 2026",
+    "html_sha1": "b81a1df2ad0f1f67e76c17f7053d70e7f419323f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

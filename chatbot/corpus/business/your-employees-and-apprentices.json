@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/manage-and-grow/your-employees-and-apprentices",
+  "source_url": "https://www.service.nsw.gov.au/business/manage-and-grow/your-employees-and-apprentices",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "your-employees-and-apprentices",
+  "title": "Your employees and apprentices",
+  "summary": "This page provides information and resources regarding support for apprentices and employers in NSW.",
+  "topics": [
+    "apprentices",
+    "employers",
+    "financial-support",
+    "nsw-employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Financial support for Australian apprentices",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices"
+    },
+    {
+      "text": "Financial support for employers",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-employers"
+    },
+    {
+      "text": "Small Business Assist",
+      "url": "https://www.sira.nsw.gov.au/smallbusinessassist/start"
+    },
+    {
+      "text": "Help harvest NSW",
+      "url": "https://www.nsw.gov.au/employment/help-harvest-nsw"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:19Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "bd7383e1a80b262bd5b413a7c65f4c382ca676da",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

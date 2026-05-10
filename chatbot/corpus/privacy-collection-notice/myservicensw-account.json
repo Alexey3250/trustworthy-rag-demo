@@ -1,0 +1,127 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "myservicensw-account",
+  "title": "MyServiceNSW Account – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects, uses, and discloses your personal information when you use your MyServiceNSW Account.",
+  "topics": [
+    "privacy",
+    "service-nsw-account",
+    "personal-information",
+    "data-collection"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Email address",
+    "Password",
+    "Mobile number",
+    "Full name",
+    "Residential address",
+    "Identification of Aboriginal and/or Torres Strait Islander descent"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "MyService NSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.idmatch.gov.au/resources/privacy-statement-identity-verification-services",
+      "url": "https://www.idmatch.gov.au/resources/identity-verification-services-privacy-statement"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW",
+      "url": "https://www.service.nsw.gov.au/about-us"
+    },
+    {
+      "text": "Business profile",
+      "url": "https://www.service.nsw.gov.au/privacy/collection-notices/business-profile"
+    },
+    {
+      "text": "MyServiceNSW Account – Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Service NSW Mobile App",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "leaked passwords",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/leaked-passwords"
+    },
+    {
+      "text": "Communication preferences",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account#communication-preferences"
+    },
+    {
+      "text": "privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "how Service NSW handles your personal information",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "MyService NSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected for my MyServiceNSW Account?",
+      "a": "Depending on the service, information collected may include your email address, password, mobile number, full name, residential address, and whether you identify as being of Aboriginal and/or Torres Strait Islander descent.",
+      "link": null
+    },
+    {
+      "q": "Why does Service NSW collect my personal information?",
+      "a": "Information is collected to help you pre-complete online forms, verify your identity, enable transactions, access services, and improve security on your account.",
+      "link": null
+    },
+    {
+      "q": "How is my personal information used for fraud control?",
+      "a": "Information may be used for fraud control purposes, including undertaking investigations to determine if the account was used fraudulently or if the information provided was misleading.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:16Z",
+    "last_modified": "12 December 2025",
+    "html_sha1": "54f9a45c7b92a3a093d71cad46e55ef730962aee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

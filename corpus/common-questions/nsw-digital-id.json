@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/nsw-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/nsw-digital-id",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "nsw-digital-id",
+  "title": "Common questions about NSW Digital ID",
+  "summary": "This page provides information about the NSW Digital ID, including how it works, when you can use it, and how your data is protected.",
+  "topics": [
+    "digital-id",
+    "nsw-service",
+    "identity",
+    "data-security"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "To set up your NSW Digital ID, you must log in to your MyServiceNSW Account, go to Manage, go to Settings, and select NSW Digital ID."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "link your toll account to claim the toll relief rebate online",
+      "url": "https://apply.service.nsw.gov.au/transaction/toll-relief-claim"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "multi-factor authentication (MFA)",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Create your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "Claim toll relief rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is NSW Digital ID?",
+      "a": "NSW Digital ID is a secure way to prove who you are online, allowing you to access services and information from NSW Government websites.",
+      "link": null
+    },
+    {
+      "q": "When can I use NSW Digital ID?",
+      "a": "You can use NSW Digital ID when accessing various NSW Government services online, provided the service supports it.",
+      "link": null
+    },
+    {
+      "q": "How is my personal information protected?",
+      "a": "Your data is protected by NSW Government security standards. Access to your personal information is strictly controlled and only used for the specific service you are accessing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:41Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "68d14d8a199543460dd2306ab8dc915ebc726be4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

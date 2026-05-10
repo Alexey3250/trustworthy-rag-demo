@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/unattended-property-laws",
+  "source_url": "https://www.service.nsw.gov.au/referral/unattended-property-laws",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "unattended-property-laws",
+  "title": "Find out about unattended property laws",
+  "summary": "Find out about the laws governing unattended property in public spaces across NSW.",
+  "topics": [
+    "unattended-property",
+    "public-spaces",
+    "nsw-laws",
+    "fines"
+  ],
+  "intro": "The NSW Government Public Spaces Unattended Property laws ensure public spaces (footpaths, streets, parks, bushland, and waterways) are safe and accessible for everyone.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Report an abandoned vehicle",
+      "link": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle"
+    },
+    {
+      "text": "Office of Local Government – Public Spaces Unattended Property Laws",
+      "link": "https://www.olg.nsw.gov.au/public/laws-and-regulations/public-spaces-unattended-property-laws"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Public Spaces Unattended Property laws",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2021-038"
+    },
+    {
+      "text": "Office of Local Government – Public Spaces Unattended Property Laws",
+      "url": "https://www.olg.nsw.gov.au/public/laws-and-regulations/public-spaces-unattended-property-laws"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report an abandoned vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of property are considered unattended?",
+      "a": "Property considered unattended includes unregistered vehicles, personal recreation equipment, stray stock animals, share bikes, and shopping trolleys.",
+      "link": null
+    },
+    {
+      "q": "What are the penalties for unattended property?",
+      "a": "Penalties can include on-the-spot fines, higher court penalties, rapid seizure action, and enforcement orders.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the laws?",
+      "a": "You can view the Public Spaces Unattended Property laws at the NSW legislation website.",
+      "link": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2021-038"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:12Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "c37b52efdf98ddd962db5cbe9e4499db4d8c482f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

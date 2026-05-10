@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-re-register-a-public-or-heavy-vehicle-without-an-hvis-inspection",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-re-register-a-public-or-heavy-vehicle-without-an-hvis-inspection",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-re-register-a-public-or-heavy-vehicle-without-an-hvis-inspection",
+  "title": "Apply to re-register a public or heavy vehicle (without an HVIS inspection)",
+  "summary": "You can re-register a public or heavy vehicle without an HVIS inspection at a Service NSW Centre.",
+  "topics": [
+    "heavy-vehicle",
+    "re-register",
+    "service-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "If you need to re-register a public or heavy vehicle without a Heavy Vehicle Inspection Scheme (HVIS) inspection, you can do this at a Service NSW Centre.\n\nThe HVIS inspection must be conducted within 28 days of re-establishing the registration.",
+  "who_can_apply": [
+    "Need to re-register a public or heavy vehicle without an HVIS inspection."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Registration'",
+    "Proof of identity",
+    "Proof of previous registration (e.g., registration papers in the same registered operator's name)",
+    "A completed Heavy Vehicle Authorised Inspection Scheme (HVAIS) or Authorised Inspection Scheme (AIS) inspection report (signed and dated within the last 28 days)",
+    "Evidence of compulsory third party (CTP) insurance (green slip)",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For heavy vehicles to be eligible for registration, they must meet all the requirements of either the Heavy Vehicle Inspection Scheme (HVIS) or the Heavy Vehicle Authorised Inspection Scheme (HVAIS). The scheme your vehicle belongs to will depend on the vehicle type.",
+      "link": null
+    },
+    {
+      "text": "If registration has lapsed on a public or heavy vehicle, it needs to be renewed within 3 months of the cancellation or expiry date.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Inspections for heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-4"
+    },
+    {
+      "text": "Nominated Configuration Codes",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-5"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to get the HVIS inspection after re-registering?",
+      "a": "The HVIS inspection must be conducted within 28 days of re-establishing the registration.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to re-register my vehicle?",
+      "a": "You need the 'Application for Registration' form, proof of identity, proof of previous registration, a completed HVAIS or AIS inspection report, evidence of CTP insurance, and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:13Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "01c363c461ee7991960f7c9f36d787cc7e8fbf04",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

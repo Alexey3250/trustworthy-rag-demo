@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/visual-stories",
+  "source_url": "https://www.service.nsw.gov.au/services/visual-stories",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "visual-stories",
+  "title": "Visual stories",
+  "summary": "This page provides visual stories to help you understand the process for various services at a Service NSW Service Centre.",
+  "topics": [
+    "service-centre",
+    "visual-stories",
+    "nsw-photo-card",
+    "mobility-parking"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Your first visit A visual story to help you understand what to expect when you visit a Service NSW Service Centre.",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/visual-story-visiting-a-service-centre"
+    },
+    {
+      "text": "Applying for a Photo Card A visual story to help you apply for a NSW Photo Card at a Service NSW Service Centre.",
+      "url": "https://www.service.nsw.gov.au/visual-story/applying-for-a-photo-card"
+    },
+    {
+      "text": "Applying for a Mobility Parking Scheme (MPS) Permit A visual story to help you apply for a Mobility Parking Scheme (MPS) Permit at a Service NSW Service Centre.",
+      "url": "https://www.service.nsw.gov.au/visual-story/applying-for-mobility-parking-scheme-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a visual story?",
+      "a": "A visual story is a guide that helps you understand what to expect when completing a service process at a Service NSW Service Centre.",
+      "link": null
+    },
+    {
+      "q": "Can I use a visual story to apply for a Photo Card?",
+      "a": "Yes, there is a visual story available to help you apply for a NSW Photo Card at a Service NSW Service Centre.",
+      "link": "https://www.service.nsw.gov.au/visual-story/applying-for-a-photo-card"
+    },
+    {
+      "q": "How can I prepare for my first visit to a Service NSW Service Centre?",
+      "a": "You can view a visual story to help you understand what to expect when you visit a Service NSW Service Centre.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/visual-story-visiting-a-service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:16Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e81235341fe8faf8ee02a2665f90a3090fb44824",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

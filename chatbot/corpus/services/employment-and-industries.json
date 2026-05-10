@@ -1,0 +1,284 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/employment-and-industries",
+  "source_url": "https://www.service.nsw.gov.au/services/employment-and-industries",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "employment-and-industries",
+  "title": "Licences, certification and registration by industry",
+  "summary": "Find information and services related to licences, certifications, and registrations across various industries in NSW.",
+  "topics": [
+    "business",
+    "licences",
+    "work-safety",
+    "employment",
+    "industry"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals starting or operating a business",
+    "Employees and contractors",
+    "Workers in specific industries (e.g., construction, hospitality)"
+  ],
+  "what_you_need": [
+    "Identification documents",
+    "Business details",
+    "Proof of qualifications or experience (depending on the service)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Building and construction industry",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "Automatic mutual recognition (AMR) of interstate work licences",
+      "url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences"
+    },
+    {
+      "text": "Employee entitlements and obligations",
+      "url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "text": "Apprentices and trainees",
+      "url": "https://www.service.nsw.gov.au/services/apprentices-and-trainees"
+    },
+    {
+      "text": "Government jobs",
+      "url": "https://www.service.nsw.gov.au/services/find-a-government-job"
+    },
+    {
+      "text": "View more topics",
+      "url": "https://www.service.nsw.gov.au/services/employees-and-contractors"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Business licences",
+      "url": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Business grants, voucher programs and financial assistance",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "Supply to NSW Government",
+      "url": "https://www.service.nsw.gov.au/services/supply-nsw-government"
+    },
+    {
+      "text": "Manage and grow a business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "text": "Employee pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation"
+    },
+    {
+      "text": "Manage employees and contractors",
+      "url": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors"
+    },
+    {
+      "text": "Search for an organisation or business",
+      "url": "https://www.service.nsw.gov.au/referral/search-for-an-organisation-or-business"
+    },
+    {
+      "text": "Agriculture and farming",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry"
+    },
+    {
+      "text": "Crop harvesting",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry#crop-harvesting"
+    },
+    {
+      "text": "Animal harvesting and management",
+      "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "text": "Arts, culture, entertainment and sport",
+      "url": "https://www.service.nsw.gov.au/services/arts-culture-entertainment-sport"
+    },
+    {
+      "text": "Licence to play music at your business",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business"
+    },
+    {
+      "text": "Paintball",
+      "url": "https://www.service.nsw.gov.au/services/paintball"
+    },
+    {
+      "text": "Construction cards, certificates and information",
+      "url": "https://www.service.nsw.gov.au/services/construction-cards-certificates-and-information"
+    },
+    {
+      "text": "Demolitions, asbestos removal, explosives and fireworks",
+      "url": "https://www.service.nsw.gov.au/services/demolitions-asbestos-removal-explosives-and-fireworks"
+    },
+    {
+      "text": "High risk work licence",
+      "url": "https://www.service.nsw.gov.au/services/high-risk-work-licence"
+    },
+    {
+      "text": "Individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Plant item and design registration",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry/plant-item-and-design-registration"
+    },
+    {
+      "text": "Professional engineers, design practitioners and building practitioners",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners"
+    },
+    {
+      "text": "Qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/services/qualified-supervisor-certificate"
+    },
+    {
+      "text": "Tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-tradesperson-certificate"
+    },
+    {
+      "text": "Contract cleaning, pest management, fumigators",
+      "url": "https://www.service.nsw.gov.au/services/cleaning-industry"
+    },
+    {
+      "text": "Community Services Industry portable long service leave scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-community-services-portable-long-service-leave"
+    },
+    {
+      "text": "Debt collection",
+      "url": "https://www.service.nsw.gov.au/services/debt-collection-industry"
+    },
+    {
+      "text": "Food processing, storage and production",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Private health facilities and nursing homes",
+      "url": "https://www.service.nsw.gov.au/services/private-health-industry"
+    },
+    {
+      "text": "Worker checks",
+      "url": "https://www.service.nsw.gov.au/services/worker-checks"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Liquor licences and information",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "Food serving and safety",
+      "url": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "text": "Gaming and gambling",
+      "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    },
+    {
+      "text": "RSA, RCG, ARCG hospitality industry training",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Maritime and shipping",
+      "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/services/commercial-mooring-licence"
+    },
+    {
+      "text": "Wharf bookings",
+      "url": "https://www.service.nsw.gov.au/services/wharf-bookings"
+    },
+    {
+      "text": "Motor vehicle and road transport",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry"
+    },
+    {
+      "text": "Real estate and property",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry"
+    },
+    {
+      "text": "Retailers",
+      "url": "https://www.service.nsw.gov.au/services/retail-industry"
+    },
+    {
+      "text": "Pawnbrokers and second-hand dealer licences",
+      "url": "https://www.service.nsw.gov.au/services/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Tattoo masters and tattooist licences",
+      "url": "https://www.service.nsw.gov.au/services/tattooist-and-tattoo-master-licences"
+    },
+    {
+      "text": "Security operative and master licences",
+      "url": "https://www.service.nsw.gov.au/services/security-industry"
+    },
+    {
+      "text": "Surveyors (land and mining)",
+      "url": "https://www.service.nsw.gov.au/services/surveyors"
+    },
+    {
+      "text": "API.NSW – NSW Government API service",
+      "url": "https://www.service.nsw.gov.au/referral/access-the-nsw-government-apinsw-service"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services are available for the building and construction industry?",
+      "a": "You can find specific information regarding the building and construction industry.",
+      "link": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "q": "How can I check if a business or trade licence is required?",
+      "a": "You can check the requirements for a business or trade licence.",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "q": "What checks are required for working with children or NDIS?",
+      "a": "Services are available for Working with Children Checks and National Disability Insurance Scheme Worker Checks.",
+      "link": "https://www.service.nsw.gov.au/services/worker-checks"
+    },
+    {
+      "q": "What support is available for employees and contractors?",
+      "a": "Information is available on employee entitlements, obligations, apprenticeships, and managing contractors.",
+      "link": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:15Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "bb567de6ef4bad20f4e8217c0815030c02eca94a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/using-the-notice-and-redundancy-calculator",
+  "source_url": "https://www.service.nsw.gov.au/referral/using-the-notice-and-redundancy-calculator",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "using-the-notice-and-redundancy-calculator",
+  "title": "Using the notice and redundancy calculator",
+  "summary": "Use this online calculator to determine the required notice and redundancy pay when employment ends.",
+  "topics": [
+    "employment-end",
+    "redundancy-pay",
+    "notice-pay",
+    "calculator"
+  ],
+  "intro": "Use this online calculator to find out how much notice and redundancy pay is required when employment ends.\n\nThe calculator includes pay and redundancy requirements under:\n\nBoth employees and employers can use this tool.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online calculator",
+      "url": "https://calculate.fairwork.gov.au/EndingEmployment"
+    },
+    {
+      "text": "Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Using the leave calculator",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:14Z",
+    "last_modified": "28 November 2024",
+    "html_sha1": "f790b50b6e4e5190df143ea3ecd14012c6d89ac3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

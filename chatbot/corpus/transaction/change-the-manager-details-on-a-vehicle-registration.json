@@ -1,0 +1,35 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-manager-details-on-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-manager-details-on-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-manager-details-on-a-vehicle-registration",
+  "title": "Change the manager details on a vehicle registration",
+  "summary": "This page explains how to add, change, or delete the manager details for a vehicle or fleet of vehicles registration.",
+  "topics": [
+    "vehicle-registration",
+    "manager-details",
+    "service-nsw"
+  ],
+  "intro": "If the registration of a vehicle or fleet of vehicles has been assigned to a manager, mail relating to the registration, such as renewals, billing information, will be sent to that manager.\n\nTo add, change the details of, or delete a manager please visit a Service NSW Centre. Alternatively, you can call us on 13 77 88.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Visit a Service NSW Centre",
+    "Call 13 77 88"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:01Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "1e16f3879f9761eca099c615aae8c5a64aa61523",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

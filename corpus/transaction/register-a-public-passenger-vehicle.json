@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-public-passenger-vehicle",
+  "title": "Register a public passenger vehicle",
+  "summary": "Learn how to register a public passenger vehicle, such as a taxi, bus, or hire car, by visiting a Service NSW Centre.",
+  "topics": [
+    "register-vehicle",
+    "public-passenger-vehicle",
+    "taxi",
+    "bus",
+    "hire-car"
+  ],
+  "intro": "If you'd like to register a public passenger vehicle such as a taxi, bus, hire car or tourist vehicle, you'll need to visit a Service NSW Centre with the required documentation.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of identity",
+    "Proof of registration entitlement",
+    "Compulsory third party (CTP) insurance",
+    "Vehicle Compliance Certificate from a licensed certifier (if the vehicle has been modified)",
+    "Copy of the accredited operator's Certificate of Accreditation",
+    "Letter from the accredited operator (if the vehicle is not registered in the accredited operator's name)",
+    "Original AUVIS/HVAIS inspection report",
+    "Valid Transaction Authorisation Letter from the Point to Point Transport Commissioner (for taxi plates)",
+    "Completed 'Application for Registration' form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take the completed form and required documents to a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Nominated Configuration Codes",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-5"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Vehicle Compliance Certificate from a licensed certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Renew a taxi registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-taxi-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:21Z",
+    "last_modified": "30 January 2025",
+    "html_sha1": "25e05ce9165e030d6963b762c46524ed0024b863",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

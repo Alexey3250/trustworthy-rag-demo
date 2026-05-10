@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-motor-vehicle-tradesperson-certificate",
+  "title": "Restore a motor vehicle tradesperson certificate",
+  "summary": "Learn how to restore your motor vehicle tradesperson certificate online or at a Service NSW Centre.",
+  "topics": [
+    "motor-vehicle-tradesperson",
+    "certificate",
+    "restore",
+    "service-nsw"
+  ],
+  "intro": "If your motor vehicle tradesperson certificate expired less than 3 months ago, you can restore your certificate online, or at a Service NSW Centre.\n\nYou can restore using the details on your renewal form. Once restored, your certificate is considered to have been renewed from the day it expired.\n\nYou must not work as motor vehicle tradesperson without a valid certificate.\n\nTo find your certificate number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Your certificate expired less than 3 months ago.",
+    "You do not have a renewal number.",
+    "You have changed your name.",
+    "You cannot confirm the online declaration.",
+    "Your certificate expired more than 3 months ago."
+  ],
+  "what_you_need": [
+    "Your renewal number (as shown on your renewal notice)",
+    "Your certificate number",
+    "Fee payment",
+    "If your certificate expired less than 3 months ago, you will also need:",
+    "Your renewal number (as shown on your renewal notice)",
+    "Your certificate number",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Restore online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to restore your certificate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson/motor-vehicle-tradesperson-work-categories-qualification-requirements/certificate-fees"
+    },
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "apply for a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I restore my certificate online?",
+      "a": "Yes, if your motor vehicle tradesperson certificate expired less than 3 months ago, you can restore it online or at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What happens if I restore my certificate?",
+      "a": "Once restored, your certificate is considered to have been renewed from the day it expired.",
+      "link": null
+    },
+    {
+      "q": "How do I find my certificate number and details?",
+      "a": "You can visit Verify NSW to find your certificate number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:40Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "f815c6c882fb1de11f67165e9b9920cb3b58d850",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-the-welcome-experience-regional-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-the-welcome-experience-regional-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-the-welcome-experience-regional-nsw",
+  "title": "Register for The Welcome Experience (regional NSW)",
+  "summary": "Learn about and book an appointment for The Welcome Experience, a free service for essential workers moving to regional NSW.",
+  "topics": [
+    "regional-nsw",
+    "essential-workers",
+    "welcome-experience",
+    "relocating"
+  ],
+  "intro": "The Welcome Experience is a free service for essential workers relocating to regional NSW.\n\nThe service matches and connects new workers with local people and resources.\n\nIf you're considering moving to regional NSW, or have recently moved there, you can book an appointment with a local connector in the region to find out about:",
+  "who_can_apply": [
+    "Essential workers relocating to regional NSW"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "The Welcome Experience",
+      "url": "https://www.nsw.gov.au/regional-nsw/makethemove/welcome-experience"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:52Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "43439df9e02a0d7ba293d032666753ff65aac4cb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

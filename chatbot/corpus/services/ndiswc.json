@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/ndiswc",
+  "source_url": "https://www.service.nsw.gov.au/services/ndiswc",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "ndiswc",
+  "title": "National Disability Insurance Scheme Worker Check (NDISWC)",
+  "summary": "This page provides information on the NDIS Worker Check (NDISWC), which is a required worker screening clearance for certain workers supporting or delivering services under the National Disability Insurance Scheme (NDIS).",
+  "topics": [
+    "ndis",
+    "worker-check",
+    "screening-clearance",
+    "disability-support"
+  ],
+  "intro": "Certain workers delivering supports or services under the National Disability Insurance Scheme (NDIS) are required to have a worker screening clearance. In NSW this is called the NDIS Worker Check (NDISWC).",
+  "who_can_apply": [
+    "Workers delivering supports or services under the National Disability Insurance Scheme (NDIS)."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Access support through the National Disability Insurance Scheme (NDIS)",
+      "link": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis"
+    },
+    {
+      "text": "Disability assistance",
+      "link": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Working with Children Check",
+      "link": "https://www.service.nsw.gov.au/services/working-with-children"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an NDIS Worker Check Get started with your NDIS Worker Check application. Includes new applications and renewing an expired NDIS Worker Check.",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply"
+    },
+    {
+      "text": "NDIS Worker Check application guide What you need to prove your identity plus information and links to help you when applying for the NDIS Worker Check.",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "Check the status of your NDIS Worker Check Find out the progress status of your application. Get your NDIS Worker Check number and expiry date.",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    },
+    {
+      "text": "Update your NDIS Worker Check details As an NDIS Worker Check clearance holder you need to keep your personal and employment information up to date.",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-update-details"
+    },
+    {
+      "text": "Access support through the National Disability Insurance Scheme (NDIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an NDIS Worker Check?",
+      "a": "You can start your NDIS Worker Check application to cover new applications or renewing an expired check.",
+      "link": "https://www.service.nsw.gov.au/transaction/ndiswc-apply"
+    },
+    {
+      "q": "What do I need to know before applying for the NDIS Worker Check?",
+      "a": "The NDIS Worker Check application guide provides information on what you need to prove your identity and other helpful details.",
+      "link": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "q": "How can I check the status of my NDIS Worker Check application?",
+      "a": "You can check the progress status of your application to get your NDIS Worker Check number and expiry date.",
+      "link": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    },
+    {
+      "q": "Do I need to update my NDIS Worker Check details?",
+      "a": "Yes, as a clearance holder, you must keep your personal and employment information up to date.",
+      "link": "https://www.service.nsw.gov.au/transaction/ndiswc-update-details"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:05Z",
+    "last_modified": "23 April 2026",
+    "html_sha1": "2a33f2605417ec85ad9799feba25b0550dd51904",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

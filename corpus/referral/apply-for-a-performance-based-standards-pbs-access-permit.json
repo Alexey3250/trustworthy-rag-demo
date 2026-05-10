@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-performance-based-standards-pbs-access-permit",
+  "title": "Apply for a Performance-Based Standards (PBS) access permit",
+  "summary": "This page provides information on applying for a Performance-Based Standards (PBS) access permit, noting that applications are generally made through the National Heavy Vehicle Regulator (NHVR) portal.",
+  "topics": [
+    "heavy-vehicle-permits",
+    "pbs-access-permit",
+    "nhvr-regulator",
+    "road-access"
+  ],
+  "intro": "Heavy vehicle access permits are applied for via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.\n\nYou'll need to apply if:\n\nThe NHVR permit applies to travel throughout Australia, with the exception of Western Australia and the Northern Territory, where you'll need to apply directly to the relevant state or territory road transport authority.\n\nNote: You must hold a PBS Vehicle Approval to apply for a PBS access permit.As long as you have a PBS Design Approval, you can apply for a PBS Vehicle Approval at the same time as you apply for your access permit.\n\nFor the most up-to-date information, visit Performance-Based Standards vehicle access permit on the NHVR website.",
+  "who_can_apply": [
+    "Must hold a PBS Vehicle Approval to apply for a PBS access permit."
+  ],
+  "what_you_need": [
+    "PBS Vehicle Approval",
+    "PBS Design Approval (allows applying for Vehicle Approval at the same time as the access permit)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "gazette notice",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/performance-based-standards-vehicle-access-permit#gazette"
+    },
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "Performance-Based Standards vehicle access permit",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/performance-based-standards-vehicle-access-permit"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renewing heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I apply for a PBS access permit?",
+      "a": "Heavy vehicle access permits are applied for via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "q": "Do I need to apply to a different authority if I'm in WA or NT?",
+      "a": "If the NHVR permit applies to travel throughout Australia, you must apply through the NHVR portal, with the exception of Western Australia and the Northern Territory, where you must apply directly to the relevant state or territory road transport authority.",
+      "link": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "q": "What do I need to apply for a PBS access permit?",
+      "a": "You must hold a PBS Vehicle Approval to apply for a PBS access permit. If you have a PBS Design Approval, you can apply for a PBS Vehicle Approval at the same time as you apply for your access permit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:28Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "5487476f020777f8db36395c9d3ed7d0b19ae5f6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

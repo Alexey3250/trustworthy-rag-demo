@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "title": "Cancel a NSW Seniors Card or NSW Senior Savers Card",
+  "summary": "You can cancel your NSW Seniors Card or NSW Senior Savers Card online, or by calling 13 77 88 or visiting a Service NSW Centre.",
+  "topics": [
+    "nsw-seniors-card",
+    "cancel-card",
+    "senior-savers-card"
+  ],
+  "intro": "If you wish to cancel your NSW Seniors Card or NSW Senior Savers Card, you can do this online. If you're unable to cancel your card online, call us on 13 77 88 or visit a Service NSW Centre.\n\nIf you have a Gold Opal Card, it will be cancelled at the same time as your Seniors Card.\n\nNote: You can also convert your Senior Savers Card to a Seniors Card.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The service 'Seniors/Senior Savers Card' added to your MyServiceNSW Account (if you have not already)",
+    "Your personal details",
+    "Your Seniors Card or Senior Savers Card number",
+    "If cancelling by phone or at a service centre: Your personal details and your Seniors Card or Senior Savers Card number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Cancel online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to cancel your card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Seniors Card program – Privacy and Terms",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card/terms-and-conditions"
+    },
+    {
+      "text": "NSW Seniors Card website",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "convert your Senior Savers Card to a Seniors Card",
+      "url": "https://www.service.nsw.gov.au/transaction/convert-a-nsw-senior-savers-card-to-a-nsw-seniors-card"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Apply for a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Change the details on a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Change of name on a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Replace a lost, stolen or destroyed NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-destroyed-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Manage your marketing preferences for the NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-marketing-preferences-for-the-nsw-seniors-card-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens to my Gold Opal Card if I cancel my Seniors Card?",
+      "a": "If you have a Gold Opal Card, it will be cancelled at the same time as your Seniors Card.",
+      "link": null
+    },
+    {
+      "q": "How can I cancel my card if I cannot do it online?",
+      "a": "You can call 13 77 88 or visit a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Can I convert my Senior Savers Card to a Seniors Card?",
+      "a": "Yes, you can also convert your Senior Savers Card to a Seniors Card.",
+      "link": "https://www.service.nsw.gov.au/transaction/convert-a-nsw-senior-savers-card-to-a-nsw-seniors-card"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:44Z",
+    "last_modified": "6 May 2026",
+    "html_sha1": "2bdfb9cfafd29edf1b333e3fc2e15cfba4d5ee8e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

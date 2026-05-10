@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-of-supply-and-disposal-of-a-paintball-marker",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-of-supply-and-disposal-of-a-paintball-marker",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-of-supply-and-disposal-of-a-paintball-marker",
+  "title": "Notify of supply and disposal of a paintball marker",
+  "summary": "Authorised paintball suppliers in NSW must notify NSW Fair Trading about the supply or disposal of paintball markers within specific timeframes.",
+  "topics": [
+    "paintball-markers",
+    "supplier-notification",
+    "nsw-fair-trading",
+    "weapons-regulation"
+  ],
+  "intro": "If you're an authorised supplier of paintball markers in NSW, you need to notify NSW Fair Trading within 7 days of:\n\nYou do not need to notify NSW Fair Trading if:\n\nNote: If you do not receive the paintball marker back within 14 days, you must notify NSW Fair Trading within 7 days of the 14-day period.",
+  "who_can_apply": [
+    "Holding a paintball venue permit issued in NSW",
+    "Holding a firearms dealer licence under the Firearms Act 1996",
+    "Holding a weapons dealer permit under the Weapons Prohibition Act 1998",
+    "Being an authorised supplier with one of the above permits"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The 'Supplier notification template' Excel spreadsheet (downloaded and saved using Microsoft Excel on a computer)",
+    "One proof of identity document (such as a driver licence, Australian passport, or Medicare card)",
+    "The marker serial number or the make and model of the marker (if no serial number is available)",
+    "Name, address, and permit number of the supplier and recipient",
+    "The paintball marker storage address",
+    "Date of the transaction",
+    "Your valid ABN/ACN number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the 'Supplier notification template'.",
+      "link": "https://www.fairtrading.nsw.gov.au/__data/assets/excel_doc/0011/1003520/Supplier-notification-template-1.xls"
+    },
+    {
+      "n": 2,
+      "text": "Complete the relevant section on the template and save the file.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Notify online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to upload your saved 'Supplier notification template' and complete the notification.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the 'Notification of supply or disposal of paintball markers – PDF'.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb004.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Email the form to FTlicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Supplier notification template",
+      "url": "https://www.fairtrading.nsw.gov.au/__data/assets/excel_doc/0011/1003520/Supplier-notification-template-1.xls"
+    },
+    {
+      "text": "Notification of supply or disposal of paintball markers – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb004.pdf"
+    },
+    {
+      "text": "Running a paintball business requirements in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit"
+    },
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do I need to notify NSW Fair Trading?",
+      "a": "You must notify NSW Fair Trading within 7 days of supplying or disposing of a paintball marker. If you do not receive the marker back within 14 days, you must notify NSW Fair Trading within 7 days of the 14-day period.",
+      "link": null
+    },
+    {
+      "q": "Who is required to notify NSW Fair Trading?",
+      "a": "Authorised suppliers of paintball markers in NSW are required to notify NSW Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to notify NSW Fair Trading?",
+      "a": "You need a MyServiceNSW Account, the 'Supplier notification template' Excel spreadsheet, proof of identity, the marker serial number or make and model, and the name, address, and permit number of the supplier and recipient.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:54Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "2786fcbad834992380f7f64e50ec9bbb5fd30058",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

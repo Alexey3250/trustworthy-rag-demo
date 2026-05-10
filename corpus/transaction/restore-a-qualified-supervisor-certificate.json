@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-qualified-supervisor-certificate",
+  "title": "Restore a qualified supervisor certificate",
+  "summary": "Learn how to restore an expired qualified supervisor certificate at a Service NSW Centre or by post.",
+  "topics": [
+    "qualified-supervisor-certificate",
+    "restore-certificate",
+    "service-nsw"
+  ],
+  "intro": "If your qualified supervisor certificate has expired, you can apply to restore the certificate within 3 months of expiry. You can do this at a Service NSW Centre or submit your renewal restoration notice by post.\n\nIf you do not apply for a restoration within 3 months, you'll need to apply for a new certificate. You cannot trade until the new certificate is issued.",
+  "who_can_apply": [
+    "Your qualified supervisor certificate has expired."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Completed renewal restoration notice (or apply at a service centre if you do not have it)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-qualified-supervisor-certificate"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Add your digital qualified supervisor certificate to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Renew a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Replace a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Surrender a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to restore my expired certificate?",
+      "a": "You can apply to restore your certificate within 3 months of its expiry date.",
+      "link": null
+    },
+    {
+      "q": "What happens if I wait longer than 3 months to restore my certificate?",
+      "a": "If you do not apply for a restoration within 3 months, you will need to apply for a new certificate. You cannot trade until the new certificate is issued.",
+      "link": null
+    },
+    {
+      "q": "What do I need to restore my certificate?",
+      "a": "You need your proof of identity and your completed renewal restoration notice. If you do not have the notice, you can still apply at a service centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:42Z",
+    "last_modified": "13 April 2026",
+    "html_sha1": "0528dbba0a06de9b617ee46e9d709b45372b54fa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-mens-shed",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-mens-shed",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-mens-shed",
+  "title": "Find a Men's Shed",
+  "summary": "Find information and locations for Men's, Women's, and Community sheds in your local area.",
+  "topics": [
+    "mens-shed",
+    "community-shed",
+    "volunteer-activity",
+    "social-support"
+  ],
+  "intro": "Men’s, Women’s and Community sheds are non-commercial organisations started by volunteers in the local community. Sheds give members a safe space to make friends, talk, learn new skills and access health information.\n\nYou can use your postcode to Find a Men's Shed near you.\n\nWomen and Community sheds are increasing but may be harder to find and are dependent on volunteers starting them. Find out more, if you’re interested in starting a shed in your local community.\n\nThe Australian Men’s Shed Association (AMSA) is the national body supporting more than 1,200 Men’s, Women’s and Community sheds. You can find more information about how to run a shed and other helpful resources.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find a Men's Shed",
+      "url": "https://mensshed.org/find-a-shed/?geodir_search=1&stype=gd_place&s"
+    },
+    {
+      "text": "starting a shed",
+      "url": "https://mensshed.org/for-mens-sheds/start-a-shed/"
+    },
+    {
+      "text": "Australian Men’s Shed Association",
+      "url": "https://mensshed.org/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What are Men's, Women's, and Community sheds?",
+      "a": "These are non-commercial organisations started by volunteers in the local community. They provide members with a safe space to make friends, talk, learn new skills, and access health information.",
+      "link": null
+    },
+    {
+      "q": "How can I find a Men's Shed near me?",
+      "a": "You can use your postcode to find a Men's Shed near you.",
+      "link": "https://mensshed.org/find-a-shed/?geodir_search=1&stype=gd_place&s"
+    },
+    {
+      "q": "I am interested in starting a shed in my community.",
+      "a": "Women and Community sheds are increasing but may be harder to find and are dependent on volunteers starting them. You can find out more about starting a shed.",
+      "link": "https://mensshed.org/for-mens-sheds/start-a-shed/"
+    },
+    {
+      "q": "Where can I find more information about running a shed?",
+      "a": "The Australian Men’s Shed Association (AMSA) is the national body supporting more than 1,200 sheds. They provide resources on how to run a shed.",
+      "link": "https://mensshed.org/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:40Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "cf3c6302319cc84af981301efebff974048f5d46",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

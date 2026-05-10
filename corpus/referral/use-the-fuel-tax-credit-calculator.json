@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-calculator",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-calculator",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-fuel-tax-credit-calculator",
+  "title": "Use the fuel tax credit calculator",
+  "summary": "This page provides information on using the Australian Government fuel tax credit calculator for businesses registered for fuel tax credits.",
+  "topics": [
+    "fuel-tax-credits",
+    "business-tax",
+    "australian-taxation",
+    "bas-period"
+  ],
+  "intro": "If your business is registered for fuel tax credits, you can use the Australian Government fuel tax credit calculator to check:\n\nWhen you make a claim, you'll need to know each fuel type and the amount you acquired, manufactured or imported during the BAS period.\n\nFuel tax credit rates are indexed twice a year in February and August. The calculator shows the different rates for fuel acquired both before and from the date of each rate increase.\n\nVisit the Australian Taxation Office to learn more about fuel tax credits and to register online.",
+  "who_can_apply": [
+    "Your business must be registered for fuel tax credits."
+  ],
+  "what_you_need": [
+    "Knowledge of each fuel type and the amount acquired, manufactured, or imported during the BAS period."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "the online calculator",
+      "url": "https://www.ato.gov.au/calculators-and-tools/fuel-tax-credit-tools/"
+    },
+    {
+      "text": "ATO app",
+      "url": "https://www.ato.gov.au/online-services/online-services-for-individuals-and-sole-traders/ato-app"
+    },
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:56Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "ac9b21029a07c62eb700cc7fc245a39fcb1532d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

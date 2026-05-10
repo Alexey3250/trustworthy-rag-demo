@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-simple-income-tax-calculator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-simple-income-tax-calculator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-simple-income-tax-calculator",
+  "title": "Use the simple income tax calculator",
+  "summary": "Use this online calculator to estimate the tax owed on your taxable income.",
+  "topics": [
+    "income-tax",
+    "tax-calculator",
+    "tax-rates",
+    "taxable-income"
+  ],
+  "intro": "You can use this online calculator to give you an estimate of the tax you owe on your taxable income. The income tax rates will depend on the income year you select and your residency status. Non-residents are taxed at a higher rate, and are not eligible for the tax-free threshold.\n\nIf you'd like a more detailed calculation, you can use the Income tax estimator",
+  "who_can_apply": [
+    "The tax rates depend on the income year selected and your residency status.",
+    "Non-residents are taxed at a higher rate and are not eligible for the tax-free threshold."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "tax-free threshold",
+      "url": "https://www.ato.gov.au/individuals-and-families/coming-to-australia-or-going-overseas/your-tax-residency"
+    },
+    {
+      "text": "Income tax estimator",
+      "url": "https://www.ato.gov.au/single-page-applications/calculatorsandtools?anchor=IncomeTaxEstimator#IncomeTaxEstimator/questions"
+    },
+    {
+      "text": "ATO simple tax calculator",
+      "url": "https://www.ato.gov.au/calculators-and-tools/tax-return-simple-tax-calculator"
+    },
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au/"
+    },
+    {
+      "text": "Tax complaints – Inspector-General of Taxation and Taxation Ombudsman",
+      "url": "https://www.igt.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:22Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "edbda3b81fc74595e03b4bad0a9c0632648da641",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

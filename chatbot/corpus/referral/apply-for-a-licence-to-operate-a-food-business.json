@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-licence-to-operate-a-food-business",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-licence-to-operate-a-food-business",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-licence-to-operate-a-food-business",
+  "title": "Apply for a licence to operate a food business",
+  "summary": "Find out when and how food businesses in NSW need to obtain a licence to operate.",
+  "topics": [
+    "food-business",
+    "licence",
+    "nsw-food-authority",
+    "food-safety"
+  ],
+  "intro": "Certain food producers and businesses in NSW must hold a licence from the NSW Food Authority to operate.\n\nAll retail food businesses must notify their local council before they begin to trade.",
+  "who_can_apply": [
+    "Food producers and businesses in NSW that fall under specific categories, such as those handling eggs, dairy, red meat, poultry, seafood, or providing food service to vulnerable persons."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Applying for a food licence",
+      "url": "https://www.foodauthority.nsw.gov.au/help/licensing/applying-food-licence"
+    },
+    {
+      "text": "Notification and Licensing",
+      "url": "https://www.foodauthority.nsw.gov.au/help/licensing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence to process or store plant products",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-or-store-plant-products"
+    },
+    {
+      "text": "Apply for a licence to process, pack and store seafood",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-pack-and-store-seafood"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do all food businesses need a licence?",
+      "a": "No, only certain food producers and businesses in NSW must hold a licence from the NSW Food Authority to operate.",
+      "link": null
+    },
+    {
+      "q": "What must all retail food businesses do?",
+      "a": "All retail food businesses must notify their local council before they begin to trade.",
+      "link": null
+    },
+    {
+      "q": "What types of food businesses require a licence?",
+      "a": "Businesses that produce, grade, process, or store eggs (except small egg farms), handle red meat or poultry, handle seafood, or provide food service to vulnerable persons in hospitals and aged care facilities may need a licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:50Z",
+    "last_modified": "24 March 2025",
+    "html_sha1": "02a3dba4afcd6448bb1cfd99ab7cbc25e30f382b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

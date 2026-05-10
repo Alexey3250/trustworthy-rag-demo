@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/learn-about-the-veterans-employment-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/learn-about-the-veterans-employment-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "learn-about-the-veterans-employment-program",
+  "title": "Learn about the Veterans Employment Program",
+  "summary": "Learn about the Veterans Employment Program (VEP), which provides support and resources for veterans seeking careers in the NSW public sector.",
+  "topics": [
+    "veterans",
+    "employment",
+    "nsw-public-sector",
+    "career-support"
+  ],
+  "intro": "The Veterans Employment Program (VEP) provides help and support for veterans who are interested in pursuing a career in the NSW public sector. It was developed from research led by the NSW Office for Veterans Affairs (OVA) which now oversees the program.\n\nThe research found that the skills and experience of Australian Defence Force (ADF) personnel aligned with a broad range of roles within government, from entry-level to executive positions.\n\n### VEP for veterans\n\nTo assist veterans seeking employment, the VEP provides tools and resources to help them find and apply for a role that complements their military skills and experience. They include:\n\nIf you're no longer in the ADF and are looking for a career in the NSW public sector, visit the VEP website for more comprehensive information, or contact them on 1300 838 233.\n\n### VEP for hiring managers\n\nTo help employers better understand the transferability of veterans' skills to the public sector workplace, the VEP provides 2 guides in addition to the interactive Rank to grade guide tool:\n\nThe above guides lay out the ADF rank structure and accompanying skills, and how they relate to NSW government and local government capability framework levels.\n\nIf you're interested in hiring a veteran for your team, or you'd like more information call 1300 838 233 or visit the VEP website.",
+  "who_can_apply": [
+    "Veterans interested in a career in the NSW public sector",
+    "Employers interested in hiring veterans"
+  ],
+  "what_you_need": [
+    "Contact the VEP on 1300 838 233",
+    "Visit the VEP website"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "structure of the NSW government",
+      "url": "https://www.vep.veterans.nsw.gov.au/veterans/learn-more-about-nsw-government/"
+    },
+    {
+      "text": "Rank to grade guide tool",
+      "url": "https://www.vep.veterans.nsw.gov.au/veterans/finding-the-right-role/rank-to-grade-guide/"
+    },
+    {
+      "text": "advice and guidance",
+      "url": "https://www.vep.veterans.nsw.gov.au/veterans/your-application/"
+    },
+    {
+      "text": "writing a CV and cover letter",
+      "url": "https://www.vep.veterans.nsw.gov.au/veterans/your-application/your-resume/"
+    },
+    {
+      "text": "capability definition tool",
+      "url": "https://www.vep.veterans.nsw.gov.au/veterans/capability-framework/nsw-capability-definition-tool/"
+    },
+    {
+      "text": "NSW Government Rank-Grade Guide – PDF",
+      "url": "https://www.vep.veterans.nsw.gov.au/assets/veterans-employment-program/NSW-Government-Rank-to-Grade-Guide.pdf"
+    },
+    {
+      "text": "NSW Local Government Rank-Grade Guide – PDF",
+      "url": "https://www.vep.veterans.nsw.gov.au/assets/veterans-affairs/LG-R2G-Guide.pdf"
+    },
+    {
+      "text": "NSW Office for Veterans Affairs",
+      "url": "https://www.veterans.nsw.gov.au/"
+    },
+    {
+      "text": "Veterans Employment Program for employers",
+      "url": "https://www.vep.veterans.nsw.gov.au/employers/?utm_source=Internet&utm_medium=Internet&utm_campaign=Service-NSW-LandingPage&utm_term=Benefits%20of%20Hiring%20a%20Veteran"
+    },
+    {
+      "text": "Department of Veterans' Affairs",
+      "url": "https://www.dva.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the Veterans Employment Program (VEP)?",
+      "a": "The VEP provides help and support for veterans interested in pursuing a career in the NSW public sector.",
+      "link": null
+    },
+    {
+      "q": "Where can I find resources if I am a veteran looking for a job in the NSW public sector?",
+      "a": "You can visit the VEP website for comprehensive information, or call 1300 838 233.",
+      "link": null
+    },
+    {
+      "q": "What resources does the VEP offer hiring managers?",
+      "a": "The VEP provides two guides and an interactive Rank to grade guide tool to help employers understand the transferability of veterans' skills to the public sector workplace.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:28Z",
+    "last_modified": "14 February 2024",
+    "html_sha1": "6f4c5612ac1f4eecaae1ce30869605c48779f932",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

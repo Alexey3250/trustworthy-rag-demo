@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/search-the-register-of-pharmacies",
+  "source_url": "https://www.service.nsw.gov.au/transaction/search-the-register-of-pharmacies",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "search-the-register-of-pharmacies",
+  "title": "Search the Register of Pharmacies",
+  "summary": "Search the online Register of Pharmacies to find information about a specific pharmacy.",
+  "topics": [
+    "pharmacy",
+    "register",
+    "search",
+    "nsw"
+  ],
+  "intro": "You can search the online Register of Pharmacies for:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "pharmacy name",
+    "pharmacy registration number",
+    "pharmacy location (suburb or postcode)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Search online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:24Z",
+    "last_modified": "24 February 2025",
+    "html_sha1": "0f15dcd02e61fbc9d72b5f12af87dd36de864542",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

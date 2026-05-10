@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-out-about-jury-service-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-out-about-jury-service-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-out-about-jury-service-in-nsw",
+  "title": "Find out about jury service in NSW",
+  "summary": "Find out about jury service in NSW, including how to be selected, what to expect, and how to apply to be excused.",
+  "topics": [
+    "jury-service",
+    "nsw",
+    "jury-summons",
+    "excused-from-jury-service"
+  ],
+  "intro": "Anyone registered to vote in NSW can be included on the jury roll and called up for jury service. The jury roll is a list of names of people, randomly selected by computer, from the NSW electoral roll.\n\nThe first step in the jury selection process is a Notice of Inclusion. If you've received a notice it means that during the next 12 months you may receive a jury summons to attend court. The jury summons is posted to you and usually sent out a month before you have to attend court.\n\nIf you're selected as a juror, you'll get paid an allowance.\n\nYou can ask to be excused from jury service for various reasons, including the kind of work you do, personal circumstances or because you're away from the state.",
+  "who_can_apply": [
+    "Must be registered to vote in NSW"
+  ],
+  "what_you_need": [
+    "Contact the NSW jury service or call the Jury Information Line on 1300 722 574 for more information."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the jury service, contact the NSW jury service or call the Jury Information Line on 1300 722 574 if you need help.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Notice of Inclusion",
+      "url": "https://courts.nsw.gov.au/content/dcj/ctsd/courtsandtribunals/courts-and-tribunals/for-jurors/what-is-a-notice-of-inclusion.html"
+    },
+    {
+      "text": "get paid an allowance",
+      "url": "https://courts.nsw.gov.au/content/dcj/ctsd/courtsandtribunals/courts-and-tribunals/for-jurors/payment-for-jury-service.html"
+    },
+    {
+      "text": "ask to be excused from jury service",
+      "url": "https://courts.nsw.gov.au/for-jurors/how-do-i-apply-to-be-excused-from-jury-service.html"
+    },
+    {
+      "text": "NSW jury service",
+      "url": "https://juror.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be excused from jury service",
+      "url": "https://www.service.nsw.gov.au/referral/apply-to-be-excused-from-jury-service"
+    },
+    {
+      "text": "Prepare a NSW statutory declaration (stat dec)",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can be included on the jury roll?",
+      "a": "Anyone registered to vote in NSW can be included on the jury roll.",
+      "link": null
+    },
+    {
+      "q": "What is a Notice of Inclusion?",
+      "a": "A Notice of Inclusion means that during the next 12 months you may receive a jury summons to attend court.",
+      "link": "https://courts.nsw.gov.au/content/dcj/ctsd/courtsandtribunals/courts-and-tribunals/for-jurors/what-is-a-notice-of-inclusion.html"
+    },
+    {
+      "q": "What happens if I am selected as a juror?",
+      "a": "If you are selected as a juror, you will get paid an allowance.",
+      "link": "https://courts.nsw.gov.au/content/dcj/ctsd/courtsandtribunals/courts-and-tribunals/for-jurors/payment-for-jury-service.html"
+    },
+    {
+      "q": "Can I ask to be excused from jury service?",
+      "a": "Yes, you can ask to be excused from jury service for various reasons, including your work, personal circumstances, or if you are away from the state.",
+      "link": "https://courts.nsw.gov.au/for-jurors/how-do-i-apply-to-be-excused-from-jury-service.html"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:02Z",
+    "last_modified": "22 May 2025",
+    "html_sha1": "82d1e32369883a7bb49d5603e1ec19fe95eab79d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

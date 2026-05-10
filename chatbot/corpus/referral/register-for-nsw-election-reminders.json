@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-nsw-election-reminders",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-nsw-election-reminders",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-nsw-election-reminders",
+  "title": "Register for NSW election reminders",
+  "summary": "Register online for the NSW election reminder service to receive email or text message (SMS) notifications about upcoming local government or state elections.",
+  "topics": [
+    "nsw-elections",
+    "voting-reminders",
+    "local-government",
+    "state-elections"
+  ],
+  "intro": "If you would like to get an email or text message (SMS) reminder whenever a local government or state election is coming up, you can register online for the NSW election reminder service.\n\nYou must be enrolled to vote in NSW to sign up for the election reminder service.\n\nTo register for the service, you will need:\n\nThe NSW election reminder service will only remind you of future local government or state elections, not federal elections.",
+  "who_can_apply": [
+    "Must be enrolled to vote in NSW"
+  ],
+  "what_you_need": [
+    "Must be enrolled to vote in NSW"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Electoral Commission website",
+      "url": "https://roll.elections.nsw.gov.au/NSWLookUp/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What types of elections will I receive reminders for?",
+      "a": "The service will only remind you of future local government or state elections, not federal elections.",
+      "link": null
+    },
+    {
+      "q": "How do I sign up for election reminders?",
+      "a": "You can register online for the NSW election reminder service.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:13Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "85e71d78e0bfe3862d42738aa860989239861533",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

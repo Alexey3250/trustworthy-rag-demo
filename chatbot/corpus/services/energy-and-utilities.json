@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/energy-and-utilities",
+  "source_url": "https://www.service.nsw.gov.au/services/energy-and-utilities",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "energy-and-utilities",
+  "title": "Energy and utilities",
+  "summary": "Find information and assistance regarding energy and utilities services in NSW, including rebates, payment help, and energy efficiency.",
+  "topics": [
+    "energy",
+    "utilities",
+    "rebates",
+    "energy-bills",
+    "savings"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Retail energy customers",
+    "On-supply energy customers",
+    "Seniors",
+    "Low income households",
+    "Small businesses",
+    "Households"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find and compare energy-efficient appliances",
+      "url": "https://calculator.energyrating.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Family Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Family Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Gas Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers"
+    },
+    {
+      "text": "Gas Rebate (on-supply and bottled gas customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "Low Income Household Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Low Income Household Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers"
+    },
+    {
+      "text": "Small businesses",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-national-energy-bill-relief-payment"
+    },
+    {
+      "text": "Households",
+      "url": "https://www.service.nsw.gov.au/transaction/household-national-energy-bill-relief"
+    },
+    {
+      "text": "EAPA (Energy Accounts Payment Assistance)",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "No Interest Loans Scheme (NILS)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider"
+    },
+    {
+      "text": "Make a complaint about your energy or water provider",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-your-energy-or-water-provider"
+    },
+    {
+      "text": "Household energy saving upgrades",
+      "url": "https://www.service.nsw.gov.au/referral/energy-efficient-savings"
+    },
+    {
+      "text": "Get help with Sydney Water bills",
+      "url": "https://www.service.nsw.gov.au/referral/get-help-with-sydney-water-bills"
+    },
+    {
+      "text": "Apply for free essential plumbing with Sydney Water",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-free-essential-plumbing-with-sydney-water"
+    },
+    {
+      "text": "Get help with Hunter Water bills",
+      "url": "https://www.service.nsw.gov.au/referral/get-help-with-hunter-water-bills"
+    },
+    {
+      "text": "Compare energy plans with Energy Made Easy",
+      "url": "https://www.service.nsw.gov.au/referral/compare-energy-plans-with-energy-made-easy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of energy rebates are available?",
+      "a": "Rebates are available for Family Energy (retail and on supply customers), Seniors Energy, Gas (retail and on-supply/bottled gas customers), and Low Income Household (retail and on-supply customers).",
+      "link": null
+    },
+    {
+      "q": "Where can I find help with energy bills?",
+      "a": "You can find assistance for households and small businesses regarding National Energy Bill Relief payments, and also get help with specific water bills from Sydney Water and Hunter Water.",
+      "link": null
+    },
+    {
+      "q": "What assistance is available if I have trouble paying my energy bills?",
+      "a": "Assistance programs include Energy Accounts Payment Assistance (EAPA) and the No Interest Loans Scheme (NILS).",
+      "link": null
+    },
+    {
+      "q": "How can I save energy and money?",
+      "a": "You can compare energy plans using Energy Made Easy, find energy-efficient appliances, and learn about household energy saving upgrades.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:58Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "bfe659adbf09c5d5762563bee37a9956f5862c1a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

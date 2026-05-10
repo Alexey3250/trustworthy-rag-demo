@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/adding-correct-nsw-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/adding-correct-nsw-driver-licence",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "adding-correct-nsw-driver-licence",
+  "title": "Adding the correct NSW Driver Licence to your MyServiceNSW Account and the Service NSW app",
+  "summary": "Learn how to remove and re-add your correct NSW driver licence and vehicle registrations to your MyServiceNSW Account and the Service NSW app.",
+  "topics": [
+    "nsw-driver-licence",
+    "myservicensw-account",
+    "service-nsw-app",
+    "vehicle-registrations"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log out of the Service NSW app.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to Remove services in your account on the website (not in the app). Note: You’ll be prompted to log in first.",
+      "link": "https://account.service.nsw.gov.au/manage/remove"
+    },
+    {
+      "n": 3,
+      "text": "Select ‘Remove NSW driver licence and vehicle registrations’ and follow the prompts.",
+      "link": null
+    },
+    {
+      "n": 1,
+      "text": "After you've followed the steps to remove the incorrect driver licence, go to 'Add services' and select ‘NSW driver licence and vehicle registrations’ in your account.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to add your licence using your own details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "After you have successfully added your licence, you can log back in to the app.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Remove services",
+      "url": "https://account.service.nsw.gov.au/manage/remove"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I remove an incorrect driver licence?",
+      "a": "Removing the current licence will also remove any associated demerit information and vehicle registrations.",
+      "link": null
+    },
+    {
+      "q": "How do I add my correct driver licence?",
+      "a": "After removing the incorrect licence, follow the steps to add your licence again. This process will add your demerit information and any vehicle registrations.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:29Z",
+    "last_modified": "17 April 2025",
+    "html_sha1": "770d493720406db9264ca5614bad631d8fe08f89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

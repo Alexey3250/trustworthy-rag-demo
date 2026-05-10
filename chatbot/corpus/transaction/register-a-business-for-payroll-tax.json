@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-business-for-payroll-tax",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-business-for-payroll-tax",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-business-for-payroll-tax",
+  "title": "Register a business for payroll tax",
+  "summary": "This page provides information on how to register a business for payroll tax.",
+  "topics": [
+    "payroll-tax",
+    "business-tax",
+    "employers",
+    "registration"
+  ],
+  "intro": "Payroll tax is a tax for employers. It is based on the amount of monthly wages paid to permanent, temporary and casual employees and certain contractors.\n\nThe payroll tax threshold determines at what point employers must pay the payroll tax. Each state and territory has its own payroll tax threshold.\n\nYou can register for payroll tax online.",
+  "who_can_apply": [
+    "Employers who pay wages to permanent, temporary, and casual employees and certain contractors.",
+    "Businesses must pay monthly if payments to employees exceed $20,000.",
+    "Businesses can pay annually if payments to employees are $20,000 or less."
+  ],
+  "what_you_need": [
+    "Your Australian Business Number (ABN).",
+    "Your address, contact, and bank details.",
+    "The date your business first employed staff.",
+    "Your grouping status.",
+    "All payments to employees for the current year, plus the 4 previous years (if applicable)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Checklist of liable and exempt items – Payroll tax",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/payroll-tax/wages/checklist-liable-exempt"
+    },
+    {
+      "text": "Payroll tax exemptions",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/payroll-tax/exemptions"
+    },
+    {
+      "text": "Payroll tax audits – how to prepare",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/payroll-tax/audits-penalties-and-compliance/payroll-tax-audits"
+    },
+    {
+      "text": "Payroll tax assist – Revenue NSW",
+      "url": "https://www.apps09.revenue.nsw.gov.au/customer_service/decisiontrees/benefits/prt"
+    },
+    {
+      "text": "Contact Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is payroll tax?",
+      "a": "Payroll tax is a tax for employers, based on the amount of monthly wages paid to permanent, temporary, and casual employees and certain contractors.",
+      "link": null
+    },
+    {
+      "q": "How is the payroll tax threshold determined?",
+      "a": "The payroll tax threshold determines when employers must pay the tax. Each state and territory has its own threshold.",
+      "link": null
+    },
+    {
+      "q": "When must I pay payroll tax?",
+      "a": "If your payments to employees are more than $20,000, you must pay monthly. If they are $20,000 or less, you can pay annually.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:36Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "e8f3cb560591e5714a51dbe0a0c27614b1046957",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

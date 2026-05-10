@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/services/tradesperson-certificate",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "tradesperson-certificate",
+  "title": "Tradesperson certificate",
+  "summary": "Find information and services related to tradesperson certificates in New South Wales.",
+  "topics": [
+    "tradesperson-certificate",
+    "licence",
+    "builder",
+    "tradesperson"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tradesperson-certificate"
+    },
+    {
+      "text": "Change the details on a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate"
+    },
+    {
+      "text": "Change the class on a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-a-tradesperson-certificate"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Renew or restore a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-tradesperson-certificate"
+    },
+    {
+      "text": "Replace a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-tradesperson-certificate"
+    },
+    {
+      "text": "Surrender a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-tradesperson-certificate"
+    },
+    {
+      "text": "Add your digital tradesperson certificate to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a tradesperson certificate?",
+      "a": "You can apply for a tradesperson certificate using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tradesperson-certificate"
+    },
+    {
+      "q": "What if I need to change details or class on my certificate?",
+      "a": "There are specific services available to help you change the details or the class on your existing tradesperson certificate.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate"
+    },
+    {
+      "q": "How can I check if a builder or tradesperson is licensed?",
+      "a": "You can check the licence status of a builder or tradesperson using the official checking service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:13Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "1fc0bbbfb1b12f2d60d31b8ebd8d12291371a5d6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

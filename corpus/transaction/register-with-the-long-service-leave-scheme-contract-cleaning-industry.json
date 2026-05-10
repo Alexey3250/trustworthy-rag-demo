@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-with-the-long-service-leave-scheme-contract-cleaning-industry",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-with-the-long-service-leave-scheme-contract-cleaning-industry",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-with-the-long-service-leave-scheme-contract-cleaning-industry",
+  "title": "Register with the long service leave scheme (contract cleaning industry)",
+  "summary": "Learn about the Long Service Corporation's scheme for workers in the contract cleaning business in NSW.",
+  "topics": [
+    "long-service-leave",
+    "contract-cleaning",
+    "nsw-workers",
+    "employer-registration"
+  ],
+  "intro": "The Long Service Corporation (LSC) manages a portable long service benefits scheme for workers in the contract cleaning business in NSW.\n\nThe scheme covers full-time, part-time and casual cleaners employed by a business, or self-employed as a contractor, who do cleaning work under contract.\n\nIf you engage workers to do cleaning work in NSW, you must:",
+  "who_can_apply": [
+    "Full-time, part-time, and casual cleaners employed by a business.",
+    "Self-employed contractors who do cleaning work under contract."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Employer registration application – Contract cleaning industry'."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application by email or post to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "lodge employer returns",
+      "url": "https://www.longservice.nsw.gov.au/cci/employers/your-responsibilities/employer-returns"
+    },
+    {
+      "text": "ordinary wages",
+      "url": "https://www.longservice.nsw.gov.au/cci/employers/other-information/what-are-ordinary-wages"
+    },
+    {
+      "text": "books and records",
+      "url": "https://www.longservice.nsw.gov.au/cci/employers/your-responsibilities/records-to-be-kept"
+    },
+    {
+      "text": "Contract Cleaning Industry – Long Service Corporation",
+      "url": "https://www.longservice.nsw.gov.au/cci"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:39Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "0459ff771d1e738c2c6507b2d89f149058191b81",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

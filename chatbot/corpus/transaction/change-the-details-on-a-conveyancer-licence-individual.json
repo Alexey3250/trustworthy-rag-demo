@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-conveyancer-licence-individual",
+  "title": "Change the details on a conveyancer licence – individual",
+  "summary": "Learn how to update your contact details or change your name and other details on your conveyancer licence.",
+  "topics": [
+    "conveyancer-licence",
+    "change-details",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you hold a conveyancer licence you must notify NSW Fair Trading of any changes within 7 days.\n\nYou can update your contact details (address, email or mobile number) online.\n\nTo check your conveyancer licence number and details visit Verify NSW.\n\nOnly your address and contact details can be changed online.\n\n### Change of name or other licence details\n\nTo change your name or other licence details complete the PDF form.\n\nFind out more about change of name.",
+  "who_can_apply": [
+    "Must hold a conveyancer licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The details that need changing",
+    "Your contact details",
+    "Your licence number",
+    "The documents described under the section 'Other changes of details' on the form 'Change of Details: Licensed Conveyancer' – PDF (if changing name or other details)",
+    "If changing contact details online, you need a MyServiceNSW Account.",
+    "If you cannot submit online, use the paper form.",
+    "For all other changes, you need the required documents."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Conveyancer"
+    },
+    {
+      "text": "'Change of Details: Licensed Conveyancer' – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4729a.pdf"
+    },
+    {
+      "text": "Conveyancer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/conveyancer-licences"
+    },
+    {
+      "text": "Conveyancer licences – Privacy collection notice – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/conveyancer-licences"
+    },
+    {
+      "text": "Conveyancing for property buyers and sellers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-corporation"
+    },
+    {
+      "text": "Apply for a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Renew or restore a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-an-individual-conveyancer-licence"
+    },
+    {
+      "text": "Replace a conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often must I notify NSW Fair Trading of changes to my licence details?",
+      "a": "You must notify NSW Fair Trading of any changes within 7 days.",
+      "link": null
+    },
+    {
+      "q": "What details can I change online?",
+      "a": "You can only change your address, email, or mobile number online.",
+      "link": null
+    },
+    {
+      "q": "How do I change my name or other licence details?",
+      "a": "To change your name or other licence details, you must complete the PDF form.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4729a.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:08Z",
+    "last_modified": "17 December 2025",
+    "html_sha1": "c39db5bcf506dad8bcf2eb75b51f485f541ea824",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

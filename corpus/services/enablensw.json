@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/enablensw",
+  "source_url": "https://www.service.nsw.gov.au/services/enablensw",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "enablensw",
+  "title": "EnableNSW services",
+  "summary": "This page provides information and links for accessing various services and assistance through EnableNSW.",
+  "topics": [
+    "disability-assistance",
+    "enablensw",
+    "equipment-allocation",
+    "support-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Disability assistance",
+      "link": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Access EnableNSW Services",
+      "url": "https://www.service.nsw.gov.au/transaction/access-enablensw-services"
+    },
+    {
+      "text": "Apply for EnableNSW assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw"
+    },
+    {
+      "text": "Change the details registered with EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw"
+    },
+    {
+      "text": "Make a co-payment to EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-co-payment-to-enablensw"
+    },
+    {
+      "text": "Request equipment repairs and re-order consumables from EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/request-equipment-repairs-and-re-order-consumables-from-enablensw"
+    },
+    {
+      "text": "Apply for equipment through the Equipment Allocation Program (EAP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-equipment-through-the-equipment-allocation-program-eap"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I access EnableNSW services?",
+      "a": "You can access EnableNSW services via the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-enablensw-services"
+    },
+    {
+      "q": "How do I apply for EnableNSW assistance?",
+      "a": "You can apply for EnableNSW assistance through the online transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw"
+    },
+    {
+      "q": "What if I need to change my details registered with EnableNSW?",
+      "a": "You can change the details registered with EnableNSW using the online transaction service.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:38Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "71281054cae388f8bc0e2fabd49464dc49237e60",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-recycler-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-recycler-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-motor-vehicle-recycler-licence",
+  "title": "Renew a motor vehicle recycler licence",
+  "summary": "This page explains how to renew your motor vehicle recycler licence online.",
+  "topics": [
+    "motor-vehicle-recycler-licence",
+    "renew-licence",
+    "service-nsw"
+  ],
+  "intro": "You'll receive a renewal notice for your motor vehicle recycler licence a month before the expiry date. You can then apply online to renew your licence before it expires.\n\nYou can apply for a 1, 3 or 5-year licence.\n\nTo find your motor vehicle recycler licence number and details, visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-recycler/licensing-fees-for-motor-vehicle-recycler"
+    },
+    {
+      "text": "Working as a motor vehicle recycler: business obligations – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-recycler"
+    },
+    {
+      "text": "Motor vehicle recyclers register forms – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-recycler/motor-vehicle-recyclers-register-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Check a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance do I receive notice of my licence renewal?",
+      "a": "You will receive a renewal notice for your motor vehicle recycler licence one month before the expiry date.",
+      "link": null
+    },
+    {
+      "q": "What licence terms can I apply for?",
+      "a": "You can apply for a 1, 3, or 5-year licence.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I miss the renewal deadline?",
+      "a": "If your licence expired less than 3 months ago, you may apply to restore it at a Service NSW Centre. If it has expired more than 3 months, you must apply for a new licence to be re-issued.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:40Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "76606b4d771cd18868937b3cc8ad1802edb64b58",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

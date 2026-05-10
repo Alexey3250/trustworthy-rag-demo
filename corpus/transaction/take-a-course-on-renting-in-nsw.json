@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "take-a-course-on-renting-in-nsw",
+  "title": "Take a course on renting in NSW",
+  "summary": "Take the free online Rent It Keep It (RIKI) course to learn about renting in NSW and receive a certificate of completion.",
+  "topics": [
+    "renting-nsw",
+    "housing",
+    "tenancy",
+    "online-course"
+  ],
+  "intro": "Rent It Keep It (RIKI) is a free online training course about renting in NSW. This self-paced course takes about 2 hours to complete and covers:\n\nThe course is available in Arabic, Cantonese, English, Filipino, Hindu, Mandarin and Vietnamese.\n\nOnce you finish the course, you’ll receive a certificate of completion which can be used to support your rental applications.",
+  "who_can_apply": [
+    "Anyone in NSW",
+    "People with a limited rental history",
+    "People who have had issues with a rental tenancy in the past",
+    "People at risk of homelessness",
+    "People looking for up-to-date information about renting in NSW"
+  ],
+  "what_you_need": [
+    "A Rent It Keep It Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Access online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your Rent It Keep It Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to take the course.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "refer to Rent it Keep it (RIKI), or",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/rent-it-keep-it"
+    },
+    {
+      "text": "contact Homes NSW or your nearest community housing provider.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw"
+    },
+    {
+      "text": "For more information:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyHousing mobile app",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/myhousing-online-services/about-myhousing-app"
+    },
+    {
+      "text": "Rent it Keep it (RIKI)",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/rent-it-keep-it"
+    },
+    {
+      "text": "Homes NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw"
+    },
+    {
+      "text": "community housing provider",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Rental assistance and bonds",
+      "url": "https://www.service.nsw.gov.au/services/renting"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Rent It Keep It (RIKI)?",
+      "a": "RIKI is a free online training course about renting in NSW.",
+      "link": null
+    },
+    {
+      "q": "How long does the course take?",
+      "a": "The self-paced course takes about 2 hours to complete.",
+      "link": null
+    },
+    {
+      "q": "What languages is the course available in?",
+      "a": "The course is available in Arabic, Cantonese, English, Filipino, Hindu, Mandarin and Vietnamese.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:53Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "a59bef3cb5d913fab49079d1025e23e3092c6317",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-enrolment-details-nsw-livestock-loading-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-enrolment-details-nsw-livestock-loading-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-enrolment-details-nsw-livestock-loading-scheme",
+  "title": "Change your enrolment details for the NSW Livestock Loading Scheme",
+  "summary": "Learn how to notify Transport for NSW about changes to vehicle ownership or registration for the NSW Livestock Loading Scheme.",
+  "topics": [
+    "nsw-livestock-loading-scheme",
+    "vehicle-changes",
+    "transport-for-nsw",
+    "enrolment-details"
+  ],
+  "intro": "If you transport livestock by road in NSW under the NSW Livestock Loading Scheme (NSWLLS) and have changed vehicle ownership or registration, you’ll need to notify Transport for NSW within 14 days.",
+  "who_can_apply": [
+    "Employers, operators, or self-employed drivers enrolled in the NSWLLS"
+  ],
+  "what_you_need": [
+    "A list of all vehicles where changes are required."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the online form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll need to remove NSWLLS labels from vehicles and trailers no longer used under the scheme.",
+      "link": null
+    },
+    {
+      "text": "Random compliance checks may occur at on-road intercepts and triggered or random inspections.",
+      "link": null
+    },
+    {
+      "text": "Allow 14 days for your application to be processed.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSWLLS Details Amendment Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071673-details-amendment-form.pdf"
+    },
+    {
+      "text": "NSW Livestock Loading Scheme (NSWLLS) - Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock"
+    },
+    {
+      "text": "NSWLLS Driver Course - Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs-1"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Enrol in the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/enrol-in-the-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "How to become a NSW Livestock Loading Scheme (NSWLLS) driver",
+      "url": "https://www.service.nsw.gov.au/transaction/how-to-become-a-nsw-livestock-loading-scheme-driver"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to notify Transport for NSW about changes?",
+      "a": "Employers, operators, or self-employed drivers enrolled in the NSW Livestock Loading Scheme (NSWLLS) who have changed vehicle ownership or registration.",
+      "link": null
+    },
+    {
+      "q": "How quickly must I report the changes?",
+      "a": "You must notify Transport for NSW within 14 days of the change.",
+      "link": null
+    },
+    {
+      "q": "What do I need to complete the change?",
+      "a": "You need a list of all vehicles where changes are required.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:02Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "af5605282c0add15ed57751dd0fe53e00e2f3ca4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

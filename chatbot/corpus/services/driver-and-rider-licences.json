@@ -1,0 +1,151 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "driver-and-rider-licences",
+  "title": "Driver and rider licences",
+  "summary": "Find information and services for obtaining, renewing, or managing various types of driver and rider licences in NSW.",
+  "topics": [
+    "driver-licence",
+    "rider-licence",
+    "nsw-licences",
+    "vehicle-licences"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "NSW residents",
+    "Interstate or overseas licence holders",
+    "Individuals needing specialized vehicle licences (e.g., heavy vehicle, dangerous goods)"
+  ],
+  "what_you_need": [
+    "Identification documents",
+    "Proof of residency",
+    "Relevant testing and training (for specific licence types)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Tow trucks",
+      "link": "https://www.service.nsw.gov.au/services/tow-trucks"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "link": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Driver licence support for Aboriginal and Torres Strait Islander communities",
+      "link": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Losing your driver licence (suspension)",
+      "link": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/services/nsw-driver-licence"
+    },
+    {
+      "text": "Learner driver licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Provisional driver licences",
+      "url": "https://www.service.nsw.gov.au/services/provisional-driver-licences"
+    },
+    {
+      "text": "NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "Convert an interstate or overseas driver licence",
+      "url": "https://www.service.nsw.gov.au/services/convert-interstate-or-overseas-licence"
+    },
+    {
+      "text": "Learner rider licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    },
+    {
+      "text": "Provisional rider licence",
+      "url": "https://www.service.nsw.gov.au/services/provisional-rider-licence"
+    },
+    {
+      "text": "Driving and riding instructor licences",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences"
+    },
+    {
+      "text": "Apply for an international driving permit (IDP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "ACT driver licences",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "Dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/services/dangerous-goods-licence"
+    },
+    {
+      "text": "Heavy vehicle licence",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "text": "How to become a NSW Livestock Loading Scheme (NSWLLS) driver",
+      "url": "https://www.service.nsw.gov.au/transaction/how-to-become-a-nsw-livestock-loading-scheme-driver"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    },
+    {
+      "text": "Tow trucks",
+      "url": "https://www.service.nsw.gov.au/services/tow-trucks"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Driver licence support for Aboriginal and Torres Strait Islander communities",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Losing your driver licence (suspension)",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get a NSW driver licence?",
+      "a": "You can find a guide on getting a NSW driver licence.",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "q": "What are the different types of licences available?",
+      "a": "Licences include standard driver licences, learner and provisional licences, and various specialized licences like heavy vehicle or dangerous goods licences.",
+      "link": null
+    },
+    {
+      "q": "How can I convert an interstate or overseas licence?",
+      "a": "There is a specific process for converting an interstate or overseas driver licence.",
+      "link": "https://www.service.nsw.gov.au/services/convert-interstate-or-overseas-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:54Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "0afdcc74dc786d5fe4920474e1ee1180216fc8a0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

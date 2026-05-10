@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry/plant-item-and-design-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/building-and-construction-industry/plant-item-and-design-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "plant-item-and-design-registration",
+  "title": "Plant item and design registration",
+  "summary": "This page provides information and links for registering plant items and designs in New South Wales.",
+  "topics": [
+    "plant-registration",
+    "building-industry",
+    "design-registration",
+    "item-registration"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply to register a plant design",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design"
+    },
+    {
+      "text": "Apply to register an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "text": "Replace a plant registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate"
+    },
+    {
+      "text": "Request a search of plant registration records",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I register a plant design?",
+      "a": "You can apply to register a plant design using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design"
+    },
+    {
+      "q": "How do I register an item of plant?",
+      "a": "You can apply to register an item of plant using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "q": "What if I need to renew or replace a registration?",
+      "a": "You can apply to renew the registration of an item of plant or replace a plant registration certificate via the provided links.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:46Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "1fac3520523e635b906db5b4f31b093be4c8b335",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

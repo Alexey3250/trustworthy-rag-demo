@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors",
+  "source_url": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "managing-employees-and-contractors",
+  "title": "Manage employees and contractors",
+  "summary": "This page explains the differences between employees and contractors and the responsibilities associated with each status.",
+  "topics": [
+    "employees",
+    "contractors",
+    "hiring-workers",
+    "tax-obligations",
+    "fair-work"
+  ],
+  "intro": "If you're hiring workers or staff, it's important to understand the difference between employees and contractors, as you have different responsibilities depending on the status of the worker. These responsibilities relate to:\n\nThe Australian Taxation Office (ATO) checks how businesses engage their workers, and you will face penalties and charges if you incorrectly treat an employee as a contractor. The taxation, super, and other government obligations differ considerably for contractors and employees.\n\nThe Fair Work Ombudsman provides all the information you need to identify whether someone is an employee or a contractor.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/find-help-for/independent-contractors"
+    },
+    {
+      "text": "Employees incorrectly treated as independent contractors – ATO",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-independent-contractor/employees-incorrectly-treated-as-independent-contractors"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:57Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "cdece235bebc62ec06b7cbe8b9bfa8f41dd0ac2b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-tow-truck-driver-certificate",
+  "title": "Apply for a tow truck drivers certificate",
+  "summary": "This page provides information and steps on how to apply for a tow truck drivers certificate in NSW.",
+  "topics": [
+    "tow-truck-driver-certificate",
+    "nsw-licences",
+    "nsw-fair-trading",
+    "driver-licence"
+  ],
+  "intro": "If you want to drive a tow truck, you need a tow truck drivers certificate. You can apply for your certificate by lodging an application online with NSW Fair Trading.\n\nYou can apply for a 1, 3 or 5-year certificate.\n\nNote: You must hold a tow truck drivers certificate before you can get an operator licence.\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Must hold a tow truck drivers certificate before getting an operator licence."
+  ],
+  "what_you_need": [
+    "A photocopy of your unrestricted Australian driver licence (front and back).",
+    "One recent, passport-quality, colour photograph of your head and neck on a plain, light background with no hat or sunglasses.",
+    "A National Police Check Certificate that is no older than 6 weeks at the time of application.",
+    "A driving record that is no older than 6 weeks at the time of application.",
+    "If you hold or have held a driver licence outside NSW or overseas within 3 years, you need both:",
+    "If you lived overseas within 10 years at the time of application, you need both:"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a certificate.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the form Application for tow truck drivers certificate – PDF.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59807.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Submit your application with payment to towtruck@customerservice.nsw.gov.au",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If Fair Trading refuses your application, you will be advised of the reasons. You can apply for a review if you disagree with the decision.",
+      "link": null
+    },
+    {
+      "text": "If you make false or misleading statements or falsify any documentation, your application may be refused.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Application for tow truck drivers certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59807.pdf"
+    },
+    {
+      "text": "Driving or operating a tow truck in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks"
+    },
+    {
+      "text": "Tow truck driver certificates – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-drivers-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a tow truck operator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-operator-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to drive a tow truck in NSW?",
+      "a": "You must hold a tow truck drivers certificate to drive a tow truck.",
+      "link": null
+    },
+    {
+      "q": "Can I apply for a tow truck drivers certificate online?",
+      "a": "Yes, you can apply for a 1, 3, or 5-year certificate by lodging an application online with NSW Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "What must I do if I hold an interstate licence?",
+      "a": "Under the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW, but you must notify the licence regulator of your intention to work.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:43Z",
+    "last_modified": "26 November 2025",
+    "html_sha1": "c1179d2a43cb25a6266e0ffea4b17a4882d67385",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

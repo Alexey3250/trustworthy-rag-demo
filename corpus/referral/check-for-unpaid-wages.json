@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-for-unpaid-wages",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-for-unpaid-wages",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-for-unpaid-wages",
+  "title": "Check for unpaid wages",
+  "summary": "Check online if you may be owed unpaid wages by using your employer's ABN or business name.",
+  "topics": [
+    "unpaid-wages",
+    "fair-work",
+    "employment-pay"
+  ],
+  "intro": "An employer can owe wages to an employee for various reasons. They may have accidentally underpaid the employee, and the employee has changed jobs and can't be contacted. Sometimes, it may be the Fair Work Ombudsman has found an underpayment through an audit.\n\nIf an underpayment has been found, the Fair Work Ombudsman collects the unpaid wages. It will hold the money on the employee's behalf.\n\nIf you think you may be owed unpaid wages, you can check online.\n\nTo search you'll need the employer's ABN or the business (entity) name.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The employer's ABN or the business (entity) name"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to 'Search for unpaid wages'.",
+      "link": "https://services.fairwork.gov.au/search-for-unpaid-wages"
+    },
+    {
+      "n": 2,
+      "text": "Enter your family name.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the ABN or the business name of your employer.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Submit'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "If your search is successful, contact the Fair Work Ombudsman on 13 13 94 to claim the wages.",
+      "link": "tel:131394"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Search for unpaid wages",
+      "url": "https://services.fairwork.gov.au/search-for-unpaid-wages"
+    },
+    {
+      "text": "Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find unclaimed money with ASIC's MoneySmart",
+      "url": "https://www.service.nsw.gov.au/transaction/find-unclaimed-money-with-asics-moneysmart"
+    },
+    {
+      "text": "Find and claim lost money – Revenue NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-and-claim-lost-money-revenue-nsw"
+    },
+    {
+      "text": "Check award rates, pay and wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "text": "Check for lost super",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-lost-super"
+    },
+    {
+      "text": "Using the leave calculator",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who collects unpaid wages?",
+      "a": "If an underpayment is found, the Fair Work Ombudsman collects the unpaid wages and holds the money on the employee's behalf.",
+      "link": null
+    },
+    {
+      "q": "How can I check if I am owed unpaid wages?",
+      "a": "You can check online by going to the 'Search for unpaid wages' tool.",
+      "link": "https://services.fairwork.gov.au/search-for-unpaid-wages"
+    },
+    {
+      "q": "What do I need to search for unpaid wages?",
+      "a": "You will need the employer's ABN or the business (entity) name.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:52Z",
+    "last_modified": "5 March 2026",
+    "html_sha1": "af7d8a1c292041e2f25e386d1ae9bb7c4c53d3d9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

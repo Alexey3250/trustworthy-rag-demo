@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-professional-licence-harvest-return",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-professional-licence-harvest-return",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-professional-licence-harvest-return",
+  "title": "Lodge a professional licence harvest return",
+  "summary": "This page explains how to lodge a professional licence harvest return online if you hunt game animals on private property.",
+  "topics": [
+    "professional-licence",
+    "harvest-return",
+    "game-hunting",
+    "private-property"
+  ],
+  "intro": "If you're employed to hunt deer or other game animals on private property, you're required to record your professional hunting activities in your log book. You'll need to lodge a harvest return at the end of each quarter. You can lodge your return online.",
+  "who_can_apply": [
+    "You are employed to hunt deer or other game animals on private property."
+  ],
+  "what_you_need": [
+    "Your NSW general game hunting licence number (G-Licence number)",
+    "Your security PIN (issued to you with your licence)",
+    "The date and time of the harvest",
+    "The number and type of animal(s) harvested and seen"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Lodge online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your G-Licence number and security PIN.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to lodge your return.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For help with your security PIN, call the Game Licensing Unit on (02) 6391 3750. You'll need to confirm some personal information before you can be provided with your PIN.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Game Hunting Licence Code of Practice",
+      "url": "https://www.dpi.nsw.gov.au/hunting/rules-and-regulations/nsw-ghl-code-of-practice"
+    },
+    {
+      "text": "Hunting rules and regulations",
+      "url": "https://www.dpi.nsw.gov.au/hunting/rules-and-regulations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge a public land harvest return",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-land-harvest-return"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:26Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "4350aabd8c4bc59af109b4187d097c897f669329",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

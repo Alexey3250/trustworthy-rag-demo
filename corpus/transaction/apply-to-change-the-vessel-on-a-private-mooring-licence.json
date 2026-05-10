@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-change-the-vessel-on-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-change-the-vessel-on-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-change-the-vessel-on-a-private-mooring-licence",
+  "title": "Apply to change the vessel on a private mooring licence",
+  "summary": "Find out how to apply to Transport for NSW (TfNSW) to change the vessel associated with your private mooring licence.",
+  "topics": [
+    "mooring-licence",
+    "vessel-change",
+    "private-mooring",
+    "transport-for-nsw"
+  ],
+  "intro": "If you want to change the vessel that's on your private mooring licence, you need to apply to Transport for NSW (TfNSW).\n\nYour application will be assessed on a range of factors including:\n\nNote: Additional approvals/permits from other agencies may also be required, so to avoid the possibility of your application not being permitted to proceed, it's recommended you contact TfNSW before purchasing a vessel.",
+  "who_can_apply": [
+    "Must have a private mooring licence.",
+    "Must apply to Transport for NSW (TfNSW)."
+  ],
+  "what_you_need": [
+    "The 'Application to Change Vessel on Mooring' PDF form",
+    "A recent photo of the vessel",
+    "Proof of identity",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a Service NSW Centre, or by post or email to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The vessel must be at least 5.2 metres in length, unless otherwise approved by Transport for NSW.",
+      "link": null
+    },
+    {
+      "text": "Concessions (if applicable) are only available for vessels used solely for recreational purposes.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Application to Change Vessel on Mooring – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072025-application-to-change-vessel-on-mooring.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to change the vessel on my private mooring licence?",
+      "a": "You will need the 'Application to Change Vessel on Mooring' PDF form, a recent photo of the vessel, proof of identity, and your payment.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application to change the vessel?",
+      "a": "You can complete the form and submit your application in person at a Service NSW Centre, or by post or email using the details provided on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "Are there any other requirements besides the application?",
+      "a": "Additional approvals or permits from other agencies may be required. It is recommended that you contact TfNSW before purchasing a vessel to avoid issues with your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:14Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "ce9e0b256bed9772487b07e5c585664c06c2d386",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

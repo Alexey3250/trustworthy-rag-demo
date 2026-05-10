@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-smoking-or-e-cigarette-use-in-a-smoke-free-place",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-smoking-or-e-cigarette-use-in-a-smoke-free-place",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-smoking-or-e-cigarette-use-in-a-smoke-free-place",
+  "title": "Report smoking or e-cigarette use in a smoke-free place",
+  "summary": "You can report smoking or e-cigarette use in a smoke-free public place online.",
+  "topics": [
+    "smoking-bans",
+    "e-cigarettes",
+    "public-places",
+    "reporting-an-incident"
+  ],
+  "intro": "Smoking and using e-cigarettes is banned by law in all enclosed public areas and certain outdoor public areas. If you think a smoking ban has been broken, you can report it online.\n\n### Indoor smoke-free zones\n\nSmoking and using e-cigarettes is banned in all enclosed public areas including in shopping centres, cinemas, libraries and public transport.\n\n### Outdoor smoke-free zones\n\nSmoking and using e-cigarettes is banned at:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Place name and address of where the incident occurred",
+    "Date and time of the incident",
+    "Description of what happened",
+    "Optional: Your contact details",
+    "Optional: Photo"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Report smoking or e-cigarette use in a smoke-free place.",
+      "link": "https://reportsmokingvaping.health.nsw.gov.au/Smoking-in-public-places/"
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete and submit the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For further information or other complaints, call the Tobacco Information Line on 1800 357 412 (English language) or 13 14 50 (other languages).",
+  "more_info": [
+    {
+      "text": "If you provide your contact details when completing the online form, NSW Health may contact you for further information if required.",
+      "link": null
+    },
+    {
+      "text": "You can also make a complaint by contacting your local Public Health Unit.",
+      "link": "https://www.health.nsw.gov.au/Infectious/pages/phus.aspx"
+    },
+    {
+      "text": "Find out more about tobacco and smoking control in NSW.",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/default.aspx"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "banned by law",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/smoke-free-laws.aspx"
+    },
+    {
+      "text": "commercial outdoor dining areas",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/outdoor-dining.aspx"
+    },
+    {
+      "text": "public building",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/no-smoking-the-4-metre-law.aspx"
+    },
+    {
+      "text": "sports grounds",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/no-smoking-around-sports-grounds.aspx"
+    },
+    {
+      "text": "Report smoking or e-cigarette use in a smoke-free place",
+      "url": "https://reportsmokingvaping.health.nsw.gov.au/Smoking-in-public-places/"
+    },
+    {
+      "text": "contacting your local Public Health Unit",
+      "url": "https://www.health.nsw.gov.au/Infectious/pages/phus.aspx"
+    },
+    {
+      "text": "tobacco and smoking control in NSW",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/default.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where are smoking and e-cigarette use banned?",
+      "a": "Smoking and using e-cigarettes is banned by law in all enclosed public areas and certain outdoor public areas.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to report an incident?",
+      "a": "You need to provide the place name and address, the date and time of the incident, a description of what happened, and optionally, your contact details or a photo.",
+      "link": null
+    },
+    {
+      "q": "How do I report a smoking or e-cigarette incident?",
+      "a": "You can report it online by following the prompts to complete and submit the form at https://reportsmokingvaping.health.nsw.gov.au/Smoking-in-public-places/.",
+      "link": "https://reportsmokingvaping.health.nsw.gov.au/Smoking-in-public-places/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:54Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "c6cc6b487a29f3f075f7a344bcfe3aa3c9b075eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

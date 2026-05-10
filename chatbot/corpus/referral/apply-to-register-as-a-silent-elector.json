@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-to-register-as-a-silent-elector",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-to-register-as-a-silent-elector",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-to-register-as-a-silent-elector",
+  "title": "Apply to register as a silent elector",
+  "summary": "You can apply to be registered as a silent elector if you believe that having your address on the publicly available electoral roll puts you or your family’s safety at risk.",
+  "topics": [
+    "electoral-roll",
+    "silent-elector",
+    "privacy",
+    "safety-risk"
+  ],
+  "intro": "If you believe that having your address on the publicly available electoral roll could put you or your family’s safety at risk, you can apply to be registered as a silent elector.\n\nThis means your address will not be shown on future electoral rolls.\n\nOnly your name and electoral division will appear.\n\nIf you need a paper form, contact the AEC.\n\nYour application for silent elector status must explain in detail what you consider the risk to be and why your, or your family’s, personal safety is at risk.\n\nThe Divisional Returning Officer will notify you of the decision in writing. The information in your application will remain strictly confidential.\n\nYou must be:\n\nYou will need:\n\nTo stop the address from being associated with your surname on the electoral roll, family members with the same surname enrolled at your address should also consider becoming silent electors.\n\nThey must submit their own application for silent registration and can request silent status on the grounds that you have it.",
+  "who_can_apply": [
+    "You must believe that having your address on the publicly available electoral roll could put you or your family’s safety at risk."
+  ],
+  "what_you_need": [
+    "A detailed explanation of the risk to your or your family’s personal safety.",
+    "If you need a paper form, contact the AEC.",
+    "Family members with the same surname enrolled at your address must submit their own application for silent registration and can request silent status on the grounds that you have it."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "with the Australian Electoral Commission (AEC",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/Special_Category/silent-electors.htm"
+    },
+    {
+      "text": "contact the AEC",
+      "url": "https://www.aec.gov.au/About_AEC/Contact_the_AEC/index.htm"
+    },
+    {
+      "text": "Registration as a silent elector in New South Wales (Australian Electoral Commission) - PDF",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/pdf/forms/silent/er022sw-nsw.pdf"
+    },
+    {
+      "text": "statutory declaration - PDF",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/pdf/forms/statutory-declaration.pdf"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What does being a silent elector mean?",
+      "a": "Your address will not be shown on future electoral rolls. Only your name and electoral division will appear.",
+      "link": null
+    },
+    {
+      "q": "What information must I provide when applying?",
+      "a": "Your application must explain in detail what you consider the risk to be and why your, or your family’s, personal safety is at risk.",
+      "link": null
+    },
+    {
+      "q": "Who makes the decision about silent elector status?",
+      "a": "The Divisional Returning Officer will notify you of the decision in writing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:19Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "3b19dac042133d0824f14b654df339cf2849b756",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

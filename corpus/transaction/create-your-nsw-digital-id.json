@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "create-your-nsw-digital-id",
+  "title": "Create your NSW Digital ID",
+  "summary": "Learn how to create a voluntary NSW Digital ID to verify your identity in select NSW Government online transactions.",
+  "topics": [
+    "nsw-digital-id",
+    "identity-verification",
+    "my-services-nsw",
+    "government-services"
+  ],
+  "intro": "The NSW Digital ID is a way to verify your identity in a single step when accessing select NSW Government online transactions. Using your NSW Digital ID for these transactions means your identity document details are not stored or recorded by another organisation.\n\nCreating your NSW Digital ID is voluntary. You don't need to have the NSW Digital ID.",
+  "who_can_apply": [
+    "Be aged 16 or over",
+    "Live in NSW"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Three current identity documents (e.g., NSW Driver Licence, Australian passport, Medicare card)",
+    "A working, front-facing camera on your device"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Create your NSW Digital ID' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to create your NSW Digital ID.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "face verification",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity#face-verification"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    },
+    {
+      "text": "Deactivate your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-digital-id"
+    },
+    {
+      "text": "Update your name on your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/update-name-digital-id"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is creating an NSW Digital ID mandatory?",
+      "a": "No, creating your NSW Digital ID is voluntary.",
+      "link": null
+    },
+    {
+      "q": "What is the NSW Digital ID used for?",
+      "a": "It is a way to verify your identity in a single step when accessing select NSW Government online transactions.",
+      "link": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "q": "What do I need to create an NSW Digital ID?",
+      "a": "You need a MyServiceNSW Account, three current identity documents, and a working, front-facing camera on your device.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:36Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "ebbf0ea2199ba1f956f6455dbe2752053c89abe4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

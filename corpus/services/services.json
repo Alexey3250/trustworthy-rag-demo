@@ -1,0 +1,275 @@
+{
+  "url": "https://www.service.nsw.gov.au/services",
+  "source_url": "https://www.service.nsw.gov.au/services",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "services",
+  "title": "Find services",
+  "summary": "This page helps you find government services across various topics, including health, housing, and transport.",
+  "topics": [
+    "services",
+    "topics",
+    "government-support",
+    "licences"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "FuelCheck app",
+      "url": "https://fuelcheck.nsw.gov.au/app"
+    },
+    {
+      "text": "Log in to your account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Go to Service Seeker For health, welfare and support services visit Infoxchange Service Seeker, an online directory of community service providers in Australia.",
+      "url": "https://www.serviceseeker.com.au/"
+    },
+    {
+      "text": "Help with food and essentials Visit the NSW Government cost-of-living hub for help with free meals, emergency parcels and other practical assistance.",
+      "url": "https://www.nsw.gov.au/money-and-taxes/cost-of-living-hub/food-and-groceries"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "A to Z list of topics",
+      "url": "https://www.service.nsw.gov.au/services/view-all-topics"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Notice of disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Demerits",
+      "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    },
+    {
+      "text": "Fines",
+      "url": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "View all Driving and Transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Energy rebates and EAPA",
+      "url": "https://www.service.nsw.gov.au/services/energy-and-utilities"
+    },
+    {
+      "text": "Seniors, carers and pensioners",
+      "url": "https://www.service.nsw.gov.au/services/seniors-carers-pensioners"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Community services",
+      "url": "https://www.service.nsw.gov.au/services/community-services"
+    },
+    {
+      "text": "Disaster support",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    },
+    {
+      "text": "View all Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Licences, certification and registration by industry",
+      "url": "https://www.service.nsw.gov.au/services/employment-and-industries"
+    },
+    {
+      "text": "Worker checks",
+      "url": "https://www.service.nsw.gov.au/services/worker-checks"
+    },
+    {
+      "text": "Building and construction",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Hospitality (RSA/RCG)",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Fishing licences",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "Boat, vessel",
+      "url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations"
+    },
+    {
+      "text": "trailer",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-trailer-or-caravan"
+    },
+    {
+      "text": "Boating licences",
+      "url": "https://www.service.nsw.gov.au/services/boating-licences"
+    },
+    {
+      "text": "Paintball",
+      "url": "https://www.service.nsw.gov.au/services/paintball"
+    },
+    {
+      "text": "Hunting",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    },
+    {
+      "text": "Firearms",
+      "url": "https://www.service.nsw.gov.au/services/firearms-licence"
+    },
+    {
+      "text": "View all Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Business Topics include personalised business support, resources, licences, exporting and government contracts.",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Legal and Police services Topics include firearms and security licences, verifying your identity, searching the PPSR, preparing a statutory declaration and finding a JP.",
+      "url": "https://www.service.nsw.gov.au/services/legal-and-police-services"
+    },
+    {
+      "text": "Births, relationships and deaths Topics include adoption, domestic and family violence, change of name or sex, wills and deceased estates, divorce, and out-of-home care records.",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Education and training Topics include apprenticeships and trainees, early childhood education and childcare, support for international students and TAFE.",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    },
+    {
+      "text": "Housing and property Topics include renting, land tax, buying, building or renovating a property, strata, waste and recycling, and pets.",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "Health and care Topics include disability assistance, Medicare, Centrelink payments, covid-19, companion card, organ donation, gambling problems, mental health resources and Lifeline services.",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    },
+    {
+      "text": "Environment, parks and wildlife Topics include wildlife licences, reporting pests or disease, visiting National Parks and State Forests.",
+      "url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Apply for a WWCC",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Renew your WWCC",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    },
+    {
+      "text": "NDIS worker check",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "FuelCheck app",
+      "url": "https://www.service.nsw.gov.au/referral/check-fuel-prices"
+    },
+    {
+      "text": "Check demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Toll notices",
+      "url": "https://www.service.nsw.gov.au/services/toll-notices"
+    },
+    {
+      "text": "Electric vehicles",
+      "url": "https://www.service.nsw.gov.au/services/electric-vehicles"
+    },
+    {
+      "text": "Book an appointment",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Help with your account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Digital licences and credentials",
+      "url": "https://www.service.nsw.gov.au/services/service-nsw-app-and-digital-licences"
+    },
+    {
+      "text": "Forms in PDF format",
+      "url": "https://www.service.nsw.gov.au/guide/forms-in-pdf-format"
+    },
+    {
+      "text": "Find a NSW Government agency",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory"
+    },
+    {
+      "text": "Get started with Savings Finder Find out if you're eligible to apply for NSW Government rebates and vouchers.",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of services are available?",
+      "a": "Services are categorized by topics such as Business, Emergencies and natural disasters, Legal and Police services, Births, relationships and deaths, Education and training, Housing and property, Health and care, and Environment, parks and wildlife.",
+      "link": null
+    },
+    {
+      "q": "Where can I find a comprehensive list of all topics?",
+      "a": "You can view an A to Z list of topics.",
+      "link": "https://www.service.nsw.gov.au/services/view-all-topics"
+    },
+    {
+      "q": "What topics are covered under 'Health and care'?",
+      "a": "Health and care topics include disability assistance, Medicare, Centrelink payments, covid-19, companion card, organ donation, gambling problems, mental health resources, and Lifeline services.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:26Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "d5003e3527e1d3896fcf26fce1458b2c4a995c11",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

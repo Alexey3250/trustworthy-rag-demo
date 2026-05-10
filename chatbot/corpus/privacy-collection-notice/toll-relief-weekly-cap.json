@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/toll-relief-weekly-cap",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/toll-relief-weekly-cap",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "toll-relief-weekly-cap",
+  "title": "Toll relief $60 weekly cap – Privacy Collection Notice",
+  "summary": "This notice explains the collection and use of personal information for the Toll Relief Rebate Scheme, which helps reduce the cost of living for frequent personal toll users.",
+  "topics": [
+    "toll-relief",
+    "service-nsw",
+    "personal-information",
+    "toll-account"
+  ],
+  "intro": "Transport for NSW has designed the Toll Relief Rebate Scheme (the Scheme) to reduce the cost of living for frequent personal toll users. The Scheme is administered by Service NSW to enable eligible customers to apply for the rebate based on their toll spend with their toll service provider.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "First and last name",
+    "Date of birth",
+    "Residential address",
+    "Mobile phone number",
+    "Toll account number",
+    "Licence plate number listed on your toll account",
+    "Contact email address listed on your toll account",
+    "Bank account details"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Roads Regulation 2018",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2018-0512"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "Create a NSW Digital ID – Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap"
+    },
+    {
+      "text": "Service NSW Privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Claim toll relief – $60 weekly cap",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Toll Relief Rebate Scheme?",
+      "a": "The Toll Relief Rebate Scheme was designed by Transport for NSW to reduce the cost of living for frequent personal toll users.",
+      "link": null
+    },
+    {
+      "q": "What information will be collected for the scheme?",
+      "a": "Information collected includes your first and last name, date of birth, residential address, mobile phone number, toll account number, licence plate number, contact email address, and bank account details.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "The information will be used to link your toll account with your MyServiceNSW Account, establish toll expenditure records, process payments, communicate about your claim, and conduct audits or investigations.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:18Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "a3e966c22d4e3eb5a2fa9f940572c2a1f832ccdd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

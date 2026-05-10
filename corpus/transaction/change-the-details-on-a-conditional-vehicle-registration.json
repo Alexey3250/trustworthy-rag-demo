@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conditional-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conditional-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-conditional-vehicle-registration",
+  "title": "Change the details on a conditional vehicle registration",
+  "summary": "You can change the conditions, number plates, or engine number details of your conditional vehicle registration at a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "conditional-registration",
+    "service-nsw"
+  ],
+  "intro": "If you need to change the conditions of operation, number plates or engine number details of your conditional vehicle registration, you can do so at a Service NSW Centre.\n\nNote: When you sell a vehicle with conditional registration, you need to cancel the registration and return the number plates. The new owner must apply for a new conditional registration – it can't be transferred.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your business identification details (if applicable)",
+    "Your current number plate(s)",
+    "Your current Certificate of Conditional Registration",
+    "Your current Certificate of Approved Operations",
+    "Payment (if applicable)",
+    "The PDF form: Change of Records"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documents and your current number plate(s).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre to submit your changes.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Change of Records – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Replacement Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Number Plates and/or Cancellation of Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "All about conditional registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/apply-for-conditional-vehicle-registration"
+    },
+    {
+      "text": "Vehicle sheets for conditional registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    },
+    {
+      "text": "Vehicle registration forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/registration-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "cancel the registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "apply for a new conditional registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Reinstate a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/reinstate-a-conditional-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I sell a vehicle with conditional registration?",
+      "a": "You must cancel the registration and return the number plates. The new owner must apply for a new conditional registration; it cannot be transferred.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:14Z",
+    "last_modified": "17 October 2024",
+    "html_sha1": "516d679c69644dabaa30cb907176c496aa85690a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

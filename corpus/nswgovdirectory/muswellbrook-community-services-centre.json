@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/muswellbrook-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/muswellbrook-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "muswellbrook-community-services-centre",
+  "title": "Muswellbrook Community Services Centre",
+  "summary": "This page provides contact and location details for the Muswellbrook Community Services Centre.",
+  "topics": [
+    "community-services",
+    "muswellbrook",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:10Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "1cfc878c2f44dd15707ef252faa06821dc103e84",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

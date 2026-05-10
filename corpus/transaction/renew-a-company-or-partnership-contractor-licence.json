@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-company-or-partnership-contractor-licence",
+  "title": "Renew a company or partnership contractor licence",
+  "summary": "This page provides information on how to renew a company or partnership contractor licence for residential building or trade work.",
+  "topics": [
+    "contractor-licence",
+    "company-licence",
+    "partnership-licence",
+    "building-work",
+    "trade-work"
+  ],
+  "intro": "Companies or partnerships that contract, sub-contract or advertise to do residential building or trade work, need to be licensed.\n\nYou will receive a renewal notice for your company or partnership contractor licence several weeks before the expiry date.\n\nYou can apply to renew online or visit a Service NSW Centre.\n\n### Check your details\n\nTo check your registration number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Companies or partnerships that contract, sub-contract or advertise to do residential building or trade work need to be licensed."
+  ],
+  "what_you_need": [
+    "Licence number",
+    "Renewal number (as shown on your renewal notice) or your full personal details",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your licence.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "your application will be assessed by Building Commission NSW on set criteria for:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "if Building Commission NSW contacts you to ask for more information the processing time may increase",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "you will be notified about the result of your application when the assessment is completed.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/DBP"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "assessment process and time frames for licence and registration applications",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    },
+    {
+      "text": "Information About Contractor's Licences for a Company/Partnership",
+      "url": "https://ablis.business.gov.au/service/nsw/contractor-licence-building-corporation-partnership/16585"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "restore your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "apply for a new licence to be re-issued",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew my company or partnership contractor licence?",
+      "a": "You can apply to renew online or visit a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "When should I expect to renew my licence?",
+      "a": "You will receive a renewal notice several weeks before the expiry date.",
+      "link": null
+    },
+    {
+      "q": "Where can I check my registration number and details?",
+      "a": "You can visit Verify NSW to check your registration number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/DBP"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:20Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "d86fb8ca3b1081b8826cfce487458845bbad2b9d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

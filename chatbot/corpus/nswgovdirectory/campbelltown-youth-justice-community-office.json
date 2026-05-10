@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/campbelltown-youth-justice-community-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/campbelltown-youth-justice-community-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "campbelltown-youth-justice-community-office",
+  "title": "Campbelltown Youth Justice Community Office",
+  "summary": "This page provides information about the Campbelltown Youth Justice Community Office.",
+  "topics": [
+    "youth-justice",
+    "community-office",
+    "campbelltown"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:47Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5df7e1fcc067225b7c3767c7cb4d8fd1a8fcde86",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-a-statutory-declaration-for-a-toll-notice",
+  "title": "Submit a statutory declaration for a toll notice",
+  "summary": "If you were not the vehicle operator when a toll notice was issued, you can submit a statutory declaration to nominate the actual driver.",
+  "topics": [
+    "toll-notice",
+    "statutory-declaration",
+    "vehicle-driver",
+    "toll-road"
+  ],
+  "intro": "If you receive a toll notice for travel on a toll road and you were not the operator of the vehicle, you can nominate another person by lodging a statutory declaration.\n\nYou will need to complete a Tolling Notice Statutory Declaration form to give notice of the name and address of the driver who was in charge of the vehicle at the time of the trip.\n\nReturn the form at least 7 days before the due date on the toll notice.\n\nIf you have more than one notice, you'll need to complete a separate statutory declaration for each toll notice.",
+  "who_can_apply": [
+    "Received a toll notice for travel on a toll road",
+    "Were not the operator of the vehicle when the toll was incurred"
+  ],
+  "what_you_need": [
+    "The Tolling Notice Statutory Declaration form (for individuals or companies)",
+    "Your toll notice number",
+    "Your vehicle registration number",
+    "The driver licence number of the person driving when the toll was incurred"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the appropriate statutory declaration form:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071725-tolling-notice-statutory-declaration-individuals.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Mail to:Toll Compliance ManagementLocked Bag 5004Parramatta NSW 2124",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Do not include payment with the statutory declaration as a new toll notice will be issued to the person you have nominated.",
+      "link": null
+    },
+    {
+      "text": "If the person you nominate on the statutory declaration doesn't pay the toll notice, a fine notice may be issued to the registered vehicle owner, or civil debt recovery action taken.",
+      "link": null
+    },
+    {
+      "text": "Statutory declaration forms cannot be accepted for trips that are more than 60 days old.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "individuals",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071725-tolling-notice-statutory-declaration-individuals.pdf"
+    },
+    {
+      "text": "companies",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071726-tolling-notice-statutory-declaration-companies.pdf"
+    },
+    {
+      "text": "Using toll roads – Transport for NSW",
+      "url": "https://www.nsw.gov.au/tolling/using-toll-roads"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay a toll or toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Nominate someone else for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I receive a toll notice but wasn't the driver?",
+      "a": "You can lodge a statutory declaration to nominate the name and address of the person who was driving the vehicle when the toll was incurred.",
+      "link": null
+    },
+    {
+      "q": "How far in advance must I return the form?",
+      "a": "You must return the form at least 7 days before the due date on the toll notice.",
+      "link": null
+    },
+    {
+      "q": "Do I need a separate declaration for multiple notices?",
+      "a": "Yes, if you have more than one notice, you must complete a separate statutory declaration for each toll notice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:53Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "c36a5e236416cd5e9a1e665792e76bde0a9030c9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

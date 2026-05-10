@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-industrial-relations",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-industrial-relations",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-industrial-relations",
+  "title": "NSW Industrial Relations",
+  "summary": "This page provides information about industrial relations in NSW, including resources for employees and employers.",
+  "topics": [
+    "industrial-relations",
+    "nsw-employment",
+    "employees",
+    "employers",
+    "public-holidays"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.industrialrelations.nsw.gov.au/",
+      "url": "https://www.industrialrelations.nsw.gov.au/"
+    },
+    {
+      "text": "NSW IR Employee essentials",
+      "url": "https://www.industrialrelations.nsw.gov.au/employees/"
+    },
+    {
+      "text": "NSW IR Employer essentials",
+      "url": "https://www.industrialrelations.nsw.gov.au/employers/"
+    },
+    {
+      "text": "Public holidays in NSW",
+      "url": "https://www.nsw.gov.au/about-nsw/public-holidays"
+    },
+    {
+      "text": "Common questions about public holidays in NSW",
+      "url": "https://www.industrialrelations.nsw.gov.au/public-holidays/public-holiday-faqs/"
+    },
+    {
+      "text": "Local public holidays in NSW",
+      "url": "https://www.industrialrelations.nsw.gov.au/public-holidays/local-public-holidays-in-nsw/"
+    },
+    {
+      "text": "Long service leave calculator – NSW Industrial Relations",
+      "url": "https://www.nsw.gov.au/employment/rights-responsibilities/leave/long-service-leave/lsl-calculator"
+    },
+    {
+      "text": "Building and construction: industrial relations",
+      "url": "https://www.nsw.gov.au/employment/rights-responsibilities/industries/building-and-construction"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general information about industrial relations in NSW?",
+      "a": "You can find general information about industrial relations in NSW at https://www.industrialrelations.nsw.gov.au/",
+      "link": "https://www.industrialrelations.nsw.gov.au/"
+    },
+    {
+      "q": "What resources are available for employees regarding industrial relations?",
+      "a": "NSW IR Employee essentials provides resources specifically for employees.",
+      "link": "https://www.industrialrelations.nsw.gov.au/employees/"
+    },
+    {
+      "q": "What resources are available for employers regarding industrial relations?",
+      "a": "NSW IR Employer essentials provides resources specifically for employers.",
+      "link": "https://www.industrialrelations.nsw.gov.au/employers/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5d4ff3a1f5f7b37d4e5263c073f550177a0dd7c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

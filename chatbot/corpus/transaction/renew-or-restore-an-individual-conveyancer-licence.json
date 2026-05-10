@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-an-individual-conveyancer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-an-individual-conveyancer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-or-restore-an-individual-conveyancer-licence",
+  "title": "Renew or restore a conveyancer licence – individual",
+  "summary": "This page explains how to renew or restore an individual conveyancer licence in NSW.",
+  "topics": [
+    "conveyancer-licence",
+    "renew-licence",
+    "property-transactions",
+    "nsw-service"
+  ],
+  "intro": "If you are a licensed conveyancer a renewal notice will be emailed to you approximately 60 days before the licence expires. You can then renew your licence online before the due date.\n\nIf your licence has expired:\n\nYou cannot do legal work for property transactions in NSW if your licence has expired.\n\n### Change of details\n\nYou can update your email address and mobile number when you renew online. If other details need to be updated, refer to change the details on a conveyancer licence.\n\n### Check your licence\n\nTo find your conveyancer licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Be a fit and proper person to hold a licence and not be disqualified.",
+    "Meet the requirements for continuing professional development.",
+    "Be covered by an approved policy of professional indemnity insurance when working (this can be through your own policy or your employer’s policy)."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice)",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew or restore online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew a conveyancer licence.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Print and complete your renewal notice.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a Service NSW Centre along with your proof of identity documents and payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Conveyancer"
+    },
+    {
+      "text": "continuing professional development – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/cpd-guidelines-for-conveyancers"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/licensing-fees"
+    },
+    {
+      "text": "Conveyancer licences – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/conveyancer-licences"
+    },
+    {
+      "text": "Conveyancing for property buyers and sellers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "change the details on a conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace a conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my conveyancer licence expires?",
+      "a": "You cannot do legal work for property transactions in NSW if your licence has expired.",
+      "link": null
+    },
+    {
+      "q": "How do I find my conveyancer licence number?",
+      "a": "You can visit Verify NSW to find your conveyancer licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Conveyancer"
+    },
+    {
+      "q": "When will I receive notice about renewing my licence?",
+      "a": "A renewal notice will be emailed to you approximately 60 days before the licence expires.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:36Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "d05db49f2efe0c1362f9477880c86087f02e7dfd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

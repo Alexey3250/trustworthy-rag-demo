@@ -1,0 +1,33 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-the-liquor-gaming-nsw-application-noticeboard",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-the-liquor-gaming-nsw-application-noticeboard",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-the-liquor-gaming-nsw-application-noticeboard",
+  "title": "Check the Liquor & Gaming NSW application noticeboard",
+  "summary": "Use this page to search for and view applications related to liquor and gaming licenses in NSW.",
+  "topics": [
+    "liquor-licence",
+    "gaming-licence",
+    "nsw-applications",
+    "location-impact-assessment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:13Z",
+    "last_modified": "18 December 2024",
+    "html_sha1": "39b23b4bc07ad2b2c6f302287cc54284e243bc03",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

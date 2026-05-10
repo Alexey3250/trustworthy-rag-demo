@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-a-regulated-water-system",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-a-regulated-water-system",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-a-regulated-water-system",
+  "title": "Register a regulated water system",
+  "summary": "Find out that if your business has a regulated water system, you must register it with your local council.",
+  "topics": [
+    "regulated-water-system",
+    "business-premises",
+    "local-council",
+    "water-cooling"
+  ],
+  "intro": "If your business or commercial premises has a regulated water system, such as a water cooling or warm water system, you’ll need to register this system with your local council.\n\nWater cooling systems are most commonly used in air-conditioning systems and refrigerators. Warm water systems are used to heat and deliver water at a temperature less than 60 degrees Celsius.\n\nYou’ll need to complete the registration within one month of occupying the premises or having a new system installed.\n\nContact your local council to complete the registration.",
+  "who_can_apply": [
+    "Your business or commercial premises has a regulated water system (such as a water cooling or warm water system)."
+  ],
+  "what_you_need": [
+    "Complete the registration within one month of occupying the premises or having a new system installed.",
+    "Contact your local council to complete the registration."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:36Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "8e905cef3a2c6187b99709213c67530affa851d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

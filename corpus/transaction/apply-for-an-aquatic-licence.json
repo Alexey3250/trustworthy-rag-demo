@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-aquatic-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-aquatic-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-aquatic-licence",
+  "title": "Apply for an aquatic licence",
+  "summary": "Use this page to find out what is required and how to apply for an aquatic licence for temporary events or activities in navigable waters.",
+  "topics": [
+    "aquatic-licence",
+    "event-planning",
+    "nsw-water-activities"
+  ],
+  "intro": "If you want to run an aquatic event, competition, exhibition or any other activity that affects the general public's use of navigable waters, you'll need an aquatic licence. You could face a penalty for having the event without the appropriate licence.\n\nAquatic licences are for temporary events, and must be applied for at least 6 weeks before the event or activity starts – even earlier for more complex events or activities.\n\nYou can apply for an aquatic licence online.",
+  "who_can_apply": [
+    "Applications must be made at least 6 weeks before the event or activity starts, or even earlier for more complex events or activities."
+  ],
+  "what_you_need": [
+    "Full details of the event type, location, date(s), times, and number of vessels involved.",
+    "A detailed map of the location showing areas of operation.",
+    "Exclusive use requirements (if applicable).",
+    "An Aquatic Activity Operational Plan detailing safety procedures, rescue craft, qualified personnel, communications procedures, a risk register, and a risk management plan acceptable to Transport for NSW.",
+    "Evidence of community and stakeholder consultation appropriate to the type, scale, and location of the aquatic activity.",
+    "Written authorisation from other relevant agencies or consent authorities (like local councils or the Marine Parks Authority).",
+    "Written authorisation from the occupier or trustee of any foreshore land intended to be used.",
+    "Evidence of affiliation with, and sanction of, the Australian Power Boat Association (for power boat races only).",
+    "Evidence of affiliation with, and sanction of, Ski Racing Australia (for water ski events only).",
+    "A copy of the Work Cover Risk Assessment (for fireworks events only).",
+    "The details of the applicant or nominated representative, including proof of identity.",
+    "Proof of identity for the organisation/company to prove legal status.",
+    "Written authorisation for any nominated representative acting on behalf of an organisation on that organisation’s letterhead.",
+    "Evidence of not-for-profit status (if applicable).",
+    "Any additional documentation requested by Transport for NSW during assessment (e.g., noise or environmental assessment report)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Following the guidelines set out in the Aquatic Activity Operational Plan Template – DOC, create your own operational plan and risk assessment.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2021-06/aquatic-event-operational-plan-risk-assessment-template.doc"
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in or create an account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Upload the required documentation.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Read and confirm the declaration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Aquatic Activity Operational Plan Template – DOC",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-06/aquatic-event-operational-plan-risk-assessment-template.doc"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "NSW Marine Parks Permit Application Form – PDF",
+      "url": "https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0008/656333/Permit-Aplication-Form-Jan-2015.pdf"
+    },
+    {
+      "text": "Fireworks display checklist – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0009/49743/SW08132-Fireworks-display-checklist.pdf"
+    },
+    {
+      "text": "Aquatic event licence details – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/aquatic-event-licences/event-licences"
+    },
+    {
+      "text": "Approved aquatic events – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/aquatic-event-licences/approved-aquatic-events"
+    },
+    {
+      "text": "Aquatic events: Licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/aquatic-event-licences/licence-fees"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What kind of events require an aquatic licence?",
+      "a": "An aquatic licence is needed if you plan to run an aquatic event, competition, exhibition, or any other activity that affects the general public's use of navigable waters.",
+      "link": null
+    },
+    {
+      "q": "How far in advance must I apply for an aquatic licence?",
+      "a": "Applications must be made at least 6 weeks before the event or activity starts, though earlier application is required for more complex events or activities.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for an aquatic licence?",
+      "a": "You can apply for an aquatic licence online.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:10Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "e222405c6214c19cbe07f6038974d371398bfff1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

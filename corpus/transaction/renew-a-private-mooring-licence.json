@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-private-mooring-licence",
+  "title": "Renew a private mooring licence",
+  "summary": "This page guides you through the process of renewing a private mooring licence.",
+  "topics": [
+    "mooring-licence",
+    "renew",
+    "boating",
+    "nsw"
+  ],
+  "intro": "Private mooring licences are renewable annually. You'll be sent a renewal notice before your licence expires.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your licence number",
+    "your renewal number (as shown on your renewal notice)",
+    "your customer reference number (as shown on your renewal)",
+    "concession card (if recording a concession for the first time)",
+    "your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your private mooring licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-commercial-mooring-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:41Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "fa3005ab7ba8167df25bb1b9b4676db2aa324345",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

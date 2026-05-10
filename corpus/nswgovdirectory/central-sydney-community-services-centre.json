@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/central-sydney-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/central-sydney-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "central-sydney-community-services-centre",
+  "title": "Central Sydney Community Services Centre",
+  "summary": "This page provides information about the Central Sydney Community Services Centre, which offers various community services.",
+  "topics": [
+    "community-services",
+    "central-sydney",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:05Z",
+    "last_modified": "20 March 2026",
+    "html_sha1": "b5435f6c10f4f1af686de6d16c762ffe477f366e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

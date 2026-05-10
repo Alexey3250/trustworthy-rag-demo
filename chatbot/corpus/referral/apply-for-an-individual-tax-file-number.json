@@ -1,0 +1,56 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-an-individual-tax-file-number",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-an-individual-tax-file-number",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-an-individual-tax-file-number",
+  "title": "Apply for an individual Tax File Number",
+  "summary": "This page provides information on how to apply for an individual Tax File Number (TFN) from the Australian Tax Office (ATO).",
+  "topics": [
+    "tax-file-number",
+    "apply-for-tfn",
+    "australian-tax-office",
+    "tax-obligation"
+  ],
+  "intro": "You can apply for an individual Tax File Number (TFN) from the Australian Tax Office (ATO). It’s not compulsory to hold a TFN, but it will help you to:\n\nTo complete your application, you may need to:\n\nIf you’re operating a business as a sole trader or individual, you can use your individual TFN. For other types of business structures, you’ll need to Apply for a business Tax File Number.\n\nVisit the Australian Tax Office website to learn more about applying for a TFN as an Australian resident, person living outside Australia, foreign passport holder, permanent migrant, or temporary visa holder.",
+  "who_can_apply": [
+    "Australian resident",
+    "person living outside Australia",
+    "foreign passport holder",
+    "permanent migrant",
+    "temporary visa holder"
+  ],
+  "what_you_need": [
+    "Individual TFN (if operating a business as a sole trader or individual)",
+    "Business Tax File Number (if operating a business with other structures)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "visit the ATO website",
+      "url": "https://www.ato.gov.au/Individuals/Tax-file-number/Apply-for-a-TFN/"
+    },
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a business Tax File Number",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-business-tax-file-number-tfn"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:13Z",
+    "last_modified": "29 July 2025",
+    "html_sha1": "856be06814567a777b4f61cf5fac349695d0c61a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

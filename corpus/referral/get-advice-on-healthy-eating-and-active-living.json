@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-advice-on-healthy-eating-and-active-living",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-advice-on-healthy-eating-and-active-living",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-advice-on-healthy-eating-and-active-living",
+  "title": "Get advice on healthy eating and active living",
+  "summary": "Visit the NSW Government's Healthy Eating Active Living website to get advice on improving your diet and increasing physical activity.",
+  "topics": [
+    "healthy-eating",
+    "active-living",
+    "nutrition",
+    "fitness"
+  ],
+  "intro": "Visit the NSW Government's Healthy Eating Active Living website to:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Free phone and online health coaching service – Get Healthy (NSW Health)",
+      "link": "https://www.gethealthynsw.com.au/"
+    },
+    {
+      "text": "Swimming lessons for multicultural communities, First Nations people and people in regional or disadvantaged areas – Learn to swim program",
+      "link": "https://www.sport.nsw.gov.au/learn-to-swim-program"
+    },
+    {
+      "text": "Information and resources for older people – Active and healthy",
+      "link": "https://www.activeandhealthy.nsw.gov.au/"
+    },
+    {
+      "text": "Health Literacy Hub",
+      "link": "https://www.service.nsw.gov.au/referral/health-literacy-hub"
+    },
+    {
+      "text": "Access virtual healthcare in NSW",
+      "link": "https://www.service.nsw.gov.au/referral/access-virtual-healthcare-in-nsw"
+    },
+    {
+      "text": "Mental wellbeing resources",
+      "link": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Healthy Eating Active Living website",
+      "url": "https://www.nsw.gov.au/health-and-wellbeing/healthy-living"
+    },
+    {
+      "text": "free programs and tools",
+      "url": "https://www.healthyliving.nsw.gov.au/Pages/programs-and-tools.aspx"
+    },
+    {
+      "text": "healthy habits quiz",
+      "url": "https://www.healthyliving.nsw.gov.au/quiz"
+    },
+    {
+      "text": "Get Healthy (NSW Health)",
+      "url": "https://www.gethealthynsw.com.au/"
+    },
+    {
+      "text": "Learn to swim program",
+      "url": "https://www.sport.nsw.gov.au/learn-to-swim-program"
+    },
+    {
+      "text": "Active and healthy",
+      "url": "https://www.activeandhealthy.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health Literacy Hub",
+      "url": "https://www.service.nsw.gov.au/referral/health-literacy-hub"
+    },
+    {
+      "text": "Access virtual healthcare in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/access-virtual-healthcare-in-nsw"
+    },
+    {
+      "text": "Mental wellbeing resources",
+      "url": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:01Z",
+    "last_modified": "1 August 2025",
+    "html_sha1": "717da087c25feb28cbdf9fa68ad00fd29aeed02f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

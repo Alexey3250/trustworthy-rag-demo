@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-an-asbestos-or-demolition-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-an-asbestos-or-demolition-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-an-asbestos-or-demolition-licence",
+  "title": "Check an asbestos or demolition licence",
+  "summary": "Check the licence details for an asbestos or demolition provider online, or search for your own licence number.",
+  "topics": [
+    "asbestos",
+    "demolition",
+    "licence",
+    "building-safety"
+  ],
+  "intro": "If you'd like to check an asbestos or demolition provider's licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "All about asbestos – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/asbestos"
+    },
+    {
+      "text": "Demolition: Building and construction – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/your-industry/construction/demolition"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:22Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "c8da037f14bf16d455963c8085c836146416d477",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

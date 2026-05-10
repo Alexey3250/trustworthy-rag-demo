@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-out-about-vehicle-registration-concessions-for-pensioners",
+  "title": "Find out about vehicle registration concessions for pensioners",
+  "summary": "Find out about vehicle registration concessions available for pensioners in NSW.",
+  "topics": [
+    "pensioner",
+    "vehicle-registration",
+    "concessions",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a NSW resident.",
+    "Must have an eligible pension from Services Australia or the Department of Veterans' Affairs (DVA)."
+  ],
+  "what_you_need": [
+    "To renew or transfer a vehicle registration.",
+    "To select 'Pensioner Concession' during the process."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "renew or transfer a vehicle registration and",
+      "link": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "n": 2,
+      "text": "select 'Pensioner Concession'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "registration fees",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "motor vehicle tax",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "conditional registration fees",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "HVIS inspection fees.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Registration concessions and automatic renewal for pensioners",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals"
+    },
+    {
+      "text": "online enquiry form",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "renew or transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "automatic rego renewal",
+      "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    },
+    {
+      "text": "check your registration details online",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "registration concession",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession"
+    },
+    {
+      "text": "seniors, carers and pensioners",
+      "url": "https://www.service.nsw.gov.au/services/seniors-carers-pensioners"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for vehicle registration concessions?",
+      "a": "You must be a NSW resident with an eligible pension from Services Australia or the Department of Veterans' Affairs (DVA).",
+      "link": null
+    },
+    {
+      "q": "How can I check my eligibility for concessions?",
+      "a": "To check your eligibility, visit Transport for NSW – Registration concessions and automatic renewal for pensioners.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals"
+    },
+    {
+      "q": "What steps do I take to renew or transfer a vehicle registration?",
+      "a": "You must renew or transfer a vehicle registration and select 'Pensioner Concession' during the process. The process involves registration fees, motor vehicle tax, conditional registration fees, and HVIS inspection fees.",
+      "link": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:56Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "6b5f82020f083ceaf2507a249e1d87ae5ef509d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

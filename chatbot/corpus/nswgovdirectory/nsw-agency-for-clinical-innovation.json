@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-agency-for-clinical-innovation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-agency-for-clinical-innovation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-agency-for-clinical-innovation",
+  "title": "Agency for Clinical Innovation, NSW",
+  "summary": "This page provides information about the Agency for Clinical Innovation, which supports clinical research and innovation in NSW.",
+  "topics": [
+    "clinical-research",
+    "health-innovation",
+    "nsw-agency",
+    "medical-science"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.aci.health.nsw.gov.au/",
+      "url": "https://www.aci.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f9df1eb3cf72b91197bd4991645dae6b7a430266",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

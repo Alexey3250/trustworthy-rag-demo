@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/western-sydney-parklands-trust",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/western-sydney-parklands-trust",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "western-sydney-parklands-trust",
+  "title": "Western Sydney Parklands Trust",
+  "summary": "This page provides information about the Western Sydney Parklands Trust.",
+  "topics": [
+    "parklands",
+    "western-sydney",
+    "trust",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.greatersydneyparklands.nsw.gov.au/visit/western-sydney-parklands",
+      "url": "https://www.greatersydneyparklands.nsw.gov.au/visit/western-sydney-parklands"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c5d8af0a920342f769c7e914e408f08128ad3b80",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/exporting",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/exporting",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "exporting",
+  "title": "How to unlock export opportunities and reach new markets",
+  "summary": "This page provides tips and insights for businesses looking to export their products and reach new international markets.",
+  "topics": [
+    "exporting",
+    "business-growth",
+    "international-trade",
+    "small-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian export restrictions",
+      "url": "https://export.business.gov.au/laws-and-regulations/australian-export-restrictions?industry=food_and_agribusiness&sector=seafood_and_aquaculture"
+    },
+    {
+      "text": "Going Global Export Program",
+      "url": "https://www.nsw.gov.au/business-and-economy/export-from-nsw/going-global-export-program"
+    },
+    {
+      "text": "booking a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=efsb"
+    },
+    {
+      "text": "Export from NSW – Investment NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/export-from-nsw"
+    },
+    {
+      "text": "Go Global Toolkit – Austrade",
+      "url": "https://export.business.gov.au/get-started-with-exporting/guide-to-exporting"
+    },
+    {
+      "text": "Grants and rebates – Investment NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/innovation/grants-and-programs"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Exporting for small business",
+      "url": "https://www.service.nsw.gov.au/business/exporting-for-small-businesses"
+    },
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about Australian export restrictions?",
+      "a": "You can find information about Australian export restrictions via the Australian government's export website.",
+      "link": "https://export.business.gov.au/laws-and-regulations/australian-export-restrictions?industry=food_and_agribusiness&sector=seafood_and_aquaculture"
+    },
+    {
+      "q": "What programs are available to help my business export from NSW?",
+      "a": "The Going Global Export Program and Export from NSW – Investment NSW offer support for businesses looking to export.",
+      "link": null
+    },
+    {
+      "q": "How can I get general advice on exporting for my small business?",
+      "a": "You can access resources like the Exporting for small business guide and the Go Global Toolkit from Austrade.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:26Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "170401e25aec8f782a444b3f1b5bb2ce5957bd77",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

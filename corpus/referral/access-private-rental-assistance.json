@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-private-rental-assistance",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-private-rental-assistance",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-private-rental-assistance",
+  "title": "Access private rental assistance",
+  "summary": "This page provides information about accessing private rental assistance in NSW.",
+  "topics": [
+    "rental-assistance",
+    "housing",
+    "nsw",
+    "private-renting"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Eligibility criteria vary, so you should check the specific requirements for the assistance you need."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Homes NSW website",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-assistance"
+    },
+    {
+      "text": "exceptions",
+      "url": "https://www.facs.nsw.gov.au/housing/policies/social-housing-eligibility-allocations-policy-supplement#ettprr"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Take a course on renting in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is private rental assistance?",
+      "a": "Private rental assistance is support for people who are renting privately in NSW.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for private rental assistance?",
+      "a": "Eligibility criteria vary, so you should check the specific requirements for the assistance you need.",
+      "link": "https://www.facs.nsw.gov.au/housing/policies/social-housing-eligibility-allocations-policy-supplement#ettprr"
+    },
+    {
+      "q": "Where can I find more information about housing support?",
+      "a": "You can find more information on the Homes NSW website.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-assistance"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:48Z",
+    "last_modified": "5 May 2025",
+    "html_sha1": "49e9526482948a5189ca5d716c3a684e80a3a3ee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

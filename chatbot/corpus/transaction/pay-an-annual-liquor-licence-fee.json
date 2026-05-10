@@ -1,0 +1,209 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-an-annual-liquor-licence-fee",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-an-annual-liquor-licence-fee",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-an-annual-liquor-licence-fee",
+  "title": "Pay an annual liquor licence fee",
+  "summary": "This page provides instructions and details on how to pay your annual liquor licence fee online, at a Service NSW Centre, or by phone.",
+  "topics": [
+    "liquor-licence",
+    "annual-fee",
+    "nsw-business",
+    "payment"
+  ],
+  "intro": "Annual liquor licence fees are calculated on 15 March each year using licence information held by the NSW Government on that date.\n\nYour fee notice will be sent to you by email and mail. If you haven't got your fee notice by late April 2026, call us on 1300 024 720.\n\nYou can pay your fee online or at a Service NSW Centre or by phone.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "MyServiceNSW account (if paying by the Liquor Licence Manager)",
+    "liquor licence number",
+    "payment reference number as detailed on your payment notice (if paying by the payment portal)",
+    "your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to the Liquor Licence Manager.",
+      "link": "https://mybusiness.service.nsw.gov.au/liquor-licence-manager/"
+    },
+    {
+      "n": 2,
+      "text": "Log in with your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Payments due'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'View'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select the licences you are paying for.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts to pay your liquor licence fee.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Go to the Payment portal.",
+      "link": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=b3302891-e990-4461-a047-23bdc24e0037&agencyID=b84f1f47-aa90-4255-93a8-00ab9110c6d6&IsEmpty=True"
+    },
+    {
+      "n": 8,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Enter your licence number and payment reference number.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Review the payment amount and select 'Proceed to payment'.",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "Select 'Pay now'.",
+      "link": null
+    },
+    {
+      "n": 14,
+      "text": "Find your nearest service centre and check payment methods accepted at that centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 15,
+      "text": "Bring your fee notice and make the payment in person.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "a base fee based on the licence type, plus",
+      "link": null
+    },
+    {
+      "text": "risk-based loadings (if applicable).",
+      "link": null
+    },
+    {
+      "text": "a trading hours risk loading",
+      "link": null
+    },
+    {
+      "text": "compliance risk loadings, including compliance history risk loading and patron capacity risk loading.",
+      "link": null
+    },
+    {
+      "text": "you're experiencing financial hardship – you may apply for a waiver of all or part of your annual fee",
+      "link": null
+    },
+    {
+      "text": "you believe there was an error in the calculation of your annual licence fee and you want to apply for a reassessment.",
+      "link": null
+    },
+    {
+      "text": "Annual liquor licence fees are calculated using a tiered fee structure:",
+      "link": null
+    },
+    {
+      "text": "Risk-based loadings only apply to some licences such as late trading venues, and venues that have committed serious liquor law offences. Risk-based loading fees include:",
+      "link": null
+    },
+    {
+      "text": "Visit Liquor & Gaming NSW if:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/annual-fees"
+    },
+    {
+      "text": "Liquor Licence Manager",
+      "url": "https://mybusiness.service.nsw.gov.au/liquor-licence-manager/"
+    },
+    {
+      "text": "Payment portal",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=b3302891-e990-4461-a047-23bdc24e0037&agencyID=b84f1f47-aa90-4255-93a8-00ab9110c6d6&IsEmpty=True"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Liquor licence fees – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the details on a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-liquor-licence"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When are annual liquor licence fees calculated?",
+      "a": "Annual liquor licence fees are calculated on 15 March each year using licence information held by the NSW Government on that date.",
+      "link": null
+    },
+    {
+      "q": "How will I receive my fee notice?",
+      "a": "Your fee notice will be sent to you by email and mail. If you haven't received it by late April 2026, call 1300 024 720.",
+      "link": null
+    },
+    {
+      "q": "What do I need to pay my liquor licence fee?",
+      "a": "You will need a MyServiceNSW account (if paying by the Liquor Licence Manager), your liquor licence number, a payment reference number (if paying by the payment portal), and your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:33Z",
+    "last_modified": "22 April 2026",
+    "html_sha1": "6029914e468464481cd990e462a7389eb2982f4a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

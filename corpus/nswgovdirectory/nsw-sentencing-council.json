@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-sentencing-council",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-sentencing-council",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-sentencing-council",
+  "title": "NSW Sentencing Council",
+  "summary": "This page provides information about the NSW Sentencing Council, which is an independent body that advises the NSW Government on sentencing matters.",
+  "topics": [
+    "sentencing",
+    "crime",
+    "justice",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://sentencingcouncil.nsw.gov.au/",
+      "url": "https://sentencingcouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Bureau of Crime Statistics and Research (BOCSAR), NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bureau-of-crime-statistics-and-research-bocsar-nsw"
+    },
+    {
+      "text": "Judicial Commission of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/judicial-commission-of-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Sentencing Council?",
+      "a": "The NSW Sentencing Council is an independent body that advises the NSW Government on sentencing matters.",
+      "link": null
+    },
+    {
+      "q": "What does the Sentencing Council do?",
+      "a": "It provides advice to the NSW Government on sentencing matters, including recommendations on sentencing practices and guidelines.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the Sentencing Council?",
+      "a": "You can find more information on the Sentencing Council's website.",
+      "link": "https://sentencingcouncil.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:10Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "898f634a1ddde17147f255264deed8b12d093839",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

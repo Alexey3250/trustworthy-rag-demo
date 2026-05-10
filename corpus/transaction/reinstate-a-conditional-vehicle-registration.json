@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/reinstate-a-conditional-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/reinstate-a-conditional-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "reinstate-a-conditional-vehicle-registration",
+  "title": "Reinstate a conditional vehicle registration",
+  "summary": "Find out what to do if your conditional vehicle registration is cancelled or has lapsed, and how to reinstate it.",
+  "topics": [
+    "vehicle-registration",
+    "conditional-registration",
+    "service-nsw",
+    "reinstate-registration"
+  ],
+  "intro": "If you've been told that your conditional registration will soon be (or has been) cancelled, and you believe this to be incorrect, you'll need to take the vehicle with the plate(s) attached, to a Service NSW Centre.\n\nIf the registration has lapsed, or was cancelled because the vehicle was sold, you'll need to apply for a new conditional registration.",
+  "who_can_apply": [
+    "You must take the vehicle with the plate(s) attached to a Service NSW Centre if you believe your conditional registration cancellation is incorrect.",
+    "You must apply for a new conditional registration if the existing registration has lapsed or was cancelled because the vehicle was sold."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your business details (if applicable)",
+    "The vehicle with the plates intact",
+    "Documents proving that the registration should be reinstated",
+    "The refund cheque if it was sent"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Conditional and seasonal registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal"
+    },
+    {
+      "text": "Vehicle sheets for conditional registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my conditional registration is cancelled?",
+      "a": "If you believe your conditional registration cancellation is incorrect, take the vehicle with the plate(s) attached to a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What if my registration has lapsed or the vehicle was sold?",
+      "a": "If the registration has lapsed, or was cancelled because the vehicle was sold, you will need to apply for a new conditional registration.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:14Z",
+    "last_modified": "20 April 2026",
+    "html_sha1": "c1ab829fd3006a503ad7b8952097f00cc020f6b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-charitable-fundraising-licence",
+  "title": "Check a charitable fundraising licence",
+  "summary": "Check if an organization is authorized to fundraise for charitable purposes in NSW, or search for your own charitable fundraising licence details online.",
+  "topics": [
+    "charitable-fundraising",
+    "nsw",
+    "licence-check",
+    "charity"
+  ],
+  "intro": "If you'd like to check if an organisation is authorised to fundraise for charitable purposes in NSW, or search for your own charitable fundraising licence and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode and local government area)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Authorised fundraisers in NSW must deal with complaints from members of the public or disputes with employees about fundraising activities. To resolve a dispute with a fundraiser, your first step should be to approach the fundraiser directly.\n\nTo submit a complaint or enquiry about charitable fundraising, contact NSW Fair Trading.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/financial-entities/charitable-fundraising"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who must deal with complaints about fundraising activities?",
+      "a": "Authorised fundraisers in NSW must deal with complaints from members of the public or disputes with employees about fundraising activities.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I have a dispute with a fundraiser?",
+      "a": "Your first step should be to approach the fundraiser directly.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit a complaint or enquiry about charitable fundraising?",
+      "a": "Contact NSW Fair Trading.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/financial-entities/charitable-fundraising"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:28Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "b8a539b10762010c8851db390eccca05dfa4b0bc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

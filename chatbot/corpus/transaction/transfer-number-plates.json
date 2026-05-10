@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-number-plates",
+  "title": "Transfer number plates",
+  "summary": "Learn how to apply to transfer or exchange number plates by visiting a Service NSW Centre.",
+  "topics": [
+    "number-plates",
+    "transfer",
+    "exchange",
+    "service-nsw"
+  ],
+  "intro": "Transferring number plates can refer to:\n\nA plate transfer does not transfer registration or change the registered operator of the vehicle.\n\nYou’ll need to visit a Service NSW Centre to apply to transfer or exchange number plates.\n\nNotes:",
+  "who_can_apply": [
+    "Must visit a Service NSW Centre to apply.",
+    "The plates must be eligible for exchange or transfer (confirm with Service NSW on 13 77 88)."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Exchange/Transfer Number Plates' (including details of both parties)",
+    "Proof of identity",
+    "Registration certificates for both vehicles (if possible)",
+    "A letter of authorisation from a company (if an employee and a company are swapping)",
+    "A letter of authorisation from each company (if two companies are swapping)",
+    "A copy of a court order or will (if the swap involves a deceased estate)",
+    "Payment for the service fee",
+    "Payment for any additional annual fee (calculated on a pro-rata basis)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your transfer or exchange request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "There may be some instances where plates are not eligible for exchange or transfer.\n\nContact Service NSW on 13 77 88 to confirm that your plates are eligible for exchange or transfer.",
+  "more_info": [
+    {
+      "text": "You do not own the number plates – they always remain the property of Transport for NSW.",
+      "link": null
+    },
+    {
+      "text": "Conditions apply if you want to transfer special number plates (SNPs), numeral-only, or personalised plates.",
+      "link": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "All rights and obligations of the SNPs agreement are transferred to the recipient of the SNPs. This may include the activation of an annual fee for personalised plates bought prior to September 2003 that do not currently attract an annual fee.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Exchange/Transfer Number Plates",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071552-exchange-transfer-number-plates.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "list of vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Conditions apply",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "myPlates",
+      "url": "https://www.myplates.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Replace or change number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    },
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does transferring number plates transfer the vehicle's registration?",
+      "a": "No, a plate transfer does not transfer registration or change the registered operator of the vehicle.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to transfer or exchange number plates?",
+      "a": "You must visit a Service NSW Centre to apply to transfer or exchange number plates.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What should I do if I am unsure if my plates are eligible for exchange or transfer?",
+      "a": "Contact Service NSW on 13 77 88 to confirm that your plates are eligible for exchange or transfer.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:47Z",
+    "last_modified": "23 November 2025",
+    "html_sha1": "389c1735c8202f8a322fba97d48e256f15038c32",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

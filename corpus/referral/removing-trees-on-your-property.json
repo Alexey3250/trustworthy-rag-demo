@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/removing-trees-on-your-property",
+  "source_url": "https://www.service.nsw.gov.au/referral/removing-trees-on-your-property",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "removing-trees-on-your-property",
+  "title": "Removing trees on your property",
+  "summary": "Find out the rules and guidelines for removing trees on your property in New South Wales.",
+  "topics": [
+    "tree-removal",
+    "property-maintenance",
+    "biodiversity",
+    "bushfire-safety"
+  ],
+  "intro": "The rules regarding tree removal differ from council to council, but the State Environmental Planning Policy (Biodiversity and Conservation) 2021 and Development Control Plans (DCPs) guide many of the decisions made.\n\nIf you live close to bushland or in an area that is prone to bushfires, check the 10/50 vegetation clearing entitlement area.\n\nIf your property is located in a designated area, the 10/50 Vegetation Clearing Scheme allows you to clear certain vegetation near your home without having to get approval from the local council or land services office.\n\nNote: If you have a NSW Planning Portal account you may be able to apply for a Private Tree Permit via the Portal. Check if your council receives Planning Portal applications, as not all do.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "seek advice from your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "check the 10/50 vegetation clearing entitlement area",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-10-50-vegetation-clearing-entitlement-area"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:40Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "42e1d831838a651124489d8de8c703175cd8e6d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

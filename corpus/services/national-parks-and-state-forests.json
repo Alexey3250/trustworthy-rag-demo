@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/national-parks-and-state-forests",
+  "source_url": "https://www.service.nsw.gov.au/services/national-parks-and-state-forests",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "national-parks-and-state-forests",
+  "title": "National Parks and State Forests",
+  "summary": "Find information and apply for permits related to visiting and enjoying NSW National Parks and State Forests.",
+  "topics": [
+    "national-parks",
+    "state-forests",
+    "camping",
+    "permits",
+    "outdoor-activities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Apply for a NSW game hunting licence",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/services/national-parks-annual-pass"
+    },
+    {
+      "text": "Find camping or accommodation in a NSW National Park",
+      "url": "https://www.service.nsw.gov.au/referral/find-camping-or-accommodation-in-a-nsw-national-park"
+    },
+    {
+      "text": "Visit a state forest in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/visit-a-state-forest-in-nsw"
+    },
+    {
+      "text": "Find nature walks and cycling trails in NSW National Parks",
+      "url": "https://www.service.nsw.gov.au/referral/find-nature-walks-and-cycling-trails-in-nsw-national-parks"
+    },
+    {
+      "text": "Apply for a state forest firewood permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit"
+    },
+    {
+      "text": "Riverina domestic firewood collection permit",
+      "url": "https://www.service.nsw.gov.au/referral/riverina-domestic-firewood-collection-permit"
+    },
+    {
+      "text": "Apply for a permit to fossick in a NSW state forest",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest"
+    },
+    {
+      "text": "Retrieve a fossicking permit",
+      "url": "https://www.service.nsw.gov.au/transaction/retrieve-a-fossicking-permit"
+    },
+    {
+      "text": "Apply for a NSW game hunting licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find camping or accommodation in a NSW National Park?",
+      "a": "You can find information on camping or accommodation in a NSW National Park.",
+      "link": "https://www.service.nsw.gov.au/referral/find-camping-or-accommodation-in-a-nsw-national-park"
+    },
+    {
+      "q": "Where can I find nature walks and cycling trails in NSW National Parks?",
+      "a": "You can find information about nature walks and cycling trails in NSW National Parks.",
+      "link": "https://www.service.nsw.gov.au/referral/find-nature-walks-and-cycling-trails-in-nsw-national-parks"
+    },
+    {
+      "q": "How do I apply for a state forest firewood permit?",
+      "a": "You can apply for a state forest firewood permit.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit"
+    },
+    {
+      "q": "What do I need to know about fossicking permits?",
+      "a": "You can apply for a permit to fossick in a NSW state forest or retrieve an existing fossicking permit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:33Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "23d345b24acf5382428a598b743fad33fe6b65b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

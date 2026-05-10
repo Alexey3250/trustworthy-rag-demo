@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/drug-court-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/drug-court-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "drug-court-of-nsw",
+  "title": "Drug Court of NSW",
+  "summary": "This page provides information about the Drug Court of NSW, including how to contact them and details about the program.",
+  "topics": [
+    "drug-court",
+    "nsw-justice",
+    "drug-program",
+    "legal-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://drugcourt.nsw.gov.au/",
+      "url": "https://drugcourt.nsw.gov.au/"
+    },
+    {
+      "text": "https://drugcourt.nsw.gov.au/contact-us.html",
+      "url": "https://drugcourt.nsw.gov.au/contact-us.html"
+    },
+    {
+      "text": "Contact a Drug Court.",
+      "url": "https://www.drugcourt.nsw.gov.au/contact-us.html"
+    },
+    {
+      "text": "who is eligible for the Drug Court program",
+      "url": "https://www.drugcourt.nsw.gov.au/drug-court/our-program/who-is-eligible.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I contact the Drug Court?",
+      "a": "You can contact the Drug Court using the provided contact information.",
+      "link": "https://drugcourt.nsw.gov.au/contact-us.html"
+    },
+    {
+      "q": "Who is eligible for the Drug Court program?",
+      "a": "Information regarding eligibility for the Drug Court program is available on the dedicated eligibility page.",
+      "link": "https://www.drugcourt.nsw.gov.au/drug-court/our-program/who-is-eligible.html"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6e76f6d1e1068ff92354c2f9c49d2f5193f49f90",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

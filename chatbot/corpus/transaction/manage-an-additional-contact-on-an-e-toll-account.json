@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-an-additional-contact-on-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-an-additional-contact-on-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-an-additional-contact-on-an-e-toll-account",
+  "title": "Manage an additional contact on an E-Toll Account",
+  "summary": "This page explains how to manage or change an additional contact on your Transport for NSW E-Toll Account.",
+  "topics": [
+    "e-toll-account",
+    "contact-details",
+    "service-nsw",
+    "transport-for-nsw"
+  ],
+  "intro": "To manage an additional contact on your Transport for NSW E-Toll Account, you need to call 13 18 65 or visit a Service NSW Centre.\n\nChanges you can make to an additional contact:",
+  "who_can_apply": [
+    "You must be the account holder."
+  ],
+  "what_you_need": [
+    "Your E-Toll Account details",
+    "Your email address",
+    "The additional contact person's details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "call 13 18 65 or",
+      "link": "tel:131865"
+    },
+    {
+      "n": 2,
+      "text": "visit a service centre with your supporting information.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Add another person to an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/add-another-person-to-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can manage an additional contact on an E-Toll Account?",
+      "a": "You must be the account holder. An additional contact cannot make the change.",
+      "link": null
+    },
+    {
+      "q": "What do I need to manage an additional contact?",
+      "a": "You need your E-Toll Account details, your email address, and the additional contact person's details.",
+      "link": null
+    },
+    {
+      "q": "How can I make changes to an additional contact?",
+      "a": "You can call 13 18 65 or visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:14Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "089a27d8b61c15c4d493b9474d82accf0b25525e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

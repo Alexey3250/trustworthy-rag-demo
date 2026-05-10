@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/comply-with-long-service-leave-requirements",
+  "source_url": "https://www.service.nsw.gov.au/referral/comply-with-long-service-leave-requirements",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "comply-with-long-service-leave-requirements",
+  "title": "Comply with long service leave requirements",
+  "summary": "This page provides information about complying with long service leave requirements for both workers and employers.",
+  "topics": [
+    "long-service-leave",
+    "employment-rights",
+    "workers",
+    "employers"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Workers",
+    "Employers"
+  ],
+  "what_you_need": [
+    "For workers, information is available through NSW Industrial online information.",
+    "For employers, you can use the online long service leave calculator.",
+    "Employers can download the NSW Industrial Relations Long Service Leave Guide."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help understanding how long leave service may apply to you or your business contact NSW Industrial Relations.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Go to NSW Industrial Relations FAQs on long service leave",
+      "url": "https://www.nsw.gov.au/employment/rights-responsibilities/leave/long-service-leave"
+    },
+    {
+      "text": "long service leave calculator",
+      "url": "https://www.nsw.gov.au/employment/rights-responsibilities/leave/long-service-leave/lsl-calculator"
+    },
+    {
+      "text": "Long Service Leave Guide",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2026-03/long-service-leave-guide-final-march26.pdf"
+    },
+    {
+      "text": "contact NSW Industrial Relations",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/premiers-department/nsw-industrial-relations/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Industrial Relations",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-industrial-relations"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find common questions about taking and getting paid for long service leave?",
+      "a": "You can find common questions about taking leave and getting paid through the NSW Industrial Relations FAQs on long service leave.",
+      "link": "https://www.nsw.gov.au/employment/rights-responsibilities/leave/long-service-leave"
+    },
+    {
+      "q": "How can I check my employee's long service leave entitlements?",
+      "a": "Use the online long service leave calculator to check your employees' entitlements.",
+      "link": "https://www.nsw.gov.au/employment/rights-responsibilities/leave/long-service-leave/lsl-calculator"
+    },
+    {
+      "q": "Who should I contact if I need help understanding long leave service?",
+      "a": "Contact NSW Industrial Relations if you need help understanding how long leave service may apply to you or your business.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/premiers-department/nsw-industrial-relations/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:17Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "c0a7d08fa45229520a4023fbc29f566e097872c9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

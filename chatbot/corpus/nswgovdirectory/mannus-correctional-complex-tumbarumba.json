@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/mannus-correctional-complex-tumbarumba",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/mannus-correctional-complex-tumbarumba",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "mannus-correctional-complex-tumbarumba",
+  "title": "Mannus Correctional Complex (Tumbarumba)",
+  "summary": "This page provides information about the Mannus Correctional Complex in Tumbarumba.",
+  "topics": [
+    "correctional-complex",
+    "mannus-correctional-complex",
+    "tumbarumba"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/mannus-correctional-complex-tumbarumba.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/mannus-correctional-complex-tumbarumba.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:53Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "69998a043dd38f5bc1e17199fc608f727ed39e31",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

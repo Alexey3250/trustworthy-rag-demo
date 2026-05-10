@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-motor-vehicle-repairer-licence",
+  "title": "Check a motor vehicle repairer licence",
+  "summary": "You can check a motor vehicle repairer licence or search for your own licence details online.",
+  "topics": [
+    "motor-vehicle-repairer",
+    "licence",
+    "nsw-service"
+  ],
+  "intro": "If you would like to check a motor vehicle repairer licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb or postcode)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Working as a motor vehicle repairer – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:46Z",
+    "last_modified": "2 September 2025",
+    "html_sha1": "91e41dde4464de0a04b487efe79ab70866079db0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

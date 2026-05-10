@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-your-energy-or-water-provider",
+  "source_url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-your-energy-or-water-provider",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "make-a-complaint-about-your-energy-or-water-provider",
+  "title": "Make a complaint about your energy or water provider",
+  "summary": "This page provides steps and resources for making a complaint about your energy or water provider.",
+  "topics": [
+    "energy",
+    "water",
+    "complaint",
+    "provider"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Customers who need to make a complaint about their energy or water provider."
+  ],
+  "what_you_need": [
+    "Contact details for your provider",
+    "A record of your complaint steps",
+    "Access to EWON's online complaint form",
+    "The phone number 1800 246 545"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "contact your provider",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "make a note of",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "use EWON's online form",
+      "link": "https://www.ewon.com.au/page/making-a-complaint/complaint-forms"
+    },
+    {
+      "n": 4,
+      "text": "call EWON on 1800 246 545.",
+      "link": "tel:1800246545"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "one of EWON's members",
+      "url": "https://www.ewon.com.au/page/suppliers/list-of-member-providers"
+    },
+    {
+      "text": "use EWON's online form",
+      "url": "https://www.ewon.com.au/page/making-a-complaint/complaint-forms"
+    },
+    {
+      "text": "Water Payment Assistance Scheme (PAS) vouchers",
+      "url": "https://www.ewon.com.au/page/customer-resources/help-paying-bills/pas-credits"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for Energy Accounts Payment Assistance (EAPA)",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "No Interest Loan Scheme (NILS)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the first step if I want to complain about my energy or water provider?",
+      "a": "You should first contact your provider directly.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit a complaint online?",
+      "a": "You can use EWON's online form to make a complaint.",
+      "link": "https://www.ewon.com.au/page/making-a-complaint/complaint-forms"
+    },
+    {
+      "q": "What is the phone number for EWON?",
+      "a": "You can call EWON on 1800 246 545.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:41Z",
+    "last_modified": "18 March 2025",
+    "html_sha1": "8d5fdb40f543f1217f9c10c8e26b18141bb3fd73",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-auslan-video-remote-interpreting-at-a-service-centre",
+  "title": "Book Auslan video remote interpreting at a service centre",
+  "summary": "Book an appointment to access free Auslan video remote interpreting services at a Service NSW centre.",
+  "topics": [
+    "auslan",
+    "interpreting",
+    "service-centre",
+    "accessibility"
+  ],
+  "intro": "Auslan video remote interpreting is available at all service centres, free of charge.\n\nVideo remote interpreting lets you see and talk to an Auslan interpreter through online video chat on a laptop in the service centre. The interpreter signs to you and can speak to the service centre staff.\n\nIf you'd like to use the service you can book an appointment online and avoid having to wait for an interpreter.\n\nNote: If you don’t use Auslan you can request an interpreter in your preferred language when you book. Another option is live captioning which is also available at all service centres, free of charge.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Book an appointment’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Choose your service centre.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Schedule your appointment – it's recommended to book before 11am or after 2pm.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter the required details.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Attend your appointment at the service centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "live captioning",
+      "url": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    },
+    {
+      "text": "Change or cancel a service centre booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-service-centre-booking"
+    },
+    {
+      "text": "Apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Auslan video remote interpreting free?",
+      "a": "Yes, Auslan video remote interpreting is available at all service centres, free of charge.",
+      "link": null
+    },
+    {
+      "q": "What if I don't need Auslan interpreting?",
+      "a": "If you don’t use Auslan, you can request an interpreter in your preferred language when you book. Live captioning is also available at all service centres, free of charge.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    },
+    {
+      "q": "How do I book an interpreter service?",
+      "a": "You can book an appointment online by selecting the ‘Book an appointment’ button, choosing your service centre, scheduling your appointment, and entering the required details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:15Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "668aa1cc4e88ec279496927c6ff40863cbc7aaea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

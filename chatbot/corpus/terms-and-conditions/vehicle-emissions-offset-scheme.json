@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/vehicle-emissions-offset-scheme",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/vehicle-emissions-offset-scheme",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "vehicle-emissions-offset-scheme",
+  "title": "Vehicle Emissions Offset Scheme – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions that apply to using the Vehicle Emissions Offset Scheme.",
+  "topics": [
+    "terms-and-conditions",
+    "vehicle-emissions",
+    "scheme-use",
+    "service-nsw"
+  ],
+  "intro": "These Terms and Conditions, together with the Privacy Statement published on the Service NSW website (\"Terms\"), set out the conditions that apply to your use of the Vehicle Emissions Offset Scheme (\"the Scheme\").\n\nBy using the Scheme, you agree to comply with these Terms together with all relevant guidelines, instructions and procedures from Service NSW and NSW Treasury (\"Instructions\"). Nothing in these Terms limits or qualifies your rights or obligations under any legislation, including legislation relating to motor vehicles, traffic, roads or road transport.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Vehicle Emissions Offset Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:26Z",
+    "last_modified": "15 March 2024",
+    "html_sha1": "8c16675453dce6f3a1106865a256c1b64be84c79",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

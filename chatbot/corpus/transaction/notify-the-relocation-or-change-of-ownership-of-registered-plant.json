@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-the-relocation-or-change-of-ownership-of-registered-plant",
+  "title": "Notify the relocation or change of ownership of registered plant",
+  "summary": "Learn the requirements and steps for notifying SafeWork NSW about a change in ownership or relocation of registered plant.",
+  "topics": [
+    "plant-registration",
+    "safe-work-nsw",
+    "change-of-ownership",
+    "relocation"
+  ],
+  "intro": "If the registration holder of an item of plant has changed, or a fixed item has been relocated, SafeWork NSW must be notified in writing within 14 days.\n\nIn the instance of a relocated item of plant, the item must have been inspected by a competent person and assessed as safe to operate.",
+  "who_can_apply": [
+    "The registration holder must advise of the changes.",
+    "If there is a change of ownership, either the new or the previous owner must advise."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Notification of relocation or change of ownership of registered plant'",
+    "The registration number of the plant",
+    "The expiry date of the registration",
+    "The working location of the plant",
+    "Details of the new owner (if applicable)",
+    "Details of the previous owner (if applicable)",
+    "A completed design engineer's statement for tower crane foundations – PDF (if relocating a tower crane to a worksite)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Email the form with any required supporting documentation using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "the relevant educational or vocational engineering qualifications, or",
+      "link": null
+    },
+    {
+      "text": "knowledge of the relevant technical standards.",
+      "link": null
+    },
+    {
+      "text": "A person is competent to inspect an item of plant if they have:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "statement for tower crane foundations – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0007/1069828/tower-crane-foundation-design-statement.pdf"
+    },
+    {
+      "text": "Notification of relocation or change of ownership of registered plant – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0010/92755/notification-of-relocation-or-change-of-ownership-of-registered-plant_SW08106-1120-392045.pdf"
+    },
+    {
+      "text": "Plant registrations – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Request a search of plant registration records",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records"
+    },
+    {
+      "text": "Replace a plant registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate"
+    },
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I notify SafeWork NSW of a change?",
+      "a": "If the registration holder has changed, or a fixed item has been relocated, SafeWork NSW must be notified in writing within 14 days.",
+      "link": null
+    },
+    {
+      "q": "What must happen if the plant is relocated?",
+      "a": "The relocated item of plant must have been inspected by a competent person and assessed as safe to operate.",
+      "link": null
+    },
+    {
+      "q": "Who needs to advise of these changes?",
+      "a": "The registration holder must advise of the changes. If there is a change of ownership, either the new or the previous owner must also be notified.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:36Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "39853b93740351c527bb6c5bd53f3d9a0a520c28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/appeal-a-licence-or-registration-decision-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/appeal-a-licence-or-registration-decision-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "appeal-a-licence-or-registration-decision-online",
+  "title": "Appeal a licence or registration decision online",
+  "summary": "Find out how to appeal a driver licence or vehicle registration decision online by filing with the Local Court.",
+  "topics": [
+    "appeal",
+    "driver-licence",
+    "vehicle-registration",
+    "local-court"
+  ],
+  "intro": "If you've had your driver licence suspended by police, or received a letter from Transport for NSW about a vehicle or licence decision, you may be eligible to appeal the decision.\n\nAll Transport for NSW licence and registration appeals must be filed to the Local Court within 28 days of receiving the letter.",
+  "who_can_apply": [
+    "Your licence was suspended by Police.",
+    "You received a letter from Transport for NSW about a driver licence or vehicle registration decision, and the letter states you have the right to appeal."
+  ],
+  "what_you_need": [
+    "Your address and email address.",
+    "Your suspension letter, including the date the letter or notice was issued.",
+    "Your driver licence number (if filing a licence appeal).",
+    "Your vehicle registration number (if filing a registration appeal).",
+    "A credit or debit card to pay the appropriate fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Register or log in to the NSW Online Registry.",
+      "link": "https://onlineregistry.lawlink.nsw.gov.au/jlink-eservices/eservices/orwUnsecRegistration.do"
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to submit your appeal.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Forms that require payment are not submitted to the Court until the payment has been made.",
+      "link": null
+    },
+    {
+      "text": "If you have been granted a fee waiver or postponement for a particular form, you'll need to file the form in person or by post.",
+      "link": "https://localcourt.nsw.gov.au/locations--lists-and-forms/cl-2.html"
+    },
+    {
+      "text": "For more information, visit the NSW Online Registry.",
+      "link": "https://onlineregistry.lawlink.nsw.gov.au/content/faq/licence-appeal"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Register",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/jlink-eservices/eservices/orwUnsecRegistration.do"
+    },
+    {
+      "text": "log in",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/welcome"
+    },
+    {
+      "text": "file the form in person or by post",
+      "url": "https://localcourt.nsw.gov.au/locations--lists-and-forms/cl-2.html"
+    },
+    {
+      "text": "NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/faq/licence-appeal"
+    },
+    {
+      "text": "NSW Online Registry – Courts and Tribunals",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/Landing.html"
+    },
+    {
+      "text": "Appeal your licence suspension – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about/my-car-or-a-driving-offence/losing-your-licence/appeal-the-suspension"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a good behaviour period",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period"
+    },
+    {
+      "text": "Request access to personal records held by Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw"
+    },
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to appeal a licence or registration decision?",
+      "a": "All appeals must be filed to the Local Court within 28 days of receiving the letter.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to appeal a licence or registration decision?",
+      "a": "You may appeal if your licence was suspended by Police, or if you received a letter from Transport for NSW about a licence or vehicle decision that states you have the right to appeal.",
+      "link": null
+    },
+    {
+      "q": "What do I need to appeal my licence or registration decision?",
+      "a": "You need your address and email address, your suspension letter (including the issue date), your driver licence number (for licence appeals), your vehicle registration number (for registration appeals), and a credit or debit card to pay the fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:34Z",
+    "last_modified": "25 November 2025",
+    "html_sha1": "9dfccf031d27bab3acce37963de4e6dcabb8f0ed",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

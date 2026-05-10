@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/toll-relief-weekly-cap",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "toll-relief-weekly-cap",
+  "title": "Toll relief $60 weekly cap – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for the Toll relief weekly cap, which helps reduce the cost of toll spending.",
+  "topics": [
+    "toll-relief",
+    "nsw-tolls",
+    "weekly-cap",
+    "service-terms"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be registered in NSW for private use.",
+    "Must have been charged as a Class A Vehicle and not as a Class B vehicle (unless the vehicle is a Business Vehicle).",
+    "Must not be a Business Vehicle.",
+    "Must be eligible for the scheme based on the specific dates: 2024 and 2025 (1 January to 31 December); 2026 (1 January to 1 December)."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account with SNSW.",
+    "Your toll account number from your toll service provider (E-Toll or Linkt).",
+    "One of the vehicle licence plate numbers listed on your toll account.",
+    "Your contact email address listed on your toll account."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Toll Relief Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/toll-relief-weekly-cap"
+    },
+    {
+      "text": "online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Claim the toll relief – $60 toll cap",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How is the toll relief calculated?",
+      "a": "On toll spend between $60 and $400 a week per tag and/or licence plate number, every dollar spent after $60 will be reimbursed up to a maximum of $340. For example, if you spend $65, you are reimbursed $5, and if you spend $400 or more, you are reimbursed a maximum of $340.",
+      "link": null
+    },
+    {
+      "q": "How often is the toll relief claimed?",
+      "a": "The relief is calculated once a quarter. Any quarterly rebates that are not claimed will continue to accrue until the Claim period closure.",
+      "link": null
+    },
+    {
+      "q": "What is the maximum amount that can be reimbursed?",
+      "a": "The maximum reimbursement is $340, which applies when the toll spend is $400 or more.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:18Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "ff1f1ffe7399b4835e647b94c9b11892fa74bf55",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

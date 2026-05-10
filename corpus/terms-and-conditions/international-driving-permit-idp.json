@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/international-driving-permit-idp",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/international-driving-permit-idp",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "international-driving-permit-idp",
+  "title": "International driving permit (IDP) – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for obtaining and using an International Driving Permit (IDP) from Service NSW.",
+  "topics": [
+    "international-driving-permit",
+    "terms-and-conditions",
+    "driving-permit"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The IDP is for use when driving outside of Australia."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/international-driving-permit-idp"
+    },
+    {
+      "text": "Contact Us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of the International Driving Permit (IDP)?",
+      "a": "The IDP is a document that helps you drive legally when you are outside of Australia.",
+      "link": null
+    },
+    {
+      "q": "Who is responsible for ensuring I drive legally?",
+      "a": "You are responsible for ensuring that you drive legally at all times, including having the correct documentation.",
+      "link": null
+    },
+    {
+      "q": "What happens if I misuse the IDP?",
+      "a": "Misuse of the IDP can lead to suspension or termination of the permit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:46Z",
+    "last_modified": "15 March 2024",
+    "html_sha1": "efea9c3dd0b8b306bebb3bda144a92b706c8b974",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

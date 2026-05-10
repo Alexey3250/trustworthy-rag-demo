@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-savings-finder-appointment",
+  "title": "Book a Savings Finder appointment",
+  "summary": "Book a free 45-minute appointment with a Savings Finder specialist to help find and apply for rebates, vouchers, and discounts.",
+  "topics": [
+    "savings-finder",
+    "appointment",
+    "rebates",
+    "discounts"
+  ],
+  "intro": "You can book a free 45-minute appointment with a Savings Finder specialist. They'll help you to find and apply for rebates, vouchers and discounts that you may be eligible for.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Book an appointment’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select one of the Savings Finder options from the list:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Choose a date and time for your appointment.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "At the appointment, the specialist may need to ask personal questions about your situation. This may include questions about your health, household assets and income.",
+      "link": null
+    },
+    {
+      "text": "You can choose how much information you'd like to share. You can opt-out of answering a question or stop the appointment at any time.",
+      "link": null
+    },
+    {
+      "text": "Our privacy statement explains how we manage your personal information.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Use the Savings Finder",
+      "url": "https://assistance.service.nsw.gov.au/savings-finder"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:11Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "306c1c0af493e2187c6a9bf23c81559741cecaf5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

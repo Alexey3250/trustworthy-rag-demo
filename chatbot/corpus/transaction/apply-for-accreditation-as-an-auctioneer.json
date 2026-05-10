@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-accreditation-as-an-auctioneer",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-accreditation-as-an-auctioneer",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-accreditation-as-an-auctioneer",
+  "title": "Apply for accreditation as an auctioneer",
+  "summary": "This page provides information on how to apply for accreditation as an auctioneer if you hold specific real estate or stock and station agent licences.",
+  "topics": [
+    "auctioneer-accreditation",
+    "real-estate-agent",
+    "licence-application",
+    "property-agent"
+  ],
+  "intro": "If you hold a real estate agent and/or a stock and station agent licence (Class 1 or Class 2), you may be able to apply for auctioneer accreditation.",
+  "who_can_apply": [
+    "Hold a real estate agent and/or stock and station agent licence (Class 1 or Class 2).",
+    "Have completed the appropriate units from the Certificate IV in Real Estate Practice (CPP41419) with a Registered Training Organisation (RTO), such as TAFE."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for accreditation as an auctioneer'.",
+    "Your licence number and expiry date.",
+    "Statement of attainment or evidence of your qualifications for the type of accreditation you're seeking.",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Lodge your application with payment at a Service NSW Centre, or email it to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "class 1 or class 2 agents who have a business agent restriction or an on-site residential property manager restriction as a condition of their licence",
+      "link": null
+    },
+    {
+      "text": "assistant real estate and stock and station agentsNote: Assistant stock and station agents can auction livestock if they are employed and directly supervised by a licensed stock and station agent.",
+      "link": null
+    },
+    {
+      "text": "The following agents are not eligible:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "appropriate units",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/real-estate-agent-licence#toc-qualification-and-training-requirements"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Application for accreditation as an auctioneer – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4506.pdf"
+    },
+    {
+      "text": "Individual Property Licence Application – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726.pdf"
+    },
+    {
+      "text": "Auctioneer licence accreditation – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent/auctions#toc-auctioneers"
+    },
+    {
+      "text": "Working as an agent in the real estate and property industry – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for auctioneer accreditation?",
+      "a": "You may be able to apply if you hold a real estate agent and/or a stock and station agent licence (Class 1 or Class 2), and have completed the appropriate units from the Certificate IV in Real Estate Practice (CPP41419) with a Registered Training Organisation (RTO), such as TAFE.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for auctioneer accreditation?",
+      "a": "First, check the eligibility requirements. Then, complete the 'Application for accreditation as an auctioneer' form, gather all required documentation, and lodge your application with payment at a Service NSW Centre, or email it using the details on the form.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You will need the 'Application for accreditation as an auctioneer' PDF form, your licence number and expiry date, a statement of attainment or evidence of your qualifications, and your payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:08Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "53ba4f41dc31f111789ec7d03bdf0f262bee81fc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-nsw-hospital-parking-services-and-directions",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-nsw-hospital-parking-services-and-directions",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-nsw-hospital-parking-services-and-directions",
+  "title": "Find NSW public hospital parking, services and directions",
+  "summary": "Use the online search tool to find information about NSW public hospital parking, services, directions, and concession details.",
+  "topics": [
+    "hospital-parking",
+    "nsw-health",
+    "directions",
+    "health-services"
+  ],
+  "intro": "Use the online search tool to find NSW public hospital parking, directions, concession information and services.\n\nYou can find hospital or health service information including:\n\nYou can also download the NSW Health Parking and Directions HosPark app to your phone.\n\nIf you have a health emergency, please call Triple Zero (000)",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Health",
+      "url": "https://www.health.nsw.gov.au/Pages/default.aspx"
+    },
+    {
+      "text": "Find a health service – Healthdirect",
+      "url": "https://www.healthdirect.gov.au/australian-health-services"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:53Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "aa963afd4ed197b868934e7e079585343c9124b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

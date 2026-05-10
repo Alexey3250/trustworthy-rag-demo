@@ -1,0 +1,160 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-an-unfair-dismissal-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-an-unfair-dismissal-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-an-unfair-dismissal-application",
+  "title": "Lodge an unfair dismissal application",
+  "summary": "Find out how to lodge an unfair dismissal application with the Fair Work Commission if you are an employee in the private sector in NSW.",
+  "topics": [
+    "unfair-dismissal",
+    "employment-law",
+    "nsw-workplace-rights",
+    "fair-work-commission"
+  ],
+  "intro": "If you're an employee within the private sector in NSW and you believe you've been unfairly dismissed, or were forced to resign because of something your employer did, you can lodge an application for reinstatement or compensation, with the Fair Work Commission.\n\nThis application, known as an unfair dismissal claim, must be lodged within 21 days of your employment finishing.",
+  "who_can_apply": [
+    "Be an employee within the private sector in NSW.",
+    "Be covered by the national workplace relations system.",
+    "Have been employed for at least 6 months in a large business or 12 months in a small business.",
+    "Be earning less than the high income threshold.",
+    "Note: NSW public sector and local government employees are covered by the NSW industrial relations system."
+  ],
+  "what_you_need": [
+    "Your representative's details (if applicable).",
+    "Details of the person or business (respondent) you are making the application about.",
+    "Your employment details.",
+    "Reasons the respondent gave for your dismissal (if applicable).",
+    "Reasons why you consider the dismissal unfair.",
+    "The outcome you are seeking."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Take the unfair dismissal quiz to confirm your eligibility.",
+      "link": "https://www.fwc.gov.au/unfair-dismissal-eligibility-quiz"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Sign the Disclosure of information page.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Decide on your method of payment, dependent on how you intend to lodge your application.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Lodge your application within 21 calendar days of your dismissal to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If the payment of the fee will cause you financial hardship, you can download and complete the Fee Waiver – PDF but note that your application will not be accepted until the fee has either been paid or waived.",
+      "link": "https://www.fwc.gov.au/documents/documents/forms/form_f80.pdf"
+    },
+    {
+      "text": "The Fair Work Commission sends a copy of your application form and any supporting documents you provide, except the Fee Waiver form, to the respondent.",
+      "link": null
+    },
+    {
+      "text": "Your dismissal may be considered unfair if:",
+      "link": null
+    },
+    {
+      "text": "The high income threshold is adjusted on 1 July annually. You can find the current threshold in the Unfair dismissals benchbook.",
+      "link": "https://www.fwc.gov.au/benchbook/unfair-dismissals-benchbook"
+    },
+    {
+      "text": "The Fair Work Commission cannot provide legal advice, but there are community legal centres (CLCs) available if you need assistance.",
+      "link": "https://www.clcnsw.org.au/legal-help-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "national workplace relations system",
+      "url": "https://www.fwc.gov.au/apply-or-lodge/who-australias-national-workplace-relations-system-covers"
+    },
+    {
+      "text": "NSW industrial relations",
+      "url": "https://irc.nsw.gov.au/awards-agreements-and-decisions/unfair-dismissals.html"
+    },
+    {
+      "text": "Take the unfair dismissal quiz",
+      "url": "https://www.fwc.gov.au/unfair-dismissal-eligibility-quiz"
+    },
+    {
+      "text": "Fee Waiver – PDF",
+      "url": "https://www.fwc.gov.au/documents/documents/forms/form_f80.pdf"
+    },
+    {
+      "text": "Unfair dismissals benchbook",
+      "url": "https://www.fwc.gov.au/benchbook/unfair-dismissals-benchbook"
+    },
+    {
+      "text": "community legal centres",
+      "url": "https://www.clcnsw.org.au/legal-help-nsw"
+    },
+    {
+      "text": "Form F2—Unfair dismissal application – PDF",
+      "url": "https://www.fwc.gov.au/documents/documents/forms/form_f2.pdf"
+    },
+    {
+      "text": "Unfair dismissal – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/job-loss-or-dismissal"
+    },
+    {
+      "text": "Unfair dismissal application fee – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/form/apply-unfair-dismissal-form-f2#the-application-fee"
+    },
+    {
+      "text": "Unfair dismissal: remedies – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/remedies"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge a general protections dismissal application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-protections-dismissal-application"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can lodge an unfair dismissal application?",
+      "a": "You must be an employee in the private sector in NSW, covered by the national workplace relations system, and meet specific employment criteria (e.g., 6 months in a large business or 12 months in a small business, and earning less than the high income threshold).",
+      "link": null
+    },
+    {
+      "q": "How long do I have to lodge the application?",
+      "a": "The application must be lodged within 21 days of your employment finishing.",
+      "link": null
+    },
+    {
+      "q": "Are NSW public sector employees covered?",
+      "a": "No, NSW public sector employees and local government employees are covered by the NSW industrial relations system.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:39Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "08fe52cc77dd8ba725252193eb9063da59ed89a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

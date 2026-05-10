@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-profile/licence-manager",
+  "source_url": "https://www.service.nsw.gov.au/business/business-profile/licence-manager",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "licence-manager",
+  "title": "Licence Manager",
+  "summary": "Licence Manager helps business owners organize and renew the business licenses required to comply with NSW Government regulations.",
+  "topics": [
+    "business-licences",
+    "nsw-government",
+    "business-owners",
+    "licence-renewal"
+  ],
+  "intro": "Licence Manager helps business owners organise and renew the business licences they need to comply with NSW Government regulations.\n\nWith Licence Manager, you can:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Log in",
+      "url": "https://mybusiness.service.nsw.gov.au/dashboard/licences"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:42Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "a75fec003b6b36bdecdbfff2ef96c33c3e1317e3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-motor-vehicle-tradesperson-certificate",
+  "title": "Renew a motor vehicle tradesperson certificate",
+  "summary": "This page explains how to renew your motor vehicle tradesperson certificate, which can be done online or at a Service NSW Centre.",
+  "topics": [
+    "motor-vehicle-tradesperson",
+    "certificate-renewal",
+    "service-nsw"
+  ],
+  "intro": "You'll receive a renewal notice for your motor vehicle tradesperson certificate a month prior to your certificate's expiry.\n\nYou can then apply for a 1, 3 or 5-year certificate, online.\n\nIn some instances, you'll need to visit a Service NSW Centre to renew your certificate.\n\nNote: If your certificate expires, you are no longer authorised to carry out the type of repair work outlined on your certificate.\n\nTo find your certificate number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "You can renew online if you have your renewal number and certificate number.",
+    "You may need to visit a Service NSW Centre if you do not have your renewal number, have changed your name, or cannot confirm the online declaration.",
+    "If your name, address, or other details change, you must inform Service NSW within 14 days."
+  ],
+  "what_you_need": [
+    "Renewal number (as shown on your renewal notice)",
+    "Certificate number",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your certificate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you did not renew on time but the licence is within 3 months from its expiry date you can apply to restore your certificate.",
+      "link": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "If your certificate has expired more than 3 months, you may need to apply for a new licence to be re-issued.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson/motor-vehicle-tradesperson-work-categories-qualification-requirements/certificate-fees"
+    },
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "restore your certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew my motor vehicle tradesperson certificate?",
+      "a": "You can apply for a 1, 3, or 5-year certificate online. You will receive a renewal notice one month before your certificate expires, or you may need to visit a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What happens if my certificate expires?",
+      "a": "If your certificate expires, you are no longer authorised to carry out the type of repair work outlined on your certificate.",
+      "link": null
+    },
+    {
+      "q": "Where can I find my certificate number and details?",
+      "a": "You can visit Verify NSW to find your certificate number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:11Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "903808446a08f85b263681f57baf09f4142db9f4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

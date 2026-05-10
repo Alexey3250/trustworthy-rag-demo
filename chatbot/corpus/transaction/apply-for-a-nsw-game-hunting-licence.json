@@ -1,0 +1,41 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-nsw-game-hunting-licence",
+  "title": "Apply for a NSW game hunting licence",
+  "summary": "This page provides information about the different types of NSW game hunting licences required to legally hunt in New South Wales.",
+  "topics": [
+    "nsw-game-hunting-licence",
+    "hunting-licence",
+    "nsw-wildlife"
+  ],
+  "intro": "If you want to legally hunt in NSW you need to hold the appropriate game hunting licence.\n\nYour licence will depend on:\n\nA NSW General game hunting licence allows you to hunt on private land only.\n\nA NSW Restricted game hunting licence allows you to hunt on public or private land.\n\nLicences can be of 1, 2, 3, 4 or 5 years' duration.\n\nNote: The Department of Primary Industries (DPI) provides:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW General game hunting licence",
+      "url": "https://www.dpi.nsw.gov.au/hunting/hunting-licences/general"
+    },
+    {
+      "text": "NSW Restricted game hunting licence",
+      "url": "https://www.dpi.nsw.gov.au/hunting/hunting-licences/restricted"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:23Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "b5aba6863527bd0474b7fca5e0d674af82294c31",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

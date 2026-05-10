@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-australian-botanic-garden-mount-annan",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/the-australian-botanic-garden-mount-annan",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "the-australian-botanic-garden-mount-annan",
+  "title": "The Australian Botanic Garden, Mount Annan",
+  "summary": "This page provides information about the Australian Botanic Garden in Mount Annan.",
+  "topics": [
+    "botanic-garden",
+    "mount-annan",
+    "australian-botanic-garden"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.botanicgardens.org.au/australian-botanic-garden-mount-annan",
+      "url": "https://www.botanicgardens.org.au/australian-botanic-garden-mount-annan"
+    },
+    {
+      "text": "https://www.botanicgardens.org.au/australian-botanic-garden-mount-annan/plan-your-visit",
+      "url": "https://www.botanicgardens.org.au/australian-botanic-garden-mount-annan/plan-your-visit"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Royal Botanic Gardens and Domain Trust, The",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:00Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "22ac94972c677f83e8c9e1c297aebf87a045546a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

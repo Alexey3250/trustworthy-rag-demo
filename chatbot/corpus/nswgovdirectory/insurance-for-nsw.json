@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/insurance-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/insurance-for-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "insurance-for-nsw",
+  "title": "Insurance for NSW",
+  "summary": "This page provides information about various insurance services and government agencies related to insurance in NSW.",
+  "topics": [
+    "insurance",
+    "nsw",
+    "icare",
+    "government-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/government-agencies/about-insurance-for-nsw",
+      "url": "https://www.icare.nsw.gov.au/government-agencies/about-insurance-for-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "dd2a69129c1eb92f2a26e61c4986d7d030313afd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

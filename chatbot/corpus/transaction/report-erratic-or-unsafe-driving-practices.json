@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-erratic-or-unsafe-driving-practices",
+  "title": "Report erratic or unsafe driving practices",
+  "summary": "Learn how to submit a confidential report about erratic or unsafe driving practices.",
+  "topics": [
+    "driving-safety",
+    "unsafe-driving",
+    "driver-licence",
+    "nsw-transport"
+  ],
+  "intro": "If you’re worried about a person's medical fitness or ability to drive safely, you can share your concerns by submitting an unsafe driving report. Any information you provide in the report is confidential.\n\nTransport for NSW has information about how health conditions can affect your licence and safe driving in NSW.\n\nThere is also a useful guide for older driver licensing.\n\nNote: If you've witnessed dangerous driving and the driver is unknown to you, call the Police Assistance Line on 131 444.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A completed unsafe driving report form.",
+    "Visiting a service centre to submit the report."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your report.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "information about how health conditions",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/fitness-to-drive"
+    },
+    {
+      "text": "guide for older driver licensing",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-09/older-drivers-guide.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change conditions on a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence"
+    },
+    {
+      "text": "Apply for a modified driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I witness dangerous driving and the driver is unknown to me?",
+      "a": "Call the Police Assistance Line on 131 444.",
+      "link": null
+    },
+    {
+      "q": "Is the information I provide in the report confidential?",
+      "a": "Yes, any information you provide in the report is confidential.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about how health conditions affect driving?",
+      "a": "You can find information about how health conditions can affect your licence and safe driving in NSW.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/fitness-to-drive"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:45Z",
+    "last_modified": "27 August 2025",
+    "html_sha1": "d687cf529fb4b9033dc552f63df5bfbe2c5f654f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

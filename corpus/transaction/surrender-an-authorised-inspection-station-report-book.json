@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-an-authorised-inspection-station-report-book",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-an-authorised-inspection-station-report-book",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-an-authorised-inspection-station-report-book",
+  "title": "Surrender an Authorised Inspection Station report book",
+  "summary": "This page explains that you must return any unused Authorised Inspection Station report books to a Service NSW Centre.",
+  "topics": [
+    "inspection-station",
+    "report-book",
+    "authorisation",
+    "service-nsw"
+  ],
+  "intro": "Inspection report books issued through the Authorised Inspection Scheme (AIS) remain the property of Transport for NSW.\n\nYou must return any report books that are no longer needed (due to the closure, suspension, cancellation or temporary inactivity of your inspection station) to a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "the Authorised Inspection Station's name, address and identification number",
+    "copies of all electronic inspection reports that were issued in the last 12 months",
+    "the inspection report book(s)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "All about the Authorised Inspection Scheme (AIS)",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors-1"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:31Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "37191fee86bb740b5c5a69fc21e4ef8cc981e77d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

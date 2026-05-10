@@ -1,0 +1,52 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/covid-19-help",
+  "source_url": "https://www.service.nsw.gov.au/referral/covid-19-help",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "covid-19-help",
+  "title": "COVID-19 help",
+  "summary": "This page provides general information and links regarding COVID-19 vaccinations and updates from Australian and NSW governments.",
+  "topics": [
+    "covid-19",
+    "vaccination",
+    "health-information",
+    "nsw-government"
+  ],
+  "intro": "COVID-19 vaccinations are free for everyone in Australia, including people without a Medicare card.\n\nInformation about COVID-19 is available from the Australian and NSW governments, including:",
+  "who_can_apply": [
+    "COVID-19 vaccinations are free for everyone in Australia, including people without a Medicare card."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "COVID-19 vaccine advice and recommendations",
+      "url": "https://www.health.gov.au/our-work/covid-19-vaccines/getting-your-vaccination"
+    },
+    {
+      "text": "Find a COVID-19 vaccine clinic",
+      "url": "https://www.healthdirect.gov.au/australian-health-services/guided-search/covid-vaccine"
+    },
+    {
+      "text": "NSW Government COVID-19 updates",
+      "url": "https://www.nsw.gov.au/health-and-wellbeing/covid-19"
+    },
+    {
+      "text": "Long COVID",
+      "url": "https://www.nsw.gov.au/health/covid-19/testing-managing/long-covid"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:46Z",
+    "last_modified": "3 February 2025",
+    "html_sha1": "e041e6fead255290603009b119d13726d6d19366",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

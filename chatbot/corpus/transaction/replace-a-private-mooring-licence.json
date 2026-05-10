@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-private-mooring-licence",
+  "title": "Replace a private mooring licence",
+  "summary": "You can order a replacement for a lost, damaged, or destroyed private mooring licence in person at a Service NSW Centre.",
+  "topics": [
+    "mooring-licence",
+    "service-nsw",
+    "replacement-licence",
+    "boating"
+  ],
+  "intro": "If your private mooring licence is lost, damaged or destroyed, you can order a replacement in person at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Application for Replacement Products'",
+    "Proof of identity",
+    "Private mooring details (if available)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Application for Maritime Replacement Products – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072012-application-maritime-replacement-products.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:17Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "89273d1d893c5225471b730e2f4001f1ec159771",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

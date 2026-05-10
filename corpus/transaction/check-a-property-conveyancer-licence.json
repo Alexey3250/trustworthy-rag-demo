@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-property-conveyancer-licence",
+  "title": "Check a property conveyancer licence",
+  "summary": "You can check a property conveyancer's licence or search for your own licence details online.",
+  "topics": [
+    "property-conveyancer-licence",
+    "licence-check",
+    "nsw-property"
+  ],
+  "intro": "If you'd like to check a property conveyancer's licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Conveyancing for property buyers and sellers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a real estate agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:30Z",
+    "last_modified": "28 January 2026",
+    "html_sha1": "f81515e9e276450a171efae5dde7bea6e4dc1798",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

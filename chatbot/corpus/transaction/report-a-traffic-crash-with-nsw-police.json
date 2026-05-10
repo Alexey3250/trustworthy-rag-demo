@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-traffic-crash-with-nsw-police",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-traffic-crash-with-nsw-police",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-traffic-crash-with-nsw-police",
+  "title": "Report a traffic crash with NSW Police",
+  "summary": "This page provides information on when and how to report a traffic crash to NSW Police.",
+  "topics": [
+    "traffic-crash",
+    "nsw-police",
+    "report-crash",
+    "road-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The situation is not an emergency or life threatening.",
+    "You are no longer at the scene of the crash.",
+    "No persons were seriously injured or killed.",
+    "All drivers, riders, and owners have exchanged particulars.",
+    "You require a NSW Police Event number for insurance purposes."
+  ],
+  "what_you_need": [
+    "Your email address to receive a verification code."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have any questions call the Police Assistance Line on 131444 (24 hours, 7 days).",
+  "more_info": [
+    {
+      "text": "What to do at a road crash",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/warnings-and-hazards/crashes"
+    },
+    {
+      "text": "Crash reporting FAQs (this page also has information on major traffic crashes)",
+      "link": "https://www.police.nsw.gov.au/safety_and_prevention/crime_prevention/road_safety/crash_reporting_faqs"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Call Triple Zero (000)",
+      "url": "https://www.triplezero.gov.au/"
+    },
+    {
+      "text": "What to do at a road crash",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/warnings-and-hazards/crashes"
+    },
+    {
+      "text": "Crash reporting FAQs",
+      "url": "https://www.police.nsw.gov.au/safety_and_prevention/crime_prevention/road_safety/crash_reporting_faqs"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "When should I call Triple Zero?",
+      "a": "Call Triple Zero if the incident is happening now, you are still at the scene, a driver or owner left without exchanging details, a driver appears under the influence, the suspect is still at the scene, or anyone is seriously injured or in immediate danger.",
+      "link": "https://www.triplezero.gov.au/"
+    },
+    {
+      "q": "When can I report a minor traffic crash online?",
+      "a": "You can report a minor crash online if it is not an emergency, you are no longer at the scene, no one was seriously injured or killed, all parties exchanged details, and you require a NSW Police Event number for insurance.",
+      "link": null
+    },
+    {
+      "q": "Who should I call if I have questions about reporting a crash?",
+      "a": "Call the Police Assistance Line on 131444, which is available 24 hours a day, 7 days a week.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:40Z",
+    "last_modified": "13 April 2026",
+    "html_sha1": "22cb5fc6aba47924ee30dcab9087931b42f364df",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

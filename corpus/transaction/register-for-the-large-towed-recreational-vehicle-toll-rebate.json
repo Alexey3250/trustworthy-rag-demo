@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-the-large-towed-recreational-vehicle-toll-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-the-large-towed-recreational-vehicle-toll-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-the-large-towed-recreational-vehicle-toll-rebate",
+  "title": "Register for the Large Towed Recreational Vehicle Toll Rebate",
+  "summary": "Register for the Large Towed Recreational Vehicle Toll Rebate if you tow a large recreational vehicle on Sydney toll roads.",
+  "topics": [
+    "toll-rebate",
+    "recreational-vehicle",
+    "towing",
+    "sydney-toll-roads"
+  ],
+  "intro": "The rebate applies to most Sydney toll roads. It does not apply to the Sydney Harbour Bridge or the Sydney Harbour Tunnel.\n\nThe scheme also applies to the NorthConnex and the WestConnex M5 East/M8.\n\nThe rebate is capped at 8 tolled trips per monthly billing period. You must claim your rebate within 12 months after you receive your toll statement.\n\nYou can register for the rebate via your toll tag provider. If you have an E-Toll account you can register online here.",
+  "who_can_apply": [
+    "Must be a NSW resident.",
+    "Must tow a caravan, boat trailer, or horse float.",
+    "The combined length of the car and towed vehicle must be more than 12.5m, or the combined height must be more than 2.8m.",
+    "Both the car and the towed vehicle must be registered in NSW for private, pensioner, or charitable use.",
+    "The rebate is not available for motorhomes registered as Class B or Casual Pass toll road trips."
+  ],
+  "what_you_need": [
+    "Your E-Toll account number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to register for the rebate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Large Towed Recreational Vehicle Toll Rebate FAQs – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/large-towed-recreational-vehicle-toll-rebate"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Claim the Large Towed Recreational Vehicle Toll Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-large-towed-recreational-vehicle-toll-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which toll roads does the rebate apply to?",
+      "a": "The rebate applies to most Sydney toll roads, including NorthConnex and WestConnex M5 East/M8. It does not apply to the Sydney Harbour Bridge or the Sydney Harbour Tunnel.",
+      "link": null
+    },
+    {
+      "q": "What is the rebate cap and claim period?",
+      "a": "The rebate is capped at 8 tolled trips per monthly billing period. You must claim your rebate within 12 months after you receive your toll statement.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for the rebate?",
+      "a": "You must be a NSW resident and tow a caravan, boat trailer, or horse float where the combined length is more than 12.5m or the combined height is more than 2.8m. The car and towed vehicle must both be registered in NSW for private, pensioner, or charitable use.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:39Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "e52212c690e42d6c7b4edaff20e94660e80e8c0e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

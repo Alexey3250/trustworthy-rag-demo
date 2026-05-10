@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-pest-management-technician-or-fumigator-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-pest-management-technician-or-fumigator-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-pest-management-technician-or-fumigator-licence",
+  "title": "Renew a pest management technician or fumigator licence",
+  "summary": "Learn how to renew a pest management technician or fumigator licence, which is regulated by the NSW Environment Protection Authority (EPA).",
+  "topics": [
+    "pest-management",
+    "fumigator-licence",
+    "epa-licence",
+    "pesticides"
+  ],
+  "intro": "The NSW Environment Protection Authority (EPA) regulates the proper use of pesticides.\n\nIf you hold a current licence, you'll receive a reminder notice and a renewal form from the EPA before the expiry date.\n\nYou must apply for a new licence within 60 days of the expiry date.",
+  "who_can_apply": [
+    "Must hold a current licence for a pest management technician or fumigator."
+  ],
+  "what_you_need": [
+    "A current licence (to receive a reminder notice and renewal form from the EPA before expiry).",
+    "Access to eConnect EPA for online renewal or replacement card application.",
+    "Current licence fees (listed on the EPA web page Pest management technicians, fumigators and training permits)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You can renew your licence online using eConnect EPA.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Note: If your pesticide licence identification card has been lost, damaged, destroyed or stolen, you'll need to apply for a replacement card through eConnect EPA.",
+      "link": null
+    }
+  ],
+  "fees": "You'll find current licence fees listed on the EPA web page Pest management technicians, fumigators and training permits.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "eConnect EPA",
+      "url": "https://www.epa.nsw.gov.au/licensing-and-regulation/licensing/econnect-epa#pesticides"
+    },
+    {
+      "text": "Pest management technicians, fumigators and training permits",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Pesticides/Licences-and-advice-for-occupational-pesticide-users/pest-management-technicians-fumigators-training-permits"
+    },
+    {
+      "text": "Find an EPA office in NSW",
+      "url": "https://www.epa.nsw.gov.au/about-us/contact-us/locations"
+    },
+    {
+      "text": "Licences and advice for occupational pesticide users – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/pesticides/licences-and-advice-for-occupational-pesticide-users"
+    },
+    {
+      "text": "Guide to Licensing – EPA",
+      "url": "https://www.epa.nsw.gov.au/licensing-and-regulation/licensing/environment-protection-licences/guide-to-licensing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to replace a pesticide licence identification card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-replace-a-pesticide-licence-identification-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew my licence?",
+      "a": "You can renew your licence online using eConnect EPA.",
+      "link": "https://www.epa.nsw.gov.au/licensing-and-regulation/licensing/econnect-epa#pesticides"
+    },
+    {
+      "q": "What happens if my licence expires?",
+      "a": "You must apply for a new licence within 60 days of the expiry date.",
+      "link": null
+    },
+    {
+      "q": "What if my licence identification card is lost or damaged?",
+      "a": "If your pesticide licence identification card has been lost, damaged, destroyed or stolen, you will need to apply for a replacement card through eConnect EPA.",
+      "link": "https://www.epa.nsw.gov.au/licensing-and-regulation/licensing/econnect-epa#pesticides"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:40Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "432e6dcc3f562822cecd50f2a885540217119869",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

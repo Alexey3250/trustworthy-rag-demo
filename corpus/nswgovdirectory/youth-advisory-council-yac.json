@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-advisory-council-yac",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-advisory-council-yac",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "youth-advisory-council-yac",
+  "title": "Youth Advisory Council (YAC)",
+  "summary": "This page provides information about the Youth Advisory Council (YAC), which is a group that advises on youth issues.",
+  "topics": [
+    "youth-advisory-council",
+    "yac",
+    "community-engagement",
+    "youth-issues"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.acyp.nsw.gov.au/engage/youth-advisory-council-yac",
+      "url": "https://www.acyp.nsw.gov.au/engage/youth-advisory-council-yac"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "354e3f4d82774752e73aed63e2f4f9baa01f0d48",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

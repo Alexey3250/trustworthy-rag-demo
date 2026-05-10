@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/investment-delivery-authority-ida",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/investment-delivery-authority-ida",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "investment-delivery-authority-ida",
+  "title": "Investment Delivery Authority (IDA)",
+  "summary": "This page provides information about the Investment Delivery Authority (IDA), which is a government body focused on investment and economic development in NSW.",
+  "topics": [
+    "investment",
+    "economic-development",
+    "nsw-government",
+    "business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/investment-nsw/investment-delivery-authority",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/investment-nsw/investment-delivery-authority"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:29Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6353f5fe2238a276a4f7eac2c8f7c78c409ccc27",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

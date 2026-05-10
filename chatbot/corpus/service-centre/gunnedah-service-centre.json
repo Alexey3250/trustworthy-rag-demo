@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/gunnedah-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/gunnedah-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "gunnedah-service-centre",
+  "title": "Gunnedah Service Centre",
+  "summary": "This page provides information about the Gunnedah Service Centre, including payment options, accessibility features, and nearby locations.",
+  "topics": [
+    "service-centre",
+    "gunnedah",
+    "accessibility",
+    "payment-options",
+    "local-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-30.983481,150.261654"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Tamworth Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tamworth-service-centre"
+    },
+    {
+      "text": "Quirindi Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/quirindi-agency"
+    },
+    {
+      "text": "Barraba Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/barraba-agency"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Gunnedah Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "Is the Gunnedah Service Centre accessible for people with disabilities?",
+      "a": "Yes, the centre offers hearing loop, quiet hour, wheelchair access, entry at street level, on-site parking, street parking, and two mobility car parks on site. On-site disability parking is less than 50m from the entrance.",
+      "link": null
+    },
+    {
+      "q": "Where can I find other Service NSW locations near Gunnedah?",
+      "a": "Nearby locations include the Tamworth Service Centre, Quirindi Agency, and Barraba Agency.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:11Z",
+    "last_modified": null,
+    "html_sha1": "5cb3cdb1b5a2f5f74cbb869aa62f0e7e93d89d97",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

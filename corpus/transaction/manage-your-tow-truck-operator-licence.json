@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-operator-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-operator-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-tow-truck-operator-licence",
+  "title": "Manage your tow truck operator licence",
+  "summary": "This page provides information on how to manage, renew, replace, or update your tow truck operator licence.",
+  "topics": [
+    "tow-truck-operator-licence",
+    "renewing-licence",
+    "replacing-licence",
+    "updating-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "For replacement: Complete the PDF form (Application for Replacement Tow Truck Operators Licence).",
+    "For replacement: Provide a photocopy of the current driver licence of the operator licence representative (both sides).",
+    "For replacement: Make the replacement payment by credit card or PayPal using the payment portal and entering the receipt number on the replacement form."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Tow truck operator licence renewal application – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59821.pdf"
+    },
+    {
+      "text": "Application for Replacement Tow Truck Operators Licence",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59812.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-licensing-fees"
+    },
+    {
+      "text": "payment portal",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Driving or operating a tow truck in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-operator-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew my tow truck operator licence?",
+      "a": "Information on renewing your licence is available on this page.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do if I need to replace my licence?",
+      "a": "You must complete the PDF form (Application for Replacement Tow Truck Operators Licence), provide a photocopy of the current driver licence of the operator licence representative (both sides), and make the replacement payment via credit card or PayPal.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59812.pdf"
+    },
+    {
+      "q": "How can I update my details for my licence?",
+      "a": "You can email your details to towtrucks@customerservice.nsw.gov.au or post them to NSW Fair Trading, PO Box 972, Parramatta NSW 2124.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:51Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "7ea440d4f41efb59f5287876d585d2dc1fb04b43",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

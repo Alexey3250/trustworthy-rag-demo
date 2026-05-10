@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-terms-and-conditions",
+  "category": "manage-your-fines-myservicensw-account-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "manage-your-fines-myservicensw-account-terms-and-conditions",
+  "title": "Manage your fines with a MyServiceNSW Account – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for managing fines using a MyServiceNSW Account.",
+  "topics": [
+    "fines",
+    "my-service-nsw",
+    "account-management",
+    "terms-and-conditions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Fines Act 1996",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1996-099"
+    },
+    {
+      "text": "Crimes Act 1900",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:43Z",
+    "last_modified": "16 January 2025",
+    "html_sha1": "64fb762a6053ffe5c2db6b5347de6c60431dbabe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/manage-and-grow/mental-health-support",
+  "source_url": "https://www.service.nsw.gov.au/business/manage-and-grow/mental-health-support",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "mental-health-support",
+  "title": "Mental health support",
+  "summary": "Find resources and support for improving mental health and wellbeing in the workplace.",
+  "topics": [
+    "mental-health",
+    "workplace-wellbeing",
+    "small-business",
+    "support-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Bureau",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Support for women in business",
+      "link": "https://www.service.nsw.gov.au/business/support-for-women-in-business"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "link": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Lifeline Australia",
+      "url": "https://www.lifeline.org.au"
+    },
+    {
+      "text": "Beyond Blue",
+      "url": "https://www.beyondblue.org.au/"
+    },
+    {
+      "text": "NSW Mental Health Line",
+      "url": "https://www.health.nsw.gov.au/mentalhealth/Pages/mental-health-line.aspx"
+    },
+    {
+      "text": "Mensline Australia",
+      "url": "https://mensline.org.au/"
+    },
+    {
+      "text": "13YARN",
+      "url": "https://www.13yarn.org.au/"
+    },
+    {
+      "text": "TTY (106)",
+      "url": "https://www.triplezero.gov.au/triple-zero/other-emergency-numbers"
+    },
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "SafeWork NSW’s mental health at work program",
+      "url": "https://www.nsw.gov.au/mental-health-at-work"
+    },
+    {
+      "text": "Beyond Blue's work and mental health online portal",
+      "url": "https://www.beyondblue.org.au/mental-health/work-and-mental-health"
+    },
+    {
+      "text": "Ahead for Business",
+      "url": "https://aheadforbusiness.org.au/"
+    },
+    {
+      "text": "Small Business Guides to Mentally Healthy Workplaces",
+      "url": "https://aheadforbusiness.org.au/resources/small-business-guides-to-mentally-healthy-workplaces"
+    },
+    {
+      "text": "Australian Small Business and Family Enterprise Ombudsman",
+      "url": "https://www.asbfeo.gov.au/resources-tools-centre/mental-health"
+    },
+    {
+      "text": "NewAccess for Small Business Owners",
+      "url": "https://www.beyondblue.org.au/get-support/newaccess-mental-health-coaching/small-business-owners"
+    },
+    {
+      "text": "Rural Financial Counselling Service",
+      "url": "https://www.rfcsnsw.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Support for women in business",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find resources for improving mental health at work?",
+      "a": "You can find resources through guides like 'Small Business Guides: Mentally Healthy Workplaces' and programs such as SafeWork NSW’s mental health at work program.",
+      "link": "https://www.nsw.gov.au/mental-health-at-work"
+    },
+    {
+      "q": "What support is available for small business owners?",
+      "a": "Support is available through programs like NewAccess for Small Business Owners, Beyond Blue's work and mental health online portal, and the Rural Financial Counselling Service.",
+      "link": null
+    },
+    {
+      "q": "What free mental health support is available?",
+      "a": "Resources include free mental health training and up to 4 hours of one-on-one coaching.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:58Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "157752b5d3480085539ecee10fcc633700dc3dcb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

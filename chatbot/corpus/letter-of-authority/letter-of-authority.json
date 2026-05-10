@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/letter-of-authority",
+  "source_url": "https://www.service.nsw.gov.au/letter-of-authority",
+  "category": "letter-of-authority",
+  "article_kind": "content",
+  "slug": "letter-of-authority",
+  "title": "Letter of authority",
+  "summary": "This page provides access to generic templates for a letter of authority.",
+  "topics": [
+    "letter-of-authority",
+    "template",
+    "accountant",
+    "seniors-card"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Accountant letter templates",
+      "link": "https://www.service.nsw.gov.au/accountants-letter"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy collection notices for our transactions and services.",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Letter of authority – generic template",
+      "url": "https://www.service.nsw.gov.au/letter-of-authority/generic-template"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/letter-of-authority/nsw-seniors-card-program"
+    },
+    {
+      "text": "Accountant letter templates",
+      "url": "https://www.service.nsw.gov.au/accountants-letter"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:39Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "0ebdbd0cb6c6db50dd0b52dcbbb5950e1571d3df",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

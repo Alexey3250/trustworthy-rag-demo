@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches",
+  "source_url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "using-waterways-and-beaches",
+  "title": "Using waterways and beaches",
+  "summary": "Find information and services related to using NSW waterways and beaches.",
+  "topics": [
+    "beaches",
+    "waterways",
+    "boating",
+    "marine-safety",
+    "coastal-activities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Live web-cam vision of NSW coastal bars",
+      "url": "https://www.service.nsw.gov.au/referral/live-web-cam-vision-of-nsw-coastal-bars"
+    },
+    {
+      "text": "Submit vessel incident reports",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-vessel-incident-reports"
+    },
+    {
+      "text": "Dispose of expired marine flares",
+      "url": "https://www.service.nsw.gov.au/referral/dispose-of-expired-marine-flares"
+    },
+    {
+      "text": "Download the Marine Rescue NSW app",
+      "url": "https://www.service.nsw.gov.au/referral/download-the-marine-rescue-nsw-app"
+    },
+    {
+      "text": "Find Sydney Harbour boating destinations",
+      "url": "https://www.service.nsw.gov.au/referral/sydney-harbour-boating-map"
+    },
+    {
+      "text": "Order NSW boating and coastal maps",
+      "url": "https://www.service.nsw.gov.au/transaction/order-nsw-boating-and-coastal-maps"
+    },
+    {
+      "text": "Apply for refund on a maritime product or service",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-refund-on-a-maritime-product-or-service"
+    },
+    {
+      "text": "Change your pensioner or concession details on maritime products",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-pensioner-or-concession-details-on-maritime-products"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:33Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4dd6c20ee31691705c87b0ac73f97a1e2f6e73d6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/limited-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/limited-liquor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "limited-liquor-licence",
+  "title": "Limited liquor licence",
+  "summary": "Find information and apply for a limited liquor licence for various functions, including single functions, multiple functions, special events, and trade fairs.",
+  "topics": [
+    "liquor-licence",
+    "alcohol",
+    "event-licence",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a limited liquor licence – single function",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-single-function"
+    },
+    {
+      "text": "Apply for a limited liquor licence – multiple functions",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-multiple-functions"
+    },
+    {
+      "text": "Apply for a limited liquor licence – special event",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-special-event"
+    },
+    {
+      "text": "Apply for a limited liquor licence – trade fair",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-trade-fair"
+    },
+    {
+      "text": "Check a limited liquor licence (single or multi-function)",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Submit a limited liquor licence functions notification",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-limited-liquor-licence-functions-notification"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a limited liquor licence?",
+      "a": "You can apply for a limited liquor licence depending on the type of function you are holding. Options include single functions, multiple functions, special events, and trade fairs.",
+      "link": null
+    },
+    {
+      "q": "What if I need to check an existing licence?",
+      "a": "You can check a limited liquor licence (single or multi-function) using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "q": "Do I need to notify the functions I will be running?",
+      "a": "Yes, you can submit a limited liquor licence functions notification.",
+      "link": "https://www.service.nsw.gov.au/transaction/submit-a-limited-liquor-licence-functions-notification"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "186a5eaedede559eb9b4473623204f6ab4f130d7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

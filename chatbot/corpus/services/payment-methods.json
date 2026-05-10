@@ -1,0 +1,144 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/payment-methods",
+  "source_url": "https://www.service.nsw.gov.au/services/payment-methods",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "payment-methods",
+  "title": "Payment methods",
+  "summary": "This page provides information on various payment methods and services for paying fees like vehicle registration, stamp duty, and liquor licenses.",
+  "topics": [
+    "payment-methods",
+    "vehicle-registration",
+    "stamp-duty",
+    "fees",
+    "liquor-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Credit or debit card (Mastercard, Visa, American Express, or UnionPay)",
+    "PayPal account",
+    "BPAY details (for vehicle registration renewal)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "changes to merchant fees",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/merchant-fees"
+    },
+    {
+      "text": "Mobile Service Centres",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "Eastgardens Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/eastgardens-service-centre"
+    },
+    {
+      "text": "Edmondson Park Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/edmondson-park-service-centre"
+    },
+    {
+      "text": "Engadine Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/engadine-service-centre"
+    },
+    {
+      "text": "Glenmore Park Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/glenmore-park-service-centre"
+    },
+    {
+      "text": "Macquarie Fields Driver Testing Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/macquarie-fields-driver-testing-centre"
+    },
+    {
+      "text": "Merrylands Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/merrylands-service-centre"
+    },
+    {
+      "text": "North Rocks Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/north-rocks-service-centre"
+    },
+    {
+      "text": "North Sydney Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/north-sydney-service-centre"
+    },
+    {
+      "text": "Roselands Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/roselands-service-centre"
+    },
+    {
+      "text": "St Marys (driver) Testing Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/st-marys-driver-testing-centre"
+    },
+    {
+      "text": "Tallawong Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tallawong-service-centre"
+    },
+    {
+      "text": "Woy Woy Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/woy-woy-service-centre"
+    },
+    {
+      "text": "renew your vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "using BPAY to renew a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "Land tax and stamp duty",
+      "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "text": "Motor vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "Stamp duty on the sale of land or businesses in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw"
+    },
+    {
+      "text": "Pay a toll trip",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Learn more about the payment options for this fee",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-annual-liquor-licence-fee"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted?",
+      "a": "You can pay using credit or debit cards (Mastercard, Visa, American Express, or UnionPay), PayPal, or by using BPAY for vehicle registration renewal.",
+      "link": null
+    },
+    {
+      "q": "Where can I pay fees using cash?",
+      "a": "Cash is not accepted at Mobile Service Centres, Eastgardens Service Centre, Edmondson Park Service Centre, Engadine Service Centre, Glenmore Park Service Centre, Macquarie Fields Driver Testing Centre, Merrylands Service Centre, and North Rocks Service Centre.",
+      "link": null
+    },
+    {
+      "q": "How do I pay for vehicle registration renewal?",
+      "a": "You can pay for vehicle registration renewal by choosing BPAY as your payment type, which will generate a BPAY Biller Code and Reference Number.",
+      "link": null
+    },
+    {
+      "q": "What fees can I pay on this page?",
+      "a": "You can pay for land tax and stamp duty, motor vehicle stamp duty, stamp duty on the sale of land or businesses in NSW, toll notices, and annual liquor licence fees.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:28Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "bd27e90eca0c2191ac786c6960e73d8d4f34aadb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

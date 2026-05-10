@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-viiu-inspection-written-vehicle",
+  "title": "Book a VIIU inspection for a written-off light vehicle",
+  "summary": "This page outlines the process for written-off light vehicles to undergo a VIIU inspection before they can be re-registered in NSW.",
+  "topics": [
+    "written-off-vehicles",
+    "viiu-inspection",
+    "vehicle-registration",
+    "nsw-service"
+  ],
+  "intro": "Once NSW written-off light vehicles have been repaired, certified by a licensed repairer and inspected under the Authorised Unregistered Vehicle Inspection Scheme (AUVIS), they must then undergo a Vehicle Identity & Inspections Unit (VIIU) inspection before they can be re-registered.\n\nNote: Interstate written-off light vehicles must have been re-registered in another state or territory following the write-off event, before they can be registered in NSW.",
+  "who_can_apply": [
+    "The vehicle must be a written-off light vehicle that has been repaired and certified by a licensed repairer.",
+    "The vehicle must undergo a VIIU inspection before re-registration."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Vehicle registration details",
+    "An AUVIS report (commonly known as a 'blue slip'), including identity, design, and safety checks",
+    "The PDF form: 'Application for Registration'",
+    "Payment for the required fees",
+    "An Authorisation to Repair from TfNSW",
+    "A Certificate of Compliance issued by a licensed repairer",
+    "Original detailed receipts for all repairs carried out on the vehicle",
+    "For NSW written-off light vehicles: The required documentation listed above."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a Service NSW Centre with your payment and the required documentation.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "Arrange a time for the VIIU inspection (metropolitan areas) or the VIIU will contact you to arrange a time (regional areas).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The VIIU carries out inspections of vehicles to confirm their identity.",
+      "link": null
+    },
+    {
+      "text": "If you've been given authorisation by Transport for NSW to repair a written-off vehicle, the VIIU will carry out the final inspection of the vehicle, prior to your applying for registration.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#archive"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/safety-check-and-inspection-fees#toc-vehicle-identity--inspections-unit-viiu"
+    },
+    {
+      "text": "Form 1009: Application for Registration",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    },
+    {
+      "text": "Vehicle safety check and inspection fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply to re-register a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    },
+    {
+      "text": "Cancel the registration on a written-off vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must happen after a written-off light vehicle is repaired?",
+      "a": "After being repaired and certified by a licensed repairer, the vehicle must undergo a VIIU inspection before it can be re-registered.",
+      "link": null
+    },
+    {
+      "q": "Do interstate written-off vehicles need special steps?",
+      "a": "Yes, interstate written-off light vehicles must have been re-registered in another state or territory following the write-off event before they can be registered in NSW.",
+      "link": null
+    },
+    {
+      "q": "Where can I arrange the VIIU inspection?",
+      "a": "In metropolitan areas, you should arrange a time for the VIIU inspection. In regional areas, the VIIU will contact you to arrange a time.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:29Z",
+    "last_modified": "17 October 2024",
+    "html_sha1": "903935b509635dbfb4cdf2cc0eb57d6f736e6742",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

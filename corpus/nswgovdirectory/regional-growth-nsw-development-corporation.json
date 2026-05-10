@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/regional-growth-nsw-development-corporation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/regional-growth-nsw-development-corporation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "regional-growth-nsw-development-corporation",
+  "title": "Regional Growth NSW Development Corporation",
+  "summary": "This page provides information about the Regional Growth NSW Development Corporation.",
+  "topics": [
+    "regional-development",
+    "nsw-government",
+    "nsw-corporation",
+    "business-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/rgdc",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/rgdc"
+    },
+    {
+      "text": "Submit an Expression of Interest",
+      "url": "https://www.rgdc.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8934ae09aba61580f8d36f10454108c4fe45e4eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

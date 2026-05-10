@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/voucher-profile",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/voucher-profile",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "voucher-profile",
+  "title": "Voucher profile – Privacy Collection Notice",
+  "summary": "This page explains the voluntary Voucher profile feature in a MyServiceNSW Account, which helps check a child's eligibility for available vouchers.",
+  "topics": [
+    "my-service-nsw",
+    "voucher-profile",
+    "child-eligibility",
+    "personal-information"
+  ],
+  "intro": "The Voucher profile is a voluntary feature in a MyServiceNSW Account.\n\nOnce a Voucher profile is created it can be used to help check a child’s eligibility for any vouchers that are made available through a MyServiceNSW Account.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "name",
+    "date of birth",
+    "Medicare card details (card number, individual reference number, full name, and card type)",
+    "Name of the educational institution the child/ren are enrolled in for 2023 or beyond",
+    "Primary residential address"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Voucher profile?",
+      "a": "The Voucher profile is a voluntary feature within a MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "q": "How is the Voucher profile used?",
+      "a": "It can be used to help check a child’s eligibility for any vouchers made available through a MyServiceNSW Account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:21Z",
+    "last_modified": "8 February 2024",
+    "html_sha1": "21f44236e543d7220778f8fce68de61c30f72395",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

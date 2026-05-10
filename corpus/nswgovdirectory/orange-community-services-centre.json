@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/orange-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/orange-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "orange-community-services-centre",
+  "title": "Orange Community Services Centre",
+  "summary": "This page provides information about the Orange Community Services Centre, which offers various community support services.",
+  "topics": [
+    "community-services",
+    "support-centre",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:44Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "f9e0379576181b68cfe7e560493693a2a9750c21",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

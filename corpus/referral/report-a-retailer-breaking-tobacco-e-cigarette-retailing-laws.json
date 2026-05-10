@@ -1,0 +1,41 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-retailer-breaking-tobacco-e-cigarette-retailing-laws",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-retailer-breaking-tobacco-e-cigarette-retailing-laws",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-retailer-breaking-tobacco-e-cigarette-retailing-laws",
+  "title": "Report a retailer breaking tobacco/e-cigarette retailing laws",
+  "summary": "This page provides information on how to report a retailer in NSW that is breaking tobacco or e-cigarette retailing laws.",
+  "topics": [
+    "tobacco",
+    "e-cigarette",
+    "retailer",
+    "nsw-laws",
+    "reporting"
+  ],
+  "intro": "Tobacco retailing laws regulate the packaging, advertising, display and sale of tobacco products, non-tobacco smoking products and e-cigarettes and accessories in NSW.\n\nIf you think a tobacco or e-cigarette retailing law has been broken by a retailer in NSW, you can report it.\n\nYou will need to provide the details of where the law was broken, including the:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Details of where the law was broken"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "the NSW Health portal",
+      "url": "https://reportsmokingvaping.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:20Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "c0d49332782150a451b0ae7289ea8b38d1e3775a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

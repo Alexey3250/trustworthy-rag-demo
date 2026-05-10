@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-the-washing-machine-exchange-program",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-the-washing-machine-exchange-program",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-the-washing-machine-exchange-program",
+  "title": "Apply for the washing machine exchange program",
+  "summary": "Find out if you are eligible and how to apply for the washing machine exchange program, which helps low-income households upgrade to an energy-efficient front-loading washing machine.",
+  "topics": [
+    "washing-machine",
+    "energy-efficiency",
+    "low-income",
+    "nsw-residency"
+  ],
+  "intro": "The subsidy is helping low-income households to upgrade an inefficient top-loading washing machine with a water and energy efficient front-loading model.",
+  "who_can_apply": [
+    "Be a resident of NSW",
+    "Be more than 18 years old",
+    "Hold a valid card from Centrelink or Department of Veteran Affairs",
+    "Have an existing top-loading washing machine to exchange",
+    "Not have participated in the washing machine exchange program in 2022 or 2025"
+  ],
+  "what_you_need": [
+    "An existing top-loading washing machine to exchange"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "### Help with your online application or delivery\n\nFor information and contact details go to the Washing Machine Exchange Program.\n\n### Information about the program\n\nIf you have questions about the washing machine exchange program:",
+  "more_info": [
+    {
+      "text": "the offer and application process",
+      "link": null
+    },
+    {
+      "text": "delivery and installation and removal of your old machine",
+      "link": null
+    },
+    {
+      "text": "terms and conditions.",
+      "link": null
+    },
+    {
+      "text": "Visit the NSW Government’s Washing Machine Exchange Program for more about:",
+      "link": null
+    },
+    {
+      "text": "For the latest information on the washing machine exchange program subscribe to email updates.",
+      "link": null
+    },
+    {
+      "text": "Note: Subscribing gives you email updates. It is not an application for a washing machine. You will still need to apply.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "subscribe to email updates",
+      "url": "https://watergroup.dpie.nsw.gov.au/washing-machine-exchange-program"
+    },
+    {
+      "text": "Washing Machine Exchange Program",
+      "url": "https://www.water.dcceew.nsw.gov.au/our-work/projects-and-programs/water-efficiency-program/washing-machine-exchange-program"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for the washing machine exchange program?",
+      "a": "To be eligible, you must be a resident of NSW, over 18, hold a valid Centrelink or Department of Veteran Affairs card, have an existing top-loading washing machine to exchange, and not have participated in the program in 2022 or 2025.",
+      "link": null
+    },
+    {
+      "q": "Is a Commonwealth Seniors Health Card enough to apply?",
+      "a": "No, a Commonwealth Seniors Health Card is not sufficient for this offer.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the program?",
+      "a": "For questions about the washing machine exchange program, you can visit the Washing Machine Exchange Program page.",
+      "link": "https://www.water.dcceew.nsw.gov.au/our-work/projects-and-programs/water-efficiency-program/washing-machine-exchange-program"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:10Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "7a311f0d8f5d4e63ed3cc1df431cda354881cfc3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/paying-super-contributions-using-superstream",
+  "source_url": "https://www.service.nsw.gov.au/transaction/paying-super-contributions-using-superstream",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "paying-super-contributions-using-superstream",
+  "title": "Paying super contributions using SuperStream",
+  "summary": "This page explains SuperStream, the required method for employers to pay super contributions and send associated information to super funds.",
+  "topics": [
+    "super-contributions",
+    "employers",
+    "superstream",
+    "paying-super"
+  ],
+  "intro": "SuperStream is the way all employers are required to pay contributions and send information to super funds.\n\nWith SuperStream, you pay the super contributions for your employees via electronic funds transfer or BPAY® and send the associated data electronically. The data is in a standard format so it can be transmitted consistently between employers, super funds, service providers and the ATO. It's linked to the payment by a unique payment reference number.\n\nThe SuperStream system means:\n\nMore information is available on the Australian Taxation Office website:",
+  "who_can_apply": [
+    "Employers who are required to pay contributions and send information to super funds."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "About SuperStream",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-electronically-through-superstream"
+    },
+    {
+      "text": "How it works",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-super-contributions/how-to-pay-super/superstream-for-employers"
+    },
+    {
+      "text": "Checklist for Employers",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers/super-obligations-for-employers-checklist"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:09Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "602732db20242575d73a0016a683819cf99167d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

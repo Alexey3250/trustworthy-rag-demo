@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/kempsey-community-corrections-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/kempsey-community-corrections-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "kempsey-community-corrections-office",
+  "title": "Kempsey Community Corrections Office",
+  "summary": "This page provides information about the Kempsey Community Corrections Office.",
+  "topics": [
+    "community-corrections",
+    "probation",
+    "parole",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/community-corrections.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/community-corrections.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Community Corrections Offices (Probation and Parole)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/community-corrections-offices-probation-and-parole"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:09Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "94b7e3cceafbdd43ae6ec84a6b5db8747a30bc83",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

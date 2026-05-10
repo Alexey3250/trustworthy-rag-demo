@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-accreditation-registered-surveyor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-accreditation-registered-surveyor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-letter-of-accreditation-registered-surveyor",
+  "title": "Apply for a Letter of Accreditation (registered surveyor)",
+  "summary": "Land or mining surveyors registered in NSW can apply to the Board of Surveying and Spatial Information (BOSSI) for a letter of accreditation to practice in another jurisdiction.",
+  "topics": [
+    "surveyor-registration",
+    "letter-of-accreditation",
+    "nsw-surveying",
+    "professional-licence"
+  ],
+  "intro": "Land or mining surveyors registered in NSW can apply to practise in another jurisdiction by applying to the Board of Surveying and Spatial Information (BOSSI) for a letter of accreditation.\n\nIf approved, BOSSI will email a copy of the letter to the applicant who can then apply to their nominated surveying Board or equivalent surveying body.",
+  "who_can_apply": [
+    "Holders of current surveyor registration with BOSSI."
+  ],
+  "what_you_need": [
+    "MyServiceNSW Account or OneGov account",
+    "Surveyor licence or registration number",
+    "Name of the jurisdiction you want to practice in",
+    "Credit or debit card to pay the application fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Next' button on the application screen.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account, or log in using your OneGov credentials.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to apply for a letter of accreditation.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "application fee",
+      "url": "https://www.bossi.nsw.gov.au/__data/assets/pdf_file/0011/232697/BOSSI_Fees_Schedule_2024-2025.pdf"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "Board of Surveying and Spatial Information (BOSSI)",
+      "url": "https://www.bossi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew your surveyor registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    },
+    {
+      "text": "Update your registered surveyor contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a letter of accreditation?",
+      "a": "If approved, BOSSI will email a copy of the letter to the applicant, who can then use it to apply to their nominated surveying Board or equivalent surveying body.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for this letter of accreditation?",
+      "a": "Holders of current surveyor registration with BOSSI.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply?",
+      "a": "You need a MyServiceNSW Account or OneGov account, your surveyor licence or registration number, the name of the jurisdiction you want to practice in, and a credit or debit card to pay the application fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:27Z",
+    "last_modified": "8 January 2025",
+    "html_sha1": "3f73339620b89637d0f898ca9ff10eb685091bc1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

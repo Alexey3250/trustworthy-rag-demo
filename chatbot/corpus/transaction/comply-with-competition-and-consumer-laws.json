@@ -1,0 +1,52 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/comply-with-competition-and-consumer-laws",
+  "source_url": "https://www.service.nsw.gov.au/transaction/comply-with-competition-and-consumer-laws",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "comply-with-competition-and-consumer-laws",
+  "title": "Comply with competition and consumer laws",
+  "summary": "Learn about your rights and obligations as a small business operator under national competition and consumer laws.",
+  "topics": [
+    "business-law",
+    "consumer-rights",
+    "competition-law",
+    "small-business"
+  ],
+  "intro": "As a small business operator it's important you're familiar with your rights and obligations under the law.\n\nThe Competition and Consumer Act 2010 (CCA) is a national law. It sets out how businesses must deal with:\n\nThe CCA also covers aspects of business such as advertising and price setting.\n\nThe Australian Consumer Law (ACL) forms part of the CCA. The ACL relates to the treatment of consumers. Businesses that provide goods or services to customers in Australia must comply with automatic consumer guarantees. Manufacturers and importers must also follow certain consumer guarantees.\n\nThe national government agency that promotes and enforces compliance with the CCA is the Australian Competition and Consumer Commission (ACCC).\n\nVisit the NSW Fair Trading website for more information on:",
+  "who_can_apply": [
+    "small business operators"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "rights",
+      "url": "https://www.accc.gov.au/business/business-operations-and-costs"
+    },
+    {
+      "text": "Australian Competition and Consumer Commission (ACCC)",
+      "url": "https://www.accc.gov.au"
+    },
+    {
+      "text": "Australian Consumer Law",
+      "url": "https://consumer.gov.au/"
+    },
+    {
+      "text": "Compliance and enforcement priorities – ACCC",
+      "url": "https://www.accc.gov.au/about-us/accc-priorities/compliance-and-enforcement-priorities"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:03Z",
+    "last_modified": "20 February 2026",
+    "html_sha1": "52200951b12da8ee2fbd780c9637dd3391fef2be",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

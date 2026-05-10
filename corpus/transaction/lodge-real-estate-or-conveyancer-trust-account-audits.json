@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-real-estate-or-conveyancer-trust-account-audits",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-real-estate-or-conveyancer-trust-account-audits",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-real-estate-or-conveyancer-trust-account-audits",
+  "title": "Lodge real estate or conveyancer trust account audits",
+  "summary": "This page explains the process for lodging real estate or conveyancer trust account audits with NSW Fair Trading.",
+  "topics": [
+    "real-estate",
+    "conveyancer",
+    "trust-account",
+    "audit",
+    "nsw-fair-trading"
+  ],
+  "intro": "All results of real estate and conveyancer trust account audits must be lodged with NSW Fair Trading by a registered auditor, via the Auditor's Report Online portal.\n\nAuditors must be qualified under:\n\nIf a licensed real estate corporation or an individual licensee has not held any trust money during the audit period, refer to NSW Fair Trading's Trust accounts and audit requirements for the current procedure, as it may vary from year to year.\n\nIf a licensed conveyancer corporation or an individual licensee has not held any trust money during the audit period, a prescribed declaration form must be lodged by the licensee.\n\nNote: It is the licensee's responsibility to ensure the auditor lodges the report by the due date.\n\nFor more information visit:",
+  "who_can_apply": [
+    "Licensed real estate corporation or individual licensee",
+    "Licensed conveyancer corporation or individual licensee"
+  ],
+  "what_you_need": [
+    "Registered auditor",
+    "Auditor's Report Online portal",
+    "Prescribed declaration form (for conveyancers who did not hold trust money)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "registered",
+      "url": "https://www.asic.gov.au/online-services/search-asic-registers/"
+    },
+    {
+      "text": "Trust accounts and audit requirements",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/supervising-an-agency/real-estate-trust-accounts-and-audit-requirements"
+    },
+    {
+      "text": "Trust accounts and audit requirements – conveyancers",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/conveyancer-trust-accounts-and-audit-requirements"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How must real estate and conveyancer trust account audits be lodged?",
+      "a": "All results must be lodged with NSW Fair Trading by a registered auditor, using the Auditor's Report Online portal.",
+      "link": null
+    },
+    {
+      "q": "What happens if a licensed real estate corporation or individual licensee did not hold trust money during the audit period?",
+      "a": "Refer to NSW Fair Trading's Trust accounts and audit requirements for the current procedure, as it may vary from year to year.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/property-professionals/supervising-an-agency/real-estate-trust-accounts-and-audit-requirements"
+    },
+    {
+      "q": "What must a licensed conveyancer corporation or individual licensee do if they did not hold trust money during the audit period?",
+      "a": "A prescribed declaration form must be lodged by the licensee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:41Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "4e2336727a8a77c9f8f74f92bedc340ec05094c7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

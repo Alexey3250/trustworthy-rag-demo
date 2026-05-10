@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/high-risk-work-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "high-risk-work-licence",
+  "title": "High risk work licence",
+  "summary": "Find information and apply for a high risk work licence in New South Wales.",
+  "topics": [
+    "work-licence",
+    "high-risk",
+    "safety",
+    "employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a high risk work licence assessment enrolment number",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence-assessment-enrolment-number"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    },
+    {
+      "text": "Change details on a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "Renew a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    },
+    {
+      "text": "Check a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-high-risk-work-licence"
+    },
+    {
+      "text": "Manage high risk work licence assessments",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-high-risk-work-licence-assessments"
+    },
+    {
+      "text": "Add your digital high risk work licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a high risk work licence?",
+      "a": "You can apply for a high risk work licence online.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    },
+    {
+      "q": "What if I need to renew or change my high risk work licence?",
+      "a": "You can renew or change details on your high risk work licence online.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence"
+    },
+    {
+      "q": "How can I check my high risk work licence?",
+      "a": "You can check your high risk work licence online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-high-risk-work-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:12Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c5710a4847de60a7bfdfb17321c9b47df5a59f74",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

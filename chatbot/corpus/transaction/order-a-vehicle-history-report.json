@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-a-vehicle-history-report",
+  "title": "Order a vehicle history report",
+  "summary": "You can order a vehicle history report online if you are considering buying a used car.",
+  "topics": [
+    "used-car",
+    "vehicle-history-report",
+    "nsw-registration"
+  ],
+  "intro": "If you're considering buying a used car there are 2 types of vehicle checks you can make online:\n\nFor a fee, the vehicle history report includes:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the vehicle's NSW registration plate number",
+    "a valid credit card"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the NSW plate number.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read and accept the Terms and Conditions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the 'Next' button.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Check your details and submit.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Once your payment has been processed, download or email your report and transaction receipt.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The vehicle history report is not usable in court or certified for any legal evidence.",
+      "link": null
+    },
+    {
+      "text": "If you need information for legal proceedings you can request a certified copy from Transport for NSW Certificates Unit, Locked Bag 14, Grafton NSW 2460.",
+      "link": null
+    },
+    {
+      "text": "The vehicle history report is not available for conditionally-registered vehicles.",
+      "link": null
+    },
+    {
+      "text": "The free registration check can only be run on vehicles previously or currently registered in NSW, and includes:",
+      "link": null
+    },
+    {
+      "text": "the compulsory third party (CTP) insurer and policy expiry date.",
+      "link": null
+    },
+    {
+      "text": "The vehicle VIN will not be provided in this report.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:54Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "0b5746df433da5dc3f4dfb03b0156c17ce2566bd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

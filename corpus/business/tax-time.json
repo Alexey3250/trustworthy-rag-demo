@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/tax-time",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/tax-time",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "tax-time",
+  "title": "6 ways to make tax time easier for your small business",
+  "summary": "This page provides six tips to help small businesses prepare for and manage tax time.",
+  "topics": [
+    "small-business",
+    "tax-time",
+    "accounting",
+    "tax-deductions",
+    "bookkeeping"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "small business owners"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au"
+    },
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Supporting your small business – ATO",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/starting-registering-or-closing-a-business/starting-your-own-business/supporting-your-small-business"
+    },
+    {
+      "text": "Tax time toolkit for small business – ATO",
+      "url": "https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/tax-time/tax-time-toolkits/tax-time-toolkit-small-business"
+    },
+    {
+      "text": "Business Bureau online resources – finance",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources?keyword=finance&page=1"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get help when your small business is in debt",
+      "url": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    },
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:35Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "bac36eefb6235bd56e5bffccda7ef317378945de",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

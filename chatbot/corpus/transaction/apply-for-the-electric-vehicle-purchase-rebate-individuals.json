@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-individuals",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-individuals",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-electric-vehicle-purchase-rebate-individuals",
+  "title": "Apply for the electric vehicle purchase rebate (individuals)",
+  "summary": "Find out if you are eligible for and how to apply for a $3,000 cash rebate for purchasing a new electric or hydrogen vehicle in NSW.",
+  "topics": [
+    "electric-vehicle",
+    "rebate",
+    "nsw-transport",
+    "bev",
+    "fcev"
+  ],
+  "intro": "If you have bought a new battery electric vehicle (BEV) or hydrogen fuel cell electric vehicle (FCEV) for personal use in NSW, you may be eligible for a $3,000 cash rebate.\n\nCheck full eligibility before applying.\n\nOne rebate is available per applicant.",
+  "who_can_apply": [
+    "Must have bought a new BEV or FCEV for personal use in NSW.",
+    "Must have bought the car or paid a deposit by 31 December 2023.",
+    "Must have registered the vehicle for personal use in NSW on or after 1 September 2021.",
+    "The total cost must be less than $68,750 (including delivery costs, dealer fees, and accessories).",
+    "Must not have claimed a rebate for the vehicle in another state or territory.",
+    "The vehicle must not be registered before 1 September 2021.",
+    "The vehicle must not have been bought on or after 1 January 2024.",
+    "The vehicle must not be a leased vehicle, second-hand BEV or FCEV, grey import, hybrid electric vehicle, plug in hybrid electric vehicle, heavy truck, motorcycle, trailer, caravan, aeroplane, or boat."
+  ],
+  "what_you_need": [
+    "A Revenue NSW electric vehicle portal account (you can sign up when applying).",
+    "Your Transport for NSW customer number.",
+    "A copy of a current and valid NSW Driver Licence.",
+    "Certificate of Registration showing:",
+    "A contract to purchase with the sales price and date of purchase or deposit payment.",
+    "Deposit receipt dated on or before 31 December 2023 (if applicable).",
+    "Tax invoice (if it is an interstate purchase or purchase from Tesla, Polestar and Vyro).",
+    "Bank account details for payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or sign up to the Revenue NSW electric vehicle portal account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Vehicles eligible for a rebate are also eligible for a stamp duty exemption.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Transport for NSW customer number",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    },
+    {
+      "text": "Apply for the electric vehicle purchase rebate (organisations)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-organisations"
+    },
+    {
+      "text": "Check vehicles eligible for motor vehicle tax concession",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the rebate for buying an electric vehicle?",
+      "a": "You may be eligible for a $3,000 cash rebate.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for the rebate?",
+      "a": "The rebate is for individuals who bought a new battery electric vehicle (BEV) or hydrogen fuel cell electric vehicle (FCEV) for personal use in NSW.",
+      "link": null
+    },
+    {
+      "q": "What is the maximum price limit for the vehicle?",
+      "a": "The vehicle must have cost less than $68,750, including delivery costs, dealer fees, and accessories.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:06Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "745cdb26a0f9741810de08d9c7986057653e9b76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

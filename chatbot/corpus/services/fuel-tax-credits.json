@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/fuel-tax-credits",
+  "source_url": "https://www.service.nsw.gov.au/services/fuel-tax-credits",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "fuel-tax-credits",
+  "title": "Fuel tax credits",
+  "summary": "Find out about and apply for fuel tax credits to help with the cost of fuel.",
+  "topics": [
+    "fuel-tax",
+    "credits",
+    "fuel-costs",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Eligibility for fuel tax credits is determined by using the dedicated eligibility tool."
+  ],
+  "what_you_need": [
+    "Use the fuel tax credit calculator to estimate your potential credits.",
+    "Use the fuel tax credit eligibility tool to check if you qualify.",
+    "Follow the steps to register for fuel tax credits."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Driving and transport",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register for fuel tax credits",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-fuel-tax-credits"
+    },
+    {
+      "text": "Use the fuel tax credit calculator",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-calculator"
+    },
+    {
+      "text": "Use the fuel tax credit eligibility tool",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-eligibility-tool"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are fuel tax credits?",
+      "a": "Fuel tax credits are available to help offset the cost of fuel tax.",
+      "link": null
+    },
+    {
+      "q": "How do I check if I am eligible for fuel tax credits?",
+      "a": "Use the fuel tax credit eligibility tool to check your eligibility.",
+      "link": "https://www.service.nsw.gov.au/referral/use-the-fuel-tax-credit-eligibility-tool"
+    },
+    {
+      "q": "How do I apply for fuel tax credits?",
+      "a": "You can register for fuel tax credits using the provided link.",
+      "link": "https://www.service.nsw.gov.au/referral/register-for-fuel-tax-credits"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:26Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "5c7b45d626050100fe0f67ca51330178e695481b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

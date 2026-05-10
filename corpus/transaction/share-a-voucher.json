@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/share-a-voucher",
+  "source_url": "https://www.service.nsw.gov.au/transaction/share-a-voucher",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "share-a-voucher",
+  "title": "Share an Active and Creative Kids voucher",
+  "summary": "Learn how to share an Active and Creative Kids voucher with someone else so they can use it for eligible activities.",
+  "topics": [
+    "active-and-creative-kids-voucher",
+    "share-voucher",
+    "service-nsw-app",
+    "kids-activities"
+  ],
+  "intro": "Vouchers must only be used for the child named on the voucher to participate in eligible activities.\n\nIf someone else is organising an activity for your child or taking your child to the participating provider, you can share an Active and Creative Kids voucher with them to use if the voucher:\n\nOnce you've shared the voucher, either you or the person you've shared it with, can use it. The voucher can only be used once.\n\nVouchers can be used with a participating provider until the expiry date.",
+  "who_can_apply": [
+    "You must have applied for and received an Active and Creative Kids voucher.",
+    "The voucher must not have been used.",
+    "The voucher must not have expired."
+  ],
+  "what_you_need": [
+    "The Service NSW app",
+    "A MyServiceNSW Account",
+    "The email of the person you are sharing the voucher with"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your Service NSW app.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to 'Vouchers'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the active and creative kids voucher under 'Available'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the 'Share' button.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to share the voucher.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Let the person know you have shared the voucher with them.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "will see the voucher in the 'Vouchers' section of the app",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "can choose to accept or reject the shared voucher.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "participating provider",
+      "url": "https://mybusiness.service.nsw.gov.au/business-finder/vouchers?voucherType=ActiveCreativeKids"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/active-and-creative-kids-voucher-customers"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/active-and-creative-kids-voucher-customers"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Apply for an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Access your Voucher profile",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can use the voucher after it is shared?",
+      "a": "Either you or the person you shared it with can use the voucher.",
+      "link": null
+    },
+    {
+      "q": "How many times can the voucher be used?",
+      "a": "The voucher can only be used once.",
+      "link": null
+    },
+    {
+      "q": "What are the rules for using the voucher?",
+      "a": "Vouchers must only be used for the child named on the voucher to participate in eligible activities. They can be used with a participating provider until the expiry date.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:08Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "3e0044594e6063b8225d451aa79c5e826e40b55a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

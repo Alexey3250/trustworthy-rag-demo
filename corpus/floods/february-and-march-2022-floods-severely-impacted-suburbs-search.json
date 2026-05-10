@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/floods/february-and-march-2022-floods-severely-impacted-suburbs-search",
+  "source_url": "https://www.service.nsw.gov.au/floods/february-and-march-2022-floods-severely-impacted-suburbs-search",
+  "category": "floods",
+  "article_kind": "landing-page",
+  "slug": "february-and-march-2022-floods-severely-impacted-suburbs-search",
+  "title": "February and March 2022 floods severely impacted suburbs",
+  "summary": "This page provides information about suburbs that were severely impacted by the floods in February and March 2022.",
+  "topics": [
+    "floods",
+    "disaster-recovery",
+    "nsw-floods",
+    "suburb-impacted"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "defined disaster area (AGRN 1012)",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disaster payments and financial assistance",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster"
+    },
+    {
+      "text": "Visit a flood recovery centre",
+      "url": "https://www.service.nsw.gov.au/services/recovery-centres"
+    },
+    {
+      "text": "Storm and flood recovery guide",
+      "url": "https://www.service.nsw.gov.au/guide/storm-and-flood-preparation-and-recovery"
+    },
+    {
+      "text": "Business support",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:00Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "14f98b65a5443abafebdbc5629beeb9f5475751c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

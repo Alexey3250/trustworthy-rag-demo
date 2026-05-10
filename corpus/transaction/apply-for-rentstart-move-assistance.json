@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-rentstart-move-assistance",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-rentstart-move-assistance",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-rentstart-move-assistance",
+  "title": "Apply for Rentstart Move assistance",
+  "summary": "Find out if you are eligible and how to apply for Rentstart Move assistance if you are moving from public housing to a private rental.",
+  "topics": [
+    "rentstart-move",
+    "public-housing",
+    "private-rental",
+    "housing-assistance"
+  ],
+  "intro": "If you are moving out of public housing into the private rental market you may be eligible to apply for Rentstart Move. This includes if you are moving because you:\n\nRentstart Move is an interest-free loan for up to 100% of your rental bond.\n\nIf no claim is made by the landlord or real estate agent at the end of the tenancy the money you have repaid to Homes NSW is returned to you.",
+  "who_can_apply": [
+    "You are leaving public housing for your own reason or because of changes to your income and assets.",
+    "Your rent and all other Homes NSW accounts have a nil balance or are in credit.",
+    "You have less than $5,000 in cash assets.",
+    "The rent for the private rental property is not more than 60% of your household total gross weekly income.",
+    "You have not yet moved into your new private rental home."
+  ],
+  "what_you_need": [
+    "Find the private rental place you wish to move into.",
+    "Apply for Rentstart Move using the provided link."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Find the private rental place you wish to move into.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "To apply for Rentstart Move",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office?category%5B0%5D=DCJ+Housing"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Finding social and affordable housing",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/finding-social-and-affordable-housing"
+    },
+    {
+      "text": "Rentstart Assistance Policy.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy"
+    },
+    {
+      "text": "For more information visit the Homes NSW website:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Homes NSW office",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office?category%5B0%5D=DCJ+Housing"
+    },
+    {
+      "text": "Finding social and affordable housing",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/finding-social-and-affordable-housing"
+    },
+    {
+      "text": "Rentstart Assistance Policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Take a course on renting in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    },
+    {
+      "text": "Apply for a Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    },
+    {
+      "text": "Rent Choice subsidy",
+      "url": "https://www.service.nsw.gov.au/referral/rent-choice-subsidy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Rentstart Move?",
+      "a": "Rentstart Move is an interest-free loan that can cover up to 100% of your rental bond. If the landlord or real estate agent does not claim the money at the end of your tenancy, the amount you repaid to Homes NSW is returned to you.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for Rentstart Move?",
+      "a": "You may be eligible if you are leaving public housing for your own reason or due to changes in your income and assets, have a nil or credit balance on your rent and Homes NSW accounts, have less than $5,000 in cash assets, and the private rental rent is no more than 60% of your household's total gross weekly income.",
+      "link": null
+    },
+    {
+      "q": "How does the assistance work?",
+      "a": "The assistance is based on how much of your income is spent on rent, calculated over a 12 or 18-month period, and requires you to make fortnightly payments to Homes NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:36Z",
+    "last_modified": "20 February 2026",
+    "html_sha1": "02f297f8296c1b5b5b6a7671aad4cddc01a76985",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

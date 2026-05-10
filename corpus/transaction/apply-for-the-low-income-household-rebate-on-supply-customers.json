@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-low-income-household-rebate-on-supply-customers",
+  "title": "Apply for the NSW Low Income Household Rebate (on-supply customers)",
+  "summary": "Find out if you are eligible for and how to apply for the NSW Low Income Household Rebate for on-supply electricity customers.",
+  "topics": [
+    "nsw",
+    "low-income-rebate",
+    "electricity-bill",
+    "on-supply-customer"
+  ],
+  "intro": "The NSW Low Income Household Rebate helps eligible concession cardholders pay their electricity bills.\n\nThe rebate is $313.50 per embedded network (on-supply) household, per financial year.\n\nIf you're an embedded network (on supply) customer, you can apply for the rebate here.\n\nIf you're a retail (on-market) customer, contact your electricity retailer to apply.\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You must have an electricity account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You must hold one of the following energy providers: ARC Energy Group, Energy Locals / Energy locals Urban, Origin Energy (including most of their WINConnect sites), or Locality Planning Energy (LPE) at specific sites.",
+    "If you receive your electricity bill from one of the specified energy providers, you should contact your retailer to apply."
+  ],
+  "what_you_need": [
+    "Your concession card details.",
+    "A printed (not hand-written) copy of your latest electricity bill (JPG or PDF file) that must include your bank account details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the steps to apply for the rebate.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the application form – NSW Low Income Household Rebate Application Form On-Supply Household – PDF.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/low-income-energy-rebate-application-form.pdf?2"
+    },
+    {
+      "n": 5,
+      "text": "Attach a copy of your most recent electricity bill/invoice.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Post your application to NSW Energy Rebates, PO Box 435, Parramatta NSW 2124.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll receive your rebate as a lump sum payment of $313.50 deposited into your bank account.",
+      "link": null
+    },
+    {
+      "text": "Invoices must be printed, unless:",
+      "link": null
+    },
+    {
+      "text": "You can only receive the rebate for your principal place of residence.",
+      "link": null
+    },
+    {
+      "text": "A household can only receive one NSW Low Income Household Rebate each financial year.",
+      "link": null
+    },
+    {
+      "text": "If you receive the NSW Low Income Household Rebate, you may be eligible for the NSW Gas Rebate.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "Commonwealth Seniors Health Card holders are not eligible for this rebate and can apply for the Seniors Energy Rebate instead.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Low Income Household Rebate Application Form On-Supply Household – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/low-income-energy-rebate-application-form.pdf?2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact your electricity retailer to apply",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "NSW Gas Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the household National Energy Bill Relief payment",
+      "url": "https://www.service.nsw.gov.au/transaction/household-national-energy-bill-relief"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the NSW Low Income Household Rebate?",
+      "a": "The rebate is $313.50 per embedded network (on-supply) household, per financial year.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for this rebate?",
+      "a": "You must have an electricity account for your home in NSW, be the account holder, and hold one of the listed energy providers.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the rebate?",
+      "a": "You need your concession card details and a printed copy of your latest electricity bill (JPG or PDF file) that includes your bank account details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:33Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "3164928a46dbba8b8636db2838f4ed9e875a5c7e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

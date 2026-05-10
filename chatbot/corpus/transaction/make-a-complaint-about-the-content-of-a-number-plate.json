@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-the-content-of-a-number-plate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-the-content-of-a-number-plate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-complaint-about-the-content-of-a-number-plate",
+  "title": "Make a complaint about the content of a number plate",
+  "summary": "You can make a complaint about a NSW number plate if you find the content offensive or inappropriate.",
+  "topics": [
+    "number-plate",
+    "complaint",
+    "channeljsonjsonobjecttype"
+  ],
+  "intro": "If you see a NSW number plate which you find offensive or inappropriate, you can make a complaint online, by email or phone.\n\nA committee of diverse people will review your complaint. The number plates will be recalled if they are deemed to give rise to controversy or public disagreement.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the number plate details",
+    "the reason(s) you find the number plate content offensive or inappropriate",
+    "your personal details and email address (not needed if making an anonymous complaint by phone)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Make a complaint’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Choose your preferred option (online form, email or phone) to make your complaint.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If you submit your complaint online or by email, you'll receive a confirmation email.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complaints will usually be reviewed within 30 days. Urgent complaints will be assessed sooner.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "For privacy reasons, you will not be notified of the outcome of your complaint.",
+      "link": "https://www.myplates.com.au/mps/privacy-policy"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "privacy reasons",
+      "url": "https://www.myplates.com.au/mps/privacy-policy"
+    },
+    {
+      "text": "Register a plate content complaint – myPlates",
+      "url": "https://www.myplates.com.au/mps/complaints-and-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:16Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "e9efe7f89cf5a95353fd31ef4b6f17f7451b7760",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

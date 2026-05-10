@@ -1,0 +1,177 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-mltts-serviced-area",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-mltts-serviced-area",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-learner-rider-licence-mltts-serviced-area",
+  "title": "Apply for a learner rider licence (MLTTS serviced area)",
+  "summary": "Learn how to apply for a learner rider licence in a Motorcycle Licence Training and Testing Scheme (MLTTS) serviced area.",
+  "topics": [
+    "learner-rider-licence",
+    "motorcycle-licence",
+    "service-nsw"
+  ],
+  "intro": "To get a learner rider licence in a Motorcycle Licence Training and Testing Scheme (MLTTS) serviced area, you must first attend a pre-learner training course.\n\nAfter successfully completing the course, you'll be issued with a pre-learner certificate of competence.\n\nYou then need to visit a Service NSW Centre with your certificate, and sit the rider knowledge test. This must be done within 3 months of completing your course.\n\nYou can book the rider knowledge test through Online Services. Once you've passed the test you're able to apply for your learner rider licence.\n\nWhen you visit the service centre to take your test, you can apply for a NSW Photo Card at the same time if you wish, and take advantage of paying a reduced application fee for it.\n\nThere is now a trike-only training and testing pathway for customers to get a licence to ride a trike. For further information, visit Riding a trike on NSW Roads.",
+  "who_can_apply": [
+    "Be aged 16 years and 9 months, or over.",
+    "Have successfully completed your pre-learner rider training course.",
+    "Pass the rider knowledge test."
+  ],
+  "what_you_need": [
+    "The 'Licence Application' PDF form.",
+    "Your NSW Photo Card (if you have one).",
+    "Your pre-learner certificate of competence.",
+    "Your contact lenses or glasses (if you wear them).",
+    "A completed medical report (if applicable).",
+    "A current concession card (if applicable).",
+    "Your method of payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check the tick box to apply for a NSW Photo Card (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make sure that you have all the necessary documentation, including your pre-learner certificate of competence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a service centre to sit the rider knowledge test and lodge your licence application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must have your pre-learner certificate of competence before you can sit the rider knowledge test.",
+      "link": null
+    },
+    {
+      "text": "You can practise for the rider knowledge test online.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/rider-tests/practice-knowledge-tests"
+    },
+    {
+      "text": "A learner rider licence is valid for 12 months.",
+      "link": null
+    },
+    {
+      "text": "For rider licence applications a receipt is provided which allows you to ride until the card arrives in the mail. The receipt is valid for 2 months.",
+      "link": null
+    },
+    {
+      "text": "The NSW Photo Card is voluntary – you don't have to have one, but you may find it useful to prove your identity in situations not related to riding/driving.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "find a rider training centre",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres/find-a-rider-training-centre"
+    },
+    {
+      "text": "Online Services",
+      "url": "https://www.myrta.com/wps/portal/extvp/myrta/licence/book-your-licence-test/"
+    },
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-nsw-photo-card-fees"
+    },
+    {
+      "text": "Riding a trike on NSW Roads",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/trikes"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "online",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/rider-tests/practice-knowledge-tests"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Motorcycle riders' handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-10/48024416-motorcycle-riders-handbook-10-25.pdf"
+    },
+    {
+      "text": "Approved motorcycles for learner and provisional riders – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/approved-motorcycles-for-novice-riders"
+    },
+    {
+      "text": "Class R (motorcycle) licence – rider knowledge test questions – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-09/driver-knowledge-test-questions-rider.pdf"
+    },
+    {
+      "text": "Getting your rider licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/getting-your-rider-licence"
+    },
+    {
+      "text": "Rider training centre locations – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Road User Handbook (includes language translations)",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "Book a motorcycle rider training course",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course"
+    },
+    {
+      "text": "Apply for a learner rider licence (unserviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-unserviced-area"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required before applying for a learner rider licence?",
+      "a": "You must first attend a pre-learner training course and successfully complete it to receive a pre-learner certificate of competence.",
+      "link": null
+    },
+    {
+      "q": "How do I take the rider knowledge test?",
+      "a": "You can book the rider knowledge test through Online Services. You must take this test within 3 months of completing your course.",
+      "link": "https://www.myrta.com/wps/portal/extvp/myrta/licence/book-your-licence-test/"
+    },
+    {
+      "q": "What do I need to bring when I apply for my licence?",
+      "a": "You need the 'Licence Application' PDF form, your pre-learner certificate of competence, your NSW Photo Card (if you have one), and your method of payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:04Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "d603b7f76304583a5fab7ebe8a8e087afa660adf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

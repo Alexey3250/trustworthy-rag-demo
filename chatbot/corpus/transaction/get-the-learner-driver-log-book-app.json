@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-the-learner-driver-log-book-app",
+  "title": "Get the learner driver log book app",
+  "summary": "Learn about the options for recording your driving experience, including using a paper log book or the Roundtrip log book app.",
+  "topics": [
+    "learner-driver",
+    "log-book",
+    "driving-hours",
+    "service-centre"
+  ],
+  "intro": "Learner drivers need to record their driving experience in a log book. You can choose to use:",
+  "who_can_apply": [
+    "Learner drivers who need to record their driving experience."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/roundtrip-learner-logbook/id1171287648"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=com.eatmorepixels.roundtrip"
+    },
+    {
+      "text": "Find out more about learner driver log books",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/learners-driver-log-book-app"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "replacement learner driver log book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book"
+    },
+    {
+      "text": "visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What options are available for recording driving experience?",
+      "a": "You can choose to use a paper log book or the Roundtrip log book app.",
+      "link": null
+    },
+    {
+      "q": "What does the Roundtrip log book app help with?",
+      "a": "The app helps you record and update your driving hours, calculate your progress towards 120 driving hours, and ensure you have completed the 20 learning goals.",
+      "link": null
+    },
+    {
+      "q": "What happens if I use a discontinued log book app?",
+      "a": "Service centres cannot retrieve or transfer your recorded hours to your paper log book if you did not enter your NSW Driver Licence in the Licence Ready app or L2P app, or entered an incorrect number. If you are using hours logged in the Licence Ready app or L2P app, arrive at the service centre at least 1 hour prior to your driving test to retrieve and transfer your hours to a paper log book.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:41Z",
+    "last_modified": "5 December 2025",
+    "html_sha1": "66dd84b22a803ad74fbd5b29e38e2fd47e5b6b8d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

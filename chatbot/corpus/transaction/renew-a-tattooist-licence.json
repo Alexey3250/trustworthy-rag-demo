@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-tattooist-licence",
+  "title": "Renew a tattooist licence",
+  "summary": "This page provides information on how to renew your tattooist licence in NSW.",
+  "topics": [
+    "tattooist-licence",
+    "renew-licence",
+    "body-art"
+  ],
+  "intro": "A tattooist licence allows you to perform body art tattooing procedures in NSW.\n\nThe NSW Police Force Security Licensing & Enforcement Directorate (SLED) will email or post you a renewal form about 60 days before your licence expiry date.\n\nYou should lodge your renewal application to SLED via post on or before your licence expires.\n\nIf your licence has expired you may apply to restore the licence within 3 months of the expiry date. After that, you must reapply for a licence.",
+  "who_can_apply": [
+    "People with a current tattooist licence."
+  ],
+  "what_you_need": [
+    "Completed renewal form",
+    "Requested documents (listed in the email or letter sent to you)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the renewal form sent to you.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the requested documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Post your renewal form, the requested documents and fee to:Security Licensing & Enforcement DirectorateLocked Bag 5099Parramatta NSW 2124",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Tattoo Industry Licences - NSW Police Force",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/tattoo_industry_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for a licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence"
+    },
+    {
+      "text": "Apply for a tattoo master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence"
+    },
+    {
+      "text": "Renew a tattoo master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-tattoo-master-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew my tattooist licence?",
+      "a": "The NSW Police Force Security Licensing & Enforcement Directorate (SLED) will send you a renewal form about 60 days before your licence expires. You must lodge your renewal application to SLED via post on or before your licence expires.",
+      "link": null
+    },
+    {
+      "q": "What happens if my licence has expired?",
+      "a": "If your licence has expired, you can apply to restore it within 3 months of the expiry date. After that, you must reapply for a licence.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to renew a tattooist licence?",
+      "a": "You must be a person with a current tattooist licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:59Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "e08c661322cbea6556bf7fa9cb567a46a74bdc87",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

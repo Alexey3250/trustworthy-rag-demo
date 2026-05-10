@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/guidelines/nsw-far-west-support-business",
+  "source_url": "https://www.service.nsw.gov.au/guidelines/nsw-far-west-support-business",
+  "category": "guidelines",
+  "article_kind": "content",
+  "slug": "nsw-far-west-support-business",
+  "title": "$400 Small-Medium Business Power Outage Support Grant Far West Region Oct 2024 – Guidelines",
+  "summary": "This page provides guidelines for the $400 Small-Medium Business Power Outage Support Grant for the Far West Region following the October 2024 storm.",
+  "topics": [
+    "business-support",
+    "power-outage",
+    "far-west-region",
+    "nsw-grant"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be an Eligible Applicant who meets the eligibility criteria outlined in clause 4."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-far-west-support-business"
+    },
+    {
+      "text": "Request an Internal Review of a grant decision",
+      "link": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Far West Region Storm from 17 October 2024 (AGRN 1149)",
+      "url": "https://www.disasterassist.gov.au/Pages/disasters/new-south-wales/far-west-region-storm-17-October.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Complaints Handling Policy",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-far-west-support-business"
+    },
+    {
+      "text": "Request an Internal Review of a grant decision",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for the Small-Medium Business Power Outage Support Grant?",
+      "a": "The grant is for Eligible Applicants who meet the eligibility criteria outlined in clause 4.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of this grant?",
+      "a": "The program is being funded by the NSW Government and Transgrid.",
+      "link": null
+    },
+    {
+      "q": "How much is the payment?",
+      "a": "A one-off payment of $400 will be made to eligible applicants.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:06Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "a256faadb0578fe909ac2715ac2186a49868882e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme",
+  "source_url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "mobility-parking-scheme",
+  "title": "Mobility parking scheme",
+  "summary": "This page provides information and links for applying for, renewing, replacing, or adding Mobility Parking Scheme permits for individuals and organisations.",
+  "topics": [
+    "mobility-parking",
+    "parking-scheme",
+    "pensioner-refund",
+    "permit-application"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals needing a Mobility Parking Scheme permit",
+    "Organisations needing a Mobility Parking Scheme permit",
+    "Pensioners needing a refund on a Mobility Parking Scheme permit"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for, replace, or renew a Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    },
+    {
+      "text": "Apply for an additional Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-individual"
+    },
+    {
+      "text": "Apply for a new pensioner refund on a Mobility Parking Scheme permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit"
+    },
+    {
+      "text": "Apply for a Mobility Parking Scheme permit (organisation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-mobility-parking-scheme-permit-organisation"
+    },
+    {
+      "text": "Apply for an additional Mobility Parking Scheme permit (organisation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-organisation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for or renew a Mobility Parking Scheme permit?",
+      "a": "You can apply for, replace, or renew a Mobility Parking Scheme permit for an individual using the dedicated link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    },
+    {
+      "q": "Can I apply for an additional Mobility Parking Scheme permit?",
+      "a": "Yes, there are separate application links available for both individuals and organisations to apply for an additional permit.",
+      "link": null
+    },
+    {
+      "q": "What if I am a pensioner and need a refund?",
+      "a": "You can apply for a new pensioner refund on a Mobility Parking Scheme permit.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit"
+    },
+    {
+      "q": "How do organisations apply for a Mobility Parking Scheme permit?",
+      "a": "Organisations can apply for a Mobility Parking Scheme permit using the specific application link for organisations.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-mobility-parking-scheme-permit-organisation"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:45Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "057cfabcd13e52b310e82d8cf15eada45072c3d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

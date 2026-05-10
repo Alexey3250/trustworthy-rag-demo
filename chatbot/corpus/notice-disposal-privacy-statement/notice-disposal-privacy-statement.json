@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/notice-disposal-privacy-statement",
+  "source_url": "https://www.service.nsw.gov.au/notice-disposal-privacy-statement",
+  "category": "notice-disposal-privacy-statement",
+  "article_kind": "content",
+  "slug": "notice-disposal-privacy-statement",
+  "title": "Notice of disposal – Privacy statement",
+  "summary": "This notice explains how Service NSW and Transport for NSW handle and store personal information when you submit a notice of disposal for a vehicle.",
+  "topics": [
+    "vehicle-disposal",
+    "privacy",
+    "transport-for-nsw",
+    "service-nsw"
+  ],
+  "intro": "Service NSW is collecting your personal information on behalf of Transport for NSW in order to process your notice of disposal of a vehicle.\n\nTransport for NSW may retain your personal information and use it for purposes related to its other regulatory functions, for example driver licensing and road transport purposes.\n\nService NSW will retain your personal information for purposes related to its customer service functions.\n\nProviding this information is voluntary but Transport for NSW cannot process your notice without it and you may be held liable for offences in respect of the vehicle until the notice is recorded.\n\nService NSW and Transport for NSW may disclose your personal information in order to verify or assess your application.\n\nWe may disclose your personal information to other road transport licensing or registration agencies:\n\nOtherwise Service NSW and Transport for NSW will not disclose your personal information without your consent unless authorised by law.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Your personal information will be held by Transport for NSW and Service NSW at:",
+  "more_info": [
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "link": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Terms and conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Guide to selling a vehicle",
+      "link": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Privacy statement – Transport for NSW",
+      "link": "https://www.transport.nsw.gov.au/about-us/transport-privacy/privacy-statement"
+    },
+    {
+      "text": "Request access to personal records held by Transport for NSW",
+      "link": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Privacy statement – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/about-us/transport-privacy/privacy-statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Guide to selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Request access to personal records held by Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who holds my personal information?",
+      "a": "Your personal information will be held by Transport for NSW and Service NSW.",
+      "link": null
+    },
+    {
+      "q": "Why is my personal information collected?",
+      "a": "Service NSW collects your information to process your notice of disposal of a vehicle. Transport for NSW may also use it for other regulatory functions, such as driver licensing and road transport purposes, and Service NSW uses it for customer service functions.",
+      "link": null
+    },
+    {
+      "q": "Can my information be shared?",
+      "a": "Service NSW and Transport for NSW may disclose your information to verify or assess your application, and they may disclose it to other road transport licensing or registration agencies. Otherwise, they will not disclose it without your consent unless authorized by law.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:22Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "1ccfdaf92aeb06fe02a4c6874768eb9bbba4e440",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

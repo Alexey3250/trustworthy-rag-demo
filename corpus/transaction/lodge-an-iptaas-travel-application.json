@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-an-iptaas-travel-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-an-iptaas-travel-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-an-iptaas-travel-application",
+  "title": "Lodge an IPTAAS travel application",
+  "summary": "Find out if you can get financial assistance for travel and accommodation expenses when seeking specialist medical treatment using the IPTAAS scheme.",
+  "topics": [
+    "medical-treatment",
+    "financial-assistance",
+    "iptaas",
+    "travel-expenses"
+  ],
+  "intro": "IPTAAS (Isolated Patients Travel and Accommodation Assistance Scheme) may be able to give you financial assistance with your travel and accommodation expenses if you need to travel long distances for specialist medical treatment.\n\nTo apply for IPTAAS online, you'll need to set up an account.",
+  "who_can_apply": [
+    "Be a resident of NSW or Lord Howe Island.",
+    "Be eligible for Medicare.",
+    "Live more than 100km from the nearest treating specialist (or have cumulative journeys to your treating specialist exceeding 200km within a week).",
+    "Require specialist treatment that is not available locally.",
+    "Not be receiving or eligible for financial assistance for travel and accommodation from third-party insurance or other Australian government services."
+  ],
+  "what_you_need": [
+    "Your login details.",
+    "IPTAAS patient ID (allocated when you lodge your first application).",
+    "Personal details, including your bank account information.",
+    "Appointment information.",
+    "Treatment details.",
+    "Travel and accommodation details.",
+    "Scanned copies or photographs of your travel and accommodation invoices."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Go to IPTAAS online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Sign In'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Upload your travel and accommodation documentation.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Submit your claim.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Assessment guidelines",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients"
+    },
+    {
+      "text": "Frequently asked questions",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients/faqs"
+    },
+    {
+      "text": "Application forms",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "set up an account",
+      "url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    },
+    {
+      "text": "Claim an exemption from NSW ambulance fees",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-an-exemption-from-nsw-ambulance-fees"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for IPTAAS?",
+      "a": "You must be a resident of NSW or Lord Howe Island, be eligible for Medicare, live more than 100km from the nearest treating specialist (or have cumulative journeys exceeding 200km within a week), require specialist treatment not available locally, and not be receiving financial assistance from third-party insurance or other Australian government services.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for IPTAAS online?",
+      "a": "You will need your login details, your IPTAAS patient ID (if you haven't claimed before), personal details including bank account information, appointment information, treatment details, travel and accommodation details, and scanned copies or photographs of your travel and accommodation invoices.",
+      "link": null
+    },
+    {
+      "q": "How do I lodge an IPTAAS travel application?",
+      "a": "First, check the eligibility requirements. Then, select the 'Go to IPTAAS online' button, sign in, enter the required information, upload your travel and accommodation documentation, and submit your claim.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:36Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "65f9436cf24819d1ef7d67a044198e4d4efeefe4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

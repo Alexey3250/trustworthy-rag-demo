@@ -1,0 +1,45 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/registering-as-a-working-holiday-maker-employer",
+  "source_url": "https://www.service.nsw.gov.au/referral/registering-as-a-working-holiday-maker-employer",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "registering-as-a-working-holiday-maker-employer",
+  "title": "Registering as a working holiday maker employer",
+  "summary": "This page informs employers that they must register with the ATO before making the first payment to working holiday makers with a subclass 417 or 462 visa.",
+  "topics": [
+    "employer-registration",
+    "working-holiday-makers",
+    "ato-registration",
+    "visa-subclass-417",
+    "visa-subclass-462"
+  ],
+  "intro": "Employers planning to employ working holiday makers with a visa subclass 417 or 462, must register with the ATO before making the first payment to them.",
+  "who_can_apply": [
+    "Employers planning to employ working holiday makers with a visa subclass 417 or 462"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Visit the ATO to register",
+      "url": "https://www.ato.gov.au/single-page-applications/whmregistration"
+    },
+    {
+      "text": "Employer registration for working holiday makers – ATO",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/starting-registering-or-closing-a-business/registration-obligations-for-businesses/work-out-which-registrations-you-need/taxation-registrations/employer-registration-for-working-holiday-makers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:46Z",
+    "last_modified": "15 October 2024",
+    "html_sha1": "953f2fd3e20bca8eadd7c7e8a7febd6e597359e6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

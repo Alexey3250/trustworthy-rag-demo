@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/lodge-a-residential-rental-bond-tenants",
+  "source_url": "https://www.service.nsw.gov.au/referral/lodge-a-residential-rental-bond-tenants",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "lodge-a-residential-rental-bond-tenants",
+  "title": "Lodge or manage a residential rental bond (tenants)",
+  "summary": "This page provides information on how tenants can lodge, manage, and claim refunds for residential rental bonds.",
+  "topics": [
+    "rental-bond",
+    "tenants",
+    "nsw-housing",
+    "bond-refund"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Tenants who are lodging or managing a residential rental bond.",
+    "Tenants who are seeking a refund of a residential rental bond after a tenancy has ended."
+  ],
+  "what_you_need": [
+    "A Rental Bonds Online account to check status, pay, and submit claims.",
+    "Details regarding any money owed to the landlord or agent, or evidence of damage/expenses related to the property, if claiming a refund."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "open your own RBO account.",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    },
+    {
+      "text": "determine your bond refund",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/getting-your-bond-back"
+    },
+    {
+      "text": "Claim for refund of bond money – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/claim-for-refund-of-bond-money-form"
+    },
+    {
+      "text": "Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pay your bond directly to your landlord or agent",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-rental-bond-landlords-and-agents"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I manage or check my residential rental bond?",
+      "a": "You can check your status and progress, pay your bond online directly to NSW Fair Trading, and submit a claim for a refund online through your Rental Bonds Online account.",
+      "link": null
+    },
+    {
+      "q": "What happens if I need to get my bond back at the end of my tenancy?",
+      "a": "You may need to submit a claim if you owe the landlord or agent money, or if there is damage or other expenses relating to the property.",
+      "link": null
+    },
+    {
+      "q": "How do I submit a claim for my bond refund?",
+      "a": "You can submit a claim by email to bondclaims@customerservice.nsw.gov.au, by post to Locked Bag 9000, Grafton NSW 2460, or in person at any Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:59Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "1d7b8649bfdaac48d9a1be5f20fbbef47f8e99a2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

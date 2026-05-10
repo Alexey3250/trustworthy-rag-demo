@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-treasury-corporation-tcorp",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-treasury-corporation-tcorp",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-treasury-corporation-tcorp",
+  "title": "NSW Treasury Corporation (TCorp)",
+  "summary": "This page provides information about the NSW Treasury Corporation (TCorp), which manages and delivers services for the NSW Government.",
+  "topics": [
+    "nsw-treasury-corporation",
+    "government-services",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://tcorp.nsw.gov.au/",
+      "url": "https://tcorp.nsw.gov.au/"
+    },
+    {
+      "text": "NSW Waratah Bond Programme",
+      "url": "https://www.waratahbonds.com.au/html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:53Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "58889f9d1d01b43e434d630537a3bbc73f714d46",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-your-eligibility-for-rentstart-assistance",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-your-eligibility-for-rentstart-assistance",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-your-eligibility-for-rentstart-assistance",
+  "title": "Check your eligibility for Rentstart assistance",
+  "summary": "Find out if you are eligible for various types of financial assistance, including Rentstart Bond Loan, Advance Rent, and others, to help with private rental housing in NSW.",
+  "topics": [
+    "rent-assistance",
+    "tenancy",
+    "private-rental-market",
+    "housing"
+  ],
+  "intro": "Rentstart provides financial assistance to eligible clients to help them set up or maintain a tenancy in the private rental market. There are 5 types of Rentstart assistance.",
+  "who_can_apply": [
+    "Must be eligible for Rentstart assistance.",
+    "For Tenancy Assistance, you must have a rental agreement with the agent or landlord to continue the tenancy for up to 12 months, and this assistance is only available once in a 12-month period.",
+    "Rentstart Move assistance is for people who want to leave public housing or are no longer eligible for public housing or other Rentstart assistance."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "eligibility criteria for Rentstart assistance",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy#ECRA"
+    },
+    {
+      "text": "social and affordable housing",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    },
+    {
+      "text": "Rentstart assistance policy.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy"
+    },
+    {
+      "text": "Go to the Homes NSW website for more information including:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "eligibility criteria for Rentstart assistance",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy#ECRA"
+    },
+    {
+      "text": "social and affordable housing",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    },
+    {
+      "text": "Rentstart assistance policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-assistance-policy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    },
+    {
+      "text": "Rentstart Move",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-rentstart-move-assistance"
+    },
+    {
+      "text": "Take a course on renting in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Rentstart assistance?",
+      "a": "Rentstart provides financial assistance to eligible clients to help them set up or maintain a tenancy in the private rental market.",
+      "link": null
+    },
+    {
+      "q": "What types of Rentstart assistance are available?",
+      "a": "There are 5 types of Rentstart assistance available: Rentstart Bond Loan, Advance Rent, Rentstart Move, Tenancy Assistance, and Temporary Accommodation.",
+      "link": null
+    },
+    {
+      "q": "How is the Rentstart Bond Loan calculated?",
+      "a": "The repayment plan period and fortnightly repayment amount are based on the Rentstart Bond Loan.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:12Z",
+    "last_modified": "20 January 2026",
+    "html_sha1": "0df445971f527b204869b4eb7b31286aa2637521",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

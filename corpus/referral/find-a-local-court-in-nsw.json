@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-local-court-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-local-court-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-local-court-in-nsw",
+  "title": "Find a local court in NSW",
+  "summary": "Find information about local courts in NSW, including opening times, sittings information, and contact details.",
+  "topics": [
+    "local-court",
+    "nsw-court-system",
+    "legal-services",
+    "court-locations"
+  ],
+  "intro": "Most criminal and civil cases first enter the New South Wales court system via the local court.\n\nYou can search for your local court house, using an A to Z list of court houses. Each court house listing includes opening times, sittings information and contact details.\n\nVisit the NSW Online registry to:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Local Court New South Wales website",
+      "url": "https://localcourt.nsw.gov.au/locations--lists-and-forms/cl-2.html"
+    },
+    {
+      "text": "NSW Online registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/"
+    },
+    {
+      "text": "search court lists",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/court-lists"
+    },
+    {
+      "text": "search for a probate notice",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/probate-notices"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:33Z",
+    "last_modified": "5 February 2025",
+    "html_sha1": "f04b7e47a59938539050533be0b27998ac9cf078",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

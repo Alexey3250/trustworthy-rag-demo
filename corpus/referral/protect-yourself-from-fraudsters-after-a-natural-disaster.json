@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/protect-yourself-from-fraudsters-after-a-natural-disaster",
+  "source_url": "https://www.service.nsw.gov.au/referral/protect-yourself-from-fraudsters-after-a-natural-disaster",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "protect-yourself-from-fraudsters-after-a-natural-disaster",
+  "title": "Protect yourself from fraudsters after a natural disaster",
+  "summary": "This page provides advice on how to protect yourself from fraudsters and scams after a natural disaster.",
+  "topics": [
+    "natural-disaster",
+    "scams",
+    "home-renovations",
+    "tenancy-repairs"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Anyone affected by a natural disaster."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Step by step guide to choosing the right tradesperson or builder",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/step-by-step-guide-to-choosing-right-tradesperson-or-builder"
+    },
+    {
+      "text": "Getting repairs done on a rental property – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/getting-repairs-done"
+    },
+    {
+      "text": "Residential tenancy complaints – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-tenancy-complaints"
+    },
+    {
+      "text": "Online property complaint – NSW Fair Trading",
+      "url": "https://www.cas.fairtrading.nsw.gov.au/icmspublicweb/forms/Tenancy.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "check their licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Home Building Compensation (HBC)",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    },
+    {
+      "text": "Request or report property maintenance issues in social housing",
+      "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I check before hiring a builder or tradesperson?",
+      "a": "You should check their licence, ask for references and examples of previous work, check the contract for inclusions, confirm if subcontractors will be involved, and check if they have additional insurance beyond the mandatory Home Building Compensation (HBC) cover.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "q": "What types of repairs are considered urgent for tenants?",
+      "a": "Urgent repairs include gas leaks, dangerous electrical faults, burst water services, blocked toilets, serious structural damage from flooding, storms, or fire, and essential appliance failures such as stoves, ovens, heaters, or hot water systems.",
+      "link": null
+    },
+    {
+      "q": "Where can I find guidance on choosing a tradesperson or builder?",
+      "a": "You can check out the NSW Building Commission's Step by step guide to choosing the right tradesperson or builder.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/step-by-step-guide-to-choosing-right-tradesperson-or-builder"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:50Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "7a5fa03acef8ab71fde0a50bd5d5b3188150954c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

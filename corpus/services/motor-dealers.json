@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-dealers",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-dealers",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-dealers",
+  "title": "Motor dealers",
+  "summary": "This page provides information and links for motor dealers regarding various services and requirements in New South Wales.",
+  "topics": [
+    "motor-dealers",
+    "vehicle-sales",
+    "licences",
+    "dealer-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Motor dealer resources",
+      "link": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-dealer-licence"
+    },
+    {
+      "text": "Apply for a Dealer Vehicle Registration Scheme (DVRS) agreement",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dealer-vehicle-registration-scheme-dvrs-agreement"
+    },
+    {
+      "text": "Order number plates as a dealer with an agreement",
+      "url": "https://www.service.nsw.gov.au/transaction/order-number-plates-as-a-dealer-with-an-agreement"
+    },
+    {
+      "text": "Apply for access to Dealer Online",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-access-to-dealer-online"
+    },
+    {
+      "text": "Make a complaint about a motor vehicle dealer or repairer",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:02Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "2dcc89d596f3f7cf676dc7ed6c149f17d254ceb9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy",
+  "source_url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy",
+  "category": "contact-us",
+  "article_kind": "content",
+  "slug": "complaints-policy",
+  "title": "Service NSW Complaints Policy",
+  "summary": "This policy outlines Service NSW's commitment and process for handling customer complaints.",
+  "topics": [
+    "complaints",
+    "customer-service",
+    "nsw-government",
+    "policy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Customer Commitments",
+      "url": "https://www.nsw.gov.au/nsw-government/state-of-customer/commitments"
+    },
+    {
+      "text": "Code of Ethics and Conduct",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/who-we-are/department-of-customer-service-code-of-ethics-and-conduct"
+    },
+    {
+      "text": "Public Interest Disclosure Policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/access-to-information/policy-document-register/dcs-pid-policy"
+    },
+    {
+      "text": "DCS Complaint Handling Policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/publications-and-reports/complaint-handling-policy"
+    },
+    {
+      "text": "Conflicts of Interest Policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/policies-plans-and-procedures/conflicts-of-interest-policy"
+    },
+    {
+      "text": "Records Management Policy",
+      "url": "https://www.nsw.gov.au/nsw-government/recordkeeping/policies-and-standards/standard-on-records-management"
+    },
+    {
+      "text": "Privacy Management Plan",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/privacy-and-personal-information/privacy-management-plan"
+    },
+    {
+      "text": "Managing Unreasonable Behaviour by Customers",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/managing-unreasonable-behaviour-by-customers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of the complaints policy?",
+      "a": "The policy aims to respond to complaints in a timely, customer-focused, and cost-effective manner, while also building trust in the NSW public service and providing information for service improvements.",
+      "link": null
+    },
+    {
+      "q": "Who must comply with this complaints policy?",
+      "a": "All employees (including managers, supervisors, and senior executives, regardless of employment status), contractors, agency workers, employees seconded from other public sector agencies, and volunteers/students.",
+      "link": null
+    },
+    {
+      "q": "What are the guiding principles for handling complaints?",
+      "a": "The principles are Accessibility (making it easy to submit a complaint), Systemise (proactively managing complaints), Collaborate (engaging involved parties), and Accountability (continuously learning and improving).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:27Z",
+    "last_modified": "18 September 2025",
+    "html_sha1": "2abb3ebc03e5acec5586b44bab34b6d51799d2f0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

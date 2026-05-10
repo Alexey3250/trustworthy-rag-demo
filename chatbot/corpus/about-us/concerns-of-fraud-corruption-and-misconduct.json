@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-organisation/concerns-of-fraud-corruption-and-misconduct",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-organisation/concerns-of-fraud-corruption-and-misconduct",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "concerns-of-fraud-corruption-and-misconduct",
+  "title": "Concerns of fraud, corruption and misconduct",
+  "summary": "This page provides information on how to report concerns regarding fraud, corruption, or misconduct within Service NSW.",
+  "topics": [
+    "fraud",
+    "corruption",
+    "misconduct",
+    "whistleblowing",
+    "public-interest-disclosure"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Citizens and employees who have concerns about fraud, corruption, or misconduct."
+  ],
+  "what_you_need": [
+    "An email address to create or log in to your Whispli account.",
+    "Knowledge of the specific type of misconduct (e.g., corrupt conduct, maladministration)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Ombudsman website",
+      "url": "https://www.ombo.nsw.gov.au/guidance-for-organisations/public-interest-disclosures"
+    },
+    {
+      "text": "DCS Whispli",
+      "url": "https://dcs.whispli.com/lp/reports/?locale=en"
+    },
+    {
+      "text": "DCS PID Policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/customer-service/access-to-information/policy-document-register/dcs-pid-policy"
+    },
+    {
+      "text": "Independent Commission Against Corruption",
+      "url": "https://www.icac.nsw.gov.au/"
+    },
+    {
+      "text": "NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/about-us/contact-us"
+    },
+    {
+      "text": "section 81 of the Public Interest Disclosures Act 2022",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2022-014#sec.81"
+    },
+    {
+      "text": "Section 81: PID Act 2022 Functions exercised by the Department of Customer Service on behalf of another Agency",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-06/dcs-section-81-notice.pdf"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I report concerns about fraud, corruption, or misconduct?",
+      "a": "You can report concerns using the DCS Whispli reporting platform. You will need to select the 'Public Interest Disclosures Reports' button, create or log in to your Whispli account, and complete and submit a PID Form.",
+      "link": "https://dcs.whispli.com/lp/reports/?locale=en"
+    },
+    {
+      "q": "Who are the people who can receive a report?",
+      "a": "A report can be submitted to the Secretary of DCS, the head of Service NSW, a disclosure officer, or your manager.",
+      "link": null
+    },
+    {
+      "q": "What types of misconduct can I report?",
+      "a": "You can report corrupt conduct, serious maladministration, serious and substantial waste of public money, a government information contravention, a privacy contravention, or a local government pecuniary interest contravention.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:43Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "0b135ef80b7b99cfbd3c4de3a080982c87fbcd4c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

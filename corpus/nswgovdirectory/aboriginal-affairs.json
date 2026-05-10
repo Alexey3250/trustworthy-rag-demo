@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-affairs",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-affairs",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "aboriginal-affairs",
+  "title": "Aboriginal Affairs",
+  "summary": "This page provides information about Aboriginal Affairs in New South Wales.",
+  "topics": [
+    "aboriginal-affairs",
+    "nsw-government",
+    "community-support",
+    "land-rights"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/aboriginal-affairs-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/aboriginal-affairs-nsw"
+    },
+    {
+      "text": "OCHRE",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/aboriginal-affairs-nsw/about-ochre"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/aboriginal-affairs-nsw/contact"
+    },
+    {
+      "text": "Aboriginal Family Records Service – Aboriginal Affairs NSW",
+      "url": "https://www.nsw.gov.au/living-nsw/aboriginal-outcomes/healing/family-records-service"
+    },
+    {
+      "text": "Connected Communities: OCHRE initiative – Aboriginal Affairs NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/aboriginal-affairs-nsw/about-ochre/connected-communities"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Aboriginal Land Rights Act 1983 (NSW), Office of the Registrar",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-land-rights-act-1983-nsw-office-of-the-registrar"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "bc86f9de0bcb6de45efa6b56ed38b2ad9da90c8b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

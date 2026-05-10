@@ -1,0 +1,151 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-cease-to-trade-notification",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-cease-to-trade-notification",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-cease-to-trade-notification",
+  "title": "Lodge a cease to trade notification",
+  "summary": "Lodging a cease to trade notification is required if you plan to temporarily stop trading for six weeks or longer.",
+  "topics": [
+    "liquor-licence",
+    "cease-to-trade",
+    "nsw-business"
+  ],
+  "intro": "If you want to temporarily cease trading for 6 weeks or longer, you need to lodge a cease to trade notification.\n\nEven though you have temporarily ceased trading, you're still subject to the annual liquor licence fee.\n\nWhen the licensed premises is ready to recommence trading, you will need to lodge a recommence trading application through the liquor licence manager.\n\nIf the licensed premises is ceasing to trade permanently, you'll need to complete the surrender liquor licence application.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The liquor licence name and number",
+    "Personal details (if you are an individual)",
+    "ABN, ACN, and Y/Inc (if you are an organisation)",
+    "The date of ceasing trading",
+    "The reason for ceasing trading",
+    "Personal details and residential and/or postal address for the contact person"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Go to Liquor Licence Manager’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'View licences'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'View details' for the required licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Modify licence'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Go to 'Cease to trade' and select 'Apply'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to submit your cease to trade application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    },
+    {
+      "text": "Manage, modify or move your liquor licence – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/modify-manage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "annual liquor licence fee",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-annual-liquor-licence-fee"
+    },
+    {
+      "text": "surrender liquor licence application",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-surrender-a-liquor-licence"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    },
+    {
+      "text": "Apply to recommence trading",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-recommence-trading"
+    },
+    {
+      "text": "Check a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (due to death, disability or bankruptcy of licensee)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-due-to-death-disability-or-bankruptcy-of-licensee"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (with previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-transfer-liquor-licence-previous-licensees-consent"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (without previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-without-previous-licensees-consent"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I do if I temporarily stop trading for 6 weeks or longer?",
+      "a": "You need to lodge a cease to trade notification.",
+      "link": null
+    },
+    {
+      "q": "Do I still have to pay the annual liquor licence fee if I temporarily stop trading?",
+      "a": "Yes, you are still subject to the annual liquor licence fee.",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-an-annual-liquor-licence-fee"
+    },
+    {
+      "q": "What happens when I want to start trading again?",
+      "a": "When the licensed premises is ready to recommence trading, you must lodge a recommence trading application through the liquor licence manager.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-recommence-trading"
+    },
+    {
+      "q": "What if I am permanently closing my business?",
+      "a": "If the licensed premises is ceasing to trade permanently, you must complete the surrender liquor licence application.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-surrender-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:24Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "1f79e0d3d4fe56e4a4d89a3fb02815921dcb99c1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

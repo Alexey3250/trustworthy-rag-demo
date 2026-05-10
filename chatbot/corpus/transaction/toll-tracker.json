@@ -1,0 +1,56 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/toll-tracker",
+  "source_url": "https://www.service.nsw.gov.au/transaction/toll-tracker",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "toll-tracker",
+  "title": "Track your toll spend with Toll Tracker",
+  "summary": "Use Toll Tracker to view your toll spending and check your eligibility for toll relief.",
+  "topics": [
+    "toll-tracker",
+    "toll-spend",
+    "toll-relief",
+    "nsw-motorists"
+  ],
+  "intro": "Toll Tracker is an online service that helps NSW motorists view their toll spend and check when they're able to claim toll relief.\n\nThe tracker shows:\n\nTo use Toll Tracker, you need to link your toll account to your MyServiceNSW Account.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A linked toll account to your MyServiceNSW Account"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "link your toll account to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Claim toll relief rebate – $60 weekly cap",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "text": "Pay a toll or toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:23Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "a52fc2bd7d80d6ac3875bacf15a289250108ff0f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

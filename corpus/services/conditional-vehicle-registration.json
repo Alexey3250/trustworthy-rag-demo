@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/conditional-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/conditional-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "conditional-vehicle-registration",
+  "title": "Conditional vehicle registration",
+  "summary": "This page provides information and links for managing conditional vehicle registrations in New South Wales.",
+  "topics": [
+    "vehicle-registration",
+    "conditional-registration",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Seasonal vehicle registration",
+      "link": "https://www.service.nsw.gov.au/services/seasonal-vehicle-registration"
+    },
+    {
+      "text": "Vehicle registrations",
+      "link": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Reinstate a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/reinstate-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Change the details on a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Cancel a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Apply for a farm firefighting vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-farm-firefighting-vehicle-registration"
+    },
+    {
+      "text": "Apply for a historic vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-historic-vehicle-registration"
+    },
+    {
+      "text": "Apply for an oversnow vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-oversnow-vehicle-registration"
+    },
+    {
+      "text": "Apply for a rally vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rally-vehicle-registration"
+    },
+    {
+      "text": "Seasonal vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/seasonal-vehicle-registration"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a conditional vehicle registration?",
+      "a": "You can apply for a conditional vehicle registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    },
+    {
+      "q": "What if I need to change details on my conditional vehicle registration?",
+      "a": "You can change the details on your conditional vehicle registration through the relevant transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conditional-vehicle-registration"
+    },
+    {
+      "q": "How do I cancel a conditional vehicle registration?",
+      "a": "You can cancel a conditional vehicle registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:49Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "1841ec21eff21bb4cef16484310c017835d18f38",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

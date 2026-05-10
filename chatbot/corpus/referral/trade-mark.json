@@ -1,0 +1,48 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/trade-mark",
+  "source_url": "https://www.service.nsw.gov.au/referral/trade-mark",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "trade-mark",
+  "title": "Register a trade mark",
+  "summary": "This page explains what a trade mark is and how registering one gives you exclusive legal rights to use it throughout Australia.",
+  "topics": [
+    "trade-mark",
+    "brand",
+    "intellectual-property",
+    "business-rights"
+  ],
+  "intro": "A trade mark (sometimes called a brand) is the way you show your customers and the public who you are. Your trade mark might be:\n\nWhen you register a trade mark, you get exclusive use of the trade mark throughout Australia. This means you get a legal right to take action against any other business that tries to use the trade mark to provide goods or services similar to the goods or services your business provides.\n\nNote: You can check the availability of your trademark with IP Australia’s trade mark checker tool before you apply.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Check the availability of your trademark using IP Australia’s trade mark checker tool before you apply."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "register a trade mark online through IP Australia",
+      "url": "https://www.ipaustralia.gov.au/trade-marks"
+    },
+    {
+      "text": "IP Australia’s trade mark checker",
+      "url": "https://tmchecker.ipaustralia.gov.au/start"
+    },
+    {
+      "text": "What are trade marks? – IP Australia",
+      "url": "https://www.ipaustralia.gov.au/trade-marks/what-are-trade-marks"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:33Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "f50a87fe7b5905474a0d6ca0f4340b470311ef37",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

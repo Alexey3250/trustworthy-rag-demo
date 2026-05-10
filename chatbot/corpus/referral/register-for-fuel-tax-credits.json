@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-fuel-tax-credits",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-fuel-tax-credits",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-fuel-tax-credits",
+  "title": "Register for fuel tax credits",
+  "summary": "This page provides information about fuel tax credits (FTC) for businesses and links to tools and resources for eligibility.",
+  "topics": [
+    "business",
+    "fuel",
+    "tax-credits",
+    "australian-tax"
+  ],
+  "intro": "Fuel tax credits (FTC) provide businesses with a credit for tax paid on fuel used for:\n\nThe form will also:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Government's Business Registration website",
+      "url": "https://register.business.gov.au/registration/type"
+    },
+    {
+      "text": "All about fuel tax credits",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business"
+    },
+    {
+      "text": "Fuel tax credit eligibility tool",
+      "url": "https://www.ato.gov.au/calculators-and-tools/fuel-tax-credit-tools/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:50Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "c1d8cdda8467e9ff57afc6d7810446f853b23a6a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

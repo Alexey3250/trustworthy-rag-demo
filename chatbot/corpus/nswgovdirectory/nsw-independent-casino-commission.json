@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-independent-casino-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-independent-casino-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-independent-casino-commission",
+  "title": "NSW Independent Casino Commission",
+  "summary": "This page provides information about the NSW Independent Casino Commission (NICC), which regulates the industry.",
+  "topics": [
+    "casino-commission",
+    "nsw-government",
+    "regulation",
+    "gambling"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nicc.nsw.gov.au/",
+      "url": "https://www.nicc.nsw.gov.au/"
+    },
+    {
+      "text": "contact the NICC",
+      "url": "https://www.nicc.nsw.gov.au/contact-nicc"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:33Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c9fd981af41340332b5a8333b2213fb5157ff6f4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

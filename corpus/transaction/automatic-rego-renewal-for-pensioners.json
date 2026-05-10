@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners",
+  "source_url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "automatic-rego-renewal-for-pensioners",
+  "title": "Automatic rego renewal for pensioners",
+  "summary": "This page explains the automatic renewal process for free vehicle registration for eligible pensioners.",
+  "topics": [
+    "pensioner",
+    "vehicle-registration",
+    "automatic-renewal",
+    "concessions"
+  ],
+  "intro": "If you're a pensioner and receive free vehicle registration, you may be eligible for automatic rego renewal.\n\nYour pensioner registration will renew automatically each year if you still meet the eligibility criteria.\n\nIf you change to a pensioner registration within 6 weeks of your current registration's expiry date, it will not automatically renew. You can call 13 77 88 or visit a Service NSW Centre to renew.\n\nYou can opt out of automatic rego renewal by visiting a service centre or calling 13 77 88.\n\nYou can check to confirm your rego has been renewed online.\n\nIf you opted in to Digital Vehicle Registration, you'll receive a notification to confirm that your vehicle registration has been renewed.",
+  "who_can_apply": [
+    "Hold a current Pensioner Concession Card",
+    "Paid compulsory third party (CTP) insurance for either 6 or 12 months",
+    "No restrictions on your vehicle or driver licence",
+    "Safety inspection report sent electronically to Transport for NSW (if required and the registration period is unchanged)",
+    "Not having special number plates with fees payable",
+    "Not being conditionally registered"
+  ],
+  "what_you_need": [
+    "Current Pensioner Concession Card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Registration concessions and automatic renewal for pensioners – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals"
+    },
+    {
+      "text": "Safety checks and vehicle inspections",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "check to confirm your rego has been renewed",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    },
+    {
+      "text": "conditionally registered",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I change to a pensioner registration close to the expiry date?",
+      "a": "If you change to a pensioner registration within 6 weeks of your current registration's expiry date, it will not automatically renew. You must call 13 77 88 or visit a Service NSW Centre to renew.",
+      "link": null
+    },
+    {
+      "q": "How can I opt out of automatic rego renewal?",
+      "a": "You can opt out of automatic rego renewal by visiting a service centre or calling 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "How do I check if my vehicle registration has been renewed?",
+      "a": "You can check to confirm your rego has been renewed online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:53Z",
+    "last_modified": "6 May 2025",
+    "html_sha1": "c7486b9cb0501d4135d6637dbdf141a2e252016d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-the-10-50-vegetation-clearing-entitlement-area",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-the-10-50-vegetation-clearing-entitlement-area",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-the-10-50-vegetation-clearing-entitlement-area",
+  "title": "Check the 10/50 vegetation clearing entitlement area",
+  "summary": "Use this page to check if your property is in an area covered by the 10/50 Vegetation Clearing Scheme.",
+  "topics": [
+    "vegetation-clearing",
+    "property-clearing",
+    "rfs-nsw",
+    "home-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The scheme applies to trees within 10 metres of your home.",
+    "The scheme applies to underlying vegetation (such as shrubs, but not trees) within 50 metres of your home."
+  ],
+  "what_you_need": [
+    "Check if you live in a designated area."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "10/50 Vegetation Clearing Scheme",
+      "url": "https://www.rfs.nsw.gov.au/plan-and-prepare/1050-vegetation-clearing"
+    },
+    {
+      "text": "online tool",
+      "url": "https://www.rfs.nsw.gov.au/plan-and-prepare/1050-vegetation-clearing/tool#tool"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:47Z",
+    "last_modified": "7 February 2025",
+    "html_sha1": "c95f6a3256a7b51a65e4cccc924b998b5dcc61c0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

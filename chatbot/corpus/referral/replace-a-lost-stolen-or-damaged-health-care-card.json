@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-health-care-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-health-care-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "replace-a-lost-stolen-or-damaged-health-care-card",
+  "title": "Replace a lost, stolen or damaged Health Care Card",
+  "summary": "This page explains how to replace a lost, stolen, or damaged Health Care Card.",
+  "topics": [
+    "health-care-card",
+    "replace-card",
+    "concessions",
+    "australian-government"
+  ],
+  "intro": "An Australian Government Health Care Card entitles cardholders to cheaper prescription medicines under the Pharmaceutical Benefits Scheme as well as other concessions and benefits.\n\nYou may be eligible for a Health Care Card if you get specific payments or supplements from the Australian Government. You don't need to apply for a Health Care card, if you are eligible you will have one sent to you.\n\nYou also don't need to renew the card. If you're still eligible at time of renewal this will happen automatically.\n\nIf you lose your card or it gets damaged or stolen, you can replace it by:",
+  "who_can_apply": [
+    "You may be eligible for a Health Care Card if you receive specific payments or supplements from the Australian Government."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Health Care Card",
+      "url": "https://www.servicesaustralia.gov.au/health-care-card"
+    },
+    {
+      "text": "other concessions and benefits",
+      "url": "https://www.servicesaustralia.gov.au/what-benefits-are-health-care-card?context=21981"
+    },
+    {
+      "text": "eligible",
+      "url": "https://www.servicesaustralia.gov.au/who-can-get-health-care-card?context=21981"
+    },
+    {
+      "text": "myGov",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Centrelink Service Centre",
+      "url": "https://findus.servicesaustralia.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Access your myGov account",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-mygov-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What benefits does a Health Care Card provide?",
+      "a": "An Australian Government Health Care Card entitles cardholders to cheaper prescription medicines under the Pharmaceutical Benefits Scheme, as well as other concessions and benefits.",
+      "link": null
+    },
+    {
+      "q": "Do I need to apply for a Health Care Card?",
+      "a": "You do not need to apply for a Health Care Card; if you are eligible, one will be sent to you.",
+      "link": null
+    },
+    {
+      "q": "Do I need to renew my Health Care Card?",
+      "a": "No, you do not need to renew the card. If you are still eligible at the time of renewal, this will happen automatically.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:48Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "a0765daa75793edb24c0761627412aafbbf83795",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

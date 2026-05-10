@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-safework-nsw-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-safework-nsw-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-on-a-safework-nsw-licence",
+  "title": "Change details on a SafeWork NSW licence",
+  "summary": "Update your SafeWork NSW licence or card if you have changed your name or contact details.",
+  "topics": [
+    "safework-nsw",
+    "licence",
+    "change-details",
+    "name-change",
+    "contact-details"
+  ],
+  "intro": "If you change your name or contact details, you need to update your SafeWork NSW licence or card.\n\nFollow the steps on this page to update your:\n\nFor other SafeWork NSW licences",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your licence, certificate, or card number",
+    "A certified copy of either an Australian marriage certificate or an Australian change of name certificate (if changing your name)",
+    "A certified copy of any changes to your registered business or trading name certificate of registration (if changing your business or trading name)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find your SafeWork NSW licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "Once your new card arrives, you must return your old card within 7 days. You can post it to:Customer Service CentreSafeWork NSWLocked Bag 2906Lisarow NSW 2252.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "Licences and registration – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change details on a high risk work (HRW) licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "change details on a general construction card (white card) or traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card"
+    },
+    {
+      "text": "Add a digital licence or credential to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:51Z",
+    "last_modified": "7 May 2025",
+    "html_sha1": "cba0990a950b83fce4aa7ee41bd298193ad739b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-buyers-assistance-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-buyers-assistance-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-first-home-buyers-assistance-scheme",
+  "title": "Apply for the First Home Buyers Assistance scheme",
+  "summary": "Find out if you are eligible for exemptions or concessions on transfer duty under the First Home Buyers Assistance scheme.",
+  "topics": [
+    "first-home-buyers",
+    "transfer-duty",
+    "property-purchase",
+    "nsw-housing"
+  ],
+  "intro": "First home buyers may be eligible for exemptions or concessions on transfer duty under the First Home Buyers Assistance scheme.\n\nFor homes or vacant land bought from 1 July 2023, you can apply for a full exemption if:\n\nYou can apply for a concession if:\n\nFor homes or vacant land bought before 1 July 2023, refer to First Home Buyer Assistance scheme thresholds.",
+  "who_can_apply": [
+    "Must be an individual (not a company or trust) and at least 18 years old.",
+    "Applicant or co-purchaser must be an Australian citizen or permanent resident.",
+    "Applicant or spouse must not have previously purchased a home or vacant land.",
+    "Must have already exchanged contracts to purchase the first home or vacant land."
+  ],
+  "what_you_need": [
+    "First Home Buyers Assistance Scheme Application PDF form",
+    "Purchaser/Transferee Declaration (individual) PDF",
+    "Proof of identity",
+    "Agreement for sale or transfer",
+    "Supporting documents (as applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Download PDF form’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the application form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete Purchaser/Transferee Declaration (individual) – PDF.",
+      "link": "https://www.revenue.nsw.gov.au/help-centre/resources-library/forms/duty/oda076i.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Lodge the completed forms and supporting documents with your solicitor or conveyancer.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Penalties apply for false or misleading information.",
+      "link": null
+    },
+    {
+      "text": "You’ll need to occupy the home as your principal place of residence for 12 months continuously, within 12 months of the agreement.",
+      "link": null
+    },
+    {
+      "text": "Permanent members of the Australian Defence Force may be exempt from the 12 month residence requirement.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "First Home Buyer Assistance scheme thresholds",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/assistance-scheme"
+    },
+    {
+      "text": "Purchaser/Transferee Declaration (individual) – PDF",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/resources-library/forms/duty/oda076i.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/identity"
+    },
+    {
+      "text": "First Home Buyers Assistance Scheme Application – PDF",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/resources-library/forms/fhog/ODA066B.pdf"
+    },
+    {
+      "text": "First Home Buyers Assistance calculator – Revenue NSW",
+      "url": "https://www.apps09.revenue.nsw.gov.au/erevenue/calculators/fhba.php"
+    },
+    {
+      "text": "First Home Owner (New Homes) Grant – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/grants-schemes/first-home-buyer/first-home-owner-new-homes-grant"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the First Home Owner Grant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-owner-grant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for the First Home Buyers Assistance scheme?",
+      "a": "You must be an individual (not a company or trust), at least 18 years old. You, or at least one person you are buying with, must be an Australian citizen or permanent resident. You or your spouse must not have previously purchased a home or vacant land, and you must have already exchanged contracts to purchase your first home or vacant land.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the 'First Home Buyers Assistance Scheme Application' PDF form, the Purchaser/Transferee Declaration (individual) PDF, your proof of identity, the agreement for sale or transfer, and any other supporting documents.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the scheme?",
+      "a": "First, select the ‘Download PDF form’ button and complete the application form. Next, download and complete the Purchaser/Transferee Declaration (individual) PDF. Finally, lodge the completed forms and supporting documents with your solicitor or conveyancer.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:04Z",
+    "last_modified": "1 May 2025",
+    "html_sha1": "d13c7a5aae2602a8a0b56187cf3f4be837645bec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

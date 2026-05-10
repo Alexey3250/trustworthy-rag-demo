@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-for-lost-super",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-for-lost-super",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-for-lost-super",
+  "title": "Check for lost super",
+  "summary": "Find out about unclaimed superannuation funds that may be held by the ATO if you have changed your details or job.",
+  "topics": [
+    "superannuation",
+    "unclaimed-super",
+    "ato",
+    "lost-super"
+  ],
+  "intro": "If you've ever changed your name, address or job, it’s possible that you may have lost track of some of your super.\n\nIn certain circumstances, funds are required by law to transfer money to the Australian Taxation Office (ATO) as ‘unclaimed super’.\n\nIf the ATO is holding super for you, you’ll be able to transfer the money to an active super account or, if you meet the criteria, withdraw the balance.",
+  "who_can_apply": [
+    "Anyone who may have lost track of super due to changes in name, address, or job."
+  ],
+  "what_you_need": [
+    "None specified, but options include calling 13 28 65 or completing the PDF form Searching for lost and unclaimed super."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "log on to myGov",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "meet the criteria",
+      "url": "https://www.ato.gov.au/individuals-and-families/super-for-individuals-and-families/super/withdrawing-and-using-your-super"
+    },
+    {
+      "text": "Searching for lost and unclaimed super",
+      "url": "https://www.ato.gov.au/api/public/content/b5ce155115ed42859ca8fbca034b8ebc"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is unclaimed super?",
+      "a": "Unclaimed super are funds that are required by law to be transferred to the Australian Taxation Office (ATO) if you have changed your name, address, or job.",
+      "link": null
+    },
+    {
+      "q": "What are some types of unclaimed super?",
+      "a": "Types include funds for members aged 65 or older, non-member spouses, deceased members, former temporary residents, and certain accounts belonging to lost members.",
+      "link": null
+    },
+    {
+      "q": "How can I search for lost super?",
+      "a": "You can phone the ATO’s automated super search line on 13 28 65, or complete the PDF form Searching for lost and unclaimed super and post it.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:38Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "c71f10a7b047187009dc503903f165e300247df1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

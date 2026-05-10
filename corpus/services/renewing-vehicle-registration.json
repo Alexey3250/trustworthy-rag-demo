@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/renewing-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/renewing-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "renewing-vehicle-registration",
+  "title": "Renew a vehicle registration",
+  "summary": "This page provides information and links for various ways to renew a vehicle registration in New South Wales.",
+  "topics": [
+    "renew-vehicle-registration",
+    "pensioner-concessions",
+    "vehicle-defects",
+    "digital-registration",
+    "fees"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "NSW residents who own a vehicle needing registration renewal",
+    "Pensioners and carers who may be eligible for concessions or automatic renewal",
+    "Owners of vehicles with outstanding defects"
+  ],
+  "what_you_need": [
+    "Vehicle details",
+    "Proof of identity (if required for specific transactions)",
+    "Payment method (e.g., using BPAY)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "ACT vehicle registrations",
+      "link": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Renew the registration on a vehicle eligible for a concession",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession"
+    },
+    {
+      "text": "Renew the registration on a vehicle with outstanding defects",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-with-outstanding-defects"
+    },
+    {
+      "text": "Automatic rego renewal for pensioners",
+      "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    },
+    {
+      "text": "Find out about vehicle registration concessions for pensioners",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners"
+    },
+    {
+      "text": "Renew a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Replace a registration renewal notice",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-registration-renewal-notice"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    },
+    {
+      "text": "Using BPAY to renew your vehicle registration",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "ACT vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I renew my vehicle registration online?",
+      "a": "You can renew your vehicle registration online using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "q": "What if my vehicle has outstanding defects?",
+      "a": "There are specific steps available for renewing the registration of a vehicle that has outstanding defects.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-with-outstanding-defects"
+    },
+    {
+      "q": "Are there special renewal options for pensioners?",
+      "a": "Pensioners have options for automatic renewal or finding out about specific vehicle registration concessions.",
+      "link": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:46Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "03aee9dcee850ffb539bbe7deadb340051a584f6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

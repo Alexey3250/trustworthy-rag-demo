@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/learner-rider-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/learner-rider-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "learner-rider-licence",
+  "title": "Learner rider licence",
+  "summary": "Find information and apply for a learner rider licence in New South Wales.",
+  "topics": [
+    "learner-rider-licence",
+    "motorcycle",
+    "nsw-licence",
+    "apply-for-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Book a driver or rider licence test",
+      "link": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "link": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a learner rider licence (unserviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-unserviced-area"
+    },
+    {
+      "text": "Apply for a learner rider licence (MLTTS serviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-rider-licence-mltts-serviced-area"
+    },
+    {
+      "text": "Book a motorcycle rider training course",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:52Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "6710003719b93428e4e6d0578919d1d52a78e5d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-hunting",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-hunting",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dpi-hunting",
+  "title": "DPI Hunting",
+  "summary": "This page provides information about the Department of Primary Industries (DPI) and its services related to hunting.",
+  "topics": [
+    "hunting",
+    "department-of-primary-industries",
+    "wildlife",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au/hunting",
+      "url": "https://www.dpi.nsw.gov.au/hunting"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "882ca65749b1a0ae147497a33c4b42b5dcc0c823",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

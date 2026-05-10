@@ -1,0 +1,169 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-high-risk-work-licence",
+  "title": "Apply for a high risk work licence",
+  "summary": "This page explains how to apply for a high risk work (HRW) licence or an added class online if you have received a notice of satisfactory assessment (NSA).",
+  "topics": [
+    "high-risk-work-licence",
+    "licence-application",
+    "safe-work-nsw"
+  ],
+  "intro": "If you have been sent your notice of satisfactory assessment (NSA), you can complete your application for a high risk work (HRW) licence or added class online.\n\nYou must apply for your licence within 60 days of the date your NSA was issued.",
+  "who_can_apply": [
+    "Be aged 18 or over.",
+    "Have completed HRW training with a registered training organisation (RTO) in the appropriate class or classes.",
+    "Have been assessed as competent in the class by a SafeWork NSW accredited assessor working for the RTO and been sent your Notice of Satisfactory Assessment (NSA).",
+    "Be able to use English at a level that enables high risk work to be carried out safely."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Your current HRW licence (if you have one).",
+    "Fee payment.",
+    "Two documents from List 1, or one document from List 1 and one document from List 2.",
+    "Australian driver licence.",
+    "Australian passport.",
+    "Foreign passport with Australian visa.",
+    "Australian birth certificate.",
+    "Australian citizenship certificate.",
+    "Australian certificate of registration by descent.",
+    "ImmiCard.",
+    "Aviation and Maritime Security Identification card.",
+    "Medicare card.",
+    "Centrelink cards.",
+    "Veteran Card.",
+    "Proof of identity documents (details from 2 identity documents are required, at least one must be a photo ID).",
+    "If your name has changed due to marriage or divorce, you may need a document that links your name, such as a marriage certificate."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your MyService NSW account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "You'll get a confirmation email and receipt after you submit your application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "You may be required to visit a Service NSW Centre to have your photo taken.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 6,
+      "text": "You'll get your licence in the post.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find your high risk work licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/HRW"
+    },
+    {
+      "text": "Find help and information about MyServiceNSW Accounts.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "registered training organisation (RTO)",
+      "url": "https://verify.licence.nsw.gov.au/home/RTO"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "High risk work licence – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/high-risk-work-licence"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/HRW"
+    },
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    },
+    {
+      "text": "High risk work registered training organisations (RTOs) – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations/high-risk-work-rtos"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a high risk work licence assessment enrolment number",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence-assessment-enrolment-number"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "MyServiceNSW Accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Add your digital high risk work licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Renew a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence"
+    },
+    {
+      "text": "Change details on a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    },
+    {
+      "text": "Apply for a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to apply for my HRW licence?",
+      "a": "You must apply for your licence within 60 days of the date your Notice of Satisfactory Assessment (NSA) was issued.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the licence?",
+      "a": "You need a MyServiceNSW Account, your current HRW licence (if applicable), fee payment, and specific identity documents.",
+      "link": null
+    },
+    {
+      "q": "Do I need to visit a Service NSW Centre?",
+      "a": "You may be required to visit a Service NSW Centre to have your photo taken.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:35Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "952d93ee6c8c828632250cf1192e21dba71d2693",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

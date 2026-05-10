@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds",
+  "title": "Apply for a licence to be reissued after being surrendered on medical grounds",
+  "summary": "If you surrendered your licence on medical grounds and are now able to drive, you can apply for it to be reissued at a Service NSW Centre.",
+  "topics": [
+    "driver-licence",
+    "medical-grounds",
+    "reissue-licence",
+    "service-nsw"
+  ],
+  "intro": "If you had to surrender your licence on medical grounds and you're now able to drive again, you can visit a Service NSW Centre and apply for your licence to be reissued.",
+  "who_can_apply": [
+    "You must have surrendered your licence on medical grounds.",
+    "You must now be able to drive again."
+  ],
+  "what_you_need": [
+    "Your licence (if you have it) or proof of identity",
+    "A medical certificate signed by a medical practitioner, showing you meet the requirements to be reissued with your licence",
+    "The 'Licence Application' PDF form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all your documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Renewal notices are posted generally within 6 weeks of the card's expiry date.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Driving or riding with a disability – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability"
+    },
+    {
+      "text": "Alcohol and drug driving offences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a restricted journey licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-restricted-journey-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to apply for a reissued licence?",
+      "a": "You need your licence (if you have it) or proof of identity, a medical certificate signed by a medical practitioner, and the 'Licence Application' PDF form.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What is the first step in the application process?",
+      "a": "First, select the 'Download PDF form' button and complete the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:16Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "dfcce351f56136bf3d803868cb0b14aac7269c2d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

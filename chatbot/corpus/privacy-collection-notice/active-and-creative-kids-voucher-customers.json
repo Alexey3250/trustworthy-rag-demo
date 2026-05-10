@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/active-and-creative-kids-voucher-customers",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/active-and-creative-kids-voucher-customers",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "active-and-creative-kids-voucher-customers",
+  "title": "Active and Creative Kids voucher – Privacy Collection Notice for customers",
+  "summary": "This notice explains how Service NSW and the Department of Customer Service collect and use personal information for the Active and Creative Kids voucher program.",
+  "topics": [
+    "privacy",
+    "nsw-government",
+    "voucher-program",
+    "kids-activities"
+  ],
+  "intro": "This Privacy Collection Notice relates to the Active and Creative Kids voucher program.\n\nThe Active and Creative Kids Voucher Program (the Program) is being delivered by Service NSW and the Department of Customer Service (DCS) on behalf of the NSW Government. The Program aims to support certain families with school-aged children to access sport, recreational and/or creative and cultural activities. There is a separate privacy collection notice for providers.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Please see our privacy statement for more information about how Service NSW handles your personal information. This includes how you can access and seek correction of the information, how privacy enquiries or complaints can be made, how information is securely stored, and how to contact us. Service NSW is located at 2–24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Active and Creative Kids voucher program",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "privacy collection notice for providers",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/active-and-creative-kids-voucher-providers"
+    },
+    {
+      "text": "contacting us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/active-and-creative-kids-voucher-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is running the Active and Creative Kids voucher program?",
+      "a": "The program is delivered by Service NSW and the Department of Customer Service (DCS) on behalf of the NSW Government.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of the Active and Creative Kids voucher program?",
+      "a": "The program aims to support certain families with school-aged children to access sport, recreational and/or creative and cultural activities.",
+      "link": null
+    },
+    {
+      "q": "What types of personal information are collected?",
+      "a": "Information collected includes names, email addresses, dates of birth, phone numbers, residential addresses, driver licence details, Medicare card details, the child recipient’s details, your Services Australia CRN, and your eligibility for the Services Australia Family Tax Benefit (FTB).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:07Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "0c2636e979bc449f01dd99887cddfa701cd49185",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

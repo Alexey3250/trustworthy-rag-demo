@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-problem-with-a-parking-sign",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-problem-with-a-parking-sign",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-problem-with-a-parking-sign",
+  "title": "Report a problem with a parking sign",
+  "summary": "This page provides multiple ways to report a problem with a parking sign.",
+  "topics": [
+    "parking-signs",
+    "report-a-problem",
+    "nsw-roads",
+    "traffic-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The location of the parking sign",
+    "Details of the problems with the sign",
+    "A photo of the sign in .jpg or .png format",
+    "Your personal contact information (optional)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "online form",
+      "link": "https://feedback.transportnsw.info/s/?recordtype=012Ol0000055ClkIAE&l1=a16Ol000002vNDKIA2&l2=a16Ol000002vNF3IAM&l3=a16Ol000002vNMzIAM"
+    },
+    {
+      "n": 2,
+      "text": "phone 131 700",
+      "link": "tel:131700"
+    },
+    {
+      "n": 3,
+      "text": "other contact methods.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    },
+    {
+      "n": 4,
+      "text": "the location of the parking sign",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "details of the problems with the sign",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "a photo of the sign in .jpg or .png",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "your personal contact information if you want to be contacted.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online form",
+      "url": "https://feedback.transportnsw.info/s/?recordtype=012Ol0000055ClkIAE&l1=a16Ol000002vNDKIA2&l2=a16Ol000002vNF3IAM&l3=a16Ol000002vNMzIAM"
+    },
+    {
+      "text": "other contact methods",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    },
+    {
+      "text": "NSW Government Parking rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/parking/parking-rules"
+    },
+    {
+      "text": "Road User Handbook",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safety-updates-for-nsw-road-users/road-user-handbook"
+    },
+    {
+      "text": "Find your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Road Transport (General) Regulation 2021",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2021-0487"
+    },
+    {
+      "text": "Permit Parking Guidelines 2024",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2024/Permit%20-Parking-Guidelines-July%202024.pdf"
+    },
+    {
+      "text": "Road Rules 2014",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2014-0758"
+    },
+    {
+      "text": "Australian Road Rules",
+      "url": "https://www.ntc.gov.au/laws-and-regulations/australian-road-rules"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I report a problem with a parking sign?",
+      "a": "You can report a problem using an online form, by calling 131 700, or through other contact methods.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to report a problem?",
+      "a": "You should have the location of the parking sign, details of the problem, and a photo of the sign (in .jpg or .png format). Providing your personal contact information is optional.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:20Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "b1693f388a48d63c53a75e6772ee0aac385a6d61",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

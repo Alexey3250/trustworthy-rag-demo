@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/armidale-youth-justice-community-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/armidale-youth-justice-community-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "armidale-youth-justice-community-office",
+  "title": "Armidale Youth Justice Community Office",
+  "summary": "This page provides information about the Armidale Youth Justice Community Office.",
+  "topics": [
+    "youth-justice",
+    "community-office",
+    "armidale"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:27Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ea9f8dca0c315e4582c1f9cf2aa0ba10454bd10d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

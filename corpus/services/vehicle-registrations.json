@@ -1,0 +1,172 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/vehicle-registrations",
+  "source_url": "https://www.service.nsw.gov.au/services/vehicle-registrations",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "vehicle-registrations",
+  "title": "Vehicle registrations",
+  "summary": "This page provides information and links for all services related to vehicle registrations in New South Wales.",
+  "topics": [
+    "vehicle-registration",
+    "buying-selling-vehicles",
+    "vehicle-safety-checks",
+    "vehicle-fees",
+    "vehicle-permits"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Order a vehicle history report",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Sell a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Buy a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Change a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/changing-vehicle-registration"
+    },
+    {
+      "text": "Cancel a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/cancelling-vehicle-registration"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Apply to restrict dealing on a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-restrict-dealing-on-a-vehicle"
+    },
+    {
+      "text": "Renew a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/renewing-vehicle-registration"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Register a vehicle",
+      "url": "https://www.service.nsw.gov.au/services/registering-vehicle"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "Safety checks, inspections and vehicle changes",
+      "url": "https://www.service.nsw.gov.au/services/safety-checks-inspections-and-vehicle-changes"
+    },
+    {
+      "text": "Find a licensed certifier for emissions testing",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-certifier-for-emissions-testing"
+    },
+    {
+      "text": "Use the Green Slip Price Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-green-slip-price-check"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Check motor vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    },
+    {
+      "text": "Check vehicles eligible for motor vehicle tax concession",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession"
+    },
+    {
+      "text": "Savings Finder: Driving",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder#driving"
+    },
+    {
+      "text": "Unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/unregistered-vehicle-permit"
+    },
+    {
+      "text": "Heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/conditional-vehicle-registration"
+    },
+    {
+      "text": "Fleet vehicles: bulk register with a common expiry date",
+      "url": "https://www.service.nsw.gov.au/transaction/bulk-register-fleet-vehicles-with-a-common-expiry-date"
+    },
+    {
+      "text": "Seasonal vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/seasonal-vehicle-registration"
+    },
+    {
+      "text": "Public passenger vehicles (taxis, buses and hire cars)",
+      "url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars"
+    },
+    {
+      "text": "ACT driver licences and vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check a vehicle's registration or history?",
+      "a": "You can check a vehicle registration or order a vehicle history report using the dedicated service links.",
+      "link": null
+    },
+    {
+      "q": "What services are available for changing vehicle ownership?",
+      "a": "You can transfer, sell, buy, change, or cancel a vehicle registration, as well as apply to restrict dealing on a vehicle.",
+      "link": null
+    },
+    {
+      "q": "How do I renew or register a vehicle?",
+      "a": "You can renew a vehicle registration, register a new vehicle, or replace a vehicle's registration certificate online.",
+      "link": null
+    },
+    {
+      "q": "What services are available for specialized vehicle types?",
+      "a": "Services cover heavy vehicles, public passenger vehicles, fleet vehicles, and seasonal registrations.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:49Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "cab2b961112ea23baa198e375e80b0a6d84de3dd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

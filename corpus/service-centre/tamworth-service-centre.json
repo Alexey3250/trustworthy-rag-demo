@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/tamworth-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/tamworth-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "tamworth-service-centre",
+  "title": "Tamworth Service Centre",
+  "summary": "This page provides information about the Tamworth Service Centre, including payment options and accessibility facilities.",
+  "topics": [
+    "service-centre",
+    "tamworth",
+    "accessibility",
+    "payment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-31.094518,150.933842"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Quirindi Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/quirindi-agency"
+    },
+    {
+      "text": "Walcha Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/walcha-agency"
+    },
+    {
+      "text": "Gunnedah Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/gunnedah-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:01Z",
+    "last_modified": null,
+    "html_sha1": "2044f6cbecc6a2928cb335f813280d557e3a8f74",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

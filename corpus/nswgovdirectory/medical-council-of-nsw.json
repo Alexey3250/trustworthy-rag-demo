@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/medical-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/medical-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "medical-council-of-nsw",
+  "title": "Medical Council of NSW",
+  "summary": "This page provides information about the Medical Council of NSW, which is a professional body for medical practitioners.",
+  "topics": [
+    "medical-council",
+    "nsw-health",
+    "practitioner-information",
+    "medical-profession"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.mcnsw.org.au/",
+      "url": "https://www.mcnsw.org.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:40Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e55ad044343a3f178a9dca5b3bae43a548da844a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

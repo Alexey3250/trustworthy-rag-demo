@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/driving-handbooks",
+  "source_url": "https://www.service.nsw.gov.au/services/driving-handbooks",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "driving-handbooks",
+  "title": "Driving handbooks",
+  "summary": "Find and access various handbooks and guides for safe driving practices in New South Wales.",
+  "topics": [
+    "driving-handbooks",
+    "road-safety",
+    "driver-education",
+    "motorcycle-riding"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "link": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Hazard Perception Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/hazard-perception-handbook"
+    },
+    {
+      "text": "Road User Handbook",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "Check the On the Road 65Plus guide",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-on-the-road-65plus-guide"
+    },
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which handbook should I use for general road safety advice?",
+      "a": "The Road User Handbook provides general advice on safe driving practices.",
+      "link": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "q": "Where can I find guidance on hazard perception?",
+      "a": "You can access the Hazard Perception Handbook for specific guidance on recognizing road hazards.",
+      "link": "https://www.service.nsw.gov.au/transaction/hazard-perception-handbook"
+    },
+    {
+      "q": "Are there guides for older drivers?",
+      "a": "Yes, the Check the On the Road 65Plus guide offers advice tailored for drivers aged 65 and over.",
+      "link": "https://www.service.nsw.gov.au/referral/check-the-on-the-road-65plus-guide"
+    },
+    {
+      "q": "Do I need a specific guide for motorcycles?",
+      "a": "Motorcycle riders can use the dedicated Motorcycle Riders' Handbook for relevant information.",
+      "link": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:45Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "bba9af31443b543837ef4352af67dfde6e544293",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

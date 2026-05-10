@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/combat-sports-application-provide-additional-information",
+  "source_url": "https://www.service.nsw.gov.au/transaction/combat-sports-application-provide-additional-information",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "combat-sports-application-provide-additional-information",
+  "title": "Provide additional information for a combat sports application",
+  "summary": "This page provides instructions on how to submit additional information if your initial combat sports application was incomplete.",
+  "topics": [
+    "combat-sports",
+    "application",
+    "additional-information",
+    "my-servicesnsw"
+  ],
+  "intro": "If you have been asked to provide more information, it means that the information you provided did not meet the application requirements.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your application or registration number",
+    "Your RAI (Request Additional Information) number (including all digits and letters)",
+    "The additional information you have been requested to provide"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to provide the additional information.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Combat Sports Privacy Collection Notice",
+      "url": "https://www.sport.nsw.gov.au/combatsports/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Apply for an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-participant-and-promoter"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I am unsure of the information I need to provide?",
+      "a": "Contact the Combat Sports Authority on 13 13 02.",
+      "link": null
+    },
+    {
+      "q": "What do I need to provide additional information?",
+      "a": "You need a MyServiceNSW Account, your application or registration number, your RAI (Request Additional Information) number, and the additional information requested.",
+      "link": null
+    },
+    {
+      "q": "How do I submit the additional information?",
+      "a": "Gather the required details and documents, select the 'Apply online' button, log in to your MyServiceNSW Account, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:43Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "3700f92394a17f3a6c38919075bdf5ee022c7be9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

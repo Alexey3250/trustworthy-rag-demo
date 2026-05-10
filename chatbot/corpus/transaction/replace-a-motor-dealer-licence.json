@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-motor-dealer-licence",
+  "title": "Replace a motor dealer licence",
+  "summary": "You can apply for a replacement motor dealer licence if your current licence is damaged, lost, or stolen, at a Service NSW Centre.",
+  "topics": [
+    "motor-dealer-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If you have a motor dealer licence and it's been damaged, lost or stolen, you can apply for a replacement at a Service NSW Centre.\n\nTo look up your motor dealer licence number and details, visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A written request",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/licensing-fees"
+    },
+    {
+      "text": "Working as a motor dealer: business obligations in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "Motor dealers/recyclers licence information",
+      "url": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    },
+    {
+      "text": "Required forms for motor dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/required-forms-for-motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details on a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence"
+    },
+    {
+      "text": "Renew a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence"
+    },
+    {
+      "text": "Restore a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my motor dealer licence number and details?",
+      "a": "You can look up your motor dealer licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:58Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "bb854b24917ab2c922cfe29fde5cded0568e1bbe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bourke-youth-justice-community-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bourke-youth-justice-community-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bourke-youth-justice-community-office",
+  "title": "Bourke Youth Justice Community Office",
+  "summary": "This page provides information about the Bourke Youth Justice Community Office.",
+  "topics": [
+    "youth-justice",
+    "community-office",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services/community-offices"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:25Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "baef72d3813ac16306cb79769b64fd03f72db961",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

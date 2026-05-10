@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/search-for-an-organisation-or-business",
+  "source_url": "https://www.service.nsw.gov.au/referral/search-for-an-organisation-or-business",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "search-for-an-organisation-or-business",
+  "title": "Search for an organisation or business",
+  "summary": "This page provides information and links to search for details about organizations and businesses using the Australian Securities and Investments Commission (ASIC).",
+  "topics": [
+    "asic",
+    "business-search",
+    "organisation-details",
+    "corporate-information"
+  ],
+  "intro": "Australian Securities and Investments Commission (ASIC) is Australia’s corporate, markets and financial services regulator. It ensures that Australia’s financial markets are fair and transparent, and supported by confident and informed investors and consumers.\n\nASIC also provides information on registered and deregistered companies, business names and other organisations.\n\nYou can search for an organisation or business, basic details of lodged documents with ASIC and more. You can do this online using ASIC Connect search.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ASIC Connect search.",
+      "url": "https://connectonline.asic.gov.au/RegistrySearch/"
+    },
+    {
+      "text": "Australian Securities and Investments Commission – ASIC",
+      "url": "https://www.asic.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Find unclaimed money with ASIC's MoneySmart",
+      "url": "https://www.service.nsw.gov.au/transaction/find-unclaimed-money-with-asics-moneysmart"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:15Z",
+    "last_modified": "20 April 2026",
+    "html_sha1": "73eabae6a2a6caf3fc43536d588ad860aace0756",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

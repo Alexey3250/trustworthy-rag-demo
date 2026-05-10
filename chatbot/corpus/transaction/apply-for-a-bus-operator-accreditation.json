@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-operator-accreditation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-operator-accreditation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-bus-operator-accreditation",
+  "title": "Apply for a bus operator accreditation",
+  "summary": "You can apply for accreditation as a bus operator online through Transport for NSW.",
+  "topics": [
+    "bus-operator",
+    "accreditation",
+    "transport-nsw",
+    "business-services"
+  ],
+  "intro": "You can apply for accreditation as a bus operator, online.\n\nTo determine your eligibility and thoroughly assess your application, Transport for NSW (TfNSW) requires specific documentation from you. Ensure you can provide the documentation before you apply.",
+  "who_can_apply": [
+    "Be a person of good repute.",
+    "Be financially capable of carrying on a bus service.",
+    "Have local council approval for the nominated bus depot.",
+    "Successfully complete the Bus Operator Accreditation Scheme- BOAS (on-line) Training Course."
+  ],
+  "what_you_need": [
+    "A copy of your Australian driver licence (scanned as a PDF). If you hold an interstate licence or do not hold an Australian driver licence, you need a secondary proof of identity document.",
+    "A copy of your Bus Operator Accreditation certificate.",
+    "A valid email address.",
+    "Evidence you've paid the non-refundable application fee.",
+    "A National Police check issued no more than 3 months prior to this application.",
+    "The Bus Operator Accreditation Package – PDF.",
+    "An additional statement from a qualified accountant regarding the solvency and general financial standing of the corporation (if applicable).",
+    "A signed lease arrangement with the owner of the property showing the address of the depot (if applicable).",
+    "A signed statement declaring any bankruptcy, criminal or civil convictions, or charges pending that have occurred within the last 5 years (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you have all the documents you'll need to upload.",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/operators/applying-for-bus-operator-0#Collect_supporting_documents"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Next' button and complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Upload your documentation.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Bus Operator Accreditation Scheme- BOAS (on-line) Training Course",
+      "url": "https://short-courses.sydney.edu.au/course/BOAS"
+    },
+    {
+      "text": "secondary proof of identity document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#toc-secondary-identification-documents---list-2"
+    },
+    {
+      "text": "application fee",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/fees"
+    },
+    {
+      "text": "National Police check",
+      "url": "https://portal.police.nsw.gov.au/s/policecheck-definition"
+    },
+    {
+      "text": "Bus Operator Accreditation Package – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2025/bus-operator-accreditation-package_0.pdf"
+    },
+    {
+      "text": "documents you'll need to upload",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/operators/applying-for-bus-operator-0#Collect_supporting_documents"
+    },
+    {
+      "text": "Bus operator accreditation help guide – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2025/bus-operator-accreditation-help-guide-2025-04.pdf"
+    },
+    {
+      "text": "All about bus operator accreditation",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/operators"
+    },
+    {
+      "text": "Bus operator accreditation FAQS",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/operators/applying-for-bus-operator-0#Frequently_asked_questions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Replace a lost, stolen or damaged bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online"
+    },
+    {
+      "text": "Renew a bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-driver-authority-online"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:21Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "0ed1fecb16cf60f1c8c2b8163737629921c09063",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

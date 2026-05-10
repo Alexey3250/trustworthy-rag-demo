@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/verifying-your-identity",
+  "source_url": "https://www.service.nsw.gov.au/verifying-your-identity",
+  "category": "verifying-your-identity",
+  "article_kind": "content",
+  "slug": "verifying-your-identity",
+  "title": "Verifying your identity",
+  "summary": "This page provides information about the process and requirements for verifying your identity with Service NSW.",
+  "topics": [
+    "identity-verification",
+    "documents",
+    "biometrics",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Australian driver licence",
+    "Australian passport",
+    "Foreign passport (Australian visa)",
+    "Australian birth certificate (not a commemorative birth certificate)",
+    "Australian certificate of registration by descent",
+    "Australian citizenship certificate",
+    "ImmiCard",
+    "Medicare card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Prepare your documents in case of an emergency",
+      "link": "https://www.nsw.gov.au/emergency/prepare-for-a-disaster/be-ready-for-an-emergency-evacuation/emergency-doc-prep"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Prepare your documents in case of an emergency",
+      "url": "https://www.nsw.gov.au/emergency/prepare-for-a-disaster/be-ready-for-an-emergency-evacuation/emergency-doc-prep"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "See examples",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity/document-examples"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens to my biometric data after verification?",
+      "a": "The government will not retain any biometric data regardless of the outcome. After a successful check, all biometric data is permanently destroyed. Only a transaction log (result, date, time, transaction type) is retained for auditing, and no personal information is stored in this log.",
+      "link": null
+    },
+    {
+      "q": "What documents can I use to verify my identity?",
+      "a": "You can use documents such as an Australian driver licence, Australian passport, foreign passport (with an Australian visa), Australian birth certificate, Australian certificate of registration by descent, Australian citizenship certificate, ImmiCard, or Medicare card.",
+      "link": null
+    },
+    {
+      "q": "Why am I asked to verify my identity?",
+      "a": "The page mentions that identity information is required, but does not specify the reasons why a citizen might be asked for it.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:26Z",
+    "last_modified": "11 December 2025",
+    "html_sha1": "0bec58fc99eece9e9964338851312549d0386d57",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

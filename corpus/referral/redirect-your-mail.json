@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/redirect-your-mail",
+  "source_url": "https://www.service.nsw.gov.au/referral/redirect-your-mail",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "redirect-your-mail",
+  "title": "Redirect your mail",
+  "summary": "This page provides information on how to redirect your mail, covering both personal and business services.",
+  "topics": [
+    "mail-redirection",
+    "personal-mail",
+    "business-mail",
+    "australia-post"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "For personal mail, you need your new and old address details, your contact details, the name of each person redirecting mail, your proof of identity documents, your concession card (if applicable), and payment.",
+    "For business mail, specific requirements are not detailed on this page."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://auspost.com.au/receiving/mail-redirection-mail-hold/redirection#proving-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://auspost.com.au/receiving/manage-your-mail/redirect-hold-mail/redirect-mail#personal"
+    },
+    {
+      "text": "Mail redirection – Australia Post",
+      "url": "https://auspost.com.au/receiving/mail-redirection-mail-hold/redirection"
+    },
+    {
+      "text": "Business mail redirection – Australia Post",
+      "url": "https://auspost.com.au/business/business-admin/mail-redirection-mail-hold/mail-redirection"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:33Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "0616068627d6f9eca9a795104a6cfe2920372ea6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

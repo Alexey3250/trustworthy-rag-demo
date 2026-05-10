@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/st-marys-driver-testing-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/st-marys-driver-testing-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "st-marys-driver-testing-centre",
+  "title": "St Marys Driver Testing Centre",
+  "summary": "This page provides information about the St Marys Driver Testing Centre, including services offered, opening hours, and how to plan a visit.",
+  "topics": [
+    "driver-testing",
+    "st-marys",
+    "service-centre",
+    "driver-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Payment can be made using EFTPOS, credit, or debit cards."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.778811,150.770701"
+    },
+    {
+      "text": "online booking system",
+      "url": "https://www.myrta.com/wps/portal/extvp/myrta/licence/tbs/tbs-login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDTxcA8JCjcwNLYxNXQw83ZzNnQz9AwwNnA31wyEKcABHA_0oQvqj8CrxNkZXYBDsaWbg6RQa5h_maGxoEUJAgbsZXAFuRxbkRhhkeqYrAgDLGG77/dz/d5/L2dBISEvZ0FBIS9nQSEh/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "map search tool",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Driver testing",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Mount Druitt Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/mount-druitt-service-centre"
+    },
+    {
+      "text": "Penrith Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/penrith-service-centre"
+    },
+    {
+      "text": "Glenmore Park Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/glenmore-park-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services are available at the St Marys Driver Testing Centre?",
+      "a": "The centre offers the Driver Knowledge Test (DKT) and general driver testing.",
+      "link": null
+    },
+    {
+      "q": "How can I book a test at the St Marys centre?",
+      "a": "You can book tests using the online booking system.",
+      "link": "https://www.myrta.com/wps/portal/extvp/myrta/licence/tbs/tbs-login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDTxcA8JCjcwNLYxNXQw83ZzNnQz9AwwNnA31wyEKcABHA_0oQvqj8CrxNkZXYBDsaWbg6RQa5h_maGxoEUJAgbsZXAFuRxbkRhhkeqYrAgDLGG77/dz/d5/L2dBISEvZ0FBIS9nQSEh/"
+    },
+    {
+      "q": "Where can I find the St Marys Driver Testing Centre?",
+      "a": "You can get directions to the centre using the provided map link.",
+      "link": "https://www.google.com/maps/dir/?api=1&destination=-33.778811,150.770701"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:04Z",
+    "last_modified": null,
+    "html_sha1": "b0d4dbb73c244317ff30f0020c62fabad32fe125",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

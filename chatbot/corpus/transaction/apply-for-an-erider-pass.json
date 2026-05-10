@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-erider-pass",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-erider-pass",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-erider-pass",
+  "title": "Apply for an ERider pass",
+  "summary": "Learn how to apply for an ERider pass, which provides unlimited travel on the Sydney Harbour Bridge and Sydney Harbour Tunnel for motorcyclists.",
+  "topics": [
+    "motorcyclist",
+    "erider-pass",
+    "sydney-harbour-bridge",
+    "sydney-harbour-tunnel"
+  ],
+  "intro": "ERider provides motorcyclists with a flat fee for unlimited travel on the Sydney Harbour Bridge and Sydney Harbour Tunnel. The fee payment is collected every 3 months from your ERider account.\n\nYou do not need to carry a tag as your licence plate number is photographed and matched to your ERider account.\n\nYou can apply for an ERider account online.",
+  "who_can_apply": [
+    "motorcyclists"
+  ],
+  "what_you_need": [
+    "a credit or debit card",
+    "your licence plate number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Under 'Type of account', select 'E-Rider'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for an ERider pass.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "To pay at a service centre, check the payment options available.",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "n": 5,
+      "text": "Some service centres do not accept cash payments.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "save with an ERider account",
+      "url": "https://www.myetoll.transport.nsw.gov.au/erider-account"
+    },
+    {
+      "text": "Terms and Conditions – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/e-toll-terms-and-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "payment options available",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How is the ERider fee paid?",
+      "a": "The fee payment is collected every 3 months from your ERider account.",
+      "link": null
+    },
+    {
+      "q": "Do I need to carry a physical tag?",
+      "a": "No, you do not need to carry a tag because your licence plate number is photographed and matched to your ERider account.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for an ERider account?",
+      "a": "You can apply for an ERider account online by selecting 'Apply online', choosing 'E-Rider' under 'Type of account', and following the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:48Z",
+    "last_modified": "13 January 2026",
+    "html_sha1": "cfb8b235513710016ededdccd548db6f10853551",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

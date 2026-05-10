@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/selling-to-the-nsw-government",
+  "source_url": "https://www.service.nsw.gov.au/business/selling-to-the-nsw-government",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "selling-to-the-nsw-government",
+  "title": "Selling to the NSW Government",
+  "summary": "Find out how to sell your goods and services to the NSW Government.",
+  "topics": [
+    "selling-to-government",
+    "business-suppliers",
+    "nsw-government-contracts"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Businesses looking to sell goods or services to the NSW Government."
+  ],
+  "what_you_need": [
+    "A business that provides goods or services.",
+    "Access to the buy NSW Supplier Hub and buy NSW Opportunities Hub."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "regional NSW",
+      "url": "https://info.buy.nsw.gov.au/supplier-guidance/supply-to-government/smes"
+    },
+    {
+      "text": "Aboriginal-owned",
+      "url": "https://info.buy.nsw.gov.au/supplier-guidance/supply-to-government/aboriginal-suppliers"
+    },
+    {
+      "text": "Book a call to get started",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=stg"
+    },
+    {
+      "text": "buy NSW Supplier Hub",
+      "url": "https://buy.nsw.gov.au/suppliers"
+    },
+    {
+      "text": "buy NSW Opportunities Hub",
+      "url": "https://buy.nsw.gov.au/opportunity"
+    },
+    {
+      "text": "Faster Payment Terms Policy",
+      "url": "https://www.info.buy.nsw.gov.au/policy-library/policies/faster-payment-terms"
+    },
+    {
+      "text": "Introduction to selling to government",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resource/qvubnakl"
+    },
+    {
+      "text": "buy NSW website",
+      "url": "https://buy.nsw.gov.au"
+    },
+    {
+      "text": "guide",
+      "url": "https://www.smallbusiness.nsw.gov.au/resources/guides/selling-nsw-government-guide-2023#archive"
+    },
+    {
+      "text": "factsheet",
+      "url": "https://www.smallbusiness.nsw.gov.au/resources/factsheets/selling-nsw-government-quick-reference-factsheet-2023"
+    },
+    {
+      "text": "training and resources",
+      "url": "https://www.smallbusiness.nsw.gov.au/training-and-resources"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find information about selling to the NSW Government?",
+      "a": "You can find resources and guides on selling to the NSW Government, including a quick reference factsheet.",
+      "link": "https://www.smallbusiness.nsw.gov.au/resources/factsheets/selling-nsw-government-quick-reference-factsheet-2023"
+    },
+    {
+      "q": "What are the main ways to find opportunities to sell to the NSW Government?",
+      "a": "You can check the buy NSW Opportunities Hub and the buy NSW Supplier Hub for opportunities.",
+      "link": null
+    },
+    {
+      "q": "Are there specific resources for Aboriginal-owned businesses?",
+      "a": "Yes, there are specific resources available for Aboriginal-owned businesses.",
+      "link": "https://info.buy.nsw.gov.au/supplier-guidance/supply-to-government/aboriginal-suppliers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:41Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "9444a0ca9c4bbebeb3153a9f6ce612a615afe1d6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

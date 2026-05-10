@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-a-limited-liquor-licence-functions-notification",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-a-limited-liquor-licence-functions-notification",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-a-limited-liquor-licence-functions-notification",
+  "title": "Submit a limited liquor licence functions notification",
+  "summary": "Limited liquor licence holders must notify NSW Police of the dates they plan to sell or supply alcohol at functions.",
+  "topics": [
+    "liquor-licence",
+    "functions",
+    "nsw-police",
+    "alcohol-supply"
+  ],
+  "intro": "If you hold a limited liquor licence, you must notify NSW Police of the dates you intend to sell or supply alcohol at your functions.\n\nYou can submit your notification for one or more functions by completing a form and lodging it at your local police station. There is no fee for the notification.\n\nYou must submit the notification at least 14 days before the earliest function on the form.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Hold a limited liquor licence"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Limited licence functions: police notification'",
+    "The licence name and number",
+    "The details of the function"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Limited licence functions: police notification – PDF.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/licence-types/resources-limited-licence"
+    },
+    {
+      "n": 2,
+      "text": "Lodge the completed form at your local police station.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "responsible service of alcohol",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/licence-responsibilities"
+    },
+    {
+      "text": "Limited licence functions: police notification – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/licence-types/resources-limited-licence"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a liquor licence exemption for a non-profit organisation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation"
+    },
+    {
+      "text": "Apply for a limited liquor licence – single function",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-single-function"
+    },
+    {
+      "text": "Apply for a limited liquor licence – multiple functions",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-multiple-functions"
+    },
+    {
+      "text": "Apply for a limited liquor licence – special event",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-special-event"
+    },
+    {
+      "text": "Apply for a limited liquor licence – trade fair",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-trade-fair"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a fee to submit the functions notification?",
+      "a": "No, there is no fee for the notification.",
+      "link": null
+    },
+    {
+      "q": "How far in advance must I submit the notification?",
+      "a": "You must submit the notification at least 14 days before the earliest function on the form.",
+      "link": null
+    },
+    {
+      "q": "Who do I contact with questions about liquor licensing?",
+      "a": "For questions or feedback about liquor licensing, contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:06Z",
+    "last_modified": "1 September 2025",
+    "html_sha1": "58fcaca7003ef9121e8f10f995837b7a7acc0723",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

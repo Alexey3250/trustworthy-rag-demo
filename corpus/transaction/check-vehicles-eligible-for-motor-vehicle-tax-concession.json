@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-vehicles-eligible-for-motor-vehicle-tax-concession",
+  "title": "Check vehicles eligible for motor vehicle tax concession",
+  "summary": "Find out if your vehicle is eligible for a concession on motor vehicle tax because it has a lower environmental impact.",
+  "topics": [
+    "motor-vehicle-tax",
+    "concession",
+    "environment",
+    "vehicle-tax"
+  ],
+  "intro": "Vehicles that have a lower impact on the environment can get a concession on motor vehicle tax.\n\nThese lower taxed vehicles include:\n\nPrivate vehicles that have been modified for wheelchair transport may be eligible for the reduced vehicle tax rate.\n\nThe reduced rate is applied when you register the vehicle.\n\nNote: If you receive the Commonwealth Carer Allowance, you may also be eligible. Visit Apply for a carer's registration refund for more information.",
+  "who_can_apply": [
+    "Vehicles that have a lower impact on the environment.",
+    "Private vehicles modified for wheelchair transport.",
+    "Receiving the Commonwealth Carer Allowance."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Green Vehicle Guide",
+      "url": "https://www.greenvehicleguide.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a carer's registration refund",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of vehicles can receive a motor vehicle tax concession?",
+      "a": "Vehicles that have a lower impact on the environment may be eligible for a concession on motor vehicle tax.",
+      "link": null
+    },
+    {
+      "q": "Am I eligible for a reduced vehicle tax rate if I use a modified vehicle for wheelchair transport?",
+      "a": "Private vehicles that have been modified for wheelchair transport may be eligible for the reduced vehicle tax rate when you register the vehicle.",
+      "link": null
+    },
+    {
+      "q": "Can receiving the Commonwealth Carer Allowance make me eligible for a concession?",
+      "a": "If you receive the Commonwealth Carer Allowance, you may also be eligible for a concession. You can visit the Apply for a carer's registration refund page for more information.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:25Z",
+    "last_modified": "17 February 2026",
+    "html_sha1": "31cf2c47b1c58d6152e058f21cfedd65302f91c2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/traders-plates",
+  "source_url": "https://www.service.nsw.gov.au/services/traders-plates",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "traders-plates",
+  "title": "Trader's plates",
+  "summary": "This page provides information on how to manage and apply for various types of trader's plates in NSW.",
+  "topics": [
+    "traders-plates",
+    "number-plates",
+    "vehicle-registration"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Number plates",
+      "link": "https://www.service.nsw.gov.au/services/number-plates"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates"
+    },
+    {
+      "text": "Apply for an additional trader's plate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate"
+    },
+    {
+      "text": "Renew trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-traders-plates"
+    },
+    {
+      "text": "Replace trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-traders-plates"
+    },
+    {
+      "text": "Cancel a trader's plate",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-traders-plate"
+    },
+    {
+      "text": "Number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for trader's plates?",
+      "a": "You can apply for trader's plates using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates"
+    },
+    {
+      "q": "What if I need an extra trader's plate?",
+      "a": "You can apply for an additional trader's plate through the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate"
+    },
+    {
+      "q": "How do I renew or replace my trader's plates?",
+      "a": "You can renew or replace your trader's plates using the specific online services.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:59Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "44132616935985740be15e9c2a15760e80b77e22",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

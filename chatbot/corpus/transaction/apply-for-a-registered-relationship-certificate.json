@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-registered-relationship-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-registered-relationship-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-registered-relationship-certificate",
+  "title": "Apply for a registered relationship certificate",
+  "summary": "Learn how to request a registered or revoked relationship certificate if your relationship is or was on the NSW Relationships Register.",
+  "topics": [
+    "relationship-certificate",
+    "nsw-relationships-register",
+    "de-facto-couples",
+    "apply-for-certificate"
+  ],
+  "intro": "The NSW Relationships Register provides legal recognition for de facto couples.\n\nIf your relationship is on the Register, or was previously on the Register, you're able to request a registered relationship certificate or revoked relationship certificate.\n\nYou can do this in person at a service centre, or by mail.",
+  "who_can_apply": [
+    "Your relationship must be or have been registered on the NSW Relationship Register.",
+    "You must be one of the people listed on the register as being or having been in the relationship."
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "The reason you need the certificate",
+    "Three personal identity documents specified on the form",
+    "Payment",
+    "The PDF form: 'Relationship Certificate Application'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a service centre and lodge your application in person, or post the information to:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Certificates are sent by the Registry of Births, Deaths & Marriages via registered post. They cannot be collected at a service centre.",
+      "link": null
+    },
+    {
+      "text": "Processing times commence when applications are received in full compliance with Registry requirements, and exclude delivery time.",
+      "link": null
+    },
+    {
+      "text": "If you change your mind, or decide the certificate is no longer required, your application fee will not be refunded.",
+      "link": null
+    },
+    {
+      "text": "We suggest you do not laminate your certificates. Where possible, identity documents should be kept in their original state.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "letter of authority",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-letter-of-authority.pdf"
+    },
+    {
+      "text": "ID Support NSW",
+      "url": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages/products-and-services"
+    },
+    {
+      "text": "Form 16: Relationship certificate application – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2025-12/relationship-certificate-application.pdf"
+    },
+    {
+      "text": "Request for original registration form – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-original-registration-form.pdf"
+    },
+    {
+      "text": "NSW relationship register – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/relationship-register"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply to register a relationship in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a registered relationship certificate?",
+      "a": "You must be one of the people listed on the NSW Relationship Register, or have been in the relationship.",
+      "link": null
+    },
+    {
+      "q": "How can I submit my application?",
+      "a": "You can apply in person at a service centre or by mail.",
+      "link": null
+    },
+    {
+      "q": "What is the first step to applying for a certificate?",
+      "a": "You must first check the eligibility requirements.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:06Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "a959c6812828f76d09b04d284b6b39a22961fc85",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

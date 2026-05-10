@@ -1,0 +1,44 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-services/service-centre-photos",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-services/service-centre-photos",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "service-centre-photos",
+  "title": "Getting your photo taken at a service centre",
+  "summary": "This page provides guidelines for taking a photo at a Service NSW centre.",
+  "topics": [
+    "photo-guidelines",
+    "service-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Find a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Your responsibilities when visiting a service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/your-responsibilities"
+    },
+    {
+      "text": "Service centre Quiet Hour",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:55Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "e2a2dfc42642486b31034449253cec513809c7bc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

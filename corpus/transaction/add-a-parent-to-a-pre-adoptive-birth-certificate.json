@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-a-parent-to-a-pre-adoptive-birth-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-a-parent-to-a-pre-adoptive-birth-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-a-parent-to-a-pre-adoptive-birth-certificate",
+  "title": "Add a parent to a pre-adoptive birth certificate",
+  "summary": "Learn how to apply to have your details added to your child's pre-adoptive birth certificate if the child's birth was registered in NSW.",
+  "topics": [
+    "birth-certificate",
+    "adoption",
+    "biological-parent",
+    "nsw-registry"
+  ],
+  "intro": "If you're the biological parent, you can apply to have your details added to your child's pre-adoptive birth registration, providing the child's birth was registered in NSW.\n\nYou'll need to provide the reason(s) why the details were not included at the time of the child's birth.",
+  "who_can_apply": [
+    "You must be the biological parent to apply to be added to your child's pre-adoptive birth certificate.",
+    "In some circumstances, the NSW Registry of Births, Deaths and Marriages may be able to add the biological parent's details if the child makes the request."
+  ],
+  "what_you_need": [
+    "Three proof of identity documents as indicated on the form",
+    "Your payment",
+    "The PDF form: 'Adding a parent’s details to a pre adoptive birth registration' (A statutory declaration is included in the form)",
+    "An authorized witness, as indicated on the form, to witness your declaration",
+    "A parentage testing DNA report or a court order to confirm paternity",
+    "Documentation from the time of the adoption"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your application in person at a Service NSW Centre or post it to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/certificates-and-searches-for-an-adoption"
+    },
+    {
+      "text": "parentage testing DNA report",
+      "url": "https://www.ag.gov.au/families-and-marriage/families/children-and-family-law/accredited-parentage-testing-laboratories-and-nominated-reporters"
+    },
+    {
+      "text": "Adding a parent’s details to a pre adoptive birth registration – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-12/RDBM-apply-to-add-parents-details-to-a-pre-adoptive-birth-registration.pdf.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply to add a parent's details?",
+      "a": "You must be the biological parent to apply. In some cases, the NSW Registry of Births, Deaths and Marriages may be able to add the details if the child makes the request.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need three proof of identity documents, your payment, the PDF form, an authorized witness, a parentage testing DNA report or court order, and documentation from the time of the adoption.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "You can lodge your application in person at a Service NSW Centre or post it using the details provided on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:35Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "de62ddc12fcce0848b0c8fda305b015be47a18f9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

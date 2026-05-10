@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/orana-youth-justice-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/orana-youth-justice-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "orana-youth-justice-centre",
+  "title": "Orana Youth Justice Centre",
+  "summary": "This page provides information about the Orana Youth Justice Centre.",
+  "topics": [
+    "youth-justice",
+    "orana-centre",
+    "nsw-justice",
+    "youth-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/orana-youth-justice-centre",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/orana-youth-justice-centre"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:18Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e39ed3ba4f8e5cf773901d33e61fdade0c31210c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

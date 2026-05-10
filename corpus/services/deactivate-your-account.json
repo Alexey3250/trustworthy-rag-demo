@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-your-account",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-your-account",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "deactivate-your-account",
+  "title": "How to deactivate your MyServiceNSW Account",
+  "summary": "This page explains the steps and consequences of deactivating your MyServiceNSW Account.",
+  "topics": [
+    "my-service-nsw",
+    "account-deactivation",
+    "online-services"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must no longer use your account and will not need it again.",
+    "You should only have one account.",
+    "You cannot create a new account using the same email address after deactivation."
+  ],
+  "what_you_need": [
+    "Your account password"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "n": 2,
+      "text": "Go to Deactivate account.",
+      "link": "https://account.service.nsw.gov.au/manage/settings/deactivate-account"
+    },
+    {
+      "n": 3,
+      "text": "Enter your account password and select the 'Deactivate' button.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "Deactivate account",
+      "url": "https://account.service.nsw.gov.au/manage/settings/deactivate-account"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "visiting one of our service centres",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I deactivate my account?",
+      "a": "You will lose access to services like checking vehicle registrations, paying fines, accessing digital licences and credentials, and viewing associated fines or demerit points balances.",
+      "link": null
+    },
+    {
+      "q": "Can I still access NSW Government services without an account?",
+      "a": "You can still access services such as checking vehicle registrations, paying fines, and viewing digital licences and credentials.",
+      "link": null
+    },
+    {
+      "q": "How do I deactivate my MyServiceNSW Account?",
+      "a": "Log in to your account, go to 'Deactivate account', and enter your password and select the 'Deactivate' button.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:32Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "565816bad724f26517ee482d0dea84df26eeafb1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

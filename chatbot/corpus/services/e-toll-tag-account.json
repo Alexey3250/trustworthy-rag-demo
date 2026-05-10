@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account",
+  "source_url": "https://www.service.nsw.gov.au/services/e-toll-tag-account",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "e-toll-tag-account",
+  "title": "E-Toll account",
+  "summary": "This page provides information and links for managing all aspects of an E-Toll account, including setup, tag management, account changes, payments, and closing the account.",
+  "topics": [
+    "e-toll-account",
+    "toll-tags",
+    "account-management",
+    "vehicle-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Add another person to an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/add-another-person-to-an-e-toll-account"
+    },
+    {
+      "text": "Order extra tags for an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account"
+    },
+    {
+      "text": "Replace an E-Toll tag",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag"
+    },
+    {
+      "text": "Report your E-Tag as lost or stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen"
+    },
+    {
+      "text": "Change your name on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account"
+    },
+    {
+      "text": "Change the customer details on a personal E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-personal-e-toll-account"
+    },
+    {
+      "text": "Change the customer details on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-business-e-toll-account"
+    },
+    {
+      "text": "Change the organisation's name or contact person on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account"
+    },
+    {
+      "text": "Change the vehicle details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vehicle-details-e-toll-account"
+    },
+    {
+      "text": "Manage an additional contact on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-an-additional-contact-on-an-e-toll-account"
+    },
+    {
+      "text": "Change the payment details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    },
+    {
+      "text": "Manually top up an E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/manually-top-up-an-e-toll-account"
+    },
+    {
+      "text": "Apply for an E-Toll Account concession",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-e-toll-account-concession"
+    },
+    {
+      "text": "View toll charges on an E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-e-toll-account"
+    },
+    {
+      "text": "Close an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account"
+    },
+    {
+      "text": "Close an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died"
+    },
+    {
+      "text": "Transfer an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I set up or open an E-Toll account?",
+      "a": "You can open an E-Toll account using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "q": "What do I do if my E-Tag is lost or stolen?",
+      "a": "You can report your E-Tag as lost or stolen through the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen"
+    },
+    {
+      "q": "How can I change details on my E-Toll account?",
+      "a": "You can change various details, such as your name, customer details, vehicle details, or payment details, depending on the type of account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:46Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "dc9cd0cb931f38cd1966c30412a233a7b7a94eca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

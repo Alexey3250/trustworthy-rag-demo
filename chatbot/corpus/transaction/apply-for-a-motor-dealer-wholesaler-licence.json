@@ -1,0 +1,146 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-wholesaler-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-wholesaler-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-motor-dealer-wholesaler-licence",
+  "title": "Apply for a motor dealer wholesaler licence",
+  "summary": "Use this page to apply for a motor dealer wholesaler licence, which allows you to buy, sell, or exchange motor vehicles with financiers and other licence holders.",
+  "topics": [
+    "motor-dealer-licence",
+    "wholesaler-licence",
+    "motor-vehicles",
+    "business-licence"
+  ],
+  "intro": "A motor dealer wholesaler licence allows you to buy, sell or exchange motor vehicles with financiers and other licence holders.\n\nYou can buy vehicles from the public but you can't sell direct or through auction, to the general public.\n\nYou can apply for a 1-year, 3-year or 5-year licence, online.",
+  "who_can_apply": [
+    "Be at least 18 years of age.",
+    "Be considered fit and proper for the licence (NSW Fair Trading checks and considers police records).",
+    "Not be disqualified from holding a licence due to disciplinary action.",
+    "Not be a controlled member of a declared organisation.",
+    "Not have been found guilty of a motor vehicle stealing offence in the past 10 years.",
+    "Not be bankrupt.",
+    "Have sufficient financial resources to run the business according to Fair Trading requirements.",
+    "Have approval from the relevant local council."
+  ],
+  "what_you_need": [
+    "Nominated licence duration (1, 3, or 5 years).",
+    "Personal and contact details of the individual or business partners.",
+    "Business details, including the registered name of the business.",
+    "ACN / ABN number.",
+    "The completed PDF form: 'Manager's Consent Form' (if applicable).",
+    "Payment for the fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for your licence.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete Application for a Licence – PDF (including the Manager's Consent Form section, if applicable).",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Submit your application with payment at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A corporation must nominate an individual to be manager of the day-to-day business of the licensee. An individual may manage the business themselves or nominate another individual to manage the business.",
+      "link": null
+    },
+    {
+      "text": "Where there is more than one manager, a separate Manager’s Consent Form must be completed for each manager.",
+      "link": null
+    },
+    {
+      "text": "Once you're licensed as a motor dealer wholesaler, you must display your licence name and number at your place of business, and publish them on any advertising or promotional material.",
+      "link": null
+    },
+    {
+      "text": "You don't need a motor dealer wholesaler licence for the following kinds of vehicles:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Manager's Consent Form",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715f.pdf"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/licensing-fees"
+    },
+    {
+      "text": "Application for a Licence – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715.pdf"
+    },
+    {
+      "text": "Working as a motor dealer: business obligations in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Motor dealers/recyclers licence information",
+      "url": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-licence"
+    },
+    {
+      "text": "Apply for a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-recycler-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a motor dealer wholesaler licence allow me to do?",
+      "a": "A motor dealer wholesaler licence allows you to buy, sell, or exchange motor vehicles with financiers and other licence holders.",
+      "link": null
+    },
+    {
+      "q": "Can I sell vehicles directly to the general public?",
+      "a": "You can buy vehicles from the public, but you cannot sell directly or through auction to the general public.",
+      "link": null
+    },
+    {
+      "q": "What are the licence duration options?",
+      "a": "You can apply for a 1-year, 3-year, or 5-year licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:07Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "b394cfe2446882482cf5d0f835cba1fd9943c53c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

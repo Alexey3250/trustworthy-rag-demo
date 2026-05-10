@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-increase-your-demerit-points-limit-professional-drivers-only",
+  "title": "Apply to increase your demerit points limit – professional drivers only",
+  "summary": "Professional drivers can apply at a Service NSW Centre to increase their demerit points limit from 13 to 14 points.",
+  "topics": [
+    "professional-driver",
+    "demerit-points",
+    "driver-licence",
+    "suspension"
+  ],
+  "intro": "If you’re a professional driver with an unrestricted driver licence and receive a Notice of Suspension or your licence renewal is refused, you can apply to increase your demerit points limit from 13 to 14 points at a Service NSW Centre.",
+  "who_can_apply": [
+    "Be a professional driver.",
+    "Hold an unrestricted NSW Driver Licence for the past 6 months.",
+    "Have accumulated 13 demerit points.",
+    "Have received a Notice of Suspension, and the suspension period has not started.",
+    "Have had your licence renewal refused for accumulating 13 demerit points."
+  ],
+  "what_you_need": [
+    "Your contact details",
+    "Your employer’s name (or your own name if self-employed)",
+    "Your job title",
+    "The number of hours per week you are paid to drive",
+    "A completed Professional Driver Declaration form (available at service centres)",
+    "Your Driver Authority number and expiry date (if you are a bus, taxi, or hire car driver)",
+    "The taxi operator and network you drive for (if applicable)",
+    "Your Notice of Suspension (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check your eligibility.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your documents and visit a service centre to apply.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "professional driver status",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work/professional-drivers"
+    },
+    {
+      "text": "Demerit points, penalties and offences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "good behaviour period",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply to increase their demerit points limit?",
+      "a": "You must be a professional driver with an unrestricted driver licence who has accumulated 13 demerit points and either received a Notice of Suspension (and the suspension period has not started) or had your licence renewal refused.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply to increase my demerit points limit?",
+      "a": "You need your contact details, your employer’s name (or your own name if self-employed), your job title, the number of hours per week you are paid to drive, a completed Professional Driver Declaration form, your Driver Authority number and expiry date (if applicable), the taxi operator and network you drive for (if applicable), and your Notice of Suspension (if applicable).",
+      "link": null
+    },
+    {
+      "q": "How do I apply to increase my demerit points limit?",
+      "a": "First, check your eligibility. Then, gather your documents and visit a Service NSW Centre to apply.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:56Z",
+    "last_modified": "14 April 2026",
+    "html_sha1": "08604f1e8f91200a19263525b5f59445d24e77fd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/waste-and-recycling",
+  "source_url": "https://www.service.nsw.gov.au/services/waste-and-recycling",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "waste-and-recycling",
+  "title": "Recycling, waste and litter prevention",
+  "summary": "Find information and resources on recycling, waste management, and preventing litter in NSW.",
+  "topics": [
+    "recycling",
+    "waste-management",
+    "litter-prevention",
+    "fogo"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Grants available to community groups (NSW EPA)",
+      "url": "https://www.epa.nsw.gov.au/working-together/grants/litter-prevention-grants-program/grants-available"
+    },
+    {
+      "text": "What can go in household FO and FOGO bins",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/household-recycling-overview/FOGO-information-for-households"
+    },
+    {
+      "text": "Information on the FOGO rollout (NSW EPA)",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/business-government-recycling/Food-organics-and-garden-organics/fogo-mandates-and-rollout"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a community recycling centre",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-community-recycling-centre"
+    },
+    {
+      "text": "Find a household battery recycling location",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-household-battery-recycling-location"
+    },
+    {
+      "text": "Find a household chemical cleanout event",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-household-chemical-cleanout-event"
+    },
+    {
+      "text": "Find a mobile phone recycling location",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-mobile-phone-recycling-location"
+    },
+    {
+      "text": "Find Return and Earn collection points",
+      "url": "https://www.service.nsw.gov.au/referral/find-return-and-earn-collection-points"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I recycle different types of waste?",
+      "a": "You can find locations for community recycling centres, household batteries, household chemical cleanout events, mobile phones, and Return and Earn collection points.",
+      "link": null
+    },
+    {
+      "q": "What is FOGO and how does it work?",
+      "a": "FOGO is a kerbside collection service that allows food to be added to the green lid garden waste bin so it can be recycled into top quality compost.",
+      "link": null
+    },
+    {
+      "q": "When will local councils have to provide FOGO services?",
+      "a": "Under new laws, local councils will have to provide all NSW households who receive a residual (red lid) waste collection service with a FOGO waste service by 1 July 2030.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information on what goes into FOGO bins?",
+      "a": "Information is available regarding what can go in household FO and FOGO bins.",
+      "link": "https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/household-recycling-overview/FOGO-information-for-households"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:59Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8dde07d6841c12110ca1028f908f0e02bf6cf7c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

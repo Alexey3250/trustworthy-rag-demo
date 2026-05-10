@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bankstown-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bankstown-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bankstown-community-services-centre",
+  "title": "Bankstown Community Services Centre",
+  "summary": "This page provides information about the Bankstown Community Services Centre, which offers various community services.",
+  "topics": [
+    "community-services",
+    "nsw-department-of-justice",
+    "support-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:08Z",
+    "last_modified": "20 March 2026",
+    "html_sha1": "eca3b6ba73c7ef3c9308d6a629809ef11ea7b5a5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

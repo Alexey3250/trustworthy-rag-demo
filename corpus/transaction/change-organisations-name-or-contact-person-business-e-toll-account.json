@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-organisations-name-or-contact-person-business-e-toll-account",
+  "title": "Change the organisation's name or contact person on a business E-Toll Account",
+  "summary": "Learn how to change an organisation's name or contact person associated with a business E-Toll account at a Service NSW Centre.",
+  "topics": [
+    "business-account",
+    "etoll",
+    "organisation-name",
+    "contact-person"
+  ],
+  "intro": "If you need to change the name of an organisation or a contact person associated with a Transport for NSW E-Toll business account, you can do this at a Service NSW Centre.\n\nNote: If the Australian Business Number (ABN) has changed, you’ll need to:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A letter on the organisation's letterhead, signed by the current account holder, a manager, director, or CEO of the company.",
+    "The organisation change of name certificate from the Australian Securities and Investments Commission (ASIC)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Submit the change:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "myE-Toll Frequently Asked Questions",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Close the existing E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account"
+    },
+    {
+      "text": "Open a new E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:52Z",
+    "last_modified": "3 March 2025",
+    "html_sha1": "ef4ca581a886927cb7eaf702ed3eda3c9e50f485",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

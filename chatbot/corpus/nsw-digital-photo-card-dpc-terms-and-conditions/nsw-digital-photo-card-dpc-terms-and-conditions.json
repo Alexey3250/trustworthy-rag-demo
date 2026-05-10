@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card-dpc-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-photo-card-dpc-terms-and-conditions",
+  "category": "nsw-digital-photo-card-dpc-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "nsw-digital-photo-card-dpc-terms-and-conditions",
+  "title": "NSW Digital Photo Card (DPC) – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using the NSW Digital Photo Card (DPC).",
+  "topics": [
+    "nsw-photo-card",
+    "digital-photo-card",
+    "terms-and-conditions",
+    "privacy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "A MyServiceNSW Account linked to your NSW Photo Card",
+    "A phone with a working, charged battery and an undamaged screen"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW Privacy Statement",
+      "url": "https://www.transport.nsw.gov.au/about-us/transport-privacy/privacy-statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "DPC",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the DPC a replacement for my physical card?",
+      "a": "The DPC is an electronic version of a NSW Photo Card, but you should carry your plastic NSW Photo Card as a backup because it may not be accepted by everyone.",
+      "link": null
+    },
+    {
+      "q": "What do I need to ensure the DPC works when I need it?",
+      "a": "You must ensure your phone is working, sufficiently charged, and that the screen is not cracked or damaged so that the DPC can be viewed clearly.",
+      "link": null
+    },
+    {
+      "q": "What happens if I misuse my DPC?",
+      "a": "Service NSW reserves the right to disable your DPC by deactivating your MyServiceNSW Account and unlinking it from TfNSW if there is fraud or other unlawful use.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:43Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "f4ff34f3743103adddbc6335fe9094fb6d2cb8d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

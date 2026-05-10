@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/a-b-testing-push-notifications",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/a-b-testing-push-notifications",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "a-b-testing-push-notifications",
+  "title": "A/B testing push notifications",
+  "summary": "This page explains how Service NSW uses A/B testing for push notifications to improve digital services.",
+  "topics": [
+    "digital-services",
+    "push-notifications",
+    "user-experience",
+    "testing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities#want-to-work-with-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is A/B testing?",
+      "a": "A/B testing is a method used to compare two versions of something (like a webpage or notification) to see which one performs better with users.",
+      "link": null
+    },
+    {
+      "q": "How does Service NSW use A/B testing?",
+      "a": "Service NSW uses A/B testing to improve the effectiveness of its digital services, such as push notifications, by testing different approaches.",
+      "link": null
+    },
+    {
+      "q": "Why is A/B testing important for Service NSW?",
+      "a": "It helps Service NSW understand what works best for users, ensuring that digital services are as useful and easy to use as possible.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:49Z",
+    "last_modified": "23 September 2024",
+    "html_sha1": "d45c06f2ffb6df5476964fccd76b59818abde84b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

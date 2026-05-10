@@ -1,0 +1,177 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-complying-development-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-complying-development-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-complying-development-certificate",
+  "title": "Apply for a complying development certificate",
+  "summary": "Apply online for a complying development certificate (CDC) for straightforward building developments.",
+  "topics": [
+    "building-development",
+    "complying-development",
+    "planning-approval",
+    "service-nsw"
+  ],
+  "intro": "Complying development is a fast-tracked application process for straightforward building developments.\n\nIf your proposed residential, commercial or industrial development is eligible you can apply online for a complying development certificate (CDC).",
+  "who_can_apply": [
+    "Proposed residential, commercial, or industrial development that is eligible for complying development."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or NSW Planning Portal login details.",
+    "Payment for NSW Planning Portal service fees.",
+    "A comprehensive list of required documents (refer to the Complying development application document checklist – PDF)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "you'll receive a confirmation email",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "your application will be sent to your nominated certifier for consideration",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "the certifier will conduct a pre-assessment review and advise if any additional or revised documents are required",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "a fee quote will be issued for your review.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the NSW Planning Portal and development applications, contact the Department of Planning, Housing and Infrastructure.",
+  "more_info": [
+    {
+      "text": "Planning approval pathways – complying development",
+      "link": "https://www.planningportal.nsw.gov.au/onlinecdc"
+    },
+    {
+      "text": "help and resources",
+      "link": "https://www.planningportal.nsw.gov.au/support/how-guides"
+    },
+    {
+      "text": "myHome Planner for project homes, rebuilds or house and land packages.",
+      "link": "https://www.planningportal.nsw.gov.au/myhome-planner"
+    },
+    {
+      "text": "complying development",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/complying-development"
+    },
+    {
+      "text": "exempt development.",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/exempt-development"
+    },
+    {
+      "text": "You can monitor the status of your application by logging in to the NSW Planning Portal where you will also find:",
+      "link": null
+    },
+    {
+      "text": "Visit the Department of Planning, Housing and Infrastructure website for:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "accredited building certifier",
+      "url": "https://applications.fairtrading.nsw.gov.au/bdcregister/"
+    },
+    {
+      "text": "Guide to complying development – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Exhibitions/Guide+to+Complying+Development.pdf"
+    },
+    {
+      "text": "Complying development for business and industry: A pocket guide – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Exhibitions/Complying+Development+for+Business+and+Industry+-+Pocket+Guide_Final.pdf"
+    },
+    {
+      "text": "NSW Planning Portal service fees",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "Complying development application document checklist – PDF",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/shared-drupal-s3fs/master-test/fapub_pdf/CDC+/Online+CDC+service+-+Document+checklist.pdf"
+    },
+    {
+      "text": "Submit a complying development certificate application guide – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Documents/Applicant+-+How+to+submit+a+Complying+Development+Certificate+application.pdf"
+    },
+    {
+      "text": "NSW Planning Portal",
+      "url": "https://www.planningportal.nsw.gov.au/"
+    },
+    {
+      "text": "Planning approval pathways – complying development",
+      "url": "https://www.planningportal.nsw.gov.au/onlinecdc"
+    },
+    {
+      "text": "help and resources",
+      "url": "https://www.planningportal.nsw.gov.au/support/how-guides"
+    },
+    {
+      "text": "myHome Planner",
+      "url": "https://www.planningportal.nsw.gov.au/myhome-planner"
+    },
+    {
+      "text": "complying development",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/complying-development"
+    },
+    {
+      "text": "exempt development",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/exempt-development"
+    },
+    {
+      "text": "Department of Planning, Housing and Infrastructure",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is complying development?",
+      "a": "Complying development is a fast-tracked application process for straightforward building developments.",
+      "link": null
+    },
+    {
+      "q": "How do I start the application process?",
+      "a": "Select the 'Apply online' button and log in with a Service NSW account or your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "q": "What types of developments qualify for complying development?",
+      "a": "Examples include new houses up to 2 storeys, renovating an existing house, diverse housing types, new swimming pools, new fences, change of use, alterations, and construction of a new building.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:24Z",
+    "last_modified": "22 May 2025",
+    "html_sha1": "f3f190d3c45f7a86c1f04f28fe51b417b78b3e39",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

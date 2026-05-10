@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "help-in-your-language",
+  "title": "Help in your language",
+  "summary": "This page provides information on various ways to receive language assistance, including translation and interpreting services, when dealing with Service NSW.",
+  "topics": [
+    "language-assistance",
+    "translation",
+    "interpreting",
+    "auslan",
+    "multicultural-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Face-to-face interpreting services – Multicultural NSW",
+      "link": "https://multicultural.nsw.gov.au/face-to-face-interpreting/"
+    },
+    {
+      "text": "Video and telephone interpreting – Multicultural NSW",
+      "link": "https://multicultural.nsw.gov.au/video-and-telephone-interpreting/"
+    },
+    {
+      "text": "Language services – Multicultural NSW",
+      "link": "https://multicultural.nsw.gov.au/services/"
+    },
+    {
+      "text": "Free translation service – Department of Home Affairs",
+      "link": "https://translating.homeaffairs.gov.au/en"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Face-to-face interpreting services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/face-to-face-interpreting/"
+    },
+    {
+      "text": "Video and telephone interpreting – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/video-and-telephone-interpreting/"
+    },
+    {
+      "text": "Language services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/services/"
+    },
+    {
+      "text": "Free translation service – Department of Home Affairs",
+      "url": "https://translating.homeaffairs.gov.au/en"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Auslan video remote interpreting",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "text": "book a free appointment",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "book a document translation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "book an interpreter",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get language assistance at Service NSW?",
+      "a": "Service NSW offers several ways to get language assistance, including automatic translation, calling with an interpreter, and in-person language support at Service NSW Centres.",
+      "link": null
+    },
+    {
+      "q": "Do I need to book a document translation?",
+      "a": "You can book a document translation using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "q": "How can I book an interpreter?",
+      "a": "You can book an interpreter through the dedicated booking page.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:20Z",
+    "last_modified": "28 August 2025",
+    "html_sha1": "093c781923877fe307267909c01005d072caff9f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

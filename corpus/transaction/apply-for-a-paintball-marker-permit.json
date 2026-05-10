@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-paintball-marker-permit",
+  "title": "Apply for a paintball marker permit",
+  "summary": "You can apply for a permit to own or buy a paintball marker in NSW, which allows you to use it only at authorized venues.",
+  "topics": [
+    "paintball-marker-permit",
+    "nsw-safety-training",
+    "service-nsw"
+  ],
+  "intro": "You need a permit to buy or own a paintball marker (paintball gun) in NSW.\n\nThe permit does not allow you to use the paintball marker outside an authorised venue.\n\nYou can apply online for a one, 3 or 5-year permit.",
+  "who_can_apply": [
+    "Be aged 18 or over",
+    "Pass a fit and proper person assessment",
+    "Complete the NSW Paintball Marker Safety Training course",
+    "Do not need a permit if staying in NSW for less than 3 months and holding an equivalent permit from another state or territory"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for a paintball marker permit.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb20007.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Submit your application in person at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Paper applications typically take more time to be processed than online applications.",
+      "link": null
+    },
+    {
+      "text": "The same fee applies for a 1, 3 or 5-year permit.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Paintball Marker Safety Training course",
+      "url": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "Application for a paintball marker permit – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb20007.pdf"
+    },
+    {
+      "text": "Paintball permit additional details form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb006.pdf"
+    },
+    {
+      "text": "Paintball permit",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit"
+    },
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    },
+    {
+      "text": "Apply for an international paintball competitor permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a permit to own a paintball marker in NSW?",
+      "a": "Yes, you need a permit to buy or own a paintball marker (paintball gun) in NSW. The permit does not allow you to use the marker outside an authorized venue.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for a paintball marker permit?",
+      "a": "Applicants must be aged 18 or over, pass a fit and proper person assessment, and have completed the NSW Paintball Marker Safety Training course.",
+      "link": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "q": "Do I need a permit if I am visiting NSW for a short time?",
+      "a": "You do not need a permit if you are staying in NSW for less than 3 months and you hold a current equivalent paintball marker permit from another state or territory.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:46Z",
+    "last_modified": "28 October 2025",
+    "html_sha1": "9abe2448a5d3e2a915c269c41359fc1a6739466c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

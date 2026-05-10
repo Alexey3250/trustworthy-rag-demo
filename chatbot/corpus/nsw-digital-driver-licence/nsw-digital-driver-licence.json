@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence",
+  "category": "nsw-digital-driver-licence",
+  "article_kind": "landing-page",
+  "slug": "nsw-digital-driver-licence",
+  "title": "NSW Digital Driver Licence",
+  "summary": "This page provides information about the NSW Digital Driver Licence, which allows you to access your licence details digitally.",
+  "topics": [
+    "driver-licence",
+    "nsw",
+    "digital-services",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a licence holder to access the digital licence details."
+  ],
+  "what_you_need": [
+    "Service NSW app"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Centre for Road Safety",
+      "url": "https://roadsafety.transport.nsw.gov.au/stayingsafe/mobilephones/know-the-rules.html"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Learn more",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-holders-and-nsw-digital-driver-licence"
+    },
+    {
+      "text": "Get started",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-checkers-and-the-nsw-digital-driver-licence"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Privacy and digital licences and credentials",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/privacy-and-digital-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get a digital driver licence?",
+      "a": "You can access your digital licence details through the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "q": "Who can use the digital driver licence?",
+      "a": "The digital licence is for licence holders.",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-holders-and-nsw-digital-driver-licence"
+    },
+    {
+      "q": "What if I am a licence checker?",
+      "a": "Licence checkers can use the digital licence system to verify details.",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-checkers-and-the-nsw-digital-driver-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:47Z",
+    "last_modified": "24 February 2026",
+    "html_sha1": "83957c053a02a38ba795b62e4a7cbdc0e2aa6e32",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

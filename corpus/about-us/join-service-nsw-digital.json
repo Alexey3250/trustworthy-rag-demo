@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/jobs-service-nsw/join-service-nsw-digital",
+  "source_url": "https://www.service.nsw.gov.au/about-us/jobs-service-nsw/join-service-nsw-digital",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "join-service-nsw-digital",
+  "title": "Join Service NSW Digital",
+  "summary": "This page provides information and links for various digital roles and career opportunities within Service NSW.",
+  "topics": [
+    "careers",
+    "digital-jobs",
+    "service-nsw",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply now",
+      "url": "https://nswconnect.csod.com/ux/ats/careersite/16/home?c=nswconnect"
+    },
+    {
+      "text": "Mobile app designers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/Mobile-app/customer-service/all-agencies/all-categories/all-locations/all-worktypes?divisionid=10&keyword=Mobile%20app"
+    },
+    {
+      "text": "Product designers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/product-design-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=16999"
+    },
+    {
+      "text": "Content designers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/content-design-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=17001"
+    },
+    {
+      "text": "Service designers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/service-design-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=17000"
+    },
+    {
+      "text": "Software engineers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/software-engineering-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=17002"
+    },
+    {
+      "text": "QA/Testing",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/quality-assurancetesting-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=10517"
+    },
+    {
+      "text": "DevOps",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/devops-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=17003"
+    },
+    {
+      "text": "Product managers",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/product-management-jobs/all-locations/all-worktypes?divisionid=10&agenciesid=724&jobcategoryid=10515"
+    },
+    {
+      "text": "Browse roles at Service NSW",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/all-categories/all-locations/all-worktypes?divisionid=10&agenciesid=724"
+    },
+    {
+      "text": "Browse roles in the Department of Customer Service",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/all-organisations--entities/all-categories/all-locations/all-worktypes?divisionid=10"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Performance dashboard",
+      "url": "https://www.service.nsw.gov.au/performance-dashboard"
+    },
+    {
+      "text": "Service NSW app Easily access government services, vouchers, licences and more using the Service NSW app.",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Digital Driver Licence Go wallet free and never lose your licence again with a digital version.",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "Savings Finder Helping you find NSW Government rebates and vouchers that are relevant to you.",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Read more about Jobs at Service NSW",
+      "url": "https://www.service.nsw.gov.au/about-us/jobs-service-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I apply for a job at Service NSW?",
+      "a": "You can apply for jobs using the provided link: Apply now.",
+      "link": "https://nswconnect.csod.com/ux/ats/careersite/16/home?c=nswconnect"
+    },
+    {
+      "q": "What types of digital roles are available?",
+      "a": "Available roles include Mobile app designers, Product designers, Content designers, Service designers, Software engineers, QA/Testing, DevOps, Product managers, and Performance dashboard roles.",
+      "link": null
+    },
+    {
+      "q": "Where can I browse all roles at Service NSW?",
+      "a": "You can browse all roles at Service NSW using the dedicated link.",
+      "link": "https://iworkfor.nsw.gov.au/jobs/all-keywords/customer-service/service-nsw/all-categories/all-locations/all-worktypes?divisionid=10&agenciesid=724"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:53Z",
+    "last_modified": null,
+    "html_sha1": "c58f982720ecde20d6aae80f98b3171ae04dde03",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit",
+  "title": "Apply for a new pensioner refund on a Mobility Parking Scheme permit",
+  "summary": "Find out if you are eligible for a partial refund on your Mobility Parking Scheme permit if you become a pensioner.",
+  "topics": [
+    "pensioner",
+    "mobility-parking-scheme",
+    "refund",
+    "service-nsw"
+  ],
+  "intro": "If you have a Mobility Parking Scheme permit and become a pensioner while holding the permit, you may be eligible for a partial refund. You'll need to provide evidence that you're a pensioner when you visit a Service NSW Centre.",
+  "who_can_apply": [
+    "You must have a Mobility Parking Scheme permit and become a pensioner while holding that permit."
+  ],
+  "what_you_need": [
+    "Your current pensioner concession card",
+    "Your Mobility Parking Scheme permit"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Cost of a mobility parking permit – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/costs-and-concessions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for, replace, or renew a Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I become a pensioner while holding a Mobility Parking Scheme permit?",
+      "a": "You may be eligible for a partial refund. You must provide evidence that you are a pensioner when you visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:55Z",
+    "last_modified": "5 August 2024",
+    "html_sha1": "9eedb9080f6a16d1a20076ab1688b3c002d747ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

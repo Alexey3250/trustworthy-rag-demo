@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-dealer-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-dealer-licence",
+  "title": "Motor dealer licence",
+  "summary": "This page provides information and links for managing a motor dealer licence, including applying, renewing, changing details, and surrendering the licence.",
+  "topics": [
+    "motor-dealer-licence",
+    "business-licence",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-licence"
+    },
+    {
+      "text": "Apply for a motor dealer wholesaler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-wholesaler-licence"
+    },
+    {
+      "text": "Renew a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence"
+    },
+    {
+      "text": "Replace a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence"
+    },
+    {
+      "text": "Restore a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence"
+    },
+    {
+      "text": "Change the details on a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence"
+    },
+    {
+      "text": "Check a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-dealer-licence"
+    },
+    {
+      "text": "Change the details of a motor dealer, recycler or repairer premises",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    },
+    {
+      "text": "Surrender a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a motor dealer licence?",
+      "a": "You can apply for a motor dealer licence or a motor dealer wholesaler licence using the provided links.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-licence"
+    },
+    {
+      "q": "What if I need to renew or replace my licence?",
+      "a": "You can renew, replace, or restore your motor dealer licence through dedicated service links.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence"
+    },
+    {
+      "q": "How can I check or change the details on my licence?",
+      "a": "You can check your licence details or change details for your licence or premises using the available online services.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-motor-dealer-licence"
+    },
+    {
+      "q": "Do I need to surrender my motor dealer licence?",
+      "a": "If you no longer need the licence, you can surrender it using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-dealer-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:03Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "76c33493b6ade02d9187fc7126ba5c8ec154f07c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

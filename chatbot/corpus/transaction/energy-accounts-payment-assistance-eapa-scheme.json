@@ -1,0 +1,167 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "energy-accounts-payment-assistance-eapa-scheme",
+  "title": "Apply for Energy Accounts Payment Assistance (EAPA)",
+  "summary": "Find out if you are eligible for and how to apply for Energy Accounts Payment Assistance (EAPA) if you are having short-term financial hardship with your energy bill.",
+  "topics": [
+    "energy-bills",
+    "financial-hardship",
+    "nsw-energy",
+    "payment-assistance"
+  ],
+  "intro": "Energy Accounts Payment Assistance (EAPA) helps people experiencing difficulty paying their energy bill because of a short-term financial hardship, crisis or emergency.\n\nAn eligible hardship, crisis or emergency may include:",
+  "who_can_apply": [
+    "You must have an electricity or natural gas account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You must not have paid your most recent bill.",
+    "The bill you need help with must be for an account that is still open.",
+    "You must be experiencing a short-term financial crisis or emergency and finding it hard to pay your recent energy bill.",
+    "If you live in an embedded network and your provider is not Origin Energy or Arc Energy Group, you can use the Savings Finder to find rebates.",
+    "If you receive gas through LPG bottles, you may be eligible for a gas rebate instead.",
+    "Households that get their electricity and/or gas from a retailer may be eligible.",
+    "Some households in embedded networks (on-supply), such as apartment buildings, residential parks and retirement villages, may be eligible.",
+    "If you receive your bill from an approved embedded network provider, your energy provider will apply EAPA directly to your energy account if you are assessed as eligible."
+  ],
+  "what_you_need": [
+    "Two proof of identity documents (such as Australian driver licence, Medicare card, passport).",
+    "A copy of your current electricity and/or natural gas bill.",
+    "A MyServiceNSW Account (if applying online)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to submit your application for assessment.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "prefer an in-person assessment (offered by some providers)",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "do not have an email address",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "need other support, such as no-interest loans, financial counselling, and clothing or food assistance.",
+      "link": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For ongoing support, use our Savings Finder to find energy rebates and other savings.",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "If you need help to apply online, call Service NSW on 13 77 88.",
+      "link": "tel:137788"
+    },
+    {
+      "text": "You can appoint an authorised person to apply on your behalf if you're not able to do so yourself. The person helping you will need to complete an Authority to Act form.",
+      "link": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa#applying-for-someone-else"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "financial counselling",
+      "url": "https://ndh.org.au/financial-counselling/find-a-financial-counsellor/"
+    },
+    {
+      "text": "Find a Non-Government EAPA provider",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2025-07/nsw-eapa-provider-contact-list.pdf"
+    },
+    {
+      "text": "About the EAPA scheme",
+      "url": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/energy-accounts-payment-assistance-eapa"
+    },
+    {
+      "text": "Energy & Water Ombudsman NSW (EWON)",
+      "url": "https://www.ewon.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "embedded network providers",
+      "url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "gas rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "business account or non-residential account",
+      "url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa#commercial-or-business-customers"
+    },
+    {
+      "text": "authority to act on someone else's behalf",
+      "url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa#applying-for-someone-else"
+    },
+    {
+      "text": "no-interest loans",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for EAPA?",
+      "a": "You must have an electricity or natural gas account for your home in NSW, be the account holder, and be having a short-term financial crisis or emergency that makes it hard to pay your recent energy bill.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for EAPA?",
+      "a": "You need two proof of identity documents (such as Australian driver licence, Medicare card, passport) and a copy of your current electricity and/or natural gas bill. If applying online, you must have a MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for EAPA?",
+      "a": "You must check the eligibility requirements, select the 'Apply online' button, log in or create your MyServiceNSW Account, and follow the prompts to submit your application for assessment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:27Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "9b69ae261cd3b569e343c8519ddcd0e7c9dece32",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

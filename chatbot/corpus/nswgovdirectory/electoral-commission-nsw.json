@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/electoral-commission-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/electoral-commission-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "electoral-commission-nsw",
+  "title": "Electoral Commission, NSW",
+  "summary": "This page provides information about the Electoral Commission, NSW, which manages electoral processes and voter enrolment.",
+  "topics": [
+    "elections",
+    "voting",
+    "enrolment",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://elections.nsw.gov.au/",
+      "url": "https://elections.nsw.gov.au/"
+    },
+    {
+      "text": "Welcome to voting – NSW Electoral Commission",
+      "url": "https://elections.nsw.gov.au/voters"
+    },
+    {
+      "text": "NSW Electoral Commission – Enrolment",
+      "url": "https://elections.nsw.gov.au/voters/enrolment"
+    },
+    {
+      "text": "NSW electoral boundaries and districts – NSW Electoral Commission",
+      "url": "https://elections.nsw.gov.au/elections/how-voting-works/electoral-boundaries"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about voting?",
+      "a": "You can find information about voting on the NSW Electoral Commission website.",
+      "link": "https://elections.nsw.gov.au/voters"
+    },
+    {
+      "q": "How do I enrol to vote?",
+      "a": "You can find information on enrolment on the NSW Electoral Commission website.",
+      "link": "https://elections.nsw.gov.au/voters/enrolment"
+    },
+    {
+      "q": "How do I check my electoral boundaries and districts?",
+      "a": "You can check your electoral boundaries and districts on the NSW Electoral Commission website.",
+      "link": "https://elections.nsw.gov.au/elections/how-voting-works/electoral-boundaries"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "981c8a7b89be28119b4d719703e12febc256eeb4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

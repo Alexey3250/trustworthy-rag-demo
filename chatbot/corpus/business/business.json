@@ -1,0 +1,158 @@
+{
+  "url": "https://www.service.nsw.gov.au/business",
+  "source_url": "https://www.service.nsw.gov.au/business",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "business",
+  "title": "Service NSW Business Bureau",
+  "summary": "This page provides resources and support for businesses operating in NSW, covering everything from getting started to managing growth and accessing funding.",
+  "topics": [
+    "small-business",
+    "business-support",
+    "nsw-business",
+    "funding",
+    "exporting"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Any individual or entity operating or planning to operate a business in NSW."
+  ],
+  "what_you_need": [
+    "A general understanding of your business needs and goals.",
+    "For specific support, you may need to identify if you belong to a specific group (e.g., women, Aboriginal and Torres Strait Islander people)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "Access online resources Grow your skills with free videos, podcasts, articles, and webinars on a range of small business topics.",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Free webinars for small business Help your business thrive with the City of Sydney’s Reboot webinar series. Business owners across NSW can register to get free practical advice from industry experts.",
+      "url": "https://whatson.cityofsydney.nsw.gov.au/programs/reboot?utm_source=servicensw&utm_medium=referral&utm_content=website&utm_campaign=reboot_26"
+    },
+    {
+      "text": "Charter for Small Business Learn about the new framework for how the NSW Government will support the small business community.",
+      "url": "https://www.nsw.gov.au/working-and-business/nsw-charter-for-small-business"
+    },
+    {
+      "text": "Grants and funding finder Businesses with a Service NSW Business Profile can get personalised suggestions for grants based on industry.",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    },
+    {
+      "text": "Log in",
+      "url": "https://mybusiness.service.nsw.gov.au/dashboard"
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/service-nsw-for-business/id1541820869"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.service.biz&hl=en&gl=US"
+    },
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get personalised support We’ll take the time to understand your needs and connect you with support from across government, saving you time and effort.",
+      "url": "https://www.service.nsw.gov.au/business/business-concierge-service"
+    },
+    {
+      "text": "Start your business Get started with confidence using our resources on planning, licences, permits, and more.",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Manage and grow Explore tools and resources to help you run and expand your business, and support your employees.",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "text": "View all support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "Winning NSW Government contracts Learn how to boost your business income by selling your goods and services to the NSW Government.",
+      "url": "https://www.service.nsw.gov.au/business/selling-to-the-nsw-government"
+    },
+    {
+      "text": "Exporting for small businesses Reach new customers by selling your goods and services overseas.",
+      "url": "https://www.service.nsw.gov.au/business/exporting-for-small-businesses"
+    },
+    {
+      "text": "Active and Creative Kids Apply to accept the new Active and Creative Kids vouchers.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-active-and-creative-kids-voucher-provider"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander business support Let us walk with you on your business journey with free, one-on-one support from our friendly team.",
+      "url": "https://www.service.nsw.gov.au/business/aboriginal-and-torres-strait-islander-business"
+    },
+    {
+      "text": "Support for women in business Discover programs, services and resources to help women in business succeed.",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business"
+    },
+    {
+      "text": "Business licences Apply for business licences, certificates and permits.",
+      "url": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Disaster and emergency assistance Discover disaster recovery support for NSW businesses in eligible areas impacted by natural disasters and emergencies.",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    },
+    {
+      "text": "Find out more",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get started with my business?",
+      "a": "You can find resources on planning, licences, permits, and more to help you start your business with confidence.",
+      "link": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "q": "Where can I find support for specific groups of businesses?",
+      "a": "Support is available for Aboriginal and Torres Strait Islander businesses, women in business, and general personalized support.",
+      "link": null
+    },
+    {
+      "q": "How can I help my business grow or expand?",
+      "a": "Explore tools and resources to help you run and expand your business, and support your employees.",
+      "link": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "q": "Do I need a business licence or permit?",
+      "a": "You can apply for business licences, certificates, and permits through the dedicated page.",
+      "link": "https://www.service.nsw.gov.au/business/business-licences"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:14Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "50b60ec34a627fcb1b6211add9beba3a0ccdb448",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-high-risk-work-licence",
+  "title": "Replace a high risk work licence",
+  "summary": "This page explains how to order and pay for a replacement high risk work (HRW) licence online if your existing licence has been lost, stolen, damaged, or destroyed.",
+  "topics": [
+    "high-risk-work-licence",
+    "licence-replacement",
+    "safework-nsw"
+  ],
+  "intro": "Workers who carry out high risk work must have a SafeWork NSW high risk work (HRW) licence.\n\nIf your licence has been lost, stolen, damaged or destroyed, you can order and pay for a replacement online as long as your details match those on your licence. If your contact details have changed, you need to complete the update contact details form before you replace your licence online.\n\nThe replacement licence will be sent to your postal address.\n\nNote: You cannot replace your licence online if you did not receive your card or it contains a printing error. Contact us on 13 77 88.",
+  "who_can_apply": [
+    "Must already hold a high risk work (HRW) licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number (found at Verify NSW)",
+    "The replacement fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for a replacement licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/HRW"
+    },
+    {
+      "text": "replacement fee",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "High risk work licence – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/high-risk-work-licence"
+    },
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "update contact details form",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "Add your digital high risk work licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    },
+    {
+      "text": "Replace a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a replacement licence?",
+      "a": "You must already hold an HRW licence.",
+      "link": null
+    },
+    {
+      "q": "How do I replace my licence online?",
+      "a": "Select the 'Replace online' button, log in or create your MyServiceNSW Account, and follow the prompts to apply.",
+      "link": null
+    },
+    {
+      "q": "What if I cannot replace my licence online?",
+      "a": "You cannot replace your licence online if you did not receive your card or if it contains a printing error. Contact us on 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:31Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "bea823773870a2818817e4921184139c0af4a8a2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

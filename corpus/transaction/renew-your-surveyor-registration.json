@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-your-surveyor-registration",
+  "title": "Renew your surveyor registration",
+  "summary": "Learn how to renew your annual registration as a land or mining surveyor in NSW.",
+  "topics": [
+    "surveyor-registration",
+    "renew-licence",
+    "nsw-surveyor",
+    "land-surveying"
+  ],
+  "intro": "You must renew your registration as a land or mining surveyor in NSW annually to maintain your licence.\n\nTo check your licence or registration details visit Verify NSW.",
+  "who_can_apply": [
+    "Hold a current NSW surveyor registration or licence",
+    "Demonstrate meeting the Board of Surveying and Spatial Information (BOSSI) continuing professional development (CPD) requirements"
+  ],
+  "what_you_need": [
+    "Your registration number",
+    "Your renewal number (if applicable)",
+    "CPD Summary Report",
+    "A credit or debit card to pay the registration fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the ‘Renew your registration’ button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to renew your registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    },
+    {
+      "text": "continuing professional development (CPD) requirements",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/cpd_frequently_asked_questions"
+    },
+    {
+      "text": "CPD Summary Report",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/cpd_frequently_asked_questions/what_evidence_of_attendance_do_i_need_to_provide_the_ros_for_my_cpd_summary_report"
+    },
+    {
+      "text": "registration fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "NSW CPD providers for surveyors – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/cpd_frequently_asked_questions/who_are_the_five_ratified_organisations_ros"
+    },
+    {
+      "text": "Guidelines and determinations – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be a registered land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor"
+    },
+    {
+      "text": "Update your registered surveyor contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often do I need to renew my surveyor registration?",
+      "a": "You must renew your registration as a land or mining surveyor in NSW annually to maintain your licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I check my current licence or registration details?",
+      "a": "You can check your licence or registration details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    },
+    {
+      "q": "What do I need to do to be eligible to renew my registration?",
+      "a": "You must hold a current NSW surveyor registration or licence and demonstrate that you have met the Board of Surveying and Spatial Information (BOSSI) continuing professional development (CPD) requirements.",
+      "link": "https://www.bossi.nsw.gov.au/surveyors/cpd_frequently_asked_questions"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:28Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "1738aa47d00dd7c76b249e008fced2861a49e6a3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/participating-postcodes-and-suburbs",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/participating-postcodes-and-suburbs",
+  "category": "nsw-digital-photo-card",
+  "article_kind": "content",
+  "slug": "participating-postcodes-and-suburbs",
+  "title": "Participating postcodes and suburbs",
+  "summary": "This page lists the postcodes and suburbs that participate in the NSW digital photo card service.",
+  "topics": [
+    "postcodes",
+    "suburbs",
+    "digital-photo-card",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:10Z",
+    "last_modified": "19 September 2022",
+    "html_sha1": "31b7d7f657c9a42b7367f40c25843f1539ce16b0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

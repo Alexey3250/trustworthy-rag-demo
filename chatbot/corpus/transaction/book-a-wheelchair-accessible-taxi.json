@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-wheelchair-accessible-taxi",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-wheelchair-accessible-taxi",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-wheelchair-accessible-taxi",
+  "title": "Book a wheelchair accessible taxi",
+  "summary": "Book a wheelchair accessible taxi online through the Wheelchair Book & Ride service in the Sydney metropolitan area.",
+  "topics": [
+    "wheelchair-accessible-taxi",
+    "booking-service",
+    "sydney-metropolitan-area",
+    "public-transport"
+  ],
+  "intro": "Wheelchair Book & Ride is a booking service for wheelchair accessible taxis in the Sydney metropolitan area. If you are unable to access public transport because you use a wheelchair, you can book a wheelchair accessible taxi online.",
+  "who_can_apply": [
+    "Use a wheelchair and are unable to access public transport."
+  ],
+  "what_you_need": [
+    "Your contact details",
+    "Pick-up address",
+    "Drop-off address",
+    "Booking time",
+    "Number of wheelchair passengers and additional passengers",
+    "Instructions for the driver"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Book online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Fill out the online form including your contact details, passenger information, pick-up and drop-off addresses and any instructions for the driver.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select if booking under the Taxi Transport Subsidy Scheme (TTSS).",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme"
+    },
+    {
+      "n": 4,
+      "text": "Select if you would like to receive an SMS notification about your booking.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Book' to complete the booking.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The taxi bookings and general enquiries phone line on 139 000 is open 24 hours a day, seven days a week",
+      "link": "tel:139000"
+    },
+    {
+      "text": "Bookings are accepted subject to availability",
+      "link": null
+    },
+    {
+      "text": "You can change or cancel an existing booking online, or over the phone",
+      "link": null
+    },
+    {
+      "text": "There are no booking fees when booking",
+      "link": null
+    },
+    {
+      "text": "Passengers will pay the driver at the end of the journey",
+      "link": null
+    },
+    {
+      "text": "The booking service is only available in the Sydney metropolitan area. Contact your local taxi service operator for trips outside of Sydney.",
+      "link": null
+    },
+    {
+      "text": "You can use the Taxi Transport Subsidy Scheme for the Wheelchair Book & Ride service.",
+      "link": "https://transportnsw.info/taxi-subsidy-scheme"
+    },
+    {
+      "text": "If you would like to provide feedback on the booking service, please complete the Wheelchair Book & Ride feedback form.",
+      "link": "https://ccprod5.wat.camlincloud.nuamedia.net/nuassist/?pt=watfeedback"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Taxi Transport Subsidy Scheme",
+      "url": "https://transportnsw.info/taxi-subsidy-scheme"
+    },
+    {
+      "text": "Wheelchair Book & Ride feedback form",
+      "url": "https://ccprod5.wat.camlincloud.nuamedia.net/nuassist/?pt=watfeedback"
+    },
+    {
+      "text": "Wheelchair Book & Ride",
+      "url": "https://transportnsw.info/travel-info/ways-to-get-around/taxi-hire-vehicle/wheelchair-book-ride"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Taxi Transport Subsidy Scheme (TTSS)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance can I book a wheelchair accessible taxi?",
+      "a": "You can book up to 28 days in advance.",
+      "link": null
+    },
+    {
+      "q": "What do I need to book a wheelchair accessible taxi?",
+      "a": "You need your details, pick-up and drop-off addresses, booking time, the number of wheelchair and additional passengers, and any instructions for the driver.",
+      "link": null
+    },
+    {
+      "q": "Can I book a wheelchair accessible taxi if I need a subsidy?",
+      "a": "You can select if you are booking under the Taxi Transport Subsidy Scheme (TTSS) during the online booking process.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:38Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "602460f4c89eb1f4cd7a1d2fd308f23222819e60",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

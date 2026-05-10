@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-vision-impaired-persons",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-vision-impaired-persons",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-vision-impaired-persons",
+  "title": "Public transport concessions for Vision Impaired Persons",
+  "summary": "This page provides information about public transport concessions available for vision impaired persons in NSW.",
+  "topics": [
+    "vision-impaired",
+    "public-transport",
+    "concessions",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Being a vision impaired person."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-opal/ticket-eligibility-concessions/people-with-disabilities/vision-impaired-person"
+    },
+    {
+      "text": "NSW TrainLink Regional services",
+      "url": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Vision Impaired Person travel pass?",
+      "a": "You can find details about the Vision Impaired Person travel pass on the Transport for NSW website.",
+      "link": "https://transportnsw.info/tickets-opal/ticket-eligibility-concessions/people-with-disabilities/vision-impaired-person"
+    },
+    {
+      "q": "What information is available regarding regional travel?",
+      "a": "Information regarding regional travel is available for booking regional tickets.",
+      "link": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:54Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "acc6ced92a92209e5a1d9108ce7e1a348e702751",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

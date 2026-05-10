@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/police-force-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/police-force-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "police-force-nsw",
+  "title": "Police Force, NSW",
+  "summary": "This page provides general information about the NSW Police Force, including links to various commands and services.",
+  "topics": [
+    "nsw-police-force",
+    "law-enforcement",
+    "crime-reporting",
+    "police-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.police.nsw.gov.au",
+      "url": "https://www.police.nsw.gov.au"
+    },
+    {
+      "text": "police station search",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    },
+    {
+      "text": "Missing Persons Search",
+      "url": "https://www.police.nsw.gov.au/can_you_help_us/missing_persons"
+    },
+    {
+      "text": "Reporting Crime Online",
+      "url": "https://www1.police.nsw.gov.au/"
+    },
+    {
+      "text": "Police officer careers – NSW Police Force",
+      "url": "https://www.police.nsw.gov.au/recruitment"
+    },
+    {
+      "text": "Firearm Permits",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/permits"
+    },
+    {
+      "text": "Police Assistance Line (PAL) 131 444",
+      "url": "https://www.police.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "NSW Police Force Community Portal",
+      "url": "https://portal.police.nsw.gov.au"
+    },
+    {
+      "text": "About the NSW Police Force",
+      "url": "https://www.police.nsw.gov.au/about_us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Firearms Registry",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/firearms-registry"
+    },
+    {
+      "text": "NSW Police Force Academy",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-police-force-academy"
+    },
+    {
+      "text": "Aviation Command",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aviation-command"
+    },
+    {
+      "text": "Marine Area Command",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/marine-area-command"
+    },
+    {
+      "text": "Professional Standards Command",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/professional-standards-command"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find a local police station?",
+      "a": "You can use the police station search tool to find a local station.",
+      "link": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    },
+    {
+      "q": "How do I report a crime?",
+      "a": "You can report a crime online or use the Police Assistance Line (PAL) at 131 444.",
+      "link": null
+    },
+    {
+      "q": "What services does the NSW Police Force offer?",
+      "a": "The force has various commands, including Aviation Command, Marine Area Command, and Professional Standards Command.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about police careers?",
+      "a": "Information regarding police officer careers is available on the NSW Police Force website.",
+      "link": "https://www.police.nsw.gov.au/recruitment"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:01Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "98e7c16011941362feb6dcce8ab68c0b828a3d47",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

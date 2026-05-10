@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-for-an-approved-fireworks-display",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-for-an-approved-fireworks-display",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-for-an-approved-fireworks-display",
+  "title": "Check for an approved fireworks display",
+  "summary": "Use this page to check if a fireworks display has been approved in NSW.",
+  "topics": [
+    "fireworks",
+    "new-years-eve",
+    "safety",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find New Year's Eve fireworks locations",
+      "url": "https://www.sydneynewyearseve.com/vantage-points/"
+    },
+    {
+      "text": "Search for NSW fireworks",
+      "url": "https://www.visitnsw.com/search?query=fireworks"
+    },
+    {
+      "text": "Check for approved fireworks",
+      "url": "https://www.safework.nsw.gov.au/fireworks-display"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find information about New Year's Eve fireworks?",
+      "a": "You can find information about New Year's Eve fireworks in the City of Sydney section.",
+      "link": "https://www.sydneynewyearseve.com/vantage-points/"
+    },
+    {
+      "q": "How can I search for fireworks displays across NSW?",
+      "a": "You can search for fireworks across NSW using the Visit NSW link.",
+      "link": "https://www.visitnsw.com/search?query=fireworks"
+    },
+    {
+      "q": "Where do I check for approved fireworks displays?",
+      "a": "You can check for approved fireworks displays using the SafeWork NSW link.",
+      "link": "https://www.safework.nsw.gov.au/fireworks-display"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:11Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "af7e3577c889c1ca4d7b36f8e5eeaf0ad41565d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-an-automated-external-defibrillator-aed",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-an-automated-external-defibrillator-aed",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-an-automated-external-defibrillator-aed",
+  "title": "Register an Automated External Defibrillator (AED)",
+  "summary": "Learn how to register an Automated External Defibrillator (AED) on the GoodSAM AED registry to help locate devices during a cardiac arrest emergency.",
+  "topics": [
+    "aed",
+    "cardiac-arrest",
+    "emergency-device",
+    "register-aed"
+  ],
+  "intro": "An Automatic External Defibrillator (AED) is a portable medical device that can be used to restart a patient's heart if they have suffered a cardiac arrest – that is, their heart has suddenly stopped.\n\nThe device analyses the patient's heart rhythm and if necessary, delivers an electric shock to restart the heart or restore its natural rhythm.\n\nAEDs can be used by anybody – you do not need to have had medical training.\n\nIf you own an AED, you can register it on the GoodSAM AED registry.\n\nThe registry allows people to quickly locate publicly available AEDs in a cardiac arrest emergency.\n\nNote: You can also register an AED even if you do not own the AED, as the registry accepts crowdsourced information.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "register it on the GoodSAM AED registry",
+      "url": "https://www.goodsamapp.org/nswaed"
+    },
+    {
+      "text": "NSW Ambulance AEDs",
+      "url": "https://www.ambulance.nsw.gov.au/get-involved/register-an-aed"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:26Z",
+    "last_modified": "12 January 2025",
+    "html_sha1": "f3d95e761a52fa35d7f38ee7c7c95acedac419ca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

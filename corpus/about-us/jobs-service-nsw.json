@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/jobs-service-nsw",
+  "source_url": "https://www.service.nsw.gov.au/about-us/jobs-service-nsw",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "jobs-service-nsw",
+  "title": "Jobs at Service NSW",
+  "summary": "This page provides information about job opportunities and career paths within Service NSW.",
+  "topics": [
+    "jobs",
+    "careers",
+    "employment",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Search all jobs",
+      "url": "https://iworkfor.nsw.gov.au/jobs/all-keywords/all-agencies/service-nsw/all-categories/all-locations/all-worktypes?agenciesid=724"
+    },
+    {
+      "text": "Search digital jobs",
+      "url": "https://nswconnect.csod.com/ux/ats/careersite/16/home?c=nswconnect"
+    },
+    {
+      "text": "application checklist",
+      "url": "https://iworkfor.nsw.gov.au/how-to-apply/before-you-apply-checklist"
+    },
+    {
+      "text": "frequently asked questions",
+      "url": "https://iworkfor.nsw.gov.au/how-to-apply/our-recruitment-process"
+    },
+    {
+      "text": "Government Sector Employment Act 2013",
+      "url": "https://www.psc.nsw.gov.au/legislation-and-policy/government-sector-employment-act-2013"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Learn more",
+      "url": "https://www.service.nsw.gov.au/about-us"
+    },
+    {
+      "text": "Meet our leaders",
+      "url": "https://www.service.nsw.gov.au/about-us/our-leadership-team"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I search for all available jobs at Service NSW?",
+      "a": "You can search for all jobs using the provided link.",
+      "link": "https://iworkfor.nsw.gov.au/jobs/all-keywords/all-agencies/service-nsw/all-categories/all-locations/all-worktypes?agenciesid=724"
+    },
+    {
+      "q": "Are there specific jobs related to digital roles?",
+      "a": "Yes, you can search for digital jobs through a dedicated link.",
+      "link": "https://nswconnect.csod.com/ux/ats/careersite/16/home?c=nswconnect"
+    },
+    {
+      "q": "What is the process for applying for a job?",
+      "a": "For detailed information on the application process, you can refer to the frequently asked questions page.",
+      "link": "https://iworkfor.nsw.gov.au/how-to-apply/our-recruitment-process"
+    },
+    {
+      "q": "What should I review before I apply for a job?",
+      "a": "It is recommended to review the application checklist before submitting your application.",
+      "link": "https://iworkfor.nsw.gov.au/how-to-apply/before-you-apply-checklist"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:20Z",
+    "last_modified": null,
+    "html_sha1": "2b9c1caa6e00ce04239123e9964e71ab1bc5dce4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-private-mooring-licence",
+  "title": "Cancel a private mooring licence",
+  "summary": "Learn how to cancel your private mooring licence at a Service NSW Centre, or by post or email.",
+  "topics": [
+    "mooring-licence",
+    "cancel",
+    "service-nsw",
+    "boating"
+  ],
+  "intro": "If you want to cancel your private mooring licence, you can do this at a Service NSW Centre, or by post or email.\n\nYou may be required to remove the mooring apparatus from the seabed and you're responsible for any costs associated with the removal.\n\nFor more information visit Transport for NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Private Mooring Licence Cancellation Request'",
+    "Your proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a service centre, or by post or email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Form 5517: Private Mooring Licence Cancellation Request – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065639-private-mooring-licence-cancellation-request.pdf"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I cancel my private mooring licence?",
+      "a": "You can cancel your private mooring licence at a Service NSW Centre, or by post or email.",
+      "link": null
+    },
+    {
+      "q": "Am I responsible for the costs if I cancel my licence?",
+      "a": "You may be required to remove the mooring apparatus from the seabed, and you are responsible for any associated costs.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:15Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "a50d2276316221a07c3e57e31704eaa82c291e9e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

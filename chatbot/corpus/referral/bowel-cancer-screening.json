@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/bowel-cancer-screening",
+  "source_url": "https://www.service.nsw.gov.au/referral/bowel-cancer-screening",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "bowel-cancer-screening",
+  "title": "Get a free bowel cancer screening test kit",
+  "summary": "Find out if you are eligible to receive a free bowel cancer screening test kit at home.",
+  "topics": [
+    "bowel-cancer-screening",
+    "cancer-screening",
+    "health-testing",
+    "cancer-prevention"
+  ],
+  "intro": "If you are aged 45 or older you may be able to get a bowel screening kit sent to your home for free.\n\nTo be eligible for a free test you must:",
+  "who_can_apply": [
+    "Aged 45 or older"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "cancer.nsw.gov.au website",
+      "url": "https://www.cancer.nsw.gov.au/dothetest/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:55Z",
+    "last_modified": "6 May 2025",
+    "html_sha1": "e4e8c5a163bd6991aa3cbe3ec56c54749256b04a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "using-bpay-to-renew-a-vehicle-registration",
+  "title": "Using BPAY to renew a vehicle registration",
+  "summary": "This page explains how to use BPAY to pay for the renewal of your vehicle registration.",
+  "topics": [
+    "vehicle-registration",
+    "bpay",
+    "renewal",
+    "payment"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must have a current compulsory third party (CTP) insurance policy (green slip) and a safety inspection report (pink slip) for the vehicle, if applicable."
+  ],
+  "what_you_need": [
+    "A current compulsory third party (CTP) insurance policy (green slip)",
+    "A safety inspection report (pink slip) for your vehicle (if applicable)",
+    "Your NSW number plate or registration renewal billing number"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "BPAY is a payment process that lets you make payments using your financial institution’s banking facilities.",
+      "link": null
+    },
+    {
+      "text": "To make a BPAY payment, you need to give a BPAY Biller Code and Reference Number to your financial institution, either through their banking website or phone banking service.",
+      "link": null
+    },
+    {
+      "text": "For more information, visit the BPAY website.",
+      "link": null
+    },
+    {
+      "text": "### Need help?",
+      "link": null
+    },
+    {
+      "text": "We're happy to help you. Call us on 13 77 88, or find a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW number plate or registration renewal billing number",
+      "url": "https://registration-renewal.service.nsw.gov.au/"
+    },
+    {
+      "text": "BPAY website",
+      "url": "https://www.bpay.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "vehicle registration renewal",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to renew my vehicle registration using BPAY?",
+      "a": "You need a current compulsory third party (CTP) insurance policy (green slip), and a safety inspection report (pink slip) for your vehicle, if applicable.",
+      "link": null
+    },
+    {
+      "q": "How do I get my BPAY Biller Code and Reference Number?",
+      "a": "You can enter your NSW number plate or registration renewal billing number, follow the prompts, and choose BPAY as your payment option. You can also call 1300 360 782 to follow the prompts and select BPAY.",
+      "link": "https://registration-renewal.service.nsw.gov.au/"
+    },
+    {
+      "q": "What happens if my BPAY payment fails?",
+      "a": "If the payment fails, check that your BPAY details are correct and try renewing again. Alternatively, contact your bank or financial institution to investigate the payment, or use a different payment method like a credit card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:27Z",
+    "last_modified": "26 September 2024",
+    "html_sha1": "2c64b0b6382efbe78ca73f31ebb09fca42c37248",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-information-about-registered-retirement-villages",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-information-about-registered-retirement-villages",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-information-about-registered-retirement-villages",
+  "title": "Find information about registered retirement villages",
+  "summary": "This page helps you find and compare information about registered retirement villages operating in NSW.",
+  "topics": [
+    "retirement-villages",
+    "nsw-fair-trading",
+    "registered-villages",
+    "housing"
+  ],
+  "intro": "NSW Fair Trading maintains an online register of retirement villages operating across NSW. The register makes it easier to search and compare retirement village information in one place.\n\nYou can search the register using:\n\nThe register can give you information about the:\n\nYou can download or print out the information you want to keep.\n\nSearch the register of retirement villages.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Search the register of retirement villages",
+      "url": "https://verify.licence.nsw.gov.au/home/RRV"
+    },
+    {
+      "text": "Choosing and moving into a retirement village – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/aged-care-retirement-villages/choosing-and-moving-into-a-retirement-village"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning for retirement",
+      "url": "https://www.service.nsw.gov.au/guide/planning-for-retirement"
+    },
+    {
+      "text": "Lodge a retirement village complaint with NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-retirement-village-complaint-with-nsw-fair-trading"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:29Z",
+    "last_modified": "3 October 2025",
+    "html_sha1": "8fc62b197e6021c91b0d9780667b9b9574b6e904",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

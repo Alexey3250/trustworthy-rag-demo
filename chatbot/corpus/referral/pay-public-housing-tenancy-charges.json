@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/pay-public-housing-tenancy-charges",
+  "source_url": "https://www.service.nsw.gov.au/referral/pay-public-housing-tenancy-charges",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "pay-public-housing-tenancy-charges",
+  "title": "Pay public housing tenancy charges",
+  "summary": "This page informs public housing tenants that they are required to pay rent and other charges, such as rental bond and water charges.",
+  "topics": [
+    "public-housing",
+    "tenancy-charges",
+    "rent",
+    "water-charges",
+    "paying-rent"
+  ],
+  "intro": "If you're a public housing tenant, you are required to pay rent and other charges, such as rental bond and water charges. You can pay using:\n\nFor more information, visit Payment options for public housing tenants – Homes NSW.",
+  "who_can_apply": [
+    "Public housing tenant"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Payment options for public housing tenants – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/public-housing-tenants/paying-rent-and-other-charges/payment-options-for-tenant-charges"
+    },
+    {
+      "text": "Living in social housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable#social-housing-tenants"
+    },
+    {
+      "text": "Social and affordable housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What charges do public housing tenants need to pay?",
+      "a": "Public housing tenants are required to pay rent and other charges, such as rental bond and water charges.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about paying charges?",
+      "a": "For more information, visit Payment options for public housing tenants – Homes NSW.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable/public-housing-tenants/paying-rent-and-other-charges/payment-options-for-tenant-charges"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:35Z",
+    "last_modified": "29 October 2025",
+    "html_sha1": "4e2d24a6c91e7198f1b90a55c36cd6ba4caac777",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

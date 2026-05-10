@@ -1,0 +1,45 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/third-party-approvals-heavy-vehicles",
+  "source_url": "https://www.service.nsw.gov.au/referral/third-party-approvals-heavy-vehicles",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "third-party-approvals-heavy-vehicles",
+  "title": "Third-party approvals (heavy vehicles)",
+  "summary": "This page explains that heavy vehicles exceeding certain mass or dimension limits may require third-party approvals in addition to access permits to travel on the road network.",
+  "topics": [
+    "heavy-vehicles",
+    "access-permits",
+    "third-party-approvals",
+    "road-network"
+  ],
+  "intro": "If your heavy vehicle exceeds certain mass and/or dimension limits, you may need to get 'third-party approval', along with your access permits, to travel on the road network. This depends on:\n\nIf you're applying for an access permit through the National Heavy Vehicle Regulator (NHVR), they'll notify you if you need to apply for approval from third-party providers.\n\nIt's your responsibility to consult with and/or obtain consent, and supply the NHVR with evidence of that consent. Your permit application shouldn't be delayed as the NHVR is able to progress an application at the same time as you're seeking third party approvals.\n\nExamples of third parties include:\n\nYou can find a list of third parties contact information on the NHVR's website.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Evidence of consent from third parties",
+    "Consultation with third parties"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "third-party approval",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/third-party-approvals"
+    },
+    {
+      "text": "list of third parties contact information",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/third-party-approvals#other"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:24Z",
+    "last_modified": "10 January 2025",
+    "html_sha1": "1f25da1dc7280abd63fcab935e7e91ce26ea466a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

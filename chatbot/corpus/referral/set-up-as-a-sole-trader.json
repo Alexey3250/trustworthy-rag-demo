@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/set-up-as-a-sole-trader",
+  "source_url": "https://www.service.nsw.gov.au/referral/set-up-as-a-sole-trader",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "set-up-as-a-sole-trader",
+  "title": "Set up as a sole trader",
+  "summary": "Learn about setting up a sole trader business structure, which is described as the simplest and cheapest option.",
+  "topics": [
+    "sole-trader",
+    "business-structure",
+    "starting-a-business",
+    "business-registration"
+  ],
+  "intro": "Operating as a sole trader is the simplest and cheapest business structure you can set up. You control and manage the business, and although you 'trade' on your own, you can still employ people to work for you.\n\nTo set up as a sole trader, you need to:\n\nAt the Australian Government's Business Registration website you can do all of this using one online form. The form will also:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "You can set up a sole trader using one online form at the Australian Government's Business Registration website."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Government's Business Registration website",
+      "url": "https://register.business.gov.au/registration/type"
+    },
+    {
+      "text": "Business adviser finder – business.gov.au",
+      "url": "https://business.gov.au/expertise-and-advice"
+    },
+    {
+      "text": "Sole trader business structure – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/sole-trader"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    },
+    {
+      "text": "Difference between a sole trader and a company – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/difference-between-a-sole-trader-and-a-company"
+    },
+    {
+      "text": "Business planning – business.gov.au",
+      "url": "https://business.gov.au/planning"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:18Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "4c49982cb9e342c3af225cea8af5ef9b5f95bb7e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

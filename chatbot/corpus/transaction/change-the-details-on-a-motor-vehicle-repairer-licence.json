@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-motor-vehicle-repairer-licence",
+  "title": "Change the details on a motor vehicle repairer licence",
+  "summary": "Motor vehicle repairer licence holders must update their licence details with NSW Fair Trading if their name, address, or contact details change.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "business-details",
+    "nsw-fair-trading",
+    "update-details"
+  ],
+  "intro": "If you hold a motor vehicle repairer licence and your details have changed, you need to notify NSW Fair Trading to update the licence.\n\nAs the licence holder, you must notify us within 14 days if your name, address or contact details change.",
+  "who_can_apply": [
+    "Must hold a motor vehicle repairer licence"
+  ],
+  "what_you_need": [
+    "The relevant form for the information you need to change (e.g., Change of details – PDF)",
+    "To complete and submit the form at a Service NSW Centre"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the relevant form for the information you need to change:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715e.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Motor vehicle repairer licence",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate.",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    },
+    {
+      "text": "To look up your motor vehicle repairer licence number and details, visit Verify NSW.",
+      "link": null
+    },
+    {
+      "text": "To find out more about motor dealer licensing visit NSW Fair Trading:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change of details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715e.pdf"
+    },
+    {
+      "text": "Change of Director – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715h.pdf"
+    },
+    {
+      "text": "Change in Partners – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715g.pdf"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Motor vehicle repairer licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-licence"
+    },
+    {
+      "text": "Change the details of a motor dealer, recycler or repairer premises",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I notify NSW Fair Trading of a change in my details?",
+      "a": "As the licence holder, you must notify NSW Fair Trading within 14 days if your name, address, or contact details change.",
+      "link": null
+    },
+    {
+      "q": "What steps do I take to change my licence details?",
+      "a": "First, download the relevant form for the information you need to change. Then, complete and submit the form at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:08Z",
+    "last_modified": "3 September 2025",
+    "html_sha1": "cff84f0decd7bc7178763fff8b5c35234d55880f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-availability-of-an-association-name",
+  "title": "Check availability of an association name",
+  "summary": "Check the availability of an association name online to ensure your proposed name is not already registered or reserved.",
+  "topics": [
+    "association-name",
+    "register-name",
+    "nsw-fair-trading",
+    "incorporation"
+  ],
+  "intro": "When you choose a name for your association, it must not be identical or similar to a name that is already registered for:\n\nYou can check the availability of a name online.\n\nThe online search results will indicate whether your proposed name is already registered or reserved.",
+  "who_can_apply": [
+    "Anyone who wants to search the availability of an association name."
+  ],
+  "what_you_need": [
+    "Your chosen association name(s)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the association name you want to search.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Check Now' to view the search results.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "name",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "incorporation number",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "date of incorporation",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "registration status.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Search the register",
+      "url": "https://applications.fairtrading.nsw.gov.au/assocregister/"
+    },
+    {
+      "text": "Naming your incorporated association – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/starting-an-incorporated-association/naming-your-incorporated-association"
+    },
+    {
+      "text": "Incorporated associations – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/about-incorporated-associations"
+    },
+    {
+      "text": "Incorporated association laws and administration – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/incorporated-association-laws"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to reserve an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-reserve-an-association-name"
+    },
+    {
+      "text": "Apply to register an incorporated association",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-incorporated-association"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can check the availability of an association name?",
+      "a": "Anyone can check the availability of an association name.",
+      "link": null
+    },
+    {
+      "q": "What do I need to check an association name?",
+      "a": "You need your chosen association name(s).",
+      "link": null
+    },
+    {
+      "q": "How do I check if an association name is available?",
+      "a": "Select the 'Check online' button, enter the association name you want to search, and select 'Check Now' to view the search results.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:26Z",
+    "last_modified": "15 July 2024",
+    "html_sha1": "e3187e97622d13f74e8c8e3ef129b75202ef7ed5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-and-claim-lost-money-revenue-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-and-claim-lost-money-revenue-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-and-claim-lost-money-revenue-nsw",
+  "title": "Find and claim lost money – Revenue NSW",
+  "summary": "Use Revenue NSW's service to search for and claim unclaimed money held in accounts in NSW.",
+  "topics": [
+    "unclaimed-money",
+    "revenue-nsw",
+    "claim-money",
+    "identity-proof"
+  ],
+  "intro": "Revenue NSW holds unclaimed money from accounts held in NSW.\n\nYou can use Revenue NSW's unclaimed money service to:\n\nIt's free to search and claim. There's no time limit on making a claim.",
+  "who_can_apply": [
+    "Individuals, companies, deceased persons, trusts, super funds, and charities who have unclaimed money held by Revenue NSW."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Bank account details",
+    "Change of name document (if applicable)",
+    "Evidence of your connection to the money",
+    "A letter from the entity that sent the unclaimed money to Revenue NSW, confirming you as the rightful owner",
+    "Your name or the owner's name"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Search online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your/the owner’s name and the required security check code.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select ‘Submit’.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If your search is successful, any unclaimed money will be displayed.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select the checkbox for any unclaimed money item/s and then select ‘Submit a claim’.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete the claim form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.revenue.nsw.gov.au/unclaimed-money/search-and-make-a-claim#heading2"
+    },
+    {
+      "text": "Unclaimed money – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/unclaimed-money"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Finding lost money – guide",
+      "url": "https://www.service.nsw.gov.au/guide/finding-lost-money"
+    },
+    {
+      "text": "Find unclaimed money with ASIC's MoneySmart",
+      "url": "https://www.service.nsw.gov.au/transaction/find-unclaimed-money-with-asics-moneysmart"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it free to search for and claim unclaimed money?",
+      "a": "Yes, it is free to search and claim unclaimed money. There is no time limit on making a claim.",
+      "link": null
+    },
+    {
+      "q": "What do I need to search for unclaimed money?",
+      "a": "To make a search, you only need your name, or the owner's name.",
+      "link": null
+    },
+    {
+      "q": "What do I need to make a claim for unclaimed money?",
+      "a": "To make a claim, you need proof of identity, your bank account details, and evidence of your connection to the money.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:49Z",
+    "last_modified": "19 November 2024",
+    "html_sha1": "89f1e1f3ddaeb098be951f1e566602de17f1e09e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

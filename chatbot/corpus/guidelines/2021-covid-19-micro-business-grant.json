@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/guidelines/2021-covid-19-micro-business-grant",
+  "source_url": "https://www.service.nsw.gov.au/guidelines/2021-covid-19-micro-business-grant",
+  "category": "guidelines",
+  "article_kind": "content",
+  "slug": "2021-covid-19-micro-business-grant",
+  "title": "2021 COVID-19 micro-business grant – Guidelines",
+  "summary": "This page provides guidelines for the 2021 COVID-19 micro-business grant, detailing eligibility, funding use, and the application process.",
+  "topics": [
+    "covid-19",
+    "business-grant",
+    "nsw-business",
+    "micro-business"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must have an Australian Business Number (ABN) as at 1 June 2021, registered in, or primarily operating in, New South Wales.",
+    "Must have had an aggregated annual turnover of more than $30,000 and less than $75,000 for the year ended 30 June 2020.",
+    "Must have experienced a decline in turnover of 30% or more due to the Public Health Order over a minimum 2-week period within the period of restrictions (commenced 26 June 2021), compared to a baseline period.",
+    "Must have business costs for which no other government support is available.",
+    "Must not have applied for either the 2021 COVID-19 Business Grant or the JobSaver scheme.",
+    "For employing businesses, must maintain employee headcount from 13 July 2021 (if receiving payments from the Grant) or from the day immediately prior to the fortnight of required decline.",
+    "For non-employing businesses, the business receiving payments must be the primary income source (50% or more of total income) for the associated person.",
+    "Ineligible businesses include companies in liquidation or provisional liquidation, individuals who have entered bankruptcy, or businesses found to have engaged in fraud."
+  ],
+  "what_you_need": [
+    "Australian Business Number (ABN) as at 1 June 2021.",
+    "Evidence of aggregated annual turnover (more than $30,000 and less than $75,000) for the year ended 30 June 2020.",
+    "Evidence of a decline in turnover of 30% or more due to the Public Health Order over a minimum 2-week period.",
+    "Utility bills and other supporting documents as required.",
+    "For employees: Declaration of maintaining employee headcount.",
+    "For non-employees: Declaration that the business is the primary income source (50% or more of total income)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "aggregated annual turnover",
+      "url": "https://www.ato.gov.au/about-ato/using-our-website/definitions"
+    },
+    {
+      "text": "guidance provided by the ATO",
+      "url": "https://www.ato.gov.au/business/employee-or-contractor/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the grant for?",
+      "a": "The grant is for micro-businesses and provides funding to help with business costs impacted by the COVID-19 Public Health Order.",
+      "link": null
+    },
+    {
+      "q": "What is the required turnover for eligibility?",
+      "a": "Applicants must have an aggregated annual turnover of more than $30,000 and less than $75,000 for the year ended 30 June 2020.",
+      "link": null
+    },
+    {
+      "q": "What evidence is needed to prove eligibility?",
+      "a": "Evidence includes demonstrating a decline in turnover of 30% or more due to the Public Health Order over a minimum 2-week period, and submitting financial records like utility bills.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:11Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "c71166aca0c4f12460e5ccde8da239ffdedbb8d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-harm-or-pick-a-threatened-species",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-harm-or-pick-a-threatened-species",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-harm-or-pick-a-threatened-species",
+  "title": "Apply for a licence to harm or pick a threatened species",
+  "summary": "Apply for a threatened species licence if your proposed action could affect a threatened species.",
+  "topics": [
+    "licence",
+    "threatened-species",
+    "biodiversity",
+    "environment"
+  ],
+  "intro": "You need to apply for a threatened species licence if a proposed action by you or your organisation could result in any of the following and does not need some other form of consent or approval:\n\nFor more information on threatened species licences, visit the Department of Climate Change, Energy, the Environment and Water.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "applicant's details and position in the organisation (if applying for an organisation)",
+    "organisation's details, including ABN",
+    "location of the action, including a grid reference and the local government area delineated on a map",
+    "full description of the action and its purpose",
+    "details of the area to be affected",
+    "duration and timing of the action, including staging",
+    "description of the land (including any area of outstanding biodiversity value if applicable)",
+    "details, conservation status, and number or proportion of the threatened species",
+    "detailed analysis of the action and effects of the action"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the licence requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required information.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply for a licence' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete and submit the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The Department of Climate Change, Energy, the Environment and Water may either:",
+      "link": null
+    },
+    {
+      "text": "Once your application is processed, you will receive an invoice for the application fee.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species/programs-legislation-and-framework/licences"
+    },
+    {
+      "text": "ABN",
+      "url": "https://abr.business.gov.au/"
+    },
+    {
+      "text": "Threatened species licence register",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species/threatened-species-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a scientific licence (biodiversity conservation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scientific-licence-biodiversity-conservation"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:12Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "299388de1b2ed947d29a24dd00c1e770ac411593",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

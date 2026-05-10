@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-an-e-toll-account",
+  "title": "View toll charges on an E-Toll account",
+  "summary": "View your toll charges and statement online using your E-Toll account.",
+  "topics": [
+    "e-toll",
+    "toll-charges",
+    "statements",
+    "transport-nsw"
+  ],
+  "intro": "If you have a Transport for NSW E-Toll account, you can view your toll charges online.\n\nLog in to your E-Toll account to view your toll charges and statement.\n\nYou can choose to have your statement issued monthly, quarterly or yearly.",
+  "who_can_apply": [
+    "Having a Transport for NSW E-Toll account"
+  ],
+  "what_you_need": [
+    "An E-Toll account login"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "### Electronic statements",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You’ll receive an email to let you know your statement is ready to view/download. To find your E-Toll statement online, log in to your account and select 'Statements/invoices'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "### By post",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If you want to receive your statement by post, you’ll be charged a fee.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Eligible pensioners and war widows can receive statements by post for free.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "You can switch to electronic statements at any time by logging in to your account.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Note: You may not be able to view a complete list of toll charges as it may take up to 7 days for all charges to be received from toll road operators.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Log in to your E-Toll account",
+      "url": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "text": "charged a fee",
+      "url": "https://www.myetoll.transport.nsw.gov.au/schedule-fees"
+    },
+    {
+      "text": "Transport for NSW website",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways/online?enquiry=issue&issue=tolling"
+    },
+    {
+      "text": "E-Toll FAQs",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage an E-Toll account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "Toll roads and toll notices",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Dispute a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice"
+    },
+    {
+      "text": "Change the payment details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I view my toll charges?",
+      "a": "Log in to your E-Toll account to view your toll charges and statement.",
+      "link": null
+    },
+    {
+      "q": "How do I receive my statement?",
+      "a": "You can choose to have your statement issued monthly, quarterly, or yearly. You can also view it online by logging in and selecting 'Statements/invoices'.",
+      "link": null
+    },
+    {
+      "q": "Is there a fee for receiving a statement by post?",
+      "a": "Yes, if you want to receive your statement by post, you will be charged a fee. However, eligible pensioners and war widows can receive statements by post for free.",
+      "link": "https://www.myetoll.transport.nsw.gov.au/schedule-fees"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:51Z",
+    "last_modified": "13 March 2025",
+    "html_sha1": "864b642ebd091ca97c3cae5627ae5d530153dd48",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

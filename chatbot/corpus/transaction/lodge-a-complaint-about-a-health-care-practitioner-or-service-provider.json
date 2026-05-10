@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-complaint-about-a-health-care-practitioner-or-service-provider",
+  "title": "Lodge a complaint about a health care practitioner or service provider",
+  "summary": "You can lodge complaints about the professional conduct, care, or treatment provided by a health care practitioner or service provider with the Health Care Complaints Commission.",
+  "topics": [
+    "health-care",
+    "complaints",
+    "practitioner",
+    "service-provider"
+  ],
+  "intro": "You can lodge complaints about the professional conduct, care or treatment provided by a health care practitioner or service provider with the Health Care Complaints Commission.\n\nYou can make a complaint about any health service provider in NSW, including:\n\nBefore making a complaint, try to talk with your health service provider. You may be able to address your concerns more easily this way.\n\n### When the Health Care Complaints Commission cannot help\n\nThe Health Care Complaints Commission cannot direct a health service provider to:",
+  "who_can_apply": [
+    "You can make a complaint about any health service provider in NSW."
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "Name, address, and contact details of the service provider or practitioner",
+    "Details of your complaint, including a description of what happened, who was involved, and any dates applicable",
+    "Any supporting documents (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Lodge online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Sign in. You'll need to create a new account if this is your first time signing in.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read the privacy notice and check the box to accept if you agree.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to make your complaint.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Complete the Health care complaint form – PDF",
+      "link": "https://www.hccc.nsw.gov.au/ArticleDocuments/293/HCCC%20-Complaint%20form%20-%20Sept%202020.pdf.aspx"
+    },
+    {
+      "n": 6,
+      "text": "Send it to the contact details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "TTY (106)",
+      "url": "https://www.triplezero.gov.au/triple-zero/other-emergency-numbers"
+    },
+    {
+      "text": "Health care complaint form – PDF",
+      "url": "https://www.hccc.nsw.gov.au/ArticleDocuments/293/HCCC%20-Complaint%20form%20-%20Sept%202020.pdf.aspx"
+    },
+    {
+      "text": "track the progress of your complaint online",
+      "url": "https://www.hccc.nsw.gov.au/understanding-complaints/track-my-complaint"
+    },
+    {
+      "text": "understanding complaints",
+      "url": "https://www.hccc.nsw.gov.au/Complaints"
+    },
+    {
+      "text": "the complaints process",
+      "url": "https://www.hccc.nsw.gov.au/Understanding-Complaints/complaints-process"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do before lodging a complaint?",
+      "a": "Before making a complaint, try to talk with your health service provider, as you may be able to address your concerns more easily this way.",
+      "link": null
+    },
+    {
+      "q": "What can the Health Care Complaints Commission help with?",
+      "a": "The Health Care Complaints Commission can help with complaints about professional conduct, care, or treatment provided by a health care practitioner or service provider.",
+      "link": null
+    },
+    {
+      "q": "How do I lodge a complaint online?",
+      "a": "Select the 'Lodge online' button, sign in (creating an account if needed), read the privacy notice, and follow the prompts to make your complaint.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:14Z",
+    "last_modified": "17 November 2025",
+    "html_sha1": "1b98c0c832aa9f9621366949a465f063c82ac4e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

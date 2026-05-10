@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-retirement-village-complaint-with-nsw-fair-trading",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-retirement-village-complaint-with-nsw-fair-trading",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-retirement-village-complaint-with-nsw-fair-trading",
+  "title": "Lodge a retirement village complaint with NSW Fair Trading",
+  "summary": "You can lodge a complaint with NSW Fair Trading if you are a resident or owner/operator involved in a retirement village dispute that you could not resolve privately.",
+  "topics": [
+    "retirement-village",
+    "complaint",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you're involved in a retirement village dispute as a resident or owner/operator and you've been unable to resolve the issue privately, you can lodge a complaint with NSW Fair Trading. There's no fee for this service.",
+  "who_can_apply": [
+    "You are a resident or owner/operator involved in a retirement village dispute.",
+    "You have been unable to resolve the issue privately."
+  ],
+  "what_you_need": [
+    "Name and contact details of the resident or owner/operator you are complaining about.",
+    "Details of the retirement village involved.",
+    "Details of the dispute and your attempt to resolve the issue.",
+    "Copies of any relevant documents such as condition reports or photos."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Lodge online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the information and documents needed.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the Property Complaint Form – PDF.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/tenancy-complaint-form"
+    },
+    {
+      "n": 5,
+      "text": "Gather the documents needed.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Lodge your complaint by mail to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If the issue cannot be resolved by mediation or through the NSW Fair Trading complaint service, you can lodge an application with the NSW Civil and Administrative Tribunal.",
+      "link": "https://www.ncat.nsw.gov.au/"
+    },
+    {
+      "text": "To find out more about the process visit the NSW Fair Trading website: Retirement villages complaints and enquiries.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/housing-and-property/retirement-villages"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Property Complaint Form – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/tenancy-complaint-form"
+    },
+    {
+      "text": "NSW Civil and Administrative Tribunal",
+      "url": "https://www.ncat.nsw.gov.au/"
+    },
+    {
+      "text": "Retirement villages complaints and enquiries",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/housing-and-property/retirement-villages"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    },
+    {
+      "text": "Resolve a strata dispute",
+      "url": "https://www.service.nsw.gov.au/referral/resolve-a-strata-dispute"
+    },
+    {
+      "text": "Lodge a home building complaint with the Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a fee to lodge a complaint with NSW Fair Trading?",
+      "a": "No, there is no fee for this service.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to lodge a complaint?",
+      "a": "You need the name and contact details of the resident or owner/operator you are complaining about, details of the retirement village, details of the dispute and your attempt to resolve the issue, and copies of any relevant documents such as condition reports or photos.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:13Z",
+    "last_modified": "19 August 2025",
+    "html_sha1": "87b5a1fb6239893d62e64f460c1b6cd36a4abb90",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

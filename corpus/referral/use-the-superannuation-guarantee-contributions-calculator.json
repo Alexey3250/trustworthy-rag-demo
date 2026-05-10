@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-contributions-calculator",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-contributions-calculator",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-superannuation-guarantee-contributions-calculator",
+  "title": "Use the superannuation guarantee contributions calculator",
+  "summary": "This page informs business owners about the need to pay minimum superannuation guarantee contributions to employees and directs users to a calculator tool.",
+  "topics": [
+    "superannuation",
+    "super-guarantee",
+    "business-owners",
+    "employees",
+    "contributions"
+  ],
+  "intro": "Business owners need to pay the minimum superannuation guarantee contribution to their employees based on the super guarantee rate for the relevant year.\n\nYou can use the Super guarantee contributions calculator tool to work out:\n\nTo use the calculator, visit Superannuation guarantee contributions calculator – ATO.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Superannuation guarantee contributions calculator – ATO",
+      "url": "https://www.ato.gov.au/Calculators-and-tools/Super-guarantee-contributions"
+    },
+    {
+      "text": "Small business superannuation clearing house",
+      "url": "https://www.ato.gov.au/Business/super-for-employers/paying-super-contributions/how-to-pay-super/small-business-superannuation-clearing-house/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:31Z",
+    "last_modified": "14 October 2025",
+    "html_sha1": "4e12ceda8b6d1d70bd336e7bcd635e5d2a0303f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

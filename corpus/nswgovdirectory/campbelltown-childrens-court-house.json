@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/campbelltown-childrens-court-house",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/campbelltown-childrens-court-house",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "campbelltown-childrens-court-house",
+  "title": "Campbelltown Children's Court House",
+  "summary": "This page provides information about the Campbelltown Children's Court House.",
+  "topics": [
+    "childrens-court",
+    "campbelltown",
+    "courts",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.childrenscourt.nsw.gov.au/contact-us/campbelltown-children-s-court.html",
+      "url": "https://www.childrenscourt.nsw.gov.au/contact-us/campbelltown-children-s-court.html"
+    },
+    {
+      "text": "NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/Landing.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "2cf696e63033b44484055d29e2a669faf7a658fa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

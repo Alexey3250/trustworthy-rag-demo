@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-motor-vehicle-tradesperson-certificate",
+  "title": "Surrender a motor vehicle tradesperson certificate",
+  "summary": "Learn how to notify NSW Fair Trading if you no longer wish to keep your motor vehicle tradesperson certificate.",
+  "topics": [
+    "motor-vehicle-tradesperson-certificate",
+    "nsw-fair-trading",
+    "surrender-certificate"
+  ],
+  "intro": "If you do not want to keep your motor vehicle tradesperson certificate you need to notify NSW Fair Trading.\n\nTo check your certificate number and details visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licence details",
+    "the PDF form – 'Notice of Surrender'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Visit NSW Fair Trading for information about the Motor vehicle tradesperson certificate.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Add or remove a class on a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-class-on-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Change the details on a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check my certificate number and details?",
+      "a": "You can check your certificate number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "Where do I submit the form to surrender my certificate?",
+      "a": "You can submit the completed form at the Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:11Z",
+    "last_modified": "6 February 2026",
+    "html_sha1": "bb7a19b46ab221c720cfbf9f29ac66e313863cb9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

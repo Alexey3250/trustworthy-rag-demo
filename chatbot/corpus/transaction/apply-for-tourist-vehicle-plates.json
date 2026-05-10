@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-tourist-vehicle-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-tourist-vehicle-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-tourist-vehicle-plates",
+  "title": "Apply for tourist vehicle plates",
+  "summary": "You can apply for tourist vehicle plates if your vehicle is used for tourist, charter, or long distance passenger services.",
+  "topics": [
+    "tourist-vehicle-plates",
+    "passenger-transport",
+    "charter-services",
+    "vehicle-registration"
+  ],
+  "intro": "If you have a vehicle used for tourist, charter or long distance passenger services, you can apply for tourist vehicle plates at a Service NSW Centre.\n\nTourist vehicle plates are issued as a set of 2 number plates with a yellow background and the letters TV followed by:",
+  "who_can_apply": [
+    "The vehicle must seat more than 12 adult people.",
+    "The vehicle must have CBUS registration usage and BUS shape recorded.",
+    "The vehicle must be used to deliver a service under the Passenger Transport Act 1990."
+  ],
+  "what_you_need": [
+    "A copy of the passenger transport accreditation.",
+    "A letter from the accredited operator advising that the vehicle operates under the passenger transport accreditation (only if the vehicle is not registered in the name of the accredited operator)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Most service centres carry tourist vehicle plates. Visit a service centre to apply for your plates.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot restyle or exchange tourist vehicle plates.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:50Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "472068fa99985c5ee1d32509dd3dd449a7c40467",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

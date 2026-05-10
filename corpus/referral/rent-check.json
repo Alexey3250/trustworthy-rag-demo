@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/rent-check",
+  "source_url": "https://www.service.nsw.gov.au/referral/rent-check",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "rent-check",
+  "title": "Check median rent range in NSW",
+  "summary": "The NSW Fair Trading Rent Check site helps you compare rent prices against the current median range in any NSW postcode.",
+  "topics": [
+    "rent",
+    "nsw",
+    "housing",
+    "rent-check"
+  ],
+  "intro": "The NSW Fair trading Rent Check site lets you compare rent prices with the current median range in NSW.\n\nRent Check is designed to help you understand the median rent range for homes in the current rental market.\n\nIt allows renters, landlords and the community to easily check and compare the median rent range in any NSW postcode.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Rent Check website",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/rent-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Guide to moving house and changing your details with NSW Government agencies",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "Buying a property",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Housing and property",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:50Z",
+    "last_modified": "6 December 2024",
+    "html_sha1": "974f54a1b01e03eb4900a8a1acb4b8683d790dcf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-blasting-explosives-user-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-blasting-explosives-user-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-blasting-explosives-user-licence",
+  "title": "Apply for a blasting explosives user licence",
+  "summary": "This page provides information on how to apply for a Blasting Explosives User Licence (BEUL), which allows you to handle explosives and related substances.",
+  "topics": [
+    "blasting-explosives",
+    "licence",
+    "explosives-user-licence"
+  ],
+  "intro": "A blasting explosives user licence (BEUL) allows you to purchase, possess, use, transport, dispose of, and if approved, store and manufacture explosives or security sensitive dangerous substances (SSDS).\n\nThe BEUL is valid for 5 years and permits a daily usage of:\n\nYou need to apply for storage approval on your BEUL, if you want to store overnight more than:\n\nIf you want to store explosives or SSDS longer than overnight, in quantities above the daily usage quota, or at more than one site, you'll need to apply for a licence to store explosives or SSDS.",
+  "who_can_apply": [
+    "Be aged 18 or over.",
+    "Have the relevant qualifications, experience, and knowledge (see the Guide for blasting explosive user licence applicants).",
+    "Have a legitimate reason for using explosives and/or security sensitive dangerous substances.",
+    "Not have any condition that might impair your ability to operate as a blasting explosives user, such as colour blindness, deafness, or epilepsy."
+  ],
+  "what_you_need": [
+    "Payment for the application fee.",
+    "A current NSW security clearance (SC) or evidence of a security clearance application.",
+    "Your reason for requesting a BEUL.",
+    "A statement from a medical practitioner.",
+    "A JP certified copy of the document stating the applicant has successfully completed the relevant course.",
+    "A reference from a licence holder stating the applicant has experience in the class of blasting explosive being sought.",
+    "Details of explosives and/or security sensitive dangerous substances (SSDS) to be used.",
+    "If storage is requested or authorized: evidence of 12 shots (where applicable) and evidence of experience (log books) (where applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit your application with payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you lodge your application for an SC licence at the same time, it will have to be approved before your BEUL application will be processed.",
+      "link": null
+    },
+    {
+      "text": "The SC licence was previously called an unsupervised handling licence (UHL).",
+      "link": null
+    },
+    {
+      "text": "If storage is requested, you must submit a security plan (including a site plan and schedule) to ensure all explosives and/or security sensitive dangerous substances are held safely and securely.",
+      "link": "https://www.service.nsw.gov.au/transaction/prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "As a licence holder, you must:",
+      "link": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/general-explosive-licence-and-security-clearance-conditions-under-the-nsw-explosives-act-and-regulation"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Guide for blasting explosive user licence applicants",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0013/50035/Guide-for-blasting-explosive-user-licence-applicants.pdf"
+    },
+    {
+      "text": "application fee payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "explosives legislation",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/general-explosive-licence-and-security-clearance-conditions-under-the-nsw-explosives-act-and-regulation"
+    },
+    {
+      "text": "Security plan for explosives and/or SSDS: guide and template – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0009/49437/SW08292-Security-plan-for-storage-and-handling-of-explosives-and-or-security-sensitive-dangerous-substances-.pdf"
+    },
+    {
+      "text": "Blasting explosives user licence – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/explosives-and-fireworks-licences/blasting-explosives-user-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a licence to store explosives or SSDS",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-store-explosives-or-security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "NSW security clearance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-clearance-explosives"
+    },
+    {
+      "text": "security plan",
+      "url": "https://www.service.nsw.gov.au/transaction/prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "Replace an explosives, pyrotechnician or blasting licence, or security clearance card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-explosives-pyrotechnician-or-blasting-licence-or-security-clearance-card"
+    },
+    {
+      "text": "Change the details of a blasting explosive user licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-blasting-explosive-user-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a Blasting Explosives User Licence (BEUL) allow me to do?",
+      "a": "A BEUL allows you to purchase, possess, use, transport, dispose of, and if approved, store and manufacture explosives or security sensitive dangerous substances (SSDS).",
+      "link": null
+    },
+    {
+      "q": "How long is a Blasting Explosives User Licence valid for?",
+      "a": "The BEUL is valid for 5 years.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do if I want to store explosives or SSDS for longer than overnight?",
+      "a": "If you want to store explosives or SSDS longer than overnight, in quantities above the daily usage quota, or at more than one site, you must apply for a licence to store explosives or SSDS.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-store-explosives-or-security-sensitive-dangerous-substances"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:44Z",
+    "last_modified": "20 June 2025",
+    "html_sha1": "b119d0a8d481becac88468eac6bf629c0cd20137",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

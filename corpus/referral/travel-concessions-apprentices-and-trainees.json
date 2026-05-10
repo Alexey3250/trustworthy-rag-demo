@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-apprentices-and-trainees",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-apprentices-and-trainees",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-apprentices-and-trainees",
+  "title": "Public transport concessions for apprentices and trainees",
+  "summary": "This page explains how apprentices and trainees registered with Training Services NSW can get cheaper public transport fares.",
+  "topics": [
+    "apprentices",
+    "trainees",
+    "public-transport",
+    "concessions"
+  ],
+  "intro": "If you're an apprentice or trainee registered with Training Services NSW and in an active apprenticeship or traineeship, you may be able to get cheaper public transport.\n\nFor cheaper fares on the Opal transport network you'll need need two things:",
+  "who_can_apply": [
+    "You must be an apprentice or trainee registered with Training Services NSW.",
+    "You must be in an active apprenticeship or traineeship."
+  ],
+  "what_you_need": [
+    "Transport Concession Entitlement Card",
+    "Concession Opal card",
+    "Regional travel"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/apprentices-trainees"
+    },
+    {
+      "text": "Local Transport Operators",
+      "url": "https://transportnsw.info/operators"
+    },
+    {
+      "text": "NSW TrainLink Regional services",
+      "url": "https://transportnsw.info/regional-travel/booking-information/ways-to-book-your-ticket"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the VTAS travel and accommodation allowance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:53Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "a1ce0d48a52f1dbfdf08327f2e5a00990b4a6299",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-search-of-plant-registration-records",
+  "title": "Request a search of plant registration records",
+  "summary": "You can request SafeWork NSW to search their records to find out if your plant item or plant design has already been registered.",
+  "topics": [
+    "plant-registration",
+    "safe-work-nsw",
+    "search-records",
+    "plant-design"
+  ],
+  "intro": "If you're wanting to find out if any of your items of plant, or plant designs have already been registered, you can request SafeWork NSW to do a search of their records.\n\nYou need to make separate requests if:",
+  "who_can_apply": [
+    "The registered owner of the plant item or plant design, or their authorised nominee."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application to search registered plant item or design records'",
+    "A letter of authority from the registered owner (if applicable)",
+    "The reason for requesting the plant item or design search",
+    "Details of the item or design (if known, or applicable), such as the working location",
+    "Payment for the search"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete 'Application to search registered plant item or design records – PDF'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make your secure payment.",
+      "link": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "n": 4,
+      "text": "Email your application, supporting documents and payment receipt details to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "secure payment",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Application to search registered plant item or design records – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0012/50322/registered-plant-item-or-design-records-plant-search-application.pdf"
+    },
+    {
+      "text": "Plant registrations – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Replace a plant registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    },
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "text": "Apply to register an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "text": "Apply to register a plant design",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can request a search of plant registration records?",
+      "a": "The registered owner of the plant item or plant design, or their authorised nominee, can request a search.",
+      "link": null
+    },
+    {
+      "q": "What payment methods are accepted for this search?",
+      "a": "You can pay using credit or debit cards (Mastercard, Visa, American Express, or UnionPay) or PayPal.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "After completing the form and making payment, email your application, supporting documents, and payment receipt details to the address provided on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:44Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "c11edbba94ae949de170b19333fb2fe5d23e3e83",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

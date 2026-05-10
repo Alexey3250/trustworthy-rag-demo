@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/business-domain-name",
+  "source_url": "https://www.service.nsw.gov.au/referral/business-domain-name",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "business-domain-name",
+  "title": "Register a domain name for your business",
+  "summary": "Learn about registering a domain name to establish an online presence for your business.",
+  "topics": [
+    "business-name",
+    "domain-name",
+    "website",
+    "online-presence"
+  ],
+  "intro": "Your domain name is your website address on the internet. It gives you an online presence, and is an important marketing tool that can help customers find your business. If you don’t yet have a website, you can register your domain name and keep it until you’re ready.\n\nBefore you register the name, you will need to have:\n\nYou should also check if your domain name is available using the Business name check tool.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Check if your domain name is available using the Business name check tool."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Business name check tool",
+      "url": "https://help.register.business.gov.au/"
+    },
+    {
+      "text": "he Australian Government Business.gov.au website",
+      "url": "https://business.gov.au/online-and-digital/business-website/register-a-domain-name"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register a trade mark",
+      "url": "https://www.service.nsw.gov.au/referral/trade-mark"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:36Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "6ddd6f2d1e1d0462de9685f38782f32a3c977016",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

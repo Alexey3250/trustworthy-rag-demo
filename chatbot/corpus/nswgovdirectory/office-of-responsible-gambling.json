@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-responsible-gambling",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-responsible-gambling",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-responsible-gambling",
+  "title": "Office of Responsible Gambling",
+  "summary": "This page provides information about the Office of Responsible Gambling, including resources and support for gambling issues.",
+  "topics": [
+    "gambling",
+    "responsible-gambling",
+    "support",
+    "help"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.gambleaware.nsw.gov.au/",
+      "url": "https://www.gambleaware.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/liquor-gaming-nsw"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    },
+    {
+      "text": "Get help for gambling problems",
+      "url": "https://www.service.nsw.gov.au/referral/get-help-for-gambling-problems"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I get help for gambling problems?",
+      "a": "You can find help for gambling problems via the provided link.",
+      "link": "https://www.service.nsw.gov.au/referral/get-help-for-gambling-problems"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:19Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d38413bb310f78d7d55ab0a48a085d983f5ef30b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

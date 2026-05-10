@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-motor-dealer-licence",
+  "title": "Check a motor dealer licence",
+  "summary": "You can check a motor dealer licence or search for a licence number and its details online.",
+  "topics": [
+    "motor-dealer-licence",
+    "nsw-business",
+    "search-licence"
+  ],
+  "intro": "If you'd like to check a motor dealer licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb or postcode)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Working as a motor dealer: business obligations in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:46Z",
+    "last_modified": "28 January 2026",
+    "html_sha1": "660f1637980c08b91635e9f1e03e450da0bd7d53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

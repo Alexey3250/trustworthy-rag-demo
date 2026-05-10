@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-the-long-service-levy-building-and-construction",
+  "title": "Pay the long service levy (building and construction)",
+  "summary": "This page explains how to pay the long service levy for building and construction projects in NSW.",
+  "topics": [
+    "building-and-construction",
+    "long-service-levy",
+    "nsw-payments",
+    "building-levy"
+  ],
+  "intro": "The long service levy is applied to all NSW building and construction projects of $250,000 or more (including GST). The levy rate is 0.25% of the total cost of the work.\n\nThe levy must be paid before building work can be started.\n\nAll payments go into a fund from which the Long Service Corporation (LSC) pays long service entitlements to eligible building and construction workers.\n\nThe levy is paid by:\n\nNote: Owner-builders or non-profit organisations may be eligible for an exemption of up to 50%.",
+  "who_can_apply": [
+    "NSW building and construction projects of $250,000 or more (including GST)"
+  ],
+  "what_you_need": [
+    "Details of the building work, such as the name and contact details of the approving authority/private certifier",
+    "Credit or debit card for payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account, or log in via your LSC login credentials.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Pay New Levy'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to pay the levy.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "work did not begin and the building approval lapsed or was cancelled",
+      "link": null
+    },
+    {
+      "text": "a duplicate or overpayment was made",
+      "link": null
+    },
+    {
+      "text": "the applicant was entitled to an exemption.",
+      "link": null
+    },
+    {
+      "text": "Full or partial refunds of the levy may be available if:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Long service levy (BCI) – Long Service Corporation",
+      "url": "https://www.longservice.nsw.gov.au/bci/levy"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What projects require the long service levy?",
+      "a": "The long service levy applies to all NSW building and construction projects of $250,000 or more (including GST).",
+      "link": null
+    },
+    {
+      "q": "When must the levy be paid?",
+      "a": "The levy must be paid before building work can be started.",
+      "link": null
+    },
+    {
+      "q": "Who can get an exemption for the levy?",
+      "a": "Owner-builders or non-profit organisations may be eligible for an exemption of up to 50%.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:12Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "abb7cb5dae9ee6b849da43a720c2b1cd3f9c77ab",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

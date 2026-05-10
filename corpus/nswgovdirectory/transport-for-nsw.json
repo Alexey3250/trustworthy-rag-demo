@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "transport-for-nsw",
+  "title": "Transport for NSW",
+  "summary": "This page provides a directory of various transport-related services and agencies across NSW.",
+  "topics": [
+    "transport",
+    "nsw",
+    "nsw-transport",
+    "infrastructure",
+    "trains",
+    "boating"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.transport.nsw.gov.au/",
+      "url": "https://www.transport.nsw.gov.au/"
+    },
+    {
+      "text": "Transport NSW website",
+      "url": "https://transportnsw.info/"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Sydney Trains Timetables",
+      "url": "https://transportnsw.info/routes/train"
+    },
+    {
+      "text": "School Student Transport Scheme",
+      "url": "https://apps.transport.nsw.gov.au/ssts/schoolTravelPasses"
+    },
+    {
+      "text": "NSW TrainLink regional tickets and fares",
+      "url": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    },
+    {
+      "text": "All About Late Night Transport",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/late-night-services"
+    },
+    {
+      "text": "NSW TrainLink Timetables",
+      "url": "https://transportnsw.info/routes#/"
+    },
+    {
+      "text": "All about roads",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driving-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Active Transport and Vibrancy",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/active-transport-and-vibrancy"
+    },
+    {
+      "text": "Infrastructure NSW (INSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/infrastructure-nsw-insw"
+    },
+    {
+      "text": "Transport Asset Manager (TAM)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-asset-manager-tam"
+    },
+    {
+      "text": "NSW TrainLink",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-trainlink"
+    },
+    {
+      "text": "Sydney Trains",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-trains"
+    },
+    {
+      "text": "Transport Management Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-management-centre"
+    },
+    {
+      "text": "Transport Safety Investigations, Office of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-safety-investigations-office-of"
+    },
+    {
+      "text": "Newcastle Port Corporation",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/newcastle-port-corporation"
+    },
+    {
+      "text": "Port Authority of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/port-authority-of-nsw"
+    },
+    {
+      "text": "Point to Point Transport Commissioner",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/point-to-point-transport-commissioner"
+    },
+    {
+      "text": "Popular transport transactions",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about general transport services in NSW?",
+      "a": "The page lists several transport-related agencies and services, including Infrastructure NSW and the Port Authority of NSW.",
+      "link": null
+    },
+    {
+      "q": "What services are available for train travel?",
+      "a": "Information is available for Sydney Trains, NSW TrainLink, and the Point to Point Transport Commissioner.",
+      "link": null
+    },
+    {
+      "q": "Where can I find details about driving and roads?",
+      "a": "You can find information about general driving and transport services, and specific details about all about roads.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:53Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "895cc1e5a5f8009eebb325c7a2023c68eafdfdee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

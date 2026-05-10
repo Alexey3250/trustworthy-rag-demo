@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/relationship-authorisation-manager",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/relationship-authorisation-manager",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "relationship-authorisation-manager",
+  "title": "Access Manager application – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses personal information when you use the Access Manager application to verify your identity for your business.",
+  "topics": [
+    "access-manager",
+    "business-verification",
+    "privacy-notice",
+    "personal-information"
+  ],
+  "intro": "Service NSW is delivering the Access Manager application, which allows eligible business representatives to verify their identity details and establish themselves as a verified user for the business. The Access Manager will enable business representatives to interact on behalf of the business with various government agencies and apply for grants, rebates and vouchers.\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [
+    "Eligible business representatives"
+  ],
+  "what_you_need": [
+    "Proof of identity information (e.g., driver licence number, Medicare card details)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Privacy collection notices",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "Service NSW collects your information to establish your status as a verified user, contact you about your application, verify your details with the Document Verification Service, and support your business relationships.",
+      "link": null
+    },
+    {
+      "q": "What personal information will be collected?",
+      "a": "They collect your name, date of birth, address, email, phone number, and proof of identity information (such as driver licence number or Medicare card details).",
+      "link": null
+    },
+    {
+      "q": "Who will Service NSW share my information with?",
+      "a": "Information may be disclosed to the ATO, NSW Police Force, AUSTRAC, or any regulatory/professional body if Service NSW suspects fraud, criminal activity, or misconduct.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:05Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "f7c96c376f8b8ffc4bd3c70d54ad4f3cd72af658",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

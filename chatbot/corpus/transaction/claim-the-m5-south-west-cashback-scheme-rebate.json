@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-the-m5-south-west-cashback-scheme-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-the-m5-south-west-cashback-scheme-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-the-m5-south-west-cashback-scheme-rebate",
+  "title": "Claim the M5 South-West Cashback Scheme rebate",
+  "summary": "Learn how to claim a rebate for tolls paid on the M5 South-West Motorway.",
+  "topics": [
+    "m5-south-west",
+    "cashback-scheme",
+    "toll-rebate",
+    "nsw-motorway"
+  ],
+  "intro": "Motorists that have paid a toll on the M5 South-West Motorway can claim a rebate.\n\nNote: Before claiming, you need to register for the rebate.",
+  "who_can_apply": [
+    "Be a NSW resident",
+    "Have registered for the rebate",
+    "Have the vehicle registered in NSW for private, pensioner or charitable use",
+    "Have paid a toll on the M5 South-West Motorway",
+    "Claim within 12 months of the close of the M5 South-West Cashback Scheme quarter",
+    "Own a government or business registered vehicle (including vehicles provided as part of a salary package)",
+    "Own a leased or rented vehicle",
+    "Own a smash repair courtesy vehicle or car dealership loan vehicle",
+    "Own an interstate registered vehicle",
+    "Own a vehicle where business usage is shown on the registration papers (e.g., 'business general' or 'primary producer')",
+    "Note: Motorists who paid a toll notice on the M5 Motorway cannot claim a rebate for that toll."
+  ],
+  "what_you_need": [
+    "Your bank account details",
+    "Your toll account number",
+    "A copy of your toll transaction statement that lists your toll use",
+    "If claiming online, you need your toll account details.",
+    "If claiming at a Service NSW Centre, you need to follow the process outlined on the page."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your toll account.",
+      "link": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to claim the rebate.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the M5 South-West Cashback Scheme Rebate Claim Form – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45062907-m5-cashback.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Return your form and supporting documents",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 5,
+      "text": "Online claims are processed within 7 working days.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Email and postal claims are processed within 20 working days.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For claims lodged by form, rebates are paid by Electronic Funds Transfer (EFT) into the savings or cheque account nominated on the form. Rebates cannot be paid into credit card accounts.",
+      "link": null
+    },
+    {
+      "text": "If you register for the rebate, your vehicle may be photographed at M5 South-West toll points for audit purposes.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll",
+      "url": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "text": "Linkt",
+      "url": "https://www.linkt.com.au/help/cashback-and-rebates/claim-m5-south-west-cashback/sydney"
+    },
+    {
+      "text": "M5 South-West Cashback Scheme Rebate Claim Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45062907-m5-cashback.pdf"
+    },
+    {
+      "text": "M5 South-West Cashback Scheme – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/m5-south-west-e-toll-cashback-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register for the rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-the-m5-south-west-cashback-scheme-rebate"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to claim the M5 South-West rebate?",
+      "a": "You must be a NSW resident, have registered for the rebate, and have paid a toll on the M5 South-West Motorway. Eligible vehicles include private, pensioner, charitable, government, business, leased, rented, and interstate registered vehicles.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to claim the rebate?",
+      "a": "You must claim within 12 months of the close of the M5 South-West Cashback Scheme quarter.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to claim the rebate?",
+      "a": "You need your bank account details, your toll account number, and a copy of your toll transaction statement that lists your toll use.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:42Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "441659739c2089a551653a29fa83b6fd8837a300",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

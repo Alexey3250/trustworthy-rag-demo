@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/guardianship-and-power-attorney",
+  "source_url": "https://www.service.nsw.gov.au/services/guardianship-and-power-attorney",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "guardianship-and-power-attorney",
+  "title": "Power of attorney",
+  "summary": "Learn about making a power of attorney to help manage your affairs if you are unable to do so yourself.",
+  "topics": [
+    "power-of-attorney",
+    "guardianship",
+    "managing-affairs"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must be able to make the power of attorney yourself."
+  ],
+  "what_you_need": [
+    "A trusted person to act as your attorney.",
+    "Understanding the different types of decisions you want to cover (financial, property, personal care)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Get started making a Power of Attorney",
+      "url": "https://www.service.nsw.gov.au/transaction/get-started-making-a-power-of-attorney"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a power of attorney?",
+      "a": "A power of attorney allows you to appoint someone to make decisions for you if you are unable to do so yourself.",
+      "link": null
+    },
+    {
+      "q": "Who can be appointed as an attorney?",
+      "a": "You can appoint anyone you trust to be your attorney.",
+      "link": null
+    },
+    {
+      "q": "What types of decisions can a power of attorney cover?",
+      "a": "A power of attorney can cover decisions about your finances, property, and personal care.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:24Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "b070db7f297de4753af5dda7cd43fbaa8a93657f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

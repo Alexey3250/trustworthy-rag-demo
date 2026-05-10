@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seniors-discount-on-national-parks-annual-passes",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seniors-discount-on-national-parks-annual-passes",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-seniors-discount-on-national-parks-annual-passes",
+  "title": "Apply for a seniors discount on National Parks annual passes",
+  "summary": "Seniors Card holders can apply online to receive a discount on NSW National Parks and Wildlife Service annual passes.",
+  "topics": [
+    "national-parks",
+    "seniors-discount",
+    "annual-passes",
+    "nsw-wildlife-service"
+  ],
+  "intro": "Seniors Card holders can apply online for a discount on all NSW National Parks and Wildlife Service annual passes. This can be for any vehicle registered in their name or at their home address.\n\nThe discount provides seniors with a saving of approximately 20% on the full price of the pass.\n\nThe 4 types of annual passes are:\n\nAnnual passes are digital, which means you will not receive a physical pass to display in your vehicle.\n\nYou can buy 1-year and 2-year passes online.\n\nIf you're a concession card holder, you may be eligible for a concession pass.",
+  "who_can_apply": [
+    "Must be a Seniors Card holder.",
+    "The pass can be for any vehicle registered in the applicant's name or at their home address."
+  ],
+  "what_you_need": [
+    "Contact details",
+    "Vehicle registration number",
+    "Seniors Card number",
+    "A copy of both sides of your Seniors Card",
+    "A copy of your vehicle certificate of registration paper",
+    "Payment details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the annual pass you want to buy.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'I'm an Australian Seniors Card holder'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Provide the required information.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Read and accept the terms and conditions.",
+      "link": "https://www.nationalparks.nsw.gov.au/passes-and-fees/conditions-of-use"
+    },
+    {
+      "n": 7,
+      "text": "Submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The discount does not apply to single or multi-day passes.",
+      "link": null
+    },
+    {
+      "text": "Seniors discounts cannot be combined with any other annual pass discounts.",
+      "link": null
+    },
+    {
+      "text": "Your pass provides entry for the vehicle that is linked to your digital pass. You're not able to transfer passes between vehicles.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "terms and conditions",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/conditions-of-use"
+    },
+    {
+      "text": "Concession passes – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/discount-and-concession-passes"
+    },
+    {
+      "text": "Digital parks passes – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/digital-nsw-parks-pass"
+    },
+    {
+      "text": "Annual passes – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/annual-passes"
+    },
+    {
+      "text": "Entry fees and passes FAQs – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/national-parks-annual-pass-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "concession pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Planning for retirement",
+      "url": "https://www.service.nsw.gov.au/guide/planning-for-retirement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the discount for seniors?",
+      "a": "The discount provides seniors with a saving of approximately 20% on the full price of the pass.",
+      "link": null
+    },
+    {
+      "q": "What format are the annual passes?",
+      "a": "Annual passes are digital, meaning you will not receive a physical pass to display in your vehicle.",
+      "link": null
+    },
+    {
+      "q": "How can I buy the passes?",
+      "a": "You can buy 1-year and 2-year passes online.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:14Z",
+    "last_modified": "20 June 2022",
+    "html_sha1": "9df8e54af0bff8b67778826b82dc8baa6372d2d8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

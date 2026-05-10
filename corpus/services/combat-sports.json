@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/combat-sports",
+  "source_url": "https://www.service.nsw.gov.au/services/combat-sports",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "combat-sports",
+  "title": "Combat sports",
+  "summary": "This page provides information and links for managing various registrations and classes related to combat sports in NSW.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "combatant",
+    "promoter",
+    "medical-documents"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Renew a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Manage classes on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "text": "Update medical documents for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents"
+    },
+    {
+      "text": "Replace a medical record book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-medical-record-book"
+    },
+    {
+      "text": "Apply for an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-participant-and-promoter"
+    },
+    {
+      "text": "Renew an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-participant-and-promoter"
+    },
+    {
+      "text": "Manage classes on an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-industry-participant-and-promoter"
+    },
+    {
+      "text": "Replace an industry participant and promoter ID card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-id-card-for-participant-and-promoter"
+    },
+    {
+      "text": "Change name or contact details on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "Change name or contact details on an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-industry-participant-and-promoter"
+    },
+    {
+      "text": "Surrender a combat sports class or registration",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-combat-sports-class-or-registration"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a combatant registration?",
+      "a": "You can apply for a combatant registration using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "q": "How do I manage my combat sports classes or registrations?",
+      "a": "You can manage your classes or update your registration details through the provided links.",
+      "link": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "q": "What if I need to change my name or contact details?",
+      "a": "There are specific links available to help you change your name or contact details for both combatants and industry participants/promoters.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:43Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "a80029d46f5856953b920257ef520d1fa68efc63",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

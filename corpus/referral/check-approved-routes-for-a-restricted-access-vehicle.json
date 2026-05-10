@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-a-restricted-access-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-a-restricted-access-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-approved-routes-for-a-restricted-access-vehicle",
+  "title": "Check approved routes for a Restricted Access Vehicle",
+  "summary": "Use an online map to plan and check approved routes for Restricted Access Vehicles (RAV) operating in NSW.",
+  "topics": [
+    "restricted-access-vehicle",
+    "heavy-vehicle",
+    "route-planning",
+    "nsw-transport"
+  ],
+  "intro": "If you operate a Restricted Access Vehicle (RAV), you can use an interactive online map to plan your route in NSW.\n\nYou can check the approved routes for the following vehicles:\n\nThe map shows approved areas and routes, low-clearance bridges, and restrictions by heavy vehicle type. The approved routes are the legally enforceable network in NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "use an interactive online map",
+      "url": "https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&view=Category&exemptionSetId=-2"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "National Network Map – National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "Restricted access heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Grain Harvest Management Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/grain-harvest-management-scheme"
+    },
+    {
+      "text": "Check approved routes for the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-the-nsw-livestock-loading-scheme"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:31Z",
+    "last_modified": "20 January 2025",
+    "html_sha1": "840c2bd4d639a3817a7f2d430cb610de62966855",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-lost-or-stolen-birth-or-marriage-certificate",
+  "title": "Report a lost or stolen birth or marriage certificate",
+  "summary": "This page provides information on how to report a lost or stolen birth or marriage certificate.",
+  "topics": [
+    "lost-certificate",
+    "stolen-certificate",
+    "identity-theft",
+    "birth-certificate",
+    "marriage-certificate"
+  ],
+  "intro": "If your birth or marriage certificate is lost or stolen, you need to report it immediately.\n\nWith identity fraud on the increase, all personal documents are valuable, and a birth certificate is of particular importance. It’s required to establish your identity in many life events such as applying for a bank account, passport, social security, pension benefit, and Tax File Number.\n\nThe Registry of Births, Deaths & Marriages has information on how to safeguard these documents to prevent identity theft.\n\nYou may be able to report a lost or stolen certificate online through the NSW Police Force Community Portal Alternatively, call the Police Assistance Line on 131 444 or attend your local police station.\n\nIf you suspect that someone has been misusing your birth or marriage certificate, you can also report this via email to the Registry of Births, Deaths & Marriages.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "how to safeguard",
+      "url": "https://www.nsw.gov.au/id-support-nsw/be-prepared/protect-your-personal-information-and-privacy"
+    },
+    {
+      "text": "NSW Police Force Community Portal",
+      "url": "https://portal.police.nsw.gov.au"
+    },
+    {
+      "text": "Birth certificates – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates"
+    },
+    {
+      "text": "Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages"
+    },
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my birth or marriage certificate is lost or stolen?",
+      "a": "You need to report it immediately. You can report it online through the NSW Police Force Community Portal, call the Police Assistance Line on 131 444, or attend your local police station.",
+      "link": "https://portal.police.nsw.gov.au"
+    },
+    {
+      "q": "How can I report suspected misuse of my certificate?",
+      "a": "If you suspect that someone has been misusing your birth or marriage certificate, you can report this via email to the Registry of Births, Deaths & Marriages.",
+      "link": null
+    },
+    {
+      "q": "Why is a birth certificate important?",
+      "a": "A birth certificate is required to establish your identity for many life events, such as applying for a bank account, passport, social security, pension benefit, and Tax File Number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:59Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "44fee38e146721ac05ac1cd4a7de879e3ec5eeb4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

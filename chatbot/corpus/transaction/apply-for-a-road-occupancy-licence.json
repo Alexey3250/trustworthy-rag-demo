@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-road-occupancy-licence",
+  "title": "Apply for a Road Occupancy Licence",
+  "summary": "Apply for a Road Occupancy Licence online if you need to conduct activities, such as construction work or fixing potholes, that will impact an arterial road.",
+  "topics": [
+    "road-occupancy-licence",
+    "construction",
+    "traffic-management",
+    "nsw-roads"
+  ],
+  "intro": "If you need to apply for a Road Occupancy Licence to conduct activities like fixing pot holes or construction work that is likely to have an impact on the operations of an arterial road (for example, a traffic lane closure), you can do this via the Online PLanned INCident System (OPLINC).\n\nUsing OPLINC, you can also:\n\nFor more information, refer to Road Occupancy Licences.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Road Occupancy Licences",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/road-occupancy-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/referral/get-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Check road and traffic conditions with Live Traffic NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:45Z",
+    "last_modified": "13 April 2026",
+    "html_sha1": "58bc8c3dd83c0c1edfeec6138ea7446e92ac78eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

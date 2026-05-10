@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-storage-location-of-your-number-plates",
+  "title": "Change the storage location of your number plates",
+  "summary": "You can apply to move your stored number plates from one service centre location to another.",
+  "topics": [
+    "number-plates",
+    "storage",
+    "service-centre",
+    "vehicle-registration"
+  ],
+  "intro": "If you have stored your number plates at a service centre and wish to change the location, you can apply to have them moved to another service centre.\n\nA 'move number plates' fee will apply.\n\nPlease call 13 77 88 or visit a service centre to arrange this.\n\nNote: An auxiliary number plate must be stored with its associated number plates and cannot be moved to a separate service centre location.",
+  "who_can_apply": [
+    "You must have stored your number plates at a service centre and wish to change the location."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your payment"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "move number plates",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Collect or surrender number plates held in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage"
+    },
+    {
+      "text": "Place your number plates on hold/in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "Renew the storage/hold period of number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must I do to move my number plates?",
+      "a": "You must apply to have your number plates moved to another service centre. A 'move number plates' fee will apply.",
+      "link": null
+    },
+    {
+      "q": "How can I arrange to move my number plates?",
+      "a": "You can call 13 77 88 or visit a service centre to arrange this.",
+      "link": null
+    },
+    {
+      "q": "Can I move an auxiliary number plate?",
+      "a": "No, an auxiliary number plate must be stored with its associated number plates and cannot be moved to a separate service centre location.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:36Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "696e42680f8fdbad514c8b5ac4deb329075365d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

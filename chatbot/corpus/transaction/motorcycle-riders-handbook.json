@@ -1,0 +1,33 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook",
+  "source_url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "motorcycle-riders-handbook",
+  "title": "Motorcycle Riders' Handbook",
+  "summary": "This page provides access to the Motorcycle Riders' Handbook, which contains essential information on safe riding techniques and legal rules for NSW roads.",
+  "topics": [
+    "motorcycle-riding",
+    "safety-tips",
+    "nsw-roads",
+    "handbook"
+  ],
+  "intro": "The Motorcycle Riders' Handbook contains important information about riding techniques and how to cope with hazards. It can also help you choose and maintain your motorcycle.\n\nThe Handbook covers the main rules you need to know to ride legally and safely on NSW roads. It’s essential reading for anyone wanting to ride as it will prepare you for the challenges of riding and reduce your risk on the road.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:41Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "71d5973c78872162f588da6110aa7b9604d1c466",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "education-nsw-department-of",
+  "title": "Education, NSW Department of",
+  "summary": "This page provides information about the NSW Department of Education and its various educational services.",
+  "topics": [
+    "education",
+    "nsw",
+    "schooling",
+    "learning",
+    "student-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://education.nsw.gov.au/",
+      "url": "https://education.nsw.gov.au/"
+    },
+    {
+      "text": "Find a public school",
+      "url": "https://education.nsw.gov.au/schooling/parents-and-carers/choosing-a-school-setting/finding-a-public-school"
+    },
+    {
+      "text": "NSW school calendar",
+      "url": "https://education.nsw.gov.au/schooling/calendars"
+    },
+    {
+      "text": "Early childhood education – grants and funding",
+      "url": "https://education.nsw.gov.au/early-childhood-education/operating-an-early-childhood-education-service/grants-and-funded-programs"
+    },
+    {
+      "text": "Student mental health – NSW Department of Education",
+      "url": "https://education.nsw.gov.au/schooling/students/mental-health"
+    },
+    {
+      "text": "Sports and Recreation",
+      "url": "https://sportandrecreation.nsw.gov.au/"
+    },
+    {
+      "text": "Community languages schools – NSW Department of Education",
+      "url": "https://education.nsw.gov.au/schooling/parents-and-carers/choosing-a-school-setting/community-languages-schools"
+    },
+    {
+      "text": "Aboriginal Communities",
+      "url": "https://education.nsw.gov.au/teaching-and-learning/aec"
+    },
+    {
+      "text": "Going to school NSW – Department of Education",
+      "url": "https://education.nsw.gov.au/schooling/parents-and-carers/going-to-school"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Education Standards Authority (NESA)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-education-standards-authority-nesa"
+    },
+    {
+      "text": "TAFE Commission Board",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-commission-board"
+    },
+    {
+      "text": "Training Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/training-services-nsw"
+    },
+    {
+      "text": "TAFE NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-nsw"
+    },
+    {
+      "text": "Universities Admissions Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/universities-admissions-centre"
+    },
+    {
+      "text": "Aboriginal Education Consultative Group (AECG)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-education-consultative-group-aecg"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about public schools?",
+      "a": "You can find information about public schools at the designated link.",
+      "link": "https://education.nsw.gov.au/schooling/parents-and-carers/choosing-a-school-setting/finding-a-public-school"
+    },
+    {
+      "q": "What resources are available for early childhood education?",
+      "a": "Information regarding grants and funding for operating an early childhood education service is available.",
+      "link": "https://education.nsw.gov.au/early-childhood-education/operating-an-early-childhood-education-service/grants-and-funded-programs"
+    },
+    {
+      "q": "Where can I find information about student mental health?",
+      "a": "Details on student mental health are provided by the NSW Department of Education.",
+      "link": "https://education.nsw.gov.au/schooling/students/mental-health"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "1f8e3e209553bae374d60540aea7de366ceb2a7b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

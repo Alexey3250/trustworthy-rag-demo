@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-abstudy",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-abstudy",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-abstudy",
+  "title": "Apply for ABSTUDY",
+  "summary": "Find out if you are eligible for ABSTUDY to help with your study and housing costs if you are Aboriginal or Torres Strait Islander.",
+  "topics": [
+    "abstudy",
+    "aboriginal",
+    "torres-strait-islander",
+    "study-costs"
+  ],
+  "intro": "If you’re Aboriginal or Torres Strait Islander and you meet certain criteria, you may be able to get help with your study and housing costs through ABSTUDY.\n\nTo be eligible you must:\n\nABSTUDY can help with your costs for:",
+  "who_can_apply": [
+    "You must be Aboriginal or Torres Strait Islander.",
+    "You must meet certain criteria."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ABSTUDY Search",
+      "url": "https://www.servicesaustralia.gov.au/search?search=ABSTUDY"
+    },
+    {
+      "text": "About ABSTUDY",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/abstudy"
+    },
+    {
+      "text": "ABSTUDY eligibility criteria",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/abstudy/who-can-get-it"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:16Z",
+    "last_modified": "4 December 2024",
+    "html_sha1": "e780947d88dcdd1a11ca60089cbcd9ce88612210",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

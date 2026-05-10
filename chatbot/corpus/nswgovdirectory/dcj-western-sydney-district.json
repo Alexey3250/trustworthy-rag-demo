@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-sydney-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-sydney-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-western-sydney-district",
+  "title": "DCJ Western Sydney District",
+  "summary": "This page provides information and contact details for the DCJ Western Sydney District.",
+  "topics": [
+    "community-services",
+    "western-sydney",
+    "dcj",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Auburn Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/auburn-community-services-centre"
+    },
+    {
+      "text": "Blacktown Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/blacktown-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Mount Druitt Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/mount-druitt-community-services-centre"
+    },
+    {
+      "text": "Parramatta Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:05Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "bce9d977ad98b90d7c6bfca845f957d0b275627b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

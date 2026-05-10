@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/continuing-professional-development-builders",
+  "source_url": "https://www.service.nsw.gov.au/transaction/continuing-professional-development-builders",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "continuing-professional-development-builders",
+  "title": "Continuing professional development – builders",
+  "summary": "Licensed builders and swimming pool builders must complete continuing professional development (CPD) each year to renew their licence or certificate.",
+  "topics": [
+    "builder-licence",
+    "swimming-pool-builder",
+    "continuing-professional-development",
+    "cpd"
+  ],
+  "intro": "As a licensed builder or swimming pool builder you must undertake continuing professional development (CPD) each year to renew your licence or certificate.",
+  "who_can_apply": [
+    "Licensed builder",
+    "Swimming pool builder"
+  ],
+  "what_you_need": [
+    "A diary record of your participation",
+    "A record of attendance document from the training provider",
+    "Evidence such as a certificate, academic record, or a receipt if you bought or hired learning resources"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "eligible CPD topics and activities",
+      "link": null
+    },
+    {
+      "text": "how the points system works",
+      "link": null
+    },
+    {
+      "text": "earning your points",
+      "link": null
+    },
+    {
+      "text": "options for remote assessment",
+      "link": null
+    },
+    {
+      "text": "record keeping and",
+      "link": null
+    },
+    {
+      "text": "guidance for training providers.",
+      "link": null
+    },
+    {
+      "text": "Visit the Building Commission NSW website for more information on continuing professional development for builders and swimming pool builders including:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Your Career website",
+      "url": "https://www.yourcareer.gov.au/learn-and-train/courses"
+    },
+    {
+      "text": "continuing professional development for builders and swimming pool builders",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/for-builders-and-swimming-pool-builders"
+    },
+    {
+      "text": "Compliance and regulation in housing and construction – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for building practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-building-practitioner-registration"
+    },
+    {
+      "text": "Renew a building practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-building-practitioner-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:09Z",
+    "last_modified": "3 October 2025",
+    "html_sha1": "47251b6ffd1be368b9c3b2ab14d7996e18d7668a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

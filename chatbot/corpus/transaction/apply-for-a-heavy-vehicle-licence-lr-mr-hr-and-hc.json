@@ -1,0 +1,157 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-lr-mr-hr-and-hc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-lr-mr-hr-and-hc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-heavy-vehicle-licence-lr-mr-hr-and-hc",
+  "title": "Apply for a heavy vehicle licence (LR, MR, HR and HC)",
+  "summary": "This page provides information on how to apply for or upgrade a heavy vehicle licence (LR, MR, HR, and HC).",
+  "topics": [
+    "heavy-vehicle-licence",
+    "apply-for-licence",
+    "driving-test",
+    "service-nsw"
+  ],
+  "intro": "Before you can drive a heavy vehicle you need to have the appropriate licence for the class of vehicle. You can then drive any class of vehicle below your licence class, with the exception of motorcycles.\n\nBefore you apply for or upgrade a heavy vehicle licence, you need to visit a Service NSW Centre to:\n\nThen, depending on your location, you can either pay for a heavy vehicle competency based assessment (HVCBA) from a Registered Training Organisation or pay and book the Transport for NSW heavy vehicle driving test.\n\nNote: MR, HR and HC applicants with an existing medical condition, or who are declaring a new medical condition, must show evidence that they meet medical requirements to commercial standards as set in Assessing Fitness to Drive. This must be provided before you can be issued a competency based assessment (CBA) logbook or do a heavy vehicle driving test.\n\nAfter completing the HVCBA or passing the driving test, you then return to a service centre for the licence.",
+  "who_can_apply": [
+    "To apply for LR and MR, you must have held a class C licence or equivalent for one year or more.",
+    "To apply for HR, you must have held a class C licence or equivalent for two years or more.",
+    "To apply for HC, you must have held an MR or HR licence or equivalent for one year or more."
+  ],
+  "what_you_need": [
+    "Check the eligibility requirements to ensure you have held the lower grade licence for the designated time.",
+    "The PDF form: 'Licence Application'.",
+    "Proof of identity.",
+    "Your contact lenses or glasses, if necessary, for an eyesight test.",
+    "Payment for the HVCBA or Transport for NSW driving test.",
+    "Original HVCBA certificate of completion signed and endorsed by assessor, or a receipt for passing and paying for the Transport for NSW driving test.",
+    "Your overseas licence/confirmation letter if you are verifying holding a lower grade licence for the required period of time."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all your documentation and any additional items (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Before taking a Heavy Vehicle Driver Knowledge Test, read the Heavy Vehicle Driver Handbook, together with the Road User Handbook and the Load Restraint Guide and look at some practice tests.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2022-07/heavy-vehicle-driver-handbook_120722.pdf"
+    },
+    {
+      "text": "You can take the test in different languages: see what extra support is available.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/tests-for-heavy-vehicle-licences/heavy-vehicle-knowledge-test#toc-prepare-for-the-heavy-vehicle-knowledge-test"
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "licence for the class of vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/getting-a-heavy-vehicle-licence"
+    },
+    {
+      "text": "Registered Training Organisation",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/registered-training-organisations"
+    },
+    {
+      "text": "Assessing Fitness to Drive",
+      "url": "https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Heavy Vehicle Driver Handbook",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/heavy-vehicle-driver-handbook_120722.pdf"
+    },
+    {
+      "text": "Load Restraint Guide",
+      "url": "https://www.ntc.gov.au/codes-and-guidelines/load-restraint-guide"
+    },
+    {
+      "text": "practice tests",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/tests-for-heavy-vehicle-licences/heavy-vehicle-knowledge-test#toc-prepare-for-the-heavy-vehicle-knowledge-test"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Road User Handbook – English - PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-11/Road-User-Handbook-English.pdf"
+    },
+    {
+      "text": "Heavy vehicle competency based assessment (HVCBA) – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/tests-for-heavy-vehicle-licences/heavy-vehicle-competency-based-assessment"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Road User Handbook",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a heavy vehicle licence (multi-combination only)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-multi-combination-only"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do before applying for a heavy vehicle licence?",
+      "a": "You must visit a Service NSW Centre. Depending on your location, you will then either pay for a heavy vehicle competency based assessment (HVCBA) or book the Transport for NSW heavy vehicle driving test.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for different heavy vehicle licences?",
+      "a": "For LR and MR, you need to have held a class C licence or equivalent for one year or more. For HR, you need two years or more. For HC, you need to have held an MR or HR licence or equivalent for one year or more.",
+      "link": null
+    },
+    {
+      "q": "Do I need to provide medical evidence?",
+      "a": "If you have an existing or new medical condition, you must show evidence that you meet medical requirements to commercial standards as set in Assessing Fitness to Drive, and this must be provided before you can be issued a CBA logbook or do a heavy vehicle driving test.",
+      "link": "https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:34Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "9b21833dd3a95f2be21516457b54f3e62461f580",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

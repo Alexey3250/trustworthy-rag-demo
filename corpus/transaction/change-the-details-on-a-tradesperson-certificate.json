@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-tradesperson-certificate",
+  "title": "Change the details on a tradesperson certificate",
+  "summary": "You can update your tradesperson certificate address or contact details online if your current email or mobile phone number is recorded with Building Commission NSW.",
+  "topics": [
+    "tradesperson-certificate",
+    "change-details",
+    "contact-details",
+    "name-change"
+  ],
+  "intro": "You can update your tradesperson certificate address or contact details online if your current email address or mobile phone number is recorded with Building Commission NSW.\n\nTo find your tradesperson certificate number and details, visit Verify NSW.\n\n### Change of name\n\nTo change your name on your certificate take a copy of your change of name document (such as a marriage certificate) to a Service NSW Centre.",
+  "who_can_apply": [
+    "Your current email address or mobile phone number must be recorded with Building Commission NSW."
+  ],
+  "what_you_need": [
+    "Your name and licence number",
+    "Your new address or contact details",
+    "A copy of your change of name document (such as a marriage certificate) (if changing name)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "download and complete the Notification of Change of Address form – PDF",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "n": 4,
+      "text": "submit it by email to the address on the form or by visiting a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Notification of Change of Address form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Renew or restore a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-tradesperson-certificate"
+    },
+    {
+      "text": "Replace a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-tradesperson-certificate"
+    },
+    {
+      "text": "Surrender a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find my tradesperson certificate number and details?",
+      "a": "Visit Verify NSW to find your tradesperson certificate number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "q": "How do I change my name on my tradesperson certificate?",
+      "a": "Take a copy of your change of name document (such as a marriage certificate) to a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to change my details?",
+      "a": "You need your name and licence number, and your new address or contact details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:21Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "fc3ef3f698acbf826adfe0e5597842935792ceb4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

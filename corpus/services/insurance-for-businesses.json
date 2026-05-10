@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/insurance-for-businesses",
+  "source_url": "https://www.service.nsw.gov.au/services/insurance-for-businesses",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "insurance-for-businesses",
+  "title": "Insurance for businesses",
+  "summary": "Find information and services regarding insurance options for businesses in New South Wales.",
+  "topics": [
+    "business-insurance",
+    "workers-compensation",
+    "building-insurance",
+    "business-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Get liability insurance for your business",
+      "url": "https://www.service.nsw.gov.au/referral/get-liability-insurance-for-your-business"
+    },
+    {
+      "text": "Get a quote for workers insurance",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-quote-for-workers-insurance"
+    },
+    {
+      "text": "Insurance claims and legal support after a natural disaster",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters/insurance-claims-and-legal-support"
+    },
+    {
+      "text": "Apply for a certificate of eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-certificate-of-eligibility"
+    },
+    {
+      "text": "Apply for home building compensation cover",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover"
+    },
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Workers Insurance and Workers Care Program (icare)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/workers-insurance-and-workers-care-program-icare"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/safework-nsw"
+    },
+    {
+      "text": "State Insurance Regulatory Authority (SIRA)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-insurance-regulatory-authority-sira"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:28Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "df72108cdf23c3d2e773a68be971724bab673b0e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

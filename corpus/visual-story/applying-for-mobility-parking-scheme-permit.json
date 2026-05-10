@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/visual-story/applying-for-mobility-parking-scheme-permit",
+  "source_url": "https://www.service.nsw.gov.au/visual-story/applying-for-mobility-parking-scheme-permit",
+  "category": "visual-story",
+  "article_kind": "landing-page",
+  "slug": "applying-for-mobility-parking-scheme-permit",
+  "title": "Applying for a Mobility Parking Scheme (MPS) Permit",
+  "summary": "This page provides information on how to apply for a Mobility Parking Scheme (MPS) Permit.",
+  "topics": [
+    "mobility-parking",
+    "mps-permit",
+    "disability",
+    "driving-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must have a disability or condition that requires you to park in a mobility parking bay.",
+    "The permit is for individuals with a disability or condition."
+  ],
+  "what_you_need": [
+    "Proof of identity (e.g., driver's licence).",
+    "Proof of your disability or condition.",
+    "The completed application form."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Download a PDF form",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061469-mps-conditions-eng.pdf"
+    },
+    {
+      "text": "prove who you are",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Photo Exemptions",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/individual-and-temporary-permit#:~:text=Check%20if%20you,for%20a%20permit."
+    },
+    {
+      "text": "how to display your permit",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/displaying-a-permit"
+    },
+    {
+      "text": "where you can use it",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/using-your-permit"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "download this visual story in PDF format",
+      "url": "https://www.service.nsw.gov.au/system/files/2026-01/Visual%20Story%20-%20Mobility%20Parking%20%28MPS%29%20Scheme%20Permit%202026.pdf"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Quiet Hour times",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    },
+    {
+      "text": "Hidden Disability Sunflower Symbol",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/be-seen-with-a-sunflower"
+    },
+    {
+      "text": "your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Booked appointment times",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "Auslan video remote interpreting",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Mobility Parking Scheme (MPS) Permit?",
+      "a": "An MPS Permit allows you to park in designated mobility parking bays.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for an MPS Permit?",
+      "a": "You can apply for an MPS Permit by following the steps outlined on the page.",
+      "link": null
+    },
+    {
+      "q": "Where can I find the application forms?",
+      "a": "You can download a PDF form for the application.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45061469-mps-conditions-eng.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:40Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "2a3f49d54224faf29d063182c707f57e0f4727e5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

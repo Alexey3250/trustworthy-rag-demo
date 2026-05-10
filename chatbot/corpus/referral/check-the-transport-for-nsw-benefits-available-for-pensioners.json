@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-the-transport-for-nsw-benefits-available-for-pensioners",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-the-transport-for-nsw-benefits-available-for-pensioners",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-the-transport-for-nsw-benefits-available-for-pensioners",
+  "title": "Check the Transport for NSW benefits available for pensioners",
+  "summary": "Find out about concessions and discounts on transport services and products for eligible pensioners in NSW.",
+  "topics": [
+    "pensioner",
+    "concessions",
+    "transport",
+    "nsw-benefits",
+    "pensioner-discounts"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a NSW resident.",
+    "Must have an eligible pension from Services Australia or the Department of Veterans' Affairs (DVA).",
+    "Holders of an interstate pensioner concession card are not eligible."
+  ],
+  "what_you_need": [
+    "Proof of NSW residency.",
+    "Proof of eligible pension from Services Australia or the Department of Veterans' Affairs (DVA)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Concessions and discounts for licence-related fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees/concessions-and-discounts"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "NSW Mobility Parking Permit",
+      "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme"
+    },
+    {
+      "text": "Savings Finder specialist",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment"
+    },
+    {
+      "text": "vehicle registration concessions for pensioners",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners"
+    },
+    {
+      "text": "registration concession",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession"
+    },
+    {
+      "text": "seniors, carers and pensioners",
+      "url": "https://www.service.nsw.gov.au/services/seniors-carers-pensioners"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for these concessions?",
+      "a": "You must be a NSW resident with an eligible pension from Services Australia or the Department of Veterans' Affairs (DVA). Note that holders of an interstate pensioner concession card are not eligible.",
+      "link": null
+    },
+    {
+      "q": "What types of products and services can I get concessions for?",
+      "a": "Concessions are available for items such as licences, driving tests, riding skills tests, Photo Cards, and NSW Mobility Parking Permits.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more savings and discounts?",
+      "a": "You can find information on vehicle registration concessions for pensioners, concessions for licence-related fees, and support services for seniors, carers, and pensioners.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:57Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "818a0434a4c806dba283f42f5c50e4f7ab293084",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

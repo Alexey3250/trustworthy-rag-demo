@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/landholder-renewable-energy-projects",
+  "source_url": "https://www.service.nsw.gov.au/referral/landholder-renewable-energy-projects",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "landholder-renewable-energy-projects",
+  "title": "Get help with landholder renewable energy and transmission projects",
+  "summary": "Landholders can download a guide to help them understand the process of hosting renewable energy and transmission projects.",
+  "topics": [
+    "landholder",
+    "renewable-energy",
+    "transmission-projects",
+    "guide"
+  ],
+  "intro": "If you are a landholder and considering hosting renewable energy projects you can download a guide to help with the process.\n\nThe guide covers topics such as:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Renewable Energy and Transmission Landholder Guide",
+      "url": "https://www.nswfarmers.org.au/NSWFA/Content/IndustryPolicy/Resource/NSW-Renewable-Energy-and-Transmission-Landholder-Guide.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:56Z",
+    "last_modified": "6 May 2025",
+    "html_sha1": "f51f1bd857e534fe009cef4775cc43d03212e908",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/suggest-a-speed-camera-location",
+  "source_url": "https://www.service.nsw.gov.au/referral/suggest-a-speed-camera-location",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "suggest-a-speed-camera-location",
+  "title": "Suggest a speed camera location",
+  "summary": "Use an online form to suggest a location in NSW where a speed camera should be placed.",
+  "topics": [
+    "road-safety",
+    "speed-camera",
+    "transport-nsw",
+    "suggestion"
+  ],
+  "intro": "You can use Transport for NSW's online form to suggest a location where you think a speed camera should be in NSW.\n\nThe information you provide, together with crash data and other road safety information will help to prioritise future locations for speed cameras in NSW. Your submission will be reviewed by road safety experts.\n\nBefore you suggest a location for an enforcement camera, check if there's already a speed camera location nearby.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Name",
+    "Email address"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to the Centre for Road Safety 'Enforcement cameras - have your say' form",
+      "link": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding/have-your-say/enforcement-cameras-have-your-say"
+    },
+    {
+      "n": 2,
+      "text": "Enter your suggested location on the map.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the mandatory questions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Read and agree to the Terms and Conditions and the Privacy Statement.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Provide your name and email address.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Submit your suggestion.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The Centre for Road Safety will not respond to every submission.",
+      "link": null
+    },
+    {
+      "text": "You’ll only be contacted if more information is needed.",
+      "link": null
+    },
+    {
+      "text": "For details on the speed camera program read the NSW Automated Enforcement Strategy.",
+      "link": "https://www.transport.nsw.gov.au/roadsafety/what-we-do"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "'Enforcement cameras - have your say' form",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding/have-your-say/enforcement-cameras-have-your-say"
+    },
+    {
+      "text": "NSW Automated Enforcement Strategy",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/what-we-do"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "check if there's already a speed camera location nearby",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens after I suggest a speed camera location?",
+      "a": "The information you provide, along with crash data and other road safety information, will help to prioritise future locations for speed cameras in NSW. Your submission will be reviewed by road safety experts.",
+      "link": null
+    },
+    {
+      "q": "Should I check if there is already a speed camera nearby?",
+      "a": "Yes, before you suggest a location for an enforcement camera, check if there's already a speed camera location nearby.",
+      "link": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:42Z",
+    "last_modified": "24 September 2025",
+    "html_sha1": "f07ce913a86e2087b1d8b560714761c7e9f9dde3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

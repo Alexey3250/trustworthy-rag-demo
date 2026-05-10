@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/goulburn-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/goulburn-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "goulburn-service-centre",
+  "title": "Goulburn Service Centre",
+  "summary": "This page provides information about the Goulburn Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "goulburn",
+    "accessibility",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-34.750892,149.722092"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Crookwell Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/crookwell-agency"
+    },
+    {
+      "text": "Mittagong Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/mittagong-service-centre"
+    },
+    {
+      "text": "Yass Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/yass-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:35Z",
+    "last_modified": null,
+    "html_sha1": "7a9d6b76a70a87d8f41c84b56018af2f68cff8a5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/orange-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/orange-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "orange-service-centre",
+  "title": "Orange Service Centre",
+  "summary": "This page provides information about the Orange Service Centre, including payment options, accessibility facilities, and nearby service centres.",
+  "topics": [
+    "service-centre",
+    "orange",
+    "accessibility",
+    "payment-options"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.286215,149.101032"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Bathurst Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/bathurst-service-centre"
+    },
+    {
+      "text": "Cowra Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/cowra-service-centre"
+    },
+    {
+      "text": "Wellington Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/wellington-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:36Z",
+    "last_modified": null,
+    "html_sha1": "b07a90afa030a501deab2115f78d17a2b0d9160d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

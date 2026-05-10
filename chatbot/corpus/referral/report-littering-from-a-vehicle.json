@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-littering-from-a-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-littering-from-a-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-littering-from-a-vehicle",
+  "title": "Report littering from a vehicle",
+  "summary": "You can report littering from a vehicle online to the NSW Environment Protection Authority (EPA).",
+  "topics": [
+    "littering",
+    "vehicle",
+    "report",
+    "epa"
+  ],
+  "intro": "If you see someone littering from their vehicle, you can report them online to the NSW Environment Protection Authority (EPA).\n\nFines from $250 for an individual and $500 for a corporation can be issued from witnesses reports.\n\nThe EPA can act on reports of littering from vehicles registered in:\n\nThe first time you submit a report you'll need to create an account. Have your mobile phone with you so you can receive an SMS and verify your details.\n\nIf you do not have a mobile phone or are under 18, call the EPA on 13 15 55.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A mobile phone (to receive an SMS for verification) if reporting online.",
+    "The EPA phone number (13 15 55) if you do not have a mobile phone or are under 18."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Never use your mobile phone while you're driving – this includes when you're stationary at traffic lights or in a car park.",
+      "link": null
+    },
+    {
+      "text": "Keep your notes, photographs, videos and any other evidence for one year in case the penalty notice is disputed, and you are asked to attend court as a witness.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Submit your report online",
+      "url": "https://www.epa.nsw.gov.au/your-environment/litter/report-littering"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What are the potential fines for littering from a vehicle?",
+      "a": "Fines can be issued from witness reports, starting from $250 for an individual and $500 for a corporation.",
+      "link": null
+    },
+    {
+      "q": "Where can I report littering from a vehicle?",
+      "a": "You can report littering from a vehicle online to the NSW Environment Protection Authority (EPA) via the provided link.",
+      "link": "https://www.epa.nsw.gov.au/your-environment/litter/report-littering"
+    },
+    {
+      "q": "What do I need to report littering online?",
+      "a": "If you report online, you must create an account and have your mobile phone available to receive an SMS for verification.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:16Z",
+    "last_modified": "12 August 2025",
+    "html_sha1": "bdcb0a6018b36e7a87f9bb3ead6172896de845a3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

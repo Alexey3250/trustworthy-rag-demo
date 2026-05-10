@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-permit-to-fossick-in-a-nsw-state-forest",
+  "title": "Apply for a permit to fossick in a NSW state forest",
+  "summary": "Find out how to apply for a permit to fossick in a NSW state forest for recreational, tourist, or educational purposes.",
+  "topics": [
+    "fossicking",
+    "nsw-state-forest",
+    "permit",
+    "minerals"
+  ],
+  "intro": "Fossicking is looking for and collecting gems or mineral with hand tools. This includes looking for gold using metal detectors or pans.\n\nYou must have a permit to fossick in a NSW state forest. With a permit, you can fossick for recreational, tourist or educational purposes only.\n\nYou can apply for a 12-month permit online.\n\nNote: Before you apply, check the state forest fossicking map for areas where fossicking is permitted. It may be prohibited in some areas of a state forest.",
+  "who_can_apply": [
+    "Individuals or families who want to fossick in a NSW state forest.",
+    "If fossicking in a group or club, each person or family must have a permit."
+  ],
+  "what_you_need": [
+    "Your contact details",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form to get your permit.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Carry your permit with you when you go fossicking.",
+      "link": null
+    },
+    {
+      "text": "Follow the rules in the Guide to fossicking in NSW.",
+      "link": "https://www.resourcesregulator.nsw.gov.au/sites/default/files/documents/fossicking-a-guide-to-fossicking-in-nsw.pdf"
+    },
+    {
+      "text": "Before you visit a state forest, check for:",
+      "link": "https://minview.geoscience.nsw.gov.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "state forest fossicking map",
+      "url": "https://minview.geoscience.nsw.gov.au/"
+    },
+    {
+      "text": "NSW state forest",
+      "url": "https://www.forestrycorporation.com.au/visit/forests"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.forestrycorporation.com.au/visit/activities/fossicking"
+    },
+    {
+      "text": "Guide to fossicking in NSW",
+      "url": "https://www.resourcesregulator.nsw.gov.au/sites/default/files/documents/fossicking-a-guide-to-fossicking-in-nsw.pdf"
+    },
+    {
+      "text": "road and forest closures",
+      "url": "https://www.forestrycorporation.com.au/visit/closures"
+    },
+    {
+      "text": "Fossicking permit conditions – PDF",
+      "url": "https://fpos.fcnsw.com.au/FossickingConditions.PDF"
+    },
+    {
+      "text": "Important information when visiting state forests",
+      "url": "https://www.forestrycorporation.com.au/visit/important"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Retrieve a fossicking permit",
+      "url": "https://www.service.nsw.gov.au/transaction/retrieve-a-fossicking-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is fossicking?",
+      "a": "Fossicking is looking for and collecting gems or minerals with hand tools, which includes looking for gold using metal detectors or pans.",
+      "link": null
+    },
+    {
+      "q": "Do I need a permit to fossick in a NSW state forest?",
+      "a": "Yes, you must have a permit to fossick in a NSW state forest.",
+      "link": null
+    },
+    {
+      "q": "Where can I check if fossicking is allowed?",
+      "a": "Before applying, check the state forest fossicking map, as fossicking may be prohibited in some areas.",
+      "link": "https://minview.geoscience.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:55Z",
+    "last_modified": "9 September 2024",
+    "html_sha1": "244ad678fdfdf9bbdca55189df119b1e50ba255e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

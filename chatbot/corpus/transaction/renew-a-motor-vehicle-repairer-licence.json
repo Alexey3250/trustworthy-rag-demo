@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-motor-vehicle-repairer-licence",
+  "title": "Renew a motor vehicle repairer licence",
+  "summary": "You can renew your motor vehicle repairer licence online if you have received a renewal notice.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "renew-licence",
+    "business-licence"
+  ],
+  "intro": "If you hold a motor vehicle repairer licence and you've received your renewal notice, you can renew online.\n\nBefore you renew, check that your business premises details stated on the renewal notice are up to date. You must change the details of your premises if they are not correct.\n\nTo find your motor vehicle repairer licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Must hold a motor vehicle repairer licence and have received a renewal notice."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Payment for the renewal fee (payable for each place of business, including mobile workshops)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you did not renew on time but the licence is within 3 months from its expiry date you may be able make an application to restore your licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "If your licence has expired more than 3 months, you'll need to apply for a new licence to be re-issued.",
+      "link": null
+    },
+    {
+      "text": "You cannot trade until your new licence is issued.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairers-licensing-fees"
+    },
+    {
+      "text": "Working as a motor vehicle repairer – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer"
+    },
+    {
+      "text": "Motor vehicle repairers' register forms – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairers-register-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change the details of your premises",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    },
+    {
+      "text": "application to restore your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Check a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Apply for a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do before I renew my licence?",
+      "a": "Check that the business premises details on your renewal notice are up to date. If they are not correct, you must change the details of your premises.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    },
+    {
+      "q": "How do I find my licence number and details?",
+      "a": "Visit Verify NSW to find your motor vehicle repairer licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "How do I renew my licence?",
+      "a": "Select the 'Renew online' button and follow the prompts to renew your licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:01Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "8c45c9893d5604ac731475bab6215f8e2b1d88b2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

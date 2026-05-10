@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/complying-with-chain-of-responsibility-legislation",
+  "source_url": "https://www.service.nsw.gov.au/referral/complying-with-chain-of-responsibility-legislation",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "complying-with-chain-of-responsibility-legislation",
+  "title": "Complying with Chain of Responsibility legislation",
+  "summary": "Learn about the requirements of the Chain of Responsibility (CoR) legislation under the Heavy Vehicle National Law (HVNL) and how all parties in the supply chain must maintain safety.",
+  "topics": [
+    "heavy-vehicle-national-law",
+    "chain-of-responsibility",
+    "supply-chain-safety",
+    "road-transport-compliance"
+  ],
+  "intro": "Chain of Responsibility (CoR) legislation sits under Heavy Vehicle National Law (HVNL) and directs that all parties across the supply chain play a role in maintaining the safety of heavy vehicles on the road.\n\nYou are considered part of the road transport supply chain if you have any control or responsibility over any transport task, such as consigning, packing, loading, or receiving goods as part of your business.\n\nThe supply chain also extends to corporate entities, directors, partners and managers, who are all accountable for the actions of people under their control.\n\nAll parties in the supply chain must take reasonable steps to prevent breaches of the HVNL, including:\n\nYou are a CoR party because of a function you perform, not because of a title or job description, or the words of a contract.\n\nMore detailed information on 'parties' in the supply chain, is available on the National Heavy Vehicle Regulator (NHVR) website.",
+  "who_can_apply": [
+    "Any party with control or responsibility over a transport task (e.g., consigning, packing, loading, or receiving goods).",
+    "Corporate entities, directors, partners, and managers who are accountable for the actions of people under their control."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Chain of Responsibility (CoR)",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/chain-of-responsibility"
+    },
+    {
+      "text": "'parties' in the supply chain",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/chain-of-responsibility/the-primary-duty/parties-in-the-cor"
+    },
+    {
+      "text": "All about heavy vehicle national law and regulations",
+      "url": "https://www.nhvr.gov.au/law-policies/heavy-vehicle-national-law-and-regulations"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is Chain of Responsibility (CoR) legislation?",
+      "a": "CoR legislation is part of the Heavy Vehicle National Law (HVNL) and requires all parties in the supply chain to play a role in maintaining the safety of heavy vehicles on the road.",
+      "link": null
+    },
+    {
+      "q": "Who is considered part of the road transport supply chain?",
+      "a": "You are considered part of the supply chain if you have any control or responsibility over a transport task, such as consigning, packing, loading, or receiving goods as part of your business. This also extends to corporate entities, directors, partners, and managers.",
+      "link": null
+    },
+    {
+      "q": "What must all parties in the supply chain do?",
+      "a": "All parties must take reasonable steps to prevent breaches of the HVNL.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:26Z",
+    "last_modified": "12 January 2025",
+    "html_sha1": "b2144b64a64396fc81fd0b28bc119d9b4c28bce5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/tumut-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/tumut-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "tumut-community-services-centre",
+  "title": "Tumut Community Services Centre",
+  "summary": "This page provides information about the Tumut Community Services Centre, which is part of the Communities and Justice NSW Department.",
+  "topics": [
+    "community-services",
+    "tumut",
+    "nsw-department",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:41Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "d83ec24334c058dadfda795423341bed94b10531",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-number-plates-as-a-dealer-with-an-agreement",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-number-plates-as-a-dealer-with-an-agreement",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-number-plates-as-a-dealer-with-an-agreement",
+  "title": "Order number plates as a dealer with an agreement",
+  "summary": "Licensed motor dealers can order number plates for new or second-hand vehicles, and for unsold cars, by visiting a Service NSW Centre.",
+  "topics": [
+    "motor-dealer",
+    "number-plates",
+    "vehicle-registration",
+    "service-nsw"
+  ],
+  "intro": "If you're a licensed motor dealer and you want to order number plates for customers who have bought a new or second-hand vehicle from you, as well as plates for cars that have yet to be sold, you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [
+    "Licensed motor dealer"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Dealer Plate Schedule'",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your order.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Dealer Vehicle Registration Scheme Agreement – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/dealer-vehicle-registration-scheme-agreement-dvrs"
+    },
+    {
+      "text": "Dealer Plate Schedule – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070531-dealer-plate-schedule.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:00Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "517d3a7604e3def3b5a52c7a5ae099bf3b6027ca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

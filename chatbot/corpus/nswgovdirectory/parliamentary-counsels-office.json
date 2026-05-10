@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/parliamentary-counsels-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/parliamentary-counsels-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "parliamentary-counsels-office",
+  "title": "Parliamentary Counsel's Office",
+  "summary": "This page provides information about the Parliamentary Counsel's Office (PCO), which assists with drafting legislation for the NSW Parliament.",
+  "topics": [
+    "legislation",
+    "parliament",
+    "law-drafting",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.pco.nsw.gov.au/",
+      "url": "https://www.pco.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "102f54115df51f528d14dd11b193a8fb8ab361d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

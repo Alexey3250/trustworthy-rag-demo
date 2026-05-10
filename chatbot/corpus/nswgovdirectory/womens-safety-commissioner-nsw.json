@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/womens-safety-commissioner-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/womens-safety-commissioner-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "womens-safety-commissioner-nsw",
+  "title": "Women's Safety Commissioner, NSW",
+  "summary": "This page provides information about the Women's Safety Commissioner, who helps people experiencing domestic and family violence.",
+  "topics": [
+    "domestic-violence",
+    "womens-safety",
+    "safety-planning",
+    "commissioner"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/legal-and-justice/our-commissioners/womens-safety-commissioner.html",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/our-commissioners/womens-safety-commissioner.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Guide to services",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:03Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f59477704e5bdced06760cb7afa3bca959366a97",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

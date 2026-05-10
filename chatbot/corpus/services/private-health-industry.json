@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/private-health-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/private-health-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "private-health-industry",
+  "title": "Private health facilities and nursing homes",
+  "summary": "Find information and apply for licences related to private health facilities and nursing homes in NSW.",
+  "topics": [
+    "private-health-facility",
+    "nursing-homes",
+    "licences",
+    "drugs-of-addiction"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Hospitals and ambulances",
+      "link": "https://www.service.nsw.gov.au/services/hospitals-and-ambulances"
+    },
+    {
+      "text": "Health and care",
+      "link": "https://www.service.nsw.gov.au/services/health-and-care"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a licence for a private health facility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-for-a-private-health-facility"
+    },
+    {
+      "text": "Renew a private health facility licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-private-health-facility-licence"
+    },
+    {
+      "text": "Apply for a licence to supply drugs of addiction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-supply-drugs-of-addiction"
+    },
+    {
+      "text": "Hospitals and ambulances",
+      "url": "https://www.service.nsw.gov.au/services/hospitals-and-ambulances"
+    },
+    {
+      "text": "Health and care",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:11Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "83e4d4964bf6288cafc625d8850a86ccc2ab6ece",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

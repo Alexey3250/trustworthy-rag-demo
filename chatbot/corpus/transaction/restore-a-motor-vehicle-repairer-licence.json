@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-motor-vehicle-repairer-licence",
+  "title": "Restore a motor vehicle repairer licence",
+  "summary": "You can restore your motor vehicle repairer licence online if it expired less than 3 months ago.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "restore-licence",
+    "nsw-business"
+  ],
+  "intro": "If your motor vehicle repairer licence expired less than 3 months ago, you can restore your licence online.\n\nTo look up your motor vehicle repairer licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Your motor vehicle repairer licence must have expired less than 3 months ago."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Restore online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to restore your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your licence is considered to have been renewed from the day it expired.",
+      "link": null
+    },
+    {
+      "text": "If your licence has been expired for more than 3 months, you’ll need to apply for a new licence.",
+      "link": null
+    },
+    {
+      "text": "Your motor vehicle repair business must not trade until it has a valid licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairers-licensing-fees"
+    },
+    {
+      "text": "Working as a motor vehicle repairer – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Renew a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Replace a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-repairer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check my motor vehicle repairer licence number?",
+      "a": "To look up your motor vehicle repairer licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "What do I need to restore my licence online?",
+      "a": "You will need your licence number, your renewal number (as shown on your renewal notice), or your full personal details, and your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:59Z",
+    "last_modified": "2 September 2025",
+    "html_sha1": "af9fa2725d6c304b35a763f70fe89cfb22942f6a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

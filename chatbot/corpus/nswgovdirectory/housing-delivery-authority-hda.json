@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/housing-delivery-authority-hda",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/housing-delivery-authority-hda",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "housing-delivery-authority-hda",
+  "title": "Housing Delivery Authority (HDA)",
+  "summary": "This page provides information about the Housing Delivery Authority (HDA), which is a body that helps deliver housing.",
+  "topics": [
+    "housing",
+    "development",
+    "planning",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-delivery-authority",
+      "url": "https://www.planning.nsw.gov.au/policy-and-legislation/housing/housing-delivery-authority"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:18Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ca7aae26fecc3634f77306572b6b7e4d0458b14c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

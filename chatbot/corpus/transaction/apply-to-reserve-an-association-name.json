@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-reserve-an-association-name",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-reserve-an-association-name",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-reserve-an-association-name",
+  "title": "Apply to reserve an association name",
+  "summary": "Learn how to apply to reserve a proposed name for an association.",
+  "topics": [
+    "association-name",
+    "reserve-name",
+    "service-nsw"
+  ],
+  "intro": "You can reserve a proposed name for:\n\nReserving a proposed name is optional.\n\nBefore you start your application, check whether the name you have chosen has already been registered.",
+  "who_can_apply": [
+    "A person who is authorised by the association committee can apply to reserve a name."
+  ],
+  "what_you_need": [
+    "3 proposed names for your association in order of preference",
+    "The PDF form: 'Application for reservation of name (Form A1)'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and submit it with your payment either:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If approved, the name will be reserved for 3 months and expire if the association does not incorporate in that time.",
+      "link": null
+    },
+    {
+      "text": "The period of 3 months for name reservation cannot be extended.",
+      "link": null
+    },
+    {
+      "text": "It’s your responsibility to check whether a name is restricted in a way that may prevent the use of it, such as it closely resembles an existing incorporated association name, or is the same as a registered business or company name.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form A1: Application for reservation of name NSW Fair Trading – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/incorporated-associations-forms-and-fees/form-a1-application-for-reservation-of-name"
+    },
+    {
+      "text": "Form A2: Application for registration of an incorporated association NSW Fair Trading – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/incorporated-associations-forms-and-fees/form-a2-application-for-registration-of-an-incorporated-association"
+    },
+    {
+      "text": "Naming your incorporated association – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/starting-an-incorporated-association/naming-your-incorporated-association"
+    },
+    {
+      "text": "Incorporated associations – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/about-incorporated-associations"
+    },
+    {
+      "text": "Incorporated association laws and administration – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/incorporated-association-laws"
+    },
+    {
+      "text": "Check Name Availability – ASIC",
+      "url": "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/NameAvail.jspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "has already been registered",
+      "url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply to register an incorporated association",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-incorporated-association"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is reserving a name mandatory?",
+      "a": "No, reserving a proposed name is optional.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to reserve an association name?",
+      "a": "A person who is authorised by the association committee can apply to reserve a name.",
+      "link": null
+    },
+    {
+      "q": "How do I check if a name is available before applying?",
+      "a": "Before starting your application, check whether the name you have chosen has already been registered.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:26Z",
+    "last_modified": "23 September 2025",
+    "html_sha1": "c37df76ae56d8e3477b9774b7f6c67c8e58b3353",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

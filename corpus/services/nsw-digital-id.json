@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/nsw-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/services/nsw-digital-id",
+  "category": "services",
+  "article_kind": "landing-page",
+  "slug": "nsw-digital-id",
+  "title": "NSW Digital ID",
+  "summary": "This page provides information about the NSW Digital ID, a secure way to verify your identity online.",
+  "topics": [
+    "digital-id",
+    "identity-verification",
+    "online-services",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Claim toll relief rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "text": "Create your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "Common questions about the NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/common-questions/nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital ID Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital ID Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Digital ID?",
+      "a": "The NSW Digital ID is a secure way to verify your identity online, allowing you to access government services and private websites safely.",
+      "link": null
+    },
+    {
+      "q": "How do I create an NSW Digital ID?",
+      "a": "You can create your NSW Digital ID by following the steps available on the dedicated creation page.",
+      "link": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "q": "Where can I find more information about the NSW Digital ID?",
+      "a": "You can find common questions and detailed information about the NSW Digital ID.",
+      "link": "https://www.service.nsw.gov.au/common-questions/nsw-digital-id"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:36Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "fe30b2c772c135308164f97b63bf780690d8748e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

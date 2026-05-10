@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/conveyancer-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/conveyancer-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "conveyancer-licence",
+  "title": "Conveyancer licence",
+  "summary": "This page provides information and links for various actions related to a conveyancer licence, including applying for, changing details on, renewing, or checking a licence.",
+  "topics": [
+    "conveyancer-licence",
+    "real-estate",
+    "licence",
+    "property"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individual",
+    "Corporation",
+    "Interstate or New Zealand conveyancer"
+  ],
+  "what_you_need": [
+    "Details about whether you are applying as an individual or a corporation.",
+    "Details about whether you need to apply for mutual recognition of an interstate or New Zealand licence.",
+    "Specific documentation required for changing, renewing, or replacing a licence."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Apply for a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-corporation"
+    },
+    {
+      "text": "Apply for mutual recognition of an interstate or New Zealand conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-mutual-recognition-of-an-interstate-or-new-zealand-conveyancer-licence"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-corporation"
+    },
+    {
+      "text": "Check a property conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence"
+    },
+    {
+      "text": "Renew or restore a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-an-individual-conveyancer-licence"
+    },
+    {
+      "text": "Renew or restore a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-corporation-conveyancer-licence"
+    },
+    {
+      "text": "Replace a conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a conveyancer licence?",
+      "a": "You can apply for a conveyancer licence depending on whether you are an individual or a corporation.",
+      "link": null
+    },
+    {
+      "q": "What if I need to change details on my conveyancer licence?",
+      "a": "There are specific processes for changing details on a conveyancer licence, depending on whether you are an individual or a corporation.",
+      "link": null
+    },
+    {
+      "q": "Can I renew or restore my conveyancer licence?",
+      "a": "Yes, you can renew or restore your licence, with separate processes for individuals and corporations.",
+      "link": null
+    },
+    {
+      "q": "How can I check a property conveyancer licence?",
+      "a": "You can check a property conveyancer licence using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:09Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "09ecd8c6d2157b52ac65fa66a402137565ab5548",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

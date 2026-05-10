@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-clearance-explosives",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-clearance-explosives",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-security-clearance-explosives",
+  "title": "Apply for a security clearance (explosives)",
+  "summary": "This page explains how to apply for a NSW security clearance (SC) licence if you need unsupervised access to explosives or security sensitive dangerous substances (SSDS).",
+  "topics": [
+    "security-clearance",
+    "explosives",
+    "nsw-licence",
+    "dangerous-substances"
+  ],
+  "intro": "You need to apply for a NSW security clearance (SC) licence if you want to have unsupervised access to explosives or security sensitive dangerous substances (SSDS).\n\nThe licence is valid for 5 years and allows you to work for a supervising licensee who holds the appropriate explosives or SSDS licences.\n\nAn SC licence does not allow you to obtain, possess, transport, use or handle explosives or SSDS in your own right.",
+  "who_can_apply": [
+    "Be aged 18 or over",
+    "Have a current National Police Check"
+  ],
+  "what_you_need": [
+    "The application fee",
+    "Proof of identity (100 points, as detailed on the application form)",
+    "Two passport size photos with your name and date of birth on the back of each photo",
+    "Your National Police Check certificate",
+    "Your reason for requesting the licence",
+    "Your employer's details (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download, print and complete the Security clearance application form – PDF.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Collect all the required documents including your proof of identity.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge your application with payment, at your nearest Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "As an SC licence holder you must comply with the general explosive licence and security clearance conditions under the NSW Explosives Act and regulation.",
+      "link": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/general-explosive-licence-and-security-clearance-conditions-under-the-nsw-explosives-act-and-regulation"
+    },
+    {
+      "text": "As an SC licence holder, you must work for a supervising licensee who is licensed to be in possession of the explosives or security sensitive dangerous substances, and if appropriate be nominated on their security plan.",
+      "link": null
+    },
+    {
+      "text": "You must advise SafeWork NSW of any changes to your licence or your contact details, within 14 days.",
+      "link": null
+    },
+    {
+      "text": "You'll need to hold an SC licence if you intend to apply for an explosives or pyrotechnician's licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "application fee",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "general explosive licence and security clearance conditions under the NSW Explosives Act and regulation",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/general-explosive-licence-and-security-clearance-conditions-under-the-nsw-explosives-act-and-regulation"
+    },
+    {
+      "text": "Security clearance for handling explosives – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/explosives-and-fireworks-licences/security-clearance-for-handling-explosives"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does an SC licence allow me to do?",
+      "a": "The licence allows you to work for a supervising licensee who holds the appropriate explosives or SSDS licences. It does not allow you to obtain, possess, transport, use, or handle explosives or SSDS in your own right.",
+      "link": null
+    },
+    {
+      "q": "How long is the SC licence valid for?",
+      "a": "The licence is valid for 5 years.",
+      "link": null
+    },
+    {
+      "q": "Where do I lodge my application?",
+      "a": "You must lodge your application with payment at your nearest Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:41Z",
+    "last_modified": "15 May 2025",
+    "html_sha1": "dd9075ec1264bd5844b5b68dcee3320a459fa501",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

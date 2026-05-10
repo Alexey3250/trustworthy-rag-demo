@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/small-changes-big-impact",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/small-changes-big-impact",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "small-changes-big-impact",
+  "title": "Small changes, big impact",
+  "summary": "This page discusses how small changes to digital services can have a big impact on the NSW public sector.",
+  "topics": [
+    "digital-services",
+    "nsw-government",
+    "digital-transformation",
+    "service-design"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities#want-to-work-with-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:39Z",
+    "last_modified": "20 March 2025",
+    "html_sha1": "40248557909118986e82bc0581effc5d77a68ccc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

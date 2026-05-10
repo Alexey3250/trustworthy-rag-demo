@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/create-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/create-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "create-nsw",
+  "title": "Create NSW",
+  "summary": "This page provides information about Create NSW, which supports the creative industries, tourism, hospitality, and sport sectors in New South Wales.",
+  "topics": [
+    "arts",
+    "creative-industries",
+    "tourism",
+    "hospitality",
+    "sport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/create-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/create-nsw"
+    },
+    {
+      "text": "Arts Funding and Support Programs – Create NSW",
+      "url": "https://www.create.nsw.gov.au/category/funding-and-support/"
+    },
+    {
+      "text": "The Arts in NSW – Create NSW",
+      "url": "https://www.create.nsw.gov.au/category/arts-in-nsw/"
+    },
+    {
+      "text": "News and publications – Create NSW",
+      "url": "https://www.create.nsw.gov.au/category/news-and-publications/"
+    },
+    {
+      "text": "Resources and information for creative practitioners – Create NSW",
+      "url": "https://www.create.nsw.gov.au/category/resources/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:31Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "89ff3ba7493d8767a385a48c47a7814af1788d07",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

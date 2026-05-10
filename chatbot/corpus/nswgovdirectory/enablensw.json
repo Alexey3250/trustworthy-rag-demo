@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/enablensw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/enablensw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "enablensw",
+  "title": "EnableNSW",
+  "summary": "This page provides information about EnableNSW, a service that helps people with disabilities access necessary equipment and support.",
+  "topics": [
+    "disability-support",
+    "medical-equipment",
+    "nsw-health",
+    "assistive-technology"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.enable.health.nsw.gov.au/",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Access EnableNSW Services",
+      "url": "https://www.service.nsw.gov.au/transaction/access-enablensw-services"
+    },
+    {
+      "text": "Apply for EnableNSW assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw"
+    },
+    {
+      "text": "Change the details registered with EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw"
+    },
+    {
+      "text": "Make a co-payment to EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-co-payment-to-enablensw"
+    },
+    {
+      "text": "Request equipment repairs and re-order consumables from EnableNSW",
+      "url": "https://www.service.nsw.gov.au/transaction/request-equipment-repairs-and-re-order-consumables-from-enablensw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I access EnableNSW services?",
+      "a": "You can access EnableNSW services through the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-enablensw-services"
+    },
+    {
+      "q": "How do I apply for EnableNSW assistance?",
+      "a": "You can apply for assistance through the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw"
+    },
+    {
+      "q": "What if I need to change my details registered with EnableNSW?",
+      "a": "You can change your registered details using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:41Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c63328321937bd9c01003bcb0c1a698fd44f30d6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-an-authorised-vehicle-inspection-station-outside-nsw",
+  "title": "Find an authorised vehicle inspection station outside NSW",
+  "summary": "Find information and links for authorised vehicle inspection stations outside of NSW if you need a safety inspection report.",
+  "topics": [
+    "vehicle-inspection",
+    "safety-report",
+    "interstate-travel",
+    "vehicle-registration"
+  ],
+  "intro": "If you need a safety inspection report (pink slip) to renew your NSW car/light vehicle registration, Transport for NSW will only accept an interstate inspection report if you're more than 50 kilometres from the NSW border.\n\nThe report must be from either:\n\nThe inspection report from the interstate examiner must cover details similar to those for NSW safety inspections. Individual items including braking, lighting, steering and suspension must be defined as having been inspected and passed as suitable, and the vehicle assessed to be in an overall satisfactory roadworthy condition.\n\nNote: If you're temporarily overseas, refer to Interstate or overseas renewals.",
+  "who_can_apply": [
+    "Must be more than 50 kilometres from the NSW border to use an interstate inspection report for NSW registration renewal."
+  ],
+  "what_you_need": [
+    "An inspection report from an interstate examiner that covers details similar to NSW safety inspections, including passing checks for braking, lighting, steering, and suspension, and confirming overall roadworthy condition."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "need a safety inspection report (pink slip)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "Interstate or overseas renewals",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/interstate-or-overseas-renewals"
+    },
+    {
+      "text": "Queensland",
+      "url": "https://www.service.transport.qld.gov.au/findais/application/FindAis.xhtml"
+    },
+    {
+      "text": "Victoria",
+      "url": "https://transport.vic.gov.au/registration-and-licensing/registration/roadworthy-certification/roadworthy-tester-locations"
+    },
+    {
+      "text": "South Australia",
+      "url": "https://www.sa.gov.au/topics/driving-and-transport/vehicles/vehicle-inspections/bookings"
+    },
+    {
+      "text": "Western Australia",
+      "url": "https://www.transport.wa.gov.au/licensing/get-a-vehicle-inspected.asp"
+    },
+    {
+      "text": "Tasmania",
+      "url": "https://www.transport.tas.gov.au/vehicles_and_vehicle_inspections/vehicle_inspections_ais"
+    },
+    {
+      "text": "Northern Territory",
+      "url": "https://nt.gov.au/driving/registration/authorised-vehicle-inspectors"
+    },
+    {
+      "text": "ACT Road Transport Authority",
+      "url": "https://www.accesscanberra.act.gov.au"
+    },
+    {
+      "text": "Queensland Department of Main Roads",
+      "url": "https://www.tmr.qld.gov.au/"
+    },
+    {
+      "text": "South Australia Department of Planning Transport and Infrastructure",
+      "url": "https://www.dpti.sa.gov.au/"
+    },
+    {
+      "text": "VicRoads",
+      "url": "https://www.vicroads.vic.gov.au"
+    },
+    {
+      "text": "Mainroads Western Australia",
+      "url": "https://www.mainroads.wa.gov.au/"
+    },
+    {
+      "text": "Transport Tasmania",
+      "url": "https://www.transport.tas.gov.au/"
+    },
+    {
+      "text": "Northern Territory Department of Transport",
+      "url": "https://nt.gov.au/driving"
+    },
+    {
+      "text": "RACQ",
+      "url": "https://www.racq.com.au/"
+    },
+    {
+      "text": "RAA",
+      "url": "https://www.raa.com.au/"
+    },
+    {
+      "text": "RACV",
+      "url": "https://www.racv.com.au/"
+    },
+    {
+      "text": "RACWA",
+      "url": "https://rac.com.au/"
+    },
+    {
+      "text": "RACT",
+      "url": "https://www.ract.com.au/"
+    },
+    {
+      "text": "AANT",
+      "url": "https://www.aant.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Heavy Vehicle Inspection Scheme (HVIS) inspections",
+      "url": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    },
+    {
+      "text": "Get a safety inspection report (pink slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an interstate inspection report if I am renewing my NSW registration?",
+      "a": "If you are more than 50 kilometres from the NSW border, Transport for NSW will accept an interstate inspection report (pink slip) for renewing your car/light vehicle registration.",
+      "link": null
+    },
+    {
+      "q": "What must an interstate inspection report cover?",
+      "a": "The report must cover details similar to NSW safety inspections, confirming that individual items (like braking, lighting, steering, and suspension) have been inspected and passed, and that the vehicle is in an overall satisfactory roadworthy condition.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I am temporarily overseas?",
+      "a": "If you are temporarily overseas, you should refer to the Interstate or overseas renewals information.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/interstate-or-overseas-renewals"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:44Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "59f83fd1b73124dec15f3a3ed76a0e79c81f44b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

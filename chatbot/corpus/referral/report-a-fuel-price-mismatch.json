@@ -1,0 +1,44 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-fuel-price-mismatch",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-fuel-price-mismatch",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-fuel-price-mismatch",
+  "title": "Report a fuel price mismatch",
+  "summary": "Learn how to report a fuel price mismatch if the price at a service station does not match the price shown on the FuelCheck online tool.",
+  "topics": [
+    "fuel-price-mismatch",
+    "service-station",
+    "fuel-check",
+    "complaint"
+  ],
+  "intro": "If the fuel price at a service station does not match the price you see on the FuelCheck online tool, you should let the service station operator know about the price mismatch\n\nIf this does not resolve the issue, or you’re not satisfied with their response, you can:\n\nYou'll need:\n\nFair Trading will review each complaint and depending on the circumstances, the service station may be fined.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Fair Trading will review each complaint and depending on the circumstances, the service station may be fined."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "FuelCheck online tool",
+      "url": "https://fuelcheck.nsw.gov.au/app"
+    },
+    {
+      "text": "NSW Fair Trading website",
+      "url": "https://www.cas.fairtrading.nsw.gov.au/icmspublicweb/forms/GeneralForm.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:58Z",
+    "last_modified": "13 May 2025",
+    "html_sha1": "5cf5ba856f7faccd20e0995599618dd8749e294f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

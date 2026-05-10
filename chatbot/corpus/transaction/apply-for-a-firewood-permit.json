@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-firewood-permit",
+  "title": "Apply for a firewood permit",
+  "summary": "This page provides information and steps on how to apply for a permit to collect firewood for personal use from a state forest in NSW.",
+  "topics": [
+    "firewood",
+    "permit",
+    "state-forest",
+    "nsw"
+  ],
+  "intro": "If you'd like to collect firewood for personal use from a state forest within NSW, you'll need to apply for a permit.",
+  "who_can_apply": [
+    "Permits and timber must be paid for in advance, and you must comply with the conditions on the permit."
+  ],
+  "what_you_need": [
+    "Vehicle registration number",
+    "Driver licence number",
+    "Pensioner number (if applicable)",
+    "Credit card"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Proceed'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Create a new account, sign in to your existing account, or checkout without registering an account.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete the online application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "carry your permit at all times and show it to Forestry Corporation officers if requested",
+      "link": null
+    },
+    {
+      "text": "you're only allowed to take fallen timber, and need to stick to collection limits",
+      "link": null
+    },
+    {
+      "text": "only collect firewood from the mapped area attached to your permit",
+      "link": null
+    },
+    {
+      "text": "record your collection on your permit before you leave",
+      "link": null
+    },
+    {
+      "text": "if needed, you can retrieve a copy of your last valid firewood permit online",
+      "link": "https://fpos.fcnsw.com.au/LoginDifficulty.aspx"
+    },
+    {
+      "text": "firewood cannot be collected from NSW national parks except if you have a Riverina domestic firewood collection permit.",
+      "link": "https://www.service.nsw.gov.au/referral/riverina-domestic-firewood-collection-permit"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "retrieve a copy",
+      "url": "https://fpos.fcnsw.com.au/LoginDifficulty.aspx"
+    },
+    {
+      "text": "Collecting firewood from state forests – PDF",
+      "url": "https://www.forestrycorporation.com.au/__data/assets/pdf_file/0009/438093/collecting-firewood-factsheet.pdf"
+    },
+    {
+      "text": "Firewood policy – Office of Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/park-policies/firewood"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Riverina domestic firewood collection permit",
+      "url": "https://www.service.nsw.gov.au/referral/riverina-domestic-firewood-collection-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a permit to collect firewood?",
+      "a": "Yes, if you plan to collect firewood for personal use from a state forest within NSW, you must apply for a permit.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the permit?",
+      "a": "You will need your vehicle registration number, your driver licence number, pensioner number (if applicable), and a credit card.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the firewood permit?",
+      "a": "You can apply by selecting 'Apply online', entering the required information, and completing the online application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:54Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "d9a1d34d923cecdc63ac08138fd36442db743cce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

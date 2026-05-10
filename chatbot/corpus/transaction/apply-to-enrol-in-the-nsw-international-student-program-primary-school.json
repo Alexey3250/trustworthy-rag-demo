@@ -1,0 +1,138 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-in-the-nsw-international-student-program-primary-school",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-in-the-nsw-international-student-program-primary-school",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-enrol-in-the-nsw-international-student-program-primary-school",
+  "title": "Apply to enrol in the NSW international student program (primary school)",
+  "summary": "Find out how to apply to enrol in the NSW international student program for primary school.",
+  "topics": [
+    "international-student",
+    "nsw-primary-school",
+    "enrolment",
+    "education"
+  ],
+  "intro": "Primary school education in NSW takes 7 years. It begins in kindergarten when children are about 5 years old and ends in Year 6 when they're about 12. The international student program is offered at selected schools in NSW.\n\nYou can apply for up to 2 years of study as an international student in a NSW primary school.",
+  "who_can_apply": [
+    "Children aged 5 to 10 must live with a parent while in Australia.",
+    "Children aged 11 and 12 can live with a parent or a direct relative approved by the Department of Immigration and Border Protection.",
+    "There are no English language entry requirements."
+  ],
+  "what_you_need": [
+    "Your personal details",
+    "Certified copy of your birth certificate or your passport",
+    "Visa details (if applicable)",
+    "Accommodation and welfare documentation",
+    "Overseas student health cover (OSHC) details (if applicable)",
+    "Evidence of satisfactory progress in literacy and numeracy (if applicable)",
+    "Certified translations of all supporting documents that are not in English",
+    "Your method of payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Register as a new student.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete and submit your online application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "All NSW government primary schools are co-educational schools, with boys and girls in the same classes.",
+      "link": null
+    },
+    {
+      "text": "Students who are wanting to enrol in a NSW government high school after they've completed Year 6 may be required to do an intensive English language course during the second semester of Year 6.",
+      "link": "https://www.deinternational.nsw.edu.au/study-options/intensive-english-centres-iec"
+    },
+    {
+      "text": "DE International representative agents are also able help you with visa applications if you wish.",
+      "link": null
+    },
+    {
+      "text": "There are 4 school terms:",
+      "link": null
+    },
+    {
+      "text": "Primary school applicants can enrol from Term 1 to Term 4.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "representative agents",
+      "url": "https://www.deinternational.nsw.edu.au/how-to-apply/find-an-agent"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.deinternational.nsw.edu.au/study-options/fees"
+    },
+    {
+      "text": "intensive English language course",
+      "url": "https://www.deinternational.nsw.edu.au/study-options/intensive-english-centres-iec"
+    },
+    {
+      "text": "International student guide – PDF",
+      "url": "https://www.deinternational.nsw.edu.au/__data/assets/pdf_file/0017/10268/International-Student-Program-Guide-English-2022-LR.pdf"
+    },
+    {
+      "text": "Information for parents of international primary students – PDF",
+      "url": "https://schoolsequella.det.nsw.edu.au/file/b555b21f-c9f0-41bb-a878-e320ad32c6c0/1/primary-schools-information.pdf"
+    },
+    {
+      "text": "School search tool for international students",
+      "url": "https://www.deinternational.nsw.edu.au/how-to-apply/find-a-school"
+    },
+    {
+      "text": "International students' accommodation options",
+      "url": "https://www.deinternational.nsw.edu.au/living-in-nsw/accommodation-options"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to enrol in the NSW international student program (secondary school)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-in-the-nsw-international-student-program-secondary-school"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is primary school in NSW?",
+      "a": "Primary school education in NSW takes 7 years, starting in kindergarten (around age 5) and ending in Year 6 (around age 12).",
+      "link": null
+    },
+    {
+      "q": "Are there English language requirements to apply?",
+      "a": "No, there are no English language entry requirements.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the program?",
+      "a": "You will need your personal details, certified copies of your birth certificate or passport, visa details (if applicable), accommodation and welfare documentation, and OSHC details (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:33Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "bc73c5786786b88c36a2a21510338d5d2d80dd5f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

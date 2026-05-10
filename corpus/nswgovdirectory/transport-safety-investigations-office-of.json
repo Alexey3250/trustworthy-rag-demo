@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-safety-investigations-office-of",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-safety-investigations-office-of",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "transport-safety-investigations-office-of",
+  "title": "Transport Safety Investigations, Office of",
+  "summary": "This page provides information about the Transport Safety Investigations Office (TSIO), which investigates serious road incidents in New South Wales.",
+  "topics": [
+    "transport-safety",
+    "investigations",
+    "road-incidents",
+    "nsw-transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.otsi.nsw.gov.au/",
+      "url": "https://www.otsi.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:53Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4d64e11ed899878254b8301d86877093aba1317c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

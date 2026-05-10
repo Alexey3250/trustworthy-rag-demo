@@ -1,0 +1,170 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "change-mobile-phone-or-device-used-for-multi-factor-authentication",
+  "title": "Change mobile phone or device used for multi-factor authentication",
+  "summary": "This page explains how to change the mobile phone or device used for multi-factor authentication (MFA) for your Service NSW account.",
+  "topics": [
+    "service-nsw",
+    "multi-factor-authentication",
+    "device",
+    "account-security"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must have access to the Service NSW app or an authenticator app for MFA on the old device.",
+    "Must be able to log in using the Service NSW app, an authenticator app, or another MFA method (like text message)."
+  ],
+  "what_you_need": [
+    "Your old device (to remove the MFA setup).",
+    "Your new device (to set up MFA).",
+    "The Service NSW app (on the old device).",
+    "The ability to follow instructions to set up MFA on the new device."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Get your old device.",
+      "link": "tel:137788"
+    },
+    {
+      "n": 2,
+      "text": "Open and log in to the Service NSW app on the device currently set up for MFA.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Security settings'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Multi-factor authentication'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Service NSW app', which includes the name of your device.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select 'Remove'.",
+      "link": "tel:137788"
+    },
+    {
+      "n": 8,
+      "text": "Get your new device.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Follow the instructions to set up MFA on your new device.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help or have questions, call us on 13 77 88 or go to a service centre.\n\nIf you're overseas, call +61 2 8894 1555.",
+  "more_info": [
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Microsoft Authenticator",
+      "url": "https://www.microsoft.com/en-au/security/mobile-authenticator-app"
+    },
+    {
+      "text": "Google Authenticator",
+      "url": "https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DiOS&oco=0"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "set up MFA",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do I need to call or visit a service centre to change my MFA device?",
+      "a": "You must call or visit a service centre if your device is lost or stolen, or if you cannot access your old device and cannot log in using a text message (SMS) for MFA.",
+      "link": null
+    },
+    {
+      "q": "Can I change my MFA device myself online?",
+      "a": "Yes, you can change it yourself online if you can access your old device and log in using the Service NSW app or an authenticator app for MFA, or if you can log in using another method of MFA (for example, text message).",
+      "link": null
+    },
+    {
+      "q": "What are the steps to remove an old device for MFA?",
+      "a": "On the device currently set up for MFA, open and log in to the Service NSW app, select the profile or 'person' icon, select 'Security settings', select 'Multi-factor authentication', select 'Service NSW app' (with your device name), and select 'Remove'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:58Z",
+    "last_modified": "11 March 2026",
+    "html_sha1": "76316c6425d54ccefa68cfca83db7c117146b066",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

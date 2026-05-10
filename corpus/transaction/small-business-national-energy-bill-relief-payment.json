@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/small-business-national-energy-bill-relief-payment",
+  "source_url": "https://www.service.nsw.gov.au/transaction/small-business-national-energy-bill-relief-payment",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "small-business-national-energy-bill-relief-payment",
+  "title": "Apply for the National Energy Bill Relief payment for small business",
+  "summary": "Find out if your small business is eligible for the National Energy Bill Relief payment and how to apply.",
+  "topics": [
+    "small-business",
+    "energy-bills",
+    "rebates",
+    "nsw"
+  ],
+  "intro": "The Australian Government has announced that eligible small businesses will receive up to $150 to help with the cost of their electricity bills in the 2025–26 financial year.",
+  "who_can_apply": [
+    "Must have an active Australian Business Number (ABN).",
+    "Must be named on the electricity bill or account.",
+    "Must be on a separately metered business tariff.",
+    "Must have an annual electricity consumption below 100 MWh.",
+    "Cannot operate from a home or be on a residential electricity tariff.",
+    "Exclusions include post offices, government-owned agencies, gas and water retailers, and telecommunications companies."
+  ],
+  "what_you_need": [
+    "Active Australian Business Number (ABN).",
+    "Electricity bill or account showing the business name.",
+    "Confirmation of a separately metered business tariff.",
+    "Record of annual electricity consumption (below 100 MWh)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "ARC Energy Group",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Energy Locals/ Energy Locals Urban",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Energy On",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Evergy",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Origin Energy (including most of their WINConnect sites)",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Microgrid Power",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Locality Planning Energy (LPE) at the following sites:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply now",
+      "url": "https://netzeronsw.smartygrants.com.au/SmallBusinessBillRelief2526"
+    },
+    {
+      "text": "National Energy Bill Relief – NSW Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/national-energy-bill-relief"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the National Energy Bill Relief payment?",
+      "a": "Eligible small businesses can receive up to $150 to help with the cost of their electricity bills in the 2025–26 financial year.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for this payment?",
+      "a": "To be eligible, your small business must have an active ABN, be named on the electricity bill or account, be on a separately metered business tariff, and have an annual electricity consumption below 100 MWh. You are not eligible if you operate from home or if your business is on a residential electricity tariff.",
+      "link": null
+    },
+    {
+      "q": "Which energy providers are listed?",
+      "a": "The listed providers include ARC Energy Group, Energy Locals/ Energy Locals Urban, Energy On, Evergy, Origin Energy, Microgrid Power, and Locality Planning Energy (LPE) at specific sites.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:56Z",
+    "last_modified": "18 December 2025",
+    "html_sha1": "754973b6bd7889e76b9c2b2a72596d29b97e8e3c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

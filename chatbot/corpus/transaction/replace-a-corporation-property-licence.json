@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-corporation-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-corporation-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-corporation-property-licence",
+  "title": "Replace a corporation property licence",
+  "summary": "You can apply for a free replacement licence if your organisation's corporation property licence has been damaged, lost, or stolen.",
+  "topics": [
+    "corporation-property-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If your organisation holds a corporation property licence and the licence has been damaged, lost or stolen, you can apply for a free replacement licence at a Service NSW Centre or by email.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "reason for requesting the replacement",
+    "organisation's name",
+    "licence number",
+    "A signed written request for a replacement"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "at a service centre, or",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "email propertylicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence"
+    },
+    {
+      "text": "Restore a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence"
+    },
+    {
+      "text": "Replace an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-individual-property-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:18Z",
+    "last_modified": "10 February 2026",
+    "html_sha1": "bca3bd7912af273c8b4ea7429b7c8d96d1ae759d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

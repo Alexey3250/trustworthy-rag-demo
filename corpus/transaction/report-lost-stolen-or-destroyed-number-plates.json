@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-lost-stolen-or-destroyed-number-plates",
+  "title": "Report lost, stolen or destroyed number plates",
+  "summary": "Find out how to report lost, stolen, or destroyed number plates by visiting a Service NSW Centre.",
+  "topics": [
+    "number-plates",
+    "lost-plates",
+    "stolen-plates",
+    "service-nsw"
+  ],
+  "intro": "If one or both of your number plates have been lost or destroyed, you'll need to visit a Service NSW Centre and report it.\n\nIf one or both of your number plates have been stolen, before visiting a service centre, report the matter to the NSW Police Force and obtain an Event Number.\n\nTo report stolen plates:\n\nWhen you visit the service centre, you'll need to surrender your plate(s) if you have them, and receive new ones. The replacement plates won't be exact copies of your previous plates.",
+  "who_can_apply": [
+    "Must report lost, stolen, or destroyed number plates."
+  ],
+  "what_you_need": [
+    "The 'Number Plates and/or Cancellation of Registration' PDF form",
+    "Any remaining number plates",
+    "Proof of identity",
+    "Payment",
+    "If plates were stolen: The Event Number (issued by the Police)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents and your remaining plate(s).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre to report your lost, stolen or destroyed number plate(s).",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you'd like to have your new plates re-issued with your previous plate number, you'll need to make a request in writing to myPlates. You must meet specific requirements, including a waiting period of 6 months. After that time, Transport for NSW will assess the circumstances and make a decision on whether to grant permission for the re-issue. For more information, visit the myPlates website or call 02 9433 1600.",
+      "link": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Please bring the necessary tools and screws with you if you'll be picking up plates for the vehicle you're driving. Operating a vehicle without number plates is illegal.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Police Force Community Portal",
+      "url": "https://portal.police.nsw.gov.au"
+    },
+    {
+      "text": "local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "myPlates website",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates",
+      "url": "https://www.myplates.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace or change number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my number plates are lost or destroyed?",
+      "a": "You must visit a Service NSW Centre to report the loss or destruction of your number plates.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do if my number plates were stolen?",
+      "a": "Before visiting a service centre, you must report the theft to the NSW Police Force and get an Event Number.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to report my number plates?",
+      "a": "You need the 'Number Plates and/or Cancellation of Registration' PDF form, any remaining plates, proof of identity, and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:06Z",
+    "last_modified": "21 November 2025",
+    "html_sha1": "1c22be8479534746e63019f0052965cdda61447f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/net-zero-emissions-and-clean-economy-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/net-zero-emissions-and-clean-economy-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "net-zero-emissions-and-clean-economy-board",
+  "title": "Net Zero Emissions and Clean Economy Board",
+  "summary": "This page provides information about the Net Zero Emissions and Clean Economy Board, which advises the government on achieving net zero emissions and a clean economy.",
+  "topics": [
+    "clean-economy",
+    "net-zero-emissions",
+    "environment",
+    "energy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/government-strategies-and-frameworks/reaching-net-zero-emissions/net-zero-0",
+      "url": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/government-strategies-and-frameworks/reaching-net-zero-emissions/net-zero-0"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:10Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b4d0a93c4119a45059b0740b813aac87a3170cb1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

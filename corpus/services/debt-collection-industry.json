@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/debt-collection-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/debt-collection-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "debt-collection-industry",
+  "title": "Debt collection industry",
+  "summary": "This page provides information about the debt collection industry and the requirements for obtaining and managing a commercial agent licence.",
+  "topics": [
+    "debt-collection",
+    "commercial-agent-licence",
+    "business-licence",
+    "nsw-business"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be involved in debt collection activities in NSW."
+  ],
+  "what_you_need": [
+    "Depending on the type of licence (individual/sole trader, corporation, or mutual recognition), you will need to follow the specific application process."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    },
+    {
+      "text": "Apply for a commercial agent licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation"
+    },
+    {
+      "text": "Apply for a commercial agent licence under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-under-mutual-recognition"
+    },
+    {
+      "text": "Change the details on a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence"
+    },
+    {
+      "text": "Renew or restore a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-commercial-agent-licence-individual-sole-trader"
+    },
+    {
+      "text": "Renew or restore a commercial agent licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-commercial-agent-licence-corporation"
+    },
+    {
+      "text": "Replace a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence"
+    },
+    {
+      "text": "Check a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-commercial-agent-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a commercial agent licence?",
+      "a": "A commercial agent licence is required if you are involved in debt collection activities in NSW.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a commercial agent licence?",
+      "a": "You can apply for a licence depending on whether you are an individual/sole trader, a corporation, or applying under mutual recognition.",
+      "link": null
+    },
+    {
+      "q": "What if I need to change or renew my licence?",
+      "a": "You can change details, renew, restore, or replace your licence through specific online services.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:53Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "a24746fb2153f7de8cdb282d87f68b2c864ed919",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

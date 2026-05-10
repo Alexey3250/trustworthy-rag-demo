@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-water-corporation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-water-corporation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sydney-water-corporation",
+  "title": "Sydney Water Corporation",
+  "summary": "This page provides general information about the Sydney Water Corporation.",
+  "topics": [
+    "water-supply",
+    "utilities",
+    "sydney-water",
+    "environment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sydneywater.com.au/",
+      "url": "https://www.sydneywater.com.au/"
+    },
+    {
+      "text": "Accounts and Billing – Sydney Water",
+      "url": "https://www.sydneywater.com.au/accounts-billing.html"
+    },
+    {
+      "text": "Sydney Water - Business Customer Services",
+      "url": "https://www.sydneywater.com.au/your-business.html"
+    },
+    {
+      "text": "Sydney Water - Plumbing, building and developing",
+      "url": "https://www.sydneywater.com.au/plumbing-building-developing.html"
+    },
+    {
+      "text": "Tap in: Online applications, approvals and plans – Sydney Water",
+      "url": "https://www.sydneywater.com.au/plumbing-building-developing/building/sydney-water-tap-in.html"
+    },
+    {
+      "text": "Water supply and services updates – Sydney Water",
+      "url": "https://www.sydneywater.com.au/water-the-environment/how-we-manage-sydneys-water/water-supply-and-service-updates.html"
+    },
+    {
+      "text": "Sydney Water - Tenders",
+      "url": "https://www.sydneywater.com.au/about-us/our-suppliers/current-tenders.html"
+    },
+    {
+      "text": "WaterFix Residential – Sydney Water",
+      "url": "https://www.sydneywater.com.au/your-home/helping-you-save-water/waterfix-residential.html"
+    },
+    {
+      "text": "Sydney Water - water saving tips",
+      "url": "https://www.sydneywater.com.au/your-home/saving-water-at-home/water-wise-tips.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a917436f0da1f4d347c6ceb08c9a433039770dbb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

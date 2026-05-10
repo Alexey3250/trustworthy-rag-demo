@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-help-at-home-support-seniors",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-help-at-home-support-seniors",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-help-at-home-support-seniors",
+  "title": "Access help-at-home support (seniors)",
+  "summary": "Find out about various subsidized support services that can help seniors continue to live independently in their own home.",
+  "topics": [
+    "help-at-home",
+    "seniors",
+    "support-services",
+    "aging",
+    "independent-living"
+  ],
+  "intro": "As we get older, some of the things we used to do around the home can become a bit more difficult.\n\nIf you'd like some help with chores so you can continue to live independently in your own home, there's a wide range of support services available.\n\nThese services are subsidised by the Australian Government and what you need to pay depends on the services and in some cases, your financial situation.\n\nServices range widely from helping you get out and about and stay social, to home and garden maintenance.\n\nThe different services can be accessed through:\n\nIf you only need help in one or 2 areas the CHSP could be for you. If your needs are more complex, a Home Care Package might be more appropriate.\n\nAn assessment process will help determine which program best suits you.\n\nWhen exploring your options, a good place to start is My Aged Care's Help at home page.",
+  "who_can_apply": [
+    "Seniors who need help with chores or maintaining independence at home.",
+    "Individuals with varying levels of need, ranging from simple help in one or two areas (CHSP) to more complex needs (Home Care Package)."
+  ],
+  "what_you_need": [
+    "An assessment process to determine the best support program.",
+    "Information about the Commonwealth Home Support Programme (CHSP) for simpler needs.",
+    "Information about a Home Care Package for more complex needs.",
+    "Guidance on starting the process via My Aged Care's Help at home page."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "CHSP",
+      "url": "https://www.myagedcare.gov.au/help-at-home/commonwealth-home-support-programme"
+    },
+    {
+      "text": "Home Care Package",
+      "url": "https://www.myagedcare.gov.au/help-at-home/home-care-packages"
+    },
+    {
+      "text": "Help at home",
+      "url": "https://www.myagedcare.gov.au/help-at-home"
+    },
+    {
+      "text": "Check your eligibility for support",
+      "url": "https://www.myagedcare.gov.au/eligibility-checker"
+    },
+    {
+      "text": "Types of care",
+      "url": "https://www.myagedcare.gov.au/types-care"
+    },
+    {
+      "text": "Applying for an assessment",
+      "url": "https://www.myagedcare.gov.au/assessment"
+    },
+    {
+      "text": "Finding out about providers – myagedcare",
+      "url": "https://www.myagedcare.gov.au/find-a-provider/search"
+    },
+    {
+      "text": "Managing my services",
+      "url": "https://www.myagedcare.gov.au/manage-my-services"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What services are available to help me stay in my own home?",
+      "a": "A wide range of subsidized support services are available, ranging from help with chores to getting out and about and garden maintenance.",
+      "link": null
+    },
+    {
+      "q": "Which support program is right for me?",
+      "a": "If you only need help in one or two areas, the Commonwealth Home Support Programme (CHSP) might be suitable. If your needs are more complex, a Home Care Package might be more appropriate.",
+      "link": null
+    },
+    {
+      "q": "How do I find out which program suits my needs?",
+      "a": "An assessment process will help determine which program best suits you. You can start by visiting My Aged Care's Help at home page.",
+      "link": "https://www.myagedcare.gov.au/help-at-home"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:46Z",
+    "last_modified": "7 March 2025",
+    "html_sha1": "6846c95e2e5cd166601ac346cdce5ad8a505879c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

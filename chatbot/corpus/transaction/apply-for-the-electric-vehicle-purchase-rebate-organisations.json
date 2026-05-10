@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-organisations",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-organisations",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-electric-vehicle-purchase-rebate-organisations",
+  "title": "Apply for the electric vehicle purchase rebate (organisations)",
+  "summary": "Find out if your organisation is eligible for a $3,000 rebate when purchasing a new electric vehicle in NSW.",
+  "topics": [
+    "electric-vehicle",
+    "rebate",
+    "organisations",
+    "business-purchase"
+  ],
+  "intro": "Businesses and organisations may be eligible for a $3,000 rebate when buying a new:\n\nBefore applying, check full eligibility.\n\nTwo rebates are available for each eligible business.",
+  "who_can_apply": [
+    "Must be an individual, partnership, company, or trust carrying on a business in NSW (including NGOs and local government councils).",
+    "Must have bought a new BEV or FCEV in one of the following categories:",
+    "Bought the car or paid a deposit by 31 December 2023.",
+    "Registered the vehicle for business use in NSW on or after 1 September 2021.",
+    "Must have less than 10 vehicles registered in NSW.",
+    "Must have paid less than $68,750 (including delivery costs, dealer fees, and accessories).",
+    "Must not have claimed a rebate for the vehicle in another state or territory.",
+    "Eligible vehicle types include: vehicles registered before 1 September 2021, vehicles under a novated leasing agreement, second-hand BEVs or FCEVs, grey imports, hybrid electric vehicles, plug in hybrid electric vehicles, heavy trucks, motorcycles, trailers, caravans, aeroplanes, boats, and any other vehicle not included in the list of eligible categories."
+  ],
+  "what_you_need": [
+    "A Transport for NSW customer number.",
+    "A Revenue NSW electric vehicle portal account.",
+    "The business or organisation name.",
+    "An ABN, ACN, or ABRN.",
+    "Business address and phone number.",
+    "Business banking details for payment.",
+    "A copy of a current and valid NSW Driver Licence.",
+    "Vehicle details, including:",
+    "A sales contract with the sales price and date of purchase.",
+    "Proof of deposit paid and date of payment (if applicable).",
+    "Tax invoice (if it is an interstate purchase or purchase from Tesla, Polestar, and Vyro)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or sign up to the Revenue NSW electric vehicle portal account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Vehicles eligible for a rebate are also eligible for a stamp duty exemption.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Transport for NSW customer number",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-organisations"
+    },
+    {
+      "text": "Apply for the electric vehicle purchase rebate (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-individuals"
+    },
+    {
+      "text": "Check vehicles eligible for motor vehicle tax concession",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vehicles-eligible-for-motor-vehicle-tax-concession"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the rebate for organisations?",
+      "a": "Businesses and organisations may be eligible for a $3,000 rebate when buying a new vehicle.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the rebate?",
+      "a": "You must be an individual, partnership, company, or trust carrying on a business in NSW, including NGOs and local government councils.",
+      "link": null
+    },
+    {
+      "q": "What are the key requirements for the vehicle purchase?",
+      "a": "The vehicle must be bought or have a deposit paid by 31 December 2023, and the vehicle must be registered for business use in NSW on or after 1 September 2021.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:05Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "9a5cfedac793fce5d72b77179444f39a669856a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

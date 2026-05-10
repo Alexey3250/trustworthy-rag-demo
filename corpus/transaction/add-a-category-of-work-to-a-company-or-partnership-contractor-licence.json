@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-a-category-of-work-to-a-company-or-partnership-contractor-licence",
+  "title": "Add a category of work to a company or partnership contractor licence",
+  "summary": "You can request to add additional categories of work to your company or partnership contractor licence if you become eligible for new types of work.",
+  "topics": [
+    "contractor-licence",
+    "company-licence",
+    "partnership-licence",
+    "add-category-of-work"
+  ],
+  "intro": "If you hold a company or partnership contractor licence and become eligible to work in additional categories of work – for example, you've taken on a supervisor with additional qualifications – you can request to add a category(s) to the licence.\n\nYou can make your request:",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence.",
+    "Become eligible to work in additional categories of work (e.g., taking on a supervisor with additional qualifications).",
+    "Have a MyServiceNSW Account.",
+    "Have a current Australian identity document (such as a driver licence, passport, Medicare card) to verify identity.",
+    "Provide the company or partnership's ACN or ABN.",
+    "Ensure your current email address and mobile phone number are registered with Fair Trading."
+  ],
+  "what_you_need": [
+    "For online application: MyServiceNSW Account, current Australian identity document, company/partnership ACN or ABN, and registered email/mobile number.",
+    "For in-person application: The 'Company or Partnership Application' form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required information on the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to add the additional category(s).",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download, print and complete the Application Form – Company or Partnership – PDF",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4452.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Visit a service centre and submit your application in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You need a medical gas licence to do any medical gas work in NSW, regardless of the work cost or whether it's residential, commercial or industrial.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Application Form – Company or Partnership – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4452.pdf"
+    },
+    {
+      "text": "medical gas licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/medical-gas-and-mechanical-services-work"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    },
+    {
+      "text": "Fees for contractor licences, supervision and tradesperson certificates – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "verify your identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change a condition on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I add a category of work to my licence?",
+      "a": "You can apply online by logging into your MyServiceNSW Account, entering the required information, and following the prompts to add the additional category(s). Alternatively, you can visit a service centre and submit your application in person.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply online?",
+      "a": "You must have a MyServiceNSW Account, a current Australian identity document, the company or partnership's ACN or ABN, and your current email address and mobile phone number must be registered with Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I visit a service centre?",
+      "a": "You will need the 'Company or Partnership Application' form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:03Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "9a1d6dc44c247fed8d20b946bcfecb97863627bd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

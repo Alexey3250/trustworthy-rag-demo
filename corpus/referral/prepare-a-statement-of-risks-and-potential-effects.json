@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/prepare-a-statement-of-risks-and-potential-effects",
+  "source_url": "https://www.service.nsw.gov.au/referral/prepare-a-statement-of-risks-and-potential-effects",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "prepare-a-statement-of-risks-and-potential-effects",
+  "title": "Prepare a Statement of Risks and Potential Effects",
+  "summary": "This page explains when and how to prepare a Statement of Risks and Potential Effects (SoRPE) before applying for a liquor licence or authorisation.",
+  "topics": [
+    "liquor-licence",
+    "statement-of-risks",
+    "potential-effects",
+    "community-impact"
+  ],
+  "intro": "Before applying for a liquor licence or licence authorisation, you may need to prepare a Statement of Risks and Potential Effects (SoRPE). A SoRPE describes the possible impacts that may be caused to a community by granting a liquor licence or authorisation in the local area.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A description of the local area, including other licensed premises and significant community facilities (such as hospitals, churches, and parks).",
+    "Information about local special interest groups or individuals (such as schools and colleges, older people, and people from culturally and linguistically diverse backgrounds).",
+    "Controls or risk minimisation strategies to address potential harms from granting the licence."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information on how to prepare an SoRPE, visit Liquor & Gaming NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/sorpe"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:37Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "dbdc927b8a3d7f342be3a115c3158c0456ea11a9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

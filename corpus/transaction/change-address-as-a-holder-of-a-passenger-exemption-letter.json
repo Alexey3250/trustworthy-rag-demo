@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-as-a-holder-of-a-passenger-exemption-letter",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-as-a-holder-of-a-passenger-exemption-letter",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-as-a-holder-of-a-passenger-exemption-letter",
+  "title": "Change address as a holder of a passenger exemption letter",
+  "summary": "Provisional licence holders with a passenger exemption letter must inform Transport for NSW of any address changes within 14 days at a Service NSW Centre.",
+  "topics": [
+    "provisional-licence",
+    "address-change",
+    "passenger-exemption",
+    "service-nsw"
+  ],
+  "intro": "If you're a provisional licence holder and you have an exemption letter for passenger conditions, you must inform Transport for NSW within 14 days if your address changes. You can do this at a Service NSW Centre.\n\nNote: If the change of address affects your current exemption reason or if your employment details have changed, you’ll need to surrender your exemption letter and submit a new application.",
+  "who_can_apply": [
+    "Provisional licence holder",
+    "Holder of an exemption letter for passenger conditions"
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Current licence details",
+    "Updated address details",
+    "The PDF form: Application for Exemption – Peer Passenger, One Passenger or Prohibited Vehicle Condition (if applicable)",
+    "Exemption letter (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre to change your address.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Application for Exemption – Peer Passenger, One Passenger or Prohibited Vehicle Condition – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071143-provisional-licence-conditions-exemption-application.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "submit a new application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I report an address change?",
+      "a": "You must inform Transport for NSW within 14 days if your address changes.",
+      "link": null
+    },
+    {
+      "q": "What if my address change affects my exemption reason or employment details?",
+      "a": "You will need to surrender your exemption letter and submit a new application.",
+      "link": null
+    },
+    {
+      "q": "Where can I change my address?",
+      "a": "You can change your address at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:34Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "98c811006c7a9b760f988658f8503245a86cf252",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

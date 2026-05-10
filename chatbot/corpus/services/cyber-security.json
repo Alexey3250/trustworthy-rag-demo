@@ -1,0 +1,129 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/cyber-security",
+  "source_url": "https://www.service.nsw.gov.au/services/cyber-security",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "cyber-security",
+  "title": "Cyber security, identity theft and scams",
+  "summary": "This page provides advice and resources on how to protect yourself from cybercrime, identity theft, and scams.",
+  "topics": [
+    "cyber-security",
+    "identity-theft",
+    "scams",
+    "personal-information",
+    "online-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Report suspected business grant fraud",
+      "link": "https://www.service.nsw.gov.au/transaction/report-fraud"
+    },
+    {
+      "text": "Contact Service NSW",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "How Service NSW handles personal information",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Get help if your proof-of-identity documents have been stolen or used to commit fraud",
+      "url": "https://www.nsw.gov.au/id-support-nsw"
+    },
+    {
+      "text": "Get support if your personal information has been breached",
+      "url": "https://www.nsw.gov.au/id-support-nsw/be-prepared/passwords"
+    },
+    {
+      "text": "Get a free credit report",
+      "url": "https://www.oaic.gov.au/privacy/your-privacy-rights/credit-reporting"
+    },
+    {
+      "text": "Apply for a credit ban",
+      "url": "https://www.oaic.gov.au/privacy/your-privacy-rights/credit-reporting/fraud-and-your-credit-report"
+    },
+    {
+      "text": "What to do if you've been scammed",
+      "url": "https://www.nsw.gov.au/id-support-nsw/get-support"
+    },
+    {
+      "text": "Guides to help you protect yourself and be cyber secure",
+      "url": "https://www.cyber.gov.au/protect-yourself"
+    },
+    {
+      "text": "Scams advice for individuals and families",
+      "url": "https://www.cyber.gov.au/protect-yourself/resources-protect-yourself/protecting-your-family"
+    },
+    {
+      "text": "How to stay safe online (translated information)",
+      "url": "https://www.esafety.gov.au/diverse-groups/cultural-linguistic/translations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report identity theft, scams or cybercrime",
+      "url": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "text": "Update on the Service NSW cyber incident",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security/service-nsw-cyber-incident"
+    },
+    {
+      "text": "Learn about MyServiceNSW Account leaked passwords",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/leaked-passwords"
+    },
+    {
+      "text": "Data breaches",
+      "url": "https://www.service.nsw.gov.au/guide/data-breaches"
+    },
+    {
+      "text": "Protect your personal information with Service NSW",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/protect-your-personal-information-with-service-nsw"
+    },
+    {
+      "text": "Report suspected business grant fraud",
+      "url": "https://www.service.nsw.gov.au/transaction/report-fraud"
+    },
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "How Service NSW handles personal information",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I suspect identity theft, scams, or cybercrime?",
+      "a": "You can report identity theft, scams, or cybercrime using the dedicated Service NSW link.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "q": "How can I get help if my personal information has been breached or if my documents were stolen?",
+      "a": "Support is available for personal information breaches, stolen documents, and fraud. You can also get a free credit report or apply for a credit ban.",
+      "link": null
+    },
+    {
+      "q": "Where can I find advice on staying safe online and protecting my family?",
+      "a": "There are guides and advice available to help you protect yourself and be cyber secure, including resources for individuals and families.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:23Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "1e48addcef163857d36fe072bca865ba9bed468c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

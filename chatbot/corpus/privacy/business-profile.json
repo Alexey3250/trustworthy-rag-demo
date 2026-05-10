@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy/collection-notices/business-profile",
+  "source_url": "https://www.service.nsw.gov.au/privacy/collection-notices/business-profile",
+  "category": "privacy",
+  "article_kind": "content",
+  "slug": "business-profile",
+  "title": "Service NSW Business Profile – Privacy Collection Notice",
+  "summary": "This notice explains what personal information Service NSW collects when you manage a Business Profile, how it is used, and your rights regarding that information.",
+  "topics": [
+    "business-profile",
+    "privacy",
+    "service-nsw",
+    "business-information"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals or businesses that need to manage licenses, registrations, or perform transactions through a Service NSW Business Profile."
+  ],
+  "what_you_need": [
+    "Australian Business Number (ABN), Australian Company Number (ACN), or other business identifier",
+    "Entity name",
+    "Business name (optional)",
+    "Personal name",
+    "Contact details (email address and phone number)",
+    "Business and mailing address",
+    "Role within the business",
+    "Date of birth"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of collecting my business information?",
+      "a": "Information is collected to manage licenses and registrations, help you apply for grants or rebates, perform online transactions, and provide details about available services.",
+      "link": null
+    },
+    {
+      "q": "What information is collected for a Business Profile?",
+      "a": "Details collected include your ABN or ACN, entity name, business name, personal name, contact details, business and mailing addresses, role within the business, and date of birth.",
+      "link": null
+    },
+    {
+      "q": "How is my information used?",
+      "a": "Your information helps pre-complete online forms, enables transactions with NSW Government agencies, assists customer service, and allows you to share details with other agencies with your consent.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:21Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "bf21b66c26fbed67a2fa07120dd017454d8efe21",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

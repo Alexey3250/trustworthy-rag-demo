@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-native-animal-keeper-record-book-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-native-animal-keeper-record-book-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-native-animal-keeper-record-book-online",
+  "title": "Manage your native animal keeper record book online",
+  "summary": "Licensed native animal keepers can use the electronic record book (e-book) to manage their animal holdings and transactions online.",
+  "topics": [
+    "native-animal-keeper",
+    "record-book",
+    "wildlife-licence",
+    "biodiversity-conservation"
+  ],
+  "intro": "If you're a licensed native animal keeper, you're required under the Biodiversity Conservation Act 2016 to maintain an animal keeper record book and lodge it with the Wildlife Team by April each year.\n\nThe electronic record book (e-book) provides a fast and efficient way of managing your animal holdings and transactions online.\n\nLate lodgements may result in a penalty.",
+  "who_can_apply": [
+    "You must be a licensed native animal keeper."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Native animal keeper record book – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/native-animal-keeper-record-book"
+    },
+    {
+      "text": "Maintain a native animal licence – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/maintain-a-licence"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Apply for a companion native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-companion-native-animal-keeper-licence"
+    },
+    {
+      "text": "Change the licence class or details on a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Renew a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:13Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "15ce85d352e989812fefd08aab1ce85d613c542e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

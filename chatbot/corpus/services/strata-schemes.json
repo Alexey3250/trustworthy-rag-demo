@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/strata-schemes",
+  "source_url": "https://www.service.nsw.gov.au/services/strata-schemes",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "strata-schemes",
+  "title": "Strata schemes and Strata Hub",
+  "summary": "This page provides resources and links for managing strata schemes, including accessing the Strata Hub, searching for schemes, submitting annual reports, and resolving disputes.",
+  "topics": [
+    "strata-schemes",
+    "housing",
+    "property-management",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Register or Log in",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/strata-hub"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Search for a strata scheme",
+      "url": "https://www.service.nsw.gov.au/referral/search-for-a-strata-scheme"
+    },
+    {
+      "text": "Submit a strata scheme annual report",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-strata-scheme-annual-report"
+    },
+    {
+      "text": "Resolve a strata dispute",
+      "url": "https://www.service.nsw.gov.au/referral/resolve-a-strata-dispute"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I access the Strata Hub?",
+      "a": "You can register or log in to the Strata Hub to manage your strata scheme.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/strata/strata-hub"
+    },
+    {
+      "q": "Where can I search for a strata scheme?",
+      "a": "You can search online to find a NSW strata scheme using the provided search tool.",
+      "link": "https://www.service.nsw.gov.au/referral/search-for-a-strata-scheme"
+    },
+    {
+      "q": "How do I submit a strata scheme annual report?",
+      "a": "You can submit a strata scheme annual report through the dedicated online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/submit-strata-scheme-annual-report"
+    },
+    {
+      "q": "What if I need to resolve a strata dispute?",
+      "a": "There is a service available to help you resolve a strata dispute.",
+      "link": "https://www.service.nsw.gov.au/referral/resolve-a-strata-dispute"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:01Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "900869e1245421f03a41c48f81b3d20a110d6ff1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

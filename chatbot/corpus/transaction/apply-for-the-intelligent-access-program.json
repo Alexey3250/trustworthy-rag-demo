@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-intelligent-access-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-intelligent-access-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-intelligent-access-program",
+  "title": "Apply for the Intelligent Access Program",
+  "summary": "Find out about and apply for the Intelligent Access Program (IAP), which provides restricted access to Australia’s road network for heavy vehicles.",
+  "topics": [
+    "heavy-vehicle",
+    "road-access",
+    "intelligent-access-program",
+    "nhvr"
+  ],
+  "intro": "The Intelligent Access Program (IAP) is a national program developed in partnership with all Australian road agencies. The aim of the program is to provide restricted access and over dimension/mass vehicle operators with improved access to Australia’s road network.\n\nUnder the IAP, enrolled vehicles have an in-vehicle device installed to remotely monitor and automatically record the date, time, and position of the heavy vehicle to check the driver’s compliance with approved access conditions.\n\nEnrolment in the IAP is a mandatory road condition for certain permits and vehicles, and may also be imposed as a condition by a road manager. You need to check if you're required to enrol in the IAP with the relevant state or territory road transport authority.\n\nNSW operators can apply online through the National Heavy Vehicle Regulator (NHVR).",
+  "who_can_apply": [
+    "Higher Mass Limits (HML) vehicles, including Performance Based Standards (PBS) vehicles",
+    "B-triples or AB-triples",
+    "Modular B-triples operating at GML on certain routes",
+    "High risk mobile cranes"
+  ],
+  "what_you_need": [
+    "The registered owner’s details",
+    "The transport operator's details (if applicable)",
+    "Your vehicle details",
+    "Your National Heavy Vehicle Accreditation Scheme (NHVAS) details (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the IAP enrolment form – PDF.",
+      "link": "https://www.nhvr.gov.au/media/43/download"
+    },
+    {
+      "n": 2,
+      "text": "Send the completed form to the details provided on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If a vehicle is enrolled in the IAP in a different state or territory, you'll still need to apply separately to NHVR for travel in NSW.",
+      "link": null
+    },
+    {
+      "text": "Once your application has been approved, NHVR will send you a NSW IAP Certificate.",
+      "link": null
+    },
+    {
+      "text": "There is no fee to process your enrolment in the IAP, however there may be charges to process related access permits and to install an IAP device.",
+      "link": null
+    },
+    {
+      "text": "You can find certified and audited IAP Service Providers to install an IAP device through Transport Certification Australia.",
+      "link": "https://tca.gov.au/service-providers/"
+    },
+    {
+      "text": "You should also complete this form if you are notifying the NHVR of your intention to amend or cancel participation in the IAP.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "IAP enrolment form – PDF",
+      "url": "https://www.nhvr.gov.au/media/43/download"
+    },
+    {
+      "text": "NHVR",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/intelligent-access-program-iap"
+    },
+    {
+      "text": "IAP Service Providers",
+      "url": "https://tca.gov.au/service-providers/"
+    },
+    {
+      "text": "IAP enrolment form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45064924-intelligent-access-program.pdf"
+    },
+    {
+      "text": "About the Intelligent Access Program",
+      "url": "https://tca.gov.au/service-offering/intelligent-access-program/"
+    },
+    {
+      "text": "National Network Map – National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "Heavy vehicle mass limits – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/mass-limits"
+    },
+    {
+      "text": "Transport Certification Australia",
+      "url": "https://tca.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Request a National Driver Work Diary (log book)",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Intelligent Access Program (IAP)?",
+      "a": "The IAP is a national program that provides restricted access to Australia’s road network for over dimension or mass vehicle operators.",
+      "link": null
+    },
+    {
+      "q": "Is enrolment in the IAP mandatory?",
+      "a": "Enrolment in the IAP is a mandatory road condition for certain permits and vehicles, and may also be imposed by a road manager.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for the IAP?",
+      "a": "Eligible vehicles include Higher Mass Limits (HML) vehicles, B-triples or AB-triples, modular B-triples, and high risk mobile cranes.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:49Z",
+    "last_modified": "9 October 2024",
+    "html_sha1": "85b1fd96ca28209ad6e6b7897cf64ebd18c7db38",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

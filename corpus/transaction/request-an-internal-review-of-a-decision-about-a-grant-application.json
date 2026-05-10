@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-an-internal-review-of-a-decision-about-a-grant-application",
+  "title": "Request an Internal Review of a decision about a grant application",
+  "summary": "Learn how to request an internal review if you disagree with a decision made by Service NSW about a grant application.",
+  "topics": [
+    "grant-application",
+    "internal-review",
+    "dispute-decision",
+    "service-nsw"
+  ],
+  "intro": "You can dispute a decision we have made about your application if you believe Service NSW:\n\nYou will need to make a request within 28 calendar days from when you receive the decision made by Service NSW.\n\nYour request will be considered by the Disputes team. This team is separate from and independent of the team that made the original decision on your application.\n\nAs part of the Internal Review process you will have an opportunity to give us further information you would like considered.\n\n### How to make a request\n\nUse our online form to request an Internal Review.\n\nIf you do not wish to use the online form call us on 13 77 88.\n\n### Learn more about the process\n\nRead our common questions page to find out:",
+  "who_can_apply": [
+    "You must have received a decision from Service NSW about a grant application that you wish to dispute."
+  ],
+  "what_you_need": [
+    "The decision made by Service NSW about your grant application.",
+    "A request made within 28 calendar days of receiving the decision."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "common questions",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    },
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/internal-review-of-a-grant-decision"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW Complaints Policy",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I dispute a decision about a grant application?",
+      "a": "You can dispute a decision if you believe Service NSW made an error. Your request will be considered by the Disputes team, which is separate from the team that made the original decision.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to request an internal review?",
+      "a": "You must make a request within 28 calendar days from when you receive the decision made by Service NSW.",
+      "link": null
+    },
+    {
+      "q": "How can I make an internal review request?",
+      "a": "You can use the online form or call 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:49Z",
+    "last_modified": "9 December 2025",
+    "html_sha1": "5115912537e0c55c9a7193bc54c6c6c435ad9e35",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

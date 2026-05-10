@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-library-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/state-library-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "state-library-of-nsw",
+  "title": "State Library of NSW",
+  "summary": "This page provides information about the State Library of NSW, including its services and contact details.",
+  "topics": [
+    "library",
+    "nsw",
+    "culture",
+    "research"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sl.nsw.gov.au/",
+      "url": "https://www.sl.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.sl.nsw.gov.au/visit-us/opening-hours",
+      "url": "https://www.sl.nsw.gov.au/visit-us/opening-hours"
+    },
+    {
+      "text": "https://www.sl.nsw.gov.au/join",
+      "url": "https://www.sl.nsw.gov.au/join"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:32Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "be91e829dc475aa7e82a9b6362ff7acb425d3c0c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

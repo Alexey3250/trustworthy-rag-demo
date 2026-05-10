@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-repairer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-motor-vehicle-repairer-licence",
+  "title": "Replace a motor vehicle repairer licence",
+  "summary": "You can apply for a replacement motor vehicle repairer licence if your original licence has been lost, damaged, or destroyed.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If your motor vehicle repairer licence has been lost, damaged, or destroyed, you can apply for a replacement via email, or in person at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Application for Replacement Licence or Certificate'",
+    "Details of the licence, including the licence number",
+    "Contact details of the licence holder",
+    "Your fee payment receipt number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To look up your motor vehicle repairer licence number and details, visit Verify NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment receipt number",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Application for Replacement Licence or Certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715c.pdf"
+    },
+    {
+      "text": "Working as a motor vehicle repairer – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer"
+    },
+    {
+      "text": "Motor vehicle repairers licensing fees – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-repairer/motor-vehicle-repairers-licensing-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Renew a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Restore a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I replace my lost or damaged licence?",
+      "a": "You can apply for a replacement licence by email or in person at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a replacement licence?",
+      "a": "You need the 'Application for Replacement Licence or Certificate' PDF form, details of the licence (including the licence number), the licence holder's contact details, and your fee payment receipt number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:10Z",
+    "last_modified": "2 September 2025",
+    "html_sha1": "735436aa7795920aead01758b8ec48af057008ae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

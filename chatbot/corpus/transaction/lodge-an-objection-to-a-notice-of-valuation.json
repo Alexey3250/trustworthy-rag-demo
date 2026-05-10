@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-an-objection-to-a-notice-of-valuation",
+  "title": "Lodge an objection to a Notice of Valuation",
+  "summary": "You can lodge an online objection if you disagree with the land value or property description on a Notice of Valuation.",
+  "topics": [
+    "lodge-objection",
+    "notice-of-valuation",
+    "land-value",
+    "property-assessment"
+  ],
+  "intro": "If you’ve received a Notice of Valuation from the Valuer General and you disagree with the land value or the property description, you can lodge an objection online to have the assessment reviewed.\n\nYou must lodge the objection within 60 days (the closing date is printed on the front of your Notice of Valuation).",
+  "who_can_apply": [
+    "The landholder or someone authorised by the landholder."
+  ],
+  "what_you_need": [
+    "A NSW Valuation Portal account",
+    "Your property number (available on your Notice of Valuation)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read the information in Your guide to Valuer General's review process to understand the possible outcomes and how decisions are made.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/resource-library/valuer-generals-review-process"
+    },
+    {
+      "n": 2,
+      "text": "Go to the NSW Valuation Portal to login or create an account.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/services-and-tools/nsw-valuation-and-objection-portal"
+    },
+    {
+      "n": 3,
+      "text": "Follow the instructions to 'lodge an objection' and complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Upload your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Confirm your lodgement.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Land value is the value of your land only. It doesn't include the value of your home or other structures and improvements.",
+      "link": null
+    },
+    {
+      "text": "Property information refers to the address, description, zoning, area, and dimensions of the land.",
+      "link": null
+    },
+    {
+      "text": "Your Notice of Valuation is issued at least once every three years.",
+      "link": null
+    },
+    {
+      "text": "If you lodge an objection after the 60 day period, you'll need to inform the Valuer General as to why your objection is late.",
+      "link": null
+    },
+    {
+      "text": "If you're lodging an objection to more than one valuation, you'll need to lodge a separate objection for each land value or property.",
+      "link": null
+    },
+    {
+      "text": "If your land or property is jointly owned or leased you'll need to let the other landholders know you're lodging an objection.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Valuation Portal account",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/services-and-tools/nsw-valuation-and-objection-portal"
+    },
+    {
+      "text": "your Notice of Valuation",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/why-land-values/understanding-your-notice-of-valuation"
+    },
+    {
+      "text": "Your guide to Valuer General's review process",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/resource-library/valuer-generals-review-process"
+    },
+    {
+      "text": "how decisions are made",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/resource-library/valuer-generals-review-process/our-decision"
+    },
+    {
+      "text": "How to find land values in NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/how-to-find-land-values-nsw"
+    },
+    {
+      "text": "Contact Value NSW about land valuations",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general/contact-us"
+    },
+    {
+      "text": "How to object to a land valuation and how Value NSW will review this",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/object"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How long do I have to lodge an objection?",
+      "a": "You must lodge the objection within 60 days. The closing date is printed on the front of your Notice of Valuation.",
+      "link": null
+    },
+    {
+      "q": "Who can lodge an objection?",
+      "a": "The landholder or someone authorised by the landholder can lodge an objection. Group petitions are not accepted.",
+      "link": null
+    },
+    {
+      "q": "What do I need to lodge an objection?",
+      "a": "You need a NSW Valuation Portal account and your property number (which is available on your Notice of Valuation).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:53Z",
+    "last_modified": "16 December 2025",
+    "html_sha1": "f6ea675357058996ee6471bfad49e0e333da66a6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

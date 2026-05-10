@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-personal-injury-benefits-motor-vehicle-accident",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-personal-injury-benefits-motor-vehicle-accident",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-personal-injury-benefits-motor-vehicle-accident",
+  "title": "Apply for personal injury benefits (motor vehicle accident)",
+  "summary": "This page provides information on how to make a compulsory third party (CTP) insurance claim for personal injuries sustained in a motor vehicle accident in NSW.",
+  "topics": [
+    "motor-vehicle-accident",
+    "personal-injury-benefits",
+    "ctp-claim",
+    "nsw-accidents"
+  ],
+  "intro": "If you've been injured in a motor vehicle crash, you can make a compulsory third party (CTP) insurance claim. Benefits may include income support payments, medical expenses and/or vocational rehabilitation programs while you recover.\n\nFor a motor vehicle crash in NSW, make a report to the police to get an event number. Call the Police Assistance Line on 131 444 to report the crash. You can do this before lodging a CTP claim.\n\nTo receive back pay following your accident, the insurer needs to receive the claim within 28 days. You can submit a claim up to 3 months after the accident, but it’s best to submit a claim as soon as possible.",
+  "who_can_apply": [
+    "Anyone who is injured in a motor vehicle crash in NSW",
+    "The motor vehicle crash must have occurred on or after 1 December 2017"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Bank account details (if receiving payment by direct debit)",
+    "Police event number or other proof of the accident (such as news reports, photos of the accident scene, or witness statements)",
+    "Accident details (including date, time, place, and what happened)",
+    "Details of all vehicles involved in the accident (if known)",
+    "Ambulance and hospital stay details (if applicable)",
+    "A Certificate of Fitness/Capacity form completed by your treating doctor or General Practitioner (GP)",
+    "Details of any previous illnesses or injuries affecting the same or similar parts of your body (if applicable)",
+    "Employment details (if you were away from work)",
+    "'Proof of earnings' (such as payslips) if claiming for loss of income"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for personal injury benefits.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete the Application for Personal Injury Benefits form.",
+      "link": "https://www.sira.nsw.gov.au/resources-library/motor-accident-resources/workers-compensation/making-a-claim2/after-1-december/Application-for-personal-injury-benefits.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Attach any documents or information that helps the insurer to assess the claim, including your Certificate of Fitness/Capacity form, medical receipts and proof of earnings.",
+      "link": "https://www.sira.nsw.gov.au/__data/assets/pdf_file/0004/325579/SIRA08719-Certificate-of-capacity-certificate-of-fitness-for-work.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Send your application directly to the insurer.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Certificate of Fitness/Capacity",
+      "url": "https://www.sira.nsw.gov.au/__data/assets/pdf_file/0004/325579/SIRA08719-Certificate-of-capacity-certificate-of-fitness-for-work.pdf"
+    },
+    {
+      "text": "Application for Personal Injury Benefits",
+      "url": "https://www.sira.nsw.gov.au/resources-library/motor-accident-resources/workers-compensation/making-a-claim2/after-1-december/Application-for-personal-injury-benefits.pdf"
+    },
+    {
+      "text": "SIRA privacy statement",
+      "url": "https://www.sira.nsw.gov.au/privacy/sira-privacy-docs/sira-privacy-statement"
+    },
+    {
+      "text": "Motor accident injury claims – SIRA",
+      "url": "https://www.sira.nsw.gov.au/claiming-compensation/motor-accidents-injury-claims"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do immediately after a motor vehicle crash?",
+      "a": "Make a report to the police to get an event number. You can call the Police Assistance Line on 131 444 to report the crash, even before lodging a CTP claim.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to submit a CTP claim?",
+      "a": "You can submit a claim up to 3 months after the accident, but it is best to submit it as soon as possible. To receive back pay, the insurer needs to receive the claim within 28 days.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for personal injury benefits?",
+      "a": "Anyone who is injured in a motor vehicle crash in NSW can apply. This includes drivers, passengers, riders, pillion passengers, pedestrians, and cyclists. The crash must have occurred on or after 1 December 2017.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:57Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "17a4698a577a281afb5defbb9a61eccc0ee68df1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

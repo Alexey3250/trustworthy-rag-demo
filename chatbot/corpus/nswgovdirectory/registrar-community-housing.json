@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/registrar-community-housing",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/registrar-community-housing",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "registrar-community-housing",
+  "title": "Registrar of Community Housing",
+  "summary": "This page provides information about the Registrar of Community Housing, which is part of the Communities and Justice NSW Department.",
+  "topics": [
+    "community-housing",
+    "registrar-of-community-housing",
+    "nsw-department-of"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/registrar-of-community-housing",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/registrar-of-community-housing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "bcb8164634943754ab63a2092b9dd16c333d994d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

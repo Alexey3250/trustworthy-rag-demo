@@ -1,0 +1,148 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/registering-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/services/registering-vehicle",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "registering-vehicle",
+  "title": "Register a vehicle",
+  "summary": "This page provides information and links for various services related to registering and managing vehicles in NSW.",
+  "topics": [
+    "vehicle-registration",
+    "nsw-vehicles",
+    "car-registration",
+    "interstate-vehicles",
+    "vehicle-certificates"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Driver and rider licences",
+      "link": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Buy or sell a vehicle",
+      "link": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Number plates",
+      "link": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "Tolls",
+      "link": "https://www.service.nsw.gov.au/services/tolls"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Transfer or register an interstate vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "text": "Apply to register a personally imported vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-personally-imported-vehicle"
+    },
+    {
+      "text": "Register an expired NSW second-hand vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Register a Special Mobility Vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle"
+    },
+    {
+      "text": "Apply for registration under the automotive workshop scheme (RAWS)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-under-the-automotive-workshop-scheme-raws"
+    },
+    {
+      "text": "Apply for a plant vehicle registration (including forklifts)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-plant-vehicle-registration-including-forklifts"
+    },
+    {
+      "text": "Apply to register a trailer or caravan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-trailer-or-caravan"
+    },
+    {
+      "text": "Apply to re-register a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    },
+    {
+      "text": "Apply for a rally vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rally-vehicle-registration"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "Get a digital certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    },
+    {
+      "text": "Apply for a carer's registration refund",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund"
+    },
+    {
+      "text": "Apply for an apprentice vehicle registration rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Buy or sell a vehicle",
+      "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Number plates",
+      "url": "https://www.service.nsw.gov.au/services/number-plates"
+    },
+    {
+      "text": "Tolls",
+      "url": "https://www.service.nsw.gov.au/services/tolls"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I register a brand new vehicle?",
+      "a": "You can register a brand new vehicle using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "q": "What if I am transferring or registering an interstate vehicle?",
+      "a": "You can transfer or register an interstate vehicle using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "q": "How can I replace my vehicle's registration certificate?",
+      "a": "You can replace a vehicle's registration certificate online.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:45Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "52f7055148c34019a2f8a691e3fc7c529f0d8f07",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

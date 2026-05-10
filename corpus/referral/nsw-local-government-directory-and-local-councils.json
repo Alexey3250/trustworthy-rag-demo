@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils",
+  "source_url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "nsw-local-government-directory-and-local-councils",
+  "title": "Find your local council in NSW",
+  "summary": "Find information and contact details for local councils and local government areas in NSW.",
+  "topics": [
+    "local-council",
+    "local-government",
+    "nsw-directory",
+    "complaints"
+  ],
+  "intro": "The NSW Government agency responsible for strengthening the local government sector and regulating local councils is the Office of Local Government (OLG).",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "To browse or download local council contact details go to the Office of Local Government Local Government Directory.\n\nThe directory holds website addresses and phone numbers for:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online search tool",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Local Government Directory",
+      "url": "https://www.olg.nsw.gov.au/public/local-government-directory/"
+    },
+    {
+      "text": "make a complaint about a council",
+      "url": "https://www.olg.nsw.gov.au/public/complaints-about-councils"
+    },
+    {
+      "text": "contact the NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/about-us/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Office of Local Government (OLG)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-local-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who regulates local councils in NSW?",
+      "a": "The Office of Local Government (OLG) is the NSW Government agency responsible for strengthening the local government sector and regulating local councils.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/office-local-government"
+    },
+    {
+      "q": "How can I find my local council or check which LGA a suburb is in?",
+      "a": "You can use the online search tool to find your local council or check which local government area (LGA) a suburb is in.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "q": "Where can I find contact details for local councils?",
+      "a": "You can browse or download local council contact details from the Office of Local Government Local Government Directory.",
+      "link": "https://www.olg.nsw.gov.au/public/local-government-directory/"
+    },
+    {
+      "q": "What should I do if I have a complaint about a local council?",
+      "a": "You can find out who to contact first, how the Office of Local Government can assist, and learn about the complaints handling process.",
+      "link": "https://www.olg.nsw.gov.au/public/complaints-about-councils"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:44Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "2e90efb08c51348b29d7bc5c9fbb53dd32561b2b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

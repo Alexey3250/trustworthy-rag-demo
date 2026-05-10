@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-fuel-prices",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-fuel-prices",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-fuel-prices",
+  "title": "Check fuel prices",
+  "summary": "Use the FuelCheck tool or app to find the cheapest fuel prices at NSW service stations near you.",
+  "topics": [
+    "fuel-prices",
+    "nsw-service-stations",
+    "fuelcheck",
+    "fuel-discounts"
+  ],
+  "intro": "You can use the FuelCheck online tool to find the cheapest fuel at NSW service stations near you.\n\nWith FuelCheck, you can:\n\nYou can check prices online or you can install the Fuel Check app on your phone.\n\nSome service station operators may still be in the process of finalising their registration with FuelCheck. If you find a service station that isn't on FuelCheck, you can submit a general enquiry through the NSW Fair Trading website.\n\nIf the price at the pump doesn't match the price on FuelCheck, you should first let the service station operator know. If this doesn't resolve the issue, or you're not satisfied with their response, you can report the fuel price mismatch.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "FuelCheck",
+      "url": "https://fuelcheck.nsw.gov.au/app"
+    },
+    {
+      "text": "",
+      "url": "https://apps.apple.com/app/apple-store/id1266569551"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.onegov.fuelcheckapp"
+    },
+    {
+      "text": "submit a general enquiry through the NSW Fair Trading website",
+      "url": "https://www.cas.fairtrading.nsw.gov.au/icmspublicweb/forms/Enquiry.html"
+    },
+    {
+      "text": "Fuel pricing, discounts and signage – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/advertising-product-packaging-and-pricing-laws/fuel-pricing-discounts-and-signage"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I check fuel prices?",
+      "a": "You can check prices online using the FuelCheck tool or by installing the Fuel Check app on your phone.",
+      "link": null
+    },
+    {
+      "q": "What should I do if a service station isn't on FuelCheck?",
+      "a": "You can submit a general enquiry through the NSW Fair Trading website.",
+      "link": "https://www.cas.fairtrading.nsw.gov.au/icmspublicweb/forms/Enquiry.html"
+    },
+    {
+      "q": "What should I do if the pump price doesn't match the FuelCheck price?",
+      "a": "First, let the service station operator know. If that doesn't resolve the issue, or you are not satisfied with their response, you can report the fuel price mismatch.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:58Z",
+    "last_modified": "13 May 2025",
+    "html_sha1": "5fe677ecc29d0da039c243c1c2422c49d9613ffa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

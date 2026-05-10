@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-principal-certifier-pc",
+  "title": "Find a principal certifier (PC)",
+  "summary": "This page provides information on how to find and understand the role of a principal certifier (PC) for building projects.",
+  "topics": [
+    "building-certifier",
+    "principal-certifier",
+    "building-inspection",
+    "construction"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Search the register of certifiers' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Advanced search'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Registered' from 'Registration Status'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter a location.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select from the Class of Registration:",
+      "link": "https://ncc.abcb.gov.au/ncc-navigator/building-classifications"
+    },
+    {
+      "n": 6,
+      "text": "Select 'Search'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "You can refine the search and select 'Update Search' to see more results.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For help with the Building Certifiers Public Register, contact the certifiers’ registration team by emailing certifierregistration@customerservice.nsw.gov.au.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Appointing a certifier",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier"
+    },
+    {
+      "text": "what certifiers do",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/what-certifiers-do"
+    },
+    {
+      "text": "disciplinary register",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/certifier-disciplinary-register"
+    },
+    {
+      "text": "Building Certifiers Public Register",
+      "url": "https://applications.fairtrading.nsw.gov.au/bdcregister/"
+    },
+    {
+      "text": "building classifications",
+      "url": "https://ncc.abcb.gov.au/ncc-navigator/building-classifications"
+    },
+    {
+      "text": "by contacting your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "appoint as a certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "text": "Replace a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a principal certifier (PC) do?",
+      "a": "A principal certifier is a registered building surveyor, local council, or registered body corporate that carries out mandatory building inspections during construction and issues the development certificate when all requirements are met.",
+      "link": null
+    },
+    {
+      "q": "Who should appoint the certifier?",
+      "a": "You choose who you appoint as a certifier. Your builder cannot appoint the certifier or influence your choice.",
+      "link": null
+    },
+    {
+      "q": "Where can I find a principal certifier?",
+      "a": "You can search the Building Certifiers Public Register using the search tool, which allows advanced searching by location and class of registration.",
+      "link": "https://applications.fairtrading.nsw.gov.au/bdcregister/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:52Z",
+    "last_modified": "22 July 2025",
+    "html_sha1": "6db707af6444c718920ee9752c8d12dfe5a857dd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

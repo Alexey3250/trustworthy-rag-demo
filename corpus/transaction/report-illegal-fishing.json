@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-illegal-fishing",
+  "title": "Report illegal fishing",
+  "summary": "Report illegal fishing activities in NSW for investigation by fisheries officers.",
+  "topics": [
+    "illegal-fishing",
+    "nsw-fisheries",
+    "report-crime",
+    "fishing-compliance"
+  ],
+  "intro": "You can report illegal fishing activities in NSW for investigation by fisheries officers, these include:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The time and date you saw the activity",
+    "The type of activity (e.g., abalone theft, lobster theft, taking protected fish)",
+    "A description of the activity",
+    "The make, model, or registration details of any vehicles or vessels involved (if possible)",
+    "The Fisheries Compliance Zone",
+    "The location of activity (description as accurate as possible)",
+    "Photographic evidence (if any)",
+    "Your contact details (optional)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read and confirm the declaration.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Submit'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The information collected is for the purposes of recording and investigating reports of illegal fishing activities in NSW.",
+      "link": null
+    },
+    {
+      "text": "For information on how the Department of Primary Industries and Regional Development protects customer privacy and collects, stores and uses information see their Privacy policy.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dpird/access-information/privacy-statement"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Privacy policy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dpird/access-information/privacy-statement"
+    },
+    {
+      "text": "Responsible fishing",
+      "url": "https://www.dpi.nsw.gov.au/dpi/fishing/recreational-fishing/responsible-fishing"
+    },
+    {
+      "text": "Recreational fishing rules and regulations",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/fishing-rules-and-regs"
+    },
+    {
+      "text": "Fishing compliance",
+      "url": "https://www.dpi.nsw.gov.au/fishing/compliance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get the FishSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (3-day or 1-month)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:40Z",
+    "last_modified": "16 January 2025",
+    "html_sha1": "4de2d254e70cd64ae6984e8788e56e0174392adc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

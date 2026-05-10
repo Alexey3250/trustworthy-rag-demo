@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "demerits-driver-or-rider-licence",
+  "title": "Demerits (driver or rider licence demerit points)",
+  "summary": "Find information and services related to demerit points for your driver or rider licence.",
+  "topics": [
+    "demerit-points",
+    "driver-licence",
+    "rider-licence",
+    "driving-record"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must hold a driver or rider licence.",
+    "Professional drivers may need to apply to increase their demerit points limit."
+  ],
+  "what_you_need": [
+    "N/A"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Manage your fines",
+      "link": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Overdue fines",
+      "link": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Losing your licence (suspension) – guide",
+      "link": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Dispute a towing invoice",
+      "link": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice"
+    },
+    {
+      "text": "demerit points and how long demerits last",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work"
+    },
+    {
+      "text": "types of offences including licence suspension and disqualification.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    },
+    {
+      "text": "Visit Transport for NSW to learn more about:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "demerit points penalty",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    },
+    {
+      "text": "demerit points and how long demerits last",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "increase your demerit points limit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Apply for a good behaviour period",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period"
+    },
+    {
+      "text": "Request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "Find a driver education course provider",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-driver-education-course-provider"
+    },
+    {
+      "text": "Manage your fines",
+      "url": "https://www.service.nsw.gov.au/services/fines-driving-and-transport-related"
+    },
+    {
+      "text": "Losing your licence (suspension) – guide",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Dispute a towing invoice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my current demerit points?",
+      "a": "You can check your demerit points using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "q": "What can I do if I want to reduce my demerit points or improve my driving record?",
+      "a": "You can apply for a good behaviour period or request a driving record.",
+      "link": null
+    },
+    {
+      "q": "Can professional drivers increase their demerit points limit?",
+      "a": "Yes, professional drivers can apply to increase their demerit points limit.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only"
+    },
+    {
+      "q": "Where can I find information about demerit penalties?",
+      "a": "You can find details on demerit penalties and offences.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:11Z",
+    "last_modified": "21 July 2025",
+    "html_sha1": "037e1dd12505e3ece8e2f3dd4697c54890cf7511",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

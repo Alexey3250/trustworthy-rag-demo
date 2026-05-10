@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-land-tax-myservicensw-account",
+  "title": "Manage your land tax with a MyServiceNSW Account",
+  "summary": "Learn how to manage your land tax payments using your MyServiceNSW Account.",
+  "topics": [
+    "land-tax",
+    "myservicensw-account",
+    "revenue-nsw",
+    "manage-tax"
+  ],
+  "intro": "With a MyServiceNSW Account, you can:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your client and correspondence ID from recent land tax correspondence from Revenue NSW"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Manage online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to add 'Land tax' as a service to your MyServiceNSW Account.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "pay your land tax quickly",
+      "url": "https://quickweb.westpac.com.au/OSRLANDTAX"
+    },
+    {
+      "text": "see all your payment options",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax/pay"
+    },
+    {
+      "text": "Land tax – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax"
+    },
+    {
+      "text": "Land tax online – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/online-services/how-to-use-land-tax-online"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-terms-and-conditions"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-privacy-statement"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Pay a land tax notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:39Z",
+    "last_modified": "6 May 2025",
+    "html_sha1": "318f466e2e381b0181edd119b29c2bc9fdc3f252",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

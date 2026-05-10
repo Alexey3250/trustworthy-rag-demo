@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-general-construction-induction-card-white-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-general-construction-induction-card-white-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-general-construction-induction-card-white-card",
+  "title": "Check a general construction induction card (white card)",
+  "summary": "You can check your white card (general construction induction card) details or find your card online.",
+  "topics": [
+    "construction-induction-card",
+    "white-card",
+    "service-nsw"
+  ],
+  "intro": "If you need to check a white card (general construction induction card), or find your card details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "Any one of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "White cards – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/white-cards"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:24Z",
+    "last_modified": "28 January 2026",
+    "html_sha1": "593eea5be38c9bd68aca2b276ce7d97baa7c03aa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

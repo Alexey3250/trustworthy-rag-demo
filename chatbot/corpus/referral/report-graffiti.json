@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-graffiti",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-graffiti",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-graffiti",
+  "title": "Report graffiti on community facilities or public assets",
+  "summary": "This page provides guidance on how to report graffiti on various types of assets, including public facilities, private property, and specific infrastructure.",
+  "topics": [
+    "graffiti",
+    "report-damage",
+    "community-facilities",
+    "public-assets",
+    "nsw-police"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "For graffiti on Ausgrid assets: Use the Ausgrid reporting link.",
+    "For graffiti on Telstra equipment: Use the Telstra reporting link.",
+    "For graffiti on public transport assets: Use the Transport for NSW feedback link.",
+    "For graffiti on your property: Contact your local council and report the damage to the NSW Police.",
+    "To report intentional damage or graffiti to NSW Police: Use the NSW Police reporting link.",
+    "To report an incident anonymously: Use the Crime Stoppers link."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Ausgrid",
+      "url": "https://www.ausgrid.com.au/In-your-community/Our-services/Graffiti#!/map"
+    },
+    {
+      "text": "Telstra",
+      "url": "https://www.telstra.com.au/forms/report-damage-to-telstra-equipment"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://transportnsw.info/contact-us/feedback"
+    },
+    {
+      "text": "reporting the damage to the NSW Police",
+      "url": "https://portal.police.nsw.gov.au/s/intentional-damage-definition?reportType=CP_Intentional_Damage"
+    },
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contacting your local council",
+      "url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    },
+    {
+      "text": "Report intentional damage or graffiti to NSW Police",
+      "url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police"
+    },
+    {
+      "text": "Report an incident to Crime Stoppers",
+      "url": "https://www.service.nsw.gov.au/transaction/report-an-incident-to-crime-stoppers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who do I report graffiti to if it is on a public asset?",
+      "a": "The correct reporting body depends on the asset. For Ausgrid assets (like electricity boxes), contact Ausgrid. For Telstra equipment (like overhead cables or manhole covers), contact Telstra. For public transport assets (like stations or wharves), contact Transport for NSW.",
+      "link": null
+    },
+    {
+      "q": "How do I report graffiti on my own property?",
+      "a": "You should contact your local council, as they may offer removal kits or a removal service. You should also report the damage to the NSW Police and obtain a police event number for insurance purposes.",
+      "link": null
+    },
+    {
+      "q": "Where can I report intentional damage or graffiti to the NSW Police?",
+      "a": "You can report intentional damage or graffiti directly to NSW Police using the dedicated reporting page.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:52Z",
+    "last_modified": "2 May 2025",
+    "html_sha1": "9fb788e57241b48ff86ad452954418fa14e073ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

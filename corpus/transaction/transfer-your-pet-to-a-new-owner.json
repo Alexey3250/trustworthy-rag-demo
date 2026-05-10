@@ -1,0 +1,161 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-your-pet-to-a-new-owner",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-your-pet-to-a-new-owner",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-your-pet-to-a-new-owner",
+  "title": "Transfer your pet to a new owner",
+  "summary": "Learn how to officially transfer ownership of your dog or cat to a new owner through the NSW Pet Registry.",
+  "topics": [
+    "pet-ownership",
+    "transfer-pet",
+    "dog-cat-registration",
+    "nsw-pet-registry"
+  ],
+  "intro": "If you sell or give away your dog or cat, you must transfer official ownership of the pet to the new owner.\n\nYou can transfer ownership:\n\nAs the former owner, it is your responsibility to update the animal's ownership details.\n\nThere is no fee to transfer ownership, but your council may fine you if you do not update the details.",
+  "who_can_apply": [
+    "The new owner must be aged 18 or over.",
+    "Dogs and cats must be microchipped before selling or giving them away."
+  ],
+  "what_you_need": [
+    "A NSW Pet Registry account.",
+    "If transferring online, the new owner must have a NSW Pet Registry profile (you can invite them to create one).",
+    "The PDF form 'Change of owner (C3A)' if you are unable to transfer online.",
+    "To visit your local council and submit the 'Change of owner' form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Transfer online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Log in to NSW Pet Registry'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Continue with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to create your Pet Registry profile (if applicable).",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Transfer a pet' on your dashboard.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select the specific pet.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Enter the new owner's email address and select the 'Invite an owner' button (if applicable)",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Confirm the transfer.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "The pet will be officially listed under the new owner's name and appear on their profile.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Download and complete Change of owner (C3A) – PDF.",
+      "link": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/change-of-owner-c3a.pdf"
+    },
+    {
+      "n": 12,
+      "text": "Visit your local council and submit your 'Change of owner' form within 14 days of selling or giving away your pet.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you're transferring an unregistered dog or cat, the new owner will have to pay the registration fee.",
+      "link": null
+    },
+    {
+      "text": "Under the Companion Animals Act 1998, you cannot advertise for sale, sell or give your dog away if it is a restricted, dangerous or menacing dog.",
+      "link": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1998-087"
+    },
+    {
+      "text": "In NSW, when you advertise that you are selling or giving away kittens, cats, puppies or dogs, you must include:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Pet Registry account",
+      "url": "https://petregistry.olg.nsw.gov.au"
+    },
+    {
+      "text": "Change of owner (C3A) – PDF",
+      "url": "https://www.petregistry.olg.nsw.gov.au/sites/default/files/2024-06/change-of-owner-c3a.pdf"
+    },
+    {
+      "text": "Companion Animals Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1998-087"
+    },
+    {
+      "text": "restricted, dangerous or menacing dog",
+      "url": "https://petregistry.olg.nsw.gov.au/pet-control"
+    },
+    {
+      "text": "Find your local council – Office of Local Government",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Sell or give away a pet",
+      "url": "https://www.petregistry.olg.nsw.gov.au/owners/sell-or-give-away-a-pet"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register your dog or cat in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/register-your-dog-or-cat-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a fee to transfer pet ownership?",
+      "a": "There is no fee to transfer ownership, but your council may fine you if you do not update the details.",
+      "link": null
+    },
+    {
+      "q": "What must I do if I sell or give away my pet?",
+      "a": "You must transfer official ownership of the pet to the new owner and visit your local council to submit the 'Change of owner' form within 14 days.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for the new owner?",
+      "a": "The new owner must be aged 18 or over, and the dog or cat must be microchipped before selling or giving them away.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:45Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "61968983f465a9dfe0aa0e652d6ed5ef4260511a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

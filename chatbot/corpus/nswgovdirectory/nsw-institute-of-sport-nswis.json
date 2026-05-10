@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-institute-of-sport-nswis",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-institute-of-sport-nswis",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-institute-of-sport-nswis",
+  "title": "NSW Institute of Sport (NSWIS)",
+  "summary": "This page provides information about the NSW Institute of Sport (NSWIS), detailing its role and services.",
+  "topics": [
+    "sport",
+    "nsw",
+    "institute-of-sport",
+    "coaching"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nswis.com.au/",
+      "url": "https://www.nswis.com.au/"
+    },
+    {
+      "text": "All About Coaching",
+      "url": "https://www.nswis.com.au/what-we-do/#coaching"
+    },
+    {
+      "text": "About the New South Wales Institute of Sport",
+      "url": "https://www.nswis.com.au/what-we-do/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:33Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "209a2b3f1af68ab66376f82bce14442460e8c5e4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

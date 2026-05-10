@@ -1,0 +1,167 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-or-register-an-interstate-vehicle",
+  "title": "Transfer or register an interstate vehicle",
+  "summary": "Learn how to register a vehicle in NSW if you have moved from another state or territory.",
+  "topics": [
+    "interstate-vehicle",
+    "register-vehicle",
+    "nsw-registration",
+    "moving-to-nsw"
+  ],
+  "intro": "If you've moved to NSW from another state or territory, you need to register your vehicle in NSW.\n\nIf a vehicle is kept or garaged in NSW and does not have a NSW registration, it is considered 'unregistered'. Severe penalties apply if you drive an unregistered or uninsured vehicle.",
+  "who_can_apply": [
+    "You must have moved to NSW from another state or territory."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Registration'",
+    "Proof of identity",
+    "Proof of registration entitlement",
+    "Original hard copy of an Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (blue slip) or Heavy Vehicle Authorised Inspection Scheme (HVAIS) report, issued no more than 42 days prior",
+    "Original number plates",
+    "Compulsory third party (CTP) insurance",
+    "Vehicle Safety Compliance Certification Scheme (VSCCS) compliance certificate (if the vehicle has been modified)",
+    "Evidence of pensioner or concession entitlement (if applicable)",
+    "Your fee payment",
+    "A current certificate of registration in your name",
+    "Other evidence confirming stamp duty payment for certain vehicle types (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents and your old number plates.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take the completed form, required documents and number plates to a service centre and lodge your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you want to claim toll relief, you'll need to contact a NSW toll provider and set up a NSW personal toll account.",
+      "link": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "In a few circumstances, you're able to keep your old interstate number plates. It depends on the state or territory of issue, and the type of plate.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/interstate-or-overseas-vehicles"
+    },
+    {
+      "text": "If you've moved from NSW and are now living interstate, you'll need to apply to register your NSW vehicle in the state or territory you’ve moved to. Visit that state or territory’s government website for more information.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Heavy Vehicle Authorised Inspection Scheme (HVAIS",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-4"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "NSW toll provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "text": "interstate number plates",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/interstate-or-overseas-vehicles"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme (VSCCS)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "claim toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Find out about vehicle registration concessions for pensioners",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I drive an unregistered vehicle in NSW?",
+      "a": "Severe penalties apply if you drive an unregistered or uninsured vehicle.",
+      "link": null
+    },
+    {
+      "q": "Where do I lodge my application?",
+      "a": "Take the completed form, required documents, and number plates to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to register my vehicle?",
+      "a": "You need the 'Application for Registration' form, proof of identity, proof of registration entitlement, the original hard copy of an AUVIS or HVAIS report (issued no more than 42 days prior), the original number plates, CTP insurance, and other required evidence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:16Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "66bcb257f019513b4f3ca8d06f181085fed9a711",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

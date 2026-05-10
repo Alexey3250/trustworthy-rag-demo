@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-paintball-venue-permit",
+  "title": "Apply for a paintball venue permit",
+  "summary": "Use this page to apply for a paintball venue permit for your business.",
+  "topics": [
+    "paintball",
+    "venue-permit",
+    "business-permit",
+    "nsw-service"
+  ],
+  "intro": "You need a paintball venue permit to:\n\nEach paintball venue requires a separate paintball venue permit.\n\nPermits can be for 1, 3 or 5 years.",
+  "who_can_apply": [
+    "Be aged 18 or over",
+    "Pass a 'fit and proper' person assessment"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for a paintball venue permit'",
+    "The PDF form: 'Paintball permit additional details form' (if applicable)",
+    "Your business details, including names of any directors, body corporate, partnership or sole trader",
+    "Names of any close associates",
+    "The address of each paintball venue",
+    "Council approval to operate a paintball venue",
+    "Payment for the fee (the fee is the same for 1, 3, or 5-year permits)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the Paintball permit additional details form – PDF if applicable.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb006.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Submit your payment online and enter the receipt number on the application form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Email the form and supporting documents using the details on the form, or visit a Service NSW Centre to submit in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "the NSW Police General Firearms Course for Long Arms, if they were employed as a supervisor before 1 December 2021",
+      "link": null
+    },
+    {
+      "text": "the NSW Paintball Marker Safety Training course, if they were employed as a supervisor on or after 1 December 2021.",
+      "link": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "text": "Venue permit holders need to ensure that employees who supervise the use of paintball markers hold a current paintball marker permit. If they do not hold a permit, supervisors need to have completed:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "Paintball permit additional details form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb006.pdf"
+    },
+    {
+      "text": "NSW Paintball Marker Safety Training course",
+      "url": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "text": "Running a paintball business requirements in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    },
+    {
+      "text": "Renew a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-venue-permit"
+    },
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many permits do I need?",
+      "a": "Each paintball venue requires a separate paintball venue permit.",
+      "link": null
+    },
+    {
+      "q": "What are the permit lengths available?",
+      "a": "Permits can be for 1, 3, or 5 years.",
+      "link": null
+    },
+    {
+      "q": "How can I submit my application?",
+      "a": "You can email the form and supporting documents using the details on the form, or visit a Service NSW Centre to submit in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:47Z",
+    "last_modified": "12 March 2025",
+    "html_sha1": "475d4b486b1f9f7a9ee73dbcf70a6ceac422c58d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

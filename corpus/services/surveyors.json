@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/surveyors",
+  "source_url": "https://www.service.nsw.gov.au/services/surveyors",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "surveyors",
+  "title": "Surveyors (land and mining)",
+  "summary": "This page provides information and links for various processes related to becoming, maintaining, or checking the status of a registered surveyor in NSW.",
+  "topics": [
+    "surveyor",
+    "land-surveying",
+    "mining-surveying",
+    "registration",
+    "licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply to be a registered land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor"
+    },
+    {
+      "text": "Renew your surveyor registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    },
+    {
+      "text": "Update your registered surveyor contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    },
+    {
+      "text": "Replace your registered surveyor identity card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-your-registered-surveyor-identity-card"
+    },
+    {
+      "text": "Apply for a Letter of Accreditation (registered surveyor)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-accreditation-registered-surveyor"
+    },
+    {
+      "text": "Apply to be a surveyor's assistant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-surveyors-assistant"
+    },
+    {
+      "text": "Check a surveyor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-surveyor-licence"
+    },
+    {
+      "text": "Apply to be a candidate land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor"
+    },
+    {
+      "text": "Apply to sit a land or mining surveyor exam",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-sit-a-land-or-mining-surveyor-exam"
+    },
+    {
+      "text": "Apply for a candidate surveyor training workshop",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-candidate-surveyor-training-workshop"
+    },
+    {
+      "text": "Apply for a Letter of Overseas Assessment (registered surveyor)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-overseas-assessment-registered-surveyor"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply to become a registered land or mining surveyor?",
+      "a": "You can apply to be a registered land or mining surveyor using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor"
+    },
+    {
+      "q": "What if I need to renew my surveyor registration?",
+      "a": "You can renew your surveyor registration through the dedicated service page.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    },
+    {
+      "q": "Where can I check a surveyor's licence?",
+      "a": "You can check a surveyor licence using the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-surveyor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:29Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "8d9b84fd808689335a00a00aa38c41bb0add6ad1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

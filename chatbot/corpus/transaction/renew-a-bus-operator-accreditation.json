@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-operator-accreditation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-operator-accreditation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-bus-operator-accreditation",
+  "title": "Renew a bus operator accreditation",
+  "summary": "This page provides instructions for accredited bus operators to renew their accreditation online.",
+  "topics": [
+    "bus-operator-accreditation",
+    "renew-accreditation",
+    "transport-nsw"
+  ],
+  "intro": "If you're an accredited bus operator you'll be notified:",
+  "who_can_apply": [
+    "Accredited bus operators whose current accreditation has not expired."
+  ],
+  "what_you_need": [
+    "MyRecords customer number",
+    "Operator number",
+    "Postcode",
+    "Payment method (Visa or Mastercard only)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Operator Login'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required details, and select 'OK'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the payment list tab from the menu.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select the 'apply' symbol next to the accreditation you wish to renew.Note: If your accreditation has expired the apply symbol will not appear.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts to complete your renewal application and make a payment.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Download and complete Application for Renewal of a Bus Operator Accreditation (3 years) – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071808-bus-operator-accreditation-renewal.pdf"
+    },
+    {
+      "n": 8,
+      "text": "Enter your credit card details, or your EFT receipt number.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Lodge your renewal application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To ensure Transport for NSW (TfNSW) records are up to date, always notify them if any of your details change.",
+      "link": null
+    },
+    {
+      "text": "TfNSW will forward a payment receipt to you within 5 working days.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Application for Renewal of a Bus Operator Accreditation (3 years) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071808-bus-operator-accreditation-renewal.pdf"
+    },
+    {
+      "text": "All about bus operator accreditation",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/buses/operators"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a bus operator accreditation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-operator-accreditation"
+    },
+    {
+      "text": "Replace a lost, stolen or damaged bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online"
+    },
+    {
+      "text": "Renew a bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-driver-authority-online"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can renew their bus operator accreditation online?",
+      "a": "You can renew online if your current accreditation has not expired.",
+      "link": null
+    },
+    {
+      "q": "What is required to renew the accreditation?",
+      "a": "You need your MyRecords customer number, your operator number, your postcode, and a payment method (Visa or Mastercard only).",
+      "link": null
+    },
+    {
+      "q": "What happens if my accreditation has expired?",
+      "a": "If your accreditation has expired, the 'apply' symbol will not appear during the online renewal process.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:20Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "8ee1a6bec2ae5dd20de4ae51828ff36e88f047bc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

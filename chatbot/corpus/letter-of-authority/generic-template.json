@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/letter-of-authority/generic-template",
+  "source_url": "https://www.service.nsw.gov.au/letter-of-authority/generic-template",
+  "category": "letter-of-authority",
+  "article_kind": "content",
+  "slug": "generic-template",
+  "title": "Letter of authority – generic template",
+  "summary": "This page provides a generic template and instructions for creating a letter of authority for your business.",
+  "topics": [
+    "business-authority",
+    "service-nsw",
+    "letter-template",
+    "accountant-agent"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your business letterhead",
+    "The text from the provided templates",
+    "Your specific business details",
+    "Your specific personal details",
+    "A signature or digital signature",
+    "An email signature (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Create a letter using your business letterhead.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Copy and paste the text from either",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Where you see the square brackets [ ], insert the details for your business.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Sign the letter of authority or insert a digital signature.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Copy and paste the text from either",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Where you see the square brackets [ ], insert your specific details.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Insert an email signature (if you have one).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Business Register",
+      "url": "https://www.abr.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "When should I complete a letter of authority?",
+      "a": "You may need a letter of authority if you want to nominate someone within your business who is not listed as an associate on the ABR to act on behalf of your business, or if you want your accountant, tax agent, or BAS agent to act on your behalf.",
+      "link": null
+    },
+    {
+      "q": "What information should I include in the letter of authority?",
+      "a": "The letter must be created using your business letterhead and include specific details for your business and your personal details.",
+      "link": null
+    },
+    {
+      "q": "Who can use the sample text B?",
+      "a": "Sample text B is for situations where you are a qualified accountant, registered tax agent, or registered BAS agent, and your client has asked you to register on their behalf for a grant, scheme, or support program administered by Service NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:17Z",
+    "last_modified": "18 December 2025",
+    "html_sha1": "da118041410cd60a5cb0c02a0ab80ce82d651144",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

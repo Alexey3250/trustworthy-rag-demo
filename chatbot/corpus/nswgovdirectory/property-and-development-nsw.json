@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/property-and-development-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/property-and-development-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "property-and-development-nsw",
+  "title": "Property and Development NSW",
+  "summary": "This page provides information about the Property and Development NSW department and its related services.",
+  "topics": [
+    "property",
+    "development",
+    "nsw-government",
+    "planning"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/property-and-development-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/property-and-development-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Waste Assets Management Corporation (WAMC)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/waste-assets-management-corporation-wamc"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:39Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b50bf4d296145ff4f742ca5183ae810fa7245ac3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

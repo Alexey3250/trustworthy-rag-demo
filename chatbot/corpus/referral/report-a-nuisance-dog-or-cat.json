@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-nuisance-dog-or-cat",
+  "title": "Report a nuisance dog or cat",
+  "summary": "Find out what steps to take and who to contact if you have a complaint about a nuisance dog or cat.",
+  "topics": [
+    "nuisance-pet",
+    "dog-complaint",
+    "cat-complaint",
+    "local-council"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "contact your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Companion Animals Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1998-087"
+    },
+    {
+      "text": "Animals – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about/my-neighbour/animals"
+    },
+    {
+      "text": "Nuisance dogs and cats – Office of Local Government",
+      "url": "https://www.petregistry.olg.nsw.gov.au/pet-control/nuisance-pets"
+    },
+    {
+      "text": "Dealing with barking dogs",
+      "url": "https://www.epa.nsw.gov.au/your-environment/noise/neighbourhood-noise/dealing-with-barking-dogs"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do if I have a complaint about a nuisance dog or cat?",
+      "a": "You should follow the steps to take if you have a complaint, which involves contacting your local council.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "q": "What are the grounds for a nuisance dog or cat order?",
+      "a": "A nuisance dog or cat order can be issued if the animal consistently roams, makes persistent excessive noise, endangers the health of a person or animal, or repeatedly damages property outside the property on which it is ordinarily kept.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about nuisance pets?",
+      "a": "You can find more information on nuisance dogs and cats from the Office of Local Government.",
+      "link": "https://www.petregistry.olg.nsw.gov.au/pet-control/nuisance-pets"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:33Z",
+    "last_modified": "23 November 2025",
+    "html_sha1": "d9f705bcbc24d9afd5bec6631a36b13b3f94e1e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

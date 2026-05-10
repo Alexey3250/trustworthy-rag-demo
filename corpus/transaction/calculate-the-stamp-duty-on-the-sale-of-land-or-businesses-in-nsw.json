@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw",
+  "title": "Calculate the stamp duty on the sale of land or businesses in NSW",
+  "summary": "This page provides information on stamp duty, also known as transfer duty or general duty, and directs users to an online calculator to determine the tax payable on the sale of land or businesses in NSW.",
+  "topics": [
+    "stamp-duty",
+    "transfer-duty",
+    "nsw-property-tax",
+    "land-sale-tax",
+    "business-sale-tax"
+  ],
+  "intro": "Stamp duty is a tax imposed by state and territory governments on transactions. It is also known as transfer duty or general duty. The amount payable can vary depending on the state or territory.\n\nIf you'd like to calculate the duty payable on land or a business you've purchased, you can do this online with Revenue NSW's Transfer of land or business calculator.\n\nTo find out more about the tax visit Revenue NSW:\n\nNote: If you’re classified as a foreign person, you must pay a surcharge on the value of any residential land you buy in addition to any transfer duty. Read about surcharge purchaser duty.\n\nIf you have feedback or an enquiry please contact the agency providing the service.\n\nContact agency: Revenue NSW",
+  "who_can_apply": [
+    "Individuals or entities selling or purchasing land or businesses in NSW."
+  ],
+  "what_you_need": [
+    "The details of the transaction.",
+    "The correct execution date for the calculation."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You will need to have:",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Check online' button to go to the calculator.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the details as requested. Note: To ensure you calculate the correct duty payable you must use the correct execution date.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transfer duty",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty"
+    },
+    {
+      "text": "Buying a business and calculating transfer duty",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty/buying-a-business"
+    },
+    {
+      "text": "surcharge purchaser duty",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty/surcharge-purchaser-duty"
+    },
+    {
+      "text": "contact Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/contact#accordion__link-428832-1"
+    },
+    {
+      "text": "Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is stamp duty?",
+      "a": "Stamp duty is a tax imposed by state and territory governments on transactions, also known as transfer duty or general duty.",
+      "link": null
+    },
+    {
+      "q": "How can I calculate the duty payable on a land or business purchase?",
+      "a": "You can calculate the duty payable online using Revenue NSW's Transfer of land or business calculator.",
+      "link": null
+    },
+    {
+      "q": "Do foreign persons pay extra tax when buying residential land?",
+      "a": "If you are classified as a foreign person, you must pay a surcharge on the value of any residential land you buy in addition to any transfer duty.",
+      "link": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/transfer-duty/surcharge-purchaser-duty"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:05Z",
+    "last_modified": "20 February 2025",
+    "html_sha1": "c168a41db46d8acf4b2ed175611da38bd44e81d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

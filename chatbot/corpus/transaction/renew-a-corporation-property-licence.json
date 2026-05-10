@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-corporation-property-licence",
+  "title": "Renew a corporation property licence",
+  "summary": "Renew your corporation property licence online before the expiry date.",
+  "topics": [
+    "corporation-property-licence",
+    "renew-licence",
+    "nsw-business"
+  ],
+  "intro": "If you hold a corporation property licence, a renewal notice will be emailed to you prior to the licence expiry date.\n\nYou can renew this licence online on or before the expiry date and pay by credit card.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "corporation licence number",
+    "renewal number (as shown on the renewal notice)",
+    "details of your corporation",
+    "a completed Licensee in Charge Details – PDF (if applicable)",
+    "fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew the corporation property licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "less than 3 months ago, you can apply to have it restored",
+      "link": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence"
+    },
+    {
+      "text": "more than 3 months ago, you'll need to apply for a new licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence"
+    },
+    {
+      "text": "If your corporation property licence has expired:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Licensee in Charge Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726f.pdf"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "restored",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence"
+    },
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:17Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "10a449d376ea320a747e895b3cd3c3fa659387e9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

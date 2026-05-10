@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-high-risk-work-licence",
+  "title": "Renew a high risk work licence",
+  "summary": "This page explains how to renew a high risk work (HRW) licence online.",
+  "topics": [
+    "high-risk-work-licence",
+    "renew-licence",
+    "safework-nsw"
+  ],
+  "intro": "If you have a current high risk work (HRW) licence, you’ll be emailed a renewal notice about 60 days before the licence expires. You'll also get renewal reminders by SMS.\n\nOnce you've been sent the renewal notice you will be able to renew your licence online.\n\nIf your renewal application has been received by SafeWork NSW before your licence expires, it will continue as current until you receive your renewal notification.\n\n### If your licence has expired\n\nYou cannot carry out high risk work if your licence has expired.\n\nIf your licence is more than 12 months past its expiry date, you need to:\n\n### Change your details\n\nYou can update your email address, postal address and mobile number when you renew online.\n\nIf you need to update other details refer to change details on a high risk work licence.",
+  "who_can_apply": [
+    "You must already hold an HRW licence.",
+    "Your licence must not be more than 12 months past its expiry date."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number",
+    "Your HRW renewal number (found in your renewal notification)",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Renew online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew your HRW licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/HRW"
+    },
+    {
+      "text": "High risk work licence – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/high-risk-work-licence"
+    },
+    {
+      "text": "transfer your licence to NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences#interstate-licence-transfer"
+    },
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    },
+    {
+      "text": "change details on a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Add your digital high risk work licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know when my licence is expiring?",
+      "a": "If you have a current HRW licence, you will be emailed a renewal notice about 60 days before it expires, and you will also receive renewal reminders by SMS.",
+      "link": null
+    },
+    {
+      "q": "What happens if my licence has expired?",
+      "a": "You cannot carry out high risk work if your licence has expired.",
+      "link": null
+    },
+    {
+      "q": "Can I renew my licence if it has expired?",
+      "a": "You can only renew if your licence is not more than 12 months past its expiry date.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:09Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "73408657bb77707faaf6f0c014b46fa62e8754da",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

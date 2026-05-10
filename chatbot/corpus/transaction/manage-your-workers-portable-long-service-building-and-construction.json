@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-workers-portable-long-service-building-and-construction",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-workers-portable-long-service-building-and-construction",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-workers-portable-long-service-building-and-construction",
+  "title": "Manage your workers' portable long service (building and construction)",
+  "summary": "This page explains the portable long service scheme for building and construction workers in NSW and how employers can manage transactions online.",
+  "topics": [
+    "long-service-scheme",
+    "building-and-construction",
+    "workers",
+    "employers",
+    "nsw"
+  ],
+  "intro": "The Long Service Corporation (LSC) administers a portable long service scheme for building and construction workers in NSW. The scheme allows eligible workers in the industry to work for different employers, or as contractors, and qualify for a long service benefit.\n\nIf you employ workers on wages or salary to carry out building and construction work in NSW, you must:\n\nThe LSC portal lets you manage portable long service transactions and information online. You can:",
+  "who_can_apply": [
+    "Workers in the building and construction industry in NSW",
+    "Employers who employ workers on wages or salary to carry out building and construction work in NSW"
+  ],
+  "what_you_need": [
+    "An LSC account (for employers)",
+    "To manage portable long service transactions and information online"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your LSC account, or register as an employer.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The scheme is funded by a levy applied to all NSW building and construction projects of $250,000 or more (inc. GST). The current rate is 0.25% of the total cost of the work.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "register as an employer",
+      "url": "https://www.longservice.nsw.gov.au/bci/employers/your-legal-obligations/register-as-an-employer"
+    },
+    {
+      "text": "Start Notices and End Notices",
+      "url": "https://www.longservice.nsw.gov.au/bci/employers/your-legal-obligations/start-and-end-your-workers"
+    },
+    {
+      "text": "submit an Employer Return",
+      "url": "https://www.longservice.nsw.gov.au/bci/employers/employer-returns"
+    },
+    {
+      "text": "books and records",
+      "url": "https://www.longservice.nsw.gov.au/bci/employers/your-legal-obligations/keep-books-and-records"
+    },
+    {
+      "text": "Portable long service scheme: building and construction – Long Service Corporation",
+      "url": "https://www.longservice.nsw.gov.au/bci"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay the long service levy (building and construction)",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:59Z",
+    "last_modified": "23 July 2024",
+    "html_sha1": "1d2e32cb11d408f827f43e386711edaf98e9e42e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

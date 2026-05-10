@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-the-m5-south-west-cashback-scheme-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-the-m5-south-west-cashback-scheme-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-the-m5-south-west-cashback-scheme-rebate",
+  "title": "Register for the M5 South-West Cashback Scheme rebate",
+  "summary": "Learn how to register for the M5 South-West Cashback Scheme rebate to claim back the value of tolls used on the M5 South-West Motorway.",
+  "topics": [
+    "m5-south-west",
+    "cashback-scheme",
+    "rebate",
+    "tolls",
+    "nsw-motorway"
+  ],
+  "intro": "The M5 South-West Cashback Scheme rebate allows NSW residents that use the M5 South-West Motorway to claim back the value of tolls (excluding GST).\n\nAfter you receive confirmation that you have registered you can Claim the M5 South-West Cashback Scheme rebate.",
+  "who_can_apply": [
+    "Must be a NSW resident",
+    "Must have a vehicle registered in NSW for private, pensioner, or charitable use",
+    "Must have a toll account (tag or tagless) with a NSW provider"
+  ],
+  "what_you_need": [
+    "A NSW toll account (tag or tagless) with a NSW provider"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "open a toll account with a NSW toll provider and follow the prompts during the set-up process",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "log in to your existing toll provider account and update your preferences",
+      "link": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "n": 3,
+      "text": "contact your toll provider.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your eligibility for the rebate starts from the first day of the month in which you registered.",
+      "link": null
+    },
+    {
+      "text": "Your vehicle may be photographed at M5 South-West toll points for audit purposes.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll",
+      "url": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "text": "Linkt",
+      "url": "https://www.linkt.com.au/login"
+    },
+    {
+      "text": "M5 South-West Cashback Scheme – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/m5-south-west-e-toll-cashback-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Claim the M5 South-West Cashback Scheme rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-m5-south-west-cashback-scheme-rebate"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the M5 South-West Cashback Scheme rebate?",
+      "a": "The rebate allows NSW residents who use the M5 South-West Motorway to claim back the value of tolls (excluding GST).",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the rebate?",
+      "a": "You must be a NSW resident, have a vehicle registered in NSW for private, pensioner, or charitable use, and have a toll account (tag or tagless) with a NSW provider.",
+      "link": null
+    },
+    {
+      "q": "How do I register for the rebate?",
+      "a": "You must open a toll account with a NSW toll provider, log in to your existing toll provider account to update your preferences, and then contact your toll provider.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:43Z",
+    "last_modified": "13 January 2026",
+    "html_sha1": "b5b0b40aecf74660b9b5b3209a3df8bd1424c074",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

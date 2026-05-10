@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/working-with-children-check-retrieval-on-service-nsw-mobile-app-holder",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/working-with-children-check-retrieval-on-service-nsw-mobile-app-holder",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "working-with-children-check-retrieval-on-service-nsw-mobile-app-holder",
+  "title": "Working with Children Check retrieval on Service NSW mobile app (holder) – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for retrieving a digital Working with Children Check (WWCC) and generating a scannable QR Code via the Service NSW mobile app.",
+  "topics": [
+    "working-with-children-check",
+    "wwcc",
+    "service-nsw-app",
+    "terms-and-conditions",
+    "qr-code"
+  ],
+  "intro": "The Working with Children Check (‘WWCC’) retrieval provides a digital version of a WWCC, issued by the Office of the Children’s Guardian. The digital version can be used to generate a QR Code. The QR Code can be scanned by parents or carers, using their mobile phone, to verify the holder has a current WWCC. In these terms and conditions, this is referred to as the ‘QR Code verification process’.",
+  "who_can_apply": [
+    "Hold a valid Working with Children Check (WWCC).",
+    "Have or be able to obtain a MyServiceNSW account and agree to its terms and conditions.",
+    "Link your MyServiceNSW account to WWCC."
+  ],
+  "what_you_need": [
+    "A valid Working with Children Check (WWCC).",
+    "A MyServiceNSW account.",
+    "A working and sufficiently charged electronic device (phone) to generate and scan the QR Code."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Working with Children Check (WWCC) retrieval process?",
+      "a": "The WWCC retrieval provides a digital version of the WWCC, issued by the Office of the Children’s Guardian. This digital version can generate a QR Code that parents or carers can scan to verify the holder has a current WWCC.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for using the WWCC retrieval service?",
+      "a": "You must have or be able to obtain a MyServiceNSW account, agree to its terms and conditions, link your MyServiceNSW account to WWCC, and hold a valid WWCC.",
+      "link": null
+    },
+    {
+      "q": "What must I ensure about my phone or device when using the WWCC?",
+      "a": "You must ensure your device is working, sufficiently charged, and not damaged in a way that prevents the QR Code from being scanned.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:17Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "6005e38866e3b6bd848f5d152566f2da5c876bb8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

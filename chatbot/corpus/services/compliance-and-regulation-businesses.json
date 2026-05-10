@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses",
+  "source_url": "https://www.service.nsw.gov.au/services/compliance-and-regulation-businesses",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "compliance-and-regulation-businesses",
+  "title": "Compliance and regulation for businesses",
+  "summary": "This page provides resources and guides for businesses to understand and comply with various laws and regulations in NSW.",
+  "topics": [
+    "business-compliance",
+    "nsw-business-laws",
+    "work-health-safety",
+    "consumer-law",
+    "business-licences"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Comply with competition and consumer laws",
+      "url": "https://www.service.nsw.gov.au/transaction/comply-with-competition-and-consumer-laws"
+    },
+    {
+      "text": "Comply with Australian standards",
+      "url": "https://www.service.nsw.gov.au/transaction/comply-with-australian-standards"
+    },
+    {
+      "text": "Comply with NSW environmental legislation",
+      "url": "https://www.service.nsw.gov.au/transaction/comply-with-nsw-environmental-legislation"
+    },
+    {
+      "text": "Comply with work health and safety laws",
+      "url": "https://www.service.nsw.gov.au/transaction/comply-with-work-health-and-safety-laws"
+    },
+    {
+      "text": "Check award rates, pay and wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "text": "Business licences",
+      "url": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Notify SafeWork NSW of an incident",
+      "url": "https://www.service.nsw.gov.au/referral/notify-safework-nsw-of-an-incident"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "url": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Add a digital licence or credential to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Waste management for businesses",
+      "url": "https://www.service.nsw.gov.au/guide/waste-management-for-businesses"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:26Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "3dbf5a1f9d08dd5d1e9d2472e9038952fa43431f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

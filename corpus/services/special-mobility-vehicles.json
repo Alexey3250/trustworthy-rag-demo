@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/special-mobility-vehicles",
+  "source_url": "https://www.service.nsw.gov.au/services/special-mobility-vehicles",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "special-mobility-vehicles",
+  "title": "Special mobility vehicles",
+  "summary": "Find information and services related to special mobility vehicles in New South Wales.",
+  "topics": [
+    "special-mobility-vehicles",
+    "licences",
+    "registration",
+    "driving"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Health and care",
+      "link": "https://www.service.nsw.gov.au/services/health-and-care"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a Special Mobility Vehicle learner rider licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-special-mobility-vehicle-learner-rider-licence"
+    },
+    {
+      "text": "Register a Special Mobility Vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle"
+    },
+    {
+      "text": "Health and care",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a Special Mobility Vehicle learner rider licence?",
+      "a": "You can apply for a Special Mobility Vehicle learner rider licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-special-mobility-vehicle-learner-rider-licence"
+    },
+    {
+      "q": "How do I register a Special Mobility Vehicle?",
+      "a": "You can register a Special Mobility Vehicle using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle"
+    },
+    {
+      "q": "What services are available for health and care?",
+      "a": "Information is available regarding health and care services.",
+      "link": "https://www.service.nsw.gov.au/services/health-and-care"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:51Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "f13528bf492683a023ce50674acc02e6c0fec27f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

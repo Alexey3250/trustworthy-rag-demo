@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-your-e-tag-as-lost-or-stolen",
+  "title": "Report your E-Tag as lost or stolen",
+  "summary": "Learn how to report your E-Toll tag as lost or stolen.",
+  "topics": [
+    "e-toll",
+    "lost-tag",
+    "stolen-tag",
+    "toll-account"
+  ],
+  "intro": "If your E-Toll tag has been lost or stolen you can report it:\n\nYou remain responsible for any toll charges on your account until you report your tag as lost or stolen.\n\nNote: If your tag has been stolen, report it to the NSW Police Force to get a Police Event Number. If you do not have this, you will be charged a fee for not returning the tag.\n\nIf you need to replace the tag, call 13 18 65.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your E-Toll Account details",
+    "The Police Event Number (if you have one)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your E-Toll account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Make an enquiry' for a stolen tag or 'Tags' for a lost tag.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to report the tag as stolen or lost.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Submit'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "The tag will be turned off and removed from your account.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "There is a fee if the tag is not returned (unless you provide a Police Event Number).",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "If you need to replace the tag, call 13 18 65.",
+      "link": "tel:131865"
+    },
+    {
+      "n": 9,
+      "text": "If you find your tag after reporting it as lost or stolen, call 13 18 65.",
+      "link": "tel:131865"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you report your tag as lost, stolen or destroyed as a result of a declared natural disaster, you will not be charged a tag replacement fee.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/managing-my-e-toll-account/logging"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change your name on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account"
+    },
+    {
+      "text": "Replace an E-Toll tag",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is responsible for toll charges if my E-Toll tag is lost or stolen?",
+      "a": "You remain responsible for any toll charges on your account until you report your tag as lost or stolen.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my E-Toll tag was stolen?",
+      "a": "Report it to the NSW Police Force to get a Police Event Number. If you do not have this, you will be charged a fee for not returning the tag.",
+      "link": null
+    },
+    {
+      "q": "How do I report my E-Toll tag as lost or stolen?",
+      "a": "Select the 'Report online' button, log in to your E-Toll account, select 'Make an enquiry' for a stolen tag or 'Tags' for a lost tag, follow the prompts, and select 'Submit'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:43Z",
+    "last_modified": "18 February 2026",
+    "html_sha1": "9357cc7e64a63474775e70574b2904cd9e121aad",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

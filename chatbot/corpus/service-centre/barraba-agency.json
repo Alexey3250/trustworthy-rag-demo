@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/barraba-agency",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/barraba-agency",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "barraba-agency",
+  "title": "Barraba Agency",
+  "summary": "This page provides information about the Barraba Service Centre, including the services available and how to plan a visit.",
+  "topics": [
+    "service-centre",
+    "driver-licences",
+    "certificates",
+    "licences",
+    "address-changes"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-30.379232,150.610684"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Birth, death or marriage certificates",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Boating licences and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Change of address for Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Contractor licence applications",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Driver testing",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "Bingara Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/bingara-agency"
+    },
+    {
+      "text": "Gunnedah Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/gunnedah-service-centre"
+    },
+    {
+      "text": "Narrabri Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/narrabri-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services are available at the Barraba Agency?",
+      "a": "Services available include birth, death or marriage certificates, boating licences and vessel registrations, change of address for Transport for NSW, contractor licence applications, driver and rider licences, driver knowledge test (DKT), driver testing, and NDIS Worker Check (NDISWC).",
+      "link": null
+    },
+    {
+      "q": "How can I pay for my services?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "What are the nearest Service NSW locations to Barraba?",
+      "a": "Nearby locations include the Bingara Agency, Gunnedah Service Centre, and Narrabri Service Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:21Z",
+    "last_modified": null,
+    "html_sha1": "424be80a77b8996daeee03b8524e6f25c8632caa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

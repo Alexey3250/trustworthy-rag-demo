@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/miruma",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/miruma",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "miruma",
+  "title": "Miruma",
+  "summary": "This page provides information about Miruma, a program for women offenders.",
+  "topics": [
+    "women-offenders",
+    "corrective-services",
+    "justice",
+    "rehabilitation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/reducing-re-offending/initiatives-to-support-offenders/specialist-support/women-offenders/miruma.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/reducing-re-offending/initiatives-to-support-offenders/specialist-support/women-offenders/miruma.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "73146f72319180c2e43cf7c7f171d0ceb841a493",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

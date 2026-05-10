@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/exhibited-animals-advisory-committee",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/exhibited-animals-advisory-committee",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "exhibited-animals-advisory-committee",
+  "title": "Exhibited Animals Advisory Committee",
+  "summary": "This page provides information about the Exhibited Animals Advisory Committee.",
+  "topics": [
+    "committee",
+    "animals",
+    "advisory-committee"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au/animals-and-livestock/nlis",
+      "url": "https://www.dpi.nsw.gov.au/animals-and-livestock/nlis"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:19Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "9042e685c33d00c61d73a774d3a4d49ecf49316d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

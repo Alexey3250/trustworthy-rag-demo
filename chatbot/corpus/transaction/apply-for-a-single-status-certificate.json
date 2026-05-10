@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-single-status-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-single-status-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-single-status-certificate",
+  "title": "Apply for a single status certificate",
+  "summary": "Find out how to apply for a single status certificate, which verifies that you have not been married in NSW during a specified period of time.",
+  "topics": [
+    "marriage",
+    "single-status-certificate",
+    "nsw-registry"
+  ],
+  "intro": "If you're planning to marry overseas, or if you're returning to your country of residence to get married, you may need a single status certificate. This certificate verifies that you've not been married in NSW during a specified period of time.\n\nYou can apply for a single status certificate in person at a Service NSW Centre, or by mail.\n\nCertificates are sent to you by the NSW Registry of Births Deaths & Marriages, using registered post. You cannot get a certificate from a service centre.",
+  "who_can_apply": [
+    "If applying for your own certificate, you need 3 copies of your own identification.",
+    "If applying for a certificate on behalf of another person, you need to provide the necessary documentation for that person."
+  ],
+  "what_you_need": [
+    "Your personal and contact details.",
+    "Details for the single status search, including details of any previous marriages.",
+    "3 forms of identification as specified on the application.",
+    "Your fee payment.",
+    "The PDF form: 'NSW Single Status Certificate Application' (https://www.nsw.gov.au/sites/default/files/2024-11/apply-single-status-certificate.pdf).",
+    "Proof of identity documents.",
+    "The documents provided as proof of identity may be verified through the National Document Verification Service (DVS).",
+    "It is suggested that you do not laminate your certificates and that identity documents are kept in their original state where possible."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the NSW Single Status Certificate Application – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-single-status-certificate.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your application with the required documentation and payment using the details on the form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "When the Registry receives your complete and correct application, processing time starts.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/processing-times#toc-single-status-certificates"
+    },
+    {
+      "n": 6,
+      "text": "The processing time does not include delivery time.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/single-status-certificate#payment-methods-and-fees"
+    },
+    {
+      "text": "NSW Single Status Certificate Application – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-single-status-certificate.pdf"
+    },
+    {
+      "text": "processing time",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/processing-times#toc-single-status-certificates"
+    },
+    {
+      "text": "single status certificate fees",
+      "url": "https://www.nsw.gov.au/family-and-relationships/single-status-certificate#toc-fees-and-processing-times"
+    },
+    {
+      "text": "Form 65: Letter of authority giving permission to apply for a certificate – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-letter-of-authority.pdf"
+    },
+    {
+      "text": "All about single status certificate",
+      "url": "https://www.nsw.gov.au/family-and-relationships/single-status-certificate"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I apply for a single status certificate?",
+      "a": "You can apply in person at a Service NSW Centre or by mail. The certificate will be sent to you by the NSW Registry of Births Deaths & Marriages using registered post.",
+      "link": null
+    },
+    {
+      "q": "Can I get the certificate from a Service NSW Centre?",
+      "a": "No, you cannot get a certificate from a service centre; the NSW Registry of Births Deaths & Marriages sends it to you.",
+      "link": null
+    },
+    {
+      "q": "What should I do before applying for the certificate?",
+      "a": "Check the legal requirements with the consulate, embassy, or local representative of the country in which you wish to marry.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:05Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "27d4b86508c5d904367d0bc11cdb57453b979422",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

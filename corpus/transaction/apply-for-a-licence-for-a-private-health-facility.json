@@ -1,0 +1,161 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-for-a-private-health-facility",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-for-a-private-health-facility",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-for-a-private-health-facility",
+  "title": "Apply for a licence for a private health facility",
+  "summary": "This page outlines the process and requirements for applying for a licence to operate a private health facility in NSW.",
+  "topics": [
+    "private-health-facility",
+    "licence",
+    "nsw-health",
+    "hospital-licence"
+  ],
+  "intro": "Private hospitals and day procedure centres in NSW must be licensed and meet the standards set out in Schedule 1 and Schedule 2 of the Private Health Facilities Regulation 2010.\n\nYou can only lodge an application for a licence to operate a private health facility after you've received the NSW Ministry of Health's approval for the plans and specifications of the facility.\n\nOnce your application has been received and assessed, an Approval in Principle will be issued. This Approval is valid for 12 months (under certain conditions an extension can be requested).\n\nA final inspection is then carried out to ensure the facility has been built in accordance with the approved plans, and that it complies with the conditions of the Approval in Principle and all relevant legislation. Building, fire and other related certification will be required during the inspection.\n\nThe issued licence will specify the private health facility's classes and services.",
+  "who_can_apply": [
+    "The applicant must have received the NSW Ministry of Health's approval for the plans and specifications of the facility before lodging the licence application."
+  ],
+  "what_you_need": [
+    "The PDF form – Application for a Licence for a Private Health Facility",
+    "The PDF form – Statutory Declaration",
+    "The PDF form – Fitness and Probity Check",
+    "Full company extract from the Australian Securities and Investment Commission (ASIC), if applicable",
+    "Copy of the certificate of incorporation (if applicable)",
+    "Copy of the Act incorporating the church or organisation (if applicable)",
+    "National Police Check",
+    "ASIC certificate of registered business name",
+    "Details of the Medicare Benefits Schedule (MBS) item numbers and description for each class of licence sought",
+    "Details of the proposed rehabilitation and mental health programs (if applicable)",
+    "Signed letter from a registered specialist anaesthetist stating the level and type of anaesthetic to be used (if applicable)",
+    "Business case detailing why there is a need for the private health facility services in the proposed location, including:",
+    "Copy of the lease (if applicable)",
+    "Evidence of ownership (if applicable)",
+    "Copy of the current development application or approval, or certification from an authorised certifier, for the use of the premises as a Building Code of Australia (BCA) Class 9(a) health care building",
+    "Development application or certification for use of the premises as a BCA Class 5 building (if applicable)",
+    "2 copies of the architectural plans, drawn to a scale of 1:100 showing the dimensions of each part of the facility, fittings and furnishings."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make your payment online at the NSW Health Payment Portal.",
+      "link": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    },
+    {
+      "n": 5,
+      "text": "Send the completed application form, the required documents and a copy of the payment receipt to the email on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Submissions and architectural plans will be assessed against the Australasian Health Facility Guidelines (HFG)",
+      "link": "https://healthfacilityguidelines.com.au"
+    },
+    {
+      "text": "The approval process will take about 4 months from the date the NSW Ministry of Health receives the completed application. This does not include the time taken to build the facility. For more information, refer to:",
+      "link": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/timeframes-for-processing-of-phf-licences-table.pdf"
+    },
+    {
+      "text": "If you need to amend or transfer a private health facility licence, refer to NSW private health facilities.",
+      "link": "https://ablis.business.gov.au/service/nsw/private-health-facilities-licence/16907"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Schedule 1",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2017-0483#sch.1"
+    },
+    {
+      "text": "Schedule 2",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2017-0483#sch.2"
+    },
+    {
+      "text": "National Police Check",
+      "url": "https://portal.police.nsw.gov.au/s/policecheck-definition"
+    },
+    {
+      "text": "NSW Health Payment Portal",
+      "url": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    },
+    {
+      "text": "Australasian Health Facility Guidelines (HFG)",
+      "url": "https://healthfacilityguidelines.com.au"
+    },
+    {
+      "text": "Timeframes – PDF",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/timeframes-for-processing-of-phf-licences-table.pdf"
+    },
+    {
+      "text": "Circumstances that 'stop the clock' – PDF",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/stop-the-clock-provisions.pdf"
+    },
+    {
+      "text": "NSW private health facilities",
+      "url": "https://ablis.business.gov.au/service/nsw/private-health-facilities-licence/16907"
+    },
+    {
+      "text": "Application for a Licence for a Private Health Facility – PDF",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/application-for-licence.pdf"
+    },
+    {
+      "text": "Statutory Declaration – NSW Health – PDF",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/stat-dec.pdf"
+    },
+    {
+      "text": "Fitness and Probity Check Form – NSW Health – PDF",
+      "url": "https://www.health.nsw.gov.au/pharmaceutical/licences/Documents/fitness-and-probity-check.pdf"
+    },
+    {
+      "text": "All about the licensing of private health facilities",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Pages/licensing-of-private-health-facilities.aspx"
+    },
+    {
+      "text": "Private health facilities portal – Sign in",
+      "url": "https://portal.onegov.nsw.gov.au/PHealth/Account/Login/Partner/HealthPrivate?ReturnUrl=%2fphealth%2f"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What must private hospitals and day procedure centres in NSW do?",
+      "a": "Private hospitals and day procedure centres in NSW must be licensed and meet the standards set out in Schedule 1 and Schedule 2 of the Private Health Facilities Regulation 2010.",
+      "link": null
+    },
+    {
+      "q": "What is the process after submitting an application?",
+      "a": "After the application is received and assessed, an Approval in Principle will be issued, which is valid for 12 months. A final inspection is then carried out to ensure the facility complies with the approved plans and relevant legislation.",
+      "link": null
+    },
+    {
+      "q": "Where can I pay the application fee?",
+      "a": "Payment must be made online at the NSW Health Payment Portal.",
+      "link": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:14Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "683fac50669457b86e4a2158916e79bb5c196122",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

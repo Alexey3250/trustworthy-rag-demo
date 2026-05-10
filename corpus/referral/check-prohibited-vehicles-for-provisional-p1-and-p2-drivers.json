@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-prohibited-vehicles-for-provisional-p1-and-p2-drivers",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-prohibited-vehicles-for-provisional-p1-and-p2-drivers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-prohibited-vehicles-for-provisional-p1-and-p2-drivers",
+  "title": "Check prohibited vehicles for provisional P1 and P2 drivers",
+  "summary": "P1 and P2 provisional licence holders can check online if they are allowed to drive a specific high performance vehicle.",
+  "topics": [
+    "provisional-licence",
+    "p1-p2-drivers",
+    "vehicle-restrictions",
+    "driving-rules"
+  ],
+  "intro": "Both P1 provisional licence holders and P2 provisional licence holders are banned from driving high performance vehicles that have:\n\nIf you're a P1 or P2 provisional licence holder and want to check if you're allowed to drive a certain vehicle, you can do this online.\n\nYou can use any combination of the following vehicle details to search:\n\nVisit Transport for NSW's Centre for Road Safety for the P1/P2 high performance vehicle restrictions search.",
+  "who_can_apply": [
+    "You must be a P1 or P2 provisional licence holder."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "P1/P2 high performance vehicle restrictions search",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/young-drivers/provisional/vehicle-restrictions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an exemption from prohibited vehicle or passenger conditions",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions"
+    },
+    {
+      "text": "Apply for a provisional P1 driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check if I can drive a specific vehicle?",
+      "a": "You can check online using any combination of vehicle details by visiting the Centre for Road Safety's P1/P2 high performance vehicle restrictions search.",
+      "link": "https://www.transport.nsw.gov.au/roadsafety/young-drivers/provisional/vehicle-restrictions"
+    },
+    {
+      "q": "What are the restrictions for P1 and P2 provisional licence holders?",
+      "a": "P1 and P2 provisional licence holders are banned from driving high performance vehicles that have certain characteristics.",
+      "link": null
+    },
+    {
+      "q": "What if I need an exemption from these restrictions?",
+      "a": "You can apply for an exemption from prohibited vehicle or passenger conditions.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:16Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "b7a1aff9dc606bb2f747fa85a0e6f4e087068a11",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

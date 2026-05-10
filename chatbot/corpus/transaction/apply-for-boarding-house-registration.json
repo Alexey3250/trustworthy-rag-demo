@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-boarding-house-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-boarding-house-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-boarding-house-registration",
+  "title": "Apply for boarding house registration",
+  "summary": "Find out about and apply for the registration of a boarding house in NSW.",
+  "topics": [
+    "boarding-house",
+    "registration",
+    "accommodation",
+    "nsw-housing"
+  ],
+  "intro": "Boarding houses provide accommodation for a fee. Generally, residents only occupy a room and share facilities such as kitchen or bathroom with others. Boarding house residents do not have the same rights as tenants.\n\nThere are 2 types of 'registrable’ boarding houses:\n\nFor more information on boarding houses visit NSW Fair Trading.\n\n### Payment and fees\n\nYou will need to pay a fee to register a boarding house in NSW. For information on fees visit NSW Fair Trading.",
+  "who_can_apply": [
+    "The premises must be becoming a registrable boarding house, or the proprietor must be becoming a new proprietor of the premises."
+  ],
+  "what_you_need": [
+    "The completed form Notification to register a boarding house on the Register of Boarding Houses – PDF",
+    "Payment for the lodgement fee (paid online)",
+    "The application and fee receipt"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the form Notification to register a boarding house on the Register of Boarding Houses – PDF.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/community-living/notification-to-register-a-boarding-house"
+    },
+    {
+      "n": 2,
+      "text": "Pay the lodgement fee online as per the instructions on the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge your application and your fee receipt:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 4,
+      "text": "a boarding premises becoming a registrable boardinghouse, or",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "the proprietor becoming a new proprietor of the premises.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/community-living/boarding-houses"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/community-living/boarding-houses/operating-a-boarding-house"
+    },
+    {
+      "text": "Notification to register a boarding house on the Register of Boarding Houses – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/community-living/notification-to-register-a-boarding-house"
+    },
+    {
+      "text": "Search the register",
+      "url": "https://applications.fairtrading.nsw.gov.au/accomregister/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a boarding house?",
+      "a": "Boarding houses provide accommodation for a fee, where residents generally occupy a room and share facilities like the kitchen or bathroom with others. Boarding house residents do not have the same rights as tenants.",
+      "link": null
+    },
+    {
+      "q": "How do I register a boarding house?",
+      "a": "You must download and complete the form Notification to register a boarding house on the Register of Boarding Houses – PDF, pay the lodgement fee online, and then lodge your application and fee receipt.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about boarding houses?",
+      "a": "For more information on boarding houses, visit NSW Fair Trading.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/community-living/boarding-houses"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:01Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "d49ae7dd1e0cba532bbcbc52c8d9224ffaebfb22",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/cancer-institute-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/cancer-institute-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "cancer-institute-nsw",
+  "title": "Cancer Institute NSW",
+  "summary": "This page provides information about the Cancer Institute NSW, including its services and resources.",
+  "topics": [
+    "cancer-institute",
+    "nsw-health",
+    "cancer-prevention",
+    "melanoma"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.cancer.nsw.gov.au/",
+      "url": "https://www.cancer.nsw.gov.au/"
+    },
+    {
+      "text": "NSW melanoma hotspots map",
+      "url": "https://www.cancer.nsw.gov.au/prevention-and-screening/preventing-cancer/preventing-skin-cancer/reduce-your-skin-cancer-risk/know-the-nsw-melanoma-hotspots"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7dd212bb52ee315097f7949915725c6f5f62facc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

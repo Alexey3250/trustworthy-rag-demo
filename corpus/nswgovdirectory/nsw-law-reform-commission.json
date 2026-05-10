@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-law-reform-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-law-reform-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-law-reform-commission",
+  "title": "Law Reform Commission, NSW",
+  "summary": "This page provides information about the NSW Law Reform Commission, which reviews and recommends changes to NSW law.",
+  "topics": [
+    "law-reform",
+    "nsw-law",
+    "justice-system",
+    "legislation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.lawreform.justice.nsw.gov.au",
+      "url": "https://www.lawreform.justice.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Legal Aid NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/legal-aid-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:15Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "aa20b5b51e87489f1daf0ad7c4c90456949202ae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

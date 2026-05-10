@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-brand-new-vehicle",
+  "title": "Register a brand new vehicle",
+  "summary": "Learn how to register a brand new vehicle yourself at a Service NSW Centre.",
+  "topics": [
+    "register-vehicle",
+    "new-vehicle",
+    "service-nsw",
+    "motorcycle",
+    "car"
+  ],
+  "intro": "When you buy a new car, truck or motorcycle, motor dealers will often organise the registration for you. If this is not the case, you can register the vehicle yourself at a Service NSW Centre.\n\nYou can also visit a service centre to register a trailer or caravan.\n\nNote: If there's no record of you with Transport for NSW (TfNSW), you'll need to set up your customer number or driver licence number first.",
+  "who_can_apply": [
+    "Must be able to visit a Service NSW Centre to register the vehicle.",
+    "If no record exists with Transport for NSW (TfNSW), the customer must set up a customer number or driver licence number first."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Proof of registration entitlement",
+    "An Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (blue slip) (Note: Eligible new light vehicles do not require an AUVIS)",
+    "Compulsory third party (CTP) insurance",
+    "Your fee payment",
+    "Your concession details (if applicable)",
+    "The PDF form – 'Application for Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle#what-you-need"
+    },
+    {
+      "n": 3,
+      "text": "Take the completed form and required documents to a service centre and lodge your application with payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Register of Approved Vehicles (RAV)",
+      "url": "https://www.rover.infrastructure.gov.au/RAVPublicSearch/"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Registering a brand new vehicle – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-brand-new-vehicle"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Green Slip calculator",
+      "url": "https://www.greenslips.nsw.gov.au/price-check"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register a trailer or caravan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-trailer-or-caravan"
+    },
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "required documents",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle#what-you-need"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a customer number with Transport for NSW (individuals)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-customer-number-with-transport-for-nsw-individuals"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer or register an interstate vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "text": "Register an expired NSW second-hand vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to register my new vehicle myself?",
+      "a": "Motor dealers often organize registration for you, but if they do not, you can register the vehicle yourself at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Can I register a trailer or caravan?",
+      "a": "Yes, you can visit a service centre to register a trailer or caravan.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I don't have a Transport for NSW record?",
+      "a": "If there is no record of you with Transport for NSW (TfNSW), you must set up your customer number or driver licence number first.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:50Z",
+    "last_modified": "5 November 2025",
+    "html_sha1": "833c722e927ee7a8382585ad5444a65975ff47ed",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

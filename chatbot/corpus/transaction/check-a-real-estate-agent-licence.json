@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-real-estate-agent-licence",
+  "title": "Check a real estate agent licence",
+  "summary": "You can check a real estate agent's licence or search for your own licence number and details online at Verify NSW.",
+  "topics": [
+    "real-estate-agent",
+    "licence-check",
+    "verify-nsw",
+    "property-agent"
+  ],
+  "intro": "If you'd like to check a real estate agent's licence, or search for your own licence number and details, you can do so online at Verify NSW.\n\nYou can use Verify NSW to search for licence and registration information, and to access public records for tradespeople, registered professionals, or business details.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb or postcode)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to the Verify NSW search tool.",
+      "link": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "n": 2,
+      "text": "For a basic search:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "For an advanced search, select the 'All search options' link.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW search tool",
+      "url": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "Property licence types and classes – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent#:~:text=Licence types and classes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Check a property conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:27Z",
+    "last_modified": "24 March 2026",
+    "html_sha1": "283523bf2b2d2ac0b0be9c211cc063822e9ca015",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

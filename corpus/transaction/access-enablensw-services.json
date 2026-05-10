@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/access-enablensw-services",
+  "source_url": "https://www.service.nsw.gov.au/transaction/access-enablensw-services",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "access-enablensw-services",
+  "title": "Access EnableNSW Services",
+  "summary": "Find out how EnableNSW can help people with specific health needs by providing assistive technology and support services to help them live safely at home.",
+  "topics": [
+    "enablensw",
+    "assistive-technology",
+    "health-needs",
+    "support-services"
+  ],
+  "intro": "EnableNSW helps people in NSW who have specific short-term or ongoing health needs. They provide assistive technology and related services to help people live safely at home.\n\nEnableNSW is not a reimbursement scheme – you need to apply and be approved in order to receive assistance.\n\nThe assistive technology can help with:\n\nAssistive technology programs include:\n\nSupport services include:\n\nBefore you discuss your needs with your doctor or health professional, check your eligibility using the EnableNSW eligibility indicator to find the right program.\n\nThe indicator is only a guide so if you'd like to talk to someone about your individual circumstances, contact 1800 ENABLE (1800 362 253) and select the appropriate option.",
+  "who_can_apply": [
+    "Check your eligibility using the EnableNSW eligibility indicator.",
+    "If you want to discuss your individual circumstances, contact 1800 ENABLE (1800 362 253) and select the appropriate option."
+  ],
+  "what_you_need": [
+    "Assistive technology",
+    "Support services"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "EnableNSW eligibility indicator",
+      "url": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    },
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Our services – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/services"
+    },
+    {
+      "text": "Forms and funding criteria by program – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/prescribers/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is EnableNSW?",
+      "a": "EnableNSW helps people in NSW who have specific short-term or ongoing health needs by providing assistive technology and related services to help people live safely at home.",
+      "link": null
+    },
+    {
+      "q": "Is EnableNSW a reimbursement scheme?",
+      "a": "No, EnableNSW is not a reimbursement scheme; you must apply and be approved to receive assistance.",
+      "link": null
+    },
+    {
+      "q": "How do I check if I am eligible for assistance?",
+      "a": "Before discussing your needs with a doctor or health professional, check your eligibility using the EnableNSW eligibility indicator.",
+      "link": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "0fca6f6b5bc33b198dd279dbdb1919846bc20795",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

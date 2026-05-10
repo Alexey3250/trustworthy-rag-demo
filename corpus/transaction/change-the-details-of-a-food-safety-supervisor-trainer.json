@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-supervisor-trainer",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-supervisor-trainer",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-a-food-safety-supervisor-trainer",
+  "title": "Change the details of a food safety supervisor trainer",
+  "summary": "Use the BFS Portal to change the details of a food safety supervisor trainer, or to lodge new applications or remove existing trainers/assessors for your registered training organisation (RTO).",
+  "topics": [
+    "food-safety",
+    "supervisor-trainer",
+    "registered-training-organisation",
+    "bfs-portal"
+  ],
+  "intro": "If you need to change the details of a food safety supervisor trainer in your registered training organisation (RTO), you do this through the BFS Portal. You're also able to lodge new trainer/assessor applications or remove a trainer/assessor, via the Portal.\n\nNote: Do not use the Portal if you're wanting to change details of the RTO. For these changes visit Change the details of a food safety registered training organisation.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "BFS Portal",
+      "url": "https://login.bfs.dpi.nsw.gov.au/login?state=hKFo2SBxd2NPMlpQME5GRnMwNGRzNmJYdkkwRmtkYU93V0xBSKFupWxvZ2luo3RpZNkgOVNTNk1vVEdZWVhqLTFqZkZha1NRY24xVWc0aWpKSHejY2lk2SBhbkU2Tms0T3RSU0d4ZTRROUxENEF2Ynk1TTZtVzRGQQ&client=anE6Nk4OtRSGxe4Q9LD4Avby5M6mW4FA&protocol=samlp"
+    },
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details of a food safety registered training organisation",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-registered-training-organisation"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:58Z",
+    "last_modified": "2 July 2024",
+    "html_sha1": "b59a78631728eae023bf19573497446b08ab4f0f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

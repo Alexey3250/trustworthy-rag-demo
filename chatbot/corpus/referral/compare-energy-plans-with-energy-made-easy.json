@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/compare-energy-plans-with-energy-made-easy",
+  "source_url": "https://www.service.nsw.gov.au/referral/compare-energy-plans-with-energy-made-easy",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "compare-energy-plans-with-energy-made-easy",
+  "title": "Compare energy plans with Energy Made Easy",
+  "summary": "Use Energy Made Easy to compare electricity and gas plans from all retailers in NSW, ACT, Queensland, South Australia, and Tasmania.",
+  "topics": [
+    "energy-plans",
+    "electricity",
+    "gas",
+    "energy-made-easy"
+  ],
+  "intro": "Energy Made Easy is a free and independent Australian Government energy price comparison service for households and small businesses.\n\nCustomers in NSW, ACT, Queensland, South Australia and Tasmania can use the service, as these states and territories have adopted the National Energy Customer Framework (NECF).\n\nUnder the NECF, energy retailers are required by law to provide the data for every plan they make available to customers. This means you'll be able to find and compare all the electricity and gas plans of all retailers.\n\nIf you do not currently have an energy provider you can still use the service to compare plans. Complete the form with as many details as you can. When asked for the company that provides your electricity now, select the option 'None/Not sure/Not in this list'.\n\nGo to Energy Made Easy",
+  "who_can_apply": [
+    "Customers in NSW, ACT, Queensland, South Australia, and Tasmania who have adopted the National Energy Customer Framework (NECF)."
+  ],
+  "what_you_need": [
+    "Details about your current energy provider (if applicable).",
+    "As many details as possible when completing the comparison form."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help with comparing energy plans on Energy Made Easy, please contact the Australian Energy Regulator Contact Centre on 1300 585 165 or visit Energy Made Easy .",
+  "more_info": [
+    {
+      "text": "Frequently asked questions",
+      "link": "https://www.energymadeeasy.gov.au/frequently-asked-questions"
+    },
+    {
+      "text": "Changing energy plans",
+      "link": "https://www.energymadeeasy.gov.au/article/changing-plans"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Go to Energy Made Easy",
+      "url": "https://www.energymadeeasy.gov.au/"
+    },
+    {
+      "text": "Frequently asked questions",
+      "url": "https://www.energymadeeasy.gov.au/frequently-asked-questions"
+    },
+    {
+      "text": "Changing energy plans",
+      "url": "https://www.energymadeeasy.gov.au/article/changing-plans"
+    },
+    {
+      "text": "Energy Made Easy",
+      "url": "https://www.energymadeeasy.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I compare energy plans?",
+      "a": "You can use Energy Made Easy, which is a free and independent Australian Government energy price comparison service.",
+      "link": "https://www.energymadeeasy.gov.au/"
+    },
+    {
+      "q": "Do I need to have an energy provider to use the service?",
+      "a": "No, you can still use the service to compare plans even if you do not currently have an energy provider. Select 'None/Not sure/Not in this list' when asked for your current provider.",
+      "link": null
+    },
+    {
+      "q": "Who is required to provide plan data?",
+      "a": "Under the National Energy Customer Framework (NECF), energy retailers are required by law to provide data for every plan they offer.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:47Z",
+    "last_modified": "5 May 2025",
+    "html_sha1": "d5240407fb53a416dce06e5763f2f1a33a8ff111",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

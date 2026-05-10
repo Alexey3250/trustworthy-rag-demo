@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-public-works",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-public-works",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-public-works",
+  "title": "Public Works, NSW",
+  "summary": "This page provides information about Public Works, a department responsible for various infrastructure and development projects in NSW.",
+  "topics": [
+    "public-works",
+    "infrastructure",
+    "development",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.publicworks.nsw.gov.au",
+      "url": "https://www.publicworks.nsw.gov.au"
+    },
+    {
+      "text": "Public Works contact us page",
+      "url": "https://www.publicworks.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:46Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0eb179d352cd3b35efe0ac3b0e9e7ffe34a8d544",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

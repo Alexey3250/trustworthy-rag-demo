@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-australian-residency-status-on-a-nsw-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-australian-residency-status-on-a-nsw-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-australian-residency-status-on-a-nsw-driver-licence",
+  "title": "Change Australian residency status on a NSW driver licence",
+  "summary": "Visit a Service NSW Centre to update your driver licence details if your Australian residency status changes.",
+  "topics": [
+    "driver-licence",
+    "residency-status",
+    "nsw-service-centre",
+    "australian-citizenship"
+  ],
+  "intro": "If your Australian residency status changes, you'll need to visit a Service NSW Centre to update your driver licence details.",
+  "who_can_apply": [
+    "Your Australian residency status has changed."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Evidence of Australian citizenship or permanent residency (e.g., citizenship certificate, naturalisation document, passport, or overseas passport)",
+    "The appropriate PDF form (Replacement Application or Change of Records)",
+    "Payment (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download, print and complete either:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Replacement Application – PDF form",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Change of Records – PDF form",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Moving your overseas licence to NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/visiting-or-moving-to-nsw/moving-your-overseas-licence"
+    },
+    {
+      "text": "Driver and rider licences: Visiting or moving to NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/visiting-or-moving-to-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "list of locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    },
+    {
+      "text": "Mobile Service Centres",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "Replace a NSW Driver Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "Change or correct personal details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to update my driver licence?",
+      "a": "You need your proof of identity, evidence of Australian citizenship or permanent residency (such as your citizenship certificate, naturalisation document, passport, or overseas passport), the appropriate PDF form, and payment.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What forms do I need to complete?",
+      "a": "You must download, print, and complete either the Replacement Application (if a replacement licence is needed) or the Change of Records form (if a replacement licence is not required).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:04Z",
+    "last_modified": "24 June 2025",
+    "html_sha1": "ba247f7b1e1ca06a08e3ac9c27a0cce80a3f463c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

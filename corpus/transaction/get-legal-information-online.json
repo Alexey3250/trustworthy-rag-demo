@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-legal-information-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-legal-information-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-legal-information-online",
+  "title": "Get legal information online through Legal Aid NSW",
+  "summary": "Find free legal information and guidance on various legal issues through Legal Aid NSW.",
+  "topics": [
+    "legal-aid",
+    "legal-information",
+    "legal-problems",
+    "nsw-law"
+  ],
+  "intro": "If you're looking for help with a legal problem or need general guidance on legal issues, a good place to start is Legal Aid NSW.\n\nLegal Aid NSW’s free information and referral service, LawAccess NSW, has information on a wide range of topics including:\n\nYou can also order free publications and access interactive guides to help you deal with legal problems such as:\n\nNote: Anyone who has a legal problem in NSW can directly contact LawAccess NSW for legal help.",
+  "who_can_apply": [
+    "Anyone who has a legal problem in NSW"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "wide range of topics",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about"
+    },
+    {
+      "text": "representing yourself in court",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/representing-myself"
+    },
+    {
+      "text": "free publications",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/publications-and-resources"
+    },
+    {
+      "text": "interactive guides",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/guided-pathways"
+    },
+    {
+      "text": "contact LawAccess NSW",
+      "url": "https://www.legalaid.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Ways to get help – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help"
+    },
+    {
+      "text": "Legal Aid NSW offices",
+      "url": "https://www.legalaid.nsw.gov.au/contact-us/our-offices"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can get legal help?",
+      "a": "Anyone who has a legal problem in NSW can directly contact LawAccess NSW for legal help.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information on legal topics?",
+      "a": "Legal Aid NSW’s free information and referral service, LawAccess NSW, has information on a wide range of topics.",
+      "link": "https://www.legalaid.nsw.gov.au/my-problem-is-about"
+    },
+    {
+      "q": "What resources are available for legal problems?",
+      "a": "You can order free publications and access interactive guides to help you deal with legal problems.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:03Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "efcfd19ae89087aac3c38c0a9a097a6d7708d1b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

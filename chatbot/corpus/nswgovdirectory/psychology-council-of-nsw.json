@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/psychology-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/psychology-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "psychology-council-of-nsw",
+  "title": "Psychology Council of NSW",
+  "summary": "This page provides information about the Psychology Council of NSW, which is the professional body for psychologists in New South Wales.",
+  "topics": [
+    "psychology",
+    "mental-health",
+    "nsw-health",
+    "professional-body"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.psychologycouncil.nsw.gov.au/",
+      "url": "https://www.psychologycouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5fecf4935098849896cc1afd60c7d88d92e7745b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-additional-traders-plate",
+  "title": "Apply for an additional trader's plate",
+  "summary": "This page explains how to apply for an additional trader's plate if you already hold one.",
+  "topics": [
+    "traders-plate",
+    "service-nsw",
+    "business-licence",
+    "vehicle-registration"
+  ],
+  "intro": "If you already hold a trader's plate and need another one, you can apply for an additional plate at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of identity",
+    "Motor industry licence",
+    "Business or organisation identification",
+    "A detailed letter on company letterhead describing your business and the reasons why you need an additional plate",
+    "A list of all the trader's plates you currently hold",
+    "Record of Use sheets for the last 3 months for all trader's plates currently held",
+    "The additional trader's plate fee",
+    "The PDF form – 'Trader's Plate Application'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Record of Use sheets",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071078-trade-plate-record-of-use.pdf"
+    },
+    {
+      "text": "fee",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers#Trader%E2%80%99s_plates"
+    },
+    {
+      "text": "Form 1728: Trader's Plate Conditions of Use – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071875-traders-plates-condition-of-use.pdf"
+    },
+    {
+      "text": "Trader's Plate Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070540-trade-plate-application.pdf"
+    },
+    {
+      "text": "Motor Dealers Guide to Vehicle Registration – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/motor-dealers-guide-to-vehicle-registration"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-traders-plates"
+    },
+    {
+      "text": "Renew trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-traders-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I apply for an additional trader's plate?",
+      "a": "You can apply for an additional plate at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to apply for an additional plate?",
+      "a": "You need your proof of identity, motor industry licence, business or organisation identification, a detailed letter on company letterhead, a list of all plates you hold, Record of Use sheets for the last 3 months, the additional trader's plate fee, and the 'Trader's Plate Application' PDF form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:30Z",
+    "last_modified": "21 November 2025",
+    "html_sha1": "d9813bc045056cf40035803a3f8bebc3c2c369c5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

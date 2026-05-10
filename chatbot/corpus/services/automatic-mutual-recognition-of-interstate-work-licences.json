@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "automatic-mutual-recognition-of-interstate-work-licences",
+  "title": "Automatic mutual recognition of interstate work licences",
+  "summary": "This page provides information about the automatic mutual recognition of interstate work licences in New South Wales.",
+  "topics": [
+    "work-licences",
+    "interstate-work",
+    "nsw-employment",
+    "licence-recognition"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must hold a work licence from another state that is eligible for automatic mutual recognition in NSW.",
+    "You must intend to work in New South Wales.",
+    "You must meet the specific criteria for your profession and licence."
+  ],
+  "what_you_need": [
+    "Your existing work licence from another state.",
+    "Details of the profession and the work licence.",
+    "If required, you may need to complete outstanding actions or update your notification details."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Notify to work in NSW under Automatic Mutual Recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Complete the outstanding actions on your Automatic Mutual Recognition notification",
+      "url": "https://www.service.nsw.gov.au/transaction/complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification"
+    },
+    {
+      "text": "Update your Automatic Mutual Recognition notification details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is automatic mutual recognition of interstate work licences?",
+      "a": "Automatic mutual recognition means that if you have a work licence from another state, you may be able to use it in NSW without needing to apply for a new one, provided you meet certain criteria.",
+      "link": null
+    },
+    {
+      "q": "Do I need to apply for a new licence if I move to NSW?",
+      "a": "Depending on your profession and the licence you hold, you may be able to use your existing interstate licence in NSW automatically. You should check the specific requirements for your trade.",
+      "link": null
+    },
+    {
+      "q": "How do I start the process of recognition?",
+      "a": "You can start the process by notifying NSW that you plan to work in the state under the automatic mutual recognition scheme.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:20Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "fe7ed88e37a17a80fd9ad6a269f81b3a6df960f4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

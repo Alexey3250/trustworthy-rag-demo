@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "appoint-a-food-safety-supervisor",
+  "title": "Appoint a food safety supervisor",
+  "summary": "Learn about the requirements and process for appointing a food safety supervisor (FSS) in your business.",
+  "topics": [
+    "food-safety",
+    "food-supervisor",
+    "business-requirements"
+  ],
+  "intro": "A food safety supervisor (FSS) is someone who is trained to recognise and prevent food handling risks in your business.\n\nYour FSS will need to be trained by a Registered Training Organisation (RTO). They may be the business owner, manager, a supervisor or an employee.\n\nAn FSS must be appointed:",
+  "who_can_apply": [
+    "The business must prepare and sell food that is ready to eat, potentially hazardous (temperature-controlled), and not sold or served in the supplier’s original packaging.",
+    "The appointed FSS must have a NSW FSS certificate that is less than 5 years old.",
+    "The appointed FSS must not be the FSS for any other food premises."
+  ],
+  "what_you_need": [
+    "Choose at least one person to be the FSS for each of your premises.",
+    "If the chosen person does not already have a valid NSW FSS certificate, they need to get trained by a Registered Training Organisation (RTO)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Choose at least one person to be the FSS for each of your premises.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "If they don’t already have a valid NSW FSS certificate, they need to:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "appoint one FSS at each of your premises",
+      "link": null
+    },
+    {
+      "text": "keep a copy of the FSS certificate on the premises",
+      "link": null
+    },
+    {
+      "text": "appoint a new FSS within 30 days of an FSS leaving or their certificate expiring.",
+      "link": null
+    },
+    {
+      "text": "You can be fined if you do not:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Guidelines to food safety supervisor requirements: NSW Food Authority – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/2466"
+    },
+    {
+      "text": "Food Safety Supervisor program – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/fss-food-safety-supervisors"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify the Food Authority or local council of a food business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a food safety supervisor (FSS)?",
+      "a": "An FSS is someone trained to recognize and prevent food handling risks in your business.",
+      "link": null
+    },
+    {
+      "q": "Who can be appointed as an FSS?",
+      "a": "The FSS can be the business owner, manager, a supervisor, or an employee.",
+      "link": null
+    },
+    {
+      "q": "How often does an FSS need refresher training?",
+      "a": "An FSS must get refresher training from a Registered Training Organisation (RTO) every 5 years.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:38Z",
+    "last_modified": "18 November 2025",
+    "html_sha1": "5f9ea6666cfa05984794ed44ef69672395d9963a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-pensioner-council-rates-rebates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-pensioner-council-rates-rebates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-pensioner-council-rates-rebates",
+  "title": "Apply for pensioner council rates rebates",
+  "summary": "Find out about and apply for concessions available to eligible pensioners on their council rates.",
+  "topics": [
+    "pensioner-rates",
+    "council-rates",
+    "concessions",
+    "rebates"
+  ],
+  "intro": "Concessions are available to eligible pensioners on their council rates, including:\n\nIf your water is not supplied by your local council, find out if you are eligible for the pensioner water rebate.",
+  "who_can_apply": [
+    "Be a War Widow or War Widower and entitled to the DVA income support supplement (ISS) which attracts a PCC.",
+    "Be a Wholly Dependent Partner and entitled to the DVA ISS which attracts a PCC.",
+    "Note: Rebates may also be granted to people suffering financial hardship in certain circumstances."
+  ],
+  "what_you_need": [
+    "Your council rates account number or customer number (on your rates bill).",
+    "A concession card or concession customer reference number.",
+    "Check your rates bill before completing the claim form, as you may already be receiving the pension rebate."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check that you meet the eligibility criteria.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Get the contact details for your local council.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "n": 3,
+      "text": "Complete the rebate application form by:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Rates, charges and pensioner concession – Office of Local Government",
+      "url": "https://www.olg.nsw.gov.au/public/about-councils/laws-and-regulations/rates-charges-and-pensioner-concession/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pensioner water rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-pensioner-water-rebate"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for pensioner council rates rebates?",
+      "a": "You may be eligible if you are a War Widow or War Widower entitled to the DVA income support supplement (ISS) which attracts a PCC, or a Wholly Dependent Partner entitled to the DVA ISS which attracts a PCC.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the rebate?",
+      "a": "You need your council rates account number or customer number (on your rates bill) and a concession card or concession customer reference number.",
+      "link": null
+    },
+    {
+      "q": "Are there other rebates I should know about?",
+      "a": "If your water is not supplied by your local council, you can find out if you are eligible for the pensioner water rebate.",
+      "link": "https://www.service.nsw.gov.au/transaction/claim-the-pensioner-water-rebate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:25Z",
+    "last_modified": "11 September 2024",
+    "html_sha1": "e0a7239ce645f818a2464dddc645c24becbecdca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

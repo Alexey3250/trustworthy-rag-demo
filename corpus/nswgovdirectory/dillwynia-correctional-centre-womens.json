@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dillwynia-correctional-centre-womens",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dillwynia-correctional-centre-womens",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dillwynia-correctional-centre-womens",
+  "title": "Dillwynia Correctional Centre (Womens)",
+  "summary": "This page provides information about the Dillwynia Correctional Centre for women.",
+  "topics": [
+    "correctional-centre",
+    "womens-detention",
+    "dillwynia"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/dillwynia-correctional-centre-windsor.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/dillwynia-correctional-centre-windsor.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "031865ff3c1be1dff3c75dd0440547d19a7e5221",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

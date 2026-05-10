@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-tow-truck-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-tow-truck-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-tow-truck-plates",
+  "title": "Replace tow truck plates",
+  "summary": "This page explains how to apply for replacement tow truck number plates.",
+  "topics": [
+    "tow-truck-plates",
+    "number-plates",
+    "nsw-fair-trading",
+    "service-centre"
+  ],
+  "intro": "To apply for replacement tow truck number plates you need a letter from NSW Fair Trading authorising the replacement. To get a letter call the NSW Fair Trading tow truck licensing team on 13 32 20.\n\nIf you still have the old plates you must hand them in before new ones are issued.",
+  "who_can_apply": [
+    "Must have a letter from NSW Fair Trading authorizing the replacement of faded, damaged, lost, or stolen plates."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Letter from the tow truck licensing team authorizing the replacement",
+    "Old plates (if available)",
+    "Fee payment",
+    "Police event number (if plates were stolen)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the PDF form – 'Number Plates and/or Cancellation of Registration'",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents and your plates if you have them.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you drive to the service centre to pick up number plates for the vehicle you're driving, take the tools and screws you need with you to change the plates. If you drive a vehicle without number plates you can be fined.",
+      "link": null
+    },
+    {
+      "text": "Visit the NSW Fair Trading website for more about Tow trucks.",
+      "link": null
+    },
+    {
+      "text": "Find out what to do if you need to cancel a number plate order.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number Plates and/or Cancellation of Registration",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "you can be fined",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    },
+    {
+      "text": "Tow trucks",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "order an auxiliary number plate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-an-auxiliary-number-plate-for-a-tow-truck"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "cancel a number plate order",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to apply for replacement tow truck plates?",
+      "a": "You need your proof of identity, a letter from the NSW Fair Trading tow truck licensing team authorizing the replacement, your old plates (if you have them), your fee payment, and a Police event number if the plates were stolen.",
+      "link": null
+    },
+    {
+      "q": "How do I get the authorization letter?",
+      "a": "To get the required letter, call the NSW Fair Trading tow truck licensing team on 13 32 20.",
+      "link": null
+    },
+    {
+      "q": "What should I do with my old plates?",
+      "a": "If you still have the old plates, you must hand them in before new ones are issued.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:47Z",
+    "last_modified": "21 May 2025",
+    "html_sha1": "28edefb62d330337d473ef2aa7aab03a3aab579d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

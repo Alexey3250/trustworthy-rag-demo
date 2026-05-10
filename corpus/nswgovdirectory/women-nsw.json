@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/women-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/women-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "women-nsw",
+  "title": "Women NSW",
+  "summary": "This page provides information and resources related to women's support and initiatives across New South Wales.",
+  "topics": [
+    "women",
+    "support",
+    "resources",
+    "empowerment",
+    "grants"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/women-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/women-nsw"
+    },
+    {
+      "text": "NSW Rural Women's Resource",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr"
+    },
+    {
+      "text": "NSW Rural Women's Economic Opportunity and Advancement",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr/economic-opportunity-and-advancement"
+    },
+    {
+      "text": "NSW Rural Women's Health and Wellbeing",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr/health-wellbeing"
+    },
+    {
+      "text": "NSW Rural Women's Participation and Empowerment",
+      "url": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr/participation-and-empowerment"
+    },
+    {
+      "text": "NSW Women toolkits and resources",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources"
+    },
+    {
+      "text": "Investing in Women Funding Program",
+      "url": "https://www.nsw.gov.au/grants-and-funding/investing-women-funding-program"
+    },
+    {
+      "text": "NSW Women of the Year Awards",
+      "url": "https://www.nsw.gov.au/women-nsw/awards-and-events"
+    },
+    {
+      "text": "NSW Women’s Week Grants",
+      "url": "https://www.nsw.gov.au/grants-and-funding/nsw-womens-week-grants"
+    },
+    {
+      "text": "NSW Women’s Advisory Council",
+      "url": "https://www.nsw.gov.au/women-nsw/nsw-womens-advisory-council"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "The Cabinet Office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-cabinet-office"
+    },
+    {
+      "text": "Support for women in business",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general information about women's services in NSW?",
+      "a": "You can find general information and resources through the Women NSW page.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/women-nsw"
+    },
+    {
+      "q": "Are there specific resources for rural women?",
+      "a": "Yes, there are dedicated resources covering areas like health and wellbeing, economic opportunity, and participation and empowerment for rural women.",
+      "link": "https://www.nsw.gov.au/women-nsw/rural-womens-network/rwr"
+    },
+    {
+      "q": "What funding or grants are available for women?",
+      "a": "There are various grants available, including the Investing in Women Funding Program and NSW Women’s Week Grants.",
+      "link": "https://www.nsw.gov.au/grants-and-funding/investing-women-funding-program"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0176cfd7804c923f921e74e336df278aeca9234a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

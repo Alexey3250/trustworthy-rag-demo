@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/fire-and-rescue-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/fire-and-rescue-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "fire-and-rescue-nsw",
+  "title": "Fire and Rescue NSW",
+  "summary": "This page provides general information about Fire and Rescue NSW, including safety advice and contact details.",
+  "topics": [
+    "fire-safety",
+    "emergency-services",
+    "fire-prevention",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.fire.nsw.gov.au",
+      "url": "https://www.fire.nsw.gov.au"
+    },
+    {
+      "text": "Operational Units Contact Details",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=860#6"
+    },
+    {
+      "text": "Find a Fire Station – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=9205"
+    },
+    {
+      "text": "Fire permits – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=200"
+    },
+    {
+      "text": "Smoke Alarms – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=80"
+    },
+    {
+      "text": "Smoke alarms and the law – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=439"
+    },
+    {
+      "text": "Workplace fire safety – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=3"
+    },
+    {
+      "text": "Emergency calls – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=309"
+    },
+    {
+      "text": "Careers – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=10"
+    },
+    {
+      "text": "Home fire safety – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=879"
+    },
+    {
+      "text": "Visitor information and accessibility – Fire and Rescue NSW",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=9251"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Rural Fire Service NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do in an emergency?",
+      "a": "For emergency calls, you should contact Fire and Rescue NSW.",
+      "link": "https://www.fire.nsw.gov.au/page.php?id=309"
+    },
+    {
+      "q": "Where can I find a fire station?",
+      "a": "You can find a fire station using the dedicated search tool.",
+      "link": "https://www.fire.nsw.gov.au/page.php?id=9205"
+    },
+    {
+      "q": "What are the rules regarding smoke alarms?",
+      "a": "Information is available regarding smoke alarms and the law, as well as general home fire safety.",
+      "link": "https://www.fire.nsw.gov.au/page.php?id=80"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:03Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c2b27492250426c0b99fb5ccc2dec6af254afeef",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

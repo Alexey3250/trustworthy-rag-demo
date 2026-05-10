@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/set-up-an-incorporated-limited-partnership",
+  "source_url": "https://www.service.nsw.gov.au/transaction/set-up-an-incorporated-limited-partnership",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "set-up-an-incorporated-limited-partnership",
+  "title": "Set up an incorporated limited partnership",
+  "summary": "Learn about setting up an incorporated limited partnership (ILP), a business structure for venture capital projects.",
+  "topics": [
+    "business-structure",
+    "incorporated-limited-partnership",
+    "venture-capital",
+    "start-up-funding"
+  ],
+  "intro": "An incorporated limited partnership (ILP) is a special type of limited partnership that can be used by businesses engaged in venture capital projects.\n\nVenture capital is financial assistance that investors provide to start-up companies and small businesses that are believed to have long-term growth potential. It is high risk for the investor as the funding is commonly provided at difficult stages in the business' development, where the chance of failure is greatest. The potential for above-average returns however, is an attractive payoff.\n\nFor new ventures that have little or no operating history, it is a means of funding, when financing through bank loans for example, may be difficult to obtain.\n\nThere are 4 types of venture capital limited partnerships that can be registered as ILPs under NSW partnership legislation:\n\nA partnership that is an ESVCLP, a VCLP, an AFOF or a VCMP cannot be a corporate limited partnership.\n\nThere are taxation benefits for registered ILPs, but before deciding on any business structure, it's important to get professional advice from a business adviser, solicitor or accountant.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "early stage venture capital limited partnership",
+      "url": "https://business.gov.au/Grants-and-Programs/Early-Stage-Venture-Capital-Limited-Partnerships"
+    },
+    {
+      "text": "venture capital limited partnership",
+      "url": "https://business.gov.au/grants-and-programs/venture-capital-limited-partnerships"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    },
+    {
+      "text": "Business adviser finder – business.gov.au",
+      "url": "https://business.gov.au/expertise-and-advice"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register a limited partnership",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-limited-partnership"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:55Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "9255623a3a5e1e036dd70df5d9f1bd9742f4f3d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

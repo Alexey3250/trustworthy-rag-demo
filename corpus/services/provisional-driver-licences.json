@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/provisional-driver-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/provisional-driver-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "provisional-driver-licences",
+  "title": "Provisional driver licences",
+  "summary": "Find information and apply for various provisional driver licences and related services in NSW.",
+  "topics": [
+    "driver-licence",
+    "provisional-licence",
+    "nsw-driving",
+    "learner-driver"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Learner driver licence",
+      "link": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a provisional P1 driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    },
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Book a hazard perception test (HPT)",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-hazard-perception-test-hpt"
+    },
+    {
+      "text": "Change address as a holder of a passenger exemption letter",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-as-a-holder-of-a-passenger-exemption-letter"
+    },
+    {
+      "text": "Check prohibited vehicles for provisional P1 and P2 drivers",
+      "url": "https://www.service.nsw.gov.au/referral/check-prohibited-vehicles-for-provisional-p1-and-p2-drivers"
+    },
+    {
+      "text": "Apply for an exemption from prohibited vehicle or passenger conditions",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions"
+    },
+    {
+      "text": "Learner driver licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a provisional P1 driver licence?",
+      "a": "You can apply for a provisional P1 driver licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    },
+    {
+      "q": "How do I renew or upgrade my NSW driver licence?",
+      "a": "You can renew or upgrade your NSW driver licence through the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "q": "How do I book a driver or rider licence test?",
+      "a": "You can book a driver or rider licence test online.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "q": "Where can I check prohibited vehicles for provisional P1 and P2 drivers?",
+      "a": "You can check prohibited vehicles for provisional P1 and P2 drivers using the provided link.",
+      "link": "https://www.service.nsw.gov.au/referral/check-prohibited-vehicles-for-provisional-p1-and-p2-drivers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:53Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "76df8607051ea24100779ffbe049153dbce3e2a0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

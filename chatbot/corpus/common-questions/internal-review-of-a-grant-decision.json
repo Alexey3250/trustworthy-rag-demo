@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "internal-review-of-a-grant-decision",
+  "title": "Common questions about an Internal Review",
+  "summary": "This page provides information about the internal review process if you wish to dispute a decision made by Service NSW.",
+  "topics": [
+    "internal-review",
+    "disputing-decisions",
+    "service-nsw",
+    "grants"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Request an internal Review of a decision about a grant application",
+      "link": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "request for an internal review",
+      "url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    },
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Find a Service NSW location.",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "lodge a complain",
+      "url": "https://www.service.nsw.gov.au/preview-link/node/2342/34d29105-6e3f-4547-b727-b3d289a427af"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an Internal Review?",
+      "a": "An internal review allows customers to respond to a decision and request a review of that decision.",
+      "link": null
+    },
+    {
+      "q": "When can I request an internal review?",
+      "a": "Customers are given the opportunity to request an internal review of a decision.",
+      "link": null
+    },
+    {
+      "q": "How will the internal review process work?",
+      "a": "The process involves reviewing your initial application, considering any new evidence you provide, and determining if the original decision was correct and preferable.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:49Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "47e8b77ec9738fd321c1a771f015f22bbd47eea0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

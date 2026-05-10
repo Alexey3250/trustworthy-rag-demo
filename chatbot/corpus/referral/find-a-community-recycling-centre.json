@@ -1,0 +1,45 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-community-recycling-centre",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-community-recycling-centre",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-community-recycling-centre",
+  "title": "Find a community recycling centre",
+  "summary": "Find information about community recycling centres (CRCs) where you can drop off household waste that cannot be collected through regular council services.",
+  "topics": [
+    "recycling",
+    "waste-disposal",
+    "community-recycling-centres",
+    "household-waste"
+  ],
+  "intro": "You can drop off household waste that cannot be collected via council kerbside waste and recycling services at community recycling centres (CRCs).\n\nCRCs are free and permanent drop-off locations that are available throughout the year. They are run by local councils and organisations in partnership with the NSW Government.\n\nAccepted household waste includes up to 20 litres or 20 kilograms of each item type for:\n\nFind a CRC drop-off location near you.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Up to 20 litres or 20 kilograms of each accepted item type."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find a CRC drop-off location",
+      "url": "https://www.epa.nsw.gov.au/your-environment/recycling-and-reuse/household-recycling-overview/find-crcs-or-hcco"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a household battery recycling location",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-household-battery-recycling-location"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:24Z",
+    "last_modified": "12 May 2025",
+    "html_sha1": "3bd4c05526d3473286be8dfabc40a00e037463d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

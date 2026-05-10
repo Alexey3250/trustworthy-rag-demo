@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-care-complaints-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/health-care-complaints-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "health-care-complaints-commission",
+  "title": "Health Care Complaints Commission",
+  "summary": "This page provides information about the Health Care Complaints Commission (HCCC), which handles complaints regarding health care.",
+  "topics": [
+    "health-care",
+    "complaints",
+    "nsw-health",
+    "patient-rights"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must have a complaint regarding health care."
+  ],
+  "what_you_need": [
+    "Details of the health care complaint."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.hccc.nsw.gov.au/",
+      "url": "https://www.hccc.nsw.gov.au/"
+    },
+    {
+      "text": "Complaints process – HCCC",
+      "url": "https://www.hccc.nsw.gov.au/Understanding-Complaints/complaints-process"
+    },
+    {
+      "text": "Make a complaint online – HCCC",
+      "url": "https://www.hccc.nsw.gov.au/understanding-complaints/make-a-complaint-online"
+    },
+    {
+      "text": "Inquiry form – HCCC",
+      "url": "https://ecomplaints.hccc.nsw.gov.au/Make-an-Enquiry/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health Professional Councils Authority",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-professional-councils-authority"
+    },
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Health Care Complaints Commission (HCCC)?",
+      "a": "The HCCC is an independent body that handles complaints about health care.",
+      "link": null
+    },
+    {
+      "q": "How do I make a complaint?",
+      "a": "You can learn about the complaints process and make a complaint online through the HCCC website.",
+      "link": "https://www.hccc.nsw.gov.au/Understanding-Complaints/complaints-process"
+    },
+    {
+      "q": "Where can I find more information about complaints?",
+      "a": "You can visit the HCCC website for detailed information on complaints.",
+      "link": "https://www.hccc.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:37Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "7a275131026949a508a92cca65f906f9b51546a6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

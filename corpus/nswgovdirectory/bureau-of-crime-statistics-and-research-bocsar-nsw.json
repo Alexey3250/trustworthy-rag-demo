@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bureau-of-crime-statistics-and-research-bocsar-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bureau-of-crime-statistics-and-research-bocsar-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bureau-of-crime-statistics-and-research-bocsar-nsw",
+  "title": "Bureau of Crime Statistics and Research (BOCSAR), NSW",
+  "summary": "This page provides information about the Bureau of Crime Statistics and Research (BOCSAR), which offers crime statistics and research resources for NSW.",
+  "topics": [
+    "crime-statistics",
+    "research",
+    "nsw-government",
+    "bocsar"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.bocsar.nsw.gov.au/",
+      "url": "https://www.bocsar.nsw.gov.au/"
+    },
+    {
+      "text": "Crime statistics",
+      "url": "https://bocsar.nsw.gov.au/statistics-dashboards/crime-and-policing.html"
+    },
+    {
+      "text": "Crime mapping tool",
+      "url": "https://crimetool.bocsar.nsw.gov.au/bocsar/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "27087b4eca77e7c87b0706d20a6ca8fa748b4f45",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

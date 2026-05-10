@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-an-authorised-dealer-under-the-mdvrs",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-become-an-authorised-dealer-under-the-mdvrs",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-become-an-authorised-dealer-under-the-mdvrs",
+  "title": "Apply to become an authorised dealer under the MDVRS",
+  "summary": "Learn about the requirements and steps to apply to become an authorised dealer under the Maritime Dealer Vessel Registration Scheme (MDVRS).",
+  "topics": [
+    "maritime-dealer",
+    "vessel-registration",
+    "business-licence",
+    "nsw-transport"
+  ],
+  "intro": "The Maritime Dealer Vessel Registration Scheme (MDVRS) authorises approved maritime dealers to register new recreational vessels through an online maritime dealer portal.",
+  "who_can_apply": [
+    "Be a maritime dealer engaged in the sale of new vessels.",
+    "Have your dealership located within Australia.",
+    "Hold public and products liability or broadform liability insurance.",
+    "Hold workers compensation insurance (unless exempt)."
+  ],
+  "what_you_need": [
+    "The PDF forms: Application to become an authorised dealer (MDVRS)",
+    "Copy of your ABN, ACN or ARBN certificate.",
+    "Certified copy of your National Police Check Certificate completed within the last 12 months.",
+    "Certified copies of your proof of identity documents.",
+    "Copies of certificates of currency for the required insurance."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45065599-maritime-dealer-vessel-registration-scheme-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Email your signed MDVRS agreement, completed application form and supporting documents to the address stated on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The MDVRS allows interim registration for newly manufactured vessels only.",
+      "link": null
+    },
+    {
+      "text": "Dealers are not able to obtain interim registrations for used second-hand vessels whether registered or not.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "exempt",
+      "url": "https://www.icare.nsw.gov.au/employers/who-needs-workers-insurance/who-needs-a-policy"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Application to become an authorised dealer (MDVRS) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065599-maritime-dealer-vessel-registration-scheme-application.pdf"
+    },
+    {
+      "text": "MDVRS Agreement – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2024/mdvrs-agreement.pdf"
+    },
+    {
+      "text": "Maritime Dealer Guide – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/mdvrs-maritime-dealer-guide.pdf"
+    },
+    {
+      "text": "Transport for NSW Statement of Business Ethics – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2025/transport-statement-of-business-ethics-august-2025.pdf"
+    },
+    {
+      "text": "Maritime Dealer Vessel Registration Scheme (MDVRS) – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/maritime-dealers"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Privacy Statement – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/about-us/transport-privacy/privacy-statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration"
+    },
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Maritime Dealer Vessel Registration Scheme (MDVRS)?",
+      "a": "The MDVRS authorises approved maritime dealers to register new recreational vessels through an online maritime dealer portal.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements to become an authorised dealer?",
+      "a": "You must be a maritime dealer engaged in the sale of new vessels, have your dealership located within Australia, and hold public and products liability or broadform liability insurance and workers compensation insurance (unless exempt).",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the PDF forms, a copy of your ABN, ACN or ARBN certificate, a certified copy of your National Police Check Certificate (completed within the last 12 months), certified copies of your proof of identity documents, and copies of certificates of currency for the required insurance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:20Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "2e97309e06a6e885cf0ee5e3fe307085bc50ecd6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

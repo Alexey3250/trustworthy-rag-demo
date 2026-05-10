@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status",
+  "source_url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "ndiswc-check-status",
+  "title": "Check the status of your NDIS Worker Check",
+  "summary": "Learn how to check the status of your NDIS Worker Check by logging into your MyServiceNSW Account.",
+  "topics": [
+    "ndis-worker-check",
+    "check-status",
+    "myservicensw-account"
+  ],
+  "intro": "Log in to your MyServiceNSW Account to check:\n\nNote: You must log in to your MyServiceNSW Account, not the Service NSW app.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Completion of an online application for an NDIS Worker Check"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to NDIS Worker Check' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'NDIS Worker Check' from the dashboard.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Check' on the 'Check your status' tile.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "How to create a MyServiceNSW Account",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "NDIS Worker Check application guide",
+      "link": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "Requesting a review – Office of the Children's Guardian",
+      "link": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-application-assessment/requesting-review"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "application processing and employer verification",
+      "url": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-apply-and-manage/application-processing-and-employer-verification"
+    },
+    {
+      "text": "Requesting a review – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-application-assessment/requesting-review"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "update your details",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-update-details"
+    },
+    {
+      "text": "How to create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "NDIS Worker Check application guide",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "Apply for an NDIS Worker Check",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check my NDIS Worker Check status?",
+      "a": "You must log in to your MyServiceNSW Account to check your NDIS Worker Check number, expiry date, and application progress.",
+      "link": null
+    },
+    {
+      "q": "What do I need to check my NDIS Worker Check status?",
+      "a": "You need a MyServiceNSW Account. You can only access your NDIS Worker Check details in your MyServiceNSW Account after you complete your online application for an NDIS Worker Check.",
+      "link": null
+    },
+    {
+      "q": "What are the steps to check my NDIS Worker Check status?",
+      "a": "Select the 'Go to NDIS Worker Check' button, log in to your MyServiceNSW Account, select 'NDIS Worker Check' from the dashboard, and then select 'Check' on the 'Check your status' tile.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:27Z",
+    "last_modified": "6 May 2026",
+    "html_sha1": "539fd16793e1cc6986f025c053b0179f40e63ac3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

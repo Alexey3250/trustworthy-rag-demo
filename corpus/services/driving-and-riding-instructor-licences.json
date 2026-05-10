@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "driving-and-riding-instructor-licences",
+  "title": "Driving and riding instructor licences",
+  "summary": "Find information and apply for various driving and riding instructor licences in NSW.",
+  "topics": [
+    "driving-instructor-licence",
+    "riding-instructor-licence",
+    "nsw-licences",
+    "licence-renewal"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence"
+    },
+    {
+      "text": "Apply for a NSW driving instructor licence under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-driving-instructor-licence-under-mutual-recognition"
+    },
+    {
+      "text": "Apply for a restricted driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-restricted-driving-instructor-licence"
+    },
+    {
+      "text": "Apply for a replacement driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-replacement-driving-instructor-licence"
+    },
+    {
+      "text": "Renew a driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-driving-instructor-licence"
+    },
+    {
+      "text": "Apply to add a class to a NSW driving instructor licence (under mutual recognition)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-class-to-a-nsw-driving-instructor-licence-under-mutual-recognition"
+    },
+    {
+      "text": "Apply to upgrade a driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-upgrade-a-driving-instructor-licence"
+    },
+    {
+      "text": "Driving/riding instructor and bus driver authority – common questions",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority"
+    },
+    {
+      "text": "Apply for a riding instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-riding-instructor-licence"
+    },
+    {
+      "text": "Apply for a restricted riding instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-restricted-riding-instructor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a driving instructor licence?",
+      "a": "You can apply for a driving instructor licence using the dedicated application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence"
+    },
+    {
+      "q": "What if I need to renew my driving instructor licence?",
+      "a": "You can renew your driving instructor licence through the renewal service.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-driving-instructor-licence"
+    },
+    {
+      "q": "Where can I find information about riding instructor licences?",
+      "a": "The page provides options to apply for a riding instructor licence or a restricted riding instructor licence.",
+      "link": null
+    },
+    {
+      "q": "What are the common questions regarding driving, riding, and bus driver authority?",
+      "a": "Common questions are available regarding the driving/riding instructor and bus driver authority.",
+      "link": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:48Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "fc6f7c978c2f513ef63b7f377686fb6202c96b07",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

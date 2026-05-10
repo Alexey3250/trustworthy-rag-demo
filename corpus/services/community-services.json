@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/community-services",
+  "source_url": "https://www.service.nsw.gov.au/services/community-services",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "community-services",
+  "title": "Community services",
+  "summary": "This page provides access to various community services available across different life stages and groups in NSW.",
+  "topics": [
+    "community-services",
+    "seniors",
+    "young-people",
+    "migrants",
+    "veterans",
+    "students"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Services for young people",
+      "url": "https://www.service.nsw.gov.au/services/young-people"
+    },
+    {
+      "text": "Domestic and family violence support services",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Services for seniors, carers and pensioners",
+      "url": "https://www.service.nsw.gov.au/services/seniors-carers-pensioners"
+    },
+    {
+      "text": "Programs, services and concessions for veterans and their families",
+      "url": "https://www.service.nsw.gov.au/guide/veterans"
+    },
+    {
+      "text": "Support for Aboriginal and Torres Strait Islander communities​",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Services for migrants and refugees",
+      "url": "https://www.service.nsw.gov.au/services/migrants-and-refugees"
+    },
+    {
+      "text": "Apply for ABSTUDY",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-abstudy"
+    },
+    {
+      "text": "Enrol in the Smart and Skilled program",
+      "url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program"
+    },
+    {
+      "text": "Access the Assistance for Isolated Children Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/access-the-assistance-for-isolated-children-scheme"
+    },
+    {
+      "text": "Apply for Boarding Scholarships for Isolated Students",
+      "url": "https://www.service.nsw.gov.au/referral/boarding-scholarships-for-isolated-students-bsis"
+    },
+    {
+      "text": "Apply for a Living Away from Home Allowance (for secondary students)",
+      "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance"
+    },
+    {
+      "text": "Apply for a Living Away from Home Allowance (for apprentices)",
+      "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance-apprentices"
+    },
+    {
+      "text": "Apply for a transport concession entitlement card as a tertiary or TAFE student",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-transport-concession-entitlement-card-as-a-tertiary-or-tafe-student"
+    },
+    {
+      "text": "Apply for a concession Opal card as a tertiary or TAFE student",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-concession-opal-card-as-a-tertiary-or-tafe-student"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:41Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "5f8e7f8309f45cf91d1f0fc34ea8a9b03dee7e8d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

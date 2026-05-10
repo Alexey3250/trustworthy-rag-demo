@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-support",
+  "source_url": "https://www.service.nsw.gov.au/business/business-support",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "business-support",
+  "title": "Business support",
+  "summary": "This page provides various resources and support options for businesses in New South Wales.",
+  "topics": [
+    "business-support",
+    "small-business",
+    "funding",
+    "disaster-recovery",
+    "mental-health"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Funding finder",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    },
+    {
+      "text": "View support",
+      "url": "https://www.nsw.gov.au/id-support-nsw/be-prepared/protect-your-business"
+    },
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find support",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "View resources",
+      "url": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    },
+    {
+      "text": "Find support",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    },
+    {
+      "text": "View resources",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow/mental-health-support"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:48Z",
+    "last_modified": "5 May 2026",
+    "html_sha1": "3adac1248f74c721854a58a5bc27b91f9cee6b6e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

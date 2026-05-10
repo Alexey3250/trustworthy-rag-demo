@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-program",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-program",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "fertility-treatment-rebate-program",
+  "title": "Fertility Treatment Rebate Program – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for the Fertility Treatment Rebate Program.",
+  "topics": [
+    "fertility-treatment",
+    "rebate-program",
+    "terms-and-conditions",
+    "assisted-reproduction"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Fertility Unit at Royal Prince Alfred Hospital",
+    "Westmead Fertility Centre linked with Westmead Hospital",
+    "Fertility and Research Centre at the Royal Hospital for Women"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Program Guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-program"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:18Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "40239b0201db58e4d088e3605c0fe44c76c3cc1d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-upgrade-a-driving-instructor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-upgrade-a-driving-instructor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-upgrade-a-driving-instructor-licence",
+  "title": "Apply to upgrade a driving instructor licence",
+  "summary": "Find out the requirements and steps for upgrading your driving instructor licence in NSW.",
+  "topics": [
+    "driving-instructor-licence",
+    "nsw-licence",
+    "upgrade-licence"
+  ],
+  "intro": "Upgrading a driving instructor licence may be:\n\nBefore you can get your upgraded driving instructor licence, Transport for NSW (TfNSW) needs to confirm that:\n\nYou can submit your initial application online or at a Service NSW Centre.",
+  "who_can_apply": [
+    "Hold a current NSW driving instructor licence.",
+    "Hold a current full (unrestricted) driver licence.",
+    "Have held an unrestricted driver licence in the class you wish to upgrade to, for a minimum of 3 of the last 4 years (if applicable).",
+    "Hold, or have evidence you are applying for, an employee WWCC number (if wanting to instruct Class C or Class R licence applicants)."
+  ],
+  "what_you_need": [
+    "Paid the non-refundable upgrade fee at a service centre.",
+    "Your driver licence.",
+    "Your driving instructor licence.",
+    "Your current NSW employee Working With Children Check (WWCC) number (Class C and R applicants only).",
+    "A secondary proof of identity document (if you hold an interstate driver licence).",
+    "The PDF form – 'Application for Licence under Driving Instructors Act 1992' (if applying at a service centre).",
+    "If upgrading from automatic to manual transmission, you must have passed an instructor driving practical test with a 95% pass rate in a manual transmission vehicle.",
+    "If adding a class, you must successfully complete the required class of licence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply to upgrade' button.Note: You cannot save and resume your upgrade application once you've started.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the Application for Licence under Driving Instructors Act 1992 – PDF.Note: Do not sign it – your signature must be witnessed at the service centre.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll need to return your original driving instructor licence to TfNSW. The instructions for this will be in the letter accompanying your new upgraded driving instructor licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "secondary proof of identity document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#toc-secondary-identification-documents---list-2"
+    },
+    {
+      "text": "Application for Licence under Driving Instructors Act 1992 – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "WWCC",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "heavy vehicle classes",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#heavy-vehicle-upgrades"
+    },
+    {
+      "text": "recognised training provider",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#recognised-training-providers"
+    },
+    {
+      "text": "Find your Working with Children Check number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to upgrade my driving instructor licence?",
+      "a": "You must hold a current NSW driving instructor licence and a current full (unrestricted) driver licence. You may also need to have held an unrestricted driver licence in the class you wish to upgrade to, for a minimum of 3 of the last 4 years.",
+      "link": null
+    },
+    {
+      "q": "Do I need a Working With Children Check (WWCC) to upgrade?",
+      "a": "If you are applying to instruct Class C or Class R licence applicants, you must hold, or be applying for, an employee WWCC number.",
+      "link": null
+    },
+    {
+      "q": "What happens if I upgrade from automatic to manual transmission?",
+      "a": "You must have passed an instructor driving practical test with a 95% pass rate in a manual transmission vehicle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:31Z",
+    "last_modified": "22 May 2025",
+    "html_sha1": "aa340fb022873b6161aa0948371506bd036323eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

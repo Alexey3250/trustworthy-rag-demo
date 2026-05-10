@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-your-demerit-points",
+  "title": "Check your demerit points",
+  "summary": "Check your demerit points online for free to view your current driving record details.",
+  "topics": [
+    "demerit-points",
+    "driver-licence",
+    "driving-record",
+    "nsw-service"
+  ],
+  "intro": "You can check your demerits points online for free.\n\nThe demerit points check shows:\n\nYou can only see details of your own driver licence.\n\n### Driving record\n\nIf you need a record of your driving history for an employer or a legal matter you can request a driving record.\n\nThe driving record includes any offences recorded against your licence. A fee applies to requests for information.",
+  "who_can_apply": [
+    "Must be able to view details of their own driver licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account to check demerit points online.",
+    "NSW Driver Licence details, or the plate number of a vehicle registered in your name.",
+    "If new to the account, or if details haven't been entered before, you will also need to provide your NSW Driver Licence or vehicle registration details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your MyServiceNSW Account. Enter your NSW Driver Licence or vehicle registration details if your account is new or you have not previously entered them.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Accept the Terms and Conditions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Review your demerit points record.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "how demerit points work",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work"
+    },
+    {
+      "text": "licence suspension and disqualification.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work/licence-suspension-and-disqualification"
+    },
+    {
+      "text": "Visit Transport for NSW to learn more about:",
+      "link": null
+    },
+    {
+      "text": "### Manage your fines",
+      "link": null
+    },
+    {
+      "text": "You can view, pay or query fines online with your MyServiceNSW Account when you add the Fines service.",
+      "link": null
+    },
+    {
+      "text": "### CTP insurance (Green Slip)",
+      "link": null
+    },
+    {
+      "text": "If you committed a driving offence in the past 3 years and 4 months that added demerit points to your licence it could affect the cost of your Compulsory Third Party (CTP) insurance (Green Slip). This applies even if the demerit points have since been removed from your licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "requests for information",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-requests-for-information-fees"
+    },
+    {
+      "text": "demerit points penalty",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    },
+    {
+      "text": "demerit points limit",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work"
+    },
+    {
+      "text": "upcoming double demerit periods",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/demerit-points#Double_demerits"
+    },
+    {
+      "text": "demerit point reward program",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/demerit-points#Demerit_points_reward_changing_driver_behaviour"
+    },
+    {
+      "text": "licence suspension and disqualification",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work/licence-suspension-and-disqualification"
+    },
+    {
+      "text": "Roads and Waterways",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "apply for a 12-month good behaviour period",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period"
+    },
+    {
+      "text": "increase your demerit points limit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only"
+    },
+    {
+      "text": "add the Fines service",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the demerit points check show?",
+      "a": "The demerit points check only shows details of your own driver licence.",
+      "link": null
+    },
+    {
+      "q": "Do I need a record of my driving history for work or legal reasons?",
+      "a": "Yes, if you need a record of your driving history for an employer or a legal matter, you can request a driving record. Note that a fee applies to these requests.",
+      "link": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "q": "How do demerit points work?",
+      "a": "Demerit points are added to your driving record, and you will also be charged with a fine.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:55Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ef0fafeb966bf8b7fea8ca6bbfd4c3ebff9ee6ad",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

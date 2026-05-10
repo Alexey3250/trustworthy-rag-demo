@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/glen-innes-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/glen-innes-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "glen-innes-service-centre",
+  "title": "Glen Innes Service Centre",
+  "summary": "This page provides information about the Glen Innes Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "glen-innes",
+    "accessibility",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-29.7399,151.736"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Inverell Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/inverell-service-centre"
+    },
+    {
+      "text": "Tenterfield Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tenterfield-service-centre"
+    },
+    {
+      "text": "Armidale Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/armidale-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:11Z",
+    "last_modified": null,
+    "html_sha1": "a5e390d9f9aec3f69072675502551e8587c11471",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

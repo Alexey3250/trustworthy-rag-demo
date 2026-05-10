@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-operator-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-operator-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-tow-truck-operator-licence",
+  "title": "Apply for a tow truck operator licence",
+  "summary": "Learn about the requirements and steps to apply for a tow truck operator licence in NSW.",
+  "topics": [
+    "tow-truck-operator-licence",
+    "nsw-fair-trading",
+    "business-licences"
+  ],
+  "intro": "To operate a tow truck business you must hold an operator licence. You can apply for your operator licence by lodging an application online with NSW Fair Trading.\n\nThere are 3 different types of work, and each requires a different licence:\n\nNote: You do not need a tow truck operator licence if you are towing, salvaging or storing exempted vehicles or trailers.",
+  "who_can_apply": [
+    "Must already hold a tow truck drivers certificate.",
+    "If not holding a current tow truck drivers certificate, must provide details of at least one certified nominated driver."
+  ],
+  "what_you_need": [
+    "Documents must be no older than 6 weeks.",
+    "A copy of photo ID (front and back) or passport for all authorised persons.",
+    "National Police Check Certificates for all authorised persons.",
+    "If officers lived overseas within 10 years: National Police Certificates must be in English, or a translated version via Multicultural NSW.",
+    "Certificate of currency for public liability insurance for the nominated place of business (all business types).",
+    "Certificate of currency for on hook insurance for each vehicle, or a completed exemption form.",
+    "A copy of current vehicle registration papers, or on hold receipts/lease for non-owned tow trucks.",
+    "Certificate of currency for public liability insurance for the holding yard(s).",
+    "Proof of ownership of the holding yard(s).",
+    "For Company (Pty Ltd): Certificate of incorporation AND Latest annual company statement/extract.",
+    "For Sole Trader: Certificate Registration of Business Name."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a licence.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the form Application for a tow truck operator licence – PDF.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59810.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Submit your application with payment to towtrucks@customerservice.nsw.gov.au",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If your application is approved you will be sent your licence.",
+      "link": null
+    },
+    {
+      "text": "If your application is refused, you'll be notified in writing. You can apply for a review if you disagree with the decision.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59824.pdf"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "exempted vehicles or trailers",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/driving-or-operating-a-tow-truck-nsw/tow-truck-industry-schedule-1-exempt-motor-vehicles"
+    },
+    {
+      "text": "ASIC",
+      "url": "https://www.asic.gov.au/"
+    },
+    {
+      "text": "Application for a tow truck operator licence – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59810.pdf"
+    },
+    {
+      "text": "apply for a review",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59824.pdf"
+    },
+    {
+      "text": "Tow truck operator licence – supporting documents checklist – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59811.pdf"
+    },
+    {
+      "text": "Tow truck operator licences – Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-operator-licences"
+    },
+    {
+      "text": "Tow truck operator self-audit checklist – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/tow-truck-operator-self-audit-checklist"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "tow truck drivers certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a tow truck operator licence?",
+      "a": "You must hold an operator licence to operate a tow truck business. However, you do not need a licence if you are towing, salvaging or storing exempted vehicles or trailers.",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/driving-or-operating-a-tow-truck-nsw/tow-truck-industry-schedule-1-exempt-motor-vehicles"
+    },
+    {
+      "q": "What is the eligibility requirement to apply for the licence?",
+      "a": "You must already hold a tow truck drivers certificate. If you do not have a current certificate, you must provide details for at least one certified nominated driver.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate"
+    },
+    {
+      "q": "What documents are needed for the application?",
+      "a": "Required documents include photo ID for all authorised persons, National Police Check Certificates, and proof of insurance and business details depending on your business structure.",
+      "link": null
+    },
+    {
+      "q": "Where can I find a list of exempt vehicles?",
+      "a": "A list of exempt vehicles is available on the NSW Fair Trading website.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:43Z",
+    "last_modified": "26 November 2025",
+    "html_sha1": "da64746b8495ad101f057de601081215783d789e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

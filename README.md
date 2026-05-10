@@ -17,9 +17,10 @@ A retrieval-grounded chatbot that answers questions about NSW government service
 └──────────────────────────────────────────────────┘
 ```
 
+**Pipeline artefacts** (`data/parsed`, `data/enriched`, `cache/raw`, versus `corpus/`) — see [docs/DATA-PIPELINE.md](docs/DATA-PIPELINE.md).
+
 ---
 
-## The data structure
 
 Every Service NSW page becomes one structured JSON document. Same shape for everything; only the fields that exist on a given page are filled in.
 
@@ -146,6 +147,38 @@ ollama pull nomic-embed-text
 # uncomment EMBED_BASE_URL/_API_KEY/_MODEL in .env.local
 npm run build-index
 ```
+
+---
+
+## Hybrid retrieval in production (BM25 **and** dense)
+
+Cerebras has **no embeddings API**. Dense retrieval needs a separate OpenAI-compatible `/v1/embeddings` endpoint. The **`EMBED_MODEL` (and provider) must be the same** as used when you ran `npm run build-index` — otherwise query vectors live in the wrong geometry than the corpus vectors.
+
+Recommended path:
+
+1. **Locally** — set env (OpenAI example; any compatible host works):
+
+```bash
+cd chatbot
+export EMBED_BASE_URL=https://api.openai.com/v1
+export EMBED_API_KEY=sk-...
+export EMBED_MODEL=text-embedding-3-small
+npm run build-index -- --force
+```
+
+Rebuild `chatbot/corpus/.embeddings.json` (~2–4 million floats for ~2.4 k pages; tens of MB JSON — normal).
+
+2. **Vercel** — add matching production env vars:
+
+| Variable | Example |
+|---------|---------|
+| `EMBED_BASE_URL` | `https://api.openai.com/v1` |
+| `EMBED_API_KEY` | `sk-...` |
+| `EMBED_MODEL` | `text-embedding-3-small` |
+
+Leave them unset → BM25-only (still fine for keyword-heavy queries).
+
+If you embed with **local Ollama** (`nomic-embed-text`, 768‑d), production dense **cannot** hit OpenAI unless you **re‑run `build-index`** with OpenAI — dimensions differ (`text-embedding-3-small` is 1536‑d unless you configure dimension reduction separately).
 
 ---
 

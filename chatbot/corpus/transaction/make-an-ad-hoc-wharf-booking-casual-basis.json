@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-an-ad-hoc-wharf-booking-casual-basis",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-an-ad-hoc-wharf-booking-casual-basis",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-an-ad-hoc-wharf-booking-casual-basis",
+  "title": "Make an ad hoc wharf booking (casual basis)",
+  "summary": "This page explains how commercial vessel operators can make one-off, casual wharf bookings in Sydney Harbour online.",
+  "topics": [
+    "wharf-booking",
+    "commercial-vessel",
+    "sydney-harbour",
+    "ad-hoc-booking"
+  ],
+  "intro": "There are 2 types of Sydney Harbour wharf bookings available to commercial vessel operators – either bulk or ad hoc.\n\nAd hoc bookings are one-off bookings made on a casual basis. These bookings can be made and paid for online.\n\nTo make these bookings you need to register to obtain login details for the online system.",
+  "who_can_apply": [
+    "Commercial vessel operators"
+  ],
+  "what_you_need": [
+    "Login and password for the Wharf Booking System (obtained by registering using the 'Charter Wharf Booking System Application' PDF form)",
+    "Vessel name",
+    "Survey or registration number",
+    "Wharf name and requested time slot"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Book online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Read and confirm the terms and conditions.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Reserve or confirm the booking.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Confirmation will be given when payment is made.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Online bookings using the Wharf Booking System are only available to commercial vessel operators such as a ferry service.",
+      "link": null
+    },
+    {
+      "text": "Charter Wharf timeslots become available for ad-hoc booking on the Charter Wharf Booking System 4 months in advance, at all wharves except Casino wharf. The 15 minute timeslots become available in a 24 hour block at 10am every day.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Charter Wharf Booking System Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065556-charter-wharf-booking-system-application.pdf"
+    },
+    {
+      "text": "Wharf access – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/waterways/commercial-vessels/wharf-access"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What types of wharf bookings are available?",
+      "a": "There are two types of Sydney Harbour wharf bookings for commercial vessel operators: bulk or ad hoc.",
+      "link": null
+    },
+    {
+      "q": "How can I make an ad hoc booking?",
+      "a": "Ad hoc bookings are one-off bookings that can be made and paid for online.",
+      "link": null
+    },
+    {
+      "q": "What do I need to book online?",
+      "a": "You need to have registered using the 'Charter Wharf Booking System Application' PDF form and received your login details, along with the vessel name, survey or registration number, and the wharf name and requested time slot.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:11Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "9cabf7e168ad121dc3a8e25e732f01d62eb8e99b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

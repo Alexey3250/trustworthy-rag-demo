@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/international-driving-permit-idp",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/international-driving-permit-idp",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "international-driving-permit-idp",
+  "title": "International driving permit (IDP) – Privacy collection notice",
+  "summary": "This notice explains how Service NSW collects, uses, and discloses your personal information when you apply for an International Driver Permit (IDP).",
+  "topics": [
+    "international-driver-permit",
+    "privacy-notice",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": "Service NSW is collecting your personal information to assist with your application for an International Driver Permit (IDP). This notice sets out how we use, collect and disclose personal information about your application.\n\nApplying for the International Driver Permit requires you to provide personal information to Service NSW. If you do not provide this information, Service NSW may not be able to assist with your application.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "driver licence details",
+    "IDP booklet number",
+    "email address",
+    "payment method details"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:53Z",
+    "last_modified": "13 October 2025",
+    "html_sha1": "6880e8211672fc682dde8c95c3d4fd3ac81f40af",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

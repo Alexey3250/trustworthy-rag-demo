@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-national-livestock-welfare-work-and-rest-exemption",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-national-livestock-welfare-work-and-rest-exemption",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-national-livestock-welfare-work-and-rest-exemption",
+  "title": "Use the National Livestock Welfare Work and Rest Exemption",
+  "summary": "If you transport livestock by road in NSW and are enrolled in the NSW Livestock Loading Scheme, you can use an exemption to exceed work time limits without penalty.",
+  "topics": [
+    "livestock-transport",
+    "work-time-limits",
+    "nsw-nhi-scheme",
+    "heavy-vehicles"
+  ],
+  "intro": "If you transport livestock by road in NSW and are enrolled in the NSW Livestock Loading Scheme (NSWLLS), you can use an exemption to exceed work time limits, without penalty.\n\nDrivers of fatigue-regulated heavy vehicles carrying livestock can extend their work time by up to one hour in response to an incident or potential risk to the welfare of loaded stock.\n\nRandom compliance checks and inspections may occur at on-road intercepts.",
+  "who_can_apply": [
+    "Transporting livestock by road in NSW",
+    "Enrolled in the NSW Livestock Loading Scheme (NSWLLS)",
+    "Driving a fatigue-regulated heavy vehicle carrying livestock"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Livestock Welfare Work and Rest Exemption Notice",
+      "url": "https://www.nhvr.gov.au/document/226/"
+    },
+    {
+      "text": "NSW Livestock Loading Scheme (NSWLLS) - Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock"
+    },
+    {
+      "text": "NHVR – National notices",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes/national-notices"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can use this exemption?",
+      "a": "Drivers of fatigue-regulated heavy vehicles carrying livestock who are enrolled in the NSW Livestock Loading Scheme (NSWLLS).",
+      "link": null
+    },
+    {
+      "q": "How much can I extend my work time?",
+      "a": "You can extend your work time by up to one hour if responding to an incident or potential risk to the welfare of loaded stock.",
+      "link": null
+    },
+    {
+      "q": "Will I be checked while driving?",
+      "a": "Random compliance checks and inspections may occur at on-road intercepts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:57Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "926204a8c21773f810588bce72f6efd02321eea9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

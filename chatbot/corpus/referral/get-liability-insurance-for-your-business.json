@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-liability-insurance-for-your-business",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-liability-insurance-for-your-business",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-liability-insurance-for-your-business",
+  "title": "Get liability insurance for your business",
+  "summary": "This page provides information on why business owners should consider getting liability insurance to protect themselves and their business.",
+  "topics": [
+    "business-insurance",
+    "liability-insurance",
+    "business-owners",
+    "risk-management"
+  ],
+  "intro": "Business owners are legally responsible for damages or injuries to another person or property. If you own a business, you may want to get liability insurance to protect you and your business.\n\nThere are 3 main types of liability insurance to consider:\n\nYou can speak with an insurance company or broker to get liability insurance.\n\nAdditionally, you may like to consider income protection, insurance for your tools or technology and cybercrime insurance.\n\nTo learn more about insurance for your business, visit the business.gov.au website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "business.gov.au website",
+      "url": "https://business.gov.au/risk-management/insurance/business-insurance"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:55Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "5ebd19fb34df09886146ca80d4ddc726c040739a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-individual-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-individual-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-individual-property-licence",
+  "title": "Renew or restore an individual property licence",
+  "summary": "This page provides information on how to renew or restore an individual property licence online.",
+  "topics": [
+    "property-licence",
+    "renew",
+    "individual-licence"
+  ],
+  "intro": "If you hold an individual property licence, a renewal notice will be emailed to you prior to your licence expiry date. You will then be able to renew your licence online.\n\nIf your licence has expired:\n\nYou cannot work if your licence has expired.\n\nTo find your property licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Have received a licence renewal notice from NSW Fair Trading",
+    "Be a fit and proper person to hold a licence and not be disqualified",
+    "Apply within 3 months from the expiry date of your licence"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number",
+    "Your renewal number",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew or restore online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyService NSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew or restore your individual property licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Property certificates and licences – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/property-licence-or-certificate-of-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-or-upgrade-an-individual-property-licence"
+    },
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Add or remove a category on an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-an-individual-property-licence"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Renew a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my property licence expires?",
+      "a": "You cannot work if your licence has expired.",
+      "link": null
+    },
+    {
+      "q": "How can I find my property licence number and details?",
+      "a": "You can visit Verify NSW to find your property licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "q": "How do I renew or restore my individual property licence?",
+      "a": "Select the 'Renew or restore online' button, log in or create your MyService NSW Account, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:20Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "bebda44168b85badd285261a1814e452a8a3e2aa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

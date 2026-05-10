@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-2-program",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/fertility-treatment-rebate-2-program",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "fertility-treatment-rebate-2-program",
+  "title": "Fertility Treatment Rebate-2 Program – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for the Fertility Treatment Rebate-2 Program.",
+  "topics": [
+    "fertility-treatment",
+    "rebate-program",
+    "terms-and-conditions",
+    "health-care"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Fertility Unit at Royal Prince Alfred Hospital",
+    "Westmead Fertility Centre linked with Westmead Hospital",
+    "Fertility and Research Centre at the Royal Hospital for Women"
+  ],
+  "what_you_need": [
+    "rates notice",
+    "utility bill",
+    "home insurance",
+    "current residential tenancy agreement",
+    "screenshot from the Rental Bonds Database showing details of the relevant lease"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Apply for the Fertility Treatment Rebate-2",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "text": "Guidelines",
+      "link": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-2-program"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-2-program"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "as defined by the Australian Taxation Office (ATO)",
+      "url": "https://www.ato.gov.au/individuals-and-families/income-deductions-offsets-and-records/income-you-must-declare/taxable-assessable-and-exempt-income"
+    },
+    {
+      "text": "ATO notice of assessment",
+      "url": "https://www.ato.gov.au/individuals-and-families/your-tax-return/your-notice-of-assessment"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Program Guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-2-program"
+    },
+    {
+      "text": "Apply for the Fertility Treatment Rebate-2",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-2-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for the Fertility Treatment Rebate-2?",
+      "a": "You can apply for the rebate using the dedicated application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "q": "What are the eligibility criteria for this program?",
+      "a": "The program is linked to specific fertility units, including the Fertility Unit at Royal Prince Alfred Hospital, Westmead Fertility Centre linked with Westmead Hospital, and the Fertility and Research Centre at the Royal Hospital for Women.",
+      "link": null
+    },
+    {
+      "q": "What evidence do I need to support my eligibility and costs?",
+      "a": "You must provide documents such as a rates notice, utility bill, home insurance, current residential tenancy agreement, or a screenshot from the Rental Bonds Database.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:10Z",
+    "last_modified": "11 March 2025",
+    "html_sha1": "ae5724b0ed56adafdd02a66dc59fe4afadb1db88",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

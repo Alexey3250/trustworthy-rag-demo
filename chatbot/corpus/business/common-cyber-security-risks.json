@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/common-cyber-security-risks",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/common-cyber-security-risks",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "common-cyber-security-risks",
+  "title": "Protect your small business from common cyber security risks",
+  "summary": "This page provides small businesses with information on common cyber security risks and how to protect themselves.",
+  "topics": [
+    "cyber-security",
+    "small-business",
+    "risks",
+    "data-protection"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Small business owners"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-connect/resources?keyword=cyber+security&page=1&resourceType=Video%2CPodcast%2CWebinar"
+    },
+    {
+      "text": "Privacy and cyber security – Service NSW Business Bureau online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resource/ziit2wtf"
+    },
+    {
+      "text": "Small Business Cyber Security – Australian Cyber Security Centre",
+      "url": "https://www.cyber.gov.au/resources-business-and-government/essential-cyber-security/small-business-cyber-security"
+    },
+    {
+      "text": "Protect your business – ID Support NSW",
+      "url": "https://www.nsw.gov.au/id-support-nsw/be-prepared/protect-your-business"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are some common cyber security risks for small businesses?",
+      "a": "Common risks include phishing, ransomware, and weak passwords. Businesses should also be aware of risks related to physical security and employee training.",
+      "link": null
+    },
+    {
+      "q": "How can I protect my business from cyber attacks?",
+      "a": "Protecting your business involves implementing strong passwords, regularly updating software, training employees, and having a backup plan.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more resources on cyber security?",
+      "a": "You can find online resources through Service NSW Business Bureau or consult the Australian Cyber Security Centre for detailed guidance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:34Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "5e9a266f112f69d06f0bd1721b17a3fed0d6327b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

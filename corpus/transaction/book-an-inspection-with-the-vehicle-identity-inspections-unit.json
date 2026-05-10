@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-an-inspection-with-the-vehicle-identity-inspections-unit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-an-inspection-with-the-vehicle-identity-inspections-unit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-an-inspection-with-the-vehicle-identity-inspections-unit",
+  "title": "Book an inspection with the Vehicle Identity & Inspections Unit",
+  "summary": "Find out how to book an inspection with the Vehicle Identity & Inspections Unit (VIIU) if your vehicle's identity cannot be easily established.",
+  "topics": [
+    "vehicle-inspection",
+    "viiu",
+    "service-nsw",
+    "vehicle-identity"
+  ],
+  "intro": "If the identity of your vehicle cannot be easily established, you'll be referred to the Vehicle Identity & Inspections Unit (VIIU), usually by a mechanic or other vehicle specialist.\n\nYou can make your first booking with the VIIU in person at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "vehicle registration details",
+    "the inspection report indicating a VIIU inspection is required",
+    "your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and arrange a time for the VIIU inspection.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Book a VIIU inspection for a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    },
+    {
+      "text": "Change or cancel a Vehicle Identity & Inspections Unit booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-vehicle-identity-inspections-unit-booking"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:28Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "6acb101b57229c0442e3bbb444f8661ab87fb109",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

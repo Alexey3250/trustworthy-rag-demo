@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/acmena-youth-justice-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/acmena-youth-justice-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "acmena-youth-justice-centre",
+  "title": "Acmena Youth Justice Centre",
+  "summary": "This page provides information about the Acmena Youth Justice Centre.",
+  "topics": [
+    "youth-justice",
+    "acmena",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/acmena-youth-justice-centre",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/acmena-youth-justice-centre"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:18Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ed5fed6f0c25c51f1f2e49e57b66e9d870ab02ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

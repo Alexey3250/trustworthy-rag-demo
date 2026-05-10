@@ -1,0 +1,182 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-demolition-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-demolition-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-demolition-licence",
+  "title": "Apply for a demolition licence",
+  "summary": "This page provides information on how to apply for an unrestricted or restricted demolition licence in NSW.",
+  "topics": [
+    "demolition-licence",
+    "construction",
+    "safety",
+    "business-licence"
+  ],
+  "intro": "There are 2 types of demolition licence. You can apply for them both online.\n\nNote: New demolition licence regulations commence from 1 March 2023. For more information, please visit new regulations for demolition licence holders.\n\nUnrestricted demolition licence (DE1) – demolish (or partly demolish) any structure or part of a structure that:\n\nRestricted demolition licence (DE2) – demolish (or partly demolish) any structure or part of a structure that:\n\nYou can add unrestricted demolition types to a DE2 licence if you want to carry out some of the work of a DE1 licence holder.\n\nNo licence is required for the demolition of buildings/structures/installations that are less than 6 metres in height, and that do not involve DE1 or DE2 conditions.\n\nNote: The person who'll be holding the licence must complete the application.\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Be operating a business",
+    "Have an Australian Business Number (ABN) or Australian Company Number (ACN)",
+    "Be a legal representative of the business",
+    "Be aged 18 or over",
+    "Have at least one approved supervisor",
+    "For a company, be a director",
+    "For all others, be the ABN holder/owner or the manager of the business"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Proof of identity (such as a driver licence, passport, or Medicare card)",
+    "A workers compensation insurance certificate of currency (if applicable)",
+    "A public liability insurance certificate of currency that lists your business activity as ‘demolition’",
+    "Your nominated supervisor(s)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.Note: You can save and resume your application, but if you have not submitted it within 60 days, any details you’ve entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Gather and upload your supporting documents, including the supervisor nomination form(s) (if applicable).",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Make your payment.",
+      "link": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "n": 6,
+      "text": "Submit your application.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Visit a Service NSW Centre with your photo ID within 30 days of submitting your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After you’ve submitted your application, SafeWork NSW will assess it and decide if a demolition licence can be issued.",
+      "link": null
+    },
+    {
+      "text": "If you withdraw your application or are refused a licence, the processing fee will not be refunded.",
+      "link": null
+    },
+    {
+      "text": "Demolition licences last for 5 years.",
+      "link": null
+    },
+    {
+      "text": "You must carry out a risk assessment before you start any demolition work.",
+      "link": null
+    },
+    {
+      "text": "You must display a copy of your licence at the demolition site.",
+      "link": null
+    },
+    {
+      "text": "Your named supervisor must be present when you carry out demolition work.",
+      "link": null
+    },
+    {
+      "text": "You must notify SafeWork NSW at least 5 working days before you carry out any demolition work that involves:",
+      "link": null
+    },
+    {
+      "text": "To make sure you have all the information you need to complete this transaction, please visit SafeWork NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "new regulations for demolition licence holders",
+      "url": "https://www.safework.nsw.gov.au/news/safework-public-notice/new-regulations-for-demolition-licence-holders"
+    },
+    {
+      "text": "named supervisors (unrestricted)",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/unrestricted-demolition-licence#named-supervisors"
+    },
+    {
+      "text": "named supervisors (restricted)",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/restricted-demolition-licence#named-supervisors"
+    },
+    {
+      "text": "Demolition supervisor nomination form – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0005/49343/SW08100-demolition-supervisor-nomination-application-form.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/your-industry/construction/demolition"
+    },
+    {
+      "text": "Demolition licence: Unrestricted – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/unrestricted-demolition-licence"
+    },
+    {
+      "text": "Demolition licence: Restricted – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/restricted-demolition-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Apply for an asbestos removal licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-removal-licence"
+    },
+    {
+      "text": "Apply for a blasting explosives user licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-blasting-explosives-user-licence"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of demolition licences are available?",
+      "a": "There are two types: Unrestricted (DE1) and Restricted (DE2). You can also add unrestricted types to a DE2 licence.",
+      "link": null
+    },
+    {
+      "q": "Do I need a licence for all demolition work?",
+      "a": "No, a licence is not required for demolishing buildings, structures, or installations that are less than 6 metres in height, and that do not involve DE1 or DE2 conditions.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a demolition licence?",
+      "a": "You must select 'Apply online', log in or create a MyServiceNSW Account, complete the online form, upload supporting documents, make payment, and submit your application. You must then visit a Service NSW Centre with your photo ID within 30 days.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:02Z",
+    "last_modified": "28 May 2025",
+    "html_sha1": "de790c8998d26ed1f45d4d3dbf91b609d861b58b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

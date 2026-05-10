@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-replacement-or-cancellation-of-a-heavy-vehicle-cba-learners-logbook",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-replacement-or-cancellation-of-a-heavy-vehicle-cba-learners-logbook",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-replacement-or-cancellation-of-a-heavy-vehicle-cba-learners-logbook",
+  "title": "Request a replacement or cancellation of a Heavy Vehicle CBA Learner's Logbook",
+  "summary": "Find out how to replace or cancel your Heavy Vehicle CBA Learner's Logbook if you are updating or converting to a different vehicle class.",
+  "topics": [
+    "heavy-vehicle",
+    "learner-logbook",
+    "service-nsw",
+    "licence-replacement"
+  ],
+  "intro": "When you're issued with your HVCBA Learner Licence, you'll receive a Learner Driver Logbook so you and your supervising driver(s) can record your driving performance.\n\nIf you need to replace or cancel your logbook because you're updating or converting to drive a vehicle from a different class, you'll need to visit a Service NSW Centre.\n\nYou may need to pay a replacement fee.",
+  "who_can_apply": [
+    "You are updating or converting to drive a vehicle from a different class."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Replacement Learner's Logbook Application'",
+    "Payment for the replacement logbook (if applicable)",
+    "Proof of identity",
+    "Your old logbook (if cancelling it)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather any required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Heavy Vehicle Driver Handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/heavy-vehicle-driver-handbook_120722.pdf"
+    },
+    {
+      "text": "Heavy vehicle competency based assessment (HVCBA) – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/tests-for-heavy-vehicle-licences/heavy-vehicle-competency-based-assessment"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Request a National Driver Work Diary (log book)",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Learner Driver Logbook?",
+      "a": "When you receive your HVCBA Learner Licence, you will get a Learner Driver Logbook to record your driving performance for you and your supervising driver(s).",
+      "link": null
+    },
+    {
+      "q": "When do I need to replace or cancel my logbook?",
+      "a": "You need to replace or cancel your logbook if you are updating or converting to drive a vehicle from a different class.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my request?",
+      "a": "You must visit a Service NSW Centre to submit your request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:40Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "abb3a5d18043536664d0578c68741a67d512816d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

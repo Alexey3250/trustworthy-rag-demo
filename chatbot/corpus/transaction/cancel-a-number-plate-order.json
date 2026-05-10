@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-number-plate-order",
+  "title": "Cancel a number plate order",
+  "summary": "You can cancel an order for number plates either at a Service NSW Centre or by calling myPlates.",
+  "topics": [
+    "number-plates",
+    "cancel-order",
+    "service-nsw"
+  ],
+  "intro": "If you've placed an order for a number plate, and you now want to cancel it, you can do this either at a Service NSW Centre or by calling myPlates on 02 9433 1600.\n\nIf you cancel on the same business day as you placed your order (or the next business day if your order was placed out of hours) you'll get a full refund.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your payment invoice or plate number",
+    "your proof of identity"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "myPlates",
+      "url": "https://www.myplates.com.au"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to collect number plates from another service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre"
+    },
+    {
+      "text": "Replace or change number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    },
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:51Z",
+    "last_modified": "30 July 2025",
+    "html_sha1": "ac84bf14be3a469bf62756beb0218c56e49edea2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

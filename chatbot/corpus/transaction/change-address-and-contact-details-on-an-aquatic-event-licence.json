@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-an-aquatic-event-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-an-aquatic-event-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-and-contact-details-on-an-aquatic-event-licence",
+  "title": "Change address and contact details on an aquatic event licence",
+  "summary": "Update the contact details on your aquatic event licence online if your current email or mobile phone number is already recorded with Transport for NSW.",
+  "topics": [
+    "aquatic-event-licence",
+    "contact-details",
+    "update-online",
+    "transport-for-nsw"
+  ],
+  "intro": "If you want to update the contact details on your aquatic event licence, you can do this online as long as your current email address or mobile phone number is recorded with Transport for NSW.",
+  "who_can_apply": [
+    "Your current email address or mobile phone number must be recorded with Transport for NSW."
+  ],
+  "what_you_need": [
+    "Your name and licence number",
+    "Your new contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your licence or registration number, and your name.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Aquatic event licence details – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/aquatic-event-licences/event-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an aquatic licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-aquatic-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:07Z",
+    "last_modified": "18 March 2026",
+    "html_sha1": "47e971123e29ac67d14e96f9d853ecffa596492b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

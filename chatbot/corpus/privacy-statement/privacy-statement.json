@@ -1,0 +1,168 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-statement",
+  "source_url": "https://www.service.nsw.gov.au/privacy-statement",
+  "category": "privacy-statement",
+  "article_kind": "content",
+  "slug": "privacy-statement",
+  "title": "Privacy statement",
+  "summary": "This statement explains how Service NSW collects, uses, and manages personal information to provide services and maintain records.",
+  "topics": [
+    "privacy",
+    "personal-information",
+    "data-collection",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "log into your MyServiceNSW Account (for your profile information)",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "go to your local Service Centre",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "contact Service NSW by phone on 13 77 88 or email info@service.nsw.gov.au.",
+      "link": "tel:137788"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Service NSW (One-stop Access to Government Services) Act 2013",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2013-039"
+    },
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    },
+    {
+      "text": "Health Records and Information Privacy Act 2002",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-071"
+    },
+    {
+      "text": "Department of Customer Service",
+      "url": "https://www.nsw.gov.au/customer-service/who-we-are/access-to-information/privacy"
+    },
+    {
+      "text": "https://www.idmatch.gov.au/resources/privacy-statement-identity-verification-services",
+      "url": "https://www.idmatch.gov.au/resources/identity-verification-services-privacy-statement"
+    },
+    {
+      "text": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-confirmation-eservices-cces"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/privacy/explanation/"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
+      "text": "X",
+      "url": "https://x.com/en/privacy#x-privacy-1"
+    },
+    {
+      "text": "Facebook Ad Preferences",
+      "url": "https://www.facebook.com/help/109378269482053"
+    },
+    {
+      "text": "LinkedIn Ads Settings",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a427426/manage-your-linkedin-ads-settings?lang=en"
+    },
+    {
+      "text": "X Ad Preferences",
+      "url": "https://help.x.com/en/safety-and-security/privacy-controls-for-tailored-ads"
+    },
+    {
+      "text": "Deactivate or delete your Facebook account",
+      "url": "https://www.facebook.com/help/250563911970368/?helpref=hc_fnav"
+    },
+    {
+      "text": "Delete your data on LinkedIn",
+      "url": "https://www.linkedin.com/help/linkedin/answer/93500/delete-your-data-on-linkedin?lang=en"
+    },
+    {
+      "text": "Delete your Instagram account",
+      "url": "https://help.instagram.com/370452623149242/?helpref=hc_fnav"
+    },
+    {
+      "text": "Deactivate or delete your X account",
+      "url": "https://help.x.com/en/managing-your-account/how-to-deactivate-x-account"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "Privacy Management Plan",
+      "url": "https://www.service.nsw.gov.au/system/files/2026-04/ServiceNSW-Privacy-Management-Plan-April-2026.pdf"
+    },
+    {
+      "text": "Our Data Breach Policy",
+      "url": "https://www.service.nsw.gov.au/system/files/2025-12/Service%20NSW%20Data%20Breach%20Policy%20December%202025_0.pdf"
+    },
+    {
+      "text": "MyServiceNSW Account collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "website privacy notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics"
+    },
+    {
+      "text": "verify your identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "customer behaviour policy",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/your-responsibilities"
+    },
+    {
+      "text": "advertising analytics",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics#advertising-analytics"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of personal information does Service NSW collect?",
+      "a": "Service NSW collects information to assist with transactions, provide transaction details, and gather information from online interactions or visits to Service Centres.",
+      "link": null
+    },
+    {
+      "q": "How does Service NSW use personal information?",
+      "a": "Information is used to process customer transactions, update and maintain customer records, and support business operations, including maintaining records of calls and chats.",
+      "link": null
+    },
+    {
+      "q": "Do you collect data from partner or client agencies?",
+      "a": "Yes, Service NSW collects information from partner agencies (like Transport for NSW) to process transactions, and from client agencies to update and maintain primary customer records.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I have privacy concerns or complaints?",
+      "a": "The page provides sections for privacy enquiries and complaints, detailing how citizens can raise concerns.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:19Z",
+    "last_modified": "30 April 2026",
+    "html_sha1": "c9d4a832f7aa8281b00d6e571bc81dbbad55b44b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

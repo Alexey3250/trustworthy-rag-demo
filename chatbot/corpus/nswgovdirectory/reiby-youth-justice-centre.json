@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/reiby-youth-justice-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/reiby-youth-justice-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "reiby-youth-justice-centre",
+  "title": "Reiby Youth Justice Centre",
+  "summary": "This page provides information about the Reiby Youth Justice Centre.",
+  "topics": [
+    "youth-justice",
+    "reiby",
+    "nsw-justice",
+    "youth-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/reiby-youth-justice-centre",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/reiby-youth-justice-centre"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:17Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d95b1ed7b700dec896c5ff7b1c69e9d963aa6e98",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

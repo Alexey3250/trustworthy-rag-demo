@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-an-appointment-at-a-service-centre",
+  "title": "Book an appointment at a service centre",
+  "summary": "Book an appointment online to visit a service centre and complete transactions that require an in-person visit.",
+  "topics": [
+    "service-centre",
+    "appointment",
+    "booking",
+    "transactions"
+  ],
+  "intro": "Some transactions require you to visit a service centre to complete them.\n\nIf you'd like to avoid wait times or delays at the service centre, book an appointment online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Check what you need to bring to your appointment and make sure you've completed any paperwork that's required before you arrive at the service centre."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Book an appointment' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select your appointment type from the drop-down menu.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the most convenient service centre.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Choose a date and time for your appointment.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Change or cancel a service centre booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-service-centre-booking"
+    },
+    {
+      "text": "Book a Driver Knowledge Test (DKT) in-person",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-knowledge-test-dkt-in-person"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Support and guidance for new arrivals",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "Book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Book live captioning services at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    },
+    {
+      "text": "Book Auslan video remote interpreting at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:11Z",
+    "last_modified": "4 November 2025",
+    "html_sha1": "31c62b444acd9251121378c8e488a50bd6bf1b42",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

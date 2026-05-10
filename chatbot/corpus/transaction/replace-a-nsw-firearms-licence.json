@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-firearms-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-firearms-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-nsw-firearms-licence",
+  "title": "Replace a NSW firearms licence",
+  "summary": "Learn how to replace a lost or stolen NSW firearms licence.",
+  "topics": [
+    "firearms-licence",
+    "nsw-police",
+    "replacement-licence"
+  ],
+  "intro": "If your NSW firearms licence has been lost or stolen, you must report it to the NSW Police via the Community Portal, within 14 days.\n\nYou'll get an Event number which you'll need to provide when you email your request to the Firearms Registry for your licence replacement.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The Event number provided by NSW Police",
+    "A written request for a replacement firearms licence card",
+    "Proof of identity (PDF)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Lodge your request for a replacement licence card through Duplicate Firearms Licence Request – Online Service, and quote your Event number.",
+      "link": "https://www.police.nsw.gov.au/online_services/firearms/duplicate_firearms_licence_request"
+    },
+    {
+      "n": 2,
+      "text": "Receive the Photograph Advice letter which will be posted to you.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre with your Photograph Advice letter, proof of identity and payment, and have your photo taken for your replacement licence card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must attend the service centre before the expiry date of your Photograph Advice letter or it will not be accepted.",
+      "link": null
+    },
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562, between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": "tel:1300362562"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Community Portal",
+      "url": "https://portal.police.nsw.gov.au/s/login/?ec=302&startURL=%2Fs%2F"
+    },
+    {
+      "text": "proof of identity – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/133193/FACT_SHEET_100_PT_ID.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/licences#furtherinfo"
+    },
+    {
+      "text": "Duplicate Firearms Licence Request – Online Service",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/duplicate_firearms_licence_request"
+    },
+    {
+      "text": "Information on obtaining a firearms licence in NSW – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0016/131164/Fact_Sheet_Info_on_obtaining_a_Firearms_Licence.pdf"
+    },
+    {
+      "text": "All about NSW Firearms Registry",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-individual"
+    },
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Renew a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Update details on a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my NSW firearms licence is lost or stolen?",
+      "a": "You must report it to the NSW Police via the Community Portal within 14 days.",
+      "link": "https://portal.police.nsw.gov.au/s/login/?ec=302&startURL=%2Fs%2F"
+    },
+    {
+      "q": "What do I need to replace my licence?",
+      "a": "You need the Event number from NSW Police, a written request for a replacement firearms licence card, proof of identity (PDF), and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:24Z",
+    "last_modified": "7 March 2025",
+    "html_sha1": "84b9f7fdc5fcf74eb98b518ad5f5313288aa74b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

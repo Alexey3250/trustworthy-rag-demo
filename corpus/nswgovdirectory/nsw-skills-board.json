@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-skills-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-skills-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-skills-board",
+  "title": "NSW Skills Board",
+  "summary": "This page provides information about the NSW Skills Board, which is responsible for skills and training in New South Wales.",
+  "topics": [
+    "nsw-skills-board",
+    "training",
+    "skills",
+    "education"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://education.nsw.gov.au/skills-nsw/nsw-skills-board",
+      "url": "https://education.nsw.gov.au/skills-nsw/nsw-skills-board"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Education, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:58Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "9245283a950641c6ca4ae43288689b8c0b825f1e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

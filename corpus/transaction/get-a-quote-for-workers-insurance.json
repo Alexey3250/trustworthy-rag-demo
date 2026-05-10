@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-a-quote-for-workers-insurance",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-a-quote-for-workers-insurance",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-a-quote-for-workers-insurance",
+  "title": "Get a quote for workers insurance",
+  "summary": "Use the quote tool provided by iCare to estimate your workers compensation premium if you are an employer in NSW.",
+  "topics": [
+    "workers-insurance",
+    "employer",
+    "premium-quote",
+    "nsw"
+  ],
+  "intro": "Insurance and Care NSW (icare) provides a quote tool to help you estimate your workers compensation premium.\n\nIf you are an employer in NSW you must have a workers insurance policy unless you are considered an ‘exempt employer'.\n\nYou may be exempt if:\n\nEven if you are exempt, if one of your workers is injured you must provide assistance with injury management and return to work.",
+  "who_can_apply": [
+    "employ contractors",
+    "belong to a group for workers insurance purposes",
+    "have estimated annual wages of $7,500 or less",
+    "work with asbestos",
+    "are involved in coal mining"
+  ],
+  "what_you_need": [
+    "your business activity or your Workers Compensation Industry Classification (WIC)",
+    "your total number of employees and annual wages",
+    "apprentices (total number and wages)",
+    "contractors (total number, contract type and value, labour costs)",
+    "workers exposed to asbestos (total number and wages, description of work)",
+    "information on your applicable details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Get a quote' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to get a quote.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Details provided on contractors and/or workers exposed to asbestos will be included in your premium when you take out a policy.",
+      "link": null
+    },
+    {
+      "text": "The estimator provides indicative figures only.",
+      "link": null
+    },
+    {
+      "text": "The total premium paid depends on a number of factors including:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "contractors",
+      "url": "https://www.icare.nsw.gov.au/employers/who-needs-workers-insurance/classifying-your-workers"
+    },
+    {
+      "text": "group for workers insurance purposes",
+      "url": "https://www.icare.nsw.gov.au/employers/who-needs-workers-insurance/insurance-for-related-businesses"
+    },
+    {
+      "text": "Workers Compensation Industry Classification (WIC)",
+      "url": "https://www.icare.nsw.gov.au/employers/premiums/calculating-the-cost-of-your-premium/wics-and-premium-rates"
+    },
+    {
+      "text": "Calculating the cost of your workers insurance premium – icare",
+      "url": "https://www.icare.nsw.gov.au/employers/premiums/calculating-the-cost-of-your-premium"
+    },
+    {
+      "text": "How to lower your workers compensation insurance premium – icare",
+      "url": "https://www.icare.nsw.gov.au/employers/premiums/ways-to-lower-your-premiums"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need workers insurance?",
+      "a": "Yes, if you are an employer in NSW, you must have a workers insurance policy unless you are considered an ‘exempt employer’.",
+      "link": null
+    },
+    {
+      "q": "What happens if I am exempt from workers insurance?",
+      "a": "Even if you are exempt, if one of your workers is injured, you must provide assistance with injury management and return to work.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to use the quote tool?",
+      "a": "The quote tool can help estimate premiums for employers who employ contractors, belong to a group for workers insurance purposes, have estimated annual wages of $7,500 or less, work with asbestos, or are involved in coal mining.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:49Z",
+    "last_modified": "9 September 2024",
+    "html_sha1": "daa33d628055201a8c16dbf46744ba67c279c991",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

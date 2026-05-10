@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-short-term-rental-accommodation-property",
+  "title": "Register a short-term rental accommodation property",
+  "summary": "Learn how to register a short-term rental accommodation (STRA) property via the NSW Planning Portal.",
+  "topics": [
+    "short-term-rental",
+    "accommodation",
+    "property-registration",
+    "nsw-planning"
+  ],
+  "intro": "If you own a short-term rental accommodation (STRA) property, you’ll need to register the property via the NSW Planning Portal before you advertise or offer it for short-term rental.\n\nYou’ll be issued with an STRA property ID number, which must be displayed on the online property listing.\n\nOnly residential accommodation such as houses, units and terraces need to be registered.\n\nCaravans, tents and moveable dwellings do not need to be registered.\n\nTo complete the registration process, all hosts must:",
+  "who_can_apply": [
+    "Own a short-term rental accommodation (STRA) property",
+    "The property must be residential accommodation (such as houses, units, and terraces)"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or Planning Portal login details",
+    "Copies of documents for uploading",
+    "Payment for the registration fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Pay the registration fee to complete your registration and receive your STRA property ID.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the NSW Planning Portal and STRA, contact the Department of Planning, Housing and Infrastructure.",
+  "more_info": [
+    {
+      "text": "NSW Fair Trading's exclusion register will list guests and hosts who are not allowed to enter into STRA arrangements.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/short-term-rental-accommodation/exclusion-register"
+    },
+    {
+      "text": "Hosts may be recorded as an individual, or in relation to a specific property.",
+      "link": null
+    },
+    {
+      "text": "People or premises listed on the register may not take part in the STRA industry for 5 years.",
+      "link": null
+    },
+    {
+      "text": "To renew a STRA property, log in to the NSW Planning Portal.",
+      "link": "https://apps.planningportal.nsw.gov.au/prweb/PRAuth/PlanningSSO"
+    },
+    {
+      "text": "Select ‘Renew my listing’ from the Action button beside the listing. You can renew up to 45 days before the renewal expiry date.",
+      "link": null
+    },
+    {
+      "text": "If you have purchased an existing STRA property, complete the registration process for your dwelling on the STRA register up to the 'Review and submit' stage.",
+      "link": null
+    },
+    {
+      "text": "The STRA register will then notify the original registrant about the new request.",
+      "link": null
+    },
+    {
+      "text": "The current registrant must deregister the property before you can register the dwelling and create a new STRA property ID.",
+      "link": null
+    },
+    {
+      "text": "### Exclusion register",
+      "link": null
+    },
+    {
+      "text": "### How to renew",
+      "link": null
+    },
+    {
+      "text": "### Registering an existing STRA property",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fire and safety requirements",
+      "url": "https://www.planning.nsw.gov.au/sites/default/files/2023-03/stra-fire-safety-standard.pdf"
+    },
+    {
+      "text": "code of conduct",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/code-of-conduct-for-short-term-rental-accommodation-industry"
+    },
+    {
+      "text": "Registering a short-term rental accommodation (STRA) property – PDF",
+      "url": "https://www.planningportal.nsw.gov.au/sites/default/files/documents/2023/Registrant%20-%20How%20to%20register%20a%20Short-Term%20Rental%20Accommodation%20property%20v5.0.pdf"
+    },
+    {
+      "text": "exclusion register",
+      "url": "https://www.nsw.gov.au/housing-and-construction/short-term-rental-accommodation/exclusion-register"
+    },
+    {
+      "text": "NSW Planning Portal",
+      "url": "https://apps.planningportal.nsw.gov.au/prweb/PRAuth/PlanningSSO"
+    },
+    {
+      "text": "Department of Planning, Housing and Infrastructure",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    },
+    {
+      "text": "Short-term rental accommodation registration – NSW Planning Portal",
+      "url": "https://www.planningportal.nsw.gov.au/stra"
+    },
+    {
+      "text": "Short-term rental accommodation – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/short-term-rental-accommodation"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What types of properties need to be registered?",
+      "a": "Only residential accommodation such as houses, units, and terraces need to be registered.",
+      "link": null
+    },
+    {
+      "q": "Do all types of dwellings need to be registered?",
+      "a": "Caravans, tents, and moveable dwellings do not need to be registered.",
+      "link": null
+    },
+    {
+      "q": "What must I do after registering my property?",
+      "a": "You must display the STRA property ID number on the online property listing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:25Z",
+    "last_modified": "3 July 2025",
+    "html_sha1": "d2c1fcd9ae3d1531bc2eb773cd8cb6b262f6ed8a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

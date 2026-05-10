@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-pawnbroker-or-second-hand-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-pawnbroker-or-second-hand-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-pawnbroker-or-second-hand-dealer-licence",
+  "title": "Replace a pawnbroker or second-hand dealer licence",
+  "summary": "You can order a replacement pawnbroker or second-hand dealer licence if your original licence has been lost, stolen, or destroyed.",
+  "topics": [
+    "pawnbroker-licence",
+    "second-hand-dealer-licence",
+    "replace-licence"
+  ],
+  "intro": "If you hold a pawnbroker or second-hand dealer licence and it has been destroyed, lost or stolen, you can order a replacement at a Service NSW Centre.",
+  "who_can_apply": [
+    "You must hold a pawnbroker or second-hand dealer licence that has been destroyed, lost, or stolen."
+  ],
+  "what_you_need": [
+    "A written request explaining the reason for replacement",
+    "Your name and licence details",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbrokers-and-second-hand-dealers-fees"
+    },
+    {
+      "text": "Pawnbrokers/second-hand Dealers licensing guidelines – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4521.pdf"
+    },
+    {
+      "text": "Pawnbroker and second-hand dealer licences",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Pawnbroking and secondhand dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/services/pawnbroking-and-secondhand-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Restore a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-pawnbroker-or-second-hand-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to replace my licence?",
+      "a": "You need a written request explaining why the replacement is needed, your name and licence details, and payment.",
+      "link": null
+    },
+    {
+      "q": "How do I replace a lost or stolen licence?",
+      "a": "You must visit a Service NSW Centre and provide the required information in person.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:57Z",
+    "last_modified": "3 July 2024",
+    "html_sha1": "d68654773cbef8402a7856e0b118b14a7ae52154",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

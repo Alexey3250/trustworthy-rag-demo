@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-commission-against-corruption-icac",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-commission-against-corruption-icac",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "independent-commission-against-corruption-icac",
+  "title": "Independent Commission Against Corruption (ICAC)",
+  "summary": "This page provides information about the Independent Commission Against Corruption (ICAC), including how to report corruption and details about its work.",
+  "topics": [
+    "corruption",
+    "icac",
+    "reporting-corruption",
+    "investigations"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icac.nsw.gov.au/",
+      "url": "https://www.icac.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.icac.nsw.gov.au/reporting/report-corruption",
+      "url": "https://www.icac.nsw.gov.au/reporting/report-corruption"
+    },
+    {
+      "text": "Education and Training Events",
+      "url": "https://www.icac.nsw.gov.au/education-and-events"
+    },
+    {
+      "text": "Investigations and Public Inquiries",
+      "url": "https://www.icac.nsw.gov.au/investigations/current-investigations"
+    },
+    {
+      "text": "Reporting Corruption to ICAC",
+      "url": "https://www.icac.nsw.gov.au/reporting/report-corruption/icac-corruption-complaints-form"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Independent Commission Against Corruption (ICAC)?",
+      "a": "ICAC is an independent body that investigates and prevents corruption in the public sector.",
+      "link": null
+    },
+    {
+      "q": "How can I report corruption to ICAC?",
+      "a": "You can report corruption to ICAC through their dedicated reporting channels.",
+      "link": "https://www.icac.nsw.gov.au/reporting/report-corruption"
+    },
+    {
+      "q": "What types of investigations does ICAC conduct?",
+      "a": "ICAC conducts investigations and public inquiries into matters of corruption.",
+      "link": "https://www.icac.nsw.gov.au/investigations/current-investigations"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c999d2b835277ac5f68b8070977ba08b78f98a4a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

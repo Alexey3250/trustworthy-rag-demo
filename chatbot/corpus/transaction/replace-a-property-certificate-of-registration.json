@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-property-certificate-of-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-property-certificate-of-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-property-certificate-of-registration",
+  "title": "Replace a property certificate of registration",
+  "summary": "You can apply for a free replacement property certificate of registration if your original certificate is damaged, lost, or stolen.",
+  "topics": [
+    "property-certificate",
+    "registration",
+    "replacement",
+    "service-nsw"
+  ],
+  "intro": "If you hold a property certificate of registration and it has been damaged, lost or stolen, you can apply for a free replacement certificate at a Service NSW Centre or by email.\n\nTo check your licence or registration details visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Reason for requesting a replacement",
+    "The type of certificate (property certificate of registration)",
+    "Your name",
+    "Licence number",
+    "Your signature",
+    "Visiting a Service NSW Centre",
+    "Emailing propertylicensing@customerservice.nsw.gov.au"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "reason for requesting a replacement",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "the type of certificate (property certificate of registration)",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "your name",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "licence number",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "your signature.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "visit a service centre or",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 7,
+      "text": "email propertylicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    },
+    {
+      "text": "Becoming a property agent – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Add or remove a category on a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-a-property-certificate-of-registration"
+    },
+    {
+      "text": "Apply for a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-of-registration"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:17Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "85951f526e18abd0b3ca8a52956e19cc7f701018",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

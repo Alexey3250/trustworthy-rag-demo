@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-an-owner-builder-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-an-owner-builder-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-an-owner-builder-permit",
+  "title": "Check an Owner-Builder Permit",
+  "summary": "You can check or search for Owner-Builder Permits issued within the last 10 years online.",
+  "topics": [
+    "owner-builder-permit",
+    "building-permit",
+    "nsw-service"
+  ],
+  "intro": "If you'd like to check an Owner-Builder Permit issued in the last 10 years, or search for your own permit details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "When an owner-builder permit is needed – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/owner-builder/when-a-permit-needed"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Cancel an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit"
+    },
+    {
+      "text": "Change the details on an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:49Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "44020726ffc85b2b743833d518f70207569451b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

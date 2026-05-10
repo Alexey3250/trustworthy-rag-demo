@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/certifier-accreditation-and-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/certifier-accreditation-and-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "certifier-accreditation-and-registration",
+  "title": "Certifier accreditation and registration",
+  "summary": "This page provides information about the accreditation and registration requirements for certifiers in NSW.",
+  "topics": [
+    "certifier",
+    "accreditation",
+    "registration",
+    "building-standards"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for swimming pool certifier registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-swimming-pool-certifier-registration"
+    },
+    {
+      "text": "Access the NSW Building Certifiers' Portal",
+      "url": "https://www.service.nsw.gov.au/referral/access-the-nsw-building-certifiers-portal"
+    },
+    {
+      "text": "Principal certifiers (PC)",
+      "url": "https://www.service.nsw.gov.au/services/principal-certifiers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Principal Certifier (PC)?",
+      "a": "A Principal Certifier (PC) is a role that involves specific accreditation and registration.",
+      "link": "https://www.service.nsw.gov.au/services/principal-certifiers"
+    },
+    {
+      "q": "How do I apply for swimming pool certifier registration?",
+      "a": "You can apply for swimming pool certifier registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-swimming-pool-certifier-registration"
+    },
+    {
+      "q": "Where can I access the NSW Building Certifiers' Portal?",
+      "a": "You can access the NSW Building Certifiers' Portal via the provided referral link.",
+      "link": "https://www.service.nsw.gov.au/referral/access-the-nsw-building-certifiers-portal"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:12Z",
+    "last_modified": "29 May 2025",
+    "html_sha1": "bc47cb4427fedea6306809a942c2698ac1397ae6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

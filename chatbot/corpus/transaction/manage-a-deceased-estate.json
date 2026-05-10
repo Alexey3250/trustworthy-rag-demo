@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-a-deceased-estate",
+  "title": "Manage a deceased estate",
+  "summary": "Learn about the role of an executor and how to manage a deceased estate, including professional assistance from NSW Trustee and Guardian.",
+  "topics": [
+    "deceased-estate",
+    "executor",
+    "will",
+    "trustee-and-guardian"
+  ],
+  "intro": "When someone dies, the person responsible for administrating the estate of the deceased is the executor. The executor confirms the assets, pays any amounts owing, and transfers remaining funds or assets to the beneficiaries.\n\nOften someone appoints a friend or relative as their executor, but as the duties can be quite complex, many people who have been nominated are unsure of what is expected of them.\n\nNSW Trustee and Guardian can be nominated as the executor in a will, but they can also take over the task from someone who has been nominated by a friend or a family member. As they have staff who specialise in estate and trust management, legal, financial and accounting services, they're able to deal with any problems that might arise during the course of administering an estate.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": "The fees that NSW Trustee and Guardian charge for administering an estate are set by the NSW Government.",
+  "processing_time": null,
+  "contact": "If you're the executor of a will and need professional help you can contact the NSW Trustee and Guardian",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fees",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees#toc-deceased-estate-administration-fees"
+    },
+    {
+      "text": "online",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/contact-us"
+    },
+    {
+      "text": "Guide for Beneficiaries – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2024-04/NSW-Trustee-Guardian-guide-for-beneficiaries.pdf"
+    },
+    {
+      "text": "What is an Executor",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors#toc-the-role-of-the-executor"
+    },
+    {
+      "text": "Choose NSW Trustee and Guardian as your executor",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors#toc-nsw-trustee-and-guardian-is-the-executor"
+    },
+    {
+      "text": "Australian Death Notification Service",
+      "url": "https://deathnotification.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Trustee and Guardian",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/trustee-and-guardian-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the role of an executor?",
+      "a": "The executor is responsible for administering the estate. This involves confirming assets, paying any amounts owing, and transferring remaining funds or assets to the beneficiaries.",
+      "link": null
+    },
+    {
+      "q": "Can NSW Trustee and Guardian help with estate administration?",
+      "a": "NSW Trustee and Guardian can be nominated as the executor in a will, or they can take over the task from someone else. They offer specialized staff for legal, financial, and accounting services to handle estate problems.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about executor fees?",
+      "a": "The fees charged by NSW Trustee and Guardian for administering an estate are set by the NSW Government.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees#toc-deceased-estate-administration-fees"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:30Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "4c476bbe8f4ee1879228519133fb41c98ec4a2e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

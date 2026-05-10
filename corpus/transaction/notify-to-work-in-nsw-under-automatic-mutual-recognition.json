@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-to-work-in-nsw-under-automatic-mutual-recognition",
+  "title": "Notify to work in NSW under Automatic Mutual Recognition",
+  "summary": "This page explains how licensed tradespeople and registered professionals from other states can work in NSW under the Automatic Mutual Recognition (AMR) scheme.",
+  "topics": [
+    "automatic-mutual-recognition",
+    "tradesperson",
+    "professional",
+    "nsw-licence"
+  ],
+  "intro": "If you’re a licensed tradesperson or registered professional who holds qualifications from another state, you may be able to work in NSW under the Automatic Mutual Recognition (AMR) scheme.\n\nAMR allows a range of tradespeople and registered professionals to work in NSW without getting a local licence, or paying any licence fees.\n\nIf your occupation is included in the AMR scheme, you may need to notify the regulator of your intention to work in NSW, or you may be able to start working right away.",
+  "who_can_apply": [
+    "Hold a current individual licence or registration in your home state for the work you intend to do in NSW.",
+    "Be a resident of Victoria (Vic), ACT, Northern Territory (NT), South Australia (SA), Western Australia (WA), or Tasmania (Tas).",
+    "Check the list of occupations to see if you need to notify the regulator."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The following documents (PDF, DOCX, DOC, JPEG, JPG, or PNG files; maximum 2MB file size)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Notify online’ button.Note: You can save and resume your notification, but if you have not submitted it within 60 days, any details you've entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to notify the licence regulator.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "There is no fee to submit an AMR notification.",
+      "link": null
+    },
+    {
+      "text": "The regulator will contact you if further details are required.",
+      "link": null
+    },
+    {
+      "text": "You will not be issued with a NSW licence.",
+      "link": null
+    },
+    {
+      "text": "Depending on your occupation, you may need to meet additional requirements before working in NSW. You may need to:",
+      "link": null
+    },
+    {
+      "text": "There are some circumstances that may prevent you from taking part in the scheme. For more information, visit Automatic Mutual Recognition.",
+      "link": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "occupation",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition/occupations"
+    },
+    {
+      "text": "Automatic Mutual Recognition – privacy collection notice",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition/managing-your-information"
+    },
+    {
+      "text": "Automatic Mutual Recognition",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition"
+    },
+    {
+      "text": "Mutual recognition – Australian Government Department of Employment and Workplace Relations",
+      "url": "https://www.dewr.gov.au/skills-support-individuals/mutual-recognition"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Complete the outstanding actions on your Automatic Mutual Recognition notification",
+      "url": "https://www.service.nsw.gov.au/transaction/complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification"
+    },
+    {
+      "text": "Update your Automatic Mutual Recognition notification details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Automatic Mutual Recognition (AMR) scheme?",
+      "a": "AMR allows certain tradespeople and registered professionals to work in NSW without needing a local licence or paying licence fees.",
+      "link": null
+    },
+    {
+      "q": "Do I need to notify the regulator if I want to work in NSW?",
+      "a": "If your occupation is included in the AMR scheme, you may need to notify the regulator of your intention to work in NSW, or you may be able to start working right away.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply or notify the regulator?",
+      "a": "You need a MyServiceNSW Account and specific documents (PDF, DOCX, DOC, JPEG, JPG, or PNG files, maximum 2MB file size).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:51Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "96a477bcea3c1e87d69af3faa0f3d68b14d8cf5d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

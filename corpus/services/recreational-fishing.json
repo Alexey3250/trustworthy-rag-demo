@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/recreational-fishing",
+  "source_url": "https://www.service.nsw.gov.au/services/recreational-fishing",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "recreational-fishing",
+  "title": "Recreational fishing",
+  "summary": "Find information and resources about recreational fishing in New South Wales.",
+  "topics": [
+    "fishing",
+    "recreational",
+    "nsw",
+    "licence",
+    "safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    },
+    {
+      "text": "Using waterways and beaches",
+      "link": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing-licence"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "text": "Get the FishSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app"
+    },
+    {
+      "text": "Live web-cam vision of NSW coastal bars",
+      "url": "https://www.service.nsw.gov.au/referral/live-web-cam-vision-of-nsw-coastal-bars"
+    },
+    {
+      "text": "Get the SharkSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-sharksmart-app"
+    },
+    {
+      "text": "Order NSW boating and coastal maps",
+      "url": "https://www.service.nsw.gov.au/transaction/order-nsw-boating-and-coastal-maps"
+    },
+    {
+      "text": "Find Sydney Harbour boating destinations",
+      "url": "https://www.service.nsw.gov.au/referral/sydney-harbour-boating-map"
+    },
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    },
+    {
+      "text": "Using waterways and beaches",
+      "url": "https://www.service.nsw.gov.au/services/using-waterways-and-beaches"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to fish recreationally?",
+      "a": "Yes, you need a recreational fishing licence to fish in NSW.",
+      "link": "https://www.service.nsw.gov.au/services/recreational-fishing-licence"
+    },
+    {
+      "q": "What should I do if I witness illegal fishing?",
+      "a": "You can report illegal fishing through the official reporting channel.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "q": "How can I stay safe while fishing?",
+      "a": "You can use the FishSmart app for safety information.",
+      "link": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app"
+    },
+    {
+      "q": "Where can I find information about boating and coastal areas?",
+      "a": "You can order NSW boating and coastal maps or view live web-cam visions.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:31Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "6e4690abdd58a7f59bf20adff8a66769ba0ed98f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

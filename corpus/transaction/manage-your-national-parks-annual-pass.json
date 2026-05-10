@@ -1,0 +1,35 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-national-parks-annual-pass",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-national-parks-annual-pass",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-national-parks-annual-pass",
+  "title": "Manage your National Parks annual pass",
+  "summary": "National Parks annual pass holders can update personal and vehicle details and view discount offers online.",
+  "topics": [
+    "national-parks",
+    "annual-pass",
+    "update-details",
+    "discounts"
+  ],
+  "intro": "National Parks annual pass holders can update their personal details, vehicle details and view discount offers online.\n\nYou'll need to provide your:\n\nSelect the 'Manage online' button and follow the prompts.\n\nYour pass will be updated to use straight away.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Select the 'Manage online' button and follow the prompts."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:03Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "cd9105208c18c2eab01a461744636f2855b4c73a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

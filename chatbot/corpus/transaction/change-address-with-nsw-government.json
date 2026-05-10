@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-with-nsw-government",
+  "title": "Change address with NSW Government",
+  "summary": "You can update your address for your MyServiceNSW Account and various government services in one place.",
+  "topics": [
+    "change-address",
+    "nsw-government",
+    "myservicensw-account",
+    "update-details"
+  ],
+  "intro": "You can change your address in one go for your MyServiceNSW Account and your:\n\nNotes:\n\nYou’ll need to:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account (you can create one before changing your address)",
+    "The service(s) you wish to update added to your MyServiceNSW Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Change online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to change your address.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "complete our online form",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "n": 5,
+      "text": "call 13 77 88, or",
+      "link": "tel:137788"
+    },
+    {
+      "n": 6,
+      "text": "visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot renew or upgrade your NSW Driver Licence online within 14 days of changing your address online with the NSW Government.",
+      "link": null
+    },
+    {
+      "text": "You may need to change your address with government services separately (not through your MyServiceNSW Account). Refer to our Moving house guide for a list of transactions and services, including changing your:",
+      "link": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "add the above services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "updating the address for an organisation or business",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies#changes-on-behalf-of-an-organisation"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Moving house guide",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "E-Toll Account details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-personal-e-toll-account"
+    },
+    {
+      "text": "electoral enrolment details",
+      "url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details"
+    },
+    {
+      "text": "transport concession entitlement card details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-transport-concession-entitlement-card"
+    },
+    {
+      "text": "Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    },
+    {
+      "text": "Change an organisation's name, address or contact details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-address-or-contact-details-with-transport-for-nsw-organisations"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change my address?",
+      "a": "You can change your address by selecting the ‘Change online’ button, logging in or creating your MyServiceNSW Account, and following the prompts.",
+      "link": null
+    },
+    {
+      "q": "What do I need to change my address?",
+      "a": "You need a MyServiceNSW Account and the service(s) you wish to update added to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "q": "Are there other ways to change my address?",
+      "a": "You can also complete an online form, call 13 77 88, or visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:03Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "e0bd0fd4c7a8e97f548e037e9ac2a41d37eaf5f4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

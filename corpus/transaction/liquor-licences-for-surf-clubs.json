@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/liquor-licences-for-surf-clubs",
+  "source_url": "https://www.service.nsw.gov.au/transaction/liquor-licences-for-surf-clubs",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "liquor-licences-for-surf-clubs",
+  "title": "Liquor licences for surf clubs",
+  "summary": "This page explains the two types of liquor licences available for surf clubs: limited and on-premises.",
+  "topics": [
+    "liquor-licences",
+    "surf-clubs",
+    "alcohol-sales",
+    "non-profit-organisations"
+  ],
+  "intro": "There are 2 types of liquor licences available for surf clubs – a limited licence and an on-premises licence.\n\nA limited licence is suitable for clubs that are non-profit organisations. With this licence you can sell alcohol to club members and guests at social functions on club premises. You can hold up to 52 of these functions in a 12-month period. See how to apply for a limited liquor licence.\n\nTo sell alcohol at private events held at the club, an on-premises licence is appropriate. This licence also allows the club to sell alcohol at its own social functions. Hiring out the club premises and selling alcohol at these events is also permitted under this licence. See how to apply for an on-premises licence.",
+  "who_can_apply": [
+    "Surf clubs",
+    "Non-profit organisations (for limited licence)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "apply for a limited liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-multiple-functions"
+    },
+    {
+      "text": "apply for an on-premises licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of liquor licences are available for surf clubs?",
+      "a": "There are two types: a limited licence and an on-premises licence.",
+      "link": null
+    },
+    {
+      "q": "Is a limited licence suitable for selling alcohol at social functions?",
+      "a": "Yes, a limited licence is suitable for non-profit organisations to sell alcohol to club members and guests at social functions on club premises, up to 52 functions in a 12-month period.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-limited-liquor-licence-multiple-functions"
+    },
+    {
+      "q": "Can I sell alcohol at private events or hire out the club premises?",
+      "a": "An on-premises licence is appropriate for selling alcohol at private events held at the club, and it also permits selling alcohol at social functions and hiring out the club premises.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:19Z",
+    "last_modified": "13 September 2024",
+    "html_sha1": "8d5ad46b5afe4b608b425c3a0798e3eeebfc4c7a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

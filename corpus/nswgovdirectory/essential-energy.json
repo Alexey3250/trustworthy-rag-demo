@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/essential-energy",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/essential-energy",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "essential-energy",
+  "title": "Essential Energy",
+  "summary": "This page provides information about Essential Energy, including reporting power outages, vegetation near powerlines, and connection services.",
+  "topics": [
+    "essential-energy",
+    "power-outages",
+    "electricity",
+    "vegetation",
+    "connections"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.essentialenergy.com.au/",
+      "url": "https://www.essentialenergy.com.au/"
+    },
+    {
+      "text": "https://www.essentialenergy.com.au/contact-us",
+      "url": "https://www.essentialenergy.com.au/contact-us"
+    },
+    {
+      "text": "Check for power outages",
+      "url": "https://www.essentialenergy.com.au/outages-and-faults/power-outages"
+    },
+    {
+      "text": "Report a power outage – Essential Energy",
+      "url": "https://www.essentialenergy.com.au/outages-and-faults/report-power-outages"
+    },
+    {
+      "text": "Report vegetation near powerlines",
+      "url": "https://www.essentialenergy.com.au/web-forms/report-vegetation-near-powerlines"
+    },
+    {
+      "text": "Residential or business connections",
+      "url": "https://www.essentialenergy.com.au/connections"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check for power outages?",
+      "a": "You can check for power outages using the dedicated Essential Energy website.",
+      "link": "https://www.essentialenergy.com.au/outages-and-faults/power-outages"
+    },
+    {
+      "q": "How do I report a power outage?",
+      "a": "You can report a power outage directly through the Essential Energy website.",
+      "link": "https://www.essentialenergy.com.au/outages-and-faults/report-power-outages"
+    },
+    {
+      "q": "What should I do if there is vegetation near powerlines?",
+      "a": "You can report vegetation near powerlines using the specific web form provided by Essential Energy.",
+      "link": "https://www.essentialenergy.com.au/web-forms/report-vegetation-near-powerlines"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:57Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6f7b145d23a1933be4afd122b7c81619a38ef0dc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

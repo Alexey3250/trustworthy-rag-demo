@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/lismore-driver-testing-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/lismore-driver-testing-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "lismore-driver-testing-centre",
+  "title": "Lismore Driver Testing Centre",
+  "summary": "This page provides information about the Lismore Driver Testing Centre, including services, opening hours, and how to plan your visit.",
+  "topics": [
+    "driver-testing",
+    "lismore",
+    "service-centre",
+    "driver-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-28.822351,153.285495"
+    },
+    {
+      "text": "online booking system",
+      "url": "https://www.myrta.com/wps/portal/extvp/myrta/licence/tbs/tbs-login/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziDTxcA8JCjcwNLYxNXQw83ZzNnQz9AwwNnA31wyEKcABHA_0oQvqj8CrxNkZXYBDsaWbg6RQa5h_maGxoEUJAgbsZXAFuRxbkRhhkeqYrAgDLGG77/dz/d5/L2dBISEvZ0FBIS9nQSEh/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Driver testing",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Lismore Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/lismore-service-centre"
+    },
+    {
+      "text": "Casino Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/casino-service-centre"
+    },
+    {
+      "text": "Ballina Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/ballina-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services are available at the Lismore Driver Testing Centre?",
+      "a": "The centre offers the Driver Knowledge Test (DKT) and general driver testing services.",
+      "link": null
+    },
+    {
+      "q": "How can I pay for my services?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "Where is the Lismore Driver Testing Centre located?",
+      "a": "The centre is located in Lismore, and other nearby centres include Casino and Ballina.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:28Z",
+    "last_modified": null,
+    "html_sha1": "640d872ae0d3ddbbac9d2475af7ffa2810ff5fff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

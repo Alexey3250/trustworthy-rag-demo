@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-equipment-through-the-equipment-allocation-program-eap",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-equipment-through-the-equipment-allocation-program-eap",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-equipment-through-the-equipment-allocation-program-eap",
+  "title": "Apply for equipment through the Equipment Allocation Program (EAP)",
+  "summary": "You can apply for new or refurbished equipment through the Equipment Allocation Program (EAP) if you have specific, short-term, or ongoing health needs.",
+  "topics": [
+    "equipment",
+    "health-needs",
+    "disability-assistance",
+    "enable-nsw"
+  ],
+  "intro": "If you have specific, short term or ongoing health needs, you can apply for equipment through the Equipment Allocation Program (EAP). The EAP provides a range of new and refurbished equipment, suitable for children and adults.\n\nBefore you discuss your needs with your doctor or health professional, check the EnableNSW eligibility indicator to find the right program.\n\nThe indicator is only a guide so if you'd like to talk to someone about your individual circumstances:",
+  "who_can_apply": [
+    "Having specific, short-term, or ongoing health needs."
+  ],
+  "what_you_need": [
+    "Discussing your needs with a doctor or health professional.",
+    "Checking the EnableNSW eligibility indicator."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "EnableNSW eligibility indicator",
+      "url": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    },
+    {
+      "text": "Equipment Allocation Program (EAP) – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/services/eap"
+    },
+    {
+      "text": "EnableNSW Equipment Centre",
+      "url": "https://www.enable.health.nsw.gov.au/about/enablensw-equipment-centre"
+    },
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Information for individuals – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/for_individuals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Equipment Allocation Program (EAP)?",
+      "a": "The EAP provides a range of new and refurbished equipment suitable for children and adults.",
+      "link": null
+    },
+    {
+      "q": "What should I do before applying for equipment?",
+      "a": "Before discussing your needs with your doctor or health professional, check the EnableNSW eligibility indicator to find the right program.",
+      "link": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    },
+    {
+      "q": "I need advice on my individual circumstances.",
+      "a": "If you would like to talk to someone about your individual circumstances, you can use the EnableNSW resources.",
+      "link": "https://www.enable.health.nsw.gov.au/for_individuals"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:06Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "e1009f11ce9a6fc799ef1dd2a97e0a907ecddbae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

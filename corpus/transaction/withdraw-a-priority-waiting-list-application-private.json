@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waiting-list-application-private",
+  "source_url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waiting-list-application-private",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "withdraw-a-priority-waiting-list-application-private",
+  "title": "Withdraw a priority waiting list application (private)",
+  "summary": "You can withdraw your priority waiting list application for a private mooring at a Service NSW Centre, or by post or email.",
+  "topics": [
+    "mooring",
+    "waiting-list",
+    "private-mooring",
+    "service-nsw"
+  ],
+  "intro": "If you want to withdraw your priority waiting list application for a private mooring, you can do this at a Service NSW Centre, or by post or email.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Priority Wait List Cancellation Request'",
+    "Your proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application in person at a service centre, or by post or email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Priority Wait List Cancellation Request – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065647-priority-wait-list-cancellation-request.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:15Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "3aad8d058fe22f36a30c91f56a0c069596c03118",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-the-medicinal-cannabis-compassionate-use-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-the-medicinal-cannabis-compassionate-use-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-the-medicinal-cannabis-compassionate-use-scheme",
+  "title": "Register for the Medicinal Cannabis Compassionate Use Scheme",
+  "summary": "This page provides information on how to register for the Medicinal Cannabis Compassionate Use Scheme.",
+  "topics": [
+    "cannabis",
+    "medicinal",
+    "compassionate-use",
+    "nsw-scheme"
+  ],
+  "intro": "The NSW Government's Medicinal Cannabis Compassionate Use Scheme is administered by the NSW Department of Communities and Justice.\n\nThe scheme provides guidelines for members of the NSW Police Force about using their discretion not to charge adults with a terminal illness (or up to 3 of their carers) for possession of cannabis not lawfully prescribed if they are registered with the scheme.",
+  "who_can_apply": [
+    "Must be a NSW resident aged 18 years or over.",
+    "Must have a terminal illness.",
+    "The medical practitioner must be registered in Australia, involved in ongoing care, and able to certify the terminal illness as defined by the scheme.",
+    "Can nominate up to 3 carers.",
+    "Each nominated carer must not be nominated by more than 2 other registered users."
+  ],
+  "what_you_need": [
+    "A medical practitioner registered in Australia who is involved in your ongoing care.",
+    "The completed registration form (Part A filled by you, Part B filled by your medical practitioner).",
+    "Application submission method (email or post) using the details provided on the form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete 'Part A' of the registration form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Have your medical practitioner complete 'Part B' of the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Send your application by email or post, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once your registration is processed, you'll receive a record for yourself and each of your nominated carers.",
+      "link": null
+    },
+    {
+      "text": "Registration lasts for 24 months. To re-register for the scheme you'll need to make a new application.",
+      "link": null
+    },
+    {
+      "text": "Registered adults and carers must produce their documentation to NSW Police on request.",
+      "link": null
+    },
+    {
+      "text": "Activities not covered by the scheme include:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "About the Medicinal Cannabis Compassionate Use Scheme",
+      "url": "https://www.medicinalcannabis.nsw.gov.au/patients/medicinal-cannabis-compassionate-use-scheme"
+    },
+    {
+      "text": "Factsheet: Adults with a terminal illness and their carers – PDF",
+      "url": "https://www.medicinalcannabis.nsw.gov.au/__data/assets/pdf_file/0015/2814/171215_MCCUS-Factsheet-for-patients.pdf"
+    },
+    {
+      "text": "Factsheet: NSW medical practitioners – PDF",
+      "url": "https://www.medicinalcannabis.nsw.gov.au/__data/assets/pdf_file/0016/2815/171215_MCCUS-factsheet-for-medical-practitioners.pdf"
+    },
+    {
+      "text": "Clinical guidance for cannabis medicine prescribers",
+      "url": "https://www.medicinalcannabis.nsw.gov.au/health-professionals/information-for-cannabis-medicine-prescribers"
+    },
+    {
+      "text": "About the Centre for Medicinal Cannabis Research and Innovation",
+      "url": "https://www.medicinalcannabis.nsw.gov.au"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for the scheme?",
+      "a": "You must be a NSW resident aged 18 or over with a terminal illness. You can nominate up to 3 carers, and each carer must not be nominated by more than 2 other registered users.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of the Medicinal Cannabis Compassionate Use Scheme?",
+      "a": "The scheme provides guidelines for NSW Police Force members regarding the discretion not to charge adults with a terminal illness (or up to 3 carers) for possession of cannabis not lawfully prescribed if they are registered.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the scheme?",
+      "a": "Select the 'Download PDF form' button, complete 'Part A' of the registration form, have your medical practitioner complete 'Part B' of the form, and send your application by email or post using the details on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:46Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "0b66eac724376e75a924f095bb79e8358efe7fc7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

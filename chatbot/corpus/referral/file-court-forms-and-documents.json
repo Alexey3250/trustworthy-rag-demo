@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/file-court-forms-and-documents",
+  "source_url": "https://www.service.nsw.gov.au/referral/file-court-forms-and-documents",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "file-court-forms-and-documents",
+  "title": "File court forms and documents",
+  "summary": "You can file documents and forms for a civil case in the NSW Local, District, or Supreme Court online if you have a NSW Online Registry account and are an involved party or authorized representative.",
+  "topics": [
+    "court-forms",
+    "file-documents",
+    "civil-case",
+    "nsw-courts"
+  ],
+  "intro": "You can file documents and forms for a civil case in the NSW Local, District or Supreme Court online, if you have a NSW Online Registry account, and you're an involved party or authorised representative.\n\nThis includes:\n\nTo file online you'll need:\n\nIf you're unable to file online:",
+  "who_can_apply": [
+    "Must have a NSW Online Registry account.",
+    "Must be an involved party or authorized representative in the civil case."
+  ],
+  "what_you_need": [
+    "NSW Online Registry account",
+    "Involved party or authorized representative status"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "representing themselves",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/representing-yourself"
+    },
+    {
+      "text": "NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/"
+    },
+    {
+      "text": "payment",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/fees-and-payment"
+    },
+    {
+      "text": "Available forms",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/available-forms"
+    },
+    {
+      "text": "Uniform Civil Procedure Rules (UCPR) – Civil Forms",
+      "url": "https://ucprforms.nsw.gov.au"
+    },
+    {
+      "text": "Supreme Court of NSW",
+      "url": "https://supremecourt.nsw.gov.au/about-us/contact-us.html"
+    },
+    {
+      "text": "District Court",
+      "url": "https://districtcourt.nsw.gov.au/contact-us.html"
+    },
+    {
+      "text": "Local Court",
+      "url": "https://localcourt.nsw.gov.au/locations--lists-and-forms/cl-2.html"
+    },
+    {
+      "text": "Land and Environment Court of NSW",
+      "url": "https://lec.nsw.gov.au/about-us/contact-us.html"
+    },
+    {
+      "text": "Frequently asked questions – NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/faqs"
+    },
+    {
+      "text": "Legal and Justice – Department of Communities and Justice",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register for a NSW Online Registry account – Courts and Tribunals",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-a-nsw-online-registry-account-courts-and-tribunals"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:39Z",
+    "last_modified": "5 February 2025",
+    "html_sha1": "b4fd8699076e58055850486887f0a19ae42a5694",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

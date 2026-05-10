@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/broken-hill-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/broken-hill-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "broken-hill-community-services-centre",
+  "title": "Broken Hill Community Services Centre",
+  "summary": "This page provides information about the Broken Hill Community Services Centre.",
+  "topics": [
+    "community-services",
+    "broken-hill",
+    "support-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:40Z",
+    "last_modified": "20 March 2026",
+    "html_sha1": "acef60b9f15b79c589c8f45fbbb2c5908824b5c7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

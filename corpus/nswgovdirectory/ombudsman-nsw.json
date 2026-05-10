@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/ombudsman-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/ombudsman-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "ombudsman-nsw",
+  "title": "Ombudsman, NSW",
+  "summary": "This page provides information about the NSW Ombudsman, who investigates complaints about NSW government services.",
+  "topics": [
+    "complaints",
+    "ombudsman",
+    "nsw-government",
+    "consumer-rights"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must have a complaint about how NSW government services are delivered."
+  ],
+  "what_you_need": [
+    "Details of the complaint you wish to make."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.ombo.nsw.gov.au/",
+      "url": "https://www.ombo.nsw.gov.au/"
+    },
+    {
+      "text": "Make a complaint online – NSW Ombudsman",
+      "url": "https://portal.ombo.nsw.gov.au/make-a-complaint-online/"
+    },
+    {
+      "text": "Complaints we can help you with – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with"
+    },
+    {
+      "text": "How to make a complaint – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/complaints/how-to-make-a-complaint"
+    },
+    {
+      "text": "Contact us – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/about-us/contact-us"
+    },
+    {
+      "text": "Search for resources – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/guidance-for-organisations/resources"
+    },
+    {
+      "text": "Information in Easy Read and in other languages – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/complaints/how-to-make-a-complaint/information-in-easy-read-and-in-other-languages"
+    },
+    {
+      "text": "Training – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/guidance-for-organisations/training"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the NSW Ombudsman do?",
+      "a": "The Ombudsman investigates complaints about how NSW government services are delivered.",
+      "link": null
+    },
+    {
+      "q": "How can I make a complaint?",
+      "a": "You can make a complaint online through the NSW Ombudsman website.",
+      "link": "https://portal.ombo.nsw.gov.au/make-a-complaint-online/"
+    },
+    {
+      "q": "What types of complaints can the Ombudsman help with?",
+      "a": "The Ombudsman provides information on complaints they can help with, including details on how to make a complaint.",
+      "link": "https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:41Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "167abe5a4116485dac8f687a1f85d456b624ec27",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

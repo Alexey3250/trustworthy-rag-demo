@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/social-housing",
+  "source_url": "https://www.service.nsw.gov.au/services/social-housing",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "social-housing",
+  "title": "Social housing",
+  "summary": "Find information and assistance regarding social housing in New South Wales.",
+  "topics": [
+    "social-housing",
+    "rent-assistance",
+    "housing-support",
+    "tenancy-issues"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Homes NSW",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw"
+    },
+    {
+      "text": "Aboriginal Housing Office",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-parramatta-head-office"
+    },
+    {
+      "text": "Domestic and family violence",
+      "link": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Find your nearest housing office",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/find-your-nearest-housing-office"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Request or report property maintenance issues in social housing",
+      "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    },
+    {
+      "text": "Pay public housing tenancy charges",
+      "url": "https://www.service.nsw.gov.au/referral/pay-public-housing-tenancy-charges"
+    },
+    {
+      "text": "Apply for a Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    },
+    {
+      "text": "Apply for Rentstart Move assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-rentstart-move-assistance"
+    },
+    {
+      "text": "Check your eligibility for Rentstart assistance",
+      "url": "https://www.service.nsw.gov.au/referral/check-your-eligibility-for-rentstart-assistance"
+    },
+    {
+      "text": "Rent Choice subsidy",
+      "url": "https://www.service.nsw.gov.au/referral/rent-choice-subsidy"
+    },
+    {
+      "text": "Make a complaint about social housing",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-social-housing"
+    },
+    {
+      "text": "Apply for a dispute hearing at NCAT (NSW Civil and Administrative Tribunal)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-civil-and-administrative-tribunal-ncat"
+    },
+    {
+      "text": "Appeal a decision (NSW Housing Appeals Committee)",
+      "url": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    },
+    {
+      "text": "Homes NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw"
+    },
+    {
+      "text": "Aboriginal Housing Office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-parramatta-head-office"
+    },
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I report maintenance issues in my social housing?",
+      "a": "You can request or report property maintenance issues in social housing.",
+      "link": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    },
+    {
+      "q": "What assistance is available for paying public housing rent?",
+      "a": "You can find assistance for paying public housing tenancy charges, applying for a Rentstart Bond Loan, or applying for Rentstart Move assistance.",
+      "link": null
+    },
+    {
+      "q": "Where can I make a complaint about social housing?",
+      "a": "You can make a complaint about social housing or apply for a dispute hearing at NCAT (NSW Civil and Administrative Tribunal).",
+      "link": null
+    },
+    {
+      "q": "How do I appeal a decision about social housing?",
+      "a": "You can appeal a decision to the NSW Housing Appeals Committee.",
+      "link": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:42Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "dc6b81b4dace89d6cdff586db05223e9b5ef4043",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

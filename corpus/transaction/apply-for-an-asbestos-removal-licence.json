@@ -1,0 +1,168 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-removal-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-removal-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-asbestos-removal-licence",
+  "title": "Apply for an asbestos removal licence",
+  "summary": "Find information and apply online for a Class A or Class B asbestos removal licence in NSW.",
+  "topics": [
+    "asbestos",
+    "licence",
+    "removal",
+    "safety"
+  ],
+  "intro": "There are 2 types of asbestos removal licence. You can apply for them online.\n\nHolders of a Class A licence are also authorised to carry out Class B asbestos removal work.\n\nNo licence is required to remove less than 10m2 of non-friable asbestos or asbestos-containing materials.\n\nNote: The person who'll be holding the licence must complete the application.\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Be aged 18 years or over.",
+    "Have completed training.",
+    "Submit evidence of your experience and keep photographs and safe work method statements.",
+    "For supervisors, qualifications include CPCCDE3015 or CPCCDE3015A (remove friable asbestos) and CPCCDE4008 or CPCCBC4051A (supervise asbestos removal).",
+    "For supervisors, evidence of experience must be working on at least 3 friable asbestos removal jobs over a 3-year period (experience not more than 5 years old).",
+    "For supervisors, qualifications include CPCCDE3014 or CPCCDE3014A (remove non-friable asbestos) and CPCCDE4008 or CPCCBC4051A (supervise asbestos removal).",
+    "For supervisors, evidence of experience must be working on at least 3 non-friable asbestos removal jobs over a 12-month period (experience not more than 5 years old)."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Proof of identity (such as a driver licence, passport, or Medicare card).",
+    "Copies of your interstate licence (if you have one).",
+    "Proof of training.",
+    "Proof of your experience with a licensed asbestos removalist.",
+    "A letter of reference from your employer.",
+    "A workers compensation insurance certificate of currency (if applicable).",
+    "A completed supervisor nomination form.",
+    "A certified safety management system (for Class A licences).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.Note: You can save and resume your application, but if you have not submitted it within 60 days, any details you’ve entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete the online form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a Service NSW Centre with your photo ID within 30 days of submitting your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After you’ve submitted your application, SafeWork NSW will assess it and decide if an asbestos removal licence can be issued.",
+      "link": null
+    },
+    {
+      "text": "If you withdraw your application or are refused a licence, the processing fee will not be refunded.",
+      "link": null
+    },
+    {
+      "text": "Asbestos removal licences are valid for 5 years.",
+      "link": null
+    },
+    {
+      "text": "You must notify SafeWork NSW at least 5 working days before you start any licensed asbestos removal work.",
+      "link": null
+    },
+    {
+      "text": "You cannot hold 2 asbestos removal licences. If you already hold a licence (for example, from a different state or territory), you’ll need to surrender it or show that it’s going to expire soon.",
+      "link": null
+    },
+    {
+      "text": "Your nominated supervisor must be present when you carry out Class A asbestos removal work.",
+      "link": null
+    },
+    {
+      "text": "Your nominated supervisor must be present or easily able to come to the site when you carry out Class B asbestos removal work.",
+      "link": null
+    },
+    {
+      "text": "Your asbestos-removal training must have been carried out through a SafeWork-approved registered training organisation.",
+      "link": "https://www.safework.nsw.gov.au/hazards-a-z/asbestos/asbestos-workers-and-removalists/training"
+    },
+    {
+      "text": "Asbestos removal licence: Class A",
+      "link": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/class-a-asbestos-removal-licence"
+    },
+    {
+      "text": "Asbestos removal licence: Class B.",
+      "link": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/class-b-asbestos-removal-licence"
+    },
+    {
+      "text": "To make sure you have all the information you need to complete this transaction, visit SafeWork NSW:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Class A friable asbestos",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/class-a-asbestos-removal-licence"
+    },
+    {
+      "text": "Class B non-friable asbestos",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/class-b-asbestos-removal-licence"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "supervisor nomination form – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0019/1402660/Asbestos-Removal-Supervisor-Form.pdf"
+    },
+    {
+      "text": "SafeWork-approved registered training organisation",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/asbestos/asbestos-workers-and-removalists/training"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Notify SafeWork NSW of asbestos removal work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-safework-nsw-of-asbestos-removal-work"
+    },
+    {
+      "text": "Apply for an asbestos assessor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-assessor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to remove asbestos?",
+      "a": "No licence is required to remove less than 10m2 of non-friable asbestos or asbestos-containing materials.",
+      "link": null
+    },
+    {
+      "q": "What are the types of asbestos removal licences?",
+      "a": "There are two types of asbestos removal licence: Class A and Class B.",
+      "link": null
+    },
+    {
+      "q": "Can a Class A licence holder perform Class B work?",
+      "a": "Holders of a Class A licence are also authorised to carry out Class B asbestos removal work.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:05Z",
+    "last_modified": "24 July 2025",
+    "html_sha1": "dc0257ed92ede5bef8bf2ce617b50ce46e9161f5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

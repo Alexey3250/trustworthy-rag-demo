@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/learner-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/learner-driver-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "learner-driver-licence",
+  "title": "Learner driver licence",
+  "summary": "This page provides information and links for applying for, and completing the requirements for, a learner driver licence in NSW.",
+  "topics": [
+    "learner-driver-licence",
+    "driving-test",
+    "road-safety",
+    "nsw-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "What you need to bring for your practical driving test"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Provisional driver licences",
+      "link": "https://www.service.nsw.gov.au/services/provisional-driver-licences"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Learner rider (motorcycle) licence",
+      "link": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    },
+    {
+      "text": "Free online learning resource for supervising drivers",
+      "link": "https://www.transport.nsw.gov.au/roadsafety/young-drivers/supervising-learner-drivers"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Free online learning resource for supervising drivers",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/young-drivers/supervising-learner-drivers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Do your Driver Knowledge Test (DKT) online",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    },
+    {
+      "text": "Book a Driver Knowledge Test (DKT) in-person at a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-knowledge-test-dkt-in-person"
+    },
+    {
+      "text": "View, change or cancel a DKT in-person booking",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Practice tests for the in-person Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    },
+    {
+      "text": "What you need to bring for your practical driving test",
+      "url": "https://www.service.nsw.gov.au/common-questions/practical-driving-test-checklist"
+    },
+    {
+      "text": "Apply for a learner driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    },
+    {
+      "text": "Get the learner driver log book app",
+      "url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app"
+    },
+    {
+      "text": "Replace a learner driver log book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book"
+    },
+    {
+      "text": "Provisional driver licences",
+      "url": "https://www.service.nsw.gov.au/services/provisional-driver-licences"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Learner rider (motorcycle) licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a learner driver licence?",
+      "a": "You can apply for a learner driver licence using the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    },
+    {
+      "q": "How can I take the Driver Knowledge Test (DKT)?",
+      "a": "You can do the DKT online or book it in-person at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What resources are available for learning to drive?",
+      "a": "You can download the Road User Handbook, use the learner driver log book app, and practice tests are available for the in-person DKT.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:51Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "1fe8c79b39265ebda2272da959c8d82e5d589d7b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

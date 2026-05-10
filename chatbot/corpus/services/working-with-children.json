@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/working-with-children",
+  "source_url": "https://www.service.nsw.gov.au/services/working-with-children",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "working-with-children",
+  "title": "Working with Children Check",
+  "summary": "This page provides information on how to apply for, renew, verify, or manage your Working with Children Check (WWCC) details.",
+  "topics": [
+    "working-with-children-check",
+    "wwcc",
+    "apply",
+    "renew",
+    "register-organisation"
+  ],
+  "intro": "Note: The Working with Children Check (WWCC) is an online system and does not have a physical card or certificate. Find out how to access your WWCC details.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "access your WWCC details",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status#accessing-your-working-with-children-check-details"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Renew your Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Add your Working with Children Check to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "Find your Working with Children Check number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    },
+    {
+      "text": "Change your Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    },
+    {
+      "text": "Register an organisation for the online Working with Children Check system",
+      "url": "https://www.service.nsw.gov.au/transaction/register-an-organisation-for-the-online-working-with-children-check-system"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Working with Children Check (WWCC)?",
+      "a": "The WWCC is an online system and does not have a physical card or certificate.",
+      "link": null
+    },
+    {
+      "q": "How can I check the status of my WWCC?",
+      "a": "You can check your Working with Children Check status or access your WWCC details online.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "q": "How do I apply for or renew my WWCC?",
+      "a": "You can apply for a Working with Children Check or renew your existing check through the online system.",
+      "link": null
+    },
+    {
+      "q": "Can I change my WWCC details or upgrade my status?",
+      "a": "You can change your registration details or upgrade your WWCC from volunteer to paid status.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:11Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "8636f46ac92c5c3470b76eba069b77b5528887ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

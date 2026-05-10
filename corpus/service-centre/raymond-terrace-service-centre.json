@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/raymond-terrace-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/raymond-terrace-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "raymond-terrace-service-centre",
+  "title": "Raymond Terrace Service Centre",
+  "summary": "This page provides information about the Raymond Terrace Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "driver-testing",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-32.763077,151.740784"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Maitland Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/maitland-service-centre"
+    },
+    {
+      "text": "Wallsend Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/wallsend-service-centre"
+    },
+    {
+      "text": "Newcastle Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/newcastle-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I pay at the Raymond Terrace Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "What accessibility facilities are available?",
+      "a": "Facilities include Auslan video remote interpreting, hearing loop, Quiet Hour, remote live captioning, wheelchair access, on-site parking, and street parking.",
+      "link": null
+    },
+    {
+      "q": "Where are the nearest Service NSW centres?",
+      "a": "Nearby centres include the Maitland Service Centre, Wallsend Service Centre, and Newcastle Service Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:32Z",
+    "last_modified": null,
+    "html_sha1": "64259277ef7ef16be4be851797bf51d32c71a5c8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

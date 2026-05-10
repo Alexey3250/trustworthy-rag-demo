@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-construction-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-construction-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-construction-certificate",
+  "title": "Apply for a construction certificate",
+  "summary": "Apply online for a construction certificate (CC) to confirm that your building plans comply with the Building Code and development consent.",
+  "topics": [
+    "construction-certificate",
+    "building-code",
+    "development-consent",
+    "nsw-planning-portal"
+  ],
+  "intro": "Before you start any building or construction work, you’ll need to apply for a construction certificate (CC).\n\nThis certificate confirms that the construction plans and development specifications are consistent with the development consent, and comply with the Building Code and any other council requirements.\n\nYou can apply online for a construction certificate via the NSW Planning Portal.",
+  "who_can_apply": [
+    "Hold an approved development consent issued by your local council",
+    "Have met all the requirements council placed on your development consent",
+    "Provide details of the work, such as construction plans and specifications for the development"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or your NSW Planning Portal login details",
+    "Copies of documents for uploading, which may include but are not limited to: your payment for NSW Planning Portal service fees"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application, either:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "as a standalone application, or",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "by connecting to an existing development application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Any changes to construction plans need to be assessed and you may have to submit an application to modify the development consent.",
+      "link": null
+    },
+    {
+      "text": "Developers/builders of class 2 buildings will need to provide a set of declared regulated designs before construction work starts.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/professionals-working-on-regulated-buildings"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Planning Portal service fees",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "Submitting an application for a construction certificate – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/QRGs/Submitting+an+Application+for+a+Construction+Certificate.pdf"
+    },
+    {
+      "text": "declared regulated designs",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/professionals-working-on-regulated-buildings"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply online for a building information certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-online-building-information-certificate"
+    },
+    {
+      "text": "Apply for an occupation certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a construction certificate?",
+      "a": "A construction certificate confirms that the construction plans and development specifications are consistent with the development consent and comply with the Building Code and any other council requirements.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for a construction certificate?",
+      "a": "You can apply online for a construction certificate via the NSW Planning Portal.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a construction certificate?",
+      "a": "You need a MyServiceNSW Account or your NSW Planning Portal login details, and copies of documents such as construction plans and specifications.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:57Z",
+    "last_modified": "6 May 2026",
+    "html_sha1": "3509982552a25e69dd25d21765fa9728f1332928",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

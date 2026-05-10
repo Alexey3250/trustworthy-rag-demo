@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-bureau",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-bureau",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "business-bureau",
+  "title": "Service NSW Business Bureau privacy notice",
+  "summary": "This notice explains what personal information Service NSW Business Bureau collects, why they collect it, and how they will use and disclose it.",
+  "topics": [
+    "business-support",
+    "privacy-notice",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "www.service.nsw.gov.au/privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What personal information does Service NSW Business Bureau collect?",
+      "a": "They collect your name, company details, contact information (email, phone, business address), ABN or ACN, ANZSIC, residential address (including suburb, postcode, and LGA), gender, and national, racial, or cultural origins (including Aboriginal and/or Torres Strait Islander status).",
+      "link": null
+    },
+    {
+      "q": "How can Service NSW Business Bureau collect my information?",
+      "a": "They can collect information through the online webform, in person, telephone calls, or Live Chat.",
+      "link": null
+    },
+    {
+      "q": "Why do you collect my personal information?",
+      "a": "They use the information to provide guidance on your business, help you access support programs, apply for grants and licences, work with councils, understand regulations, and connect you to services and advice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:20Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "d1b3112a16f7204f95e747ecf5cc5df0eb7da7bf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

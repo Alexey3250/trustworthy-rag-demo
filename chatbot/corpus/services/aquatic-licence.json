@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/aquatic-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/aquatic-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "aquatic-licence",
+  "title": "Aquatic licences",
+  "summary": "This page provides information about aquatic licences, including how to apply for one and manage related certificates.",
+  "topics": [
+    "aquatic-licence",
+    "boating",
+    "water-activities",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an aquatic licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-aquatic-licence"
+    },
+    {
+      "text": "Replace an aquatic licence certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-aquatic-licence-certificate"
+    },
+    {
+      "text": "Change address and contact details on an aquatic event licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-an-aquatic-event-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an aquatic licence?",
+      "a": "You can apply for an aquatic licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-aquatic-licence"
+    },
+    {
+      "q": "What if I need to replace my aquatic licence certificate?",
+      "a": "You can replace your aquatic licence certificate through the online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-an-aquatic-licence-certificate"
+    },
+    {
+      "q": "How do I change my address or contact details for an aquatic event licence?",
+      "a": "You can update your details using the online service for aquatic event licences.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-an-aquatic-event-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:36Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "f1ed213b5aced11e9ddb8149643e954ee9693aaa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

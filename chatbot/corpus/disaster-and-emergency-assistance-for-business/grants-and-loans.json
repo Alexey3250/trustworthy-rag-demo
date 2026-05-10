@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans",
+  "source_url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans",
+  "category": "disaster-and-emergency-assistance-for-business",
+  "article_kind": "content",
+  "slug": "grants-and-loans",
+  "title": "Grants, loans and financial assistance",
+  "summary": "Find information and financial assistance options for businesses affected by a disaster or emergency.",
+  "topics": [
+    "business-disaster-assistance",
+    "grants",
+    "loans",
+    "financial-support"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a business affected by a disaster or emergency."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Bureau",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Disaster Assistance Finder",
+      "link": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "link": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Transport subsidy for farmers",
+      "url": "https://www.raa.nsw.gov.au/grants/natural-disaster-transport-subsidy"
+    },
+    {
+      "text": "Disaster relief loans: primary producers",
+      "url": "https://www.raa.nsw.gov.au/loans/natural-disaster-relief-loans/producers"
+    },
+    {
+      "text": "Disaster relief loans: small businesses",
+      "url": "https://www.raa.nsw.gov.au/loans/natural-disaster-relief-loans/natural-disaster-relief-loans-for-small-businesses"
+    },
+    {
+      "text": "Disaster relief loans: non-profit organisations",
+      "url": "https://www.raa.nsw.gov.au/loans/natural-disaster-relief-loans/natural-disaster-relief-loans-for-non-profit-organisations"
+    },
+    {
+      "text": "declared disaster areas.",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "Find support",
+      "url": "https://www.raa.nsw.gov.au/disaster-assistance/declarations"
+    },
+    {
+      "text": "Find assistance",
+      "url": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "text": "Find help",
+      "url": "https://www.disasterassist.gov.au/find-a-disaster/australian-disasters"
+    },
+    {
+      "text": "Farm investment loan",
+      "url": "https://www.ric.gov.au/farm-investment"
+    },
+    {
+      "text": "SafeWork small business rebate",
+      "url": "https://www.nsw.gov.au/grants-and-funding/1000-safework-small-business-rebate"
+    },
+    {
+      "text": "Australian Banking Association",
+      "url": "https://www.ausbanking.org.au/for-customers/financial-difficulty/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general disaster assistance?",
+      "a": "You can find general disaster assistance information at the Service NSW website.",
+      "link": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "q": "What support is available for different types of businesses?",
+      "a": "Specific support is available for primary producers, small businesses, and non-profit organisations.",
+      "link": null
+    },
+    {
+      "q": "How do I find out if my area is a declared disaster area?",
+      "a": "You can check for declared disaster areas on the NSW government website.",
+      "link": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:58Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "c634860b94c4ecd24d6afdae1beb96a7f51593f9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/service-nsw-mobile-app",
+  "source_url": "https://www.service.nsw.gov.au/services/service-nsw-mobile-app",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "service-nsw-mobile-app",
+  "title": "Service NSW Mobile App",
+  "summary": "This page provides information on downloading and using the Service NSW mobile app.",
+  "topics": [
+    "mobile-app",
+    "service-nsw",
+    "account-login",
+    "device-setup"
+  ],
+  "intro": "Download today for:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A device running Android version 9.x (Pie) and higher or iOS 15.5 and higher.",
+    "A MyServiceNSW email address and password to log in."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://itunes.apple.com/au/app/nsw-rego/id577283433?mt=8"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.service"
+    },
+    {
+      "text": "Google Play Store",
+      "url": "https://play.google.com/store/apps/developer?id=Service+NSW"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "Active and Creative Kids",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "non-standard software",
+      "url": "https://www.service.nsw.gov.au/non-standard-software"
+    },
+    {
+      "text": "How to create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "online feedback form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What operating systems are supported by the Service NSW app?",
+      "a": "The app supports Android version 9.x (Pie) and higher, and iOS 15.5 and higher.",
+      "link": null
+    },
+    {
+      "q": "How do I check for and install an app update?",
+      "a": "Open the Service NSW app, select Settings, and scroll down to see the Version number. If an update is available, an update button will appear.",
+      "link": null
+    },
+    {
+      "q": "How do I log in to my MyServiceNSW Account using the app?",
+      "a": "Open the Service NSW app, select Settings, then select the Log in button. Enter your MyServiceNSW email address and password and press Log in. You may need to set a PIN number the first time you log in.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:44Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "07125ea1202f1034b5b5b421d56ae2635809f57e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

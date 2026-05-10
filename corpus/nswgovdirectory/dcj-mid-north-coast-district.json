@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-mid-north-coast-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-mid-north-coast-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-mid-north-coast-district",
+  "title": "DCJ Mid North Coast District",
+  "summary": "This page provides information and contact details for the DCJ Mid North Coast District.",
+  "topics": [
+    "dcj",
+    "mid-north-coast",
+    "community-services",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Coffs Harbour Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/coffs-harbour-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Kempsey Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/kempsey-community-services-centre"
+    },
+    {
+      "text": "Port Macquarie Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/port-macquarie-community-services-centre"
+    },
+    {
+      "text": "Taree Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/taree-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b22f54c1621702d679bd04cb4b92f3bfdd62d4c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

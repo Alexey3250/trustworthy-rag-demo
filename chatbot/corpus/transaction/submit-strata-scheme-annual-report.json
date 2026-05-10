@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-strata-scheme-annual-report",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-strata-scheme-annual-report",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-strata-scheme-annual-report",
+  "title": "Submit a strata scheme annual report",
+  "summary": "Learn how to submit a strata scheme annual report online through the Strata Hub portal.",
+  "topics": [
+    "strata-scheme",
+    "annual-report",
+    "nsw-housing",
+    "owners-corporation"
+  ],
+  "intro": "All strata schemes in NSW need to report online each year through NSW Fair Trading’s Strata Hub portal within 3 months of their Annual General Meeting (AGM).\n\nFines may apply if schemes don’t meet their reporting requirements.\n\nIf you’re responsible for submitting a strata scheme annual report, you’ll need to register for the Strata Hub portal and set up a profile.",
+  "who_can_apply": [
+    "A strata committee member (such as the secretary, chairperson, or treasurer) of the owners corporation",
+    "The appointed strata manager"
+  ],
+  "what_you_need": [
+    "A MyService NSW account",
+    "Login details for the Strata Hub portal",
+    "Information about the strata scheme",
+    "Individual or corporation licence details (if you are a strata manager)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility criteria.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Submit an annual report’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to the Strata Hub portal with the username and password you created when you registered.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/strata/strata-hub"
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete your annual reporting, including making your payment (using credit or debit card, BPAY, PayPal or PayID).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "There is an annual reporting fee, payable per lot.",
+      "link": null
+    },
+    {
+      "text": "You need to update your annual reporting via the Strata Hub portal within 28 days if:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "register",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/strata-hub"
+    },
+    {
+      "text": "information about the strata scheme",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/annual-reporting#toc-how-to-report-for-the-first-time"
+    },
+    {
+      "text": "Strata annual reporting",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/annual-reporting"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "When must a strata scheme submit its annual report?",
+      "a": "All strata schemes in NSW must report online through NSW Fair Trading’s Strata Hub portal within 3 months of their Annual General Meeting (AGM).",
+      "link": null
+    },
+    {
+      "q": "Who can submit the strata scheme annual report?",
+      "a": "A strata committee member (such as the secretary, chairperson, or treasurer) or the appointed strata manager can submit the report.",
+      "link": null
+    },
+    {
+      "q": "What is needed to submit the annual report?",
+      "a": "You will need a MyService NSW account, your Strata Hub portal login details, information about the strata scheme, your licence details (if you are a strata manager), and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:00Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "517d2d9fed65326dc4e87a668cabc243de4c0809",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

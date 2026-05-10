@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-combat-sports-class-or-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-combat-sports-class-or-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-combat-sports-class-or-registration",
+  "title": "Surrender a combat sports class or registration",
+  "summary": "Learn how to notify the Combat Sports Authority of NSW if you need to surrender a combat sports class or registration.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "surrender",
+    "nsw"
+  ],
+  "intro": "If you no longer require a combat sports class or you want to surrender your registration (for example if you are moving interstate or overseas), you need to notify the Combat Sports Authority of NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your registration details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Have your registration details ready.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the Combat Sports Authority form Surrender a combat sports class or registration.",
+      "link": "https://forms.office.com/r/L7zKJA0pr3?origin=lprLink"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Surrender a combat sports class or registration",
+      "url": "https://forms.office.com/r/L7zKJA0pr3?origin=lprLink"
+    },
+    {
+      "text": "Combatant registration – frequently asked questions",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/combatant-registration"
+    },
+    {
+      "text": "Industry participant and promoter registration – frequently asked questions",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/industry-participant-and-promoter-registration#what-is-a-passport-style-photograph"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage classes on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "text": "Manage classes on an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-industry-participant-and-promoter"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:43Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "1d86b80919a1df6f8e8e3d1d33d1706195fcc8ce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

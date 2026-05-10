@@ -1,0 +1,157 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-heavy-vehicle-registration",
+  "title": "Apply for a heavy vehicle registration",
+  "summary": "Learn how to apply for a heavy vehicle registration at a Service NSW Centre.",
+  "topics": [
+    "heavy-vehicle",
+    "registration",
+    "service-nsw",
+    "vehicle-licence"
+  ],
+  "intro": "Heavy vehicles must be registered, and this can be done at a Service NSW Centre. The following types of vehicles are classified as heavy vehicles:",
+  "who_can_apply": [
+    "The vehicle must be a heavy vehicle and must be registered."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Compulsory third party (CTP) certification (green slip)",
+    "Concession details (if applicable)",
+    "Business details, including representative authority (if required)",
+    "Driver licence details",
+    "New Heavy Vehicle Certification form (for trailers only)",
+    "Heavy Vehicle Authorised Inspection Scheme (HVAIS) inspection certificate",
+    "Nominated Configuration Code",
+    "Proof of registration entitlement (receipt or proof of previous registration)",
+    "Weighbridge certificate (if vehicle is a trailer with no specification sheet)",
+    "Vehicle compliance certificate (if vehicle has been modified)",
+    "The PDF form – 'Application for Registration'",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Tare weight equals the empty weight of your vehicle (also known as unladen weight).",
+      "link": null
+    },
+    {
+      "text": "If your vehicle is non-standard, then a vehicle standard exemption permit issued by the National Heavy Vehicle Regulator must also be presented when applying for registration (trailers only).",
+      "link": null
+    },
+    {
+      "text": "If you have a New Heavy Vehicle Certification form that has been completed by the trailer manufacturer, dealer or distributor, you won't be required to get a vehicle inspection or a weighbridge ticket (trailers only).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Nominated Configuration Code",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-5"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Heavy vehicle forms",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/application-forms/heavy-vehicle-operator-forms"
+    },
+    {
+      "text": "Heavy vehicle bookings",
+      "url": "https://ibs.transport.nsw.gov.au"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the details of a heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle"
+    },
+    {
+      "text": "Renew a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration"
+    },
+    {
+      "text": "Apply to re-register a public or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-re-register-a-public-or-heavy-vehicle-without-an-hvis-inspection"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I apply for a heavy vehicle registration?",
+      "a": "You must apply for heavy vehicle registration at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What types of vehicles are considered heavy vehicles?",
+      "a": "Heavy vehicles must be registered. The page does not list specific types of vehicles, only that they must be registered.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for registration?",
+      "a": "You need proof of identity, CTP certification (green slip), business details, driver licence details, and other required documentation depending on the vehicle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:50Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "91219b2f56a3bfe9f15bcaae91a09f1d074a62b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

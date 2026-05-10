@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/early-childhood-education-and-care-providers",
+  "source_url": "https://www.service.nsw.gov.au/referral/early-childhood-education-and-care-providers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "early-childhood-education-and-care-providers",
+  "title": "Give feedback on an early childhood education and care service",
+  "summary": "This page provides information and resources for giving feedback or making complaints about an early childhood education and care service.",
+  "topics": [
+    "early-childhood-education",
+    "care-providers",
+    "feedback",
+    "complaints"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "search for a provider by suburb",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "find providers by service type or rating",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "calculate the child care subsidy.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Child Care Subsidy calculator",
+      "link": "https://startingblocks.gov.au/child-care-subsidy-calculator"
+    },
+    {
+      "text": "For approved providers: Displaying compliance and quality history",
+      "link": "https://education.nsw.gov.au/early-childhood-education/regulation-and-compliance/compliance-and-enforcement-actions/displaying-compliance-and-quality-history"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Contact the NSW Department of Education",
+      "url": "https://education.nsw.gov.au/early-childhood-education/regulation-and-compliance/how-to-give-feedback-or-make-a-complaint"
+    },
+    {
+      "text": "quality areas",
+      "url": "https://www.startingblocks.gov.au/resources/choosing-a-service/learn-about-quality"
+    },
+    {
+      "text": "choosing a quality service",
+      "url": "https://education.nsw.gov.au/early-childhood-education/information-for-parents-and-carers/choosing-a-service"
+    },
+    {
+      "text": "Go to the StartingBlocks – Find a Child Care service",
+      "url": "https://www.startingblocks.gov.au/find-child-care"
+    },
+    {
+      "text": "Child Care Subsidy calculator",
+      "url": "https://startingblocks.gov.au/child-care-subsidy-calculator"
+    },
+    {
+      "text": "For approved providers: Displaying compliance and quality history",
+      "url": "https://education.nsw.gov.au/early-childhood-education/regulation-and-compliance/compliance-and-enforcement-actions/displaying-compliance-and-quality-history"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find information about early childhood education and care providers?",
+      "a": "You can find a child care service using the StartingBlocks tool.",
+      "link": "https://www.startingblocks.gov.au/find-child-care"
+    },
+    {
+      "q": "How can I calculate the child care subsidy?",
+      "a": "You can use the Child Care Subsidy calculator.",
+      "link": "https://startingblocks.gov.au/child-care-subsidy-calculator"
+    },
+    {
+      "q": "Where do I go if I want to give feedback or make a complaint?",
+      "a": "You can contact the NSW Department of Education for feedback or complaints.",
+      "link": "https://education.nsw.gov.au/early-childhood-education/regulation-and-compliance/how-to-give-feedback-or-make-a-complaint"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:24Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "12a784cee9d3c6ba88875faac6237100ddedced3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

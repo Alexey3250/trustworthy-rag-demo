@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre",
+  "category": "service-centre",
+  "article_kind": "landing-page",
+  "slug": "service-centre",
+  "title": "Find a Service NSW location",
+  "summary": "Find information and locations for Service NSW services, including service centres and mobile locations.",
+  "topics": [
+    "service-centre",
+    "nsw-services",
+    "find-location",
+    "appointments"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Documents you'll need to renew your NSW Driver Licence in person",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/renewing-or-replacing-your-licence/how-to-renew-your-licence#toc-renewing-in-person"
+    },
+    {
+      "text": "Set up a MyService NSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "View all Mobile Service Centre locations",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "Book an appointment at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "Work licences and certification – check what you'll need to bring",
+      "url": "https://www.service.nsw.gov.au/services/employment-and-industries"
+    },
+    {
+      "text": "What you'll need for an International Driver Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "How to renew your WWCC",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc#renew-at-a-service-centre"
+    },
+    {
+      "text": "read a visual story",
+      "url": "https://www.service.nsw.gov.au/services/visual-stories"
+    },
+    {
+      "text": "View Quiet Hours times",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    },
+    {
+      "text": "View locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find a Service NSW location?",
+      "a": "You can find Service NSW locations and details on the website.",
+      "link": null
+    },
+    {
+      "q": "Do I need to book an appointment?",
+      "a": "You can book an appointment at a service centre.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "q": "Are there mobile service centres?",
+      "a": "Yes, you can view all Mobile Service Centre locations.",
+      "link": "https://www.service.nsw.gov.au/mobile-service-centres"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:38Z",
+    "last_modified": null,
+    "html_sha1": "7e5454e529d2a762e2431a588b4a7be31f486037",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

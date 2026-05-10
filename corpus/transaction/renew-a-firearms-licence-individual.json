@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-individual",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-individual",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-firearms-licence-individual",
+  "title": "Renew a firearms licence (individual)",
+  "summary": "Renew your individual firearms licence online before the expiry date to ensure your authority to possess or use firearms continues.",
+  "topics": [
+    "firearms-licence",
+    "renew-licence",
+    "nsw-service"
+  ],
+  "intro": "You must lodge your online renewal application before your current licence expiry date. This is necessary so that your authority to possess or use firearms under your current licence will continue, while your renewal is being processed.\n\nThe Firearms Registry will email you a renewal notice if you have a Gun Safe account, or send a letter by mail when your licence is within 90 days of expiring. They will send you a second email or letter within 30 days of your licence expiring. If you have not renewed it within 7 days of its expiry date, they will send you an SMS reminder or contact you by phone.\n\nYou can select to add or delete a genuine reason or category, or request a fee exemption if your pensioner status has changed, when renewing your current licence through the online renewal process only.",
+  "who_can_apply": [
+    "Hold a current NSW individual firearms licence that is within 90 days of expiring.",
+    "Have received notification from the Firearms Registry advising you to lodge your licence renewal online.",
+    "Be a resident of NSW."
+  ],
+  "what_you_need": [
+    "Proof of identity documents (e.g., driver licence and Medicare card).",
+    "A MyServiceNSW Account.",
+    "Your current firearms licence number.",
+    "Details of the address(s) where you will safely store your firearms (if applicable).",
+    "Documentation to support your genuine reason/category (if applicable).",
+    "A current credit card (Visa or Mastercard) for payment.",
+    "A copy of your current pensioner card (if you are eligible for a fee exemption)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You will be taken to the NSW Police Force Community Self Service Portal.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check that you have all the documentation required.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Log in with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your renewal application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562 between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "safely store your firearms",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    },
+    {
+      "text": "Firearm licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/854721/NSWPF_Firearms_Registry_Privacy_Collection_Notice.pdf"
+    },
+    {
+      "text": "Licence Categories and Firearm Types – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0007/133198/Licence_Categories_and_Firearm_Types_FACT_Sheet.pdf"
+    },
+    {
+      "text": "Licence Categories & Genuine Reason Table – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0015/133134/GR_TABLE.pdf"
+    },
+    {
+      "text": "Firearms Registry Schedule of Fees – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/133188/Fee_Schedule.pdf"
+    },
+    {
+      "text": "Legislative Requirements Firearms Licence Holder – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/184947/Legislative_Requirements_Licence_Holder.pdf"
+    },
+    {
+      "text": "Firearms Register of Licences and Permits to Acquire – NSW Police",
+      "url": "https://apps.police.nsw.gov.au/FPR/licenceCheck/search.jsp"
+    },
+    {
+      "text": "Firearms Data – NSW Police",
+      "url": "https://www.police.nsw.gov.au/about_us/information_of_interest_to_the_community/firearms_data"
+    },
+    {
+      "text": "Firearms Licences: Genuine reasons – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/licences#GR"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a permit to acquire a firearm (PTA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How will I be notified that my licence is expiring?",
+      "a": "If you have a Gun Safe account, the Firearms Registry will email you a renewal notice. Otherwise, they will send a letter by mail when your licence is within 90 days of expiring.",
+      "link": null
+    },
+    {
+      "q": "What happens if I do not renew my licence on time?",
+      "a": "If you have not renewed it within 7 days of its expiry date, the Firearms Registry will send you an SMS reminder or contact you by phone.",
+      "link": null
+    },
+    {
+      "q": "Can I change my genuine reason or category when renewing?",
+      "a": "Yes, when renewing through the online process, you can select to add or delete a genuine reason or category, or request a fee exemption if your pensioner status has changed.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:10Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "99b5c56ac3319438a423b683da02f5e097e2d42c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

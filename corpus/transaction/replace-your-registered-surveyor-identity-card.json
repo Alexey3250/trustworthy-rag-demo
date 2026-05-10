@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-your-registered-surveyor-identity-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-your-registered-surveyor-identity-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-your-registered-surveyor-identity-card",
+  "title": "Replace your registered surveyor identity card",
+  "summary": "You can order a replacement registered surveyor identity card online if your current card has been lost, damaged, destroyed, or stolen.",
+  "topics": [
+    "surveyor-id-card",
+    "replace-card",
+    "nsw-service"
+  ],
+  "intro": "If your registered surveyor ID card (certificate of authority) has been lost, damaged, destroyed or stolen, you can order a replacement online.\n\nTo check your licence or registration details visit Verify NSW.",
+  "who_can_apply": [
+    "You can apply for a replacement ID card online if your name or address details have not changed since your last ID card was issued.",
+    "If your details have changed, you must complete the online form to update your contact details."
+  ],
+  "what_you_need": [
+    "Your surveyor licence or registration number",
+    "A passport quality photo in JPG format",
+    "A credit or debit card to pay the replacement fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Replace online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a replacement identity card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    },
+    {
+      "text": "replacement fee",
+      "url": "https://www.bossi.nsw.gov.au/__data/assets/pdf_file/0011/232697/BOSSI_Fees_Schedule_2024-2025.pdf"
+    },
+    {
+      "text": "Board of Surveying and Spatial Information (BOSSI)",
+      "url": "https://www.bossi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "update your contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    },
+    {
+      "text": "Renew your surveyor registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I check my licence or registration details?",
+      "a": "You can check your licence or registration details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/BOSSI"
+    },
+    {
+      "q": "What do I do if my name or address details have changed?",
+      "a": "If your details have changed, you must complete the online form to update your contact details before applying for a replacement card.",
+      "link": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    },
+    {
+      "q": "What do I need to replace my identity card?",
+      "a": "You need your surveyor licence or registration number, a passport quality photo in JPG format, and a credit or debit card to pay the replacement fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:27Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "e7861e81faca0ebd73882070f293d4211c37576e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

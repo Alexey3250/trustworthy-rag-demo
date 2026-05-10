@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-veterans-or-war-widow-ers",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-veterans-or-war-widow-ers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-veterans-or-war-widow-ers",
+  "title": "Public transport concessions for veterans or war widow/ers",
+  "summary": "This page provides information about public transport concessions available for veterans or war widows.",
+  "topics": [
+    "veterans",
+    "war-widows",
+    "public-transport",
+    "concessions"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Veterans",
+    "War widows"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/veteran"
+    },
+    {
+      "text": "Local Transport Operators",
+      "url": "https://transportnsw.info/operators"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find more information about my concession?",
+      "a": "You can check the Transport for NSW website for details on eligibility and concessions.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/veteran"
+    },
+    {
+      "q": "Does my pass work outside the Opal network?",
+      "a": "For regional travel, your pass may also entitle you to use services outside the Opal network. You should check with Local Transport Operators to confirm if they recognise the pass.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:56Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "cbbf9557e30932a3d14d632a5e503e800ac2d951",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

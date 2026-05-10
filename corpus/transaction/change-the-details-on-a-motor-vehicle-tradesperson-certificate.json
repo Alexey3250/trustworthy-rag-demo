@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-motor-vehicle-tradesperson-certificate",
+  "title": "Change the details on a motor vehicle tradesperson certificate",
+  "summary": "Learn how to notify NSW Fair Trading if your name or contact details have changed on your motor vehicle tradesperson certificate.",
+  "topics": [
+    "motor-vehicle",
+    "tradesperson-certificate",
+    "name-change",
+    "contact-details"
+  ],
+  "intro": "If you hold a motor vehicle tradesperson certificate and your name or contact information has changed, you need to notify NSW Fair Trading.\n\nTo look up your certificate number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "You hold a motor vehicle tradesperson certificate and your name or contact information has changed."
+  ],
+  "what_you_need": [
+    "Your certificate number",
+    "Evidence of your name change, such as a change of name or marriage certificate (if applicable)",
+    "The PDF form: 'Change of name or contact details'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form, including the declaration.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach your supporting document for change of name (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit the form and attachment (if applicable):",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check my certificate number and details?",
+      "a": "You can look up your certificate number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "What do I need to change my details?",
+      "a": "You need your certificate number, evidence of your name change (if applicable), and the 'Change of name or contact details' PDF form.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit the form?",
+      "a": "You can submit the form and attachment at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:10Z",
+    "last_modified": "2 September 2025",
+    "html_sha1": "7b35e1d397df5601802bf586d0148f1187064c53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-liability-claim-with-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-liability-claim-with-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-public-liability-claim-with-transport-for-nsw",
+  "title": "Lodge a public liability claim with Transport for NSW",
+  "summary": "Find out how to lodge a public liability claim with Transport for NSW if your property was damaged due to the condition of a NSW public road.",
+  "topics": [
+    "public-liability-claim",
+    "transport-for-nsw",
+    "road-damage",
+    "nsw-roads"
+  ],
+  "intro": "If your car or other property has been damaged due to the condition of a NSW public road, you may be eligible to claim the repair costs.\n\nIf you would like to make a claim, you should review the information on this page and then submit the claim form to Transport for NSW for review.\n\n### How claims are assessed\n\nTransport for NSW will assess claims in accordance with the provisions of the Civil Liability Act 2002.\n\nThis may take 6 weeks or longer depending on the complexities of the claim.\n\nIt is important to note that, as set out in the Act, Transport for NSW may not be liable for damage arising from potholes or other hazards on the road unless Transport for NSW was aware of the particular risk and failed to address the issue.",
+  "who_can_apply": [
+    "Your car or other property was damaged due to the condition of a NSW public road."
+  ],
+  "what_you_need": [
+    "The 'Public Liability Claim Form' PDF.",
+    "Your personal details.",
+    "Map or diagram of the incident location.",
+    "Photographs of the incident location.",
+    "A photocopy of the driver licence of the person driving the vehicle at the time.",
+    "The details of the damaged vehicle.",
+    "Photographs of the damage to the vehicle and/or other property.",
+    "Supporting evidence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach all supporting evidence, and submit your completed application to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once you've submitted your application you'll receive a letter from Transport for NSW (TfNSW) confirming receipt of your documents and requesting further information if required.",
+      "link": null
+    },
+    {
+      "text": "TfNSW will investigate your claim. This may take 6 weeks or longer, depending on the complexities of the claim.",
+      "link": null
+    },
+    {
+      "text": "The claim may be referred to other parties. If this occurs, you'll be notified in writing and provided contact details.",
+      "link": null
+    },
+    {
+      "text": "Once the investigation is complete, TfNSW will notify you of their decision, in writing.",
+      "link": null
+    },
+    {
+      "text": "If you want to dispute the decision, you can request a re-investigation by providing a written response outlining your reasons.",
+      "link": null
+    },
+    {
+      "text": "If your claim is accepted, you'll need to sign a Deed of Release (in the presence of a witness) and return the signed document to TfNSW.",
+      "link": null
+    },
+    {
+      "text": "Payment will only be made once the signed Deed of Release is returned.",
+      "link": null
+    },
+    {
+      "text": "Payment will only be made to the owner of the damaged property.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 5084: Public Liability Claim Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45064885-public-liability-claim-form.pdf"
+    },
+    {
+      "text": "Roads and waterways – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How long does it take to assess a claim?",
+      "a": "Assessment may take 6 weeks or longer, depending on the complexities of the claim.",
+      "link": null
+    },
+    {
+      "q": "Can Transport for NSW be held liable for road hazards?",
+      "a": "Transport for NSW may not be liable for damage from potholes or other hazards unless they were aware of the risk and failed to address the issue.",
+      "link": null
+    },
+    {
+      "q": "What is required to lodge a claim?",
+      "a": "You need the 'Public Liability Claim Form', your personal details, photos of the incident, and details of the damaged vehicle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:48Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "35ae215618d3bf4358a9ecd1b819a4dff1146fe2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

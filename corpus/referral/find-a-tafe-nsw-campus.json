@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-campus",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-campus",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-tafe-nsw-campus",
+  "title": "Find a TAFE NSW campus",
+  "summary": "Use an online tool or map to find TAFE NSW campuses and their contact details.",
+  "topics": [
+    "tafe-nsw",
+    "campus",
+    "education",
+    "training"
+  ],
+  "intro": "There are more than 130 metropolitan and regional campuses managed by TAFE NSW.\n\nTo find a TAFE NSW campus, including its contact details, you can use an online search tool or map.\n\nYou can search by:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "TAFE NSW",
+      "url": "https://www.tafensw.edu.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a TAFE NSW course",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:33Z",
+    "last_modified": "22 January 2025",
+    "html_sha1": "223d1abbc1a636c3ea1461e53fea811a7ac615db",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

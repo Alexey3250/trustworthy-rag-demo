@@ -1,0 +1,129 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-an-annual-summary-of-financial-affairs-tier-1-and-2-associations",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-an-annual-summary-of-financial-affairs-tier-1-and-2-associations",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-an-annual-summary-of-financial-affairs-tier-1-and-2-associations",
+  "title": "Lodge an annual summary of financial affairs: Tier 1 and 2 associations",
+  "summary": "This page explains the process and requirements for Tier 1 and Tier 2 associations to lodge an annual summary of their financial affairs.",
+  "topics": [
+    "associations",
+    "financial-affairs",
+    "lodging-summary",
+    "tier-1-tier-2"
+  ],
+  "intro": "Tier 1 (large) and Tier 2 (small) associations are required to lodge an annual summary of their financial affairs at the earlier date of either:\n\nLate fees apply if you lodge your annual summary more than one month after the AGM.\n\n### Definitions\n\nTier 1 and Tier 2 associations are defined by the gross receipts or total revenue (income or money collected) and current assets (cash, bank accounts or shares) held in the association’s financial year.\n\nA Tier 1 association has:\n\nA Tier 2 association has:",
+  "who_can_apply": [
+    "Any representative of an association authorized by the committee"
+  ],
+  "what_you_need": [
+    "Your name and contact details",
+    "The association details",
+    "The number of members, committee members, and employees",
+    "Details of the current public officer and official address",
+    "The date of the annual general meeting",
+    "Financial information (total revenue, expenditure, and current assets)",
+    "For Tier 1 associations only: Payment of the lodgement fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the relevant online form with the required documents and your payment:",
+      "link": "https://associations.fairtrading.nsw.gov.au/forms/a12-t1"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Tier 1 and Tier 2 associations have different requirements for financial reporting, lodgement forms and fees.",
+      "link": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/running-an-incorporated-association/financial-reporting-requirements"
+    },
+    {
+      "text": "If the details of the association's public officer or official address have changed since your last lodgement, you should also lodge a Notice of appointment of public officer and Notice of change of association address.",
+      "link": "https://associations.fairtrading.nsw.gov.au/forms/a9"
+    },
+    {
+      "text": "If you need any assistance call 1800 502 042.",
+      "link": "tel:1800502042"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Fair Trading website",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/running-an-incorporated-association/financial-reporting-requirements"
+    },
+    {
+      "text": "Form A12-T1 Annual summary of financial affairs – Tier 1",
+      "url": "https://associations.fairtrading.nsw.gov.au/forms/a12-t1"
+    },
+    {
+      "text": "Form A12-T2 Annual summary of financial affairs – Tier 2",
+      "url": "https://associations.fairtrading.nsw.gov.au/forms/a12-t2"
+    },
+    {
+      "text": "Notice of appointment of public officer and Notice of change of association address",
+      "url": "https://associations.fairtrading.nsw.gov.au/forms/a9"
+    },
+    {
+      "text": "Tier 1 incorporated associations financial reporting – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/running-an-incorporated-association/financial-reporting-requirements/tier-1-incorporated-associations-financial-reporting"
+    },
+    {
+      "text": "Tier 2 incorporated associations financial reporting – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/running-an-incorporated-association/financial-reporting-requirements/tier-2-incorporated-associations-financial-reporting"
+    },
+    {
+      "text": "Incorporated associations forms and fees – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/incorporated-associations-forms-and-fees"
+    },
+    {
+      "text": "Incorporated associations – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/about-incorporated-associations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to register an incorporated association",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-incorporated-association"
+    },
+    {
+      "text": "Apply to reserve an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-reserve-an-association-name"
+    },
+    {
+      "text": "Check availability of an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When must an annual summary of financial affairs be lodged?",
+      "a": "The annual summary must be lodged by the earlier date of either the AGM or one month after the AGM. Late fees apply if lodged more than one month after the AGM.",
+      "link": null
+    },
+    {
+      "q": "How are Tier 1 and Tier 2 associations defined?",
+      "a": "Associations are defined by their gross receipts or total revenue and current assets held during the financial year.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to lodge the annual summary?",
+      "a": "Any representative of an association authorized by the committee is eligible to lodge the annual summary.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:27Z",
+    "last_modified": "14 April 2026",
+    "html_sha1": "3709d0f4dbacd70c7fabd5ae7e8e2659f8d1b31b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

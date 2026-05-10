@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/request-a-proof-of-divorce-order",
+  "source_url": "https://www.service.nsw.gov.au/referral/request-a-proof-of-divorce-order",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "request-a-proof-of-divorce-order",
+  "title": "Request a proof of divorce order",
+  "summary": "This page provides information on how to obtain proof of a divorce order depending on when the divorce was granted and where it was granted.",
+  "topics": [
+    "divorce",
+    "divorce-order",
+    "proof-of-divorce",
+    "family-law"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The divorce was granted after 13 February 2010.",
+    "The divorce was granted before 13 February 2010.",
+    "The divorce order is for someone else.",
+    "The divorce was granted before 1976.",
+    "The divorce was granted in Western Australia.",
+    "The divorce was granted outside Australia."
+  ],
+  "what_you_need": [
+    "No specific items are listed, but the process depends on the date and location of the divorce.",
+    "For divorces before 1976, contact the Supreme Court in the state or territory where the divorce was granted.",
+    "For divorces in Western Australia, contact the Family Court of Western Australia."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For information about applying for a divorce, serving a divorce, the divorce hearing and invalid marriages, visit the Federal Circuit and Family Court of Australia website – Divorce.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Proof of divorce",
+      "url": "https://www.fcfcoa.gov.au/fl/divorce/proof"
+    },
+    {
+      "text": "Family Court of Western Australia",
+      "url": "https://www.familycourt.wa.gov.au/D/divorce_orders.aspx"
+    },
+    {
+      "text": "Smartraveller website",
+      "url": "https://www.smartraveller.gov.au/consular-services/notarial-services"
+    },
+    {
+      "text": "Getting a divorce",
+      "url": "https://www.nsw.gov.au/family-and-relationships/getting-a-divorce"
+    },
+    {
+      "text": "Federal Circuit and Family Court of Australia website – Divorce",
+      "url": "https://www.fcfcoa.gov.au/fl/divorce/divorce-overview"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How do I get a proof of divorce order for a divorce granted after 13 February 2010?",
+      "a": "You can order the proof online, and this service is free.",
+      "link": null
+    },
+    {
+      "q": "Is there a fee to order a proof of divorce order for a divorce granted before 13 February 2010?",
+      "a": "Yes, there is a fee for this service.",
+      "link": null
+    },
+    {
+      "q": "What if my divorce order was granted outside of Australia?",
+      "a": "Contact the relevant court or authority in the country where the divorce was granted. For more information about legalising documents in Australia or overseas, visit the Smartraveller website.",
+      "link": "https://www.smartraveller.gov.au/consular-services/notarial-services"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:32Z",
+    "last_modified": "31 October 2025",
+    "html_sha1": "0f9cb05c8d4828cdf581c8b16a58fff38a116920",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

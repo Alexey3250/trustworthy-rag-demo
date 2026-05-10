@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-award-rates-pay-and-wages",
+  "title": "Check award rates, pay and wages",
+  "summary": "This page provides information on workplace rights, responsibilities, and tools for checking award rates, pay, and wages.",
+  "topics": [
+    "wages",
+    "pay-rates",
+    "workplace-rights",
+    "employment-law"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have a workplace question you can contact the Fair Work Ombudsman.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Fair Work Act 2009",
+      "url": "https://www.legislation.gov.au/C2009A00028/latest/versions"
+    },
+    {
+      "text": "National Employment Standards",
+      "url": "https://www.fairwork.gov.au/employment-conditions/national-employment-standards"
+    },
+    {
+      "text": "Fair Work Ombudsman website",
+      "url": "https://www.fairwork.gov.au/"
+    },
+    {
+      "text": "pay and conditions tool",
+      "url": "https://calculate.fairwork.gov.au/"
+    },
+    {
+      "text": "pay calculator",
+      "url": "https://calculate.fairwork.gov.au/findyouraward"
+    },
+    {
+      "text": "leave calculator",
+      "url": "https://calculate.fairwork.gov.au/Leave"
+    },
+    {
+      "text": "notice and redundancy calculator",
+      "url": "https://calculate.fairwork.gov.au/EndingEmployment"
+    },
+    {
+      "text": "awards and registered agreements",
+      "url": "https://www.fairwork.gov.au/employment-conditions"
+    },
+    {
+      "text": "contact the Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/about-us/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who should I contact with workplace questions?",
+      "a": "You can contact the Fair Work Ombudsman.",
+      "link": "https://www.fairwork.gov.au/about-us/contact-us"
+    },
+    {
+      "q": "What are the key employment laws I should know about?",
+      "a": "Employers must follow the federal Fair Work Act 2009 and the National Employment Standards.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about my pay rates and entitlements?",
+      "a": "You can find information on award pay rates, penalty rates, minimum wages, and how wages are paid.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:58Z",
+    "last_modified": "13 May 2025",
+    "html_sha1": "a3801d98bffc7cb6c8913365449a68b27d7efff6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

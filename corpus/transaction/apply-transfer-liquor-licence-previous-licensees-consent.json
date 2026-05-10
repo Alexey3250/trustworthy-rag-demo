@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-transfer-liquor-licence-previous-licensees-consent",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-transfer-liquor-licence-previous-licensees-consent",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-transfer-liquor-licence-previous-licensees-consent",
+  "title": "Apply to transfer a liquor licence (with previous licensee's consent)",
+  "summary": "You can apply to transfer a liquor licence online if you have the consent of the previous licensee.",
+  "topics": [
+    "liquor-licence",
+    "transfer",
+    "business-transfer",
+    "nsw-service"
+  ],
+  "intro": "You can transfer a liquor licence when you buy or sell a business or when you want to change the licensee. Usually Liquor & Gaming NSW will give you provisional approval, so the business can continue operating. Confirmation of the transfer will take about 60 days if all relevant training has been completed.\n\nIf you have the necessary authorisation, you can transfer online.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "The existing licensee",
+    "The proposed licensee",
+    "The premises owner",
+    "The business owner",
+    "Secretary or other office-bearer (for a limited liquor licence held by a non-proprietary association)",
+    "General manager of a council (for a limited liquor licence held by a non-proprietary association that is a public authority or community association)",
+    "Applicants must be 18 years or older"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Liquor licence name and number",
+    "Name and contact details of the person lodging the form",
+    "The intended transfer date (must be at least 10 business days after application)",
+    "Representative's name and contact details (if applicable)",
+    "Proof of ownership (if you are the premises owner)",
+    "Details of the proposed licensee's industry experience and profile",
+    "Completed direct debit request form – PDF (if operating gaming machines)",
+    "Declaration by existing licensee",
+    "Declaration by proposed licensee (if the applicant is not the proposed licensee)",
+    "Copy of your NSW National Police Check certificate (must be less than 3 months old)",
+    "Evidence of Responsible Service of Alcohol (RSA) qualification",
+    "Evidence of Responsible Conduct of Gambling (RCG) qualification (if operating gaming machines)",
+    "Personal details and evidence of an appointed liquor approved manager",
+    "Transferee's current Australian Securities and Investments Commission (ASIC) company information report showing directors and shareholders"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your name and licence details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'transfer liquor licence'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in with your MyServiceNSW Account or create an account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to transfer a liquor licence (with previous licensee's consent).",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Attach supporting documents.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Submit your application with payment",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "direct debit request form – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/gaming/gaming-resource-library/direct-debit"
+    },
+    {
+      "text": "Declaration by existing licensee",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/resources/declarations"
+    },
+    {
+      "text": "Declaration by incoming manager",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/forms-licensed-venue-mgrs"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW National Police Check certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (without previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-without-previous-licensees-consent"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (due to death, disability or bankruptcy of licensee)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-due-to-death-disability-or-bankruptcy-of-licensee"
+    },
+    {
+      "text": "Apply to transfer a club liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-club-liquor-licence"
+    },
+    {
+      "text": "Apply for a notice of licence transfer",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-streamlined-liquor-licence-transfer"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does the transfer confirmation take?",
+      "a": "Confirmation of the transfer will take about 60 days if all relevant training has been completed.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to transfer a liquor licence?",
+      "a": "Applicants can be the existing licensee, proposed licensee, premises owner, business owner, or other specific roles depending on the type of licence.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for a liquor licence transfer?",
+      "a": "You will need a MyServiceNSW Account, the licence details, and various supporting documents such as police checks and qualifications.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:04Z",
+    "last_modified": "2 October 2025",
+    "html_sha1": "a0caf2e4672c9411d4fdcaa249a390322f365fc6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/trustee-and-guardian-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/trustee-and-guardian-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "trustee-and-guardian-nsw",
+  "title": "Trustee and Guardian, NSW",
+  "summary": "This page provides information about the roles and services of the NSW Trustee and Guardian.",
+  "topics": [
+    "trustee",
+    "guardian",
+    "nsw",
+    "estate-planning",
+    "legal-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian"
+    },
+    {
+      "text": "Make a will",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/make-your-will-nsw-trustee-guardian"
+    },
+    {
+      "text": "Guide for executors",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors#toc-nsw-trustee-and-guardian-is-the-executor"
+    },
+    {
+      "text": "Make a Power of Attorney",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/make-power-of-attorney"
+    },
+    {
+      "text": "Choose an Enduring Guardian",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/choose-enduring-guardian"
+    },
+    {
+      "text": "Find a location or community event",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-locations"
+    },
+    {
+      "text": "NSW Trustee and Guardian fees",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Trustee and Guardian?",
+      "a": "The NSW Trustee and Guardian is a service that provides assistance with managing property and making decisions for people who are unable to do so themselves.",
+      "link": null
+    },
+    {
+      "q": "How can I plan for my future?",
+      "a": "You can make a will, make a Power of Attorney, or choose an Enduring Guardian to help plan for your future.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information?",
+      "a": "You can find more information about the NSW Trustee and Guardian on the NSW Government website.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:02Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "f5b40dccc695f096771b2d6a89f465293420f10d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

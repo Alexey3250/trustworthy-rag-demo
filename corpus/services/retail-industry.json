@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/retail-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/retail-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "retail-industry",
+  "title": "Retail industry",
+  "summary": "Find information and licences for various retail and hospitality businesses in New South Wales.",
+  "topics": [
+    "retail",
+    "business-licences",
+    "hospitality",
+    "skills-training",
+    "pawnbroker"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Starting a business",
+      "link": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Business licences",
+      "link": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Hospitality industry",
+      "link": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Skills NSW programs",
+      "url": "https://education.nsw.gov.au/skills-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pawnbroker and second-hand dealer licences",
+      "url": "https://www.service.nsw.gov.au/services/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Tattooist and tattoo master licences",
+      "url": "https://www.service.nsw.gov.au/services/tattooist-and-tattoo-master-licences"
+    },
+    {
+      "text": "Tobacco licences",
+      "url": "https://www.service.nsw.gov.au/services/tobacco-retailers"
+    },
+    {
+      "text": "Hospitality industry training (RSA, RCG, ARCG)",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Starting a business",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Business licences",
+      "url": "https://www.service.nsw.gov.au/business/business-licences"
+    },
+    {
+      "text": "Hospitality industry",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:15Z",
+    "last_modified": "21 April 2026",
+    "html_sha1": "b70c5b3abb2c7cb81bdd3bd24d1d8238884ff01c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

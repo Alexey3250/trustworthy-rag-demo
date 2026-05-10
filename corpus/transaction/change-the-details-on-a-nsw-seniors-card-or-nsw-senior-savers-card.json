@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card",
+  "title": "Change the details on a NSW Seniors Card or NSW Senior Savers Card",
+  "summary": "You can change the details on your NSW Seniors Card or NSW Senior Savers Card online or by calling 13 77 88.",
+  "topics": [
+    "nsw-seniors-card",
+    "nsw-senior-savers-card",
+    "change-details",
+    "account-management"
+  ],
+  "intro": "If you need to change the details on your NSW Seniors Card or NSW Senior Savers Card, you can do this online. Alternatively, please call us on 13 77 88.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your new personal details",
+    "Your current and new personal details",
+    "Your Seniors Card or Senior Savers Card number",
+    "If calling, you will need your current and new personal details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to change your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Seniors Card program – Privacy and Terms",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card/terms-and-conditions"
+    },
+    {
+      "text": "NSW Seniors Card website",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Apply for a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Change of name on a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Replace a lost, stolen or destroyed NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-destroyed-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Cancel a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Convert a NSW Senior Savers Card to a NSW Seniors Card",
+      "url": "https://www.service.nsw.gov.au/transaction/convert-a-nsw-senior-savers-card-to-a-nsw-seniors-card"
+    },
+    {
+      "text": "Manage your marketing preferences for the NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-marketing-preferences-for-the-nsw-seniors-card-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change my details on my Seniors Card or Senior Savers Card?",
+      "a": "You can change your details online or by calling 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "What do I need to change my details online?",
+      "a": "You need a MyServiceNSW Account, your new personal details, your current and new personal details, and your Seniors Card or Senior Savers Card number.",
+      "link": null
+    },
+    {
+      "q": "What are the steps to change my details online?",
+      "a": "Select the 'Change online' button, log in or create your MyServiceNSW Account, and follow the prompts to change your details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:43Z",
+    "last_modified": "6 May 2026",
+    "html_sha1": "09866db17bc7159d45d020a30040504a394d7f47",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-services/consideration-of-hardship",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-services/consideration-of-hardship",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "consideration-of-hardship",
+  "title": "Consideration of hardship",
+  "summary": "This page explains who can request hardship consideration and provides guidance on the process if you are having difficulty repaying funds from a grant or payment program.",
+  "topics": [
+    "hardship-consideration",
+    "financial-assistance",
+    "repaying-funds",
+    "financial-difficulty"
+  ],
+  "intro": "If your circumstances have changed and you’re finding it difficult to repay funds from a grant or payment program you were found ineligible to receive, you may be able to request hardship consideration.\n\nThis option may also be available if you are currently going through a compliance audit and are facing difficult circumstances.\n\nThis page outlines who can request consideration of hardship, how to make a request, and what support may be available.",
+  "who_can_apply": [
+    "You are currently going through a compliance audit or other review and are being assessed for financial assistance.",
+    "A compliance audit or review has determined you are ineligible for financial assistance, and you are required to repay those funds.",
+    "You are experiencing domestic or family violence.",
+    "You are experiencing severe financial hardship.",
+    "You are experiencing mental health challenges.",
+    "You have an intellectual disability or cognitive impairment.",
+    "You are experiencing homelessness or risk of homelessness."
+  ],
+  "what_you_need": [
+    "Government services that support the community.",
+    "Community organizations (such as charities, neighbourhood centres, or support services).",
+    "Health professionals.",
+    "Accredited financial counsellors who have assessed your situation."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "confirm that you are seeking hardship consideration",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "briefly explain which hardship circumstances apply to you (refer to the list above).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "here",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/resources-library/hardship-policy"
+    },
+    {
+      "text": "ACON LGBTIQA+ service finder",
+      "url": "https://sayitoutloud.org.au/abusive-relationships/getting-help/find-a-service/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/application-for-a-hardship-review"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can request hardship consideration?",
+      "a": "You may be eligible if you are going through a compliance audit or review, or if you are required to repay funds because you were found ineligible for financial assistance.",
+      "link": null
+    },
+    {
+      "q": "What if I received a debt notice from Revenue NSW?",
+      "a": "If you have received a debt notice from Revenue NSW, you must contact them directly for more information.",
+      "link": "https://www.revenue.nsw.gov.au/help-centre/resources-library/hardship-policy"
+    },
+    {
+      "q": "What types of hardship circumstances are considered?",
+      "a": "Circumstances considered include domestic or family violence, severe financial hardship, mental health challenges, intellectual disability or cognitive impairment, and homelessness or risk of homelessness.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:24Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "cdbd62f627720392c3ae495052d89ae0a3558758",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

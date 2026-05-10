@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/manage-and-grow/training-and-education",
+  "source_url": "https://www.service.nsw.gov.au/business/manage-and-grow/training-and-education",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "training-and-education",
+  "title": "Training and education",
+  "summary": "Find information and services to help you gain new skills, upskill, or retrain for new job opportunities.",
+  "topics": [
+    "skills",
+    "training",
+    "education",
+    "career-development"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Skills NSW",
+      "url": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    },
+    {
+      "text": "Training Services NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-education/training-services"
+    },
+    {
+      "text": "vocational education and training",
+      "url": "https://www.nsw.gov.au/education-and-training/vocational"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:36Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "0dce9a436d23855d61a60608ba2ffa2a9725242d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

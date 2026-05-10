@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "rural-fire-service-nsw",
+  "title": "Rural Fire Service NSW",
+  "summary": "This page provides information about the Rural Fire Service NSW, including resources for fire safety, alerts, and volunteering.",
+  "topics": [
+    "bush-fire",
+    "fire-safety",
+    "emergency-alerts",
+    "volunteering"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.rfs.nsw.gov.au/",
+      "url": "https://www.rfs.nsw.gov.au/"
+    },
+    {
+      "text": "Current Fires and Incidents Map – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
+    },
+    {
+      "text": "Alerts and warnings – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/major-fire-updates"
+    },
+    {
+      "text": "Fire danger ratings and total fire bans – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans"
+    },
+    {
+      "text": "Find your NSW RFS Area Command – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/about-us/contact-us/area-commands"
+    },
+    {
+      "text": "Find your NSW RFS Control Centre – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/about-us/contact-us/fcc"
+    },
+    {
+      "text": "Volunteer with us – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/volunteer"
+    },
+    {
+      "text": "Tenders and contracts – NSW Rural Fire Service",
+      "url": "https://www.rfs.nsw.gov.au/about-us/doing-business-with-the-rfs/tenders-and-contracts"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Fire and Rescue NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fire-and-rescue-nsw"
+    },
+    {
+      "text": "Bush Fire Coordinating Committee (NSW Rural Fire Service)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bush-fire-coordinating-committee"
+    },
+    {
+      "text": "Fire Services Joint Standing Committee",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fire-services-joint-standing-committee"
+    },
+    {
+      "text": "Rural Fire Service Advisory Council",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-advisory-council"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about current fires and incidents?",
+      "a": "You can check the Current Fires and Incidents Map on the NSW Rural Fire Service website.",
+      "link": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
+    },
+    {
+      "q": "How do I check for major fire updates and warnings?",
+      "a": "Visit the Alerts and warnings section of the NSW Rural Fire Service website for the latest major fire updates.",
+      "link": "https://www.rfs.nsw.gov.au/fire-information/major-fire-updates"
+    },
+    {
+      "q": "What information is available regarding fire danger ratings and total fire bans?",
+      "a": "The NSW Rural Fire Service provides information on fire danger ratings and total fire bans.",
+      "link": "https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans"
+    },
+    {
+      "q": "How can I volunteer with the Rural Fire Service?",
+      "a": "Information on volunteering with the NSW Rural Fire Service is available on their website.",
+      "link": "https://www.rfs.nsw.gov.au/volunteer"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:04Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d58eafe9536af6d5271d8932eae130b611112c41",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

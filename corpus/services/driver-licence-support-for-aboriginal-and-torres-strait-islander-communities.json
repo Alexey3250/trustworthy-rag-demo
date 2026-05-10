@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities",
+  "source_url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities",
+  "category": "services",
+  "article_kind": "landing-page",
+  "slug": "driver-licence-support-for-aboriginal-and-torres-strait-islander-communities",
+  "title": "Driver licence support for Aboriginal and Torres Strait Islander communities",
+  "summary": "This page provides information and support resources for Aboriginal and Torres Strait Islander people regarding driver licences.",
+  "topics": [
+    "driver-licence",
+    "aboriginal-and-torres-strait-islander",
+    "support",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Aboriginal and Torres Strait Islander people"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Driver Licensing Access Program (DLAP)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licensing-access-program"
+    },
+    {
+      "text": "Birrang",
+      "url": "https://www.birrang.com.au/"
+    },
+    {
+      "text": "Licensed & On the Road",
+      "url": "https://driveredace.edu.au/"
+    },
+    {
+      "text": "NRMA driver training",
+      "url": "https://www.mynrma.com.au/cars-and-driving/driver-training-and-licences"
+    },
+    {
+      "text": "Drive for Life",
+      "url": "https://www.salvationarmy.org.au/youthlink/driveforlife/"
+    },
+    {
+      "text": "Driving Change Program",
+      "url": "https://www.weave.org.au/programs/driving-change-program/"
+    },
+    {
+      "text": "Proof of identity for driver licences",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander births",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/aboriginal-and-torres-strait-islander-births"
+    },
+    {
+      "text": "Stolen Generations identification support",
+      "url": "https://www.linkupnsw.org.au/"
+    },
+    {
+      "text": "Proof of Aboriginality",
+      "url": "https://aiatsis.gov.au/proof-aboriginality"
+    },
+    {
+      "text": "Confirmation of identity form",
+      "url": "https://www.servicesaustralia.gov.au/ra010"
+    },
+    {
+      "text": "how the Alcohol Interlock Program works",
+      "url": "https://www.youtube.com/playlist?list=PLL4evDjFo88vITSxh3jhD-BydEcw_-vsN"
+    },
+    {
+      "text": "Support for First Nations Peoples",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/support-and-community-services/first-nations-support"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "Apply for a driver licence with an interlock condition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-with-an-interlock-condition"
+    },
+    {
+      "text": "Losing your licence (suspension",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Key contacts, programs and services Service NSW is committed to supporting Aboriginal and Torres Strait Islander communities to have a safe and rewarding experience when transacting with government. We've put together a guide to help you access contacts, programs and services relevant to you.",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Savings Finder The NSW Government is offering more than 70 rebates and vouchers to help you save on everyday costs and more. You can:use the Savings Finder online tool to get a personalised list of savingsmake a free appointment to get help applying for savings, orbrowse a list of rebates and savings.",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Contact us We're here to help you Visit a Service NSW Centre, Mobile Service Centre or call us on 13 77 88. We welcome your feedback on how we can better support you.",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What support is available for Aboriginal and Torres Strait Islander people getting a driver licence?",
+      "a": "Service NSW provides support for Aboriginal and Torres Strait Islander people to help them get a driver licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about getting a driver licence?",
+      "a": "You can find general information about getting an NSW driver licence at the Driver licence guide.",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "q": "What is the purpose of the Aboriginal and Torres Strait Islander Births page?",
+      "a": "This page provides information about Aboriginal and Torres Strait Islander births.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/births/aboriginal-and-torres-strait-islander-births"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:59Z",
+    "last_modified": "21 October 2024",
+    "html_sha1": "ab3a5bbadf4993dedfaf8b54defcb76960e9260a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

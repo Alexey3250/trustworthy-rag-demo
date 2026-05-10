@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/safework-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/safework-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "safework-nsw",
+  "title": "SafeWork NSW",
+  "summary": "This page provides information about SafeWork NSW, the government body responsible for workplace health and safety.",
+  "topics": [
+    "workplace-safety",
+    "health-and-safety",
+    "work-rights",
+    "legislation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.safework.nsw.gov.au/",
+      "url": "https://www.safework.nsw.gov.au/"
+    },
+    {
+      "text": "work health and safety",
+      "url": "https://www.safework.nsw.gov.au/legal-obligations"
+    },
+    {
+      "text": "licences and registration",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations"
+    },
+    {
+      "text": "‘Speak Up Save Lives’ app",
+      "url": "https://www.safework.nsw.gov.au/advice-and-resources/speak-up-app"
+    },
+    {
+      "text": "Work health and safety legislation",
+      "url": "https://www.safework.nsw.gov.au/legal-obligations/legislation"
+    },
+    {
+      "text": "All about workers insurance and premiums",
+      "url": "https://www.icare.nsw.gov.au/employers/take-out-a-policy/workers-insurance-policies"
+    },
+    {
+      "text": "Workers compensation – State Insurance Regulatory Authority (SIRA)",
+      "url": "https://www.sira.nsw.gov.au/workers-compensation"
+    },
+    {
+      "text": "All about asbestos – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/asbestos"
+    },
+    {
+      "text": "General construction induction training – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations/construction-induction-rtos"
+    },
+    {
+      "text": "Workplace Licensing",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences"
+    },
+    {
+      "text": "Training and assessment",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations"
+    },
+    {
+      "text": "SafeWork NSW Tenders and Contracts",
+      "url": "https://www.safework.nsw.gov.au/about-us/tenders-and-contracts"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about work health and safety laws?",
+      "a": "You can find information about work health and safety legislation at the SafeWork NSW website.",
+      "link": "https://www.safework.nsw.gov.au/legal-obligations"
+    },
+    {
+      "q": "What resources are available for reporting safety concerns?",
+      "a": "The 'Speak Up Save Lives' app is available for reporting safety concerns.",
+      "link": "https://www.safework.nsw.gov.au/advice-and-resources/speak-up-app"
+    },
+    {
+      "q": "What services does SafeWork NSW provide?",
+      "a": "SafeWork NSW provides information on legal obligations, licences and registrations, and general safety advice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e8b38a0d534965e718223781f70e292e8ed45825",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

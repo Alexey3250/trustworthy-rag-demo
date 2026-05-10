@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-re-register-written-vehicle",
+  "title": "Apply to re-register a written-off light vehicle",
+  "summary": "This page outlines the process and requirements for re-registering a written-off light vehicle.",
+  "topics": [
+    "vehicle-registration",
+    "written-off-vehicle",
+    "re-register",
+    "light-vehicle"
+  ],
+  "intro": "To re-register a written-off light vehicle you must have first obtained an Authorisation to Repair from Transport for NSW (TfNSW).\n\nOnce repaired and certified, the vehicle must then pass these inspections:",
+  "who_can_apply": [
+    "You must be aged 16 or over.",
+    "The authorised repairs must be completed on the vehicle.",
+    "The vehicle must have an Authorisation to Repair from Transport for NSW (TfNSW)."
+  ],
+  "what_you_need": [
+    "Completed PDF form: 'Application for Registration'",
+    "An Authorisation to Repair from TfNSW",
+    "A Certificate of Compliance issued by a licensed repairer",
+    "Any third-party certifications (e.g., air bag or structural certification)",
+    "An AUVIS report (blue slip), including identity, design, and safety checks",
+    "A TfNSW VIIU report",
+    "Proof of your registration entitlement",
+    "Your compulsory third party (CTP) insurance",
+    "Payment for any registration fees",
+    "The number plates (if available)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather all the required documents and the number plates (if available).",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Submit your application with payment at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The registration certificate for the vehicle will state that the vehicle has been reported to the NSW Written-off Light Vehicles Register.",
+      "link": null
+    },
+    {
+      "text": "You cannot register an interstate written-off vehicle in NSW unless it is first re-registered in another jurisdiction.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of your registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorisation to Repair",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-repair-a-written-off-light-vehicle"
+    },
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Vehicle Identification Inspection Unit (VIIU)",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Cancel the registration on a written-off vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must I do before I can re-register a written-off vehicle?",
+      "a": "You must first obtain an Authorisation to Repair from Transport for NSW (TfNSW).",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-repair-a-written-off-light-vehicle"
+    },
+    {
+      "q": "What inspections must the vehicle pass after repairs?",
+      "a": "Once repaired and certified, the vehicle must pass inspections, including an AUVIS report and a TfNSW VIIU report.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application to re-register the vehicle?",
+      "a": "You must submit your application with payment at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:52Z",
+    "last_modified": "17 February 2026",
+    "html_sha1": "e5ff2333150d882ad455f019bf09ad4c1beeccb2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

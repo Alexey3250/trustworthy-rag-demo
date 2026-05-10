@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/veterinary-practitioners-board-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/veterinary-practitioners-board-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "veterinary-practitioners-board-nsw",
+  "title": "Veterinary Practitioners Board, NSW",
+  "summary": "This page provides information about the Veterinary Practitioners Board, NSW.",
+  "topics": [
+    "veterinary-practitioners",
+    "nsw-vet-board",
+    "animal-health",
+    "professional-board"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.vpb.nsw.gov.au/",
+      "url": "https://www.vpb.nsw.gov.au/"
+    },
+    {
+      "text": "Search for a Veterinary Practitioner",
+      "url": "https://www.vpb.nsw.gov.au/search-vet-hospital"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:17Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c5e981417323afaac878e80660e5a77e311c03fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

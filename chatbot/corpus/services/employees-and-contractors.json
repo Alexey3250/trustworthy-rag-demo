@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/employees-and-contractors",
+  "source_url": "https://www.service.nsw.gov.au/services/employees-and-contractors",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "employees-and-contractors",
+  "title": "Employees and contractors",
+  "summary": "This page provides information for employees and independent contractors working with a business in NSW.",
+  "topics": [
+    "employees",
+    "contractors",
+    "work-rights",
+    "training",
+    "employment"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Employees who work in, and are part of, a business",
+    "Independent contractors who provide their services to a business"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "employees who work in, and are part of, a business",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "independent contractors who provide their services to a business.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Training courses – Skills NSW",
+      "url": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    },
+    {
+      "text": "Australian Taxation Office (ATO) website",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-independent-contractor/difference-between-employees-and-independent-contractors"
+    },
+    {
+      "text": "make a report to the ATO",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-independent-contractor/employees-incorrectly-treated-as-independent-contractors"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Automatic mutual recognition of interstate work licences",
+      "url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "NDIS Worker Check",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "Apprentices and trainees",
+      "url": "https://www.service.nsw.gov.au/services/apprentices-and-trainees"
+    },
+    {
+      "text": "Employee entitlements and obligations",
+      "url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "text": "Pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/pay-leave-and-superannuation"
+    },
+    {
+      "text": "Check for lost super",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-lost-super"
+    },
+    {
+      "text": "Find a trade union in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-trade-union-in-nsw"
+    },
+    {
+      "text": "Find a TAFE NSW course",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course"
+    },
+    {
+      "text": "Finding a registered training organisation (RTO) or provider",
+      "url": "https://www.service.nsw.gov.au/referral/finding-a-registered-training-organisation-or-provider"
+    },
+    {
+      "text": "Learn about the Veterans Employment Program",
+      "url": "https://www.service.nsw.gov.au/transaction/learn-about-the-veterans-employment-program"
+    },
+    {
+      "text": "Enrol in the Smart and Skilled program",
+      "url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program"
+    },
+    {
+      "text": "Find a fee-free apprenticeship",
+      "url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between an employee and an independent contractor?",
+      "a": "The page provides information on the difference between employees and independent contractors, including resources from the ATO.",
+      "link": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-independent-contractor/difference-between-employees-and-independent-contractors"
+    },
+    {
+      "q": "What entitlements do employees have?",
+      "a": "Employees have specific entitlements and obligations, and information is available regarding pay, leave, and superannuation.",
+      "link": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "q": "How can I find training or career advice?",
+      "a": "You can find information on TAFE NSW courses, registered training organisations (RTOs), and general skills training through Skills NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:17Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "2587a603f274db81307ed8bf43ec8fa40f7dd220",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

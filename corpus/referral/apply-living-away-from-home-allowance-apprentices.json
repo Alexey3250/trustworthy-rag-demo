@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance-apprentices",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance-apprentices",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-living-away-from-home-allowance-apprentices",
+  "title": "Apply for a Living Away from Home Allowance (for apprentices)",
+  "summary": "Find out if you are eligible for the Living Away from Home Allowance (LAFHA) if you are an apprentice moving away from home.",
+  "topics": [
+    "apprenticeship",
+    "living-away-from-home-allowance",
+    "financial-support",
+    "training"
+  ],
+  "intro": "If you’re training as an apprentice and need to move away from home, you may be eligible for the Living Away from Home Allowance (LAFHA).\n\nThe allowance is available to eligible full and part-time apprentices and school-based apprentices during the first 3 years of training.\n\nTo be eligible you need to be moving away from your parents or legal guardian's home for the first time in order to:\n\nYou’re unable to access the allowance if you:\n\nYou can apply for the allowance through your local Australian Apprenticeship Support Network provider.",
+  "who_can_apply": [
+    "Must be an eligible full or part-time apprentice or school-based apprentice.",
+    "Must be within the first 3 years of training.",
+    "Must be moving away from parents or a legal guardian's home for the first time."
+  ],
+  "what_you_need": [
+    "Contact your local Australian Apprenticeship Support Network provider to apply."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about how to apply, visit the Australian Government apprenticeships website.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Government apprenticeships website",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for the Living Away from Home Allowance?",
+      "a": "The allowance is available to eligible full and part-time apprentices and school-based apprentices during the first 3 years of training.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements to be eligible for the allowance?",
+      "a": "You must be moving away from your parents or legal guardian's home for the first time.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the allowance?",
+      "a": "You can apply through your local Australian Apprenticeship Support Network provider.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:38Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "361adde570fdad4ba29df0b03caab244c7bf11c2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

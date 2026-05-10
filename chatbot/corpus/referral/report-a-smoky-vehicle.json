@@ -1,0 +1,56 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-smoky-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-smoky-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-smoky-vehicle",
+  "title": "Report a smoky vehicle",
+  "summary": "You can report a vehicle that is emitting smoke for more than 10 seconds to the NSW Environmental Protection Authority (EPA) online.",
+  "topics": [
+    "smoky-vehicle",
+    "epa",
+    "pollution",
+    "reporting"
+  ],
+  "intro": "If you see a vehicle emitting smoke for more than 10 seconds, you can make a report online to the NSW Environmental Protection Authority (EPA).\n\nTo help you fill in the online form, you may need the following:\n\nThe following should be noted when filling in EPA's online form:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The following should be noted when filling in EPA's online form."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Submit your report online",
+      "url": "https://apps.epa.nsw.gov.au/mvreportingapp/mobile/smokyReporting.aspx"
+    },
+    {
+      "text": "Report to EPA mobile app",
+      "url": "https://www.epa.nsw.gov.au/reporting-and-incidents/report-pollution/contacts-chemical-radiation-pollution/epa-mobile-reporting"
+    },
+    {
+      "text": "NSW Environment Protection Authority",
+      "url": "https://www.epa.nsw.gov.au/"
+    },
+    {
+      "text": "All about reporting smoky vehicles",
+      "url": "https://www.epa.nsw.gov.au/your-environment/air/reducing-motor-vehicle-emissions/reporting-smoky-vehicles"
+    },
+    {
+      "text": "Report a smoky vehicle FAQs",
+      "url": "https://www.epa.nsw.gov.au/your-environment/air/reducing-motor-vehicle-emissions/reporting-smoky-vehicles/smoky-vehicles-faq"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:21Z",
+    "last_modified": "9 September 2025",
+    "html_sha1": "c3426388ecd4e941c5df3078119fd63cb1662260",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

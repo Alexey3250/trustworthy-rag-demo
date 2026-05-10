@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-your-bus-driver-authority-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-your-bus-driver-authority-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-your-bus-driver-authority-online",
+  "title": "Change the details on your bus driver authority online",
+  "summary": "You can apply online to Transport for NSW for a replacement bus driver authority if you have changed your name.",
+  "topics": [
+    "bus-driver-authority",
+    "change-name",
+    "transport-for-nsw",
+    "online-application"
+  ],
+  "intro": "If you have changed your name, you can apply to Transport for NSW for a replacement bus driver authority online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "a replacement driver licence with your new details",
+    "a valid email address",
+    "a copy of a proof of identity document (if you hold an interstate driver licence)",
+    "an original change of name document",
+    "a digital photo (if you don't hold a valid NSW driver licence and have not submitted a previous application online)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select 'Change online'",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Upload your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Review and submit your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your application cannot be saved to continue at a later date.",
+      "link": null
+    },
+    {
+      "text": "If your application is submitted successfully, you'll receive an email and PDF copy of your application.",
+      "link": null
+    },
+    {
+      "text": "The holder of a driver licence must advise Transport for NSW within 7 days if any of their details change.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "change of name document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/updating-personal-details/changing-your-name-or-address"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-driver-authority-online"
+    },
+    {
+      "text": "Replace a lost, stolen or damaged bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:18Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "d86e0fb4ab94e5c4e9a6b00b63ca883b6c5ee62b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

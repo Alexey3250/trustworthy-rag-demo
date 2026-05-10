@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-nsw-government-agency",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-nsw-government-agency",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-complaint-about-a-nsw-government-agency",
+  "title": "Make a complaint about a NSW Government agency",
+  "summary": "If you have an issue with a NSW government agency, you should first contact the agency directly. If that fails, you can submit a complaint to the NSW Ombudsman.",
+  "topics": [
+    "complaint",
+    "nsw-government-agency",
+    "nsw-ombudsman",
+    "make-a-complaint"
+  ],
+  "intro": "If you have an issue with a NSW government agency the first step is to contact them and try to resolve the matter.\n\nIf you’re unable to resolve your issue or if you do not feel safe making a complaint to the agency, you can submit a form to the NSW Ombudsman online.\n\nThe NSW Ombudsman:",
+  "who_can_apply": [
+    "You must have already contacted the NSW agency you are complaining about."
+  ],
+  "what_you_need": [
+    "The name of the NSW agency your complaint is about",
+    "Details of your complaint",
+    "Details of what happened after you contacted the agency",
+    "How you see the complaint being resolved",
+    "Up to 3 documents of evidence to support your complaint (such as correspondence with the agency)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check if the NSW Ombudsman can handle your complaint.",
+      "link": "https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Make a complaint' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Upload your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The NSW Ombudsman cannot help with complaints about Centrelink (Services Australia), Australian Tax Office (ATO), electricity, gas, water and phone companies, and other private businesses.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "handle your complaint",
+      "url": "https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with"
+    },
+    {
+      "text": "Make a complaint online – NSW Ombudsman",
+      "url": "https://portal.ombo.nsw.gov.au/make-a-complaint-online/"
+    },
+    {
+      "text": "What we do with your complaint – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/complaints/what-we-do-with-your-complaint"
+    },
+    {
+      "text": "Public Interest Disclosures (serious wrongdoing) – NSW Ombudsman",
+      "url": "https://www.ombo.nsw.gov.au/guidance-for-organisations/public-interest-disclosures"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do if I have an issue with a NSW government agency?",
+      "a": "The first step is to contact the agency directly and try to resolve the matter. If you cannot resolve the issue or do not feel safe making a complaint to the agency, you can submit a form to the NSW Ombudsman online.",
+      "link": null
+    },
+    {
+      "q": "Who can use the online complaints form?",
+      "a": "You can use the online complaints form if you have already contacted the NSW agency you are making the complaint about.",
+      "link": null
+    },
+    {
+      "q": "Where can I check if the NSW Ombudsman can handle my complaint?",
+      "a": "You can check if the NSW Ombudsman can handle your complaint using the link: https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with",
+      "link": "https://www.ombo.nsw.gov.au/complaints/complaints-we-can-help-you-with"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:26Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "e8daa6d91686ebc9421a5b375ed13c8c832ed388",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

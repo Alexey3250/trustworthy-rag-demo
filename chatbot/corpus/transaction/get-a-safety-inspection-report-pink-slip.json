@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-a-safety-inspection-report-pink-slip",
+  "title": "Get a safety inspection report (pink slip)",
+  "summary": "Find out about and locate an Authorised Inspection Scheme (AIS) station to get a safety inspection report (pink slip) for your light vehicle.",
+  "topics": [
+    "safety-inspection",
+    "light-vehicles",
+    "vehicle-registration",
+    "nsw-driving"
+  ],
+  "intro": "Most light vehicles more than 5 years old will require a safety inspection report before they can be registered in NSW.\n\nLight vehicles include trailers and caravans with an aggregate trailer mass of 4.5 tonnes or less, including those fitted with breakaway brakes but not including those fitted with air or vacuum breakaway braking systems.\n\nNSW safety inspection reports for light vehicles are valid for 6 months, excluding public passenger vehicles.",
+  "who_can_apply": [
+    "Light vehicles more than 5 years old",
+    "Trailers and caravans with an aggregate trailer mass of 4.5 tonnes or less (including those fitted with breakaway brakes but not including those fitted with air or vacuum breakaway braking systems)"
+  ],
+  "what_you_need": [
+    "Your registration renewal notice will state whether or not you need an inspection.",
+    "You must renew your vehicle registration within 6 months for the safety inspection report to be valid.",
+    "You must use an Authorised Inspection Scheme (AIS) station for the safety inspection."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Find a safety inspection provider'.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your suburb or postcode in the search tool to find an AIS station.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "light vehicles more than 5 years old",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "Find a mobile safety check provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/find-a-mobile-safety-check-provider"
+    },
+    {
+      "text": "Vehicle safety check and inspection fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees"
+    },
+    {
+      "text": "Driving an unregistered vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/when-you-can-drive-an-unregistered-vehicle"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "excluding public passenger vehicles",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle"
+    },
+    {
+      "text": "renew your vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Find an authorised vehicle inspection station outside NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What vehicles require a safety inspection report?",
+      "a": "Most light vehicles more than 5 years old require a safety inspection report before they can be registered in NSW.",
+      "link": null
+    },
+    {
+      "q": "How long is a safety inspection report valid for?",
+      "a": "NSW safety inspection reports for light vehicles are valid for 6 months, excluding public passenger vehicles.",
+      "link": null
+    },
+    {
+      "q": "Where can I get a safety inspection?",
+      "a": "Only an Authorised Inspection Scheme (AIS) station can perform a safety inspection.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:30Z",
+    "last_modified": "11 March 2025",
+    "html_sha1": "0b0f38ccdcaec52db7b07898dd1db9b23c43c962",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

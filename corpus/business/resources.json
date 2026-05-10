@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/resources",
+  "source_url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/resources",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "resources",
+  "title": "Resources",
+  "summary": "The Service NSW Business Bureau offers ongoing, personalized support for women business owners, available by phone or in person.",
+  "topics": [
+    "women-in-business",
+    "business-support",
+    "entrepreneurship",
+    "business-growth"
+  ],
+  "intro": "The Service NSW Business Bureau provides ongoing, personalised support for women business owners, over the phone or in person in their local area. Call us on 13 77 88 or book a call.\n\nBook a call",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Running a business",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/return-to-work-toolkit/running-a-business"
+    },
+    {
+      "text": "Return to work toolkit",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/return-to-work-toolkit"
+    },
+    {
+      "text": "Women's financial toolkit",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/womens-financial-toolkit"
+    },
+    {
+      "text": "NSW Women’s Strategy.",
+      "url": "https://www.nsw.gov.au/women-nsw/nsw-womens-strategy"
+    },
+    {
+      "text": "NSW Women’s Advisory Council",
+      "url": "https://www.nsw.gov.au/women-nsw/nsw-womens-advisory-council"
+    },
+    {
+      "text": "book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=wib"
+    },
+    {
+      "text": "Boards and Committees Register",
+      "url": "https://boards.nsw.gov.au/"
+    },
+    {
+      "text": "Women on boards",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/women-on-boards"
+    },
+    {
+      "text": "Enterprising Women",
+      "url": "https://enterprising-women.com.au/"
+    },
+    {
+      "text": "Women starting a business",
+      "url": "https://womenbuildingnsw.com.au/get-support/women-starting-a-business/"
+    },
+    {
+      "text": "Growing your business",
+      "url": "https://womenbuildingnsw.com.au/get-support/growing-your-business/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I get support for my business?",
+      "a": "You can call the Service NSW Business Bureau on 13 77 88 or book a call for support.",
+      "link": null
+    },
+    {
+      "q": "Where can I find resources for women starting a business?",
+      "a": "Resources are available through Women Building NSW.",
+      "link": "https://womenbuildingnsw.com.au/get-support/women-starting-a-business/"
+    },
+    {
+      "q": "What support is available for growing a business?",
+      "a": "You can find resources for growing your business through Women Building NSW.",
+      "link": "https://womenbuildingnsw.com.au/get-support/growing-your-business/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:56Z",
+    "last_modified": "3 September 2024",
+    "html_sha1": "52201a4197a15c684086eaecd7bbf6e143dab2c8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

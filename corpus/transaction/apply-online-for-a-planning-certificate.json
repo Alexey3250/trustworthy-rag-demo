@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-online-for-a-planning-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-online-for-a-planning-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-online-for-a-planning-certificate",
+  "title": "Apply online for a planning certificate",
+  "summary": "Learn how to apply online for a section 10.7 planning certificate (zoning certificate) to understand controls and restrictions on a property.",
+  "topics": [
+    "planning-certificate",
+    "zoning-certificate",
+    "property-development",
+    "local-council"
+  ],
+  "intro": "A section 10.7 planning certificate (zoning certificate) provides information on any controls, requirements and restrictions that may apply to how a property is used or how a parcel of land can be developed.\n\nThe certificate is issued by your local council. You can apply online through the NSW Planning Portal, either:\n\n### Information in the certificate\n\nYou can choose from 2 options when you request a planning certificate.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "MyServiceNSW Account or NSW Planning Portal login details",
+    "Payment for NSW Planning Portal service fees"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check that NSW Planning Portal online applications are accepted by your local council.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Planning Certificate 10.7'",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your application, either:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the NSW Planning Portal and certificate applications:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Planning Portal service fees",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Using the online section 10.7 planning certificate service – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Exhibitions/Applicant+How+to+use+the+online+Section+10.7+Planning+Certificate+service+v2.pdf"
+    },
+    {
+      "text": "Spatial Viewer",
+      "url": "https://www.planningportal.nsw.gov.au/spatialviewer/"
+    },
+    {
+      "text": "using the Spatial Viewer – PDF",
+      "url": "https://www.planningportal.nsw.gov.au/sites/default/files/documents/2022/Using%20the%20Spatial%20Viewer.pdf"
+    },
+    {
+      "text": "Department of Planning, Housing and Infrastructure",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "development application (DA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application"
+    },
+    {
+      "text": "complying development certificate (CDC)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-complying-development-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a planning certificate?",
+      "a": "A section 10.7 planning certificate provides information on any controls, requirements, and restrictions that may apply to how a property is used or how a parcel of land can be developed.",
+      "link": null
+    },
+    {
+      "q": "Where is the planning certificate issued?",
+      "a": "The certificate is issued by your local council.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply online?",
+      "a": "You need your MyServiceNSW Account or NSW Planning Portal login details, and payment for NSW Planning Portal service fees.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:55Z",
+    "last_modified": "23 May 2025",
+    "html_sha1": "33b317d510d248830f9642f540e75ae5504a48fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

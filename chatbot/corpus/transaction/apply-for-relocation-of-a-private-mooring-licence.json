@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-relocation-of-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-relocation-of-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-relocation-of-a-private-mooring-licence",
+  "title": "Apply for relocation of a private mooring licence",
+  "summary": "Apply to Transport for NSW (TfNSW) if you wish to relocate your private mooring site within the same designated mooring area.",
+  "topics": [
+    "mooring-licence",
+    "private-mooring",
+    "relocation",
+    "transport-for-nsw"
+  ],
+  "intro": "If you want to relocate your mooring site within the same designated mooring area, you need to apply to Transport for NSW (TfNSW).\n\nYour application will only be processed once your preferred site becomes available.\n\nThe general position of mooring sites is determined at the discretion of TfNSW and may involve approvals/permits from other agencies. Sites are subject to an ongoing range of assessment factors including:\n\nNote: Some sites may not be permitted to proceed based on these factors.",
+  "who_can_apply": [
+    "You must want to relocate your mooring site within the same designated mooring area."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Relocation of Private Mooring within the Same Mooring Area Code' (Form 1849)",
+    "Your proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application by post or email to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Form 1849: Relocate private mooring within same mooring area code – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-10/application-relocation-private-mooring-within-same-area.pdf"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    },
+    {
+      "text": "Private moorings map – Transport for NSW",
+      "url": "https://maps.transport.nsw.gov.au/egeomaps/private-moorings/index.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who processes the application for mooring site relocation?",
+      "a": "You must apply to Transport for NSW (TfNSW).",
+      "link": null
+    },
+    {
+      "q": "What determines the general position of mooring sites?",
+      "a": "The general position of mooring sites is determined at the discretion of TfNSW and may require approvals or permits from other agencies.",
+      "link": null
+    },
+    {
+      "q": "What factors might affect whether a site can be used?",
+      "a": "Sites are subject to ongoing assessment factors, and some sites may not be permitted to proceed based on these factors.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:14Z",
+    "last_modified": "26 March 2026",
+    "html_sha1": "bcf4baeb56ffa9b67d59526afb493994a6177dc2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-service-centre-booking",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-service-centre-booking",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-or-cancel-a-service-centre-booking",
+  "title": "Change or cancel a service centre booking",
+  "summary": "You can change or cancel a service centre booking online if you need to complete an application.",
+  "topics": [
+    "service-centre",
+    "booking",
+    "cancel",
+    "change-appointment"
+  ],
+  "intro": "If you need to change or cancel a booking you've made to complete an application at a service centre, you can do this online.\n\nIf you need to cancel a driver knowledge or driver testing booking, please visit View, change or cancel a driver or rider licence test instead.\n\nNote: If you need to change your appointment type (for example, from a contractor licence application to an Owner-Builder Permit application), please cancel the appointment completely before booking a new one.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your booking reference number (found in the confirmation email or text message)",
+    "Your last name, mobile number, or email address used when booking the appointment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change or cancel online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter either your booking reference number, or the name and mobile number or email address you used to make your booking.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Change or cancel a heavy vehicle inspection booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking"
+    },
+    {
+      "text": "Change or cancel a Vehicle Identity & Inspections Unit booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-vehicle-identity-inspections-unit-booking"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I need to cancel a driver knowledge or driver testing booking?",
+      "a": "Please visit View, change or cancel a driver or rider licence test instead.",
+      "link": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "q": "What if I need to change my appointment type?",
+      "a": "You must cancel the current appointment completely before booking a new one.",
+      "link": null
+    },
+    {
+      "q": "How do I change or cancel my booking online?",
+      "a": "Select the 'Change or cancel online' button, enter your booking reference number or the name and contact details used to book, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:15Z",
+    "last_modified": "2 September 2024",
+    "html_sha1": "c3adc78d70e21d3f890b588dd016262249a4de7b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

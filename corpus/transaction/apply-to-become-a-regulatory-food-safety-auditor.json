@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-regulatory-food-safety-auditor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-regulatory-food-safety-auditor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-become-a-regulatory-food-safety-auditor",
+  "title": "Apply to become a regulatory food safety auditor",
+  "summary": "This page provides information on how to apply to become a regulatory food safety auditor by submitting an application to the NSW Food Authority.",
+  "topics": [
+    "food-safety",
+    "auditor",
+    "nsw-food-authority",
+    "application"
+  ],
+  "intro": "To become a regulatory food safety auditor, you need to submit an application to the NSW Food Authority.",
+  "who_can_apply": [
+    "A Certificate IV in Food Science and Technology or related field course",
+    "40 hours of food microbiology",
+    "Completion of the following units: audit a cook chill process, audit manufacturing of ready-to-eat meat products, audit a heat treatment process, and audit bivalve mollusc growing and harvesting processes.",
+    "High risk auditor applicants must also complete at least one of the following units."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for approval as a regulatory food safety auditor'",
+    "Your auditor certificate",
+    "Certified copies of your training qualification and valid units of competency",
+    "Evidence of your professional indemnity/public liability insurance policy",
+    "Proof of identity as indicated on the form",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete, print and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application with payment by mail, fax or email, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A ‘certified copy’ is a photocopy that has been compared with the original and endorsed as a true copy by a Justice of the Peace (JP), or a public officer such as a police officer.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.foodauthority.nsw.gov.au/industry/audits-and-compliance/3rd-party-audits/auditor-requirements"
+    },
+    {
+      "text": "Regulatory food safety auditor manual – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/2696"
+    },
+    {
+      "text": "Third party audits – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/industry/audits-and-compliance/3rd-party-audits"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:56Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "520be1fbb8206939eb1f95c7fee493bef45559e8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/voting-and-elections",
+  "source_url": "https://www.service.nsw.gov.au/services/voting-and-elections",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "voting-and-elections",
+  "title": "Voting and elections",
+  "summary": "This page provides information and links for citizens regarding voting and elections in NSW.",
+  "topics": [
+    "voting",
+    "elections",
+    "enrolment",
+    "nsw"
+  ],
+  "intro": "If you are looking to learn about how to vote in an Australian local, state or federal election while overseas, you should visit the Smartraveller website.",
+  "who_can_apply": [
+    "Australian citizen",
+    "NSW resident"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "visit the Smartraveller website",
+      "url": "https://www.smartraveller.gov.au/consular-services/voting-overseas"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "How to vote in a state, local or federal election",
+      "url": "https://www.service.nsw.gov.au/guide/how-to-vote-in-a-state-local-or-federal-election"
+    },
+    {
+      "text": "Find election dates and results",
+      "url": "https://www.service.nsw.gov.au/referral/find-election-dates-and-results"
+    },
+    {
+      "text": "Register for NSW election reminders",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-nsw-election-reminders"
+    },
+    {
+      "text": "Enrol to vote at elections",
+      "url": "https://www.service.nsw.gov.au/referral/enrol-to-vote-at-elections"
+    },
+    {
+      "text": "Check your electoral enrolment",
+      "url": "https://www.service.nsw.gov.au/referral/check-your-electoral-enrolment"
+    },
+    {
+      "text": "Updating electoral enrolment details",
+      "url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details"
+    },
+    {
+      "text": "Find your electorate",
+      "url": "https://www.service.nsw.gov.au/referral/find-your-electorate"
+    },
+    {
+      "text": "Apply to register as a silent elector",
+      "url": "https://www.service.nsw.gov.au/referral/apply-to-register-as-a-silent-elector"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I vote in a state, local, or federal election?",
+      "a": "You can find detailed information on how to vote in a state, local, or federal election.",
+      "link": "https://www.service.nsw.gov.au/guide/how-to-vote-in-a-state-local-or-federal-election"
+    },
+    {
+      "q": "Where can I find election dates and results?",
+      "a": "You can find the latest election dates and results on the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/referral/find-election-dates-and-results"
+    },
+    {
+      "q": "How do I check or update my electoral enrolment?",
+      "a": "You can check your electoral enrolment or update your details using the provided links.",
+      "link": "https://www.service.nsw.gov.au/referral/check-your-electoral-enrolment"
+    },
+    {
+      "q": "What if I am voting overseas?",
+      "a": "If you are looking to learn about how to vote in an Australian local, state or federal election while overseas, you should visit the Smartraveller website.",
+      "link": "https://www.smartraveller.gov.au/consular-services/voting-overseas"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:43Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8d964aa6e1ba28c993bf48970574b9369bb78f28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

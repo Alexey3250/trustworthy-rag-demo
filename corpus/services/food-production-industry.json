@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/food-production-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/food-production-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "food-production-industry",
+  "title": "Food processing, storage and production",
+  "summary": "Find information and apply for licences and notifications related to operating a food business in New South Wales.",
+  "topics": [
+    "food-business",
+    "food-licence",
+    "food-storage",
+    "food-production",
+    "food-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Food serving and safety",
+      "link": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "text": "Hospitality industry",
+      "link": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Agriculture and farming industry",
+      "link": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Learn more about Licensing and Notifying (NSW Food Authority)",
+      "url": "https://www.foodauthority.nsw.gov.au/help/licensing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence to operate a food business",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-licence-to-operate-a-food-business"
+    },
+    {
+      "text": "Apply for a licence to process or store plant products",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-or-store-plant-products"
+    },
+    {
+      "text": "Apply for a licence to process, pack and store seafood",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-pack-and-store-seafood"
+    },
+    {
+      "text": "Notify the Food Authority or local council of a food business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business"
+    },
+    {
+      "text": "Food serving and safety",
+      "url": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "text": "Hospitality industry",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Agriculture and farming industry",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:55Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c2af57af5691cae37bb375a8c856c8478b892f89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

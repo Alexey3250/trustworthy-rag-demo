@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-the-nsw-carers-register",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-the-nsw-carers-register",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-the-nsw-carers-register",
+  "title": "Check the NSW Carers Register",
+  "summary": "This page explains that designated agencies can access the NSW Carers Register, which is a centralized database for carer information.",
+  "topics": [
+    "nsw-carers-register",
+    "carer-support",
+    "carer-services",
+    "designated-agencies"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Designated agencies can access the NSW Carers Register online.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information visit the Carers Register section on the Office of the Children's Guardian website.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "access the NSW Carers Register",
+      "url": "https://portal.onegov.nsw.gov.au/CGCR/Account/Login/Partner/CGCR?ReturnUrl=/cgcr/"
+    },
+    {
+      "text": "visit the Carers Register",
+      "url": "https://ocg.nsw.gov.au/organisations/statutory-out-home-care-and-adoption/carers-register"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:40Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "fd6ac8273c261cdaa871451a0dc18d16e3ddf890",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

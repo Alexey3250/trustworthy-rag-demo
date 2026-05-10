@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-fair-trading-of-a-trade-promotion-gaming-activity",
+  "title": "Notify Fair Trading of a trade promotion gaming activity",
+  "summary": "Find out how to notify NSW Fair Trading about a trade promotion gaming activity if the prize exceeds $10,000.",
+  "topics": [
+    "trade-promotion",
+    "gaming-activity",
+    "fair-trading",
+    "prize-notification"
+  ],
+  "intro": "If your proposed trade promotion has a prize that exceeds $10,000 you cannot start the promotion until:",
+  "who_can_apply": [
+    "Proposed trade promotions with a prize exceeding $10,000"
+  ],
+  "what_you_need": [
+    "Your 6-digit trade promotion authority number",
+    "Access to the email or mobile number of the licensee or contact person who lodged the original trade promotion authority application",
+    "A clear description of the competition you are organising, including a copy of the gaming rules"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Notify online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your notification.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "gaming rules",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59861.pdf"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "trade promotion gaming authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-trade-promotion-gaming-authority"
+    },
+    {
+      "text": "Check the register of authorised community gaming and trade promotions",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required if my trade promotion prize exceeds $10,000?",
+      "a": "You cannot start the promotion until you notify Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to notify Fair Trading?",
+      "a": "You need your 6-digit trade promotion authority number, access to the email or mobile number of the licensee or contact person, and a clear description of the competition including a copy of the gaming rules.",
+      "link": null
+    },
+    {
+      "q": "How do I notify Fair Trading about my trade promotion?",
+      "a": "Gather the required information and documents, select the 'Notify online' button, and follow the prompts to submit your notification.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:43Z",
+    "last_modified": "11 March 2025",
+    "html_sha1": "95eb1dbe07c93ca30e81a95572f7d54b40a6fd82",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

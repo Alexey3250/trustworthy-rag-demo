@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-native-game-bird-management-owner-occupier-licence",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-native-game-bird-management-owner-occupier-licence",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-native-game-bird-management-owner-occupier-licence",
+  "title": "Apply for a native game bird management (owner/occupier) licence",
+  "summary": "This page provides information about the native game bird management program, which allows landholders to sustainably manage native game birds on agricultural lands in NSW.",
+  "topics": [
+    "native-game-birds",
+    "land-management",
+    "hunting-licence",
+    "owner-occupier"
+  ],
+  "intro": "Native game bird species in NSW can only be hunted under the native game bird management program of the Department of Primary Industries (DPI).\n\nThis program allows landholders to sustainably manage native game birds on agricultural lands in NSW.\n\nOnce you hold a management licence, you can:\n\nYou may be eligible if you\n\nTo apply for a licence you will need to visit the DPI website and check full eligibility and requirements.",
+  "who_can_apply": [
+    "To apply for a licence, you must visit the DPI website to check full eligibility and requirements."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Hunter and Landholder registers",
+      "url": "https://www.dpi.nsw.gov.au/hunting/game-and-pests/native-game-birds/landholders"
+    },
+    {
+      "text": "Waterfowl Identification Test",
+      "url": "https://www.dpi.nsw.gov.au/hunting/game-and-pests/native-game-birds/waterfowl-identification-test-wit"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Game Hunting Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:39Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "f5ebe256d76019f18622863babac4cfc23bd5114",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

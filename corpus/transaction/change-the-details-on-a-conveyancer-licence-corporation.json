@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-corporation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-corporation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-conveyancer-licence-corporation",
+  "title": "Change the details on a conveyancer licence – corporation",
+  "summary": "Update the details on a conveyancer licence for a corporation if your business information has changed.",
+  "topics": [
+    "conveyancer-licence",
+    "corporation",
+    "business-details",
+    "nsw-fair-trading"
+  ],
+  "intro": "If your company holds a conveyancer licence and your details have changed, for example, your business name, address, appointed directors or partnership arrangements, you can update these details at a Service NSW Centre or by email.\n\nYou must notify NSW Fair Trading of any changes within 7 days.",
+  "who_can_apply": [
+    "Your company holds a conveyancer licence and your details have changed (e.g., business name, address, appointed directors, or partnership arrangements)."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Change of Details– Licensed Conveyancer'",
+    "Your name and contact details",
+    "Your licence number",
+    "The details that need changing",
+    "The documents required by the 'Change of Details– Licensed Conveyancer' form",
+    "For a change of address: (Specific documents not listed)",
+    "For all other changes: (Specific documents not listed)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the form Change of Details– Licensed Conveyancer – PDF (if applicable).",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4729a.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit the information in person, or email propertylicensing@customerservice.nsw.gov.au.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Change of Details– Licensed Conveyancer – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4729a.pdf"
+    },
+    {
+      "text": "Conveyancing for property buyers and sellers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/conveyancing-for-property-buyers-and-sellers"
+    },
+    {
+      "text": "Conveyancer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/conveyancers/conveyancer-licences"
+    },
+    {
+      "text": "Conveyancer licences – Privacy collection notice – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/conveyancer-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the details on a conveyancer licence – individual",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-conveyancer-licence-individual"
+    },
+    {
+      "text": "Apply for a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-conveyancer-licence-corporation"
+    },
+    {
+      "text": "Renew or restore a conveyancer licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-corporation-conveyancer-licence"
+    },
+    {
+      "text": "Replace a conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-conveyancer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I notify NSW Fair Trading of changes?",
+      "a": "You must notify NSW Fair Trading of any changes within 7 days.",
+      "link": null
+    },
+    {
+      "q": "What details can I update on my conveyancer licence?",
+      "a": "You can update details such as your business name, address, appointed directors, or partnership arrangements.",
+      "link": null
+    },
+    {
+      "q": "How can I submit my updated details?",
+      "a": "You can update your details at a Service NSW Centre or by emailing propertylicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:37Z",
+    "last_modified": "17 December 2025",
+    "html_sha1": "88889cde1949a73ce0d6c1c9b1c0dbb5ffecc261",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

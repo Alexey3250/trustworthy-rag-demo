@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-the-nsw-livestock-loading-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-the-nsw-livestock-loading-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-approved-routes-for-the-nsw-livestock-loading-scheme",
+  "title": "Check approved routes for the NSW Livestock Loading Scheme",
+  "summary": "This page helps heavy vehicle operators under the NSW Livestock Loading Scheme plan their routes using an interactive online map.",
+  "topics": [
+    "nsw-livestock-loading-scheme",
+    "heavy-vehicle",
+    "route-planning",
+    "nsw"
+  ],
+  "intro": "If you operate a heavy vehicle under the NSW Livestock Loading Scheme (NSWLLS), you can use an interactive online map to plan your route in NSW.\n\nYou can check the approved routes for the following heavy vehicles under the scheme:\n\nVehicles enrolled in the NSWLLS can use:\n\nApproved routes are the legally enforceable network in NSW.",
+  "who_can_apply": [
+    "Operating a heavy vehicle under the NSW Livestock Loading Scheme (NSWLLS)"
+  ],
+  "what_you_need": [
+    "The vehicle must be enrolled in the NSWLLS."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "use an interactive online map",
+      "url": "https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&view=Category&exemptionSetId=-2"
+    },
+    {
+      "text": "NSW Livestock Loading Scheme (NSWLLS) - Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "National Network Map – National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Grain Harvest Management Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/grain-harvest-management-scheme"
+    },
+    {
+      "text": "Check approved routes for a Restricted Access Vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-a-restricted-access-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Livestock Loading Scheme (NSWLLS)?",
+      "a": "The NSW Livestock Loading Scheme (NSWLLS) is a program for heavy vehicles operating in NSW.",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock"
+    },
+    {
+      "q": "How can I check approved routes?",
+      "a": "You can use an interactive online map to plan your route in NSW and check the approved routes for vehicles enrolled in the NSWLLS.",
+      "link": "https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&view=Category&exemptionSetId=-2"
+    },
+    {
+      "q": "What are approved routes?",
+      "a": "Approved routes are the legally enforceable network in NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:30Z",
+    "last_modified": "20 January 2025",
+    "html_sha1": "2b8be2c104c6a45c42f4cb5d24e5d66dd0bfc8e9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

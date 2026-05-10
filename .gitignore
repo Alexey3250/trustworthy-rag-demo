@@ -13,11 +13,10 @@ __pycache__/
 cache/
 data/
 
-# Embeddings are reproducible from corpus/ via `npm run build-index`.
-# Excluded from git; users opting into hybrid retrieval rebuild locally
-# (or in their CI) and Vercel re-deploys pick them up.
+# Repo-root corpus embeddings (large); keep out of git. The chatbot
+# ships build artifacts under chatbot/corpus/, including tracked
+# .embeddings.json for Vercel hybrid retrieval (see README).
 corpus/.embeddings.json
-chatbot/corpus/.embeddings.json
 
 # Node / Next.js
 node_modules/

@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-medical-energy-rebate-retail-customers",
+  "title": "Apply for the NSW Medical Energy Rebate (retail customers)",
+  "summary": "Find out how to apply for the NSW Medical Energy Rebate if you are a retail electricity customer.",
+  "topics": [
+    "nsw",
+    "energy-rebate",
+    "medical-rebate",
+    "electricity-bill"
+  ],
+  "intro": "The NSW Medical Energy Rebate helps eligible concession cardholders pay their electricity bills. It is for people who are not able to, or have someone living with them who is not able to, self-regulate their body temperature in extreme environmental temperatures (hot or cold).\n\nFor retail customers, the NSW Medical Energy Rebate is $285 per retail (on-market) household, per financial year.\n\nIf you are a retail (on-market) customer, you need to contact your electricity retailer to apply.\n\nIf you are an embedded network (on-supply) electricity customer, apply for the Medical Energy Rebate (on-supply).\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You have an electricity account for your home in NSW.",
+    "You are the account holder (the account and bill must be in your name).",
+    "You hold one of the following cards:",
+    "You or someone living with you must be eligible based on living in NSW and meeting all applicable criteria.",
+    "A medical practitioner cannot provide an assessment if they are also the applicant."
+  ],
+  "what_you_need": [
+    "Your Services Australia Customer Reference Number (CRN) or DVA number.",
+    "The PDF form: NSW Medical Energy Rebate Retail Customer Application.",
+    "A registered medical practitioner who can provide an assessment and complete and sign the Medical Practitioner section of the Medical Energy Rebate Application form and the Medical Energy Rebate Medical Declaration form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download application form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the 'applicant' and 'patient' sections in the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Ask your medical practitioner (GP or specialist) to complete the relevant section in the Medical Energy Rebate Application form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Ask your medical practitioner (GP or specialist) to complete the relevant section in the Medical Energy Rebate Declaration Form.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Contact your electricity retailer and provide them with a copy of your completed form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you've been treated by different doctors from the Royal Flying Doctor Service (RFDS) for at least 3 months, you may still be eligible for the rebate.",
+      "link": null
+    },
+    {
+      "text": "Retail customers receive the rebate as a daily credit on each electricity bill, up to a total of $285 per year. The amount is calculated from the day you call your retailer and apply.",
+      "link": null
+    },
+    {
+      "text": "If you change your electricity retailer, you will need to submit a new, signed application form and valid Medical Declaration form to your new provider, to continue to receive the rebate.",
+      "link": null
+    },
+    {
+      "text": "A household can only receive one NSW Medical Energy Rebate each financial year.",
+      "link": null
+    },
+    {
+      "text": "You can only receive the rebate for your principal place of residence.",
+      "link": null
+    },
+    {
+      "text": "If you receive the Medical Energy Rebate you may also be eligible for the NSW Low Income Household Rebate or the NSW Gas Rebate.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "apply for the Medical Energy Rebate (on-supply).",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "NSW Low Income Household Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "NSW Gas Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Family Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Life Support Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Medical Energy Rebate?",
+      "a": "The NSW Medical Energy Rebate helps eligible concession cardholders pay their electricity bills. It is for people who are not able to, or have someone living with them who is not able to, self-regulate their body temperature in extreme environmental temperatures (hot or cold).",
+      "link": null
+    },
+    {
+      "q": "How much is the rebate for retail customers?",
+      "a": "For retail customers, the NSW Medical Energy Rebate is $285 per retail (on-market) household, per financial year.",
+      "link": null
+    },
+    {
+      "q": "Who should I contact to apply for the rebate?",
+      "a": "If you are a retail (on-market) customer, you need to contact your electricity retailer to apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:35Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "866206e0dd43878b02af8e38eea2ea69856af861",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-native-animal-keeper-licence",
+  "title": "Renew a native animal keeper licence",
+  "summary": "Learn how to renew your native animal keeper licence online.",
+  "topics": [
+    "native-animal-keeper-licence",
+    "renew-licence",
+    "biodiversity"
+  ],
+  "intro": "To keep native mammals, birds, reptiles and amphibians as pets, you need a native animal keeper licence granted under the Biodiversity Conservation Act 2016.",
+  "who_can_apply": [
+    "You can renew the licence online after receiving a renewal notice in the mail."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew your native animal keeper licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Birds you don't need a licence to keep",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/bird-keeper-licences/birds-you-dont-need-a-licence-to-keep"
+    },
+    {
+      "text": "Threatened Species List",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species"
+    },
+    {
+      "text": "Native animal keeper record book – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/native-animal-keeper-record-book"
+    },
+    {
+      "text": "Native animal facts",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/native-animals/native-animal-facts"
+    },
+    {
+      "text": "International wildlife trade – Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.dcceew.gov.au/environment/wildlife-trade"
+    },
+    {
+      "text": "NSW Native Animal Keepers' Species List – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/publications/nsw-native-animal-keepers-species-list"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Change the licence class or details on a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to keep native animals as pets?",
+      "a": "You need a native animal keeper licence granted under the Biodiversity Conservation Act 2016.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my licence?",
+      "a": "After receiving a renewal notice in the mail, you can renew and pay for the licence online.",
+      "link": null
+    },
+    {
+      "q": "What do I need to renew my licence?",
+      "a": "You need your licence number, your renewal number (as shown on your renewal notice), or your full personal details, and your payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:30Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "be14f2a757ac755e08a592086561724ea41ef60e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

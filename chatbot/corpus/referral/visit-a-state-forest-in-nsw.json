@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/visit-a-state-forest-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/visit-a-state-forest-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "visit-a-state-forest-in-nsw",
+  "title": "Visit a state forest in NSW",
+  "summary": "Find information and resources for visiting a state forest in NSW, including safety tips, permit requirements, and facilities.",
+  "topics": [
+    "nsw-state-forest",
+    "camping",
+    "picnics",
+    "visitor-safety",
+    "permits"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Recreational fishing permit (for fishing on public land)",
+    "Firewood collection permit (for bulk firewood collection)",
+    "Valid hunting licence (for authorised hunting of feral animals)",
+    "Checking for required permits (for planned activities)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Forestry Corporation of NSW website",
+      "url": "https://www.forestrycorporation.com.au/visit"
+    },
+    {
+      "text": "visitor safety",
+      "url": "https://www.forestrycorporation.com.au/visit/important"
+    },
+    {
+      "text": "current fire bans",
+      "url": "https://www.forestrycorporation.com.au/visit/solid-fuel-fire-bans"
+    },
+    {
+      "text": "information about total fire bans",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fdr-and-tobans"
+    },
+    {
+      "text": "requires a permit",
+      "url": "https://www.forestrycorporation.com.au/about/permits2"
+    },
+    {
+      "text": "Find camping areas",
+      "url": "https://www.forestrycorporation.com.au/visit/forests?camping=Yes"
+    },
+    {
+      "text": "Find picnic facilities",
+      "url": "https://www.forestrycorporation.com.au/visit/forests?picnicing=Yes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "recreational fishing permit",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "firewood collection permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit"
+    },
+    {
+      "text": "valid hunting licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-game-hunting-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I check before visiting a state forest?",
+      "a": "Check visitor safety guidelines and current fire bans before you go.",
+      "link": null
+    },
+    {
+      "q": "Do I need a permit for certain activities in a state forest?",
+      "a": "Yes. Fishing requires a recreational fishing permit, and collecting bulk firewood requires a firewood collection permit. You must also check if your planned activity requires a permit.",
+      "link": "https://www.forestrycorporation.com.au/about/permits2"
+    },
+    {
+      "q": "Where can I find camping and picnic facilities?",
+      "a": "You can find specific camping areas and picnic facilities using the provided links.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:54Z",
+    "last_modified": "11 August 2025",
+    "html_sha1": "cc4bd4179a1373dffa30f8fae4d00eb1b51dae39",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

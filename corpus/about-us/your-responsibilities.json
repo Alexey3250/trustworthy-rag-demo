@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-services/your-responsibilities",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-services/your-responsibilities",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "your-responsibilities",
+  "title": "Your responsibilities",
+  "summary": "This page outlines the expected standards of behaviour when interacting with Service NSW staff and details procedures for customer complaints.",
+  "topics": [
+    "customer-behaviour",
+    "service-standards",
+    "complaints"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Customer complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I make a customer complaint?",
+      "a": "You can submit a customer complaint using the dedicated complaints page.",
+      "link": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:41Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "81a9653aa98b6d4b78e9e88417d14ddc008ad27c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

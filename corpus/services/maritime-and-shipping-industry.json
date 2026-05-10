@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "maritime-and-shipping-industry",
+  "title": "Maritime and shipping industry",
+  "summary": "Find information and apply for various services related to the maritime and shipping industry in New South Wales.",
+  "topics": [
+    "maritime",
+    "shipping",
+    "boating",
+    "licences",
+    "wharf-bookings"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Apply for a Maritime Security Identification Card",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-maritime-security-identification-card"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/services/commercial-mooring-licence"
+    },
+    {
+      "text": "Wharf bookings",
+      "url": "https://www.service.nsw.gov.au/services/wharf-bookings"
+    },
+    {
+      "text": "Using the maritime mobile portal",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-maritime-mobile-portal"
+    },
+    {
+      "text": "Apply to become an authorised dealer under the MDVRS",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-an-authorised-dealer-under-the-mdvrs"
+    },
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    },
+    {
+      "text": "Apply for a Maritime Security Identification Card (MSIC)",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-maritime-security-identification-card-msic"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Apply for a Maritime Security Identification Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-maritime-security-identification-card"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:55Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c5dbd8a06edf1904bb8b9b904d7f83c170d29adc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

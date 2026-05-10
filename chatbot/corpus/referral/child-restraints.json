@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/child-restraints",
+  "source_url": "https://www.service.nsw.gov.au/referral/child-restraints",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "child-restraints",
+  "title": "Find an authorised child restraint fitting station",
+  "summary": "Find information and authorised stations to ensure your child is safely fastened in the correct car seat for their age and size.",
+  "topics": [
+    "child-car-seats",
+    "restraint-fitting",
+    "road-safety",
+    "car-seats"
+  ],
+  "intro": "All children must be safely fastened in the correct child car seat (booster seat) for their age and size.\n\nThe Centre for Road Safety provides information on national child restraint laws, and your legal obligations when travelling in a car with a child.\n\nIf you want some help to fit or adjust your child car seat, you can visit an Authorised Restraint Fitting station. All authorised stations listed have been trained to:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Centre for Road Safety",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/parents/child-car-seats"
+    },
+    {
+      "text": "Transport for NSW's website",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/parents/child-car-seats/find-an-authorised-child-restraint-fitting-station"
+    },
+    {
+      "text": "Car seat requirements and test",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/parents/child-car-seats#Get_the_facts"
+    },
+    {
+      "text": "Child car seat finder",
+      "url": "https://www.childcarseats.com.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:34Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "e7aaa9d47e2bf1b032594aa62c8b3f72aa560150",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

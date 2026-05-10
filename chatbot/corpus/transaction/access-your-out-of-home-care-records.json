@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records",
+  "source_url": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "access-your-out-of-home-care-records",
+  "title": "Access your out-of-home care records",
+  "summary": "You can request a copy of private, personal, and confidential records relating to your out-of-home care history.",
+  "topics": [
+    "out-of-home-care",
+    "care-records",
+    "child-welfare",
+    "records-access"
+  ],
+  "intro": "If you've spent time in out-of-home care when you were a child or young person, you can request a copy of the records that were kept relating to your care history.\n\nThese records are private, personal, and confidential, and if they are about you, you have the right to ask, and to access them.\n\nNote: If you're unable to access your records through the Care Leaver Records Access Unit, you'll be advised on how to apply via the Open Government, Information and Privacy Unit.",
+  "who_can_apply": [
+    "Made a state ward, or committed to the care of a government-run institution by an Order of the Children’s Court under the Child Welfare Act 1939",
+    "Under the parental responsibility of the Minister, or in the care of the Secretary or equivalent",
+    "Adopted after 1991 and had previously been in statutory out-of-home care in NSW",
+    "Anyone who was in the statutory out-of-home care of the NSW government agency responsible for child welfare",
+    "Children or young people who were adopted before 1 January 1991 (contact the Adoption Information Unit)"
+  ],
+  "what_you_need": [
+    "The PDF form: Care Leaver Records Access Application",
+    "A copy of one of the following documents:",
+    "Change of name certificate",
+    "Marriage certificate",
+    "Statutory declaration",
+    "Other document with evidence of your name change (if your name has changed since you were in out-of-home-care)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Commemorative birth certificates are not acceptable.",
+      "link": null
+    },
+    {
+      "text": "Care Leaver Records Access only processes the records of people who were in government care as children in NSW.",
+      "link": null
+    },
+    {
+      "text": "If you lived in a non-government children's home or placement, visit Find & Connect to find where the records are held and how to access them.",
+      "link": "https://www.dss.gov.au/forgotten-australians-and-former-child-migrants/find-and-connect-support-services"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Adoption Information Unit",
+      "url": "https://dcj.nsw.gov.au/children-and-families/adoption/finding-information-on-past-adoptions.html"
+    },
+    {
+      "text": "Find & Connect",
+      "url": "https://www.dss.gov.au/forgotten-australians-and-former-child-migrants/find-and-connect-support-services"
+    },
+    {
+      "text": "Guidelines on care leavers' access to out-of-home care records",
+      "url": "https://www.ipc.nsw.gov.au/information-access-guideline-8"
+    },
+    {
+      "text": "Care Leaver Records Access Application",
+      "url": "https://www.facs.nsw.gov.au/download?file=319862"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible to access these records?",
+      "a": "You may be eligible if you were made a state ward, committed to care by the Children’s Court, adopted after 1991 and previously in statutory out-of-home care in NSW, or if you were in the statutory out-of-home care of the NSW government agency responsible for child welfare.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I was adopted before 1 January 1991?",
+      "a": "If you were adopted before 1 January 1991, you should contact the Adoption Information Unit.",
+      "link": "https://dcj.nsw.gov.au/children-and-families/adoption/finding-information-on-past-adoptions.html"
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the Care Leaver Records Access Application form and a copy of one of the required identification documents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:28Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "cfffdb91f99c149f835816d64ab98817642d640c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "primary-industries-department-of",
+  "title": "Primary Industries, Department of",
+  "summary": "This page provides a directory of services and departments related to primary industries in NSW.",
+  "topics": [
+    "agriculture",
+    "biosecurity",
+    "fisheries",
+    "food-safety",
+    "primary-industries"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au",
+      "url": "https://www.dpi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Biosecurity NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/biosecurity-nsw"
+    },
+    {
+      "text": "DPI Agriculture",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-agriculture"
+    },
+    {
+      "text": "DPI Hunting",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-hunting"
+    },
+    {
+      "text": "DPI Plantation forestry",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-plantation-forestry"
+    },
+    {
+      "text": "Fisheries NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-nsw"
+    },
+    {
+      "text": "Food Authority, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/food-authority-nsw"
+    },
+    {
+      "text": "Exhibited Animals Advisory Committee",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/exhibited-animals-advisory-committee"
+    },
+    {
+      "text": "Rice Marketing Board for the State of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rice-marketing-board-for-the-state-of-nsw"
+    },
+    {
+      "text": "Veterinary Practitioners Board, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/veterinary-practitioners-board-nsw"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Recreational fishing",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "Report a food safety complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint"
+    },
+    {
+      "text": "Use the livestock feed cost calculator",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-livestock-feed-cost-calculator"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:41Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "46718878e62ccadf22c7b6a9473d9e3e469798b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

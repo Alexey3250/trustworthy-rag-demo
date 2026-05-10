@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/reserve-a-personalised-vessel-registration-number",
+  "source_url": "https://www.service.nsw.gov.au/transaction/reserve-a-personalised-vessel-registration-number",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "reserve-a-personalised-vessel-registration-number",
+  "title": "Reserve a personalised vessel registration number",
+  "summary": "Learn how to reserve a personalized vessel registration number if you plan to sell a vessel that currently has one.",
+  "topics": [
+    "vessel-registration",
+    "personalized-number",
+    "boating",
+    "selling-a-vessel"
+  ],
+  "intro": "If you're intending to sell a vessel that has a personalised vessel registration (PVR), and you want to reserve this registration number, you'll need to:\n\nYou can do this in person at a service centre, or by mail.",
+  "who_can_apply": [
+    "Intending to sell a vessel that has a personalized vessel registration (PVR)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Your registration details",
+    "The PDF form: 'Statutory Declaration Vessel Registrations'",
+    "An authorized witness to certify the form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the relevant sections of the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre to submit your information in person or post it to:Service NSWAgency Business CentrePO Box 21Parkes NSW 2870",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Statutory declaration vessel registrations – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-10/statutory-declaration-vessel-registration.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Boat and vessel registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change to a personalised vessel registration number",
+      "url": "https://www.service.nsw.gov.au/transaction/change-to-a-personalised-vessel-registration-number"
+    },
+    {
+      "text": "Transfer a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I reserve a personalized vessel registration number?",
+      "a": "You can reserve the number either in person at a service centre or by mail.",
+      "link": null
+    },
+    {
+      "q": "What do I need to reserve a personalized vessel registration number?",
+      "a": "You need your proof of identity, your registration details, the 'Statutory Declaration Vessel Registrations' PDF form, and an authorized witness to certify the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:47Z",
+    "last_modified": "2 March 2026",
+    "html_sha1": "01fcf2ad4959c10470e3a072f76451949f68bc50",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

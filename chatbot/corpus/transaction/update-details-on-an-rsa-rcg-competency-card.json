@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-details-on-an-rsa-rcg-competency-card",
+  "title": "Update details on an RSA/RCG competency card",
+  "summary": "You can update your details on your RSA or RCG competency card online if you have changed your name or need to update your contact information.",
+  "topics": [
+    "rsa-rcg-competency-card",
+    "update-details",
+    "contact-details",
+    "name-change"
+  ],
+  "intro": "If you've changed your name or need to update contact details on your competency card, you can do so online. Make sure your current email address or mobile phone number is recorded with Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "You must be able to update your details online if you have changed your name or need to update contact details on your competency card."
+  ],
+  "what_you_need": [
+    "Your name and competency card/interim certificate number",
+    "Your new contact details",
+    "One of the following change of name documents (if applicable)",
+    "Your payment (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Update online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your card or interim certificate number, and your name.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter the required information.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can access a digital version of your competency card through the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Your digital card will be automatically updated once your details have been changed.",
+      "link": null
+    },
+    {
+      "text": "If you have completed the Advanced Responsible Conduct of Gambling (ARCG) course:",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards/fees"
+    },
+    {
+      "text": "NSW competency cards",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards"
+    },
+    {
+      "text": "Find an approved RSA and RCG training course provider",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/find-a-training-provider"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "request a new physical competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Renew an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to update my competency card details?",
+      "a": "You will need your name and competency card or interim certificate number, your new contact details, and one of the following change of name documents (if applicable): your payment.",
+      "link": null
+    },
+    {
+      "q": "How do I update my details online?",
+      "a": "Select the 'Update online' button, select 'Start', enter your card or interim certificate number and your name, select 'Next', and then enter the required information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:23Z",
+    "last_modified": "11 October 2024",
+    "html_sha1": "d4ff63206085799a7999c91f31e8b393709283ea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

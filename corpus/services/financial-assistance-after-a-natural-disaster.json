@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster",
+  "source_url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "financial-assistance-after-a-natural-disaster",
+  "title": "Financial support after an emergency or natural disaster",
+  "summary": "Find information and support options regarding financial assistance after an emergency or natural disaster.",
+  "topics": [
+    "disaster-relief",
+    "financial-assistance",
+    "emergency-support",
+    "natural-disaster"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Book an appointment at a Service Centre",
+      "link": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "Go to Natural Disaster Declarations to check whether your local government area is in a declared affected area.",
+      "link": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "View all emergencies and natural disasters topics",
+      "link": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    },
+    {
+      "text": "Business grants, loans and financial assistance",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Learn more",
+      "url": "https://www.nsw.gov.au/emergency/recovery/storm-recovery-updates/housing-support-package-for-nsw-mid-north-coast-and-hunter-floods"
+    },
+    {
+      "text": "Apply for program",
+      "url": "https://www.nsw.gov.au/emergency/floods/recover/financial-support/property-assessment-program"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-reconstruction-authority/our-work/resilient-homes-program"
+    },
+    {
+      "text": "Go to What financial help is available",
+      "url": "https://www.servicesaustralia.gov.au/what-financial-help-available-for-disasters?context=60042"
+    },
+    {
+      "text": "Use the Disaster Assistance Finder",
+      "url": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "text": "Natural Disaster Declarations",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "View the support",
+      "url": "https://www.service.nsw.gov.au/transaction/community-support-bondi"
+    },
+    {
+      "text": "Find out more",
+      "url": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "Find a location",
+      "url": "https://www.service.nsw.gov.au/services/recovery-centres"
+    },
+    {
+      "text": "Check your eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant"
+    },
+    {
+      "text": "Request a review",
+      "url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    },
+    {
+      "text": "Book an appointment at a Service Centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "View all emergencies and natural disasters topics",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    },
+    {
+      "text": "Business grants, loans and financial assistance",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general financial help after a disaster?",
+      "a": "You can find information on what financial help is available for disasters from Services Australia.",
+      "link": "https://www.servicesaustralia.gov.au/what-financial-help-available-for-disasters?context=60042"
+    },
+    {
+      "q": "How do I check my eligibility for disaster relief?",
+      "a": "You can check your eligibility for the disaster relief grant using the dedicated link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant"
+    },
+    {
+      "q": "What if I need to review a grant decision?",
+      "a": "You can request an internal review of a decision about a grant application.",
+      "link": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:15Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c17f5ecb240208f9f216584a1038a3141aeead47",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

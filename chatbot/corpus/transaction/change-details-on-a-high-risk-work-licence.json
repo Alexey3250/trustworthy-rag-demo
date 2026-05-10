@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-high-risk-work-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-on-a-high-risk-work-licence",
+  "title": "Change details on a high risk work licence",
+  "summary": "Update details, including your address, contact information, or name, for your high risk work licence online.",
+  "topics": [
+    "high-risk-work-licence",
+    "update-details",
+    "name-change",
+    "business-details"
+  ],
+  "intro": "If your address or contact details have changed, you can update your high risk work (HRW) licence online.\n\nYou can also register a change of name for your high risk work (HRW) licence.\n\nSee how to update a general construction card (white card) or traffic control work training card.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number (found at Verify NSW)",
+    "A certified copy of an Australian marriage certificate or an Australian change of name certificate (if changing your name)",
+    "A certified copy of any changes to your registered business or trading name certificate of registration (if changing your business or trading name)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "update a general construction card (white card) or traffic control work training card",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/HRW"
+    },
+    {
+      "text": "Change of details application",
+      "url": "https://licenceforms.safework.nsw.gov.au/forms/change-of-details"
+    },
+    {
+      "text": "High risk work licence – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/high-risk-work-licence"
+    },
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Add your digital high risk work licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    },
+    {
+      "text": "Renew a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-high-risk-work-licence"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I update my high risk work licence details?",
+      "a": "You can update your high risk work (HRW) licence details online by selecting the 'Change online' button, then 'Start', and following the prompts.",
+      "link": null
+    },
+    {
+      "q": "What do I need to update my name on my high risk work licence?",
+      "a": "You need a MyServiceNSW Account, your licence number (found at Verify NSW), and a certified copy of either an Australian marriage certificate or an Australian change of name certificate.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I am changing my business or trading name?",
+      "a": "You need a MyServiceNSW Account, your licence number, and a certified copy of any changes to your registered business or trading name certificate of registration.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:35Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "45a93bf00b0c4e6f197113afbfe90b902520cd64",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

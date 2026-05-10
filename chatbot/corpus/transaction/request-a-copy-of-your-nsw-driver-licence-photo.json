@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-copy-of-your-nsw-driver-licence-photo",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-copy-of-your-nsw-driver-licence-photo",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-copy-of-your-nsw-driver-licence-photo",
+  "title": "Request a copy of your NSW Driver Licence photo",
+  "summary": "This page explains how to request a copy of your stored NSW Driver Licence photo by visiting a Service NSW Centre.",
+  "topics": [
+    "nsw-driver-licence",
+    "photo-copy",
+    "service-nsw"
+  ],
+  "intro": "If you'd like a copy of your stored NSW Driver Licence photo from Transport for NSW, please visit a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your current NSW Driver Licence or Photo Card",
+    "the PDF form – 'Access to Own Personal Records'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your request in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once the request is processed, a hard copy of your photo will be sent to the service service.",
+      "link": null
+    },
+    {
+      "text": "You need to collect your photo in person, at the service centre.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Access to Own Personal Records Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "Apply for a NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:04Z",
+    "last_modified": "18 September 2025",
+    "html_sha1": "8753f317f4f85d9b281b99f390086cbbf8af0484",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

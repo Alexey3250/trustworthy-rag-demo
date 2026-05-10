@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-the-food-authority-or-local-council-of-a-food-business",
+  "title": "Notify the Food Authority or local council of a food business",
+  "summary": "Learn the requirements and process for notifying the appropriate authority (local council or NSW Food Authority) before starting a food business.",
+  "topics": [
+    "food-business",
+    "food-safety",
+    "local-council",
+    "nsw-food-authority",
+    "notify"
+  ],
+  "intro": "If your business is going to sell food, you must notify either your local council or the NSW Food Authority before you start.\n\nYou do not need to notify if your business:\n\nIf you're unsure of the notification requirements for your business, visit the NSW Food Authority website.\n\n### Notify local council\n\nYou need to notify your local council if your business sells or serves food directly to consumers, such as a:\n\nNote: If you have already applied to your local council for services, permits and approvals for the food business, you do not need to notify.\n\nFind your local council\n\n### Notify NSW Food Authority\n\nYou need to notify the NSW Food Authority if your business is in an area not governed by a local council, or is a:\n\nNotify the NSW Food Authority\n\nA range of food producers and transporters must have a Food Authority licence to operate in NSW.",
+  "who_can_apply": [
+    "Your business is going to sell food.",
+    "Your business sells or serves food directly to consumers.",
+    "Your business is in an area not governed by a local council.",
+    "Your business is a food producer or transporter."
+  ],
+  "what_you_need": [
+    "If you have already applied to your local council for services, permits and approvals for the food business, you do not need to notify.",
+    "If you are unsure of the notification requirements for your business, visit the NSW Food Authority website."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/help/licensing"
+    },
+    {
+      "text": "Find your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Notify the NSW Food Authority",
+      "url": "https://formsfa.bfs.dpi.nsw.gov.au/forms/12120"
+    },
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "range of food producers and transporters",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Appoint a food safety supervisor",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to notify an authority before starting a food business?",
+      "a": "Yes, if your business sells food, you must notify either your local council or the NSW Food Authority before you start.",
+      "link": null
+    },
+    {
+      "q": "When do I need to notify my local council?",
+      "a": "You need to notify your local council if your business sells or serves food directly to consumers.",
+      "link": null
+    },
+    {
+      "q": "When do I need to notify the NSW Food Authority?",
+      "a": "You need to notify the NSW Food Authority if your business is in an area not governed by a local council, or if your business is a food producer or transporter.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:37Z",
+    "last_modified": "27 February 2024",
+    "html_sha1": "b696ba57294f8b3f9c461368a51005060524e3d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

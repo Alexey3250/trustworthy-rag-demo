@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-oversnow-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-oversnow-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-oversnow-vehicle-registration",
+  "title": "Apply for an oversnow vehicle registration",
+  "summary": "Learn about the process and requirements for applying for an oversnow vehicle registration.",
+  "topics": [
+    "oversnow-vehicle-registration",
+    "transport-for-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "At the start of each snow season, Transport for NSW inspectors visit the snow to inspect passenger carrying vehicles. Oversnow vehicle registration is conducted as part of this visit.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "business details (if vehicle registered under business)",
+    "the vehicle registration details",
+    "concession card details (if applicable)",
+    "fee payment",
+    "the PDF form – 'Application for Conditional Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete Application for Conditional Registration – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required information.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application with payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Application for Conditional Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070939-conditional-reg.pdf"
+    },
+    {
+      "text": "Seasonal vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/apply-for-seasonal-vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:18Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "a1088ec6150c6b8d4547d8c4f96a9581e83429b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

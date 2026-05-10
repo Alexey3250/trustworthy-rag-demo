@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-nsw-driver-or-rider-licence-voluntarily",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-nsw-driver-or-rider-licence-voluntarily",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-nsw-driver-or-rider-licence-voluntarily",
+  "title": "Cancel a NSW driver or rider licence voluntarily",
+  "summary": "You can voluntarily surrender your NSW driver or rider licence and return it to a Service NSW Centre.",
+  "topics": [
+    "driver-licence",
+    "rider-licence",
+    "service-nsw",
+    "surrender"
+  ],
+  "intro": "You can surrender your NSW driver or rider licence and return it to a Service NSW Centre if you:\n\nYou can also hand in a driver or rider licence for a licence holder who has died.\n\n### NSW Photo Card\n\nYou can use a NSW Photo Card to prove your identity in most places a driver licence is recognised.\n\nWhen you apply for a NSW Photo Card you can use your NSW Driver Licence as proof of identity if it:\n\nYou do not have to pay to get a NSW Photo Card when you cancel a NSW Driver Licence that:\n\nFind out how to apply for a NSW Photo Card.",
+  "who_can_apply": [
+    "You can surrender your NSW driver or rider licence and return it to a Service NSW Centre.",
+    "You can hand in a driver or rider licence for a licence holder who has died."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your driver or rider licence (if available)",
+    "The completed PDF form 'Change of Records – Road and Maritime Products'",
+    "If returning a licence for someone else, the representative needs proof of their identity and one of the following: proof of the licence holder's identity or confirmation of death.",
+    "If handing in the licence for specific reasons, you will also need the relevant document."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the PDF form – Change of Records – Road and Maritime Products.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Take the completed form, documents and the NSW Driver Licence to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Change of Records – Road and Maritime Products",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Cancel a general boat driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-general-boat-driving-licence"
+    },
+    {
+      "text": "Apply to downgrade a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-downgrade-a-driver-licence"
+    },
+    {
+      "text": "Apply for a restricted journey licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-restricted-journey-licence"
+    },
+    {
+      "text": "Change conditions on a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence"
+    },
+    {
+      "text": "Apply for a licence to be reissued after being surrendered on medical grounds",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    },
+    {
+      "text": "Transfer an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died"
+    },
+    {
+      "text": "Close an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use a NSW Photo Card as proof of identity?",
+      "a": "Yes, you can use a NSW Photo Card to prove your identity in most places a driver licence is recognised.",
+      "link": null
+    },
+    {
+      "q": "Do I have to pay to get a NSW Photo Card if I cancel my driver licence?",
+      "a": "No, you do not have to pay to get a NSW Photo Card when you cancel a NSW Driver Licence.",
+      "link": null
+    },
+    {
+      "q": "What do I need to hand in a licence for someone who has died?",
+      "a": "To hand in a licence for someone who has died, you will need confirmation of death, such as a death certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:41Z",
+    "last_modified": "30 January 2026",
+    "html_sha1": "3b001c7237b91087689d28bf9c5ecf37177fb825",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

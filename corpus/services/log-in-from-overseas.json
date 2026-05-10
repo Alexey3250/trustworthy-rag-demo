@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "log-in-from-overseas",
+  "title": "Log in from overseas",
+  "summary": "This page provides information on how to log into your MyServiceNSW Account when you are located overseas.",
+  "topics": [
+    "log-in",
+    "overseas",
+    "my-service-nsw-account",
+    "multi-factor-authentication"
+  ],
+  "intro": "Multi-factor authentication (MFA) is required for all MyServiceNSW Accounts. It will help keep your account secure.",
+  "who_can_apply": [
+    "Must have a MyServiceNSW Account",
+    "Must be attempting to log in from overseas"
+  ],
+  "what_you_need": [
+    "Access to the online form to contact Service NSW (if calling is not possible)",
+    "Knowledge of alternative contact methods if primary MFA methods are unavailable"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you're in Australia and need help, call us on 13 77 88 or go to a service centre.\n\nIf you're overseas and need help, call +61 2 8894 1555 or use the online form to contact us.",
+  "more_info": [
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "MyServiceNSW Account – Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Microsoft Authenticator",
+      "url": "https://www.microsoft.com/en-au/security/mobile-authenticator-app"
+    },
+    {
+      "text": "Google Authenticator",
+      "url": "https://support.google.com/accounts/answer/1066447?hl=en&co=GENIE.Platform%3DiOS&oco=0"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "set up at least 2 methods of MFA",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "online form to contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "MyServiceNSW Account – Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to keep my MyServiceNSW Account secure?",
+      "a": "Multi-factor authentication (MFA) is required for all MyServiceNSW Accounts.",
+      "link": null
+    },
+    {
+      "q": "How can I get help logging in if I am overseas?",
+      "a": "You can call +61 2 8894 1555 or use the online form to contact Service NSW.",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "q": "What should I do if I lose access to my mobile device or MFA methods while overseas?",
+      "a": "If you cannot access your Australian mobile number, or your MFA methods (like the Service NSW app, authenticator app, or text message), you should contact Service NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:09Z",
+    "last_modified": "7 July 2025",
+    "html_sha1": "3500a2e42f8bd5c3943f51906f3212ebc1f462a1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

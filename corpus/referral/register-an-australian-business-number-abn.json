@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-an-australian-business-number-abn",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-an-australian-business-number-abn",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-an-australian-business-number-abn",
+  "title": "Register an Australian Business Number (ABN)",
+  "summary": "This page provides information on how to register for a unique 11-digit Australian Business Number (ABN) for your business.",
+  "topics": [
+    "abn",
+    "business-registration",
+    "australian-taxation-office",
+    "business-number"
+  ],
+  "intro": "An ABN is a unique 11 digit number that identifies your business to the public, the Australian Taxation Office (ATO) and other government agencies.\n\nThe form will also:\n\nSelect the ‘Register now’ button to register an ABN.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Government's Business Registration Service website",
+      "url": "https://register.business.gov.au/registration/type"
+    },
+    {
+      "text": "Applying for an ABN",
+      "url": "https://www.abr.gov.au/business-super-funds-charities/applying-abn"
+    },
+    {
+      "text": "Setting up a business structure for a small business – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/business-basics/sole-trader-partnership-company-trust/"
+    },
+    {
+      "text": "Your business information on the ABR",
+      "url": "https://www.abr.gov.au/business-super-funds-charities/applying-abn/your-abn-details-abr"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:49Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "e3f6530636aef16f900deb1457f6ffdb8ada9a4d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

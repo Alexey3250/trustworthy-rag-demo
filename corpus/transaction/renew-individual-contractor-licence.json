@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-individual-contractor-licence",
+  "title": "Renew an individual contractor licence",
+  "summary": "Learn how to renew your individual contractor licence online if you are a licensed builder or tradesperson in NSW.",
+  "topics": [
+    "builder-licence",
+    "tradesperson-licence",
+    "renew-licence",
+    "nsw-licence"
+  ],
+  "intro": "Builders and tradespeople must be licensed to do building work in NSW. When you receive your renewal notice, you can renew your contractor licence online.\n\nTo find your licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "You must be a builder or tradesperson who needs to be licensed to do building work in NSW."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application and payment.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "you want to seek an exemption from continuing professional development (CPD) obligations, or",
+      "link": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/for-builders-and-swimming-pool-builders#toc-seeking-exemptions-from-cpd-requirements"
+    },
+    {
+      "n": 5,
+      "text": "you need to make changes to your licence other than your contact details and address.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence"
+    },
+    {
+      "n": 6,
+      "text": "your application will be assessed by Building Commission NSW on set criteria for:",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "if Building Commission NSW contacts you to ask for more information the processing time may increase",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "you will be notified about the result of your application when the assessment is completed.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "exemption from continuing professional development (CPD) obligations",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/for-builders-and-swimming-pool-builders#toc-seeking-exemptions-from-cpd-requirements"
+    },
+    {
+      "text": "assessment process and time frames for licence and registration applications",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "contact details and address",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence"
+    },
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-individual-contractor-licence"
+    },
+    {
+      "text": "Restore an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-individual-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find my licence number and details?",
+      "a": "You can visit Verify NSW to find your licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "q": "What happens if I miss the renewal deadline?",
+      "a": "If you do not renew on time, you must apply to restore your licence in person at a service centre. If your licence has expired more than 3 months, you need to apply for a new licence, and you cannot trade until the new licence is issued.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my individual contractor licence?",
+      "a": "Select the 'Renew online' button, select 'Next', and follow the prompts to complete your application and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:23Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "219fc62f3d396dce10bb59c59a0f27bdd645eefa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

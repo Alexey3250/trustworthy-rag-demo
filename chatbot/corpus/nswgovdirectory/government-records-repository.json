@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/government-records-repository",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/government-records-repository",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "government-records-repository",
+  "title": "Government Records Repository",
+  "summary": "This page provides information about the Government Records Repository (GRR), which is a place to access and manage government records.",
+  "topics": [
+    "government-records",
+    "nsw-history",
+    "state-records",
+    "archives"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://mhnsw.au/government-services/grr/",
+      "url": "https://mhnsw.au/government-services/grr/"
+    },
+    {
+      "text": "GRRWeb login - Records NSW",
+      "url": "https://grrweb.records.nsw.gov.au/rswebnet/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "State Records NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-records-nsw"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:13Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "06cd888b9aa4fcc031ee7ae32b370c1d6c9bff3f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

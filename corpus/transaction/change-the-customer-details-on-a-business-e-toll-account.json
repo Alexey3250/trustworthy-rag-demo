@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-business-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-business-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-customer-details-on-a-business-e-toll-account",
+  "title": "Change the customer details on a business E-Toll Account",
+  "summary": "You can change the address or contact details on your Transport for NSW business E-Toll Account online.",
+  "topics": [
+    "business-e-toll-account",
+    "customer-details",
+    "contact-details",
+    "address"
+  ],
+  "intro": "You can change the address or contact details on your Transport for NSW business E-Toll Account online.",
+  "who_can_apply": [
+    "You must be the account holder or an additional contact on the E-Toll Account."
+  ],
+  "what_you_need": [
+    "Your E-Toll business account details",
+    "Your business new address or contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'My details'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Customer details'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter the changes and submit.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "myE-Toll Frequently Asked Questions",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the organisation's name or contact person on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account"
+    },
+    {
+      "text": "Change the payment details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    },
+    {
+      "text": "Change the customer details on a personal E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-personal-e-toll-account"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:53Z",
+    "last_modified": "7 February 2025",
+    "html_sha1": "68d3a91bf5d46ef92e0135317e0938cca08c263d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

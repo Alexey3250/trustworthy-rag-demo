@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-company-or-partnership-contractor-licence",
+  "title": "Replace a company or partnership contractor licence",
+  "summary": "You can order a replacement contractor licence for a company or partnership if the original licence is damaged, lost, or stolen, by visiting a Service NSW Centre.",
+  "topics": [
+    "company-licence",
+    "partnership-licence",
+    "contractor-licence",
+    "replace-licence"
+  ],
+  "intro": "If your company or partnership holds a contractor licence that has been damaged, lost or stolen, you can order a replacement licence at a Service NSW Centre.",
+  "who_can_apply": [
+    "The company or partnership must hold a contractor licence that has been damaged, lost, or stolen."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for duplicate licence, certificate or permit'",
+    "Details of the licence",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to replace a lost or damaged contractor licence?",
+      "a": "You will need the 'Application for duplicate licence, certificate or permit' PDF form, details of the licence, and your fee payment.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my application for a replacement licence?",
+      "a": "You must visit a Service NSW Centre to submit your application in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:21Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "d3c815019cbdcee5dc134f70c390debdfc428454",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

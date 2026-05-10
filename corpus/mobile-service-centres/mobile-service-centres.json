@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/mobile-service-centres",
+  "source_url": "https://www.service.nsw.gov.au/mobile-service-centres",
+  "category": "mobile-service-centres",
+  "article_kind": "landing-page",
+  "slug": "mobile-service-centres",
+  "title": "Find a Mobile Service Centre location",
+  "summary": "Find the location and details for Service NSW's mobile service centres across different regions.",
+  "topics": [
+    "service-centres",
+    "mobile-service",
+    "nsw-locations",
+    "driver-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Northern service",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres/northern-service"
+    },
+    {
+      "text": "Southern service",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres/southern-service"
+    },
+    {
+      "text": "Western service",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres/western-service"
+    },
+    {
+      "text": "Kangaroo service",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres/kangaroo-service"
+    },
+    {
+      "text": "nearest service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "do the DKT online",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:53Z",
+    "last_modified": null,
+    "html_sha1": "2dfc2a9744a619dfd37b7f2f8a9a7710ae4ec53f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

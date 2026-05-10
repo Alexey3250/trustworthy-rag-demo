@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-driver-education-course-provider",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-driver-education-course-provider",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-driver-education-course-provider",
+  "title": "Find a driver education course provider",
+  "summary": "Find information about the requirements and providers for a mandatory driver education course if you exceed your demerit point limit.",
+  "topics": [
+    "driver-licence",
+    "demerit-points",
+    "driver-education",
+    "nsw-driving"
+  ],
+  "intro": "If you hold an unrestricted NSW Driver Licence and you exceed your demerit point limit twice within 5 years, you will need to:\n\nThe driver education course must be delivered by a Transport for NSW-approved provider.\n\nOnce you have completed the course, you must present a copy of your completion certificate to a Service NSW Service Centre.\n\nNote: If you're learning to drive, refer to:\n\nIf you need to complete a Drink Driver Education course, do not contact any of the above providers. You will need to complete the Sober Driver Program.",
+  "who_can_apply": [
+    "Hold an unrestricted NSW Driver Licence",
+    "Exceed demerit point limit twice within 5 years"
+  ],
+  "what_you_need": [
+    "A copy of your completion certificate (to present at a Service NSW Service Centre)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW-approved provider",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2026-01/driver-education-course-providers-4-december-2025.pdf"
+    },
+    {
+      "text": "Driver education and driver training",
+      "url": "https://education.nsw.gov.au/teaching-and-learning/curriculum/road-safety-education/teaching-and-learning/driver_education"
+    },
+    {
+      "text": "Find a driving instructor in NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/driving-instructors"
+    },
+    {
+      "text": "Sober Driver Program",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/sober-driver-program"
+    },
+    {
+      "text": "Demerit points, penalties and offences",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences"
+    },
+    {
+      "text": "How demerit points work",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Driver Knowledge Test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-knowledge-test-dkt-in-person"
+    },
+    {
+      "text": "Service NSW Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to complete a driver education course?",
+      "a": "If you hold an unrestricted NSW Driver Licence and exceed your demerit point limit twice within 5 years, you will need to complete a course.",
+      "link": null
+    },
+    {
+      "q": "Where must the driver education course be delivered?",
+      "a": "The course must be delivered by a Transport for NSW-approved provider.",
+      "link": "https://www.nsw.gov.au/sites/default/files/noindex/2026-01/driver-education-course-providers-4-december-2025.pdf"
+    },
+    {
+      "q": "What do I do after completing the course?",
+      "a": "You must present a copy of your completion certificate to a Service NSW Service Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What if I am learning to drive?",
+      "a": "If you are learning to drive, you should refer to the relevant information.",
+      "link": null
+    },
+    {
+      "q": "Do I need a different course if I am completing a Drink Driver Education course?",
+      "a": "If you need to complete a Drink Driver Education course, you must complete the Sober Driver Program, not the providers listed for general courses.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/sober-driver-program"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:46Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "7840c0cdd65a6531fccf5fa3ce2a7bd01de481b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

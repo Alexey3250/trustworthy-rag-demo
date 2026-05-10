@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-vehicle-and-road-transport-industry",
+  "title": "Motor vehicle and road transport industry",
+  "summary": "Find information and services related to the motor vehicle and road transport industry in New South Wales.",
+  "topics": [
+    "motor-vehicle",
+    "road-transport",
+    "licences",
+    "heavy-vehicles",
+    "business-licences"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Driving and transport",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "Driving and riding instructor licences",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences"
+    },
+    {
+      "text": "Fuel tax credits",
+      "link": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Motor dealer resources",
+      "link": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Motor dealers",
+      "url": "https://www.service.nsw.gov.au/services/motor-dealers"
+    },
+    {
+      "text": "Motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Trader's plates",
+      "url": "https://www.service.nsw.gov.au/services/traders-plates"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Road freight",
+      "url": "https://www.service.nsw.gov.au/services/road-freight"
+    },
+    {
+      "text": "Tow trucks",
+      "url": "https://www.service.nsw.gov.au/services/tow-trucks"
+    },
+    {
+      "text": "Public passenger vehicles (taxis, buses and hire cars)",
+      "url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars"
+    },
+    {
+      "text": "Bus tour operator accreditation",
+      "url": "https://www.service.nsw.gov.au/services/bus-tour-operator-accreditation"
+    },
+    {
+      "text": "Apply for a Vehicle Safety Compliance certifier licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-safety-compliance-certifier-licence"
+    },
+    {
+      "text": "Apply for recognition as a historic vehicle club",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-as-a-historic-vehicle-club"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "Driving and riding instructor licences",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-riding-instructor-licences"
+    },
+    {
+      "text": "Fuel tax credits",
+      "url": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services are available for the motor vehicle industry?",
+      "a": "Services include obtaining a motor vehicle repairer licence, dealing with motor dealers, getting a motor vehicle recycler licence, and obtaining a motor vehicle tradesperson certificate.",
+      "link": "https://www.service.nsw.gov.au/services/motor-vehicle-repairer-licence"
+    },
+    {
+      "q": "What services are available for the road transport industry?",
+      "a": "Services cover heavy vehicles, road freight, tow trucks, public passenger vehicles (taxis, buses, and hire cars), and bus tour operator accreditation.",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "q": "How can I check a business or trade licence?",
+      "a": "You can check a business or trade licence using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:04Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "5cf4214288c557fe677f2c0486d36fe1879172ae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

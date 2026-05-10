@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-general-boat-driving-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-general-boat-driving-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-general-boat-driving-licence",
+  "title": "Replace a general boat driving licence",
+  "summary": "You can replace a general boat driving licence in person at a Service NSW Centre.",
+  "topics": [
+    "boat-licence",
+    "driving-licence",
+    "service-nsw",
+    "maritime"
+  ],
+  "intro": "If you need to replace a general boat driving licence, you can do this in person at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "the PDF form – 'Application for Replacement Products (Maritime)'",
+    "your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Application for Maritime Replacement Products – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072012-application-maritime-replacement-products.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:09Z",
+    "last_modified": "31 October 2025",
+    "html_sha1": "d3acb95a5985b6006bf6c6e24f4f48b896981951",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

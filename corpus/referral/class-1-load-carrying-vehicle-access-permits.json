@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/class-1-load-carrying-vehicle-access-permits",
+  "source_url": "https://www.service.nsw.gov.au/referral/class-1-load-carrying-vehicle-access-permits",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "class-1-load-carrying-vehicle-access-permits",
+  "title": "Class 1 load-carrying vehicle access permits",
+  "summary": "This page explains that operators of Class 1 load-carrying vehicles that do not meet specific mass, dimension, or operating requirements must obtain road access permits for their journeys.",
+  "topics": [
+    "heavy-vehicles",
+    "road-access-permits",
+    "class-1-vehicles",
+    "nhvr"
+  ],
+  "intro": "Operators of Class 1 load-carrying vehicles that don't comply with the mass, dimension or operating requirements set out in the relevant gazette notice, are required to have road access permits for the vehicles' journeys.\n\nClass 1 load-carrying vehicles may include:\n\nThe National Heavy Vehicle Regulator (NHVR) processes road access applications and renewals through its online NHVR portal, NHVR Go. You can also check the status of an application through NHVR Go.\n\nNote:",
+  "who_can_apply": [
+    "Operators of Class 1 load-carrying vehicles that do not comply with the mass, dimension or operating requirements set out in the relevant gazette notice."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Class 1 load-carrying vehicles",
+      "url": "https://www.nhvr.gov.au/road-access/mass-dimension-and-loading/classes-of-heavy-vehicles/class-1"
+    },
+    {
+      "text": "gazette notice",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes/national-notices"
+    },
+    {
+      "text": "oversize overmass (OSOM) vehicles",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/oversize-overmass-permit"
+    },
+    {
+      "text": "agricultural vehicles, implements and trailers",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/agricultural-vehicle-permit"
+    },
+    {
+      "text": "special purpose vehicles (SPVs)",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/special-purpose-vehicle-permit"
+    },
+    {
+      "text": "online NHVR portal, NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "local council/s",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    },
+    {
+      "text": "NHVR Third-party approvals",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/third-party-approvals"
+    },
+    {
+      "text": "Access permit application process",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications"
+    },
+    {
+      "text": "All about renewing a heavy vehicle access permit",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/renew-permit"
+    },
+    {
+      "text": "New South Wales notices – NHVR",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes/state-notices/new-south-wales"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How do I apply for or renew a road access permit?",
+      "a": "The National Heavy Vehicle Regulator (NHVR) processes road access applications and renewals through its online NHVR portal, NHVR Go.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "q": "What types of vehicles are covered by this requirement?",
+      "a": "Class 1 load-carrying vehicles may include oversize overmass (OSOM) vehicles, agricultural vehicles, implements and trailers, special purpose vehicles (SPVs), and others.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:21Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "d8dc4da6c10e3120baf6d62e0e97c18da1db3e96",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

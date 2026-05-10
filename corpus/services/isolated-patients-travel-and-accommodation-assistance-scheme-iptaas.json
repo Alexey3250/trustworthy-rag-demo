@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/isolated-patients-travel-and-accommodation-assistance-scheme-iptaas",
+  "source_url": "https://www.service.nsw.gov.au/services/isolated-patients-travel-and-accommodation-assistance-scheme-iptaas",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "isolated-patients-travel-and-accommodation-assistance-scheme-iptaas",
+  "title": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+  "summary": "This page provides information about the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS), which helps with travel and accommodation costs for isolated patients.",
+  "topics": [
+    "isolated-patients",
+    "travel-assistance",
+    "accommodation-support",
+    "nsw-health"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The scheme is for isolated patients who need to travel to NSW for medical treatment."
+  ],
+  "what_you_need": [
+    "Information on how to register online for IPTAAS.",
+    "Information on how to lodge an IPTAAS travel application."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Disability assistance",
+      "link": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "link": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    },
+    {
+      "text": "Claim concessional car parking at NSW Health public hospitals",
+      "link": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register online for the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas"
+    },
+    {
+      "text": "Lodge an IPTAAS travel application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-iptaas-travel-application"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    },
+    {
+      "text": "Claim concessional car parking at NSW Health public hospitals",
+      "url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)?",
+      "a": "IPTAAS helps with the costs of travel and accommodation for patients who are isolated and need to travel to NSW for medical treatment.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for IPTAAS?",
+      "a": "You can register online for IPTAAS or lodge a travel application online.",
+      "link": null
+    },
+    {
+      "q": "What types of costs can IPTAAS help with?",
+      "a": "IPTAAS can help with travel and accommodation costs incurred when travelling to NSW for medical treatment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:39Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c3770d174ea914dd415d30c2d9644c0a38787c94",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

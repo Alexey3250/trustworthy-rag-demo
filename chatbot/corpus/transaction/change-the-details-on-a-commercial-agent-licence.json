@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-commercial-agent-licence",
+  "title": "Change the details on a commercial agent licence",
+  "summary": "Learn how to notify NSW Fair Trading of changes to your commercial agent licence details.",
+  "topics": [
+    "commercial-agent-licence",
+    "nsw-fair-trading",
+    "business-details",
+    "licence-changes"
+  ],
+  "intro": "If you hold a commercial agent licence and your details have changed, you must notify NSW Fair Trading within 14 days.\n\nYou can do this at a Service NSW Centre if you're changing:\n\nIf you're the licence holder or an authorised officer of the corporation call 13 32 20 to change:",
+  "who_can_apply": [
+    "Hold a commercial agent licence",
+    "Be the licence holder or an authorised officer of the corporation"
+  ],
+  "what_you_need": [
+    "For name change: original copy of a marriage certificate or change of name certificate",
+    "For business name change: Australian Securities and Investment Commission (ASIC) record confirming the change",
+    "For office holder's name change: original copy of a marriage certificate or change of name certificate",
+    "For removing an officer: a current ASIC record confirming the change",
+    "For adding an officer: supporting documentation",
+    "For corporation name change: ASIC record confirming the change",
+    "Individuals/sole traders: The PDF form Commercial Agent – Individual/Sole Trader Change of Details Notification, plus supporting documents",
+    "Corporations: The PDF form Commercial Agent – Corporation Change of Details Notification, plus supporting documents",
+    "If the ACN of the corporation has changed: make a new commercial agent licence application for the corporation and pay the applicable fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59797.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre with your supporting documents.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "you're changing an email address or phone number, and you are:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "you're unable to visit a service centre (they'll let you know other ways to securely submit the change notification form and supporting documents).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find your commercial agent licence number and details, visit Verify NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Commercial Agent – Individual/Sole Trader Change of Details Notification",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59797.pdf"
+    },
+    {
+      "text": "Commercial Agent – Corporation Change of Details Notification",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59796.pdf"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/CA"
+    },
+    {
+      "text": "Commercial agent licence – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licence"
+    },
+    {
+      "text": "Working as a commercial agent – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "commercial agent licence application for the corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation"
+    },
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    },
+    {
+      "text": "Replace a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I notify NSW Fair Trading of changes to my licence details?",
+      "a": "If you hold a commercial agent licence and your details have changed, you must notify NSW Fair Trading within 14 days.",
+      "link": null
+    },
+    {
+      "q": "How can I change my commercial agent licence details?",
+      "a": "You can change your details at a Service NSW Centre, or if you are changing an email address or phone number, you may be able to submit the change notification form and supporting documents through other secure methods.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I am changing the name of the licence holder or an officer?",
+      "a": "For a name change, you need the original copy of a marriage certificate or change of name certificate. For removing an officer, you need a current ASIC record confirming the change. For adding an officer, you need supporting documentation.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:09Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "0ddfcd466260f5f0c66e939ceea7b5b8d3352e37",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

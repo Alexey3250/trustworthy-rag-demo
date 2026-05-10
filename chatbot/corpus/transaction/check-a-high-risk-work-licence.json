@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-high-risk-work-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-high-risk-work-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-high-risk-work-licence",
+  "title": "Check a high risk work licence",
+  "summary": "You can check or search for your high risk work (HRW) licence details online.",
+  "topics": [
+    "high-risk-work-licence",
+    "licence-check",
+    "safework-nsw"
+  ],
+  "intro": "If you'd like to check a high risk work (HRW) licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "HRW licensee name",
+    "HRW licence number",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the status of the licence (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:25Z",
+    "last_modified": "23 June 2025",
+    "html_sha1": "be6d21bdd960c36af5273eb0034de899b3c687ae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

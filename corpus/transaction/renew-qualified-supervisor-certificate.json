@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-qualified-supervisor-certificate",
+  "title": "Renew a qualified supervisor certificate",
+  "summary": "You can renew your qualified supervisor certificate online if you meet the eligibility requirements.",
+  "topics": [
+    "renew-certificate",
+    "qualified-supervisor",
+    "licence-renewal"
+  ],
+  "intro": "You can apply to renew your qualified supervisor certificate online, provided you meet the eligibility requirements.\n\nTo renew your certificate if you do not meet the requirements visit a Service NSW Centre.\n\nTo find your qualified supervisor certificate number and details visit Verify NSW.\n\n### If your certificate has expired\n\nYou cannot trade until your new certificate is issued.",
+  "who_can_apply": [
+    "You want to seek an exemption from continuing professional development (CPD) obligations.",
+    "You need to make changes to your licence other than your contact details and address.",
+    "You cannot renew online if the changes are other than contact details and address."
+  ],
+  "what_you_need": [
+    "Your licence number.",
+    "Your renewal number (as shown on your renewal notice), or your full personal details.",
+    "Your payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew your registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Renew, restore or replace a licence or registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/renew-restore-or-replace"
+    },
+    {
+      "text": "continuing professional development",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Continuing professional development (CPD) exemption request form – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/exemption-request-form"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "apply for a new licence to be re-issued",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-qualified-supervisor-certificate"
+    },
+    {
+      "text": "contact details and address",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Add your digital qualified supervisor certificate to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Replace a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Restore a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Surrender a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my certificate has expired?",
+      "a": "You cannot trade until your new certificate is issued.",
+      "link": null
+    },
+    {
+      "q": "Where can I renew my certificate if I do not meet the online requirements?",
+      "a": "Visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "How do I find my qualified supervisor certificate number and details?",
+      "a": "Visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:43Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "4aca114633afc9c83991bed4c219f1821b5e39ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

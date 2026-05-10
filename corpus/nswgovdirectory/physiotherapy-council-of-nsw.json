@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/physiotherapy-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/physiotherapy-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "physiotherapy-council-of-nsw",
+  "title": "Physiotherapy Council of NSW",
+  "summary": "This page provides information about the Physiotherapy Council of NSW.",
+  "topics": [
+    "physiotherapy",
+    "council",
+    "nsw",
+    "health-care"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.physiotherapycouncil.nsw.gov.au/",
+      "url": "https://www.physiotherapycouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:46Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "fc780189e171e4d4b56059f36b4b988abcf662d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

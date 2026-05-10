@@ -1,0 +1,44 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-free-essential-plumbing-with-sydney-water",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-free-essential-plumbing-with-sydney-water",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-free-essential-plumbing-with-sydney-water",
+  "title": "Apply for free essential plumbing with Sydney Water",
+  "summary": "Find out if you are eligible for free essential plumbing repairs through Sydney Water's PlumbAssist service.",
+  "topics": [
+    "plumbing",
+    "sydney-water",
+    "financial-difficulty",
+    "repairs"
+  ],
+  "intro": "If you're unable to afford essential plumbing repairs, you may be eligible for free plumbing.\n\nSydney Water's PlumbAssist service helps people experiencing financial difficulties deal with issues such as:\n\nTo be eligible:",
+  "who_can_apply": [
+    "You may be eligible for free plumbing if you are unable to afford essential plumbing repairs."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "visit the Sydney Water website",
+      "url": "https://www.sydneywater.com.au/accounts-billing/paying-your-bill/help-with-your-bill.html"
+    },
+    {
+      "text": "PlumbAssist Terms and Conditions – PDF",
+      "url": "https://www.sydneywater.com.au/content/dam/sydneywater/documents/plumbassist-terms-and-conditions.pdf"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:20Z",
+    "last_modified": "12 May 2025",
+    "html_sha1": "db91249fe7cfdd4d76123d7bb472dd56e144c407",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

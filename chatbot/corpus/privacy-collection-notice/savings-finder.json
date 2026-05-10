@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/savings-finder",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/savings-finder",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "savings-finder",
+  "title": "Savings Finder – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects, uses, and discloses your personal information when you use the Savings Finder service.",
+  "topics": [
+    "privacy",
+    "savings-finder",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected when I use Savings Finder?",
+      "a": "Service NSW collects your full name, phone number, post code, and email address.",
+      "link": null
+    },
+    {
+      "q": "Why do you need my personal information?",
+      "a": "The information is used to personalize recommendations for savings and rebates you may be eligible for, and to provide you with your results and appointment summary.",
+      "link": null
+    },
+    {
+      "q": "Do I have to provide this information?",
+      "a": "You are required to provide this information to receive personalized recommendations for savings or to receive your Savings Finder results and appointment summary.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:23Z",
+    "last_modified": "25 February 2026",
+    "html_sha1": "60f1a720e591033d5ea631cf0c807cba62866bd7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

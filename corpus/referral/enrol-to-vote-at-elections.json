@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/enrol-to-vote-at-elections",
+  "source_url": "https://www.service.nsw.gov.au/referral/enrol-to-vote-at-elections",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "enrol-to-vote-at-elections",
+  "title": "Enrol to vote at elections",
+  "summary": "This page informs Australian citizens aged 18 or over about the requirement to enrol to vote and how to keep enrolment details up to date.",
+  "topics": [
+    "enrol-to-vote",
+    "australian-citizens",
+    "elections",
+    "voting-requirements"
+  ],
+  "intro": "If you're an Australian citizen aged 18 years or over, you are legally required to enrol to vote with the Australian Electoral Commission (AEC).\n\nOnce you have enrolled to vote, it is your responsibility to keep your enrolment details up to date.\n\nFor help updating your enrolment details, call 13 23 26.",
+  "who_can_apply": [
+    "Australian citizen",
+    "18 years or over"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You only need to complete one form for local, state and federal government elections.",
+      "link": null
+    },
+    {
+      "text": "If your circumstances affect your ability to enrol to vote (for example, you are living overseas, have no fixed address or are in prison), you may be eligible to use the special enrolment options.",
+      "link": "https://www.aec.gov.au/Enrolling_to_vote/Special_Category/"
+    },
+    {
+      "text": "If you enrolled online, you can use the receipt number provided to check the progress of your enrolment.",
+      "link": "https://forms.aec.gov.au/Enrolment/Tracking?fId=83056040-0525-4745-bc91-a04d00a11c5d"
+    },
+    {
+      "text": "To get back on the electoral roll, visit the Australian Electoral Commission website.",
+      "link": "https://www.aec.gov.au/enrol/"
+    },
+    {
+      "text": "Learn more about how to vote in an election.",
+      "link": "https://www.service.nsw.gov.au/guide/how-to-vote-in-a-state-local-or-federal-election"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "enrol to vote online with the AEC",
+      "url": "https://www.aec.gov.au/enrol/"
+    },
+    {
+      "text": "contact the AEC",
+      "url": "https://www.aec.gov.au/About_AEC/Contact_the_AEC/index.htm"
+    },
+    {
+      "text": "special enrolment options",
+      "url": "https://www.aec.gov.au/Enrolling_to_vote/Special_Category/"
+    },
+    {
+      "text": "check the progress of your enrolment",
+      "url": "https://forms.aec.gov.au/Enrolment/Tracking?fId=83056040-0525-4745-bc91-a04d00a11c5d"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "up to date",
+      "url": "https://www.service.nsw.gov.au/referral/updating-electoral-enrolment-details"
+    },
+    {
+      "text": "how to vote in an election",
+      "url": "https://www.service.nsw.gov.au/guide/how-to-vote-in-a-state-local-or-federal-election"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is required to enrol to vote?",
+      "a": "Australian citizens aged 18 years or over are legally required to enrol to vote with the Australian Electoral Commission (AEC).",
+      "link": null
+    },
+    {
+      "q": "What should I do after I enrol to vote?",
+      "a": "It is your responsibility to keep your enrolment details up to date.",
+      "link": null
+    },
+    {
+      "q": "How can I update my enrolment details?",
+      "a": "For help updating your enrolment details, call 13 23 26.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:19Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "cf716696c9fe62b43a6add3ed3fb672f82060ec7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-move-a-grape-harvester-in-the-hunter-valley",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-move-a-grape-harvester-in-the-hunter-valley",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-move-a-grape-harvester-in-the-hunter-valley",
+  "title": "Apply to move a grape harvester in the Hunter Valley",
+  "summary": "Find out if you need a permit and how to apply if your over-size grape harvester needs to travel on NSW roads.",
+  "topics": [
+    "grape-harvester",
+    "permit",
+    "hunter-valley",
+    "nsw-roads",
+    "agricultural-vehicle"
+  ],
+  "intro": "If your registered grape harvester is over-size (over 2.5 metres wide), you may need to apply for a permit to travel on NSW roads.\n\nYou’ll need a permit if you cannot comply with the conditions set out in the latest gazette notice.\n\nYou can apply online, by post or fax.",
+  "who_can_apply": [
+    "The registered grape harvester is over-size (over 2.5 metres wide).",
+    "The harvester cannot comply with the conditions set out in the latest gazette notice."
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "Your vehicle registration details",
+    "Your vehicle dimensions, loaded axle mass and spacings",
+    "Your route details",
+    "The permit application fee",
+    "The PDF form – 'Agricultural vehicle permit application' (unless applying online)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your supporting information and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for a permit.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information, refer to the NHVR website.",
+      "link": "https://www.nhvr.gov.au/C2024G00247-national-class-1-agricultural-vehicle-and-combination-mass-and-dimension-exemption-notice-2024-no1-operators-guide"
+    },
+    {
+      "text": "For support with your application, contact the NHVR.",
+      "link": "https://www.nhvr.gov.au/contact-us"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW roads",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "conditions set out in the latest gazette notice",
+      "url": "https://www.nhvr.gov.au/C2024G00247-national-class-1-agricultural-vehicle-and-combination-mass-and-dimension-exemption-notice-2024-no1-operators-guide"
+    },
+    {
+      "text": "permit application fee",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    },
+    {
+      "text": "Agricultural vehicle permit application form – PDF",
+      "url": "https://www.nhvr.gov.au/media/24/download"
+    },
+    {
+      "text": "contact the NHVR",
+      "url": "https://www.nhvr.gov.au/contact-us"
+    },
+    {
+      "text": "Vehicle standards information sheets – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/vehicle-standards-guidelines-for-registration/vehicle-standards-information-sheets-vsi"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need a permit for my grape harvester?",
+      "a": "You may need a permit if your registered grape harvester is over-size (over 2.5 metres wide) or if you cannot comply with the conditions set out in the latest gazette notice.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the permit?",
+      "a": "You can apply online, by post, or by fax.",
+      "link": null
+    },
+    {
+      "q": "What is the first step to applying for the permit?",
+      "a": "Gather your supporting information and documents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:28Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "b22be39d36e36bfef4189781078b66d037aa5798",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

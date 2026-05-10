@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/law-enforcement-conduct-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/law-enforcement-conduct-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "law-enforcement-conduct-commission",
+  "title": "Law Enforcement Conduct Commission",
+  "summary": "This page provides information about the Law Enforcement Conduct Commission (LECC), which is an independent body that oversees the conduct of police officers.",
+  "topics": [
+    "law-enforcement",
+    "police-conduct",
+    "commission",
+    "oversight"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.lecc.nsw.gov.au/",
+      "url": "https://www.lecc.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Inspector of the Law Enforcement Conduct Commission, Office of the",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/inspector-of-the-law-enforcement-conduct-commission-office-of-the"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ea7235725f35456f55d73d3f28f3058db4d035c0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

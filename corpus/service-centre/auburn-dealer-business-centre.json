@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/auburn-dealer-business-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/auburn-dealer-business-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "auburn-dealer-business-centre",
+  "title": "Auburn Dealer Business Centre",
+  "summary": "This page provides information about the Auburn Dealer Business Centre, including details on nearby service locations.",
+  "topics": [
+    "service-centre",
+    "business-centre",
+    "auburn"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.8467,151.043"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Auburn Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-service-centre"
+    },
+    {
+      "text": "Auburn Mobile Driver Testing",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-mobile-driver-testing"
+    },
+    {
+      "text": "Silverwater Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/silverwater-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:30Z",
+    "last_modified": null,
+    "html_sha1": "6208bb1a526538f6a5576dee8c1f73b5dfee724c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

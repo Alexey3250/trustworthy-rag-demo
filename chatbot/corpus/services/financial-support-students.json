@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/financial-support-students",
+  "source_url": "https://www.service.nsw.gov.au/services/financial-support-students",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "financial-support-students",
+  "title": "Financial support for students",
+  "summary": "Find information and apply for various financial supports, concessions, and assistance programs for students in NSW.",
+  "topics": [
+    "student-support",
+    "financial-assistance",
+    "education",
+    "concessions",
+    "training"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Student status (tertiary, TAFE, secondary, or apprentice)",
+    "Being an isolated student",
+    "Living away from home"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Concessions, rebates and assistance",
+      "link": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Apply for the Assisted School Travel Program",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program"
+    },
+    {
+      "text": "Active and Creative Kids vouchers",
+      "link": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Support for international students",
+      "link": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Training course information",
+      "url": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for ABSTUDY",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-abstudy"
+    },
+    {
+      "text": "Access the Assistance for Isolated Children Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/access-the-assistance-for-isolated-children-scheme"
+    },
+    {
+      "text": "Apply for Boarding Scholarships for Isolated Students",
+      "url": "https://www.service.nsw.gov.au/referral/boarding-scholarships-for-isolated-students-bsis"
+    },
+    {
+      "text": "Apply for a Living Away from Home Allowance (for secondary students)",
+      "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance"
+    },
+    {
+      "text": "Apply for a Living Away from Home Allowance (for apprentices)",
+      "url": "https://www.service.nsw.gov.au/referral/apply-living-away-from-home-allowance-apprentices"
+    },
+    {
+      "text": "Public transport concessions for tertiary and TAFE students",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-tertiary-and-tafe-students"
+    },
+    {
+      "text": "Enrol in the Smart and Skilled program",
+      "url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program"
+    },
+    {
+      "text": "Education and training",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Apply for the Assisted School Travel Program",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program"
+    },
+    {
+      "text": "Active and Creative Kids vouchers",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Support for international students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What financial supports are available for students?",
+      "a": "Support is available for areas like accommodation, travel, and general living expenses, including schemes for isolated students and allowances for living away from home.",
+      "link": null
+    },
+    {
+      "q": "How can I find information about training courses?",
+      "a": "You can find information about enrolling in the Smart and Skilled program, general training course details, and broader education and training resources.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for specific student allowances?",
+      "a": "You can apply for ABSTUDY, the Assistance for Isolated Children Scheme, Boarding Scholarships for Isolated Students, and Living Away from Home Allowances for both secondary students and apprentices.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:32Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "fccadd1ea381b3bf849c571c21c6ec6757e223b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

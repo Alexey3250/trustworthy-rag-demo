@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/electric-vehicles",
+  "source_url": "https://www.service.nsw.gov.au/services/electric-vehicles",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "electric-vehicles",
+  "title": "Electric vehicles (EVs) in NSW",
+  "summary": "This page provides information on electric vehicles (EVs) in NSW, including rebates, charging stations, and government initiatives to reduce emissions.",
+  "topics": [
+    "electric-vehicles",
+    "emissions",
+    "rebates",
+    "charging-stations",
+    "nsw-government"
+  ],
+  "intro": "The NSW Government has legislated targets to reduce our emissions under the Climate Change (Net Zero Future) Act 2023. The Act commits the NSW Government to effective action on climate change to ensure a sustainable and fair future for the people, economy and environment of NSW.\n\nThe NSW Government encourages the uptake of EVs as a way to reduce emissions.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Climate Change (Net Zero Future) Act 2023",
+      "url": "https://legislation.nsw.gov.au/view/html/2023-12-11/act-2023-048"
+    },
+    {
+      "text": "How to apply for Fast charging grants funding",
+      "url": "https://www.energy.nsw.gov.au/business-and-industry/programs-grants-and-schemes/electric-vehicles/fast-charging-grants"
+    },
+    {
+      "text": "Road user charge",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/nsw-governments-electric-vehicle-strategy/road-user-charge"
+    },
+    {
+      "text": "Common questions about electric vehicle reform",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/nsw-governments-electric-vehicle-strategy/faqs"
+    },
+    {
+      "text": "NSW Government Electric Vehicle Strategy",
+      "url": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/government-strategies-and-frameworks/electric-vehicle-strategy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "How to find an electric vehicle charging station",
+      "url": "https://www.service.nsw.gov.au/referral/find-an-electric-vehicle-charging-station"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Electric Vehicle purchase rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-individuals"
+    },
+    {
+      "text": "Electric Vehicle purchase rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-electric-vehicle-purchase-rebate-organisations"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:06Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "64cfc75b8663ad349f16758f6b5c1a5ca393da57",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

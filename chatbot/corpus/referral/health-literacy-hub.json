@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/health-literacy-hub",
+  "source_url": "https://www.service.nsw.gov.au/referral/health-literacy-hub",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "health-literacy-hub",
+  "title": "Health Literacy Hub",
+  "summary": "The Health Literacy Hub provides health information and resources for NSW patients and health professionals.",
+  "topics": [
+    "health-information",
+    "health-resources",
+    "nsw-patients",
+    "health-professionals"
+  ],
+  "intro": "The Health Literacy Hub is a site containing health information and resources for NSW patients and health professionals.\n\nMembers of the public can find advice on how to:\n\nHealth professionals can register with the Hub to access educational resources, tools and advice on health literacy.\n\nFor more information, visit the Health Literacy Hub.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "find advice",
+      "url": "https://www.healthliteracyhub.org.au/information-for-consumers/"
+    },
+    {
+      "text": "Health Literacy Hub",
+      "url": "https://www.healthliteracyhub.org.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:34Z",
+    "last_modified": "27 February 2025",
+    "html_sha1": "185dc9034f06fee62702bcf82ed9e61edea1cdd2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

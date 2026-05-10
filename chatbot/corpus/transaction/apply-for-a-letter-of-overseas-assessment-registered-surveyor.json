@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-overseas-assessment-registered-surveyor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-overseas-assessment-registered-surveyor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-letter-of-overseas-assessment-registered-surveyor",
+  "title": "Apply for a Letter of Overseas Assessment (registered surveyor)",
+  "summary": "Overseas qualified surveyors can apply to practice surveying in NSW by applying for a Letter of Overseas Assessment through the Board of Surveying and Spatial Information (BOSSI).",
+  "topics": [
+    "surveyor",
+    "overseas-qualification",
+    "nsw-licence",
+    "assessment"
+  ],
+  "intro": "If you're a qualified surveyor from overseas, you can apply to practise surveying in NSW through the Board of Surveying and Spatial Information (BOSSI).\n\nBOSSI will forward your application to the Bureau for Assessment of Overseas Qualifications (Reciprocating Surveyors Boards of Australia and New Zealand). The Bureau will independently assess your qualification and make a recommendation to BOSSI.\n\nYou may:",
+  "who_can_apply": [
+    "Must hold surveying qualifications gained outside Australia or New Zealand."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or OneGov account.",
+    "Proof of eligibility.",
+    "Supporting documents (e.g., curriculum vitae, evidence of relevant experience).",
+    "Proof of identity.",
+    "A credit/debit card to pay the application fee.",
+    "All documents must be certified, in English, and in PDF format."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your supporting documents and information.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select ‘Next’ on the application screen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account, or log in using your OneGov account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to proceed to payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Board of Surveying and Spatial Information",
+      "url": "https://www.bossi.nsw.gov.au"
+    },
+    {
+      "text": "proof of eligibility",
+      "url": "https://www.bossi.nsw.gov.au/candidates/overseas_assessment"
+    },
+    {
+      "text": "application fee",
+      "url": "https://www.bossi.nsw.gov.au/__data/assets/pdf_file/0011/232697/BOSSI_Fees_Schedule_2024-2025.pdf"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "Recognised qualifications for land surveyors – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors/recognised_qualifications"
+    },
+    {
+      "text": "Recognised qualifications for mining surveyors – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_mining_surveyors/recognised_qualifications"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Letter of Accreditation (registered surveyor)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-letter-of-accreditation-registered-surveyor"
+    },
+    {
+      "text": "Apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for this assessment?",
+      "a": "You must hold surveying qualifications that were gained outside of Australia or New Zealand.",
+      "link": null
+    },
+    {
+      "q": "What is the first step in the application process?",
+      "a": "Gather all your supporting documents and necessary information.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the assessment?",
+      "a": "Select the 'Apply online' button, proceed through the application screens, and log in or create a MyServiceNSW Account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:27Z",
+    "last_modified": null,
+    "html_sha1": "a09fcd3ea15146e7dfc7eb7c8413835e2ced7a66",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

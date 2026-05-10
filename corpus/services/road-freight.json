@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/road-freight",
+  "source_url": "https://www.service.nsw.gov.au/services/road-freight",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "road-freight",
+  "title": "Road freight",
+  "summary": "Find information and apply for services related to road freight, including permits, planning, and livestock loading.",
+  "topics": [
+    "road-freight",
+    "heavy-vehicles",
+    "permits",
+    "livestock-loading"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Heavy vehicles",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a road train access permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-train-access-permit"
+    },
+    {
+      "text": "Plan a road freight journey",
+      "url": "https://www.service.nsw.gov.au/referral/plan-a-road-freight-journey"
+    },
+    {
+      "text": "Apply for the Intelligent Access Program",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-intelligent-access-program"
+    },
+    {
+      "text": "Enrol in the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/enrol-in-the-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "Change your enrolment details for the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/change-enrolment-details-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "Check approved routes for the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-the-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "Use the National Livestock Welfare Work and Rest Exemption",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-national-livestock-welfare-work-and-rest-exemption"
+    },
+    {
+      "text": "How to become a NSW Livestock Loading Scheme (NSWLLS) driver",
+      "url": "https://www.service.nsw.gov.au/transaction/how-to-become-a-nsw-livestock-loading-scheme-driver"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:58Z",
+    "last_modified": "17 January 2025",
+    "html_sha1": "d406d29cf43763080a868d66dcdbb47569cae86c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

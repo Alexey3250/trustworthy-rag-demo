@@ -1,0 +1,161 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety",
+  "source_url": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "using-roads-and-public-safety",
+  "title": "Vehicle safety, traffic and road conditions",
+  "summary": "Find information and services related to vehicle safety, road conditions, and traffic rules in NSW.",
+  "topics": [
+    "traffic",
+    "road-safety",
+    "vehicle-safety",
+    "driving-rules",
+    "parking"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Buying a vehicle",
+      "link": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Heavy vehicles",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Fuel tax credits",
+      "link": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Apply for a Road Occupancy Licence",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Parking, speed limits and speed cameras",
+      "url": "https://www.service.nsw.gov.au/services/parking"
+    },
+    {
+      "text": "Mobility parking scheme",
+      "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme"
+    },
+    {
+      "text": "Apply for personal injury benefits (motor vehicle accident)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-personal-injury-benefits-motor-vehicle-accident"
+    },
+    {
+      "text": "Find rest areas in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/find-rest-areas-in-nsw"
+    },
+    {
+      "text": "Find an authorised child restraint fitting station",
+      "url": "https://www.service.nsw.gov.au/referral/child-restraints"
+    },
+    {
+      "text": "Report a traffic breakdown or other incident",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-traffic-breakdown-or-other-incident"
+    },
+    {
+      "text": "Report a traffic crash with NSW Police",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-traffic-crash-with-nsw-police"
+    },
+    {
+      "text": "Check road and traffic conditions with Live Traffic NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw"
+    },
+    {
+      "text": "Lodge a public liability claim with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-liability-claim-with-transport-for-nsw"
+    },
+    {
+      "text": "Report erratic or unsafe driving practices",
+      "url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices"
+    },
+    {
+      "text": "Check fuel prices",
+      "url": "https://www.service.nsw.gov.au/referral/check-fuel-prices"
+    },
+    {
+      "text": "Report a fuel price mismatch",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-fuel-price-mismatch"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Report a pothole or damaged road",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road"
+    },
+    {
+      "text": "Find a Safer Drivers Course provider",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-safer-drivers-course-provider"
+    },
+    {
+      "text": "Apply to join NRMA's Roadside Assistance Free2go program",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-join-nrmas-roadside-assistance-free2go-program"
+    },
+    {
+      "text": "Driving handbooks",
+      "url": "https://www.service.nsw.gov.au/services/driving-handbooks"
+    },
+    {
+      "text": "Learn NSW road rules",
+      "url": "https://www.service.nsw.gov.au/referral/road-rules"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Fuel tax credits",
+      "url": "https://www.service.nsw.gov.au/services/fuel-tax-credits"
+    },
+    {
+      "text": "Apply for a Road Occupancy Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I report a traffic incident or breakdown?",
+      "a": "You can report a traffic breakdown or other incident using the dedicated reporting service.",
+      "link": "https://www.service.nsw.gov.au/referral/report-a-traffic-breakdown-or-other-incident"
+    },
+    {
+      "q": "Where can I check current road and traffic conditions?",
+      "a": "You can check real-time road and traffic conditions using Live Traffic NSW.",
+      "link": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw"
+    },
+    {
+      "q": "How do I report a pothole or damaged road?",
+      "a": "You can report a pothole or damaged road using the reporting service.",
+      "link": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road"
+    },
+    {
+      "q": "What should I do if I am involved in a motor vehicle accident?",
+      "a": "You can apply for personal injury benefits or report a traffic crash with NSW Police.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:45Z",
+    "last_modified": "4 May 2026",
+    "html_sha1": "095cc3b848dda181e32445f182c86e11a8772bee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

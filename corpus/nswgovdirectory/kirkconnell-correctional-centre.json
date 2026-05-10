@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/kirkconnell-correctional-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/kirkconnell-correctional-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "kirkconnell-correctional-centre",
+  "title": "Kirkconnell Correctional Centre",
+  "summary": "This page provides information about the Kirkconnell Correctional Centre.",
+  "topics": [
+    "correctional-centre",
+    "nsw-justice",
+    "dcj"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/kirkconnell-correctional-centre.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/kirkconnell-correctional-centre.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b92387b247eca025b82f8329a56bc2c061fe1a70",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

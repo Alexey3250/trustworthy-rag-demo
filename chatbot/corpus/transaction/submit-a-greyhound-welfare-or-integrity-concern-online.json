@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-a-greyhound-welfare-or-integrity-concern-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-a-greyhound-welfare-or-integrity-concern-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-a-greyhound-welfare-or-integrity-concern-online",
+  "title": "Submit a greyhound welfare or integrity concern online",
+  "summary": "Submit an online report regarding concerns about the greyhound racing industry to the Greyhound Welfare and Integrity Commission (GWIC).",
+  "topics": [
+    "greyhound-welfare",
+    "integrity-concern",
+    "report-online",
+    "racing-industry"
+  ],
+  "intro": "The Greyhound Welfare and Integrity Commission (GWIC) is the independent regulator for the greyhound racing industry in NSW.\n\nIf you have any concerns relating to the industry, you can submit a report online.\n\nConcerns could include such matters as:\n\nNote:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your name and contact details (optional)",
+    "Information/details of your concern",
+    "Any relevant documentation",
+    "If you prefer not to use the online form, you can call the GWIC’s customer service team on 13 49 42."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Submit online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Provide your contact details, or a password (if you wish to remain anonymous).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Providing your personal contact details enables the GWIC to contact you should they need more information to help them with their investigation.",
+      "link": null
+    },
+    {
+      "text": "If you've chosen to remain anonymous, ensure you remember your password. You'll need to provide it if you wish to follow up on your report.",
+      "link": null
+    },
+    {
+      "text": "Your report is sent directly to the GWIC's investigation team for review. They will then either continue with the inquiry or refer it to the RSPCA, NSW Police or another relevant body.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Greyhound Welfare & Integrity Commission",
+      "url": "https://www.gwic.nsw.gov.au/welfare/report-a-concern"
+    },
+    {
+      "text": "Legislation: Greyhound Racing Act 2017",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2017-013"
+    },
+    {
+      "text": "Legislation: Prevention of Cruelty to Animals Act 1979 (NSW)",
+      "url": "https://legislation.nsw.gov.au/#/view/act/1979/200"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who regulates the greyhound racing industry in NSW?",
+      "a": "The Greyhound Welfare and Integrity Commission (GWIC) is the independent regulator for the greyhound racing industry in NSW.",
+      "link": null
+    },
+    {
+      "q": "How can I submit a concern about the industry?",
+      "a": "You can submit a report online by selecting the 'Submit online' button and following the prompts.",
+      "link": null
+    },
+    {
+      "q": "Do I need to provide my name to report a concern?",
+      "a": "You can provide your contact details, or you can remain anonymous by providing a password.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:42Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "180f19d376a5b3eb07a99ac1eabaee7717ef574c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

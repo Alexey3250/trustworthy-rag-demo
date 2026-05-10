@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "authenticate",
+  "title": "Authenticate: customer login",
+  "summary": "This page provides information about how Service NSW uses digital capabilities to help customers log in and access services.",
+  "topics": [
+    "digital-services",
+    "login",
+    "account-access",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Identity Assurance",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance"
+    },
+    {
+      "text": "Digital Notifications",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Learn more about Service NSW digital capabilities",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does Service NSW use digital capabilities?",
+      "a": "Service NSW uses digital capabilities to help customers log in and access services.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of the MyServiceNSW Account?",
+      "a": "The MyServiceNSW Account allows customers to access services and manage their information online.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:13Z",
+    "last_modified": "24 November 2025",
+    "html_sha1": "da93419a24fd158175b99bd821a546d2eea18bf8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

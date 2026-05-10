@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/renting",
+  "source_url": "https://www.service.nsw.gov.au/services/renting",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "renting",
+  "title": "Renting",
+  "summary": "Find information and assistance for renting in NSW, including help with bonds, tenancy disputes, and finding rental subsidies.",
+  "topics": [
+    "renting",
+    "tenancy",
+    "housing",
+    "rental-assistance",
+    "bonds"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Social housing",
+      "link": "https://www.service.nsw.gov.au/services/social-housing"
+    },
+    {
+      "text": "Savings finder",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Access private rental assistance",
+      "url": "https://www.service.nsw.gov.au/referral/access-private-rental-assistance"
+    },
+    {
+      "text": "Rent Choice subsidy",
+      "url": "https://www.service.nsw.gov.au/referral/rent-choice-subsidy"
+    },
+    {
+      "text": "Apply for CAPS relocation and rental assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-caps-relocation-and-rental-assistance"
+    },
+    {
+      "text": "Check your eligibility for Rentstart assistance",
+      "url": "https://www.service.nsw.gov.au/referral/check-your-eligibility-for-rentstart-assistance"
+    },
+    {
+      "text": "Apply for a Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    },
+    {
+      "text": "Apply for Rentstart Move assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-rentstart-move-assistance"
+    },
+    {
+      "text": "Lodge or manage a residential rental bond (tenants)",
+      "url": "https://www.service.nsw.gov.au/referral/lodge-a-residential-rental-bond-tenants"
+    },
+    {
+      "text": "Pay public housing tenancy charges",
+      "url": "https://www.service.nsw.gov.au/referral/pay-public-housing-tenancy-charges"
+    },
+    {
+      "text": "Lodge a residential tenancy complaint with NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-tenancy-complaint-with-nsw-fair-trading"
+    },
+    {
+      "text": "Take a course on renting in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    },
+    {
+      "text": "Moving house",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "Check median rent range in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/rent-check"
+    },
+    {
+      "text": "Support for international students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Guide to help people impacted by domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Social housing",
+      "url": "https://www.service.nsw.gov.au/services/social-housing"
+    },
+    {
+      "text": "Savings finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get help with private rental costs?",
+      "a": "You can access private rental assistance or check your eligibility for Rentstart assistance.",
+      "link": "https://www.service.nsw.gov.au/referral/access-private-rental-assistance"
+    },
+    {
+      "q": "What should I do if I have a tenancy dispute?",
+      "a": "You can lodge a residential tenancy complaint with NSW Fair Trading.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-tenancy-complaint-with-nsw-fair-trading"
+    },
+    {
+      "q": "How do I manage my rental bond?",
+      "a": "You can lodge or manage a residential rental bond for tenants.",
+      "link": "https://www.service.nsw.gov.au/referral/lodge-a-residential-rental-bond-tenants"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:40Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "a206e0eda4f4fbc95dc3dde9634e9a9ce80e5f2d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

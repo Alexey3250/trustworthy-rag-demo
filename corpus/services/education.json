@@ -1,0 +1,165 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/education",
+  "source_url": "https://www.service.nsw.gov.au/services/education",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "education",
+  "title": "Education and training",
+  "summary": "Find information and services for education, training, and skills development in New South Wales.",
+  "topics": [
+    "education",
+    "training",
+    "apprenticeships",
+    "tafe",
+    "international-students",
+    "skills"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Students",
+    "Parents seeking early childhood care",
+    "Apprentices",
+    "International students",
+    "Adult migrants learning English"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Skills NSW programs",
+      "url": "https://education.nsw.gov.au/skills-nsw"
+    },
+    {
+      "text": "Find a TAFE Centre of Excellence",
+      "url": "https://www.dewr.gov.au/national-skills-agreement/tafe-centres-excellence"
+    },
+    {
+      "text": "Browse courses at TAFE Institute of Applied Technology (IAT)",
+      "url": "https://store.training.tafensw.edu.au/product-category/iat/iat-digital/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find early childhood education and care providers",
+      "url": "https://www.service.nsw.gov.au/referral/early-childhood-education-and-care-providers"
+    },
+    {
+      "text": "Find before and after school care and/or vacation care providers",
+      "url": "https://www.service.nsw.gov.au/referral/before-and-after-school-care-and-or-vacation-care-providers"
+    },
+    {
+      "text": "Fee relief for preschool and long day care (Start Strong program)",
+      "url": "https://www.service.nsw.gov.au/referral/start-strong-program-for-preschool-children"
+    },
+    {
+      "text": "Locating NSW public schools and the enrolment process",
+      "url": "https://www.service.nsw.gov.au/guide/nsw-public-schools"
+    },
+    {
+      "text": "Fundraising and trade lotteries",
+      "url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries"
+    },
+    {
+      "text": "Active and creative kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Fee-free apprenticeships",
+      "url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships"
+    },
+    {
+      "text": "Enrol in the Smart and Skilled program",
+      "url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program"
+    },
+    {
+      "text": "Apply for an apprentice vehicle registration rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate"
+    },
+    {
+      "text": "Apply for the VTAS travel and accommodation allowance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance"
+    },
+    {
+      "text": "Find a TAFE NSW campus",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-campus"
+    },
+    {
+      "text": "Find a TAFE NSW course",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course"
+    },
+    {
+      "text": "Enrol in primary school",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-in-the-nsw-international-student-program-primary-school"
+    },
+    {
+      "text": "Enrol in secondary school",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-in-the-nsw-international-student-program-secondary-school"
+    },
+    {
+      "text": "Enrol in TAFE NSW as an international student",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-as-a-tafe-nsw-international-student"
+    },
+    {
+      "text": "Support for international students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    },
+    {
+      "text": "Learn English through the Adult Migrant English Program",
+      "url": "https://www.service.nsw.gov.au/referral/learn-english-through-the-adult-migrant-english-program"
+    },
+    {
+      "text": "Financial support for students",
+      "url": "https://www.service.nsw.gov.au/services/financial-support-students"
+    },
+    {
+      "text": "Apply for a State Library reader's card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card"
+    },
+    {
+      "text": "Transport concessions, cards and passes",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-assistance"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about early childhood and preschool care?",
+      "a": "You can find information about early childhood education and care providers, as well as fee relief for preschool and long day care through the Start Strong program.",
+      "link": "https://www.service.nsw.gov.au/referral/early-childhood-education-and-care-providers"
+    },
+    {
+      "q": "How can I find a TAFE NSW course or campus?",
+      "a": "You can find a TAFE NSW campus or browse available courses using the dedicated links.",
+      "link": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-campus"
+    },
+    {
+      "q": "What programs are available for apprenticeships and training?",
+      "a": "Services include Skills NSW programs, fee-free apprenticeships, and enrolment in the Smart and Skilled program.",
+      "link": "https://education.nsw.gov.au/skills-nsw"
+    },
+    {
+      "q": "What support is available for international students?",
+      "a": "Support is available for enrolling in primary, secondary, or TAFE NSW as an international student.",
+      "link": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    },
+    {
+      "q": "Do I need financial support for my studies?",
+      "a": "Information is available regarding financial support for students.",
+      "link": "https://www.service.nsw.gov.au/services/financial-support-students"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:31Z",
+    "last_modified": "29 April 2026",
+    "html_sha1": "e5df4a43b46d16f29556ec5e9f18568da185c42b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

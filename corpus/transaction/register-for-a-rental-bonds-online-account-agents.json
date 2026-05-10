@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-agents",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-agents",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-a-rental-bonds-online-account-agents",
+  "title": "Register for a Rental Bonds Online account (agents)",
+  "summary": "This page explains how property agents can register for a Rental Bonds Online account to manage residential rental bonds.",
+  "topics": [
+    "property-agents",
+    "rental-bonds",
+    "nsw-fair-trading",
+    "online-account"
+  ],
+  "intro": "NSW Fair Trading’s Rental Bonds Online (RBO) service helps agents, landlords and tenants pay and refund residential rental bonds.\n\nIf you're a property agent, you must be registered with RBO. You must offer the service to new tenants as the first option for lodging their rental bond.",
+  "who_can_apply": [
+    "Property agents"
+  ],
+  "what_you_need": [
+    "The 'Rental Bonds Online agency registration form – PDF'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and email it to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After NSW Fair Trading has processed your application, the principal user will be sent an email with instructions for activating your agency’s RBO account.",
+      "link": null
+    },
+    {
+      "text": "The principal user can update agency details, and add or remove agency users.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Rental Bonds Online agency registration form – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/rental-bonds-online-agency-registration-form"
+    },
+    {
+      "text": "Rental Bonds Online for property agents – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-property-agents"
+    },
+    {
+      "text": "Rental Bonds Online for tenants – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register for a Rental Bonds Online account (landlords)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-landlords"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Rental Bonds Online (RBO) service?",
+      "a": "RBO helps agents, landlords, and tenants pay and refund residential rental bonds.",
+      "link": null
+    },
+    {
+      "q": "Do I need to register if I am a property agent?",
+      "a": "Yes, if you are a property agent, you must be registered with RBO.",
+      "link": null
+    },
+    {
+      "q": "What is the first option for lodging a rental bond?",
+      "a": "Property agents must offer the RBO service to new tenants as the first option for lodging their rental bond.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:22Z",
+    "last_modified": "9 August 2024",
+    "html_sha1": "dbc17f26c80982161ace6386d236fbddddd4faaa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name",
+  "title": "Check the status of your online application – Births, Deaths and Marriages",
+  "summary": "Check the progress of your online application for a birth, death, marriage, relationship registration, or change of name certificate.",
+  "topics": [
+    "birth-death-marriage-certificate",
+    "online-application-status",
+    "change-of-name"
+  ],
+  "intro": "If you've applied online for a birth, death, marriage, relationship registration, or change of name certificate, you can also check how your application is progressing, online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The email address used on your application form",
+    "The online reference number (ORN) provided when you applied"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to check the status of your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you've misplaced your ORN, you can retrieve it by selecting 'Forgotten your ORN?', and then entering your name and email address.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages"
+    },
+    {
+      "text": "Online form help – NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/online-form-help"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Replace a change of name certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-change-of-name-certificate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:05Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "02aaf4af92e1ae2441db8fe3d226165ae6c06df6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

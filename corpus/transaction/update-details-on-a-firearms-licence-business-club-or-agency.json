@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-details-on-a-firearms-licence-business-club-or-agency",
+  "title": "Update details on a firearms licence (business, club or government agency)",
+  "summary": "If you are the licence holder or nominated person for a business, club, or government agency firearms licence, you can update the licence details online via the NSW Police Force Community Portal.",
+  "topics": [
+    "firearms-licence",
+    "business-licence",
+    "club-licence",
+    "agency-licence",
+    "nsw-police"
+  ],
+  "intro": "If you're the licence holder/nominated person on a business, club or government agency firearms licence, you can update details on the licence via the NSW Police Force Community Portal.\n\nThese details include:\n\nTo update online you need:",
+  "who_can_apply": [
+    "You are the licence holder or nominated person on a business, club, or government agency firearms licence."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562 between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Firearm licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/854721/NSWPF_Firearms_Registry_Privacy_Collection_Notice.pdf"
+    },
+    {
+      "text": "Firearms licensing: Frequently asked questions – NSW Police",
+      "url": "https://portal.police.nsw.gov.au/s/article/Firearms-Licensing-Frequently-Asked-Questions"
+    },
+    {
+      "text": "Firearms and ammunition – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/firearms_and_ammunition"
+    },
+    {
+      "text": "Safe storage of firearms – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Renew a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a permit to acquire a firearm (PTA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta"
+    },
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:32Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "5284b2149511b643a17089ff3c7555bc57f6c3f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

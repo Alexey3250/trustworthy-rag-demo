@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-murrumbidgee-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-murrumbidgee-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-murrumbidgee-district",
+  "title": "DCJ Murrumbidgee District",
+  "summary": "This page provides information and contact details for the DCJ Murrumbidgee District Community Services Centre.",
+  "topics": [
+    "community-services",
+    "dcj",
+    "murrumbidgee-district",
+    "support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Albury Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/albury-community-services-centre"
+    },
+    {
+      "text": "Cootamundra Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/cootamundra-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Deniliquin Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/deniliquin-community-services-centre"
+    },
+    {
+      "text": "Griffith Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/griffith-community-services-centre"
+    },
+    {
+      "text": "Leeton Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/leeton-community-services-centre"
+    },
+    {
+      "text": "Tumut Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/tumut-community-services-centre"
+    },
+    {
+      "text": "Wagga Wagga Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/wagga-wagga-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "87e1e38d0d038333837e8d781cd00c5e38f7227e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

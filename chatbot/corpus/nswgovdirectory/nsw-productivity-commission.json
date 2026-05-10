@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-productivity-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-productivity-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-productivity-commission",
+  "title": "NSW Productivity Commission",
+  "summary": "This page provides information about the NSW Productivity Commission.",
+  "topics": [
+    "nsw-productivity-commission",
+    "government-advice",
+    "economic-development"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.productivity.nsw.gov.au/",
+      "url": "https://www.productivity.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:58Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "14a10de0967314e2feb6c7163ba86c8e652c73cb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

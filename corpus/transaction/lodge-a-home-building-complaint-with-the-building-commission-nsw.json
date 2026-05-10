@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-home-building-complaint-with-the-building-commission-nsw",
+  "title": "Lodge a home building complaint with the Building Commission NSW",
+  "summary": "You can lodge a complaint with the Building Commission NSW if you have been unable to resolve a home building dispute privately.",
+  "topics": [
+    "building-dispute",
+    "building-commission",
+    "home-building",
+    "complaint"
+  ],
+  "intro": "If you're involved in a home building dispute and you've been unable to resolve the issue privately, you can lodge a complaint with the Building Commission NSW.\n\nThe Building Commission NSW deals with building-related disputes about:\n\nThe Building Commission NSW complaint handling service is free.",
+  "who_can_apply": [
+    "You are involved in a home building dispute and have been unable to resolve the issue privately."
+  ],
+  "what_you_need": [
+    "Details of the contractor who did the work",
+    "Details of the work, including dates, council application number, value, and payments made",
+    "Owner-Builder Permit number (if applicable)",
+    "Copies of required documents for uploading"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Lodge online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to lodge a complaint.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the Home building complaint form – PDF.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/building-commission/home-building-complaint-form-pdf-version"
+    },
+    {
+      "n": 5,
+      "text": "Lodge your complaint",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Refer to the NSW Guide to Standards and Tolerances to understand what standard of work is acceptable.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/after/safety-and-standards/guide-standards-and-tolerances"
+    },
+    {
+      "text": "Try to maintain positive communication throughout the dispute resolution process.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/resolving-building-disputes"
+    },
+    {
+      "text": "Where a consumer and trader are unable to resolve their dispute, the Building Commission NSW will attempt to mediate an outcome suitable to all parties concerned.",
+      "link": null
+    },
+    {
+      "text": "A formal request for the Building Commission NSW to assist in the dispute resolution may be made by the consumer or the trader but both parties need to agree to the attempt at resolution.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Building Commission NSW",
+      "url": "https://www.nsw.gov.au/building-commission"
+    },
+    {
+      "text": "Home building complaint form – PDF",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/home-building-complaint-form-pdf-version"
+    },
+    {
+      "text": "NSW Guide to Standards and Tolerances",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/after/safety-and-standards/guide-standards-and-tolerances"
+    },
+    {
+      "text": "maintain positive communication",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/resolving-building-disputes"
+    },
+    {
+      "text": "Building defect complaints",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/about-us/building-defect-complaints"
+    },
+    {
+      "text": "Home Building Compensation Fund: Making a claim – icare",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/homeowners/claims"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Building Commission NSW complaint handling service free?",
+      "a": "Yes, the Building Commission NSW complaint handling service is free.",
+      "link": null
+    },
+    {
+      "q": "What types of disputes does the Building Commission NSW deal with?",
+      "a": "The Building Commission NSW deals with building-related disputes.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to lodge a complaint?",
+      "a": "You need details of the contractor, details of the work (including dates, council application number, value, and payments made), Owner-Builder Permit number (if applicable), and copies of required documents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:44Z",
+    "last_modified": "15 August 2025",
+    "html_sha1": "e8f7a5895beeda11e86b217ead1efa19b292ff08",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

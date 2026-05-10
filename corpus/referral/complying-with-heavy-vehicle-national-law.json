@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/complying-with-heavy-vehicle-national-law",
+  "source_url": "https://www.service.nsw.gov.au/referral/complying-with-heavy-vehicle-national-law",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "complying-with-heavy-vehicle-national-law",
+  "title": "Complying with Heavy Vehicle National Law",
+  "summary": "This page explains that operating a road freight transport business in NSW requires compliance with the Heavy Vehicle National Law (HVNL) for everyone in the supply chain.",
+  "topics": [
+    "heavy-vehicle-national-law",
+    "road-freight-transport",
+    "compliance",
+    "safety"
+  ],
+  "intro": "If you operate a road freight transport business in NSW, you need to comply with the regulations and standards under the Heavy Vehicle National Law (HVNL).\n\nEveryone in the supply chain has a responsibility to ensure HVNL and regulations are followed, including all drivers, consignors, and consignees.\n\nUnder the HVNL, standards, procedures, and processes must be followed to ensure heavy vehicle drivers meet safety, accreditation and compliance including:\n\nVisit the On-road compliance and enforcement section of the National Heavy Vehicle Regulator's website for more information.",
+  "who_can_apply": [
+    "Operating a road freight transport business in NSW"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Heavy Vehicle National Law",
+      "url": "https://www.nhvr.gov.au/law-policies/heavy-vehicle-national-law-and-regulations"
+    },
+    {
+      "text": "safety, accreditation and compliance",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance"
+    },
+    {
+      "text": "On-road compliance and enforcement section",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/on-road-compliance-and-enforcement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Complying with Chain of Responsibility legislation",
+      "url": "https://www.service.nsw.gov.au/referral/complying-with-chain-of-responsibility-legislation"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:59Z",
+    "last_modified": "12 January 2025",
+    "html_sha1": "fa0eed92b259d88fff29501b5106bf0615f5cf81",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

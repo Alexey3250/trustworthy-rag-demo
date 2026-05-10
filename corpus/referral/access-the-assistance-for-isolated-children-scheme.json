@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-the-assistance-for-isolated-children-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-the-assistance-for-isolated-children-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-the-assistance-for-isolated-children-scheme",
+  "title": "Access the Assistance for Isolated Children Scheme",
+  "summary": "Find out if your child may be eligible for the Assistance for Isolated Children (AIC) scheme if they cannot attend a local government school due to isolation, disability, or special needs.",
+  "topics": [
+    "isolated-children-scheme",
+    "disability-support",
+    "education-assistance",
+    "services-australia"
+  ],
+  "intro": "If your child is unable to attend a local government school because of geographical isolation, disability or special needs, you may be eligible for help through the Assistance for Isolated Children scheme (AIC).\n\nTo be eligible, your child must meet the living, age and study requirements and either:\n\nYour child’s living arrangements will determine which allowance or supplement you get.\n\nYou can apply for the AIC through Services Australia.",
+  "who_can_apply": [
+    "The child must meet the living, age, and study requirements.",
+    "The child must be unable to attend a local government school because of geographical isolation, disability, or special needs."
+  ],
+  "what_you_need": [
+    "The child must meet the living, age, and study requirements.",
+    "You must determine which allowance or supplement you get based on the child’s living arrangements.",
+    "You must apply for the AIC through Services Australia."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "living, age and study requirements",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/assistance-for-isolated-children-scheme/who-can-get-it"
+    },
+    {
+      "text": "allowance or supplement",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/assistance-for-isolated-children-scheme/what-payment-you-can-get-and-how-much/payment-types"
+    },
+    {
+      "text": "All about the Assistance for Isolated Children Scheme - Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/assistance-for-isolated-children-scheme"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who might be eligible for the Assistance for Isolated Children scheme?",
+      "a": "If your child is unable to attend a local government school because of geographical isolation, disability, or special needs, you may be eligible for help through the Assistance for Isolated Children scheme (AIC).",
+      "link": null
+    },
+    {
+      "q": "What determines the allowance or supplement I receive?",
+      "a": "Your child’s living arrangements will determine which allowance or supplement you get.",
+      "link": "https://www.servicesaustralia.gov.au/individuals/services/centrelink/assistance-for-isolated-children-scheme/what-payment-you-can-get-and-how-much/payment-types"
+    },
+    {
+      "q": "How do I apply for the AIC?",
+      "a": "You can apply for the AIC through Services Australia.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:18Z",
+    "last_modified": "24 December 2024",
+    "html_sha1": "b35b5120e99a4a5c557e6fc4a174867a4e086c56",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

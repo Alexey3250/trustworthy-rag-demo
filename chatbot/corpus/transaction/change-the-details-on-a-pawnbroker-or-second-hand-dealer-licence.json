@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-pawnbroker-or-second-hand-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-pawnbroker-or-second-hand-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-pawnbroker-or-second-hand-dealer-licence",
+  "title": "Change the details on a pawnbroker or second-hand dealer licence",
+  "summary": "You can change the details on your pawnbroker or second-hand dealer licence at a Service NSW Centre or by email.",
+  "topics": [
+    "pawnbroker-licence",
+    "second-hand-dealer-licence",
+    "change-details",
+    "service-nsw"
+  ],
+  "intro": "If you need to change the details on your pawnbroker or second-hand dealer licence, such as your address or surname, you can do this at a Service NSW Centre or via email.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Application for Licence Amendment'",
+    "Copy of a name change document, such as a marriage certificate or change of name certificate (if applicable)",
+    "A signed letter that identifies the details that need to be changed (if not covered by the form)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a Service NSW Centre, or by email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Amend a pawnbroker and second-hand dealer licence – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4521a.pdf"
+    },
+    {
+      "text": "Pawnbrokers/second-hand Dealers licensing guidelines – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4521.pdf"
+    },
+    {
+      "text": "Pawnbroker and second-hand dealer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Pawnbroking and secondhand dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/services/pawnbroking-and-secondhand-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the class on a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-a-pawnbroker-or-second-hand-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change the details on my pawnbroker or second-hand dealer licence?",
+      "a": "You can change the details at a Service NSW Centre or by email.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to change my licence details?",
+      "a": "You need the 'Application for Licence Amendment' PDF form, a copy of a name change document (if applicable), and a signed letter identifying the details that need to be changed (if not covered by the form).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:12Z",
+    "last_modified": "14 August 2025",
+    "html_sha1": "4d30c4c92d39b696fe73cb06b3d9190f38841f26",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

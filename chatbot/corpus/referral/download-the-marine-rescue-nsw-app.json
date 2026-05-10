@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/download-the-marine-rescue-nsw-app",
+  "source_url": "https://www.service.nsw.gov.au/referral/download-the-marine-rescue-nsw-app",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "download-the-marine-rescue-nsw-app",
+  "title": "Download the Marine Rescue NSW app",
+  "summary": "The Marine Rescue NSW app helps boaters stay safe on NSW waters by connecting them directly to search and rescue experts.",
+  "topics": [
+    "boating-safety",
+    "marine-rescue",
+    "nsw-waters",
+    "app-download"
+  ],
+  "intro": "The Marine Rescue NSW app helps boaters stay safe on NSW waters by connecting them directly to search and rescue experts.\n\nYou can log on to inform Marine Rescue NSW when starting a journey and if you don't log off as planned, a search mission can be mobilised to ensure your safe return.\n\nWhen you enable location settings, a live safety tracking feature is activated and your position is automatically updated every 30 minutes.\n\nThe app features include:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating licences",
+      "link": "https://www.service.nsw.gov.au/services/boating-licences"
+    },
+    {
+      "text": "Boat and vessel registrations",
+      "link": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations"
+    },
+    {
+      "text": "Recreational fishing information and services",
+      "link": "https://www.dpi.nsw.gov.au/fishing/recreational"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/marine-rescue-nsw/id722023675"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.com.marinerescuensw"
+    },
+    {
+      "text": "About the Marine Rescue app",
+      "url": "https://www.marinerescuensw.com.au/boating-safety/marinerescue-app/"
+    },
+    {
+      "text": "Water safety essentials",
+      "url": "https://www.marinerescuensw.com.au/plan-log-on/"
+    },
+    {
+      "text": "About Marine Rescue NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/marine-rescue-nsw"
+    },
+    {
+      "text": "Recreational fishing information and services",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Boating licences",
+      "url": "https://www.service.nsw.gov.au/services/boating-licences"
+    },
+    {
+      "text": "Boat and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boat-and-vessel-registrations"
+    },
+    {
+      "text": "Apply for a general boat driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-boat-driving-licence"
+    },
+    {
+      "text": "Renew a general boat licence (not PWC)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc"
+    },
+    {
+      "text": "Apply for a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the Marine Rescue NSW app help boaters?",
+      "a": "The app connects boaters directly to search and rescue experts, allowing you to log on when starting a journey. If you do not log off as planned, a search mission can be mobilized to ensure your safe return.",
+      "link": null
+    },
+    {
+      "q": "What happens if I enable location settings on the app?",
+      "a": "A live safety tracking feature is activated, and your position is automatically updated every 30 minutes.",
+      "link": null
+    },
+    {
+      "q": "Where can I learn more about the Marine Rescue app?",
+      "a": "You can find more information about the app, water safety essentials, and about Marine Rescue NSW.",
+      "link": "https://www.marinerescuensw.com.au/boating-safety/marinerescue-app/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:15Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "8c3fe6fd80bedc978ac902a5204820545b181c5e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

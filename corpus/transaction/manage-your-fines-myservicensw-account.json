@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-fines-myservicensw-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-fines-myservicensw-account",
+  "title": "Manage your fines with a MyServiceNSW Account",
+  "summary": "Use your MyServiceNSW Account to view, pay, or query your fines online in one convenient location.",
+  "topics": [
+    "fines",
+    "myservicensw-account",
+    "paying-fines",
+    "nsw-fines"
+  ],
+  "intro": "You can view, pay or query fines online with your MyServiceNSW Account. You'll see fine records with due dates, amounts owing and statuses all in one convenient location.\n\nIt is quicker and easier to manage your fines online, as your details will be pre-filled. You can securely:",
+  "who_can_apply": [
+    "Must have a MyServiceNSW Account.",
+    "Must be able to provide two matching identity documents (e.g., Australian driver licence, Medicare card, passport)."
+  ],
+  "what_you_need": [
+    "Personal and contact details (name, date of birth, address, email, and phone number).",
+    "Two identity documents (names must match and match the name on the fine).",
+    "A MyServiceNSW Account.",
+    "A fine or overdue fine reference number (if adding the Fines service for the first time)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Manage online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "verify your identity",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "connect your account with Revenue NSW with a fine reference number.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Pay your fine quickly",
+      "link": "https://www.apps09.revenue.nsw.gov.au/quickpayment/"
+    },
+    {
+      "text": "Download the Service NSW app to view or pay a fine.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "You can also:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Government website",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines"
+    },
+    {
+      "text": "Pay your fine quickly",
+      "url": "https://www.apps09.revenue.nsw.gov.au/quickpayment/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Fines privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-privacy-statement"
+    },
+    {
+      "text": "Download the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-terms-and-conditions"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Request a review for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "Nominate someone else for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    },
+    {
+      "text": "Apply to go to court for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I manage my fines online?",
+      "a": "You can view, pay, or query fines online using your MyServiceNSW Account. Your fine records, including due dates, amounts owing, and statuses, will all be in one place.",
+      "link": null
+    },
+    {
+      "q": "What do I need to manage my fines online?",
+      "a": "You need your personal and contact details (name, date of birth, address, email, and phone number), two matching identity documents (like a driver licence, Medicare card, or passport), a MyServiceNSW Account, and potentially a fine or overdue fine reference number.",
+      "link": null
+    },
+    {
+      "q": "What if I live overseas or don't have required ID documents?",
+      "a": "If you are an NSW resident living overseas or do not have the required proof of identity documents, you must visit the NSW Government website to manage your fines.",
+      "link": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:39Z",
+    "last_modified": "19 May 2025",
+    "html_sha1": "12a431dee36e7fbd4d04b7d38df0993977a0ca9e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "real-estate-and-property-industry",
+  "title": "Real estate – selling and leasing property",
+  "summary": "Find information and services related to real estate, including licensing, property management, and rentals.",
+  "topics": [
+    "real-estate",
+    "property-licence",
+    "rentals",
+    "property-management",
+    "leasing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Building and construction industry",
+      "link": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Housing and property",
+      "link": "https://www.service.nsw.gov.au/services/housing-and-property"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fire safety certificate",
+      "url": "https://www.planning.nsw.gov.au/policy-and-legislation/buildings/fire-safety-in-buildings/fire-safety-certification"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Individual property licence",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual"
+    },
+    {
+      "text": "Property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-property-certificate"
+    },
+    {
+      "text": "Corporation property licence",
+      "url": "https://www.service.nsw.gov.au/services/corporation-property-licence"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Auctioneer accreditation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-accreditation-as-an-auctioneer"
+    },
+    {
+      "text": "Conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/services/conveyancer-licence"
+    },
+    {
+      "text": "Check a real estate agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Strata schemes and Strata Hub",
+      "url": "https://www.service.nsw.gov.au/services/strata-schemes"
+    },
+    {
+      "text": "Register a short-term rental accommodation property",
+      "url": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property"
+    },
+    {
+      "text": "Apply for boarding house registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-boarding-house-registration"
+    },
+    {
+      "text": "Rental bond (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/services/rental-bond-landlords-and-agents"
+    },
+    {
+      "text": "Open, register or close a trust account (property)",
+      "url": "https://www.service.nsw.gov.au/transaction/open-register-or-close-a-trust-account-property"
+    },
+    {
+      "text": "Lodge real estate or conveyancer trust account audits",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-real-estate-or-conveyancer-trust-account-audits"
+    },
+    {
+      "text": "Building and construction industry",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Housing and property",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check a real estate agent's licence?",
+      "a": "You can check a real estate agent's licence using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence"
+    },
+    {
+      "q": "What are the requirements for short-term rentals?",
+      "a": "You can register a short-term rental accommodation property through the service.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property"
+    },
+    {
+      "q": "Where can I find information about strata management?",
+      "a": "Information regarding strata schemes and Strata Hub is available.",
+      "link": "https://www.service.nsw.gov.au/services/strata-schemes"
+    },
+    {
+      "q": "What services are available for property licensing?",
+      "a": "Services include obtaining individual property licences, property certificates, and corporation property licences.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:09Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e1ec15bb300a1f2f536a4768a4e94cc383a5802f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

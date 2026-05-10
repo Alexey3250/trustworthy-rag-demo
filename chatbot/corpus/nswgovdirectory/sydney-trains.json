@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-trains",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-trains",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sydney-trains",
+  "title": "Sydney Trains",
+  "summary": "This page provides information about Sydney Trains, including links to the main Transport for NSW website.",
+  "topics": [
+    "sydney-trains",
+    "transport-nsw",
+    "public-transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://transportnsw.info/",
+      "url": "https://transportnsw.info/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:51Z",
+    "last_modified": "4 March 2026",
+    "html_sha1": "6b4a2ab580a77947da53c50abb02ef480b2a142a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

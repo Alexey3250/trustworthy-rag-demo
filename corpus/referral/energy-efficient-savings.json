@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/energy-efficient-savings",
+  "source_url": "https://www.service.nsw.gov.au/referral/energy-efficient-savings",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "energy-efficient-savings",
+  "title": "Household energy saving upgrades",
+  "summary": "Find out about financial incentives available to help reduce the cost of your household energy bills through upgrades.",
+  "topics": [
+    "energy-saving",
+    "household-upgrades",
+    "rebates",
+    "solar-power"
+  ],
+  "intro": "Under the NSW Government Energy Savings Scheme financial incentives may be available to help you reduce the cost of your energy bills. Over time access to incentives may change as new ones are added or old ones are removed.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have any questions about energy saving, contact NSW Climate and Energy Action.",
+  "more_info": [
+    {
+      "text": "### Energy rebates",
+      "link": null
+    },
+    {
+      "text": "Browse Service NSW energy rebates, payments and assistance topics.",
+      "link": null
+    },
+    {
+      "text": "### Book a Savings Finder appointment",
+      "link": null
+    },
+    {
+      "text": "You can also book a free 45-minute appointment with a Service NSW Savings Finder specialist. They'll help you to find and apply for rebates, vouchers and discounts that you may be eligible for.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "financial incentives may be available",
+      "url": "https://www.energy.nsw.gov.au/households/rebates-grants-and-schemes/household-energy-saving-upgrades"
+    },
+    {
+      "text": "contact NSW Climate and Energy Action",
+      "url": "https://www.energy.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "energy rebates, payments and assistance topics",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "book a free 45-minute appointment",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I reduce my energy bills?",
+      "a": "Financial incentives may be available to help you reduce the cost of your energy bills.",
+      "link": null
+    },
+    {
+      "q": "What energy upgrades are available?",
+      "a": "You can access incentives for upgrading your air conditioner, hot water system, or signing up your battery to a Virtual Power Plant (VPP).",
+      "link": null
+    },
+    {
+      "q": "Who can I contact for more information?",
+      "a": "If you have any questions about energy saving, contact NSW Climate and Energy Action.",
+      "link": "https://www.energy.nsw.gov.au/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:16Z",
+    "last_modified": "11 August 2025",
+    "html_sha1": "46de5685c2c835d5b343047df836ce234b634a4c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-complaint-about-a-motor-vehicle-dealer-or-repairer",
+  "title": "Make a complaint about a motor vehicle dealer or repairer",
+  "summary": "This page provides information on how to make a complaint if you have an issue with a motor vehicle dealer or repairer.",
+  "topics": [
+    "motor-vehicle-dealer",
+    "repairer",
+    "complaint",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you have an issue with a motor vehicle dealer or repairer:\n\nIf you’re unable to resolve your issue:\n\nNSW Fair Trading will:\n\nFor more information, refer to Vehicle warranty and repair disputes.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "lodge a complaint online",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/automotive"
+    },
+    {
+      "text": "Vehicle warranty and repair disputes",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles/vehicle-warranty-and-repair-disputes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    },
+    {
+      "text": "Lodge a general consumer complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-consumer-complaint"
+    },
+    {
+      "text": "Check a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I have an issue with a motor vehicle dealer or repairer?",
+      "a": "If you have an issue, you should follow the steps provided on the page.",
+      "link": null
+    },
+    {
+      "q": "What happens if I am unable to resolve my issue?",
+      "a": "If you are unable to resolve your issue, NSW Fair Trading can assist.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about vehicle warranties and repair disputes?",
+      "a": "For more information, refer to Vehicle warranty and repair disputes.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles/vehicle-warranty-and-repair-disputes"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:04Z",
+    "last_modified": "2 November 2024",
+    "html_sha1": "ba420f29aad80a52ef31f396e06bf1b4f27e7e06",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

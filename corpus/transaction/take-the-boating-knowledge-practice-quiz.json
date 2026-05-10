@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/take-the-boating-knowledge-practice-quiz",
+  "source_url": "https://www.service.nsw.gov.au/transaction/take-the-boating-knowledge-practice-quiz",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "take-the-boating-knowledge-practice-quiz",
+  "title": "Take the boating knowledge practice quiz",
+  "summary": "Take an online revision quiz to practice for the knowledge test required when applying for a general boat driving licence or upgrading to a personal watercraft (PWC) licence.",
+  "topics": [
+    "boating",
+    "pwc-licence",
+    "knowledge-test",
+    "driving-licence"
+  ],
+  "intro": "If you want to apply for a general boat driving licence, or upgrade to a personal watercraft (PWC) licence, you need to successfully complete a knowledge test in the respective area.\n\nTo help you practise for your test, you can take a revision quiz for either licence, online.\n\nThe questions in the quizzes are taken from the pool of questions used in the actual tests but consider each quiz as a guide only.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "You must have studied the boating and/or PWC handbook/s."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Take the quiz' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Choose which knowledge quiz you'd like to complete and follow the prompts on screen.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "As you progress through the multiple choice questions you'll be shown whether you've answered correctly or incorrectly.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "At the end of each quiz you have the option to review the relevant section/s of the boating or PWC handbooks that relate to any incorrect answers.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "boating and/or PWC handbook/s",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences"
+    },
+    {
+      "text": "Get boat or personal watercraft (PWC) licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/get-boat-or-pwc-licence"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a general boat driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-boat-driving-licence"
+    },
+    {
+      "text": "Apply for a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-personal-watercraft-pwc-driving-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is this quiz for?",
+      "a": "This quiz helps you practice for the knowledge test required to apply for a general boat driving licence or upgrade to a PWC licence.",
+      "link": null
+    },
+    {
+      "q": "Are the quiz questions the same as the actual test?",
+      "a": "The questions are taken from the pool used in the actual tests, but you should consider each quiz only as a guide.",
+      "link": null
+    },
+    {
+      "q": "How do I take the quiz?",
+      "a": "Select the 'Take the quiz' button, choose the knowledge quiz you want to complete, and follow the prompts on screen.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:07Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "5854deab6ded57a05e4a90cc8eefa402ee879c72",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

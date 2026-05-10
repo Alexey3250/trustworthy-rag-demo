@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-and-contact-details-on-a-private-mooring-licence",
+  "title": "Change address and contact details on a private mooring licence",
+  "summary": "You can update the contact details on your private mooring licence online if you meet the eligibility requirements.",
+  "topics": [
+    "mooring-licence",
+    "contact-details",
+    "address-change",
+    "transport-for-nsw"
+  ],
+  "intro": "If you want to update the contact details on your private mooring licence, you can do this online, provided you meet the eligibility requirement.",
+  "who_can_apply": [
+    "Your current email address or mobile phone number must be recorded with Transport for NSW."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your new contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to change your contact details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-private-mooring-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I update my contact details for my private mooring licence?",
+      "a": "You can update your contact details online by selecting the 'Change online' button and following the prompts.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to change their contact details online?",
+      "a": "You must have your current email address or mobile phone number recorded with Transport for NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:07Z",
+    "last_modified": "10 March 2026",
+    "html_sha1": "901d9bc5582c4a8fe4dd9cc13406a2d3f49813d6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

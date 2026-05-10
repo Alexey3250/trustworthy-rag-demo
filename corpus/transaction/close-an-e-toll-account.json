@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "close-an-e-toll-account",
+  "title": "Close an E-Toll Account",
+  "summary": "This page explains how to permanently close your Transport for NSW E-Toll Account.",
+  "topics": [
+    "e-toll",
+    "account-closure",
+    "nsw-transport"
+  ],
+  "intro": "If you want to permanently close your Transport for NSW E-Toll Account, you can do so at a Service NSW Centre.\n\nYou'll need to pay any outstanding fees when closing the account.\n\nIf you're closing an E-Toll Account on behalf of another person, you'll need to provide a letter signed by the account holder authorising you to do so, including details about the closure.\n\n### Moving interstate\n\nIf you no longer live in NSW you can return your tag by registered post, with an accompanying letter advising that the tag is no longer required.\n\nRefunds can be paid either to your nominated credit or debit card, or by cheque if your account refills are paid by direct debit from a bank account. Your refund will be processed after 31 days.",
+  "who_can_apply": [
+    "Must pay any outstanding fees when closing the account.",
+    "If closing on behalf of another person, a letter signed by the account holder authorising the closure is required."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your tag (for an E-Toll Tag Account)",
+    "Your nominated refund method (if applicable)",
+    "The ABN or ACN (if the account is a corporate/business account)",
+    "An explanatory letter (if applicable)",
+    "A letter authorising you to close the account, signed by the account holder (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "pay any outstanding amounts on your account",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "send your tag(s) with your explanatory letter and the required information, by registered mail to:E-Toll Business Operations CentrePO Box 1447Parramatta NSW 2124",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If the package is lost in transit you may be charged a non-return tag fee.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Returning your tag by registered mail means your package can be tracked.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    },
+    {
+      "text": "myE-Toll Frequently Asked Questions",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Close an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I close my E-Toll Account?",
+      "a": "You can permanently close your E-Toll Account at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What happens if I move interstate?",
+      "a": "If you no longer live in NSW, you can return your tag by registered post with a letter advising that the tag is no longer required.",
+      "link": null
+    },
+    {
+      "q": "How long will it take to receive a refund?",
+      "a": "Your refund will be processed after 31 days.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:58Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "2647f73708346264129d51fd19d1811040a45a30",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

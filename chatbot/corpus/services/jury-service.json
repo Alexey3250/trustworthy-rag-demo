@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/jury-service",
+  "source_url": "https://www.service.nsw.gov.au/services/jury-service",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "jury-service",
+  "title": "Jury service",
+  "summary": "This page provides information about jury service in New South Wales, including how to check if you need to attend and how to apply to be excused.",
+  "topics": [
+    "jury-service",
+    "nsw-courts",
+    "legal-process",
+    "civic-duty"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NSW courts",
+      "link": "https://www.service.nsw.gov.au/services/nsw-courts"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply to be excused from jury service",
+      "url": "https://www.service.nsw.gov.au/referral/apply-to-be-excused-from-jury-service"
+    },
+    {
+      "text": "Check if you need to attend jury service",
+      "url": "https://www.service.nsw.gov.au/referral/check-if-you-need-to-attend-jury-service"
+    },
+    {
+      "text": "Find out about jury service in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-jury-service-in-nsw"
+    },
+    {
+      "text": "NSW courts",
+      "url": "https://www.service.nsw.gov.au/services/nsw-courts"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find out if I need to attend jury service?",
+      "a": "You can check if you need to attend jury service using the dedicated NSW Service website.",
+      "link": "https://www.service.nsw.gov.au/referral/check-if-you-need-to-attend-jury-service"
+    },
+    {
+      "q": "How do I apply to be excused from jury service?",
+      "a": "You can apply to be excused from jury service via the NSW Service website.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-to-be-excused-from-jury-service"
+    },
+    {
+      "q": "Where can I find general information about jury service in NSW?",
+      "a": "The NSW Service website has a page dedicated to finding out about jury service in NSW.",
+      "link": "https://www.service.nsw.gov.au/referral/find-out-about-jury-service-in-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:44Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e7192f5b94c1dfb1fed1f9b4d6dfa3ecf8952add",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

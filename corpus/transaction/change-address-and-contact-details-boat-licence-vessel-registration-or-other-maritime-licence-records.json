@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records",
+  "title": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+  "summary": "You can update your address, email address, or contact number for a vessel registration or maritime licence online.",
+  "topics": [
+    "maritime-licence",
+    "vessel-registration",
+    "contact-details",
+    "address-update"
+  ],
+  "intro": "If you need to update your address, email address or contact number on a vessel registration or maritime licence, you can do so online.\n\nTo update your road licence details, see Change address with NSW Government.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your licence number",
+    "Your new contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the PDF form Change of Records – Maritime Products Only.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Make sure you have all the required documentation, including proof of identity.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "n": 6,
+      "text": "Submit your application:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can access a digital version of your boat driving licence and manage your vessel registration through the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "You can also update your contact details when renewing your licence or registration:",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change of Records – Maritime Products Only",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "boat licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I update my road licence details?",
+      "a": "To update your road licence details, see Change address with NSW Government.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "q": "What do I need to update my maritime records?",
+      "a": "You need your licence number and your new contact details.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application after updating my details?",
+      "a": "You can submit your application at the Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:03Z",
+    "last_modified": "18 February 2026",
+    "html_sha1": "30e1e62604ab8277ca5bb327ed5b9c163a0d81e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

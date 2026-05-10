@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-tribunal-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-tribunal-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dust-diseases-tribunal-of-nsw",
+  "title": "Dust Diseases Tribunal of NSW",
+  "summary": "This page provides information about the Dust Diseases Tribunal of NSW, which is a tribunal that hears cases related to dust diseases.",
+  "topics": [
+    "dust-diseases",
+    "tribunal",
+    "nsw-law",
+    "health-issues"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dustdiseasestribunal.nsw.gov.au",
+      "url": "https://www.dustdiseasestribunal.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Dust Diseases Tribunal of NSW?",
+      "a": "The Dust Diseases Tribunal of NSW is a tribunal that hears cases related to dust diseases.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the tribunal?",
+      "a": "You can find more information on the dedicated website for the tribunal.",
+      "link": "https://www.dustdiseasestribunal.nsw.gov.au"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:09Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7cd1b3244e88a13799fc50d119e1718d60a83725",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

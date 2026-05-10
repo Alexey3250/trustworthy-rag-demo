@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/tattooist-and-tattoo-master-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/tattooist-and-tattoo-master-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "tattooist-and-tattoo-master-licences",
+  "title": "Tattooist and tattoo master licences",
+  "summary": "This page provides information and links for applying for or renewing tattooist and tattoo master licences in NSW.",
+  "topics": [
+    "tattooist-licence",
+    "tattoo-master-licence",
+    "nsw-health-regulations"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a tattooist licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence"
+    },
+    {
+      "text": "Renew a tattooist licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence"
+    },
+    {
+      "text": "Apply for a tattoo master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence"
+    },
+    {
+      "text": "Renew a tattoo master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-tattoo-master-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a tattooist licence?",
+      "a": "You can apply for a tattooist licence using this link: https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence"
+    },
+    {
+      "q": "How do I renew a tattooist licence?",
+      "a": "You can renew your tattooist licence using this link: https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence"
+    },
+    {
+      "q": "How do I apply for a tattoo master licence?",
+      "a": "You can apply for a tattoo master licence using this link: https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence"
+    },
+    {
+      "q": "How do I renew a tattoo master licence?",
+      "a": "You can renew your tattoo master licence using this link: https://www.service.nsw.gov.au/transaction/renew-a-tattoo-master-licence",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-tattoo-master-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:15Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4441f155076eac45bb28e7e2ede9fdc9609782bb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

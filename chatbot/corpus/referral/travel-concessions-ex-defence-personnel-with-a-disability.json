@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-ex-defence-personnel-with-a-disability",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-ex-defence-personnel-with-a-disability",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-ex-defence-personnel-with-a-disability",
+  "title": "Public transport concessions for ex-defence personnel with a disability",
+  "summary": "Find out if you are eligible for an ex-defence personnel Transport Concession Entitlement Card, which allows free travel on most public transport in NSW.",
+  "topics": [
+    "ex-defence-personnel",
+    "disability",
+    "transport-concessions",
+    "nsw-public-transport"
+  ],
+  "intro": "If you're a war veteran with a service related disability, you may be eligible for an ex-defence personnel Transport Concession Entitlement Card.\n\nThis card entitles you to free travel on most public transport in NSW.\n\nYou'll also get a free Opal card. The Opal card lets you open gates at train stations and ferry wharves without staff.\n\nYou must carry your transport concession entitlement card (proof of entitlement) when travelling with a concession ticket or a concession Opal card, or you may be fined.\n\nFor more information, including eligibility and how to apply, refer to the Transport for NSW website.\n\nBlinded soldiers, World War 1 veterans' widows and recipients of the Victoria Cross or the George Cross can get a different pass for free travel.\n\nIf you're not eligible for a Transport Concession Entitlement Card, but you hold a DVA Veteran Gold Card, you can apply for a Gold Opal card.",
+  "who_can_apply": [
+    "War veterans with a service related disability may be eligible for an ex-defence personnel Transport Concession Entitlement Card.",
+    "If not eligible for the Transport Concession Entitlement Card, but holding a DVA Veteran Gold Card, you can apply for a Gold Opal card."
+  ],
+  "what_you_need": [
+    "Transport concession entitlement card (proof of entitlement)",
+    "DVA Veteran Gold Card (if applying for a Gold Opal card)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/ex-members-of-defence-force-with-disability"
+    },
+    {
+      "text": "pass for free travel",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions"
+    },
+    {
+      "text": "apply for a Gold Opal card",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/dva-veteran-gold-cards"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What does the Transport Concession Entitlement Card provide?",
+      "a": "The card entitles you to free travel on most public transport in NSW, and you will also receive a free Opal card.",
+      "link": null
+    },
+    {
+      "q": "What must I carry when travelling with a concession ticket or Opal card?",
+      "a": "You must carry your transport concession entitlement card (proof of entitlement) when travelling.",
+      "link": null
+    },
+    {
+      "q": "Who can get a different pass for free travel?",
+      "a": "Blinded soldiers, World War 1 veterans' widows, and recipients of the Victoria Cross or the George Cross can get a different pass for free travel.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:55Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "a7adf8db54f7994d631393e47d0f7251c0fe167b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

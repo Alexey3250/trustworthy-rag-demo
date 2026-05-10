@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-dental-services-under-the-child-dental-benefits-schedule-cdbs",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-dental-services-under-the-child-dental-benefits-schedule-cdbs",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-dental-services-under-the-child-dental-benefits-schedule-cdbs",
+  "title": "Access dental services under the Child Dental Benefits Schedule (CDBS)",
+  "summary": "Find out about accessing dental services for children under 18 through the Child Dental Benefits Schedule (CDBS).",
+  "topics": [
+    "child-dental-benefits",
+    "cdbs",
+    "dental-services",
+    "medicare"
+  ],
+  "intro": "Children under 18 may be eligible to access dental service benefits over 2 calendar years through the Australian Government's Child Dental Benefits Schedule (CDBS).\n\nYou don’t need to register your child for the CDBS, Medicare will do it for you if your child is eligible.",
+  "who_can_apply": [
+    "Children under 18 may be eligible to access dental service benefits over 2 calendar years through the Australian Government's Child Dental Benefits Schedule (CDBS)."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Services Australia website",
+      "url": "https://www.servicesaustralia.gov.au/child-dental-benefits-schedule"
+    },
+    {
+      "text": "myGov",
+      "url": "https://my.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need to register my child for the CDBS?",
+      "a": "No, you do not need to register your child for the CDBS. Medicare will automatically do it for you if your child is eligible.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:40Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "d092c455ccae3fd5ecb3a0d24f692c9d40ee86e4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

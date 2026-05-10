@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-trade-licences-dtl-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-trade-licences-dtl-terms-and-conditions",
+  "category": "nsw-digital-trade-licences-dtl-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "nsw-digital-trade-licences-dtl-terms-and-conditions",
+  "title": "NSW Digital Trade Licences (DTLs) – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using Digital Trade Licences (DTLs), which are electronic versions of physical contractor, supervisor, or tradesperson licences.",
+  "topics": [
+    "trade-licence",
+    "digital-licence",
+    "home-building-act",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Hold a valid Trade Licence.",
+    "Have or be able to obtain a MyServiceNSW Account.",
+    "Have or will link your MyServiceNSW Account to your Trade Licence.",
+    "Have applied for a DTL."
+  ],
+  "what_you_need": [
+    "A valid Trade Licence.",
+    "A MyServiceNSW Account.",
+    "A working electronic device with a charged battery and an unobstructed screen."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Fair Trading Privacy Statement",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Privacy Statement for Digital Trade Licences and Credentials",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Digital Trade Licence (DTL)?",
+      "a": "A DTL is an electronic version of a physical contractor licence, supervisor certificate, or tradesperson certificate under the Home Building Act 1989. It can be used to show that you hold a current Trade Licence.",
+      "link": null
+    },
+    {
+      "q": "Must I always carry my physical Trade Licence?",
+      "a": "Yes, because NSW is the first jurisdiction to offer a DTL, you should always carry your physical Trade Licence when working outside of NSW, as the DTL may not be recognised in other jurisdictions.",
+      "link": null
+    },
+    {
+      "q": "What happens if my phone or device is damaged?",
+      "a": "You must ensure your phone or other electronic device is working, sufficiently charged, and that the screen is not cracked, dimmed, or obstructed, otherwise your DTL may not be accepted.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:33Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "7f91a4af852c8ccdb32d6e56de50d1fd31b2f918",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

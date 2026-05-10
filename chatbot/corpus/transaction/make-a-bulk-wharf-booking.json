@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-bulk-wharf-booking",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-bulk-wharf-booking",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-bulk-wharf-booking",
+  "title": "Make a bulk wharf booking",
+  "summary": "This page explains how commercial vessel operators can apply for bulk wharf bookings in 6-month blocks for Sydney Harbour.",
+  "topics": [
+    "wharf-booking",
+    "commercial-vessel",
+    "sydney-harbour",
+    "bulk-booking"
+  ],
+  "intro": "There are 2 types of Sydney Harbour wharf bookings available to commercial vessel operators – either bulk or ad hoc.\n\nBulk wharf bookings are made in 6-month blocks and are only available to commercial vessel operators who require recurring bookings at the same time on the same day for the same vessel.\n\nTo make these bookings, complete the application form and submit it in person at a Service NSW Centre, or email, post or fax your application using the details on the form.",
+  "who_can_apply": [
+    "Operate a commercial vessel (e.g., ferry service, adventure ride, whale watching, sightseeing or dining cruises)."
+  ],
+  "what_you_need": [
+    "The 'Bulk Booking Application Form' PDF.",
+    "Company name and details.",
+    "Vessel name, survey number and details.",
+    "Wharf name, requested time slot, and period."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form by the relevant date (as indicated on the form).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application either in person at a service centre, or by mail, email or fax to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "the booking timetable is April through September and October through March",
+      "link": null
+    },
+    {
+      "text": "applications must be received 6 months ahead of the booking timetable",
+      "link": null
+    },
+    {
+      "text": "the Whale Watching Period is 31 May to 30 November, and bookings must be lodged before the previous October",
+      "link": null
+    },
+    {
+      "text": "nominations received after the due date may be given lower priority",
+      "link": null
+    },
+    {
+      "text": "bookings will only be confirmed once Transport for NSW has received all nominations",
+      "link": null
+    },
+    {
+      "text": "approved Whale Watching Operators will need to provide advertised bona fide tours specifically for watching whales throughout the whale watching season.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Bulk Booking Application Form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065555-bulk-booking-application.pdf"
+    },
+    {
+      "text": "Wharf access – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/waterways/commercial-vessels/wharf-access"
+    },
+    {
+      "text": "Wharf Bookings - CBD Berth Access Fees",
+      "url": "https://roads-waterways.transport.nsw.gov.au/maritime/commercial-vessels/fees.html"
+    },
+    {
+      "text": "Commercial vessels – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/waterways/commercial-vessels"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of wharf bookings are available?",
+      "a": "There are two types of Sydney Harbour wharf bookings: bulk or ad hoc.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for a bulk wharf booking?",
+      "a": "You must operate a commercial vessel, such as a ferry service, adventure ride, or whale watching, sightseeing or dining cruises.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a bulk wharf booking?",
+      "a": "Complete the application form and submit it in person at a Service NSW Centre, or email, post or fax your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:11Z",
+    "last_modified": "15 October 2024",
+    "html_sha1": "cf3385d368658a83d45bc3bd51be4a6d50a21b66",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "add-or-change-mobile-number",
+  "title": "Add or change mobile number",
+  "summary": "Learn how to add or change your Australian mobile number on your Service NSW account.",
+  "topics": [
+    "mobile-number",
+    "service-nsw-account",
+    "personal-details",
+    "multi-factor-authentication"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Access to your old mobile number and the text message (SMS) code for MFA",
+    "The Service NSW app",
+    "An authenticator app"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to the Service NSW app.",
+      "link": "tel:137788"
+    },
+    {
+      "n": 2,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Australian mobile number'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Respond to the 'Authentication request' in the Service NSW app by selecting 'Yes, it was me'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your new Australian mobile number and follow any other prompts. Then select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 8,
+      "text": "Go to 'Manage account'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Go to 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Select 'Update' next to 'Australian mobile number'.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "Enter a code sent via text message (SMS) to your old mobile number. Then select ‘Continue’.",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "Enter your new Australian mobile number and follow any other prompts. Then select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 1,
+      "text": "receive opted-in mobile notifications",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "pre-fill your mobile number on application forms",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "log in using code from the text message (SMS) for MFA.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to the Service NSW app.",
+      "link": "tel:137788"
+    },
+    {
+      "n": 5,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select 'Australian mobile number'.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select 'Delete' next to 'Current mobile number'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Select 'Yes, delete' when asked 'Are you sure you want to delete your current mobile number?'",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "We recommend that you set up and use the Service NSW app or an authenticator app for MFA. This will keep your account secure.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "n": 11,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 12,
+      "text": "Go to 'Manage account'.",
+      "link": null
+    },
+    {
+      "n": 13,
+      "text": "Go to 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 14,
+      "text": "Select 'Update' next to 'Australian mobile number'.",
+      "link": null
+    },
+    {
+      "n": 15,
+      "text": "Enter a code sent via text message (SMS) to your old mobile number. Then select ‘Continue’.",
+      "link": null
+    },
+    {
+      "n": 16,
+      "text": "Select 'Delete' next to 'Current mobile number'.",
+      "link": null
+    },
+    {
+      "n": 17,
+      "text": "Select 'Yes, delete' when asked 'Are you sure you want to delete your current mobile number?'",
+      "link": null
+    },
+    {
+      "n": 18,
+      "text": "We recommend that you set up and use the Service NSW app or an authenticator app for MFA. This will keep your account secure.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help or have questions, call us on 13 77 88 or go to a service centre.\n\nIf you're overseas, call +61 2 8894 1555.",
+  "more_info": [
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "MFA",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Driver Licence and Vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw"
+    },
+    {
+      "text": "change your mobile number for the other services separately",
+      "url": "https://www.service.nsw.gov.au/guide/change-nsw-details"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is updated when I change my mobile number?",
+      "a": "The change affects your MyServiceNSW Account, when the number is used for Multi-Factor Authentication (MFA), and on your Driver Licence and Vehicle registration.",
+      "link": null
+    },
+    {
+      "q": "When can I change my mobile number myself online?",
+      "a": "You can change it yourself online if you can access your old mobile number and log in using a text message (SMS) code for MFA, or if you can log in using the Service NSW app or an authenticator app for MFA.",
+      "link": null
+    },
+    {
+      "q": "When do I need to call or visit a service centre?",
+      "a": "You should call or visit a service centre if your mobile phone or device is lost or stolen, or if you cannot access the Australian mobile number on your MyServiceNSW Account and cannot log in using another method of MFA (such as the Service NSW app or an authenticator app).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:56Z",
+    "last_modified": "24 October 2025",
+    "html_sha1": "78b51c8d78704b2875fe135c1ceb8a3f1b3edc42",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

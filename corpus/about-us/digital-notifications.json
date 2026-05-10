@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "digital-notifications",
+  "title": "Digital Notifications: customer communications",
+  "summary": "This page provides information about how Service NSW uses digital notifications to communicate with customers.",
+  "topics": [
+    "digital-notifications",
+    "customer-communications",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "how we improved push notifications with A/B testing",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/a-b-testing-push-notifications"
+    },
+    {
+      "text": "Authenticate",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate"
+    },
+    {
+      "text": "Grants",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants"
+    },
+    {
+      "text": "Identity Assurance",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance"
+    },
+    {
+      "text": "Rebates",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/rebates"
+    },
+    {
+      "text": "Service Booker",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/service-booker"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-vouchers"
+    },
+    {
+      "text": "Learn more about Service NSW digital capabilities",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does Service NSW use digital notifications?",
+      "a": "Service NSW uses digital notifications to communicate with customers about various services and updates.",
+      "link": null
+    },
+    {
+      "q": "What types of digital notifications are available?",
+      "a": "The page discusses the use of digital notifications, including push notifications, to keep customers informed.",
+      "link": null
+    },
+    {
+      "q": "Where can I learn more about Service NSW's digital capabilities?",
+      "a": "You can learn more about Service NSW's digital capabilities via the general digital capabilities page.",
+      "link": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:14Z",
+    "last_modified": "14 November 2025",
+    "html_sha1": "561355e02e95d153ab4f107c5c0a484718c1ff37",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

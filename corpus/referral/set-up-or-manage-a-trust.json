@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/set-up-or-manage-a-trust",
+  "source_url": "https://www.service.nsw.gov.au/referral/set-up-or-manage-a-trust",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "set-up-or-manage-a-trust",
+  "title": "Set up or manage a trust",
+  "summary": "Learn about why and how to set up or manage a trust for estate planning purposes.",
+  "topics": [
+    "estate-planning",
+    "trust",
+    "will",
+    "beneficiary",
+    "charity"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Trustee and Guardian",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/contact-us"
+    },
+    {
+      "text": "Set up a trust – NSW Trustee and Guardian",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life/learn-about-wills#toc-what-to-include-in-a-will"
+    },
+    {
+      "text": "Trust fees – NSW Trustee & Guardian",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/trustee-guardian/about-us/our-fees#toc-trust-fees"
+    },
+    {
+      "text": "Planning for end of life – NSW Government",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get started making a Power of Attorney",
+      "url": "https://www.service.nsw.gov.au/transaction/get-started-making-a-power-of-attorney"
+    },
+    {
+      "text": "Manage a deceased estate",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:27Z",
+    "last_modified": "26 September 2025",
+    "html_sha1": "164c36cb9c3c8aad53195da74e4562e3db9a695d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

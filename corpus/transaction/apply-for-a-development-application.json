@@ -1,0 +1,146 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-development-application",
+  "title": "Apply for a development application",
+  "summary": "Learn how to apply for a development application (DA) for a proposed development by applying online.",
+  "topics": [
+    "development-application",
+    "da",
+    "planning",
+    "service-nsw"
+  ],
+  "intro": "When you need a development application (DA) for a proposed development you must apply online.\n\nBefore you start your application discuss the local planning and development requirements with your local council.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account or NSW Planning Portal login details",
+    "Copies of documents for uploading, such as payment for NSW Planning Portal service fees"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the NSW Planning Portal and development applications, contact the Department of Planning, Housing and Infrastructure.",
+  "more_info": [
+    {
+      "text": "help and resources",
+      "link": "https://www.planningportal.nsw.gov.au/support/how-guides"
+    },
+    {
+      "text": "information about local development.",
+      "link": "https://www.planningportal.nsw.gov.au/onlineDA"
+    },
+    {
+      "text": "your guide to the DA process",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/your-guide-to-the-da-process"
+    },
+    {
+      "text": "lodging your development application",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/your-guide-to-the-da-process/stage-2-lodging-your-development-application"
+    },
+    {
+      "text": "complying development",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/complying-development"
+    },
+    {
+      "text": "exempt development.",
+      "link": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/exempt-development"
+    },
+    {
+      "text": "You can monitor the status of your application by logging in to the NSW Planning Portal where you will also find:",
+      "link": null
+    },
+    {
+      "text": "Visit the Department of Planning, Housing and Infrastructure website for:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "NSW Planning Portal service fees",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "Submit a Development Application Guide – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Documents/Applicant+-+How+to+submit+a+Development+Application+(DA).pdf"
+    },
+    {
+      "text": "NSW Planning Portal",
+      "url": "https://www.planningportal.nsw.gov.au/"
+    },
+    {
+      "text": "help and resources",
+      "url": "https://www.planningportal.nsw.gov.au/support/how-guides"
+    },
+    {
+      "text": "information about local development",
+      "url": "https://www.planningportal.nsw.gov.au/onlineDA"
+    },
+    {
+      "text": "your guide to the DA process",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/your-guide-to-the-da-process"
+    },
+    {
+      "text": "lodging your development application",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/your-guide-to-the-da-process/stage-2-lodging-your-development-application"
+    },
+    {
+      "text": "complying development",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/complying-development"
+    },
+    {
+      "text": "exempt development",
+      "url": "https://www.planning.nsw.gov.au/assess-and-regulate/development-assessment/planning-approval-pathways/exempt-development"
+    },
+    {
+      "text": "Department of Planning, Housing and Infrastructure",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find local planning and development requirements?",
+      "a": "Before starting your application, discuss local planning and development requirements with your local council.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "q": "How do I apply for a development application online?",
+      "a": "Select the 'Apply online' button, log in with a Service NSW account or NSW Planning Portal details, and follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "q": "Who can I contact for more information about development applications?",
+      "a": "For more information about the NSW Planning Portal and development applications, contact the Department of Planning, Housing and Infrastructure.",
+      "link": "https://www.planningportal.nsw.gov.au/help-and-resources/submit-enquiry"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:25Z",
+    "last_modified": "21 May 2025",
+    "html_sha1": "4bdea03c4d31cc1bf22663fe7df142d2cc550012",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

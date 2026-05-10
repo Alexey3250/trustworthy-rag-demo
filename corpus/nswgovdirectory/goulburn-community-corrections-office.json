@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/goulburn-community-corrections-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/goulburn-community-corrections-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "goulburn-community-corrections-office",
+  "title": "Goulburn Community Corrections Office",
+  "summary": "This page provides information about the Goulburn Community Corrections Office.",
+  "topics": [
+    "community-corrections",
+    "goulburn",
+    "probation",
+    "parole"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/community-corrections.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/community-corrections.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Community Corrections Offices (Probation and Parole)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/community-corrections-offices-probation-and-parole"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:33Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "337d4bb1adf82bc7922dbdf7b675476686537265",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

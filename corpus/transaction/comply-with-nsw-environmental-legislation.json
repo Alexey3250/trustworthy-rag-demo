@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/comply-with-nsw-environmental-legislation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/comply-with-nsw-environmental-legislation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "comply-with-nsw-environmental-legislation",
+  "title": "Comply with NSW environmental legislation",
+  "summary": "This page advises businesses on their responsibility to comply with all environmental laws, including those covering water, land, air, noise, and waste.",
+  "topics": [
+    "environmental-legislation",
+    "nsw-compliance",
+    "business-responsibility",
+    "poeo-act"
+  ],
+  "intro": "It's important to make sure you comply with all environmental laws covering water, land, air, noise pollution and waste management, as outlined in the Protection of the Environment Operations Act 1997 (POEO Act). There are serious penalties if you break any of the laws, and lack of knowledge cannot be used as a defence. Even accidents can result in prosecution.\n\nEveryone involved in your business including owners, managers, supervisors, operators, contractors and subcontractors, needs to understand and comply with the environmental legislation.\n\nIt's your responsibility to ensure you've developed an environmental management plan, including training for you and your staff, and completing self-assessment or independent audits of your plan and operations.\n\nFor more information about the POEO Act 1997, please visit the NSW Environment Protection Authority",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Develop an environmental management plan.",
+    "Provide training on environmental legislation for all staff, including owners, managers, supervisors, operators, contractors, and subcontractors.",
+    "Complete self-assessment or independent audits of your plan and operations."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Environment Protection Authority",
+      "url": "https://www.epa.nsw.gov.au/licensing-and-regulation/legislation-and-compliance/about-the-poeo-act"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:21Z",
+    "last_modified": "17 March 2025",
+    "html_sha1": "8af54883dbc6884d04de0b492f2b4ba4d6cf00c1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

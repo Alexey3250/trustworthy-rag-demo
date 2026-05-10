@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/manage-a-residential-home-building-contract",
+  "source_url": "https://www.service.nsw.gov.au/referral/manage-a-residential-home-building-contract",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "manage-a-residential-home-building-contract",
+  "title": "Manage a residential home building contract",
+  "summary": "This page provides information regarding the requirements for managing a residential home building contract.",
+  "topics": [
+    "building-contract",
+    "residential-construction",
+    "nsw-building-rules",
+    "contract-requirements"
+  ],
+  "intro": "All residential building work over $5,000 requires a written contract.\n\nIf you want to use your own contract or one purchased from an industry association, you can, as long as:\n\nIf the work is over $250,000, a work health and safety management plan must be prepared by a principal contractor, before work begins.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "written contract",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/contracts/download"
+    },
+    {
+      "text": "NSW Fair Trading website",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing"
+    },
+    {
+      "text": "required items",
+      "url": "https://www.nsw.gov.au/housing-and-construction/buying-and-selling-property/buying-property-nsw/buying-property-off-plan"
+    },
+    {
+      "text": "Consumer Building Guide – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/your-obligations-to-your-customers/how-to-use-consumer-building-guide"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:53Z",
+    "last_modified": "24 April 2025",
+    "html_sha1": "e571d2019b6caee5408fdb5203f882756203ccb7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

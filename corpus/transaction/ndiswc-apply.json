@@ -1,0 +1,186 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply",
+  "source_url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "ndiswc-apply",
+  "title": "Apply for an NDIS Worker Check",
+  "summary": "This page provides information and steps on how to apply for an NDIS Worker Check.",
+  "topics": [
+    "ndis-worker-check",
+    "apply-for-check",
+    "ndis-provider",
+    "worker-screening"
+  ],
+  "intro": "An NDIS Worker Check is valid for 5 years and can be used across Australia with any NDIS employer and in any NDIS role.\n\nIf you move interstate or change employers or roles while your NDIS Worker Check is current you do not have to reapply. Duplicate applications will be cancelled.\n\nIn NSW there are 3 steps involved in an NDIS Worker Check application.",
+  "who_can_apply": [
+    "You are likely to require 'more than incidental contact' with NDIS participants.",
+    "You are involved in the delivery of 'specified supports and services'.",
+    "You are classified as 'key personnel'.",
+    "You are not yet employed or not about to be employed by an NDIS provider.",
+    "Your employer will tell you if you need an NDIS Worker Check as part of your work."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Three original identity documents (e.g., driver licence, Medicare, Centrelink cards).",
+    "Your current name, address, and contact details.",
+    "Your employer's NDIS Quality and Safeguards Commission registration number or name (if applicable).",
+    "Consent to your application from your parent/legal guardian (if you are under 18).",
+    "The application fee ($107, or free for volunteers)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to NDIS Worker Check' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete the online part of your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "A confirmation email will be sent to you with an application number.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "For help with your account go to MyServiceNSW Account help topics.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "n": 6,
+      "text": "For full details of the document requirements read the NDIS Worker Check application guide.",
+      "link": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "n": 7,
+      "text": "To track the progress of your application you can Check the status of your NDIS Worker Check.",
+      "link": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    },
+    {
+      "n": 8,
+      "text": "your application number",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "your original identity documents (not photocopies, photos or scans)Note: if your documents are under different names you must bring any change of name documents such as your marriage certificate",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "the application fee ($107, or free for volunteers).Note: the application fee is non-refundable.",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "it is uploaded to the NDIS Worker Screening Database and",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "your employer will be contacted and has 30 days to verify your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NDIS Worker Check application guide",
+      "link": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "NDIS Worker Check – Office of the Children's Guardian",
+      "link": "https://ocg.nsw.gov.au/ndiswc"
+    },
+    {
+      "text": "NDIS Worker Check: Privacy – Office of the Children's Guardian",
+      "link": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-help-feedback-privacy/feedback-and-privacy"
+    },
+    {
+      "text": "Worker screening – NDIS Quality and Safeguards Commission",
+      "link": "https://www.ndiscommission.gov.au/workforce/worker-screening"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "assessment process",
+      "url": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-application-assessment"
+    },
+    {
+      "text": "NDIS Worker Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/ndiswc"
+    },
+    {
+      "text": "NDIS Worker Check: Privacy – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/ndis-worker-check-ndiswc/ndiswc-help-feedback-privacy/feedback-and-privacy"
+    },
+    {
+      "text": "Worker screening – NDIS Quality and Safeguards Commission",
+      "url": "https://www.ndiscommission.gov.au/workforce/worker-screening"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NDIS Worker Check application guide",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    },
+    {
+      "text": "special provisions",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check#special-identity-provisions"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Check the status of your NDIS Worker Check",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-check-status"
+    },
+    {
+      "text": "photo guidelines",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/service-centre-photos"
+    },
+    {
+      "text": "locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#in-person"
+    },
+    {
+      "text": "updating your details",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-update-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is an NDIS Worker Check valid for?",
+      "a": "An NDIS Worker Check is valid for 5 years and can be used across Australia with any NDIS employer and in any NDIS role.",
+      "link": null
+    },
+    {
+      "q": "Do I need to reapply if I move interstate or change jobs?",
+      "a": "If you move interstate or change employers or roles while your NDIS Worker Check is current, you do not have to reapply. Duplicate applications will be cancelled.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for the NDIS Worker Check?",
+      "a": "You need a MyServiceNSW Account, three original identity documents, and the application fee ($107, or free for volunteers).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:16Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "5c11fb7331d5fa023fb88fd01f8e7a315297460e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

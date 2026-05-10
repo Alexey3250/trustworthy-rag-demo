@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-election-dates-and-results",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-election-dates-and-results",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-election-dates-and-results",
+  "title": "Find election dates and results",
+  "summary": "This page provides information on where to find election dates and results for local, state, and national levels in Australia.",
+  "topics": [
+    "elections",
+    "nsw",
+    "state-government",
+    "local-government",
+    "federal-government"
+  ],
+  "intro": "In Australia, elections are held at local, state and national levels.\n\nGeneral elections and by-elections for the Parliament of New South Wales are managed by the NSW Electoral Commission (NSWEC). It also provides electoral services for a range of government, public and commercial organisations, including NSW local councils.\n\nYou can find state and local government election dates and past election results for NSW on the NSWEC website:\n\nFederal government elections are managed by the Australian Electoral Commission (AEC).\n\nYou can find information about upcoming federal election dates and past election results on the AEC website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Parliament of New South Wales",
+      "url": "https://www.parliament.nsw.gov.au/Pages/home.aspx"
+    },
+    {
+      "text": "NSW local councils",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Upcoming state and local government elections",
+      "url": "https://elections.nsw.gov.au/elections"
+    },
+    {
+      "text": "Past election results",
+      "url": "https://elections.nsw.gov.au/elections/past-results"
+    },
+    {
+      "text": "AEC website",
+      "url": "https://www.aec.gov.au/"
+    },
+    {
+      "text": "Voting in NSW – NSWEC",
+      "url": "https://elections.nsw.gov.au/elections/how-voting-works/voting-in-new-south-wales"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who manages elections for the Parliament of New South Wales?",
+      "a": "The NSW Electoral Commission (NSWEC) manages general elections and by-elections for the Parliament of New South Wales.",
+      "link": null
+    },
+    {
+      "q": "Where can I find state and local government election dates and results for NSW?",
+      "a": "You can find state and local government election dates and past election results for NSW on the NSWEC website.",
+      "link": "https://elections.nsw.gov.au/elections"
+    },
+    {
+      "q": "Which body manages federal government elections?",
+      "a": "The Australian Electoral Commission (AEC) manages federal government elections.",
+      "link": "https://www.aec.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:18Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "4a0058ab0f8dabfaf5e2ed63db10f32d54b0a13e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-firearms-licence-business-club-or-agency",
+  "title": "Renew a firearms licence (business, club or government agency)",
+  "summary": "This page provides information on how to renew a firearms licence for a business, club, or government agency online.",
+  "topics": [
+    "firearms-licence",
+    "renewal",
+    "business",
+    "club",
+    "agency"
+  ],
+  "intro": "Online renewal applications must be lodged before the licence expiry date. This is necessary so that the authority to possess or use firearms under the current licence will continue, while the renewal is being processed.\n\nThe Firearms Registry will email you a renewal notice if you have a Gun Safe account, or send a letter by mail when the licence is within 90 days of expiring. If you have not renewed it within 7 days of its expiry date, they will send you an SMS reminder or contact you by phone.\n\nYou can select to add or delete a genuine reason or category when renewing the current licence through the online renewal process only.",
+  "who_can_apply": [
+    "Hold a current NSW individual firearms licence that is within 90 days of expiring.",
+    "Have received a notification from the Firearms Registry advising that the licence renewal must be lodged online.",
+    "The nominated licence holder or person must be a resident of NSW."
+  ],
+  "what_you_need": [
+    "Proof of identity documents, such as a driver licence and Medicare card.",
+    "A MyServiceNSW Account.",
+    "The current firearms licence number.",
+    "Details of the address(es) where the firearms will be safely stored (if applicable).",
+    "Electronic documentation to support the genuine reason/category (if applicable).",
+    "A current credit card (Visa or Mastercard) for payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You will be taken to the NSW Police Force Community Self Service Portal.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check that you have all the documentation required.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Log in with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete the renewal application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562 between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "safely store the firearms",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    },
+    {
+      "text": "Firearm licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/854721/NSWPF_Firearms_Registry_Privacy_Collection_Notice.pdf"
+    },
+    {
+      "text": "Legislative Requirements Firearms Licence Holder – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/184947/Legislative_Requirements_Licence_Holder.pdf"
+    },
+    {
+      "text": "Firearms Registry Schedule of Fees – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/133188/Fee_Schedule.pdf"
+    },
+    {
+      "text": "Licence Categories & Genuine Reason Table – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0015/133134/GR_TABLE.pdf"
+    },
+    {
+      "text": "Licence Categories and Firearm Types – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0007/133198/Licence_Categories_and_Firearm_Types_FACT_Sheet.pdf"
+    },
+    {
+      "text": "Firearms Licences: Genuine reasons – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/licences#GR"
+    },
+    {
+      "text": "Firearms Data – NSW Police",
+      "url": "https://www.police.nsw.gov.au/about_us/information_of_interest_to_the_community/firearms_data"
+    },
+    {
+      "text": "Firearms Register of Licences and Permits to Acquire – NSW Police",
+      "url": "https://apps.police.nsw.gov.au/FPR/licenceCheck/search.jsp"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update details on a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Renew a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a permit to acquire a firearm (PTA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When must I renew my firearms licence?",
+      "a": "Online renewal applications must be lodged before the licence expiry date to ensure the authority to possess or use firearms continues while the renewal is processed.",
+      "link": null
+    },
+    {
+      "q": "How will I be notified about my licence renewal?",
+      "a": "The Firearms Registry will email a renewal notice if you have a Gun Safe account, or send a letter by mail when the licence is within 90 days of expiring. If not renewed within 7 days of expiry, you may receive an SMS reminder or a phone call.",
+      "link": null
+    },
+    {
+      "q": "What can I change when I renew my licence online?",
+      "a": "You can select to add or delete a genuine reason or category when renewing the current licence through the online renewal process only.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:56Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "ab1a236b27ff81161a5c457be6a66bad6fe6183e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-surveyors-assistant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-surveyors-assistant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-be-a-surveyors-assistant",
+  "title": "Apply to be a surveyor's assistant",
+  "summary": "Find out how to apply to become a surveyor's assistant by applying to the Board of Surveying and Spatial Information (BOSSI).",
+  "topics": [
+    "surveyors-assistant",
+    "apply-for-surveying-job",
+    "bosssi"
+  ],
+  "intro": "A surveyor’s assistant carries out survey work under the supervision of a registered surveyor. The registered surveyor takes responsibility for their assistant's work.\n\nTo become a surveyor’s assistant, you'll need to apply to the Board of Surveying and Spatial Information (BOSSI).\n\nBefore you apply, check BOSSI’s requirements for becoming a surveyor’s assistant.\n\nYou must pay an annual fee to maintain your status as a surveyor’s assistant.",
+  "who_can_apply": [
+    "Hold a recognised qualification.",
+    "Hold a technical qualification in surveying and have 3 years of practical experience.",
+    "Have at least 10 years of practical experience in surveying acceptable to BOSSI.",
+    "One of the listed criteria must apply to you."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or your OneGov account.",
+    "Your supervisor’s full name, contact details, and registration number.",
+    "Copies of the following documents (must be certified, in English, and in PDF format, maximum file size 4MB):",
+    "A passport quality photo in JPG format.",
+    "A credit or debit card for the enrolment fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Start' on the application screen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account, or log in using your OneGov credentials.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to apply to be a surveyor's assistant.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "check BOSSI’s requirements",
+      "url": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    },
+    {
+      "text": "enrolment fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be a candidate land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor"
+    },
+    {
+      "text": "Apply to be a registered land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor"
+    },
+    {
+      "text": "Update your registered surveyor contact details",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-registered-surveyor-contact-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is a surveyor's assistant?",
+      "a": "A surveyor’s assistant carries out survey work under the supervision of a registered surveyor, who takes responsibility for their work.",
+      "link": null
+    },
+    {
+      "q": "What is required to become a surveyor's assistant?",
+      "a": "You must apply to the Board of Surveying and Spatial Information (BOSSI) and pay an annual fee to maintain your status.",
+      "link": null
+    },
+    {
+      "q": "Where can I check the requirements for becoming a surveyor's assistant?",
+      "a": "You should check BOSSI’s requirements for becoming a surveyor’s assistant.",
+      "link": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:28Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "adbda8f44334ddc171f78328562a4edbcff8b018",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

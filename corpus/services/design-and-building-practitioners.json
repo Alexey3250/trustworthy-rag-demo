@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners",
+  "source_url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "design-and-building-practitioners",
+  "title": "Professional engineers, design practitioners and building practitioners",
+  "summary": "Find information and apply for registration as a professional engineer, design practitioner, or building practitioner in NSW.",
+  "topics": [
+    "engineering",
+    "building-construction",
+    "design-practitioner",
+    "building-practitioner",
+    "registration"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply for professional engineer registration through mutual recognition",
+      "url": "https://mybusiness.service.nsw.gov.au/dbp/mutual-recognition-new/ready-to-start"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for design practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-design-practitioner-registration"
+    },
+    {
+      "text": "Apply for building practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-building-practitioner-registration"
+    },
+    {
+      "text": "Apply for design or building practitioner registration for a body corporate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-design-or-building-practitioner-registration-for-a-body-corporate"
+    },
+    {
+      "text": "Apply for professional engineer registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-professional-engineer-registration"
+    },
+    {
+      "text": "Apply for registration to work on Sydney Metro projects",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-to-work-on-sydney-metro-projects"
+    },
+    {
+      "text": "Renew a design practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-design-practitioner-registration"
+    },
+    {
+      "text": "Renew a building practitioner registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-building-practitioner-registration"
+    },
+    {
+      "text": "Renew a design or building practitioner registration for a body corporate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-design-or-building-practitioner-registration-for-a-body-corporate"
+    },
+    {
+      "text": "Renew a professional engineer registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-professional-engineer-registration"
+    },
+    {
+      "text": "Check the registration of a professional engineer, design practitioner or building practitioner",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for design or building practitioner registration?",
+      "a": "You can apply for design practitioner registration, building practitioner registration, or for a body corporate through specific application links.",
+      "link": null
+    },
+    {
+      "q": "What if I am a professional engineer?",
+      "a": "You can apply for professional engineer registration or use the mutual recognition process.",
+      "link": null
+    },
+    {
+      "q": "How can I check someone's registration status?",
+      "a": "You can check the registration of a professional engineer, design practitioner, or building practitioner using the dedicated check link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner"
+    },
+    {
+      "q": "Do I need to renew my registration?",
+      "a": "Yes, you can renew your design practitioner, building practitioner, or professional engineer registration online.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:07Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "15ee6b01fa83b81d4d69f2ffd3e7bf9e09448a0a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

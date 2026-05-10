@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-combatant-medical-documents",
+  "title": "Update medical documents for a combatant registration",
+  "summary": "Registered combatants must update their medical documents through the Service NSW website to continue competing in combat sports in NSW.",
+  "topics": [
+    "combat-sports",
+    "medical-documents",
+    "combatant-registration",
+    "nsw-service"
+  ],
+  "intro": "As a registered combatant, you must provide the Combat Sports Authority with updated medical documents to compete in combat sports contests in NSW. As a registered combatant, you must:",
+  "who_can_apply": [
+    "You must be a registered combatant."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your combatant registration number (Note: Check details at Verify NSW)",
+    "Your MDU (Medical Document Update) number",
+    "A signed Parent/Legal Guardian Consent form (required for applicants under 18 years of age)",
+    "The required PDF forms"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Update online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter your registration and MDU numbers, these can be found on your MDU notice.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to provide updated medical documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must take your medical record book with you to the medical practitioner when obtaining updated medical documents. The medical practitioner is required to complete the approved Certificate of Fitness and/or the Serological Clearance Certificate forms as well as the Certificate of Fitness and Serological Clearance Certificate history pages contained within your medical record book.",
+      "link": null
+    },
+    {
+      "text": "You must take your medical record book to all contests you compete in and show it to the attending medical practitioner.",
+      "link": null
+    },
+    {
+      "text": "If you need to update your details, go to Change name or contact details on a combatant registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/OOS"
+    },
+    {
+      "text": "Certificate of Fitness",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_certificate_of_fitness_for_combat_sports.pdf"
+    },
+    {
+      "text": "Serological Clearance Certificate",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_serology_clearance_certificate_s7_oct_2014.pdf"
+    },
+    {
+      "text": "Parent/Legal Guardian Consent form",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2023-05/Parent-Legal-Guardian-Consent-Form.pdf"
+    },
+    {
+      "text": "Change of name form",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/combatant-registration"
+    },
+    {
+      "text": "Combat Sports Privacy Collection Notice",
+      "url": "https://www.sport.nsw.gov.au/combatsports/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "registered combatant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Change name or contact details on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "Renew a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Replace a medical record book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-medical-record-book"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to update their medical documents?",
+      "a": "You must be a registered combatant.",
+      "link": null
+    },
+    {
+      "q": "Where can I check my combatant registration number?",
+      "a": "You can check your combatant registration number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/OOS"
+    },
+    {
+      "q": "What documents do I need to update my medical records?",
+      "a": "You need a MyServiceNSW Account, your combatant registration number, your MDU number, and the required PDF forms.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:54Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "b88267e6424473e778b8f9c4463a9633d6a056ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

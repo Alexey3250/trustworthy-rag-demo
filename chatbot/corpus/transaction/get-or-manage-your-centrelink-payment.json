@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-or-manage-your-centrelink-payment",
+  "title": "Get or manage your Centrelink payment",
+  "summary": "This page provides information on how to get or manage your Centrelink payment details.",
+  "topics": [
+    "centrelink",
+    "payments",
+    "managing-payments",
+    "customer-reference-number"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Customer Reference Number (CRN)",
+    "MyGov account"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Centrelink",
+      "url": "https://www.servicesaustralia.gov.au/centrelink?context=1"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/"
+    },
+    {
+      "text": "information about CRNs",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-customer-reference-number-crn?context=64107"
+    },
+    {
+      "text": "Guide to Australian Government payments",
+      "url": "https://www.servicesaustralia.gov.au/guide-to-australian-government-payments?context=1"
+    },
+    {
+      "text": "Fake information about bonus Centrelink payments",
+      "url": "https://www.servicesaustralia.gov.au/fake-information-about-bonus-centrelink-payments?context=60271"
+    },
+    {
+      "text": "Centrepay",
+      "url": "https://www.servicesaustralia.gov.au/what-centrepay?context=22366"
+    },
+    {
+      "text": "reform of the Centrepay service",
+      "url": "https://www.servicesaustralia.gov.au/centrepay-reform?context=23256"
+    },
+    {
+      "text": "How to use Centrepay",
+      "url": "https://www.servicesaustralia.gov.au/how-to-use-centrepay?context=22366"
+    },
+    {
+      "text": "Public holiday reporting and payment dates",
+      "url": "https://www.servicesaustralia.gov.au/public-holiday-reporting-and-payment-dates?context=64107"
+    },
+    {
+      "text": "Debt repayment has been paused",
+      "url": "https://www.servicesaustralia.gov.au/information-about-income-apportionment?context=60271#a3"
+    },
+    {
+      "text": "income apportionment",
+      "url": "https://www.servicesaustralia.gov.au/information-about-income-apportionment?context=60271"
+    },
+    {
+      "text": "Express Plus Centrelink mobile app",
+      "url": "https://www.servicesaustralia.gov.au/express-plus-centrelink-mobile-app"
+    },
+    {
+      "text": "Centrelink phone service",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-phone-self-service"
+    },
+    {
+      "text": "update parental income details",
+      "url": "https://www.servicesaustralia.gov.au/updating-parental-income-details"
+    },
+    {
+      "text": "confirm your relationship status",
+      "url": "https://www.servicesaustralia.gov.au/relationship-changes"
+    },
+    {
+      "text": "View a list of Centrelink forms for individuals",
+      "url": "https://www.servicesaustralia.gov.au/centrelink-forms-for-individuals?context=64107"
+    },
+    {
+      "text": "MyGov account",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "All about the Pension Supplement",
+      "url": "https://www.servicesaustralia.gov.au/pension-supplement"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find my Customer Reference Number (CRN)?",
+      "a": "You can find your CRN on letters sent to you by Centrelink or on your concession card, if you have one.",
+      "link": "https://www.servicesaustralia.gov.au/centrelink-customer-reference-number-crn?context=64107"
+    },
+    {
+      "q": "How can I manage my Centrelink payments?",
+      "a": "You can manage your payments using the Express Plus Centrelink mobile app, the Centrelink phone service, or by updating your MyGov account.",
+      "link": null
+    },
+    {
+      "q": "What is Centrepay?",
+      "a": "Centrepay is a system that manages payments, and there is information available on how to use it and details about its reform.",
+      "link": "https://www.servicesaustralia.gov.au/what-centrepay?context=22366"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:29Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "2ef40133e44caf1cf180df0776032bc6b185bf26",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

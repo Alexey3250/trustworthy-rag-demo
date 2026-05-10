@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-illawarra-shoalhaven-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-illawarra-shoalhaven-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-illawarra-shoalhaven-district",
+  "title": "DCJ Illawarra Shoalhaven District",
+  "summary": "This page provides contact and location information for the Department of Communities and Justice (DCJ) Illawarra Shoalhaven District.",
+  "topics": [
+    "department-of-communities-and-justice",
+    "illawarra-shoalhaven",
+    "contact-information",
+    "community-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Nowra Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nowra-community-services-centre"
+    },
+    {
+      "text": "Shellharbour Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/shellharbour-community-services-centre"
+    },
+    {
+      "text": "Ulladulla Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/ulladulla-community-services-centre"
+    },
+    {
+      "text": "Wollongong Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/wollongong-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "554115ff4419a8ed5e61002ae4fd7b9bb4b9be84",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

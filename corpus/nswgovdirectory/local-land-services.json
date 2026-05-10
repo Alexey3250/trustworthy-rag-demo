@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/local-land-services",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/local-land-services",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "local-land-services",
+  "title": "Local Land Services",
+  "summary": "This page provides information about Local Land Services, which supports primary industries and regional development across NSW.",
+  "topics": [
+    "local-land-services",
+    "primary-industries",
+    "regional-development",
+    "nsw-agriculture"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/local-land-services",
+      "url": "https://www.nsw.gov.au/local-land-services"
+    },
+    {
+      "text": "Contact us – Local Land Services",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/local-land-services/contact-us/customer-enquiry-form"
+    },
+    {
+      "text": "NSW Landcare Enabling Program 2023-2027: Local and Regional Coordinators",
+      "url": "https://www.nsw.gov.au/grants-and-funding/nsw-landcare-enabling-program-2023-2027-local-and-regional-coordinators"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:47Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "efe37468f1efdf19f45993d69d0a2cfdc1dc29ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

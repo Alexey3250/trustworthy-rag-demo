@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-assistance-authority-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-assistance-authority-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "rural-assistance-authority-nsw",
+  "title": "Rural Assistance Authority, NSW",
+  "summary": "This page provides information about the Rural Assistance Authority (RAA), which offers support for rural communities in NSW.",
+  "topics": [
+    "rural-assistance",
+    "nsw-support",
+    "agriculture",
+    "disaster-relief"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.raa.nsw.gov.au",
+      "url": "https://www.raa.nsw.gov.au"
+    },
+    {
+      "text": "Disaster assistance",
+      "url": "https://www.raa.nsw.gov.au/disaster-assistance"
+    },
+    {
+      "text": "Farm Debt Mediation",
+      "url": "https://www.raa.nsw.gov.au/farm-debt-mediation"
+    },
+    {
+      "text": "Rural financial counsellors",
+      "url": "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/drought/rural-financial-counselling-service"
+    },
+    {
+      "text": "Rural Financial Counselling Service NSW Northern Region",
+      "url": "https://rfcsnr.org.au/"
+    },
+    {
+      "text": "Rural Financial Counselling Service",
+      "url": "https://www.rfcsnsw.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Emergencies and natural disasters",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Rural Assistance Authority (RAA)?",
+      "a": "The Rural Assistance Authority (RAA) provides support and resources for rural communities in NSW.",
+      "link": null
+    },
+    {
+      "q": "What kind of assistance does the RAA provide?",
+      "a": "The RAA offers assistance in areas such as disaster recovery, farm debt mediation, and general rural support.",
+      "link": null
+    },
+    {
+      "q": "Where can I find help with farm debt mediation?",
+      "a": "You can find information on farm debt mediation through the RAA.",
+      "link": "https://www.raa.nsw.gov.au/farm-debt-mediation"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:18Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "806c3ba8156924f81afecb40cc3fef34097b2a21",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

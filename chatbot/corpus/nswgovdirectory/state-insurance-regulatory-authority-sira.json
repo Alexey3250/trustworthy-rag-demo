@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-insurance-regulatory-authority-sira",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/state-insurance-regulatory-authority-sira",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "state-insurance-regulatory-authority-sira",
+  "title": "State Insurance Regulatory Authority (SIRA)",
+  "summary": "This page provides information about the State Insurance Regulatory Authority (SIRA), which regulates insurance in NSW.",
+  "topics": [
+    "insurance",
+    "nsw",
+    "claims",
+    "compensation",
+    "sira"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sira.nsw.gov.au",
+      "url": "https://www.sira.nsw.gov.au"
+    },
+    {
+      "text": "Motor accident injury claims – SIRA",
+      "url": "https://www.sira.nsw.gov.au/claiming-compensation/motor-accidents-injury-claims"
+    },
+    {
+      "text": "List of CTP (Green Slip) Insurers – SIRA",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips/how-to-buy-a-green-slip/list-of-ctp-insurers"
+    },
+    {
+      "text": "Green Slip Price Check – SIRA",
+      "url": "https://www.greenslips.nsw.gov.au/"
+    },
+    {
+      "text": "Make a home building compensation claim – SIRA",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation/make-a-home-building-compensation-claim"
+    },
+    {
+      "text": "Workers compensation claims – SIRA",
+      "url": "https://www.sira.nsw.gov.au/claiming-compensation/workers-compensation-claims"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Independent Review Office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-review-office"
+    },
+    {
+      "text": "Home Building Compensation Fund (HBCF)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/home-building-compensation-fund-hbcf"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/safework-nsw"
+    },
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Personal Injury Commission",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/personal-injury-commission"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the State Insurance Regulatory Authority (SIRA)?",
+      "a": "SIRA is the body that regulates insurance in NSW.",
+      "link": null
+    },
+    {
+      "q": "What types of claims does SIRA handle?",
+      "a": "SIRA handles claims related to motor accidents and workers' compensation.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about compulsory third-party motor vehicle insurance (Green Slips)?",
+      "a": "You can find information about Green Slips, including a list of insurers and a price check, on the SIRA website.",
+      "link": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips/how-to-buy-a-green-slip/list-of-ctp-insurers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5c8fbda3b6a1602358913a149322695683c49f7c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

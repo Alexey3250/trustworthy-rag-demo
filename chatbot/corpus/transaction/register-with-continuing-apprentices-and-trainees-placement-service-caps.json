@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-with-continuing-apprentices-and-trainees-placement-service-caps",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-with-continuing-apprentices-and-trainees-placement-service-caps",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-with-continuing-apprentices-and-trainees-placement-service-caps",
+  "title": "Register with Continuing Apprentices and Trainees Placement Service (CAPS)",
+  "summary": "This page provides information on how to register with the Continuing Apprentices and Trainees Placement Service (CAPS).",
+  "topics": [
+    "apprenticeship",
+    "traineeship",
+    "caps",
+    "job-placement",
+    "training-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your Training Contract ID",
+    "The name of the apprenticeship or traineeship"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register with CAPS' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the details and submit the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "What to do when there are problems",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/what-to-do-when-there-are-problems"
+    },
+    {
+      "text": "Self-help and frequently asked questions (FAQs)",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/self-help-section"
+    },
+    {
+      "text": "Financial support for apprentices",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices"
+    },
+    {
+      "text": "For apprentices in priority occupations",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices-priority-occupations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for CAPS relocation and rental assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-caps-relocation-and-rental-assistance"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:26Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "cca9258096af2f610d61456acefdc342f8167c76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

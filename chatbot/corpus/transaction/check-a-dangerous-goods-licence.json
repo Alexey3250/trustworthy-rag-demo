@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-dangerous-goods-licence",
+  "title": "Check a dangerous goods licence",
+  "summary": "Check the dangerous goods licence status of a driver or vehicle online using the NSW Environment Protection Authority's public register.",
+  "topics": [
+    "dangerous-goods",
+    "licence-check",
+    "epa-nsw",
+    "driver-licence"
+  ],
+  "intro": "By law, the NSW Environment Protection Authority (EPA) maintains several public registers, including a Dangerous Goods public register.\n\nIf you want to check the dangerous goods licence of a driver or a vehicle, you can do this online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "dangerous goods licence number (driver or vehicle)",
+    "licence holder name of the individual or company",
+    "vehicle registration, if checking a vehicle licence"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Dangerous Goods Driver Licence' from the licence type drop down menu.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the licence information into the search fields.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Rules around transporting dangerous goods – EPA",
+      "link": "https://www.epa.nsw.gov.au/your-environment/dangerous-goods"
+    },
+    {
+      "text": "EPA public registers",
+      "link": "https://www.epa.nsw.gov.au/licensing-and-regulation/public-registers"
+    },
+    {
+      "text": "Contact the EPA",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/environment-protection-authority-epa-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Rules around transporting dangerous goods – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/dangerous-goods"
+    },
+    {
+      "text": "EPA public registers",
+      "url": "https://www.epa.nsw.gov.au/licensing-and-regulation/public-registers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact the EPA",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/environment-protection-authority-epa-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:30Z",
+    "last_modified": "24 February 2025",
+    "html_sha1": "e0dcf00fd0f3ae1644221a19ba8dc8637e38632c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

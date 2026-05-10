@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-family-energy-rebate-on-supply-customers",
+  "title": "Apply for the NSW Family Energy Rebate (on-supply customers)",
+  "summary": "Find out if you can apply for the NSW Family Energy Rebate to help pay your electricity bills.",
+  "topics": [
+    "energy-rebate",
+    "nsw-electricity",
+    "family-benefit",
+    "on-supply-customers"
+  ],
+  "intro": "The NSW Family Energy Rebate helps people with dependent children pay their electricity bills.\n\nThe NSW Family Energy Rebate is up to $198 per embedded network (on-supply) household, per financial year.\n\nIf you are an embedded network (on-supply) electricity customer, you can apply for the NSW Family Energy Rebate online or by post.\n\nIf you are a retail (on-market) customer, you can apply for the NSW Family Energy Rebate online.\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You must have an electricity account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You must have received the Family Tax Benefit in the 2024–25 financial year.",
+    "You must be supplied by one of the following energy providers or networks: ARC Energy Group, Energy Locals / Energy locals Urban, Origin Energy (including most of their WINConnect sites), or Locality Planning Energy (LPE) at specific sites.",
+    "If you are an embedded network (on-supply) customer, you receive your bill from the strata manager or community/village operator."
+  ],
+  "what_you_need": [
+    "The confirmation letter from Services Australia that your Family Tax Benefit has been finalised for the last financial year.",
+    "Your Services Australia Customer Reference Number (CRN).",
+    "A printed (not hand-written) copy of your latest energy bill which must show the required details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You will receive the rebate as a lump-sum payment of $198 (or $22 if you receive the NSW Low Income Household Rebate (on supply customers).",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers"
+    },
+    {
+      "text": "You can only receive the rebate for your principal place of residence.",
+      "link": null
+    },
+    {
+      "text": "A household can only receive one NSW Family Energy Rebate each financial year.",
+      "link": null
+    },
+    {
+      "text": "Invoices must be printed unless:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "notify Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/advising-non-lodgement-tax-return"
+    },
+    {
+      "text": "NSW Family Energy Rebate Application Form – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/family-energy-rebate-application-on-supply-households-form.pdf?2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for the NSW Family Energy Rebate online",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers"
+    },
+    {
+      "text": "NSW Low Income Household Rebate (on supply customers",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Life Support Energy Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-on-supply-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for the NSW Family Energy Rebate?",
+      "a": "You must have an electricity account for your home in NSW, be the account holder, and have received the Family Tax Benefit in the 2024–25 financial year. You must also be supplied by specific energy providers or networks.",
+      "link": null
+    },
+    {
+      "q": "What is an embedded network (on-supply) customer?",
+      "a": "This means your electricity is supplied by an embedded network, such as in a residential community, retirement village, or strata scheme, and you receive your bill from the strata manager or community/village operator.",
+      "link": null
+    },
+    {
+      "q": "How much is the NSW Family Energy Rebate?",
+      "a": "The rebate is up to $198 per embedded network (on-supply) household, per financial year.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:33Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "d01814f6bb493162469109db15c4f07b1496e3ce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

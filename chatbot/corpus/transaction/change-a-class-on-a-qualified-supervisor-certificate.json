@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-a-class-on-a-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-a-class-on-a-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-a-class-on-a-qualified-supervisor-certificate",
+  "title": "Change a class on a qualified supervisor certificate",
+  "summary": "You can apply to add or change a class on your qualified supervisor certificate if you gain further qualifications.",
+  "topics": [
+    "qualified-supervisor-certificate",
+    "building-work",
+    "trade-work",
+    "qualifications"
+  ],
+  "intro": "A qualified supervisor certificate allows you to supervise and carry out building or trade work as specified on the certificate.\n\nIf you gain further qualifications that allow you to work in additional classes, you can apply to add or change a class on your qualified supervisor certificate. You can do this at a Service NSW Centre.\n\nNote: If the expiry date of your certificate is less than 6 weeks away you'll need to renew it before you can vary the classes.",
+  "who_can_apply": [
+    "Must have gained further qualifications that allow you to work in additional classes."
+  ],
+  "what_you_need": [
+    "The PDF forms: Application Form - Individual – PDF",
+    "Proof of identity",
+    "One passport size photograph",
+    "Original or certified copies of qualifications or experience that validate the change of class",
+    "Your referee's statement (if applicable)",
+    "Certificate of eligibility to obtain insurance (if applicable)",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre with your documents and payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You need a medical gas licence to do any medical gas work in NSW, regardless of the work cost or whether it's residential, commercial or industrial.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/proof-of-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Application Form - Individual – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "text": "General Building Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747a.pdf"
+    },
+    {
+      "text": "Specialist Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4371b.pdf"
+    },
+    {
+      "text": "Other Building Work and Trade Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747b.pdf"
+    },
+    {
+      "text": "medical gas licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/medical-gas-and-mechanical-services-work"
+    },
+    {
+      "text": "Compliance and regulation in housing and construction – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the conditions on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change address and contact details on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a qualified supervisor certificate?",
+      "a": "A qualified supervisor certificate allows you to supervise and carry out building or trade work as specified on the certificate.",
+      "link": null
+    },
+    {
+      "q": "Can I change the classes on my certificate?",
+      "a": "Yes, if you gain further qualifications that allow you to work in additional classes, you can apply to add or change a class on your qualified supervisor certificate.",
+      "link": null
+    },
+    {
+      "q": "Do I need to renew my certificate before changing classes?",
+      "a": "If the expiry date of your certificate is less than 6 weeks away, you will need to renew it before you can vary the classes.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:57Z",
+    "last_modified": "12 December 2024",
+    "html_sha1": "d6969eabc52fd1f0e8a8bafbd87dbf56248954c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

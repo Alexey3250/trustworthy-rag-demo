@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-recommence-trading",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-recommence-trading",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-recommence-trading",
+  "title": "Apply to recommence trading",
+  "summary": "Find out how to apply to recommence trading under your liquor licence after a break of six weeks or more.",
+  "topics": [
+    "liquor-licence",
+    "recommence-trading",
+    "nsw-business"
+  ],
+  "intro": "To recommence trading under your liquor licence after a break of 6 weeks or more, lodge an application through the liquor licence manager.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Any person or organisation holding a current NSW liquor licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account (you can create one when you start your application)",
+    "The date the premises is intending to re-commence trade."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to Liquor Licence Manager' button",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'View licences'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'View details' on the licence you want to amend.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Modify licence'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Apply' next to 'Recommence trade'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to complete the application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Manage, modify or move your liquor licence – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/modify-manage"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can apply to recommence trading?",
+      "a": "Any person or organisation that holds a current NSW liquor licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find up-to-date liquor licence guidelines?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who should I contact with questions about liquor licensing?",
+      "a": "Contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:23Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "5cc82f1fb45fc6e1c580f6c4146d76f8be3d3b56",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

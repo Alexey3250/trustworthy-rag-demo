@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/nsw-regional-travel-savings",
+  "source_url": "https://www.service.nsw.gov.au/referral/nsw-regional-travel-savings",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "nsw-regional-travel-savings",
+  "title": "Check the discounts available for NSW regional travel",
+  "summary": "Check available discounts and concession fares for train and coach tickets when traveling in regional NSW.",
+  "topics": [
+    "regional-nsw",
+    "travel-discounts",
+    "train-tickets",
+    "coach-tickets",
+    "concessions"
+  ],
+  "intro": "Before you buy train or coach tickets for trips in regional NSW, it's a good idea to check the many deals that are available.\n\nSavings can be made when you:\n\nSubsidised or concession fares are also provided for travel in regional NSW.\n\nVisit the pages listed below and select the 'Regional NSW' drop-down menu to find discounted fares available for:\n\nFor more information on regional tickets and fares, visit the Transport website.",
+  "who_can_apply": [
+    "Centrelink or Department of Veterans' Affairs pensioner concession card holders",
+    "seniors card holders",
+    "secondary school students",
+    "tertiary students",
+    "apprentices or trainees",
+    "job seekers and Centrelink customers",
+    "asylum seekers",
+    "veterans",
+    "war widow/ers",
+    "people with disability"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "book tickets online",
+      "url": "https://transportnsw.info/regional-travel/booking-information/ways-to-book-your-ticket"
+    },
+    {
+      "text": "Discovery Pass",
+      "url": "https://transportnsw.info/tickets-opal/regional-tickets-fares/discovery-pass-unlimited-travel"
+    },
+    {
+      "text": "child and family fares",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/child-family-fares"
+    },
+    {
+      "text": "travel in a group",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/group-travel"
+    },
+    {
+      "text": "sale fares",
+      "url": "https://transportnsw.info/tickets-opal/regional-tickets-fares/sale-fares"
+    },
+    {
+      "text": "Centrelink or Department of Veterans' Affairs pensioner concession card holders",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/pensioners"
+    },
+    {
+      "text": "seniors card holders",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/seniors"
+    },
+    {
+      "text": "secondary school students",
+      "url": "https://transportnsw.info/tickets-opal/ticket-eligibility-concessions/child-student-concessions/child-youth"
+    },
+    {
+      "text": "tertiary students",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/tertiary-tafe-students"
+    },
+    {
+      "text": "apprentices or trainees",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/apprentices-trainees"
+    },
+    {
+      "text": "job seekers and Centrelink customers",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/job-seekers-other-approved-centrelink-customers"
+    },
+    {
+      "text": "asylum seekers",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/asylum-seekers"
+    },
+    {
+      "text": "veterans",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/ex-members-of-defence-force-with-disability"
+    },
+    {
+      "text": "war widow/ers",
+      "url": "https://transportnsw.info/tickets-opal/ticket-eligibility-concessions/veteran"
+    },
+    {
+      "text": "people with disability",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/free-travel-for-companions"
+    },
+    {
+      "text": "Transport",
+      "url": "https://transportnsw.info/regional-travel/booking-information/regional-tickets"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find information on regional NSW travel deals?",
+      "a": "You can check for available deals and subsidized or concession fares for travel in regional NSW.",
+      "link": null
+    },
+    {
+      "q": "What types of discounts are available?",
+      "a": "Discounts are available for various groups, including concession card holders, students, and group travelers.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information on regional tickets and fares?",
+      "a": "For more information on regional tickets and fares, visit the Transport website.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:55Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "8bab59ee3990dc8f87a6183fb11a919579ce3a55",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

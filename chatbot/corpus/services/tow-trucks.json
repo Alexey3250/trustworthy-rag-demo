@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/tow-trucks",
+  "source_url": "https://www.service.nsw.gov.au/services/tow-trucks",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "tow-trucks",
+  "title": "Tow trucks",
+  "summary": "This page provides information and links for services related to tow trucks, including applying for licenses, managing certificates, and ordering necessary equipment.",
+  "topics": [
+    "tow-trucks",
+    "driver-certificate",
+    "operator-licence",
+    "towing-equipment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a tow truck driver certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate"
+    },
+    {
+      "text": "Apply for a tow truck operator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-operator-licence"
+    },
+    {
+      "text": "Manage your tow truck driver certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-driver-certificate"
+    },
+    {
+      "text": "Manage your tow truck operator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-operator-licence"
+    },
+    {
+      "text": "Replace tow truck plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-tow-truck-plates"
+    },
+    {
+      "text": "Order an auxiliary number plate for a tow truck",
+      "url": "https://www.service.nsw.gov.au/transaction/order-an-auxiliary-number-plate-for-a-tow-truck"
+    },
+    {
+      "text": "Apply for a tow truck vehicle access permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-vehicle-access-permit"
+    },
+    {
+      "text": "Apply for a scrap metal exemption authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scrap-metal-exemption-authority"
+    },
+    {
+      "text": "Order a towing authorisation book",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-towing-authorisation-book"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:57Z",
+    "last_modified": "12 November 2025",
+    "html_sha1": "75c7a89873188b9c95190b9b271fe53fac8c1890",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

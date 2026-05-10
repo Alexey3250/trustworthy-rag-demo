@@ -1,0 +1,56 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-a-company",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-a-company",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-a-company",
+  "title": "Register a company",
+  "summary": "This page explains that to register an unlimited private or public company, you must use a company registration form.",
+  "topics": [
+    "register-company",
+    "business-structure",
+    "legal-entity",
+    "company-registration"
+  ],
+  "intro": "To register a private or public company that's unlimited (where the liability of shareholders is unlimited) you need to apply by using a company registration form.\n\nA company is a type of business structure. When you set up a company, you create a legal entity that's separate from you.\n\nAt the Australian Government Business Registration Service website you can register the following types of companies using an online form:\n\nThe online form will also:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A company registration form"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "company registration form",
+      "url": "https://www.asic.gov.au/regulatory-resources/forms/forms-folder/201-application-for-registration-as-an-australian-company/"
+    },
+    {
+      "text": "Australian Government Business Registration Service website",
+      "url": "https://register.business.gov.au/registration/type"
+    },
+    {
+      "text": "Your company and the law – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/companies/company-officeholder-rules-and-changes/obligations-of-company-officeholders/"
+    },
+    {
+      "text": "Steps to register a company – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/companies/register-a-company/"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:50Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "5ea353964e5b73c93436392703ef2bb7cdc866c2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

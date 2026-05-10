@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/inverell-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/inverell-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "inverell-service-centre",
+  "title": "Inverell Service Centre",
+  "summary": "This page provides information about the Inverell Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "nsw-services",
+    "inverell"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-29.7688,151.119"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Bingara Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/bingara-agency"
+    },
+    {
+      "text": "Warialda Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/warialda-agency"
+    },
+    {
+      "text": "Glen Innes Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/glen-innes-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:53Z",
+    "last_modified": null,
+    "html_sha1": "09225e439a5a01fbdef54065abace071c2dde20c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

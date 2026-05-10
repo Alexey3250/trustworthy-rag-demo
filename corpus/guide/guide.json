@@ -1,0 +1,229 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide",
+  "source_url": "https://www.service.nsw.gov.au/guide",
+  "category": "guide",
+  "article_kind": "content",
+  "slug": "guide",
+  "title": "Guides",
+  "summary": "This page provides a comprehensive guide to various services and topics managed by Service NSW.",
+  "topics": [
+    "nsw-services",
+    "guides",
+    "driving",
+    "health",
+    "business",
+    "life-changes"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Create or manage your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Find a Service NSW location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Contact Service NSW to ask a question or give feedback",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Support for Aboriginal and Torres Strait Islander communities​",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Driver licence support for Aboriginal and Torres Strait Islander communities",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences/driver-licence-support-for-aboriginal-and-torres-strait-islander-communities"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Losing your driver licence (suspension)",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "ACT driver licences and vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "Toll roads and toll notices",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    },
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    },
+    {
+      "text": "Public transport concessions and subsidies",
+      "url": "https://www.service.nsw.gov.au/guide/public-transport-concessions-and-subsidies"
+    },
+    {
+      "text": "Guide to finding lost or unclaimed money",
+      "url": "https://www.service.nsw.gov.au/guide/finding-lost-money"
+    },
+    {
+      "text": "Losing your wallet",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-wallet"
+    },
+    {
+      "text": "Guide to online calculators to help you compare prices and get estimates",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-online-calculators-to-help-you-compare-prices-and-get-estimates"
+    },
+    {
+      "text": "Support for international students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    },
+    {
+      "text": "Planning for retirement",
+      "url": "https://www.service.nsw.gov.au/guide/planning-for-retirement"
+    },
+    {
+      "text": "Veterans – Concessions, programs and services",
+      "url": "https://www.service.nsw.gov.au/guide/veterans"
+    },
+    {
+      "text": "Carers – Concessions, programs and services",
+      "url": "https://www.service.nsw.gov.au/guide/carers"
+    },
+    {
+      "text": "Storm and flood preparation and recovery",
+      "url": "https://www.service.nsw.gov.au/guide/storm-and-flood-preparation-and-recovery"
+    },
+    {
+      "text": "Drought support",
+      "url": "https://www.service.nsw.gov.au/guide/drought-support"
+    },
+    {
+      "text": "Bushfire preparation and recovery",
+      "url": "https://www.service.nsw.gov.au/guide/bushfire-preparation-and-recovery"
+    },
+    {
+      "text": "Replacing lost identification, licences and personal documents",
+      "url": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "Mental wellbeing resources",
+      "url": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    },
+    {
+      "text": "Guide to help people impacted by domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Medicare in Australia",
+      "url": "https://www.service.nsw.gov.au/guide/medicare-in-australia"
+    },
+    {
+      "text": "Change contact details on NSW Government services",
+      "url": "https://www.service.nsw.gov.au/guide/change-nsw-details"
+    },
+    {
+      "text": "Getting married",
+      "url": "https://www.service.nsw.gov.au/guide/getting-married"
+    },
+    {
+      "text": "Having a baby",
+      "url": "https://www.service.nsw.gov.au/guide/having-a-baby"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "url": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Small Business Superannuation Clearing House (SBSCH)",
+      "url": "https://www.service.nsw.gov.au/guide/small-business-superannuation-clearing-house-sbsch"
+    },
+    {
+      "text": "Get help when your small business is in debt",
+      "url": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    },
+    {
+      "text": "Guide to moving house and changing your details with NSW Government agencies",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Buying a property",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    },
+    {
+      "text": "Locating NSW public schools and the enrolment process",
+      "url": "https://www.service.nsw.gov.au/guide/nsw-public-schools"
+    },
+    {
+      "text": "Australian passports and visas",
+      "url": "https://www.service.nsw.gov.au/guide/australian-passports-and-visas"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find help with my driver's licence?",
+      "a": "You can find guides on getting a NSW driver licence, losing your licence, and other driving-related topics.",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "q": "What services are available for new parents or those planning a family?",
+      "a": "Information is available regarding having a baby, getting married, and death and bereavement.",
+      "link": null
+    },
+    {
+      "q": "How can I manage my personal details with NSW Government services?",
+      "a": "You can learn about changing contact details, moving house, and replacing lost identification and documents.",
+      "link": null
+    },
+    {
+      "q": "What support is available for businesses in NSW?",
+      "a": "Guides cover starting or growing a business, checking licences, and getting help if your small business is in debt.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:24Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "eb0d76f326ff088afe1855b9a33876bf5b082951",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

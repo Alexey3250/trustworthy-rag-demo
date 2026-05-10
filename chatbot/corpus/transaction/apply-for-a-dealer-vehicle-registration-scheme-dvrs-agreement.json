@@ -1,0 +1,127 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dealer-vehicle-registration-scheme-dvrs-agreement",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dealer-vehicle-registration-scheme-dvrs-agreement",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-dealer-vehicle-registration-scheme-dvrs-agreement",
+  "title": "Apply for a Dealer Vehicle Registration Scheme (DVRS) agreement",
+  "summary": "Licensed motor dealers can apply for a Dealer Vehicle Registration Scheme (DVRS) agreement to authorize them to register, transfer, renew vehicle registrations, and order number plates.",
+  "topics": [
+    "motor-dealer",
+    "vehicle-registration",
+    "dvrs-agreement",
+    "service-nsw"
+  ],
+  "intro": "As a licensed motor dealer, if you want authorisation to register vehicles, transfer and renew vehicle registrations and order number plates, you'll need to apply for a dealer agreement under the Dealer Vehicle Registration Scheme (DVRS). You can do this at a Service NSW Centre.\n\nNote: The Dealer Online (DOL) system allows motor vehicle dealers to complete registration transactions online, without having to visit a service centre. You can submit your application for DOL access at the same time as completing your motor dealer agreement.",
+  "who_can_apply": [
+    "A dealer in NSW or within 50km of the NSW border, engaged in the sale, distribution and management of new vehicles or second-hand vehicles (or both), and who holds a NSW Motor Dealer Licence or interstate equivalent.",
+    "A NSW-based manufacturer or retailer of new trailers weighing less than 250kg.",
+    "A NSW-based entity engaged in the distribution or management of new motor vehicles."
+  ],
+  "what_you_need": [
+    "Completed application forms and DVRS Agreement.",
+    "Proof of identity for the participant and the authorised services officer.",
+    "National Criminal Check (no more than 3 months old) for the participant representative and any person listed on Schedule 2 of the DVRS Agreement.",
+    "Australian Company Number (ACN) or Australian Registered Business Number (ARBN) full ASIC report.",
+    "Public and products liability or broadform liability insurance policy.",
+    "Workers Compensation insurance certificate of currency.",
+    "Copy of dealer licence (if a motor dealer).",
+    "Manufacturer or dealer franchise agreement (if a new vehicle dealer).",
+    "Proof of accreditation in the Heavy Vehicle Authorised Inspection Scheme (HVAIS) (if heavy vehicle dealer).",
+    "On letterhead, a letter stating the make of trailer manufactured (if a trailer organisation).",
+    "Copy of the vehicle type approval issued by the Commonwealth Government (if a trailer organisation)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the application forms and DVRS Agreement.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "DVRS Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070622-dealer-vehicle-reg-scheme-application.pdf"
+    },
+    {
+      "text": "DVRS Agreement",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/dealer-vehicle-registration-scheme-agreement-dvrs"
+    },
+    {
+      "text": "Authorised Services Officer application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071222-dealer-services-officer-authorisation.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "Motor Dealers Guide to Vehicle Registration – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/motor-dealers-guide-to-vehicle-registration"
+    },
+    {
+      "text": "Dealer Vehicle Registration Scheme (DVRS) Business Rules – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/dealer-vehicle-registration-scheme-dvrs-business-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Dealer Online (DOL)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-access-to-dealer-online"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-dealer-licence"
+    },
+    {
+      "text": "Order number plates as a dealer with an agreement",
+      "url": "https://www.service.nsw.gov.au/transaction/order-number-plates-as-a-dealer-with-an-agreement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to visit a Service NSW Centre to apply?",
+      "a": "You can apply at a Service NSW Centre. However, if you use the Dealer Online (DOL) system, you can complete registration transactions online without visiting a service centre.",
+      "link": null
+    },
+    {
+      "q": "What is the Dealer Online (DOL) system?",
+      "a": "The Dealer Online (DOL) system allows motor vehicle dealers to complete registration transactions online, and you can submit your application for DOL access at the same time as completing your motor dealer agreement.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-access-to-dealer-online"
+    },
+    {
+      "q": "Who is eligible to apply for a DVRS agreement?",
+      "a": "Eligibility includes dealers in NSW or within 50km of the NSW border, NSW-based manufacturers/retailers of new trailers (under 250kg), or NSW-based entities managing new motor vehicles.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:16Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "030459253612e395074416d9783246142c77c11f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

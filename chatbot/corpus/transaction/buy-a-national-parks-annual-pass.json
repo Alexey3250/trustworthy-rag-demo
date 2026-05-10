@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass",
+  "source_url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "buy-a-national-parks-annual-pass",
+  "title": "Buy a National Parks annual pass",
+  "summary": "Buy a digital annual pass to save on motor vehicle entrance fees at 45 NSW national parks and reserves.",
+  "topics": [
+    "national-parks",
+    "annual-pass",
+    "nsw-parks",
+    "entry-fees"
+  ],
+  "intro": "Motor vehicle entrance fees are charged at 45 NSW national parks and reserves. If you're a regular visitor to any of these parks, you can save on the entry fees by buying a digital annual pass.\n\nThe 4 types of annual passes are:\n\nAnnual passes are digital, which means you will not receive a physical pass to display in your vehicle.\n\nYou can buy 1-year and 2-year passes online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "an email address that is not shared with someone else",
+    "your vehicle number plate"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Buy online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to buy a pass.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "call the National Parks Contact Centre on 1300 072 757, or",
+      "link": "tel:1300072757"
+    },
+    {
+      "n": 4,
+      "text": "visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your National Parks annual pass provides entry for the vehicle that is linked to your digital pass. You're not able to transfer passes between vehicles.",
+      "link": null
+    },
+    {
+      "text": "If you have more than one vehicle you'll need to choose which one to link to your digital pass.",
+      "link": null
+    },
+    {
+      "text": "Concessions and discounts are available.",
+      "link": "https://www.nationalparks.nsw.gov.au/passes-and-fees/discount-and-concession-passes"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "45 NSW national parks and reserves",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/fee-collecting-parks"
+    },
+    {
+      "text": "Concessions and discounts",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/discount-and-concession-passes"
+    },
+    {
+      "text": "National Parks entry pass conditions of use",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/conditions-of-use"
+    },
+    {
+      "text": "Digital parks passes – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/digital-nsw-parks-pass"
+    },
+    {
+      "text": "Entry fees and passes FAQs – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/national-parks-annual-pass-faqs"
+    },
+    {
+      "text": "Parks covered by the single country park pass and country parks pass",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/country-parks-passes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a National Parks Concession Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:39Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "8229c19d35b6662a662739edf283585e192a757b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

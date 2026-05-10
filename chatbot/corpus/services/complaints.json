@@ -1,0 +1,157 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/complaints",
+  "source_url": "https://www.service.nsw.gov.au/services/complaints",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "complaints",
+  "title": "Make a complaint",
+  "summary": "This page provides various ways to make a complaint about different services, goods, and government agencies in NSW.",
+  "topics": [
+    "complaints",
+    "nsw-government",
+    "consumer-complaints",
+    "housing",
+    "health-care"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Make a report about goods, services and community issues",
+      "link": "https://www.service.nsw.gov.au/services/what-you-can-report"
+    },
+    {
+      "text": "Report a crime, scam or misdemeanour",
+      "link": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours"
+    },
+    {
+      "text": "You and your neighbours",
+      "link": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Service NSW Complaints Policy",
+      "link": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Lodge a general consumer complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-consumer-complaint"
+    },
+    {
+      "text": "Lodge a home building complaint with the Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    },
+    {
+      "text": "Lodge a residential tenancy complaint with NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-tenancy-complaint-with-nsw-fair-trading"
+    },
+    {
+      "text": "Lodge a retirement village complaint with NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-retirement-village-complaint-with-nsw-fair-trading"
+    },
+    {
+      "text": "Make a complaint about social housing",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-social-housing"
+    },
+    {
+      "text": "Make a complaint about your energy or water provider",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-your-energy-or-water-provider"
+    },
+    {
+      "text": "Dispute a towing invoice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice"
+    },
+    {
+      "text": "Make a complaint about a motor vehicle dealer or repairer",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-motor-vehicle-dealer-or-repairer"
+    },
+    {
+      "text": "Make a complaint about the content of a number plate",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-the-content-of-a-number-plate"
+    },
+    {
+      "text": "Contact a NSW Government department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/departments"
+    },
+    {
+      "text": "Make a complaint about a NSW Government agency",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-nsw-government-agency"
+    },
+    {
+      "text": "Service NSW customer complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    },
+    {
+      "text": "Contact a Member of Parliament (MP) NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/parliament-of-nsw"
+    },
+    {
+      "text": "Lodge a complaint with Anti-Discrimination NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-with-anti-discrimination-nsw"
+    },
+    {
+      "text": "Make a complaint about a lawyer or barrister",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-lawyer-or-barrister"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    },
+    {
+      "text": "Contact the Health Care Complaints Commission",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-care-complaints-commission"
+    },
+    {
+      "text": "Make a report about goods, services and community issues",
+      "url": "https://www.service.nsw.gov.au/services/what-you-can-report"
+    },
+    {
+      "text": "Report a crime, scam or misdemeanour",
+      "url": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Service NSW Complaints Policy",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I lodge a general consumer complaint?",
+      "a": "You can lodge a general consumer complaint using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-general-consumer-complaint"
+    },
+    {
+      "q": "How do I complain about housing issues?",
+      "a": "You can lodge complaints regarding home building, residential tenancy, retirement villages, social housing, or energy/water providers.",
+      "link": null
+    },
+    {
+      "q": "What if I need to complain about a government agency or department?",
+      "a": "You can make a complaint about a NSW Government agency or contact a specific NSW Government department.",
+      "link": null
+    },
+    {
+      "q": "Where can I complain about health care or professional services?",
+      "a": "You can lodge complaints about health care practitioners, service providers, or professional services like lawyers and barristers.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:41Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "1987dfc3276517016a1154252bd23e48add222f1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

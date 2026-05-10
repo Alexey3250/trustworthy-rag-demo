@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-good-behaviour-period",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-good-behaviour-period",
+  "title": "Apply for a good behaviour period",
+  "summary": "Learn about and apply for a 12-month good behaviour period if you are suspended from driving due to excessive demerit points.",
+  "topics": [
+    "driver-licence",
+    "suspension",
+    "demerit-points",
+    "good-behaviour-period"
+  ],
+  "intro": "If you have an unrestricted NSW Driver Licence and you've received a notice of suspension due to excessive demerit points, you may be eligible to elect a 12-month good behaviour period.\n\nYou must apply to elect a good behaviour period before your suspension starts.\n\nYou can apply online if there are at least 2 business days left before your suspension.\n\nNote: You cannot change your mind and choose the suspension after you've applied for the good behaviour period. Before you apply, make sure you read the conditions.",
+  "who_can_apply": [
+    "Your suspension letter states you can apply for the good behaviour period.",
+    "The suspension period has not started.",
+    "You hold at least one unrestricted NSW Driver Licence.",
+    "You only hold a provisional or learner licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account (optional).",
+    "Your notice of suspension letter."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read the conditions of the good behaviour period.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, create a MyServiceNSW Account, or continue as a guest.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "you'll get a digital receipt straight away",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "you'll receive a letter of confirmation in the post within 14 business days",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "you can continue to drive as long as you meet the conditions.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Demerit points, penalties and offences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences"
+    },
+    {
+      "text": "Alcohol and drug driving offences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Apply to increase your demerit points limit – professional drivers only",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-increase-your-demerit-points-limit-professional-drivers-only"
+    },
+    {
+      "text": "Request a driving record",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When must I apply for a good behaviour period?",
+      "a": "You must apply before your suspension starts.",
+      "link": null
+    },
+    {
+      "q": "What happens if I get demerit points during the good behaviour period?",
+      "a": "If you get 2 or more demerit points during the 12 months, all your licences will be suspended for double the original suspension period.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a good behaviour period?",
+      "a": "You can apply online if there are at least 2 business days left before your suspension. You must read the conditions first, then select 'Apply online' and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:54Z",
+    "last_modified": "24 March 2026",
+    "html_sha1": "c3c9d72949498d136cf0a1dfed34625e8254f414",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

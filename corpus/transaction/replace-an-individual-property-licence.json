@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-an-individual-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-an-individual-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-an-individual-property-licence",
+  "title": "Replace an individual property licence",
+  "summary": "You can apply for a free replacement of a damaged, lost, or stolen individual property licence at a Service NSW Centre or by email.",
+  "topics": [
+    "property-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If you hold an individual property licence and it has been damaged, lost or stolen, you can apply for a free replacement licence at a Service NSW Centre or by email.\n\nTo check your property licence number and details visit Verify NSW.",
+  "who_can_apply": [
+    "Hold an individual property licence"
+  ],
+  "what_you_need": [
+    "Reason for requesting a replacement",
+    "The type of licence (individual property licence)",
+    "Your name",
+    "Licence number",
+    "Your signature",
+    "Visit a service centre or email propertylicensing@customerservice.nsw.gov.au"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "reason for requesting a replacement",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "the type of licence (individual property licence)",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "your name",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "licence number",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "your signature.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "visit a service centre or",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 7,
+      "text": "email propertylicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    },
+    {
+      "text": "Becoming a property agent – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew or restore an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-individual-property-licence"
+    },
+    {
+      "text": "Replace a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-corporation-property-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my property licence number and details?",
+      "a": "You can check your property licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "q": "How do I replace my individual property licence?",
+      "a": "You can apply for a free replacement licence by visiting a Service NSW Centre or by emailing propertylicensing@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:21Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "bceafbb5cc8b1d16d77c23713ba5dcb6640466b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-out-about-the-loose-fill-asbestos-program",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-out-about-the-loose-fill-asbestos-program",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-out-about-the-loose-fill-asbestos-program",
+  "title": "Find out about the Loose-fill Asbestos Program",
+  "summary": "Find out if you are eligible for assistance through the NSW Government's Loose-fill Asbestos Program if you suspect loose-fill asbestos insulation in your home.",
+  "topics": [
+    "loose-fill-asbestos",
+    "asbestos-insulation",
+    "nsw-government-assistance",
+    "home-safety"
+  ],
+  "intro": "If you have loose-fill asbestos insulation in your home, you may be eligible for assistance through the NSW Government's Loose-fill Asbestos Program.\n\nYou should arrange private sample testing by a licensed asbestos assessor if you suspect your home has loose-fill asbestos insulation. In the meantime, avoid entering the ceiling space or drilling into walls.\n\nIf the testing shows that the home contains loose-fill asbestos insulation, you may be given the option to have your property demolished and remediated.\n\nFor more information visit loose-fill asbestos insulation –NSW Fair Trading.",
+  "who_can_apply": [
+    "Having loose-fill asbestos insulation in your home"
+  ],
+  "what_you_need": [
+    "Arrange private sample testing by a licensed asbestos assessor if you suspect loose-fill asbestos insulation.",
+    "Avoid entering the ceiling space or drilling into walls while awaiting testing."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "licensed asbestos assessor",
+      "url": "https://verify.licence.nsw.gov.au/home/ADL"
+    },
+    {
+      "text": "loose-fill asbestos insulation –NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/safety-home/loose-fill-asbestos-insulation"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:14Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "e4ed6e11e9d1ffd3dd2db623aaf1f7dc01b714d7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

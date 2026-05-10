@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-replace-a-pesticide-licence-identification-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-replace-a-pesticide-licence-identification-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-replace-a-pesticide-licence-identification-card",
+  "title": "Apply to replace a pesticide licence identification card",
+  "summary": "You can apply online to replace a lost, stolen, damaged, or destroyed pesticide licence identification card, or request a replacement if your licence was not received or had an error.",
+  "topics": [
+    "pesticide-licence",
+    "replacement-card",
+    "pesticide-user"
+  ],
+  "intro": "If your pesticide licence identification card has been lost, stolen, damaged or destroyed, you can apply for a replacement licence by completing an online form.\n\nThe form can also be used to request a replacement licence if you did not receive your licence or if it had a printing error.",
+  "who_can_apply": [
+    "Pest Management Technician (PMT)",
+    "Ground Applicator (GRN)",
+    "Fumigator (FUM)",
+    "Timber Pest Management Technician (PMT-TP)",
+    "Holders of other specified licences"
+  ],
+  "what_you_need": [
+    "Your current licence (if you have it)",
+    "One passport-size photo",
+    "Payment, as indicated on the form (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Sign and submit'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Pest management technicians' fact sheet – PDF",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/pesticide-factsheets-pest-mgt-technicians.pdf"
+    },
+    {
+      "text": "Ground applicator fact sheet – PDF",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/18p1066-ground-applicator-licence-fact-sheet.pdf"
+    },
+    {
+      "text": "Licences and advice for occupational pesticide users – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/pesticides/licences-and-advice-for-occupational-pesticide-users"
+    },
+    {
+      "text": "Pest management technicians, fumigators and training permits – EPA",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Pesticides/Licences-and-advice-for-occupational-pesticide-users/pest-management-technicians-fumigators-training-permits"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a pest management technician licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-pest-management-technician-licence"
+    },
+    {
+      "text": "Apply for a fumigator licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fumigator-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What situations require me to apply for a replacement licence?",
+      "a": "You can apply if your licence identification card has been lost, stolen, damaged, or destroyed. You can also apply if you did not receive your licence or if it had a printing error.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for a replacement licence?",
+      "a": "Eligible applicants include Pest Management Technicians (PMT), Ground Applicators (GRN), Fumigators (FUM), Timber Pest Management Technicians (PMT-TP), and holders of other specified licences.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a replacement licence?",
+      "a": "Select the ‘Apply online’ button, complete the form, and then select 'Sign and submit'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:40Z",
+    "last_modified": "18 November 2025",
+    "html_sha1": "40c58aa46cc24190b721539bd086b2887feca303",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

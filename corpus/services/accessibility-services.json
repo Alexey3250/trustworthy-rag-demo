@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/accessibility-services",
+  "source_url": "https://www.service.nsw.gov.au/services/accessibility-services",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "accessibility-services",
+  "title": "Accessibility services",
+  "summary": "This page provides information and links to various accessibility services offered by Service NSW, including language support and interpreting services.",
+  "topics": [
+    "accessibility",
+    "language-support",
+    "interpreting",
+    "captioning",
+    "website-access"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Book Auslan video remote interpreting at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "text": "Book live captioning services at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    },
+    {
+      "text": "Website accessibility",
+      "url": "https://www.service.nsw.gov.au/accessibility"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get help in my language?",
+      "a": "You can find information on getting help in your language via the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "q": "How do I book an interpreter for spoken language?",
+      "a": "You can book an interpreter for spoken language through the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "q": "What if I need document translation services?",
+      "a": "You can apply for document translation services through the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "q": "How can I book Auslan video remote interpreting?",
+      "a": "You can book Auslan video remote interpreting at a service centre.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "q": "Do you offer live captioning services?",
+      "a": "Yes, you can book live captioning services at a service centre.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:46Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "ce47fa7f83c7f97e4129db15bde90b60c667f2ad",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

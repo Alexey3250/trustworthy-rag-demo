@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing",
+  "source_url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "request-or-report-property-maintenance-issues-in-social-housing",
+  "title": "Request or report property maintenance issues in social housing",
+  "summary": "Learn how to report non-urgent or urgent property maintenance issues if you live in public housing.",
+  "topics": [
+    "public-housing",
+    "maintenance-issues",
+    "repairs",
+    "social-housing"
+  ],
+  "intro": "If you live in public housing and need to report any non-urgent repairs, you can submit a request online via the MyHousing app. Log in to the app and select MyHousing Repairs.\n\nThe app can be downloaded from either the App Store or the Google Play Store.\n\nIf you'd prefer to call, or the matter is urgent, the Maintenance Hub number is 1800 422 322.Specialist staff are available 24 hours a day, 7 days a week, to provide support and advice. They're also able to make decisions on the spot about what may need to be done.\n\nWhen you call, give as many details as possible about the problem that needs repairing.\n\nMake sure you have a pen ready to write down the job reference number for your maintenance request. Having the job reference number will make it easier to make a follow up call to the Maintenance Hub if you need to.",
+  "who_can_apply": [
+    "Live in public housing"
+  ],
+  "what_you_need": [
+    "MyHousing app (available on the App Store or Google Play Store)",
+    "Pen and job reference number (if calling)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "App Store",
+      "url": "https://apps.apple.com/au/app/myhousing/id1456978386"
+    },
+    {
+      "text": "Google Play Store",
+      "url": "https://play.google.com/store/apps/details?id=com.facs.cms&hl=en-AU"
+    },
+    {
+      "text": "Requesting maintenance and reporting problems",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/public-housing-tenants/maintenance-and-repairs/maintenance-service"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Homes NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I report non-urgent repairs in public housing?",
+      "a": "You can submit a request online using the MyHousing app. Log in to the app and select MyHousing Repairs.",
+      "link": null
+    },
+    {
+      "q": "What should I do if the maintenance issue is urgent?",
+      "a": "If the matter is urgent, you can call the Maintenance Hub number at 1800 422 322. Specialist staff are available 24 hours a day, 7 days a week.",
+      "link": null
+    },
+    {
+      "q": "What information should I have ready when I call about repairs?",
+      "a": "Give as many details as possible about the problem. Also, make sure you have a pen ready to write down the job reference number for your maintenance request.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:02Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "8fc698bbfdc802b0b5af15106e99dfbf61c7c092",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

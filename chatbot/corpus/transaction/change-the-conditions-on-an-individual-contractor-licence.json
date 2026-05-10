@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-an-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-an-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-conditions-on-an-individual-contractor-licence",
+  "title": "Change the conditions on an individual contractor licence",
+  "summary": "Learn how to amend the conditions on your individual contractor licence if your qualifications or circumstances have changed.",
+  "topics": [
+    "individual-contractor-licence",
+    "amend-conditions",
+    "qualifications",
+    "service-nsw"
+  ],
+  "intro": "An individual contractor licence allows you to carry out work as described on your licence card, subject to any specified conditions.\n\nIf your circumstances change (such as your qualifications), and this affects the conditions under which your licence has been issued, you'll need to amend your details. You can do this at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "evidence of qualifications or experience to validate the change of condition",
+    "one passport photograph (if applicable)",
+    "fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete Application Form - Individual – PDF (if applicable).",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and lodge your application in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/proof-of-identity"
+    },
+    {
+      "text": "PDF form – 'Application Form – Individual",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the class on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-an-individual-contractor-licence"
+    },
+    {
+      "text": "Surrender an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-an-individual-contractor-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:51Z",
+    "last_modified": "12 December 2024",
+    "html_sha1": "8addbc832f47fbdaf4a5a5472b440becc4321934",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

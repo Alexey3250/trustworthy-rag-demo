@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-service",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-service",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "national-parks-and-wildlife-service",
+  "title": "National Parks and Wildlife Service",
+  "summary": "This page provides information about the National Parks and Wildlife Service, including links to resources for visiting and managing NSW national parks.",
+  "topics": [
+    "national-parks",
+    "wildlife",
+    "environment",
+    "nsw-parks"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nationalparks.nsw.gov.au/",
+      "url": "https://www.nationalparks.nsw.gov.au/"
+    },
+    {
+      "text": "Find a NSW National Parks visitor centre",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do/search?Categories=Visitor+centres&Near=&During=Anytime"
+    },
+    {
+      "text": "Download the NSW National Parks app",
+      "url": "https://www.nationalparks.nsw.gov.au/app"
+    },
+    {
+      "text": "Safety in NSW national parks",
+      "url": "https://www.nationalparks.nsw.gov.au/safety"
+    },
+    {
+      "text": "Alerts for NSW National Parks",
+      "url": "https://www.nationalparks.nsw.gov.au/alerts/alerts-list"
+    },
+    {
+      "text": "Hire a Venue",
+      "url": "https://www.nationalparks.nsw.gov.au/venues"
+    },
+    {
+      "text": "Find a Park in NSW",
+      "url": "https://www.nationalparks.nsw.gov.au/visit-a-park"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Environment and Heritage Group",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/environment-and-heritage-group"
+    },
+    {
+      "text": "National Parks and Wildlife Advisory Council",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-advisory-council"
+    },
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    },
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    },
+    {
+      "text": "Apply for a companion native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-companion-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about NSW National Parks?",
+      "a": "You can visit the main National Parks website for general information and resources.",
+      "link": "https://www.nationalparks.nsw.gov.au/"
+    },
+    {
+      "q": "How can I plan a visit to a National Park?",
+      "a": "You can find a park in NSW or search for visitor centres to help plan your trip.",
+      "link": "https://www.nationalparks.nsw.gov.au/visit-a-park"
+    },
+    {
+      "q": "What safety information is available for National Parks?",
+      "a": "The service provides specific information regarding safety in NSW national parks.",
+      "link": "https://www.nationalparks.nsw.gov.au/safety"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:58Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "46842468e5c11bab5f23e26f0d00d90462d24ecc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

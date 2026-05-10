@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-name-on-a-company-or-partnership-contractor-licence",
+  "title": "Change the name on a company or partnership contractor licence",
+  "summary": "Update your company or partnership contractor licence details if the business name or a director/member's name has changed.",
+  "topics": [
+    "company-licence",
+    "partnership-licence",
+    "name-change",
+    "service-nsw"
+  ],
+  "intro": "If you hold a company or partnership contractor licence and the business name has changed, or a company director or partnership member has changed their name, you must update the licence details at a Service NSW Centre within 7 days.\n\nNote: You must apply for a new licence if you're:",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence",
+    "The business name has changed",
+    "A company director or partnership member has changed their name"
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "A current ASIC extract showing your new company or partnership name (original copy to be viewed and verified at Service NSW)",
+    "The PDF form – 'Change of name and use of other names or aliases'",
+    "Marriage certificate, or change of name certificate",
+    "Certified evidence of the name change (if a director or member's name changed)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Form HB024: Notification of Change of Address – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382c.pdf"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change a condition on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Add a category of work to a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I update my licence details?",
+      "a": "You must update the licence details at a Service NSW Centre within 7 days.",
+      "link": null
+    },
+    {
+      "q": "What do I need if the business name has changed?",
+      "a": "You need your licence number and a current ASIC extract showing the new company or partnership name.",
+      "link": null
+    },
+    {
+      "q": "What documentation is needed if a director or member changes their name?",
+      "a": "You need certified evidence of the name change, such as a marriage certificate or change of name certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:21Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "97ad2b1ddd2369159fa1bd1d017a082c9f2a4131",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

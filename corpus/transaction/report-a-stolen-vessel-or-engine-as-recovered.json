@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-stolen-vessel-or-engine-as-recovered",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-stolen-vessel-or-engine-as-recovered",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-stolen-vessel-or-engine-as-recovered",
+  "title": "Report a stolen vessel or engine as recovered",
+  "summary": "This page explains how to report a vessel or engine that was previously reported as stolen, but has since been recovered.",
+  "topics": [
+    "vessel-recovery",
+    "stolen-property",
+    "transport-nsw",
+    "boating"
+  ],
+  "intro": "A vessel or engine that was previously reported as stolen, but has now been found, will need to be reported to Transport for NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "vessel or engine details such as HIN (Boatcode), registration number or engine serial number",
+    "written notification that the vessel or engine has been recovered",
+    "your proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Make sure you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a Service NSW Centre and provide the information in person, or by post to:Service NSWPO Box 21Parkes NSW 2870.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report a vessel or engine as stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-vessel-or-engine-as-stolen"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:08Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "1c997203f431f69cd27d957bc6ac5c670e0b584a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

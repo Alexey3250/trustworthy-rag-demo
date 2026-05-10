@@ -1,0 +1,149 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers",
+  "source_url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "redeeming-vouchers-from-customers",
+  "title": "Redeeming vouchers from customers",
+  "summary": "This page explains how businesses can redeem vouchers from customers using the Service NSW Business Bureau app.",
+  "topics": [
+    "business-vouchers",
+    "service-nsw-app",
+    "redeeming-vouchers",
+    "transactions"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Have a Business Profile",
+    "Be registered to participate in a NSW Government program",
+    "Have access to a unique location code provided by the business owner"
+  ],
+  "what_you_need": [
+    "Service NSW Business Bureau app (on a phone or tablet)",
+    "A QR voucher code (digital or printed)",
+    "The business location selected in the app",
+    "The total bill amount"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "use the Service NSW Business Bureau app as a scanning device (phone or tablet) to scan a QR voucher code (recommended) or",
+      "link": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "n": 2,
+      "text": "manually enter the voucher code that appears above the QR code on the digital or printed voucher.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Profile",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Business support",
+      "link": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "Active and Creative Kids voucher",
+      "link": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "participating in the program",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "download the app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "sharing vouchers",
+      "url": "https://www.service.nsw.gov.au/transaction/share-a-voucher"
+    },
+    {
+      "text": "terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Connect or disconnect your devices",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations"
+    },
+    {
+      "text": "System requirements for the Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements"
+    },
+    {
+      "text": "Privacy and security for the Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app"
+    },
+    {
+      "text": "Business support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I redeem a voucher from a customer?",
+      "a": "Use the Service NSW Business Bureau app (on a phone or tablet) to scan a QR voucher code or manually enter the voucher code.",
+      "link": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "q": "What happens to unused voucher amounts?",
+      "a": "Neither the customer nor the business will receive the unused amount.",
+      "link": null
+    },
+    {
+      "q": "How can I view my transaction history?",
+      "a": "Log in to the Service NSW Business Bureau app using your MyServiceNSW Account, select 'Program management' and the program, then select ‘Program transactions’ to view history.",
+      "link": null
+    },
+    {
+      "q": "Who can use the voucher?",
+      "a": "The voucher must only be used by the person registered to receive it and cannot be transferred to anyone else.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:08Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "a8bbbe9ba1fe3c889bd6950655afe530fa6eaf70",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

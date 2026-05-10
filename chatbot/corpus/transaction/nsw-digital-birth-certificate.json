@@ -1,0 +1,154 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/nsw-digital-birth-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/nsw-digital-birth-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "nsw-digital-birth-certificate",
+  "title": "NSW Digital Birth Certificate",
+  "summary": "Learn how to apply for and use the NSW Digital Birth Certificate (DBC), an optional digital version of your birth certificate.",
+  "topics": [
+    "birth-certificate",
+    "nsw-service",
+    "digital-identity",
+    "identity-proof"
+  ],
+  "intro": "The NSW Digital Birth Certificate (DBC) is available through the latest version of the Service NSW app.\n\nThe DBC is currently available for people aged 16 to 21 who were born in NSW. You must hold a NSW Photo Card or NSW Driver Licence to be eligible to apply.\n\nThe DBC is a safe and convenient way to prove your identity and shows the same information that is available on a paper birth certificate. The DBC does not replace your paper birth certificate. It is an optional, digital version available at no additional cost.",
+  "who_can_apply": [
+    "Be aged 16 to 21.",
+    "Have had your birth registered with the NSW Registry of Births, Deaths & Marriages.",
+    "Hold a NSW Photo Card or NSW Driver Licence."
+  ],
+  "what_you_need": [
+    "NSW Photo Card or NSW Driver Licence",
+    "Service NSW app (latest version)",
+    "Reference number (received via email after applying)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Apply for the DBC at https://forms.bdm.nsw.gov.au/dbc.",
+      "link": "https://forms.bdm.nsw.gov.au/dbc"
+    },
+    {
+      "n": 2,
+      "text": "If eligible, you will receive an email with a reference number from no-reply@mail.forms.bdm.nsw.gov.au. This email may take up to 5 minutes to come through.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download or update to the latest version of the Service NSW app on your smartphone.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to the app with your MyServiceNSW account details.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select ‘Wallet’ from the home screen and then the ‘Add’ button.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select ‘Birth Certificate’.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select ‘I have my reference number’.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Follow the prompts in the app.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Enter the reference number when prompted.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NSW Digital Birth Certificate - Privacy Collection Notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-birth-certificate"
+    },
+    {
+      "text": "NSW Digital Birth Certificate for business",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-birth-certificate-for-business"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "https://forms.bdm.nsw.gov.au/dbc",
+      "url": "https://forms.bdm.nsw.gov.au/dbc"
+    },
+    {
+      "text": "ID Support NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/id-support-nsw"
+    },
+    {
+      "text": "nsw.gov.au/change-of-name",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-name"
+    },
+    {
+      "text": "nsw.gov.au/change-of-sex",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex"
+    },
+    {
+      "text": "nsw.gov.au/family-and-relationships/name-changes-and-corrections/correct-an-entry",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/correct-an-entry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "update details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Privacy, digital licences and credentials",
+      "url": "https://www.service.nsw.gov.au/privacy-and-digital-licences-and-credentials"
+    },
+    {
+      "text": "NSW Digital Birth Certificate for business",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-birth-certificate-for-business"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "NSW Digital Birth Certificate - Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-birth-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Digital Birth Certificate (DBC)?",
+      "a": "The DBC is a safe and convenient digital way to prove your identity that shows the same information as a paper birth certificate. It is an optional version and does not replace your paper certificate.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the DBC?",
+      "a": "You must be aged 16 to 21, have had your birth registered with the NSW Registry of Births, Deaths & Marriages, and hold a NSW Photo Card or NSW Driver Licence.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the DBC?",
+      "a": "First, apply for the DBC at https://forms.bdm.nsw.gov.au/dbc. After receiving a reference number via email, download or update the Service NSW app, log in, and follow the prompts to add the certificate to your wallet.",
+      "link": "https://forms.bdm.nsw.gov.au/dbc"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:47Z",
+    "last_modified": "20 March 2026",
+    "html_sha1": "4425272bc28a423ba0ba3e7e4ce09309e41fd3fe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

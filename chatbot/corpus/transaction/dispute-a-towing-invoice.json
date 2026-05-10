@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice",
+  "source_url": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "dispute-a-towing-invoice",
+  "title": "Dispute a towing invoice",
+  "summary": "Learn how to dispute a towing invoice for a vehicle towed from a prescribed tow-away area.",
+  "topics": [
+    "towing-invoice",
+    "dispute",
+    "vehicle-towing",
+    "transport-for-nsw"
+  ],
+  "intro": "If your vehicle has been towed from a prescribed tow-away area and you've received an invoice for the tow, you can dispute the matter online or by mail.\n\nTransport for NSW will review the circumstances of the tow based on the information you provide.\n\nThe tow-away charge is separate to any fine that may have been issued by the Police or local council.\n\nNote: If you were not the driver of the vehicle at the time it was towed, you must submit the online form or your dissension letter at least 7 days before the due date on the towing invoice.",
+  "who_can_apply": [
+    "Your vehicle must have been towed from a prescribed tow-away area, and you must have received an invoice for the tow."
+  ],
+  "what_you_need": [
+    "Invoice number",
+    "Registration number",
+    "Details about the time, date and location of the tow-away",
+    "The reason(s) why you believe your vehicle should not have been towed",
+    "Driver name and licence number (if known)",
+    "The towing invoice (original or copy)",
+    "A completed statutory declaration (either for an individual or a company)",
+    "If you were not the driver of the vehicle, you must also provide the statutory declaration."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Dispute online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Upload your supporting documents including the statutory declaration and towing invoice (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your dispute request (by the due date, if applicable).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Submissions involving a statutory declaration must be received at least 7 days before the invoice's due date.",
+      "link": null
+    },
+    {
+      "text": "Tow-away areas include:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Towing invoice statutory declaration (individual) – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-01/45065677-TfNSW-towing-invoice-statutory-declaration-individuals.pdf"
+    },
+    {
+      "text": "Towing invoice statutory declaration (company) – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-01/45065678-TfNSW-towing-invoice-statutory-declaration-companies.pdf"
+    },
+    {
+      "text": "If your car gets towed – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/if-your-car-gets-towed"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Apply to review an overdue fine in court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the tow-away charge related to a fine?",
+      "a": "No, the tow-away charge is separate from any fine that may have been issued by the Police or local council.",
+      "link": null
+    },
+    {
+      "q": "How do I dispute a towing invoice?",
+      "a": "You can dispute the matter online or by mail.",
+      "link": null
+    },
+    {
+      "q": "What is the deadline for disputing the invoice if I was not the driver?",
+      "a": "If you were not the driver of the vehicle at the time it was towed, you must submit the online form or your dissession letter at least 7 days before the due date on the towing invoice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:53Z",
+    "last_modified": "21 May 2025",
+    "html_sha1": "60892d8eed44a0f62c926a24676871453635bf82",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

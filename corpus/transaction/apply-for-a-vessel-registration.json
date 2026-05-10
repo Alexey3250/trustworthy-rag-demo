@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vessel-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vessel-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-vessel-registration",
+  "title": "Apply for a vessel registration",
+  "summary": "This page provides information on how to apply for a vessel registration to use a vessel on NSW waterways.",
+  "topics": [
+    "vessel-registration",
+    "nsw-waterways",
+    "boating",
+    "transport"
+  ],
+  "intro": "To use a vessel on NSW waterways, it must be registered if it:",
+  "who_can_apply": [
+    "Must be aged 16 or over to register a vessel."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Completed Application for Vessel Registration – PDF",
+    "HIN (Boat Code) certificate (if required, organize an inspection with a Boat Code Agent)",
+    "Proof of acquisition",
+    "Vessel registration fee and concession card (if applicable)",
+    "Letter of Agreement for Recreational Vessel Registration from Transport for NSW (if the vessel was acquired under specific circumstances)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Book an appointment' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to make an appointment at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your application in person at your selected service centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Application for Vessel Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072014-application-for-vessel-registration.pdf"
+    },
+    {
+      "text": "HIN (Boat Code) certificate",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    },
+    {
+      "text": "vessel registration fee and concession card (if applicable",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Boat and vessel registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a vessel registration?",
+      "a": "You must be aged 16 or over to register a vessel.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to register my vessel?",
+      "a": "You need your proof of identity, a completed Application for Vessel Registration – PDF, proof of acquisition, and the vessel registration fee and concession card (if applicable).",
+      "link": null
+    },
+    {
+      "q": "Do I need a HIN (Boat Code) certificate?",
+      "a": "A HIN (Boat Code) certificate is required if you need one, and you must organize an inspection with a Boat Code Agent.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:50Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "eadc61a4a5f6626ab3e354637685f0b67ca04e2a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-serviced-area",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-serviced-area",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-provisional-rider-licence-serviced-area",
+  "title": "Apply for a provisional rider licence (serviced area)",
+  "summary": "Learn how to apply for a provisional rider licence in a serviced area after completing the required pre-provisional rider training course.",
+  "topics": [
+    "provisional-rider-licence",
+    "motorcycle-licence",
+    "serviced-area",
+    "rider-training"
+  ],
+  "intro": "To upgrade to a provisional rider licence in a serviced area, you must first undertake the pre-provisional rider training course.\n\nThe course is a full-day course and includes a one-hour motorcycle operator skills test (MOST). When you successfully complete the course you'll be issued with a pre-provisional certificate of competence to take to your local Service NSW Centre.\n\nThe certificate is valid for 3 months.\n\nWhen you visit the service centre, you can apply for a NSW Photo Card at the same time if you wish, and take advantage of paying a reduced application fee for it.",
+  "who_can_apply": [
+    "Be aged 17 or over.",
+    "Have held a learner rider licence for at least 3 months.",
+    "Have successfully completed the pre-provisional rider training course with an approved motorcycle training provider."
+  ],
+  "what_you_need": [
+    "The PDF form – 'Licence Application'",
+    "Your pre-provisional certificate of competence",
+    "Your learner rider licence",
+    "Your contact lenses or glasses (if you wear them)",
+    "A current concession card (if applicable)",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and check the tick box to apply for a NSW Photo Card (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and lodge your application with your payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For rider licence applications, a receipt is provided which allows you to ride until the card arrives in the mail. The receipt is valid for 2 months.",
+      "link": null
+    },
+    {
+      "text": "The NSW Photo Card is voluntary – you don't have to have one, but you may find it useful to prove your identity in situations not related to riding/driving.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "find a rider training centre",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres/find-a-rider-training-centre"
+    },
+    {
+      "text": "motorcycle operator skills test (MOST)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/rider-tests/riding-test#toc-riders-in-declared-areas"
+    },
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-nsw-photo-card-fees"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Motorcycle riders' handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-10/48024416-motorcycle-riders-handbook-10-25.pdf"
+    },
+    {
+      "text": "Getting your rider licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/getting-your-rider-licence"
+    },
+    {
+      "text": "Rider training centre locations – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Book a motorcycle rider training course",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course"
+    },
+    {
+      "text": "Apply for a provisional rider licence (unserviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-unserviced-area"
+    },
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required before applying for a provisional rider licence?",
+      "a": "You must first complete the pre-provisional rider training course, which includes a one-hour motorcycle operator skills test (MOST).",
+      "link": null
+    },
+    {
+      "q": "How long is the pre-provisional certificate of competence valid for?",
+      "a": "The certificate is valid for 3 months.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for the licence?",
+      "a": "You need the 'Licence Application' PDF form, your pre-provisional certificate of competence, your learner rider licence, your contact lenses or glasses (if applicable), a current concession card (if applicable), and your payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:33Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "cac2dc10a9a9484431255e6570b4728e8ef025fc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

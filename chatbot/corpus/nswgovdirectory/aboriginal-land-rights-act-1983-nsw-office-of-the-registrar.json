@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-land-rights-act-1983-nsw-office-of-the-registrar",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-land-rights-act-1983-nsw-office-of-the-registrar",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "aboriginal-land-rights-act-1983-nsw-office-of-the-registrar",
+  "title": "Aboriginal Land Rights Act 1983 (NSW), Office of the Registrar",
+  "summary": "This page provides information about the Aboriginal Land Rights Act 1983 and the Office of the Registrar.",
+  "topics": [
+    "aboriginal-land-rights",
+    "act-1983",
+    "office-of-the-registrar"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.oralra.nsw.gov.au/",
+      "url": "https://www.oralra.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Aboriginal Affairs",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-affairs"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:37Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a9491871fc137146445c8588fcc70d764f1d952a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/heritage-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/heritage-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "heritage-council-of-nsw",
+  "title": "Heritage Council of NSW",
+  "summary": "This page provides information about the Heritage Council of NSW, an advisory committee.",
+  "topics": [
+    "heritage",
+    "council",
+    "nsw",
+    "advisory-committee"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.environment.nsw.gov.au/about-us/who-we-are/advisory-committees/heritage-council-of-nsw",
+      "url": "https://www.environment.nsw.gov.au/about-us/who-we-are/advisory-committees/heritage-council-of-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "548c6f8360bad6c3074c8422d6fa84b7c7aada1d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

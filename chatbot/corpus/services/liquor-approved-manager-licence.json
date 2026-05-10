@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/liquor-approved-manager-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/liquor-approved-manager-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "liquor-approved-manager-licence",
+  "title": "Liquor approved manager licence",
+  "summary": "This page provides information about the requirements and processes for obtaining a liquor approved manager licence.",
+  "topics": [
+    "liquor-licence",
+    "manager-licence",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be an individual responsible for managing a liquor licence and ensuring compliance with liquor laws."
+  ],
+  "what_you_need": [
+    "Information on the requirements and processes for obtaining the licence."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a liquor approved manager licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence"
+    },
+    {
+      "text": "Appoint a liquor approved manager",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a liquor approved manager licence?",
+      "a": "A liquor approved manager licence is required for individuals who manage a liquor licence and are responsible for ensuring compliance with liquor laws.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a liquor approved manager licence?",
+      "a": "You can apply for a liquor approved manager licence using the dedicated online transaction.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence"
+    },
+    {
+      "q": "What if I need to appoint a liquor approved manager?",
+      "a": "If you need to appoint a liquor approved manager for your premises, you can use the online appointment service.",
+      "link": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:07Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "5eb1bed8fb4baf7421a527230bb918a062cb6041",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

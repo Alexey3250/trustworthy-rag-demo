@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-outdoor-dining-approval",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-outdoor-dining-approval",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-outdoor-dining-approval",
+  "title": "Apply for outdoor dining approval",
+  "summary": "You can apply for a temporary expansion of your licensed boundaries to include a new outdoor dining area.",
+  "topics": [
+    "outdoor-dining",
+    "liquor-licence",
+    "business-expansion",
+    "temporary-approval"
+  ],
+  "intro": "You can apply for a temporary expansion of your licensed boundaries to include a new outdoor dining area.\n\nThere are 2 fast-track pathways to apply. The one you use depends on the type of land you want to use for outdoor dining and if you need council approval.\n\nOther types of land includes private and public land such as bowling greens and car parks adjacent to the licensed premises. You need to have the landholder's consent to use the land for outdoor dining.\n\nThere is no application fee for the temporary change of liquor licence boundary for outdoor dining.\n\nFor more information on outdoor dining areas and how to apply, visit Outdoor alfresco – liquor licence boundaries at Liquor & Gaming NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The landholder's consent is needed if the land is private or public (such as bowling greens or car parks) adjacent to the licensed premises."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Outdoor alfresco – liquor licence boundaries at Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/change-liquor-licence-boundaries"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:15Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "445e93ae6f30280244693c970b9b2835a83a764d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/gaming-machine-licences",
+  "source_url": "https://www.service.nsw.gov.au/referral/gaming-machine-licences",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "gaming-machine-licences",
+  "title": "Gaming machine licences",
+  "summary": "This page provides information about the regulatory framework and available licenses for activities related to gaming machines in NSW.",
+  "topics": [
+    "gaming-machines",
+    "licences",
+    "gambling",
+    "nsw-regulation"
+  ],
+  "intro": "In NSW the regulatory framework for gambling, casinos, wagering and lotteries is administered by Liquor & Gaming NSW. This includes compliance and enforcement activities and licensing certain activities.\n\nFor the manufacturing, selling, testing, and servicing of gaming machines, available licences are:\n\nFor details about the licences and how to apply, go to Liquor & Gaming NSW – Gaming-related licences.\n\nFor information about fees and payment, go to Liquor & Gaming NSW – Gaming machine licence and application fees.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW – Gaming-related licences.",
+      "url": "https://www.liquorandgaming.nsw.gov.au/operating-a-business/gaming-licences/gaming-licences-permits/gaming-related-licences"
+    },
+    {
+      "text": "Liquor & Gaming NSW – Gaming machine licence and application fees",
+      "url": "https://www.liquorandgaming.nsw.gov.au/operating-a-business/gaming-licences/gaming-machine-fees"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:32Z",
+    "last_modified": "3 February 2025",
+    "html_sha1": "25534f4f5104ac98a66ee6869110715f5da8c7cf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

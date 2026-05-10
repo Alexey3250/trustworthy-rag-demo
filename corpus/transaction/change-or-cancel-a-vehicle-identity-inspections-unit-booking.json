@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-vehicle-identity-inspections-unit-booking",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-vehicle-identity-inspections-unit-booking",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-or-cancel-a-vehicle-identity-inspections-unit-booking",
+  "title": "Change or cancel a Vehicle Identity & Inspections Unit booking",
+  "summary": "Find out how to change or cancel a booking with the Vehicle Identity & Inspections Unit (VIIU).",
+  "topics": [
+    "vehicle-identity-unit",
+    "booking",
+    "service-nsw"
+  ],
+  "intro": "If you'd like to change your booking with the Vehicle Identity & Inspections Unit (VIIU), please call us on 13 77 88 or visit a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "vehicle registration details",
+    "the booking date and time"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Book an inspection with the Vehicle Identity & Inspections Unit",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-inspection-with-the-vehicle-identity-inspections-unit"
+    },
+    {
+      "text": "Book a VIIU inspection for a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:28Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "7990066c1c95ad1e2dd1d9dd0e7142ba3ebc2053",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

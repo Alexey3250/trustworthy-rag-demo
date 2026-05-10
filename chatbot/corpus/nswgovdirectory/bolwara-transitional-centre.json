@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bolwara-transitional-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bolwara-transitional-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bolwara-transitional-centre",
+  "title": "Bolwara Transitional Centre",
+  "summary": "This page provides information about the Bolwara Transitional Centre.",
+  "topics": [
+    "bolwara-transitional-centre",
+    "corrective-services",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Balund-a (Tabulam)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/balund-a-tabulam"
+    },
+    {
+      "text": "Miruma",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/miruma"
+    },
+    {
+      "text": "Parramatta Transitional Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-transitional-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:37Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a305a57754f9660d775d8b0a2f3036a1a7e13e3d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

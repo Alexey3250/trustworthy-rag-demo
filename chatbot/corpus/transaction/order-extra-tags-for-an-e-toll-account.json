@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-extra-tags-for-an-e-toll-account",
+  "title": "Order extra tags for an E-Toll Account",
+  "summary": "Existing E-Toll Account holders can order extra tags or brackets online.",
+  "topics": [
+    "e-toll",
+    "account-management",
+    "tags",
+    "transport-for-nsw"
+  ],
+  "intro": "If you have an existing Transport for NSW (TfNSW) E-Toll Tag Account, you can order extra tags or brackets online.",
+  "who_can_apply": [
+    "Must be the account holder or an authorised contact person."
+  ],
+  "what_you_need": [
+    "Account details",
+    "Current postal address"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Tags'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Add TAG/material'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select the number of tags or brackets you want.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Submit your request.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "It's important that you fit your tag correctly to avoid the toll road operator fees that apply if your tag is not detected when you're using a toll road.",
+      "link": null
+    },
+    {
+      "text": "If you apply or replace a tag at a Service NSW Centre, you will not get a physical tag over the counter. Your tag will be posted to your nominated address within 5-7 business days.",
+      "link": null
+    },
+    {
+      "text": "You can use toll roads immediately following successful payment, provided you list a valid licence plate number on your account. Any vehicle matching fees incurred during this time will be re-credited to your E-Toll Tag Account and appear on your next statement cycle.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/managing-my-e-toll-account/logging"
+    },
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    },
+    {
+      "text": "Types of e-toll tags and how to install them",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/getting-started"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can order extra tags?",
+      "a": "You must be the account holder or an authorised contact person.",
+      "link": null
+    },
+    {
+      "q": "What payment methods are accepted?",
+      "a": "Payment methods include credit cards (Mastercard, Visa, American Express), debit cards (Mastercard, Visa), or direct debit from a bank account.",
+      "link": null
+    },
+    {
+      "q": "How do I order extra tags online?",
+      "a": "Select 'Order online', log in to your account, select 'Tags', choose 'Add TAG/material', select the desired number of tags or brackets, and submit your request.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:47Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "9104bdfc1cd0fbfead46e90439378985b7d3667f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

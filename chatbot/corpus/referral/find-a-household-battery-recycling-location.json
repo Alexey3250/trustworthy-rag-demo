@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-household-battery-recycling-location",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-household-battery-recycling-location",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-household-battery-recycling-location",
+  "title": "Find a household battery recycling location",
+  "summary": "Find out where and how to recycle various types of household batteries safely in NSW.",
+  "topics": [
+    "battery-recycling",
+    "household-waste",
+    "nsw-recycling",
+    "b-cycle"
+  ],
+  "intro": "You can recycle many types of household batteries at B-cycle drop-off locations around NSW. Batteries should not be placed into household waste or recycling bins as the chemicals and components could damage the environment or cause fires.\n\nAccepted batteries include:\n\nIf you have more than 1kg of batteries, call the drop-off location to see if they accept the types and quantity at that location.\n\nBatteries that cannot be recycled at B-cycle drop-off locations include:\n\nB-cycle is a national battery recycling initiative supported by the government.",
+  "who_can_apply": [
+    "Residents of NSW with household batteries to recycle"
+  ],
+  "what_you_need": [
+    "Household batteries (including lithium-ion and lead-acid)",
+    "If you have more than 1kg of batteries, call the drop-off location to confirm acceptance of types and quantity."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "B-cycle website",
+      "url": "https://bcycle.com.au/drop-off/"
+    },
+    {
+      "text": "Community Recycling Centre",
+      "url": "https://www.epa.nsw.gov.au/your-environment/recycling-and-reuse/household-recycling-overview/community-recycling-centres"
+    },
+    {
+      "text": "Household Chemical Clean Out",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/household-recycling-overview/household-chemical-cleanout"
+    },
+    {
+      "text": "Community Recycling Centre embedded batteries trial",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/household-recycling-overview/Embedded-batteries"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I recycle household batteries?",
+      "a": "You can recycle many types of household batteries at B-cycle drop-off locations around NSW.",
+      "link": "https://bcycle.com.au/drop-off/"
+    },
+    {
+      "q": "What types of batteries can I recycle?",
+      "a": "Accepted batteries include lithium-ion and lead-acid batteries.",
+      "link": null
+    },
+    {
+      "q": "What batteries should I not put in household waste?",
+      "a": "Batteries should not be placed into household waste or recycling bins because their chemicals and components could damage the environment or cause fires.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:22Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "9a4cc62c3cc702f2c1fddc97e86bfbbe357d0d99",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

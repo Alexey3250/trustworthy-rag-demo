@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-connect",
+  "source_url": "https://www.service.nsw.gov.au/business/business-connect",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "business-connect",
+  "title": "Service NSW Business Connect",
+  "summary": "This page provides resources and support for businesses to help them grow and succeed.",
+  "topics": [
+    "business-support",
+    "small-business",
+    "business-growth",
+    "resources"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "Search for resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:46Z",
+    "last_modified": "19 March 2026",
+    "html_sha1": "e68e6e467d379f5e87a1105fa3dc1f7478d034dd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

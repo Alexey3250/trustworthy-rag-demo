@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/mount-druitt-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/mount-druitt-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "mount-druitt-community-services-centre",
+  "title": "Mount Druitt Community Services Centre",
+  "summary": "This page provides contact information and details for the Mount Druitt Community Services Centre.",
+  "topics": [
+    "community-services",
+    "support-centre",
+    "mount-druitt"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:37Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "344fb036d92a5a8e33fefb90692210d401b82e94",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-qualified-supervisors-certificate",
+  "title": "Check a qualified supervisor's certificate",
+  "summary": "You can check a qualified supervisor's certificate or search for your own certificate details online.",
+  "topics": [
+    "qualified-supervisor-certificate",
+    "service-nsw",
+    "check-certificate",
+    "trade-licence"
+  ],
+  "intro": "You can check a qualified supervisor's certificate or search for your own certificate details online.\n\nTo check a qualified supervisor's digital certificate, refer to Check a digital trade licence or credential in the Service NSW app.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "certificate holder's name",
+    "certificate number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)",
+    "Any of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    },
+    {
+      "text": "Apply for a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change address and contact details on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check a qualified supervisor's digital certificate?",
+      "a": "Refer to Check a digital trade licence or credential in the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:52Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "19b6f138034332fc0f8832269f5d58642dfb8145",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

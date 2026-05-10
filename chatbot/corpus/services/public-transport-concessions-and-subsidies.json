@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies",
+  "source_url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "public-transport-concessions-and-subsidies",
+  "title": "Public transport concessions and subsidies",
+  "summary": "Find information about concessions and subsidies for public transport in NSW.",
+  "topics": [
+    "public-transport",
+    "concessions",
+    "subsidies",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Children aged 3 years and under",
+    "Children aged 4–15 years",
+    "Full-time students aged 16 years and older",
+    "Primary and secondary students in NSW",
+    "Tertiary and TAFE students",
+    "Apprentices and trainees",
+    "Pensioners and seniors",
+    "Centrelink customers",
+    "Asylum seekers",
+    "People with vision impairment",
+    "Veterans"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "school student travel at Transport for NSW",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/school-student-travel"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "tertiary and TAFE students",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-tertiary-and-tafe-students"
+    },
+    {
+      "text": "apprentices and trainees",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-apprentices-and-trainees"
+    },
+    {
+      "text": "pensioners and seniors",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-seniors-and-pensioners"
+    },
+    {
+      "text": "Centrelink customers",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-job-seekers-and-centrelink-customers"
+    },
+    {
+      "text": "asylum seekers",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-asylum-seekers"
+    },
+    {
+      "text": "people with vision impairment",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-vision-impaired-persons"
+    },
+    {
+      "text": "war widows and widowers",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-veterans-or-war-widow-ers"
+    },
+    {
+      "text": "ex-defence personnel with a disability",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-ex-defence-personnel-with-a-disability"
+    },
+    {
+      "text": "DVA Gold Card holders",
+      "url": "https://www.service.nsw.gov.au/referral/travel-concessions-dva-veteran-gold-card-holders"
+    },
+    {
+      "text": "take an assistance animal on public transport in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-an-assistance-animal-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do children travel free on public transport in NSW?",
+      "a": "Children aged 3 years and under travel free on public transport in NSW.",
+      "link": null
+    },
+    {
+      "q": "What concessions are available for students?",
+      "a": "Children aged 4–15 years can use the child/youth Opal card for concession fares, and full-time students aged 16 years and older can pay concession fares with an eligible student ID or a Transport Concession Entitlement Card.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for adult concessions?",
+      "a": "Adult concessions are available for tertiary and TAFE students, apprentices and trainees, pensioners and seniors, Centrelink customers, asylum seekers, people with vision impairment, and Veterans.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:57Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "e76c13054f2d37d3ad36bed6669a48220649c5f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/responsible-service-of-alcohol-rsa-training",
+  "source_url": "https://www.service.nsw.gov.au/referral/responsible-service-of-alcohol-rsa-training",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "responsible-service-of-alcohol-rsa-training",
+  "title": "Undertake Responsible Service of Alcohol (RSA) training",
+  "summary": "Find information and resources regarding the mandatory Responsible Service of Alcohol (RSA) training required for working at licensed premises in NSW.",
+  "topics": [
+    "responsible-service-of-alcohol",
+    "rsa-training",
+    "licensed-premises",
+    "alcohol-service"
+  ],
+  "intro": "If you're going to work at a licensed premises (a place that sells alcohol), you must complete training in the Responsible Service of Alcohol (RSA).\n\nIf you don't have proof that you've completed the RSA training required for working in a licensed premises, you could be fined.",
+  "who_can_apply": [
+    "Working at a licensed premises (a place that sells alcohol)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "find an approved training provider",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/find-a-training-provider"
+    },
+    {
+      "text": "Liquor & Gaming NSW: Training",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for an RSA competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply for an RSA competency card (NSW RSA bridging applicants)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-competency-card-nsw-rsa-bridging-applicants"
+    },
+    {
+      "text": "Access the RSA, RCG and ARCG course management portal",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-rsa-rcg-arcg-training-courses"
+    },
+    {
+      "text": "Renew an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Update details on an RSA/RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need RSA training?",
+      "a": "Yes, if you plan to work at a licensed premises (a place that sells alcohol), you must complete Responsible Service of Alcohol (RSA) training.",
+      "link": null
+    },
+    {
+      "q": "What happens if I don't have proof of RSA training?",
+      "a": "If you do not have proof that you have completed the required RSA training, you could be fined.",
+      "link": null
+    },
+    {
+      "q": "Where can I find an approved training provider?",
+      "a": "You can find an approved training provider through the official NSW government website.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/find-a-training-provider"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:23Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "8e282508a71424b0ec879bcf36c60ae4aa2cf723",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

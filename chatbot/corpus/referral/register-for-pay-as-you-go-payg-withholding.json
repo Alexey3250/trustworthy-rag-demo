@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-pay-as-you-go-payg-withholding",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-pay-as-you-go-payg-withholding",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-pay-as-you-go-payg-withholding",
+  "title": "Register for Pay As You Go (PAYG) withholding",
+  "summary": "This page explains what Pay As You Go (PAYG) withholding is and when you must register for it if you make payments to certain workers.",
+  "topics": [
+    "pay-as-you-go",
+    "withholding",
+    "tax",
+    "ato",
+    "payments"
+  ],
+  "intro": "Pay As You Go (PAYG) withholding is a tax on your workers’ income that you help the Australian Taxation Office (ATO) to collect.\n\nYou need to withhold tax if you make payments to any of the following:\n\nYou must register for PAYG withholding before you need to make a payment that is subject to withholding.\n\nVisit the ATO's PAYG withholding for more information.",
+  "who_can_apply": [
+    "You must withhold tax if you make payments to any of the following workers."
+  ],
+  "what_you_need": [
+    "You must register for PAYG withholding before you make a payment that is subject to withholding."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "register for PAYG withholding",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/starting-registering-or-closing-a-business/registration-obligations-for-businesses/work-out-which-registrations-you-need/taxation-registrations/pay-as-you-go-withholding"
+    },
+    {
+      "text": "payment that is subject to withholding",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/payg-withholding/payments-you-need-to-withhold-from"
+    },
+    {
+      "text": "PAYG withholding",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/payg-withholding"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is PAYG withholding?",
+      "a": "PAYG withholding is a tax on your workers’ income that you help the Australian Taxation Office (ATO) to collect.",
+      "link": null
+    },
+    {
+      "q": "When do I need to register for PAYG withholding?",
+      "a": "You must register for PAYG withholding before you need to make a payment that is subject to withholding.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about PAYG withholding?",
+      "a": "You can visit the ATO's PAYG withholding page for more information.",
+      "link": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/payg-withholding"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:37Z",
+    "last_modified": "6 February 2025",
+    "html_sha1": "39ed8076b01f7832634311f980c0a51843db2945",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

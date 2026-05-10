@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-public-weighbridge",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-public-weighbridge",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-public-weighbridge",
+  "title": "Find a public weighbridge",
+  "summary": "Find information about public weighbridges used to determine vehicle mass and check compliance with NSW transport regulations.",
+  "topics": [
+    "weighbridge",
+    "vehicle-weight",
+    "nsw-transport",
+    "mass-measurement"
+  ],
+  "intro": "Weighbridges are used to determine the mass of a vehicle, including the prime mover and connected trailer/s. They can also be used to separately record the weight of axles (or groups of axles) to ensure compliance with NSW transport regulations.\n\nFor locations and information about public weighbridges, visit the National Measurement Institute website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Measurement Institute website",
+      "url": "https://www.measurement.gov.au/Industry/Licensees/Pages/I-need-a-public-weighbridge-licensee.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:11Z",
+    "last_modified": "4 December 2024",
+    "html_sha1": "7bb6d7d2ed17517dbe2f133765007fa6d622a350",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

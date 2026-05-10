@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-guidelines",
+  "source_url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-guidelines",
+  "category": "flood-recovery-back-home-grant-guidelines",
+  "article_kind": "content",
+  "slug": "flood-recovery-back-home-grant-guidelines",
+  "title": "Flood recovery Back Home grant – Guidelines",
+  "summary": "This page provides guidelines for the Back Home grant, detailing eligibility, funding, and the assessment process for flood recovery assistance.",
+  "topics": [
+    "flood-recovery",
+    "back-home-grant",
+    "disaster-assistance",
+    "housing-support"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The guidelines specify who is eligible for the Back Home grant following a flood event.",
+    "Eligibility criteria are detailed within the document."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://applications.fairtrading.nsw.gov.au/accomregister/"
+    },
+    {
+      "text": "NSW Fair Trading website",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the Back Home grant?",
+      "a": "The Back Home grant provides assistance to help people recover after a flood event.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for the grant?",
+      "a": "Eligibility criteria are detailed in the guidelines, covering who can apply for assistance.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the grant?",
+      "a": "The assessment and approval process outlines the steps required to apply for and receive the grant.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:44Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "863dee3e53a0a6ee63c2b5d468dc48bb90aa50ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

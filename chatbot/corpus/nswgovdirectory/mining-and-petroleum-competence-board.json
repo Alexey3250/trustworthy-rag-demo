@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/mining-and-petroleum-competence-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/mining-and-petroleum-competence-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "mining-and-petroleum-competence-board",
+  "title": "Mining and Petroleum Competence Board",
+  "summary": "This page provides information about the Mining and Petroleum Competence Board.",
+  "topics": [
+    "mining",
+    "petroleum",
+    "competence-board",
+    "resources"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.resourcesregulator.nsw.gov.au/our-role/other-functions/mining-and-petroleum-competence-board",
+      "url": "https://www.resourcesregulator.nsw.gov.au/our-role/other-functions/mining-and-petroleum-competence-board"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Resources Regulator NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/resources-regulator-nsw"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:40Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "faadaa916a8042ec0031226f8d0425bc0d13cc3e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

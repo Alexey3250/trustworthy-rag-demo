@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/powerhouse-museum-museum-of-applied-arts-and-sciences",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/powerhouse-museum-museum-of-applied-arts-and-sciences",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "powerhouse-museum-museum-of-applied-arts-and-sciences",
+  "title": "Powerhouse Museum (Museum of Applied Arts and Sciences)",
+  "summary": "This page provides information about the Powerhouse Museum (Museum of Applied Arts and Sciences).",
+  "topics": [
+    "museum",
+    "arts",
+    "science",
+    "culture"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://powerhouse.com.au/",
+      "url": "https://powerhouse.com.au/"
+    },
+    {
+      "text": "Venue hire contact",
+      "url": "https://powerhouse.com.au/contact"
+    },
+    {
+      "text": "Education and school visits",
+      "url": "https://powerhouse.com.au/visit"
+    },
+    {
+      "text": "Sydney Observatory",
+      "url": "https://powerhouse.com.au/visit/sydney-observatory"
+    },
+    {
+      "text": "Exhibitions and Events",
+      "url": "https://powerhouse.com.au/events"
+    },
+    {
+      "text": "Collections Database",
+      "url": "https://collection.powerhouse.com.au/"
+    },
+    {
+      "text": "Powerhouse – Castle Hill",
+      "url": "https://powerhouse.com.au/visit/castle-hill"
+    },
+    {
+      "text": "Research library",
+      "url": "https://powerhouse.com.au/research"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Powerhouse Museum?",
+      "a": "The Powerhouse Museum (Museum of Applied Arts and Sciences) is located at the Powerhouse.",
+      "link": null
+    },
+    {
+      "q": "What kind of activities does the Powerhouse offer?",
+      "a": "The Powerhouse offers exhibitions and events, and has a collections database.",
+      "link": "https://powerhouse.com.au/events"
+    },
+    {
+      "q": "Do they offer educational visits?",
+      "a": "Yes, the Powerhouse offers education and school visits.",
+      "link": "https://powerhouse.com.au/visit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "94b2ee2f9cdeb85513f434341d45acdddddd8959",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

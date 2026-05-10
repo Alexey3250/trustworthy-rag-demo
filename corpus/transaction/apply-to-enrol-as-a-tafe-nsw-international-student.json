@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-as-a-tafe-nsw-international-student",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-enrol-as-a-tafe-nsw-international-student",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-enrol-as-a-tafe-nsw-international-student",
+  "title": "Apply to enrol as a TAFE NSW international student",
+  "summary": "Find out how to apply for enrolment as an international student at TAFE NSW.",
+  "topics": [
+    "tafe-nsw",
+    "international-student",
+    "enrolment",
+    "australia"
+  ],
+  "intro": "TAFE (Technical and Further Education) provides a range of courses for international students including:\n\nCampuses are located in Sydney and throughout regional areas, and each location has its own range of courses and facilities.\n\nIf you'd like to apply for enrolment as an international student in TAFE NSW, you can register and apply online through the TAFE NSW International Application Manager.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Completed TAFE NSW application form for your selected course",
+    "Copy of your passport",
+    "Copies of your academic transcripts/certificates",
+    "Copies of your Australian visas",
+    "Evidence of your English proficiency (if applicable)",
+    "Any additional documents to meet the entry requirements for your selected course",
+    "Certified translations of all supporting documents that are not in English"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Register and/or log in to the TAFE NSW International Application Manager.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online requirements.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete TAFE NSW International student application – PDF.",
+      "link": "https://cd.tafensw.edu.au/api/-/media/Files/PDFs/International/International-Student-Application-Form.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Gather your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Email your application to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you meet the admission requirements as assessed by TAFE NSW, you'll receive a letter of offer.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "selected course",
+      "url": "https://www.tafensw.edu.au/international/courses"
+    },
+    {
+      "text": "Australian visas",
+      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/student-500"
+    },
+    {
+      "text": "entry requirements",
+      "url": "https://www.tafensw.edu.au/international/apply/entry-requirements"
+    },
+    {
+      "text": "TAFE NSW International student application – PDF",
+      "url": "https://cd.tafensw.edu.au/api/-/media/Files/PDFs/International/International-Student-Application-Form.pdf"
+    },
+    {
+      "text": "TAFE NSW International student guide – PDF",
+      "url": "https://cd.tafensw.edu.au/api/-/media/Files/PDFs/International/tafe-nsw-international-student-guide.pdf"
+    },
+    {
+      "text": "TAFE NSW International",
+      "url": "https://www.tafensw.edu.au/international"
+    },
+    {
+      "text": "Locations – TAFE NSW International",
+      "url": "https://www.tafensw.edu.au/international/locations"
+    },
+    {
+      "text": "Living in NSW – TAFE NSW International",
+      "url": "https://www.tafensw.edu.au/international/study/living-in-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Support for international students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where are TAFE NSW campuses located?",
+      "a": "TAFE NSW campuses are located in Sydney and throughout regional areas.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for TAFE NSW?",
+      "a": "You need the completed TAFE NSW application form, a copy of your passport, copies of your academic transcripts/certificates, copies of your Australian visas, evidence of English proficiency (if applicable), and any additional documents to meet entry requirements.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to TAFE NSW as an international student?",
+      "a": "You can apply online by registering and/or logging in to the TAFE NSW International Application Manager, completing the online requirements, downloading and completing the application form, gathering supporting documentation, and emailing your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:13Z",
+    "last_modified": "4 November 2025",
+    "html_sha1": "ff12b61b0ae3710672dcc162ea0ecbf9d68fac65",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

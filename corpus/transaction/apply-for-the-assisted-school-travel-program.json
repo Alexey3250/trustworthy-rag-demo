@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-assisted-school-travel-program",
+  "title": "Apply for the Assisted School Travel Program",
+  "summary": "Find out if your child, a student with a disability in NSW, can receive travel assistance through the Assisted School Travel Program.",
+  "topics": [
+    "school-disability",
+    "travel-assistance",
+    "nsw-education"
+  ],
+  "intro": "School students living with disability who are enrolled in school in NSW may be able to get assistance with travel through the Assisted School Travel Program (ASTP).\n\nStudents also need to:\n\nParents and carers can apply for the ASTP through their child’s school.\n\nFor more information read the Assisted School Travel Program Guidelines.",
+  "who_can_apply": [
+    "School students living with disability who are enrolled in school in NSW."
+  ],
+  "what_you_need": [
+    "Parents and carers must apply for the ASTP through their child’s school."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Assisted School Travel Program Guidelines",
+      "url": "https://education.nsw.gov.au/policy-library/policies/pd-2024-0482-04"
+    },
+    {
+      "text": "NDIS website",
+      "url": "https://www.ndis.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:04Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "e364002b389a8d65c1adb41d1582bbcc44981ea8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

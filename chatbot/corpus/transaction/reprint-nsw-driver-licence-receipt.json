@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt",
+  "source_url": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "reprint-nsw-driver-licence-receipt",
+  "title": "Reprint a NSW Driver Licence Receipt",
+  "summary": "You can reprint a lost, damaged, or misplaced temporary paper NSW Driver Licence Receipt online using your MyServiceNSW Account.",
+  "topics": [
+    "driver-licence",
+    "nsw",
+    "reprint",
+    "receipt"
+  ],
+  "intro": "If you've renewed or replaced your NSW Driver Licence within the last month, and you've lost, damaged or misplaced your temporary paper licence (known as a Driver Licence Receipt), you can reprint it online using your MyServiceNSW Account.",
+  "who_can_apply": [
+    "Must have renewed or replaced your NSW Driver Licence within the last month."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Driver licence or vehicle registration details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Reprint online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your driver licence or vehicle registration details if your account is new or you have not previously entered them.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download your temporary paper licence PDF.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your temporary paper licence is valid for 2 months from the date you renewed or replaced your driver licence.",
+      "link": null
+    },
+    {
+      "text": "If you've still got your old licence card, it's a good idea to carry it with your temporary paper licence until your new licence card arrives in the post.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "How to create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "Replace a NSW Driver Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can reprint their temporary driver licence receipt?",
+      "a": "You must have renewed or replaced your licence within the last month.",
+      "link": null
+    },
+    {
+      "q": "What do I need to reprint my receipt?",
+      "a": "You need a MyServiceNSW Account and either your driver licence or vehicle registration details.",
+      "link": null
+    },
+    {
+      "q": "How do I reprint my temporary paper licence?",
+      "a": "Select the 'Reprint online' button, log in or create your MyServiceNSW Account, enter your details, and download the PDF.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:19Z",
+    "last_modified": "8 August 2025",
+    "html_sha1": "d65a3733903a01591700159c46a6676372c99900",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

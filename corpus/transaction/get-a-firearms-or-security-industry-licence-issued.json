@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-a-firearms-or-security-industry-licence-issued",
+  "title": "Get a firearms or security industry licence issued",
+  "summary": "If you have been approved for a firearms or security industry licence by NSW Police Force, you must visit a Service NSW Centre to have your Photograph Advice processed and your licence issued.",
+  "topics": [
+    "firearms-licence",
+    "security-licence",
+    "nsw-police-force"
+  ],
+  "intro": "If you've been approved for a firearms or security industry licence by NSW Police Force visit a Service NSW Centre to have your Photograph Advice processed and licence issued.\n\nYou'll need to attend a service centre before the expiry date. If the Photograph Advice expires before you attend a service centre contact the NSW Police Force as you may be required to submit another application.",
+  "who_can_apply": [
+    "You must have been approved for a firearms or security industry licence by NSW Police Force."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your current Photograph Advice (issued by NSW Police Force)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your Photograph Advice and proof of identity documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Have your photo taken.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "From 1 July 2022, regulation of the commercial agent industry moved from the NSW Police Force to NSW Fair Trading. Visit the NSW Fair Trading website for details of Commercial agent licensing and field agent rules in NSW",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/133193/FACT_SHEET_100_PT_ID.pdf"
+    },
+    {
+      "text": "Commercial agent licensing and field agent rules in NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    },
+    {
+      "text": "Online Firearms Licence Application Request",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my Photograph Advice expires?",
+      "a": "If your Photograph Advice expires before you attend a service centre, contact the NSW Police Force, as you may be required to submit another application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:04Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "361a6045c445f083322526ed65f113367ba1e506",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

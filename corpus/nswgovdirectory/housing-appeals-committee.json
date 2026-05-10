@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/housing-appeals-committee",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/housing-appeals-committee",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "housing-appeals-committee",
+  "title": "Housing Appeals Committee, NSW",
+  "summary": "This page provides information about the Housing Appeals Committee, which helps people appeal decisions made by social housing providers.",
+  "topics": [
+    "housing",
+    "appeals",
+    "social-housing",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must have had a decision made by a social housing provider that you wish to appeal."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/housing-appeals-committee",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/housing-appeals-committee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Appeal a social housing provider decision",
+      "url": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Housing Appeals Committee?",
+      "a": "The Housing Appeals Committee is a body that helps people appeal decisions made by social housing providers.",
+      "link": null
+    },
+    {
+      "q": "Who can appeal a social housing provider decision?",
+      "a": "Anyone who has had a decision made by a social housing provider can appeal it.",
+      "link": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    },
+    {
+      "q": "How do I appeal a social housing provider decision?",
+      "a": "You can appeal a decision by following the steps outlined for appealing a social housing provider decision.",
+      "link": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "47bcab8afa90f4dba33dc81326ef42a4ddf9059d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

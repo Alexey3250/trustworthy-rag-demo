@@ -1,0 +1,162 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-or-restore-vessel-registration",
+  "title": "Renew or restore a vessel registration",
+  "summary": "You can renew or restore your vessel registration online if you have received a renewal notice.",
+  "topics": [
+    "vessel-registration",
+    "renew-registration",
+    "boating"
+  ],
+  "intro": "If you have a vessel registration, and you've been sent a renewal notice, you can renew the rego on or before the expiry date, online.\n\nNote: If more than 90 days have passed since the expiry date, you cannot renew online. You'll need to either visit a Service NSW Centre or call us on 13 77 88.\n\nYou're also able to update your contact details when renewing, if applicable.",
+  "who_can_apply": [
+    "You must have a vessel registration and have been sent a renewal notice."
+  ],
+  "what_you_need": [
+    "Your registration number",
+    "The renewal number on your renewal notice"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your registration number and renewal number as shown on your renewal notice. (If you don't have your renewal number, select 'Don't have?' and enter your name, birth date and postcode.)",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Confirm the details of your licence.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Read and confirm the declaration.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "visit a service centre, or",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 9,
+      "text": "call 13 77 88",
+      "link": "tel:137788"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can access a digital version of your boat driving licence and manage your vessel registration through the Service NSW app.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Boating Handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/boating-handbook.pdf"
+    },
+    {
+      "text": "How to register a vessel – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/how-to-register"
+    },
+    {
+      "text": "Find a Boatcode agent – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/find-a-boatcode-agent"
+    },
+    {
+      "text": "Boating Industry Association of NSW",
+      "url": "https://www.bia.org.au/"
+    },
+    {
+      "text": "Australian Maritime Safety Authority",
+      "url": "https://www.amsa.gov.au/"
+    },
+    {
+      "text": "Boat ramp locations NSW – Transport for NSW",
+      "url": "https://maps.transport.nsw.gov.au/egeomaps/boat-ramps-map/index.html"
+    },
+    {
+      "text": "Lifejackets and safety equipment – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    },
+    {
+      "text": "Cancel a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration"
+    },
+    {
+      "text": "Check a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if more than 90 days have passed since my expiry date?",
+      "a": "If more than 90 days have passed since the expiry date, you cannot renew online. You must visit a Service NSW Centre or call 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my vessel registration online?",
+      "a": "Select 'Renew online', enter your registration and renewal numbers, confirm details, and enter your payment information.",
+      "link": null
+    },
+    {
+      "q": "What do I need to renew my registration?",
+      "a": "You need your registration number and the renewal number from your renewal notice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:44Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "552967f52dedf9ce941bd9b7073ea7bffe190309",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

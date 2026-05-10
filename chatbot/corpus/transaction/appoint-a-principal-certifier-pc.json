@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "appoint-a-principal-certifier-pc",
+  "title": "Appoint a principal certifier (PC)",
+  "summary": "This page provides information about principal certifiers (PCs), including who they are, what they do, and checks you should complete before appointing one.",
+  "topics": [
+    "building-surveyor",
+    "principal-certifier",
+    "construction-standards",
+    "building-inspection"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The building certifiers public register",
+    "The disciplinary register",
+    "The contract for certification work",
+    "The document accompanying the contract with the certifier",
+    "Contacting your local council",
+    "Visiting the planning portal"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For help with the Building Certifiers Public Register, contact the certifiers’ registration team by emailing certifierregistration@customerservice.nsw.gov.au.\n\nIf you have feedback or an enquiry contact the agency providing the service.\n\nContact agency: Building Commission NSW",
+  "more_info": [
+    {
+      "text": "Finding and appointing a certifier",
+      "link": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/finding-and-appointing"
+    },
+    {
+      "text": "What certifiers do",
+      "link": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/what-certifiers-do"
+    },
+    {
+      "text": "Complaints about certifiers",
+      "link": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/complaints"
+    },
+    {
+      "text": "Concerns about neighbouring development.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/what-to-do-if-youre-concerned-about-neighbouring-development"
+    },
+    {
+      "text": "To find out about certifiers, enforcement powers, how to replace a certifier and resolving concerns about a certifier, visit the Building Commission NSW website:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "building certifiers public register",
+      "url": "https://applications.fairtrading.nsw.gov.au/bdcregister/"
+    },
+    {
+      "text": "disciplinary register",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/certifier-disciplinary-register"
+    },
+    {
+      "text": "Information about registered certifiers – building surveyors and building inspectors – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-09/information-about-registered-certifiers-building-surveyors-and-building-inspectors.pdf"
+    },
+    {
+      "text": "what to look for in a building contract",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/contracts"
+    },
+    {
+      "text": "contact your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "planning portal",
+      "url": "https://www.planningportal.nsw.gov.au/development-and-assessment/post-consent-certificates"
+    },
+    {
+      "text": "Finding and appointing a certifier",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/finding-and-appointing"
+    },
+    {
+      "text": "What certifiers do",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/what-certifiers-do"
+    },
+    {
+      "text": "Complaints about certifiers",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/complaints"
+    },
+    {
+      "text": "Concerns about neighbouring development",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/what-to-do-if-youre-concerned-about-neighbouring-development"
+    },
+    {
+      "text": "Building Commission NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/building-and-renovating"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "occupation certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate"
+    },
+    {
+      "text": "find a principal certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "text": "Replace a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can be appointed as a principal certifier?",
+      "a": "A principal certifier can be a registered building surveyor, your local council, or a registered body corporate (certification company).",
+      "link": null
+    },
+    {
+      "q": "What does a principal certifier do?",
+      "a": "They oversee the construction phase of the development and complete mandatory building inspections, known as critical stage inspections, to ensure that building standards are met.",
+      "link": null
+    },
+    {
+      "q": "What checks should I complete before appointing a certifier?",
+      "a": "You should go to the building certifiers public register, check the disciplinary register for actions taken against the certifier, carefully read the contract, and read the accompanying document.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:57Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "20c58c174167839d72fc56b4ebb8dc15dcf6dece",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

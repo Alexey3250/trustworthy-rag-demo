@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/moree-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/moree-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "moree-community-services-centre",
+  "title": "Moree Community Services Centre",
+  "summary": "This page provides information about the Moree Community Services Centre, which offers various community services.",
+  "topics": [
+    "community-services",
+    "moree",
+    "nsw-department-of-justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:50Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "feec7afca9f49c1ebd8d9fafeaa788684a945b76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

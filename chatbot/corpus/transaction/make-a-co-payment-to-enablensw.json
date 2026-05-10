@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-co-payment-to-enablensw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-co-payment-to-enablensw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-co-payment-to-enablensw",
+  "title": "Make a co-payment to EnableNSW",
+  "summary": "This page provides information on making a co-payment if you receive assistance from EnableNSW.",
+  "topics": [
+    "enable-nsw",
+    "co-payment",
+    "assistive-technology",
+    "financial-assistance"
+  ],
+  "intro": "If you receive assistance from EnableNSW, you may be required to make a co-payment.\n\nAccess to the service is means tested for adults for most categories of assistive technology, so the co-payment amount will vary depending on your financial status.\n\nIf you're registered with EnableNSW and have used the service in the last 12 months, you'll be contacted in writing if you're required to make a co-payment.\n\nYou can make a payment by phone on 1800 ENABLE (1800 362 253), or discuss other payment options when you call.\n\nGo to EnableNSW to learn more",
+  "who_can_apply": [
+    "Must be an adult receiving assistance from EnableNSW.",
+    "The co-payment amount depends on your financial status (means tested)."
+  ],
+  "what_you_need": [
+    "Contact information for payment: 1800 ENABLE (1800 362 253)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Go to EnableNSW to learn more",
+      "url": "https://www.enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW/eligibility-and-financial-criteria"
+    },
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Forms and funding criteria by program – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/prescribers/forms"
+    },
+    {
+      "text": "Applying for EnableNSW – NSW Health",
+      "url": "https://enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find out if I need to make a co-payment?",
+      "a": "If you are registered with EnableNSW and have used the service in the last 12 months, you will be contacted in writing if you are required to make a co-payment.",
+      "link": null
+    },
+    {
+      "q": "How can I make the co-payment?",
+      "a": "You can make a payment by calling 1800 ENABLE (1800 362 253), or you can discuss other payment options when you call.",
+      "link": null
+    },
+    {
+      "q": "Is the co-payment amount the same for everyone?",
+      "a": "No, access to the service is means tested for adults for most categories of assistive technology, so the co-payment amount will vary depending on your financial status.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:39Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "c79d4dc71c2cf6bd4ff1de076a6c8838cc82d96b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-coffs-harbour",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-coffs-harbour",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "aboriginal-housing-office-coffs-harbour",
+  "title": "Aboriginal Housing Office Coffs Harbour",
+  "summary": "This page provides contact and location details for the Aboriginal Housing Office in Coffs Harbour.",
+  "topics": [
+    "aboriginal-housing",
+    "coffs-harbour",
+    "nsw-directory",
+    "housing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.aho.nsw.gov.au/",
+      "url": "https://www.aho.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Aboriginal Housing Office (Parramatta Head Office)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-parramatta-head-office"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:04Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5ab6378509607774a9db3aa1e9a3863225b745e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

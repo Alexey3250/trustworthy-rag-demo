@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/update-name-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/update-name-digital-id",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "update-name-digital-id",
+  "title": "Update your name on your NSW Digital ID",
+  "summary": "This page guides you through the process of updating your name on your NSW Digital ID within your MyServiceNSW Account.",
+  "topics": [
+    "nsw-digital-id",
+    "update-name",
+    "myservicensw-account",
+    "identity"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "MyServiceNSW Account login details",
+    "Documents proving your new name"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to ‘Manage account’.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Go to ‘Security and settings’",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Go to ‘Manage NSW Digital ID’.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Deactivate' and follow the instructions to remove your NSW Digital ID.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Go to ‘Manage NSW Digital ID’.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Go to ‘Settings and security’.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select ‘Create NSW Digital ID’. Follow the instructions to verify your identity with documents in your new name.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "About the NSW Digital ID",
+      "link": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "Create your NSW Digital ID",
+      "link": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "Deactivate your NSW Digital ID",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-digital-id"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Privacy collection notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "change your name on your identity documents",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "About the NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "Create your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "Deactivate your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-digital-id"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I update my name on my NSW Digital ID?",
+      "a": "You must log in to your MyServiceNSW Account, go to 'Manage account', then 'Security and settings', and finally 'Manage NSW Digital ID'. You can then follow the instructions to verify your identity with documents in your new name.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I need to remove my NSW Digital ID first?",
+      "a": "You can select 'Deactivate' and follow the instructions to remove your NSW Digital ID before proceeding with the update.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-digital-id"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:34Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "45b103218187b597c140c5f4890f4be4dbae20ac",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

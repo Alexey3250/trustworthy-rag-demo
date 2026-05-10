@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/flood-appointment-privacy",
+  "source_url": "https://www.service.nsw.gov.au/flood-appointment-privacy",
+  "category": "flood-appointment-privacy",
+  "article_kind": "content",
+  "slug": "flood-appointment-privacy",
+  "title": "Flood Disaster Recovery appointment based customer care — Privacy Collection Notice",
+  "summary": "This page explains how Service NSW collects and uses personal information to assist citizens with disaster recovery.",
+  "topics": [
+    "disaster-recovery",
+    "privacy",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": "Service NSW (in partnership with NSW Reconstruction Authority and your local council) are collecting your personal information to assist with disaster recovery. The personal information you provide is collected and held by Service NSW (McKell Building, 2-24 Rawson Pl, Haymarket NSW 2000).\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy page",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "Service NSW collects your information to provide immediate disaster recovery assistance, assess your current situation, provide necessary services, and follow up on your situation.",
+      "link": null
+    },
+    {
+      "q": "What personal information do you collect?",
+      "a": "They collect your full name, date of birth, phone number, email address, optional Aboriginal and/or Torres Strait Islander origin, total number of people living on the impacted property, and primary language at home.",
+      "link": null
+    },
+    {
+      "q": "Who will receive my personal information?",
+      "a": "The information may be shared with NSW Reconstruction Authority, Department of Communities and Justice Housing, NSW Health, NSW Small Business Commission, Department of Primary Industries, and Rural Assistance Authority.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:05Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "f478c4721fb99146d3c9d5bef00299b49162f8ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

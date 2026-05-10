@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/operate-a-business-on-reserved-land",
+  "source_url": "https://www.service.nsw.gov.au/referral/operate-a-business-on-reserved-land",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "operate-a-business-on-reserved-land",
+  "title": "Apply to operate a business on reserved land",
+  "summary": "Find out the requirements and process for operating a business or commercial activity on reserved land.",
+  "topics": [
+    "business-operations",
+    "reserved-land",
+    "commercial-activity",
+    "nsw-environment"
+  ],
+  "intro": "If you want to operate a business or undertake a commercial activity on reserved land, you need approval from the NSW Department of Climate Change, Energy, the Environment and Water\n\nExamples of a business or commercial activity include:\n\nCurrent business opportunities are available on the buy NSW website.\n\nTo learn more about running a business on reserved land, visit the Department of Climate Change, Energy, the Environment and Water.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "buy NSW website",
+      "url": "https://www.tenders.nsw.gov.au/"
+    },
+    {
+      "text": "Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.environment.nsw.gov.au/topics/parks-reserves-and-protected-areas/commercial-activities-in-parks"
+    },
+    {
+      "text": "NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/"
+    },
+    {
+      "text": "buy NSW",
+      "url": "https://www.tenders.nsw.gov.au"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:31Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "9f332bb850c9ac702e7f56b816dc81c39b141481",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

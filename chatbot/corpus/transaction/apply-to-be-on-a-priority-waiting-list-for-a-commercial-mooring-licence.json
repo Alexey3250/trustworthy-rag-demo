@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-on-a-priority-waiting-list-for-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-be-on-a-priority-waiting-list-for-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-be-on-a-priority-waiting-list-for-a-commercial-mooring-licence",
+  "title": "Apply to be on a priority waiting list for a commercial mooring licence",
+  "summary": "Apply to join a priority waiting list for a commercial mooring licence if none are currently available in your preferred area.",
+  "topics": [
+    "commercial-mooring-licence",
+    "nsw-boating",
+    "marine-services",
+    "waiting-list"
+  ],
+  "intro": "If you're wanting a commercial mooring licence, but none are available in your preferred mooring area, you can apply to be on the priority waiting list for that area. You'll then be notified when a mooring site becomes available.",
+  "who_can_apply": [
+    "The business provides marine-type services to the boating public.",
+    "The business can only be accessed by water.",
+    "The applicant is a registered club or association."
+  ],
+  "what_you_need": [
+    "Completed application form (either for initial or transfer of a commercial mooring licence).",
+    "Proof of identity for the business and the nominated representative.",
+    "Written authorisation from the nominated representative on business or club letterhead.",
+    "A detailed description of the proposed usage of the mooring site on business letterhead."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://www.nsw.gov.au/sites/default/files/2022-07/Application-for-initial-or-transfer-commercial-mooring-licence.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application in person at a Service NSW Centre, or by post or email to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Application for Initial or Transfer of a Commercial Mooring Licence – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/Application-for-initial-or-transfer-commercial-mooring-licence.pdf"
+    },
+    {
+      "text": "Application for Club Mooring Licence – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/application-club-mooring-licence.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    },
+    {
+      "text": "Mooring fees and charges",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a commercial mooring licence waiting list?",
+      "a": "You can apply if your business provides marine-type services to the boating public, if your business can only be accessed by water, or if you are a registered club or association.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "You can submit your application in person at a Service NSW Centre, or by post or email using the details provided on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the application form, proof of identity for the business and nominated representative, written authorisation on business/club letterhead, and a detailed description of your proposed usage.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:12Z",
+    "last_modified": "11 March 2026",
+    "html_sha1": "5afea56e7b4ba2d7654ac0c786694802f18289d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

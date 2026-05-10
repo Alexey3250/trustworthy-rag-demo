@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/young-people",
+  "source_url": "https://www.service.nsw.gov.au/services/young-people",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "young-people",
+  "title": "Services for young people",
+  "summary": "Find information and services related to young people in New South Wales.",
+  "topics": [
+    "youth-health",
+    "youth-justice",
+    "driver-licence",
+    "photo-card",
+    "financial-support",
+    "rental-assistance"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Young People – NSW Government",
+      "url": "https://www.nsw.gov.au/living-nsw/young-people"
+    },
+    {
+      "text": "Health services for young people – NSW Health",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/youth/Pages/health-services-yp.aspx"
+    },
+    {
+      "text": "Programs and services – Youth Justice NSW",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services"
+    },
+    {
+      "text": "Convention on the Rights of the Child",
+      "url": "https://www.acyp.nsw.gov.au/about/the-convention-on-the-rights-of-the-child"
+    },
+    {
+      "text": "call 000",
+      "url": "https://www.triplezero.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Getting a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Demerits and driving penalties",
+      "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    },
+    {
+      "text": "Buy or sell a vehicle",
+      "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration"
+    },
+    {
+      "text": "Apply for a NSW Photo card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "Financial support for students",
+      "url": "https://www.service.nsw.gov.au/services/financial-support-students"
+    },
+    {
+      "text": "Rental assistance",
+      "url": "https://www.service.nsw.gov.au/referral/access-private-rental-assistance"
+    },
+    {
+      "text": "Apply or renew your RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Working with Children Check (WWCC)",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "nearest Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Book an appointment to get support as a new arrival to Australia",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "Access your out-of-home care records",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:41Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "87563ea94be9836eeae70348b349b4be2f4ab5ab",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

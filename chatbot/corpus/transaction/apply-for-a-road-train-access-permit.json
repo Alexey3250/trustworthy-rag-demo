@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-train-access-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-train-access-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-road-train-access-permit",
+  "title": "Apply for a road train access permit",
+  "summary": "Find information and apply for a road train access permit if your journey involves roads outside the approved road train network.",
+  "topics": [
+    "road-train",
+    "access-permit",
+    "heavy-vehicles",
+    "nhvr"
+  ],
+  "intro": "If any part of your journey is on a road outside the approved road train network, you'll need to apply for an access permit through the National Heavy Vehicle Regulator (NHVR).\n\nThe NHVR permit applies to all class 2 road train travel throughout Australia, with the exception of Western Australia and the Northern Territory, where you'll need to apply directly to the relevant state or territory road transport authority.\n\nFor road trains that do not meet the prescribed mass or dimension limits, you'll need to submit a Class 3 (Miscellaneous) permit application.\n\nOperators with a Performance-Based Standards (PBS) approved road train will need to submit a PBS access permit application to the NHVR.\n\nFor information on Type 1 A-double road trains (including modern road trains), modular B-triples, B-triples, AB-triples and Type 2 A-triple road trains operating in NSW, visit Transport for NSW.\n\nFor the most up-to-date information on how to apply for a road train access permit, visit the National Heavy Vehicle Regulator website.",
+  "who_can_apply": [
+    "Operating a road train that requires access outside the approved road train network.",
+    "Operating a Class 2 road train (excluding Western Australia and the Northern Territory).",
+    "Operating a road train that does not meet prescribed mass or dimension limits (requires Class 3 permit).",
+    "Operating a Performance-Based Standards (PBS) approved road train."
+  ],
+  "what_you_need": [
+    "For general information, visit the National Heavy Vehicle Regulator website.",
+    "For Type 1 A-double, modular B-triples, B-triples, AB-triples, and Type 2 A-triple road trains operating in NSW, visit Transport for NSW.",
+    "If applying for a Class 3 permit, use the dedicated application link.",
+    "If applying for a PBS permit, use the dedicated application link.",
+    "If traveling in Western Australia or the Northern Territory, apply directly to the relevant state or territory road transport authority."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "approved road train network",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/road-train-permit"
+    },
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "prescribed mass or dimension limits",
+      "url": "https://www.legislation.gov.au/C2022G01256/latest/text"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access-3"
+    },
+    {
+      "text": "Access permits issued by the NHVR",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "Main Roads Western Australia",
+      "url": "https://www.mainroads.wa.gov.au/"
+    },
+    {
+      "text": "Heavy vehicles – NT Government",
+      "url": "https://nt.gov.au/driving/heavy"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Class 3 (Miscellaneous) permit application",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-class-3-miscellaneous-vehicle-access-permit"
+    },
+    {
+      "text": "PBS access permit application",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit"
+    },
+    {
+      "text": "Enrol in the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/enrol-in-the-nsw-livestock-loading-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a road train access permit?",
+      "a": "You need an access permit if any part of your journey is on a road outside the approved road train network.",
+      "link": null
+    },
+    {
+      "q": "Where do I apply for a road train access permit?",
+      "a": "The National Heavy Vehicle Regulator (NHVR) handles applications for all class 2 road train travel throughout Australia, except in Western Australia and the Northern Territory.",
+      "link": null
+    },
+    {
+      "q": "What if my road train doesn't meet the standard limits?",
+      "a": "If your road train does not meet the prescribed mass or dimension limits, you must submit a Class 3 (Miscellaneous) permit application.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-for-a-class-3-miscellaneous-vehicle-access-permit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:02Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "39bba42ace5dd973371db2308f6c708ed0ddeaee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

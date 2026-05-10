@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-maritime-security-identification-card-msic",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-maritime-security-identification-card-msic",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-maritime-security-identification-card-msic",
+  "title": "Apply for a Maritime Security Identification Card (MSIC)",
+  "summary": "This page provides information on how to apply for a Maritime Security Identification Card (MSIC).",
+  "topics": [
+    "maritime-security-identification-card",
+    "msic",
+    "seafarer",
+    "port-worker",
+    "auscheck"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "port facility or port service worker",
+    "stevedore",
+    "truck driver",
+    "seafarer on a security regulated ship",
+    "work on and/or supply to offshore oil and gas facilities"
+  ],
+  "what_you_need": [
+    "The MSIC is valid for either 2 or 4 years.",
+    "Fees apply.",
+    "It is recommended to apply at least 6 weeks before you need the MSIC."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to AusCheck Apply for a Maritime Security Identification Card (MSIC) .",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply for a Maritime Security Identification Card (MSIC)",
+      "url": "https://www.auscheck.gov.au/security-card/maritime/msic"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:39Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "fa88239e401d43ce22b63bc7b9e0dfbbc100bdee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-program",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/fertility-treatment-rebate-program",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "fertility-treatment-rebate-program",
+  "title": "Fertility Treatment Rebate Program – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal and health information for the Fertility Treatment Rebate Program.",
+  "topics": [
+    "privacy",
+    "fertility-treatment",
+    "nsw-government",
+    "rebate-program"
+  ],
+  "intro": "Service NSW and the Ministry of Health are delivering the Fertility Treatment Rebate Program (the Program) on behalf of the NSW Government. Service NSW is collecting your personal and health information to assess your eligibility for the Program, to facilitate your participation in the Program and for related purposes.\n\nService NSW gives priority to protecting the privacy of your personal and health information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998 and Health Records and Information Privacy Act 2002.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Name",
+    "Date of birth",
+    "Contact details (email address, phone number, and residential address)",
+    "Identity document details (such as driver's licence and Medicare card)",
+    "Banking details (including bank account name, BSB, and account number)",
+    "Information to satisfy NSW residency requirements (such as a copy of a utility bill or lease agreement)",
+    "Proof of name change (where applicable, such as a Marriage certificate or BDM issued Change of Name certificate)",
+    "Completed Fertility Treatment Rebate Declaration Form"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    },
+    {
+      "text": "Health Records and Information Privacy Act 2002",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-071"
+    },
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.health.nsw.gov.au/Pages/privacy.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What laws protect my personal and health information?",
+      "a": "Service NSW handles personal information in accordance with the Privacy and Personal Information Protection Act 1998 and the Health Records and Information Privacy Act 2002.",
+      "link": null
+    },
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "Information is collected to assess your eligibility for the Program, facilitate your participation, and for related purposes.",
+      "link": null
+    },
+    {
+      "q": "Who might receive my information?",
+      "a": "Information may be disclosed to public/private entities (including Document Verification Service and relevant clinics), NSW Police (if fraud is suspected), and for de-identified research and statistical purposes.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:22Z",
+    "last_modified": "5 March 2025",
+    "html_sha1": "dbbc88fa46e8bd43c3cd63e0411f741c4e33296a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

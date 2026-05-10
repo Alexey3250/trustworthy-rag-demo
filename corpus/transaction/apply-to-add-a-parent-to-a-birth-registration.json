@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-parent-to-a-birth-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-parent-to-a-birth-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-add-a-parent-to-a-birth-registration",
+  "title": "Apply to add a parent to a birth registration",
+  "summary": "You can apply to add another parent's details to a child's birth registration if the birth was registered in NSW.",
+  "topics": [
+    "birth-registration",
+    "add-parent",
+    "nsw-service",
+    "family-details"
+  ],
+  "intro": "You can apply to add another parent’s details to your child’s birth registration if the birth was registered in NSW.\n\nIf adding the father, and only one parent is applying, you may be asked to provide DNA test results or a court order.\n\nIf the child was born through a fertilisation procedure, the parents must have been married or in a de facto relationship. The parent being added must have consented to the procedure.\n\nWhen you apply, you can order an updated birth certificate. You’ll need to pay an additional fee for a certificate.",
+  "who_can_apply": [
+    "The birth must have been registered in NSW."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Adding a parent's details to a birth registration'",
+    "Three forms of identification for each parent, as specified on the form",
+    "The original birth certificate of the child",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your application at a Service NSW Centre, or post it to the address on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you order an updated birth certificate, it will be sent by registered post. You cannot get a certificate from a service centre.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/add-or-remove-a-parent-to-a-birth-registration"
+    },
+    {
+      "text": "Form 8: Adding a parent’s details to a birth registration – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-11/apply-for-add-a-parent_0.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required if I am adding the father and only one parent is applying?",
+      "a": "You may be asked to provide DNA test results or a court order.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements if the child was born through a fertilisation procedure?",
+      "a": "The parents must have been married or in a de facto relationship, and the parent being added must have consented to the procedure.",
+      "link": null
+    },
+    {
+      "q": "Can I get an updated birth certificate when I apply?",
+      "a": "Yes, you can order an updated birth certificate, but you will need to pay an additional fee for the certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:32Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "55a88cc58f76288f67bf00513f5c96e3e24fe015",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

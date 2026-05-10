@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-commercial-mooring-licence",
+  "title": "Apply for a commercial mooring licence",
+  "summary": "This page provides information on how to apply for a commercial mooring licence, which allows marine businesses and clubs to moor vessels on NSW waterways for 12 months.",
+  "topics": [
+    "commercial-mooring-licence",
+    "marine-business",
+    "nsw-waterways",
+    "boating"
+  ],
+  "intro": "A commercial mooring licence allows marine businesses and clubs to moor vessels on NSW waterways. The licence is valid for 12 months.\n\nMooring sites are determined at the discretion of Transport for NSW (TfNSW) and may involve approvals/permits from other agencies. The sites are subject to an ongoing range of assessment factors including:\n\nBased on these factors, some sites may not be permitted to proceed, and existing moorings can also require relocation or removal.\n\nIf there are no moorings available when you apply, you'll be added to a waiting list.",
+  "who_can_apply": [
+    "The applicant must be a business that provides marine-type services to the boating public or can only be accessed by water.",
+    "The applicant must be a registered club or association."
+  ],
+  "what_you_need": [
+    "The required application form (either for initial or transfer of a commercial mooring licence, or for a club mooring licence).",
+    "Proof of identity for the business/club and the nominated representative.",
+    "If the sole trader or partnership does not have a registered business name, they must provide a copy of the ABN Advice Certificate or Statutory Declaration stating the nature of their business, with the licence issued in the name of the sole trader.",
+    "Written authorisation of the nominated representative on business/club letterhead.",
+    "A detailed description of the proposed usage of the mooring site on business letterhead."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://www.nsw.gov.au/sites/default/files/2022-07/Application-for-initial-or-transfer-commercial-mooring-licence.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application in person at a Service NSW Centre, or by post or email to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Note: A commercial mooring licence is not a lease of the sea bed. There is no guarantee of tenure.",
+      "link": null
+    },
+    {
+      "text": "Once your application has been assessed, TfNSW will let you know the outcome.",
+      "link": null
+    },
+    {
+      "text": "Licence fees are payable when the licence is issued.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "You can apply for one mooring site per area. Once the licence has been issued you can make a subsequent application.",
+      "link": null
+    },
+    {
+      "text": "Any costs associated with the purchase, installation and servicing of mooring apparatus are your responsibility.",
+      "link": null
+    },
+    {
+      "text": "Licence categories include:",
+      "link": null
+    },
+    {
+      "text": "Tourism or hospitality.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Application for Initial or Transfer of a Commercial Mooring Licence – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/Application-for-initial-or-transfer-commercial-mooring-licence.pdf"
+    },
+    {
+      "text": "Application for Club Mooring Licence – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/application-club-mooring-licence.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Licence fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Transfer ownership of a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-commercial-mooring-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a commercial mooring licence valid for?",
+      "a": "The licence is valid for 12 months.",
+      "link": null
+    },
+    {
+      "q": "What happens if I apply for a mooring site and none are available?",
+      "a": "If there are no moorings available when you apply, you will be added to a waiting list.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for a commercial mooring licence?",
+      "a": "A business that provides marine-type services to the boating public or can only be accessed by water, or a registered club or association can apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:13Z",
+    "last_modified": "23 October 2025",
+    "html_sha1": "b0f66b2e6f83316afd2283767716e456d291277a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

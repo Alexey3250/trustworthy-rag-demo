@@ -1,0 +1,127 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates",
+  "source_url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "deaths-wills-and-deceased-estates",
+  "title": "Deaths, wills and deceased estates",
+  "summary": "Find information and services related to deaths, wills, and managing deceased estates in New South Wales.",
+  "topics": [
+    "death",
+    "will",
+    "deceased-estate",
+    "bereavement"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Resume your online application or registration – Births, Deaths and Marriages",
+      "link": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "Change the details on a birth, death or marriage record",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "text": "Advise Maritime that a customer has died(boating licence, fishing licence or vessel registration)",
+      "link": "https://www.service.nsw.gov.au/transaction/advise-maritime-that-a-customer-has-died"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Register a death",
+      "url": "https://www.service.nsw.gov.au/transaction/register-death"
+    },
+    {
+      "text": "Order a Medical Certificate Cause of Death (MCCD) form",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-medical-certificate-cause-of-death-mccd-form"
+    },
+    {
+      "text": "Apply for Recognition of Early Pregnancy Loss",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-of-early-pregnancy-loss"
+    },
+    {
+      "text": "Order a Perinatal Medical Cause of Death form",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-perinatal-medical-cause-of-death-form"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    },
+    {
+      "text": "Use the Australian Death Notification Service (ADNS)",
+      "url": "https://www.service.nsw.gov.au/referral/adns"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Make a deceased will enquiry",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-deceased-will-enquiry"
+    },
+    {
+      "text": "Storing planning ahead documents in WillSafe",
+      "url": "https://www.service.nsw.gov.au/referral/storing-planning-ahead-documents-in-willsafe"
+    },
+    {
+      "text": "Make an Advance Care Directive (living will)",
+      "url": "https://www.service.nsw.gov.au/transaction/make-an-advance-care-directive-living-will"
+    },
+    {
+      "text": "Locating someone's will",
+      "url": "https://www.service.nsw.gov.au/transaction/locating-someones-will"
+    },
+    {
+      "text": "Manage a deceased estate",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate"
+    },
+    {
+      "text": "Apply for a Section 50 search (deceased estate)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-section-50-search-deceased-estate"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Resume your online application or registration – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "Change the details on a birth, death or marriage record",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "text": "Advise Maritime that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/advise-maritime-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:29Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "60b30f51396eccdd0bdb71d6ef949f72667bb100",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

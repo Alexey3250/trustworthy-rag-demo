@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrections-corporate-support-unit",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/corrections-corporate-support-unit",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "corrections-corporate-support-unit",
+  "title": "Corrections Corporate Support Unit",
+  "summary": "This page provides information about the Corrections Corporate Support Unit.",
+  "topics": [
+    "corrections",
+    "corporate-support",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:43Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3468a3f6945a88bbf9a51c7e23eb09cf2c26b4b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

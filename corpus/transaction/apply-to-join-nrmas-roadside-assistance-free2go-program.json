@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-join-nrmas-roadside-assistance-free2go-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-join-nrmas-roadside-assistance-free2go-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-join-nrmas-roadside-assistance-free2go-program",
+  "title": "Apply to join NRMA's Roadside Assistance Free2go program",
+  "summary": "Find out how to apply for the Free2go program, which offers roadside assistance to new drivers.",
+  "topics": [
+    "roadside-assistance",
+    "driver-licence",
+    "nrma",
+    "free2go"
+  ],
+  "intro": "Free2go is offered by the NRMA to drivers aged 16 to 20 with a NSW Driver Licence. It provides 24/7 roadside assistance, 4 call outs a year, and you're covered whatever car you're in and no matter who's driving.\n\nIf you join at 16 you get the first 2 years free, or the first year free for drivers 17 to 20.\n\nFree2go will help you out of all sorts of problem situations that can occur when you're on the road, such as:\n\nOnce you've completed your one or 2 years in the Free2go program, you can renew your road side assistance at the normal applicable cost.",
+  "who_can_apply": [
+    "Be aged 16 to 20",
+    "Hold a NSW Driver Licence"
+  ],
+  "what_you_need": [
+    "NSW Driver Licence"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button to join Free2go.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Call the NRMA on 13 11 22 during business hours for more information.\n\nSNSW has commercial relationships with government and non-government agencies.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "normal applicable cost",
+      "url": "https://www.mynrma.com.au/membership"
+    },
+    {
+      "text": "All about Free2go",
+      "url": "https://www.mynrma.com.au/roadside-assistance/free2go"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for Free2go?",
+      "a": "Free2go is for drivers aged 16 to 20 with a NSW Driver Licence.",
+      "link": null
+    },
+    {
+      "q": "What does Free2go provide?",
+      "a": "It provides 24/7 roadside assistance, 4 call outs a year, and coverage regardless of the car or who is driving.",
+      "link": null
+    },
+    {
+      "q": "How do I join Free2go?",
+      "a": "Select the 'Apply online' button to join Free2go.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:03Z",
+    "last_modified": "11 March 2026",
+    "html_sha1": "b51cf68d6e8786ed7a64df7d1e7c8b47b79a8a3d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

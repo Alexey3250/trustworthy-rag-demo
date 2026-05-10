@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-help-with-hunter-water-bills",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-help-with-hunter-water-bills",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-help-with-hunter-water-bills",
+  "title": "Get help with Hunter Water bills",
+  "summary": "Hunter Water customers can request payment assistance and find support options for managing their bills.",
+  "topics": [
+    "hunter-water",
+    "bills",
+    "payment-assistance",
+    "support"
+  ],
+  "intro": "Hunter Water customers who need help with their bills can request payment assistance.\n\nShort and long-term support options are available for home owners and tenants, including:\n\nYou can speak with the Hunter Water customer care team on 1300 657 657.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "visit the Hunter Water website",
+      "url": "https://www.hunterwater.com.au/home-and-business/managing-your-account/get-help-paying/personalised-payment-support/payment-assistance-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get help with my Hunter Water bills?",
+      "a": "You can request payment assistance and speak with the Hunter Water customer care team on 1300 657 657.",
+      "link": null
+    },
+    {
+      "q": "What types of support are available?",
+      "a": "Short and long-term support options are available for both home owners and tenants.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:20Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "41bd4322fc5aa534394e14774a68ee3be77a5641",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

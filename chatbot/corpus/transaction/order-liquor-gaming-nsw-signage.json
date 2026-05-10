@@ -1,0 +1,44 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-liquor-gaming-nsw-signage",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-liquor-gaming-nsw-signage",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-liquor-gaming-nsw-signage",
+  "title": "Order Liquor & Gaming NSW signage",
+  "summary": "Find out about the signs required for businesses licensed to sell liquor or manage gaming machines, and how to order or print them.",
+  "topics": [
+    "liquor-signage",
+    "gaming-signage",
+    "business-licensing",
+    "nsw-signage"
+  ],
+  "intro": "Businesses licensed to sell liquor or manage gaming or gaming machines must display certain signs on their premises.\n\nThe type of licence you have determines which signs you must display.",
+  "who_can_apply": [
+    "Businesses licensed to sell liquor or manage gaming or gaming machines"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW website",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/licence-responsibilities/signs-for-your-business"
+    },
+    {
+      "text": "Liquor & Gaming NSW online shop",
+      "url": "https://shout.finsbury.com.au/liquorandgaming"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:56Z",
+    "last_modified": "5 September 2025",
+    "html_sha1": "7d9626357fc4c0672542cf295b5658b7d61ab261",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

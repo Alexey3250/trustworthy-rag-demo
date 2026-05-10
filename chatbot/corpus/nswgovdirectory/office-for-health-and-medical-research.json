@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-for-health-and-medical-research",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-for-health-and-medical-research",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-for-health-and-medical-research",
+  "title": "Office for Health and Medical Research",
+  "summary": "This page provides information about the Office for Health and Medical Research, which is part of the NSW Government.",
+  "topics": [
+    "health",
+    "medical-research",
+    "nsw-government",
+    "office-for-health-and-medical-research"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.medicalresearch.nsw.gov.au/",
+      "url": "https://www.medicalresearch.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:47Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b86a72dd375ff70f853043ade75f9541215a0fa7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

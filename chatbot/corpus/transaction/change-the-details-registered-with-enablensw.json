@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-registered-with-enablensw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-registered-with-enablensw",
+  "title": "Change the details registered with EnableNSW",
+  "summary": "This page explains how to change your personal contact details if you receive assistance from EnableNSW.",
+  "topics": [
+    "enable-nsw",
+    "contact-details",
+    "personal-information",
+    "health-assistance"
+  ],
+  "intro": "If you receive assistance from EnableNSW and you need to change your personal contact details, you can do this by email or phone.\n\nIf you're requesting a change on behalf of someone, you must be an authorised contact person.",
+  "who_can_apply": [
+    "You must receive assistance from EnableNSW."
+  ],
+  "what_you_need": [
+    "Your full name",
+    "Date of birth",
+    "Details you are changing",
+    "Any supporting documentation"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Email the details to enable@health.nsw.gov.au or call 1800 362 253.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Forms and funding criteria by program – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/prescribers/forms"
+    },
+    {
+      "text": "Applying for EnableNSW – NSW Health",
+      "url": "https://enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can request a change to the details?",
+      "a": "If you are requesting a change on behalf of someone, you must be an authorised contact person.",
+      "link": null
+    },
+    {
+      "q": "How can I change my contact details?",
+      "a": "You can change your personal contact details by emailing enable@health.nsw.gov.au or calling 1800 362 253.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:39Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "44634a9c30fe36801e52d9c60e37b9d4119dd358",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

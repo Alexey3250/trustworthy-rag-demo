@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-birth-certificate",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-birth-certificate",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "digital-birth-certificate",
+  "title": "NSW Digital Birth Certificate - Privacy collection notice",
+  "summary": "This notice explains the collection of personal information required to obtain a Digital Birth Certificate.",
+  "topics": [
+    "digital-birth-certificate",
+    "privacy",
+    "identity-verification",
+    "nsw-bdm"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Have a MyServiceNSW Account",
+    "Be between 16 and 21 years old",
+    "Have your birth registered with the NSW Registry of Births, Deaths & Marriages (NSW BDM)"
+  ],
+  "what_you_need": [
+    "Proof of Identity documents (e.g., Australian driver licence, Medicare)",
+    "Unique reference number provided by NSW BDM"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Please visit www.service.nsw.gov.au/privacy for more information about how Service NSW handles your personal information. This includes how you can access and seek correction of the information, how privacy enquiries or complaints can be made, how information is securely stored, and how to contact us. Service NSW is located at 2-24 Rawson Place, Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Face Verification and Identity Checks Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/face-verification-and-identity-checks"
+    },
+    {
+      "text": "www.service.nsw.gov.au/privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected for the Digital Birth Certificate?",
+      "a": "Service NSW collects details from your Proof of Identity documents (like name, date of birth, and document numbers), biometric face scan data (which is not retained), your unique reference number from NSW BDM, and details from your Birth Certificate and any updates from NSW BDM.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "The information is used to verify your identity, generate and keep your Digital Birth Certificate updated, and for internal administrative purposes, including fraud detection and auditing.",
+      "link": null
+    },
+    {
+      "q": "Who will receive my personal information?",
+      "a": "Information may be disclosed to the Document Verification Service (DVS), Services Australia (for Commonwealth concession cards), and Transport for NSW (to match your image against your NSW Photo Card or Driver Licence photo).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:45Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "08b8554e643d11233e3426bf9030165597c71431",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

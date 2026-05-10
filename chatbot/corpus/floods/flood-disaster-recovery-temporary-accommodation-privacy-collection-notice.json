@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/floods/flood-disaster-recovery-temporary-accommodation-privacy-collection-notice",
+  "source_url": "https://www.service.nsw.gov.au/floods/flood-disaster-recovery-temporary-accommodation-privacy-collection-notice",
+  "category": "floods",
+  "article_kind": "content",
+  "slug": "flood-disaster-recovery-temporary-accommodation-privacy-collection-notice",
+  "title": "Flood disaster recovery temporary accommodation – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW is collecting and using personal information to assist with disaster recovery and temporary accommodation.",
+  "topics": [
+    "disaster-recovery",
+    "temporary-accommodation",
+    "privacy",
+    "nsw-reconstruction-authority"
+  ],
+  "intro": "Service NSW (in partnership with NSW Reconstruction Authority) is collecting your personal information to assist with disaster recovery. The personal information you provide is collected and held by Service NSW (McKell Building, 2-24 Rawson Pl, Haymarket NSW 2000).\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998 and Health Records and Information Privacy Act 2002.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Full name",
+    "Contact number",
+    "Email address",
+    "Interest in temporary accommodation",
+    "Estimated duration of temporary accommodation required",
+    "Information about special needs or special assistance required by you or family members",
+    "Number of people affected in your family",
+    "Ages of people in your household"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    },
+    {
+      "text": "Health Records and Information Privacy Act 2002",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2002-071"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy page",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "The information is collected to provide immediate disaster recovery assistance, assess your current situation, and help with temporary accommodation in a pop-up community.",
+      "link": null
+    },
+    {
+      "q": "Who will use and disclose my personal information?",
+      "a": "Service NSW, NSW Reconstruction Authority, and non-government organisations engaged by the NSW Reconstruction Authority (including community housing providers) will use the information.",
+      "link": null
+    },
+    {
+      "q": "What personal information do I need to provide?",
+      "a": "Information collected includes your full name, contact number, email address, interest in temporary accommodation, estimated duration required, special needs, number of people affected, and ages of household members.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:46Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "1ab922ed2f0076a729c353dbf21752486ae3e1dc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

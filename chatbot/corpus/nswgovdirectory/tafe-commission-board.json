@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-commission-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-commission-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "tafe-commission-board",
+  "title": "TAFE Commission Board",
+  "summary": "This page provides information about the TAFE Commission Board, which oversees the governance of TAFE NSW.",
+  "topics": [
+    "tafe-nsw",
+    "governance",
+    "education",
+    "commission-board"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.tafensw.edu.au/about/corporate/governance",
+      "url": "https://www.tafensw.edu.au/about/corporate/governance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "TAFE NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/tafe-nsw"
+    },
+    {
+      "text": "Education, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "81aab6ab39a5b65c7e06a731950ae08f9192c480",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

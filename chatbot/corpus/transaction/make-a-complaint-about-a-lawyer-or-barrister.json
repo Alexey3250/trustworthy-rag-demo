@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-lawyer-or-barrister",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-lawyer-or-barrister",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-complaint-about-a-lawyer-or-barrister",
+  "title": "Make a complaint about a lawyer or barrister",
+  "summary": "This page provides information on how to complain about the service or conduct of a lawyer or barrister in NSW, starting with direct resolution and escalating to the Office of the NSW Legal Services Commissioner (OLSC).",
+  "topics": [
+    "complaint",
+    "lawyer",
+    "barrister",
+    "nsw-legal-services",
+    "olsc"
+  ],
+  "intro": "You may have issues with the service or conduct of a lawyer (solicitor or barrister) in NSW. If so, the first step is to speak with them and try to resolve the matter.\n\nIf you cannot resolve the matter, the Office of the NSW Legal Services Commissioner (OLSC) can help you.\n\nOLSC can assist with issues such as:\n\nThe OLSC cannot help with complaints if the issue is about a:",
+  "who_can_apply": [
+    "Having an issue with the service or conduct of a lawyer (solicitor or barrister) in NSW."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once you make a complaint, it may take up to 8 weeks for a case officer to assess the issue.",
+      "link": null
+    },
+    {
+      "text": "The resolution process can take time, sometimes up to a year.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Australian State or Territory",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/other-resources/australian-legal-regulatory-organisations.html"
+    },
+    {
+      "text": "not a lawyer or law practice",
+      "url": "https://www.lawsociety.com.au/"
+    },
+    {
+      "text": "judicial officer",
+      "url": "https://www.judcom.nsw.gov.au/"
+    },
+    {
+      "text": "licensed conveyancer",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/services/legal-and-conveyancing"
+    },
+    {
+      "text": "must be in writing",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/complaint-form.html"
+    },
+    {
+      "text": "the complaint process and options",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/complaints-process.html"
+    },
+    {
+      "text": "making a complaint",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/olsc-making-complaints.html"
+    },
+    {
+      "text": "Before Making a Complaint - Office of the NSW Legal Services Commissioner",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/before-making-a-complaint.html"
+    },
+    {
+      "text": "Types of Complaints - Office of the NSW Legal Services Commissioner",
+      "url": "https://olsc.nsw.gov.au/complaints/information-about-complaints-for-the-public/olsc-type-complaints.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do if I have an issue with my lawyer?",
+      "a": "First, try to speak with the lawyer directly to resolve the matter. If you cannot resolve it, the Office of the NSW Legal Services Commissioner (OLSC) can help.",
+      "link": null
+    },
+    {
+      "q": "What types of issues can the OLSC help with?",
+      "a": "The OLSC can assist with various issues related to legal services.",
+      "link": null
+    },
+    {
+      "q": "What issues can the OLSC NOT help with?",
+      "a": "The OLSC cannot help with complaints if the issue is about a: [The content does not list specific exclusions, only the heading 'The OLSC cannot help with complaints if the issue is about a:']",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:07Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "e97d1a0cdb60073001e80241c52683151fb96e30",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

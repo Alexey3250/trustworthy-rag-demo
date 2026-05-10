@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-vehicle-registration",
+  "title": "Change the details on a vehicle registration",
+  "summary": "Update the details linked to your vehicle registration at a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "service-nsw",
+    "change-details",
+    "vehicle-details"
+  ],
+  "intro": "Details linked to your vehicle registration can be updated at a Service NSW Centre. These include:\n\nIt's important to change your details before renewing your vehicle's registration to make sure that an appropriate inspection is conducted, and that you are charged the correct fee.\n\nNote: If you're only changing a courtesy name, or usage such as private, business or pensioner, you may be eligible to do so by calling 13 77 88.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form 'Change of Records' (unless only changing a courtesy name).",
+    "Proof of identity.",
+    "Vehicle registration details.",
+    "Evidence of registration under a business name (if applicable).",
+    "Business identification details (if the vehicle is registered under a business).",
+    "Concession card details (if applicable).",
+    "A receipt or notice of disposal, signed by the seller and showing the correct date (if changing the date of purchase or disposal)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Change of Records – PDF (if applicable).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and lodge your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "PRIV",
+      "link": null
+    },
+    {
+      "text": "BUSG, or",
+      "link": null
+    },
+    {
+      "text": "PNSR.",
+      "link": null
+    },
+    {
+      "text": "To be eligible to change details over the phone, the vehicle must be registered in an individual's name, and the usage details can only be changing between:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Change of Records – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Nominated Configuration Codes",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-5"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notice of disposal",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Change the business name or usage on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration"
+    },
+    {
+      "text": "Change the details of a heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Automatic rego renewal for pensioners",
+      "url": "https://www.service.nsw.gov.au/transaction/automatic-rego-renewal-for-pensioners"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to change my details before renewing my registration?",
+      "a": "Yes, it is important to change your details before renewing your vehicle's registration to ensure the correct inspection is conducted and the correct fee is charged.",
+      "link": null
+    },
+    {
+      "q": "How can I change a courtesy name or usage (like private, business, or pensioner)?",
+      "a": "You may be eligible to change a courtesy name or usage by calling 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:21Z",
+    "last_modified": "26 June 2025",
+    "html_sha1": "0036841e558624fe5dec3de3800017c0751eb104",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/register-a-business-or-association-name",
+  "source_url": "https://www.service.nsw.gov.au/services/register-a-business-or-association-name",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "register-a-business-or-association-name",
+  "title": "Register a business or association name",
+  "summary": "This page provides information and links for registering, renewing, or restoring business and association names in NSW.",
+  "topics": [
+    "business-name",
+    "association-name",
+    "register-business",
+    "reserve-name"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Starting a business",
+      "link": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Apply to register an incorporated association",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-incorporated-association"
+    },
+    {
+      "text": "Create an ASIC Connect account",
+      "link": "https://www.service.nsw.gov.au/referral/create-an-asic-connect-account"
+    },
+    {
+      "text": "Register a domain name for your business",
+      "link": "https://www.service.nsw.gov.au/referral/business-domain-name"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register a business name",
+      "url": "https://www.service.nsw.gov.au/referral/register-a-business-name"
+    },
+    {
+      "text": "Renew a business name",
+      "url": "https://www.service.nsw.gov.au/referral/renew-a-business-name"
+    },
+    {
+      "text": "Restore a business name",
+      "url": "https://www.service.nsw.gov.au/referral/restore-a-business-name"
+    },
+    {
+      "text": "Apply to reserve an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-reserve-an-association-name"
+    },
+    {
+      "text": "Check availability of an association name",
+      "url": "https://www.service.nsw.gov.au/transaction/check-availability-of-an-association-name"
+    },
+    {
+      "text": "Starting a business",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Apply to register an incorporated association",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-incorporated-association"
+    },
+    {
+      "text": "Create an ASIC Connect account",
+      "url": "https://www.service.nsw.gov.au/referral/create-an-asic-connect-account"
+    },
+    {
+      "text": "Register a domain name for your business",
+      "url": "https://www.service.nsw.gov.au/referral/business-domain-name"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:24Z",
+    "last_modified": "20 April 2026",
+    "html_sha1": "e3fc1abe26ea7d16ca3f0e7c4e46fc84d2db1c20",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

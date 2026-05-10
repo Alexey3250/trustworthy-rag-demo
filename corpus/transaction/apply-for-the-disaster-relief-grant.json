@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-disaster-relief-grant",
+  "title": "Apply for the Disaster Relief Grant",
+  "summary": "Find out about the Disaster Relief Grant Program, which supports people who need help restoring their homes after a natural disaster.",
+  "topics": [
+    "disaster-relief",
+    "natural-disaster",
+    "housing-repair",
+    "nsw-grants"
+  ],
+  "intro": "The purpose of the DRG Program is to support those most in need and those least able to return their homes to a safe and habitable condition after a natural disaster such as low-income earners and where the damage is not covered by insurance, subject to eligibility requirements. In doing so, it seeks to alleviate personal hardship and distress arising as a result of natural disasters in NSW.\n\nThe purpose of the DRG Program is:\n\nGrants provided under the DRG Program will be assessed on the basis of eligibility not ‘entitlement’ and may be partnered with other forms of assistance, including referrals to other agencies.\n\nThe DRG Program is funded and administered by NSW Reconstruction Authority.",
+  "who_can_apply": [
+    "Must be affected by a natural disaster in NSW.",
+    "Must be most in need and least able to return their homes to a safe and habitable condition.",
+    "May include low-income earners.",
+    "Damage must not be covered by insurance."
+  ],
+  "what_you_need": [
+    "Check the grant guidelines and FAQs on the NSW Grants and Funding Finder.",
+    "Call Service NSW on 13 77 88 (Monday to Friday, 8:30am to 5pm Sydney time) to discuss your application."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read the grant guidelines and FAQs on the NSW Grants and Funding Finder to check you meet the eligibility criteria.",
+      "link": "https://www.nsw.gov.au/grants-and-funding/disaster-relief-grants"
+    },
+    {
+      "n": 2,
+      "text": "Call Service NSW on 13 77 88, Monday to Friday 8:30am to 5pm (Sydney time) to discuss your application.",
+      "link": "tel:137788"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have feedback about this program contact the NSW Reconstruction Authority.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Grants and Funding Finder",
+      "url": "https://www.nsw.gov.au/grants-and-funding/disaster-relief-grants"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact the NSW Reconstruction Authority",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-reconstruction-authority"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for the Disaster Relief Grant Program?",
+      "a": "The program supports those most in need and those least able to return their homes to a safe and habitable condition after a natural disaster, such as low-income earners, especially where the damage is not covered by insurance.",
+      "link": null
+    },
+    {
+      "q": "How is the grant assessed?",
+      "a": "Grants are assessed on the basis of eligibility, not 'entitlement', and may be partnered with other forms of assistance.",
+      "link": null
+    },
+    {
+      "q": "What should I do to apply for the grant?",
+      "a": "First, read the grant guidelines and FAQs on the NSW Grants and Funding Finder to check if you meet the eligibility criteria. You can also call Service NSW on 13 77 88, Monday to Friday 8:30am to 5pm (Sydney time), to discuss your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:46Z",
+    "last_modified": "23 December 2025",
+    "html_sha1": "4a0eecb839ae4a4a3f8ce1fe565ab484b377789f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

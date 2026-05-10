@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-hbc-check",
+  "title": "Use the Home Building Compensation (HBC) Check",
+  "summary": "Use the HBC Check to verify details about home building compensation insurance for a property.",
+  "topics": [
+    "home-building-compensation",
+    "insurance-check",
+    "building-work",
+    "property-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "insurance certificate number",
+    "principal contractor’s name or licence number",
+    "name of the company or partnership",
+    "property address of the insured work"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "insurance certificate number",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "principal contractor’s name or licence number",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "name of the company or partnership",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "property address of the insured work.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information on home building compensation visit the State Insurance Regulatory Authority.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "State Insurance Regulatory Authority",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation/home-building-compensation-for-homeowners"
+    },
+    {
+      "text": "Home building compensation insurance – SIRA",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation"
+    },
+    {
+      "text": "How we care for home owners – icare",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/homeowners/what-we-do"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for home building compensation cover",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover"
+    },
+    {
+      "text": "Apply for a certificate of eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-certificate-of-eligibility"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Check the registration of a professional engineer, design practitioner or building practitioner",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What situations require HBC cover?",
+      "a": "HBC cover is required when constructing a new home or new apartment building (up to 3 storeys), renovating a home building regardless of height, or for swimming pool work.",
+      "link": null
+    },
+    {
+      "q": "How does HBC cover protect homeowners?",
+      "a": "HBC cover protects homeowners in cases of insolvency, death or disappearance, or if a builder's licence is suspended for failing to compensate a home owner.",
+      "link": null
+    },
+    {
+      "q": "What details are provided by the HBC Check?",
+      "a": "The check provides the insurance certificate issue date, the insured work property address, the principal contractor name and licence number, and details of insurance claims that have been paid.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:07Z",
+    "last_modified": "14 August 2025",
+    "html_sha1": "9fec2f1276f4c7d9e7f62c1ed084b3890b9a1dc6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

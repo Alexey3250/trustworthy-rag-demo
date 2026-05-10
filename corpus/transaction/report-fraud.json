@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-fraud",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-fraud",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-fraud",
+  "title": "Report fraud",
+  "summary": "This page provides information on how to report suspected fraudulent business activity to the NSW Government.",
+  "topics": [
+    "report-fraud",
+    "nsw-government",
+    "fraud-reporting",
+    "emergency-assistance"
+  ],
+  "intro": "Fraud is dishonestly obtaining a benefit by deception or other means.\n\nIf you suspect a business is defrauding the NSW Government in relation to any disaster payments, grants, voucher schemes, landowners and tenants relief, and/or any other NSW Government emergency assistance, you can report it online via the NSW Fraud Reporting Portal.\n\nThe types of fraud can include, but are not limited to:",
+  "who_can_apply": [
+    "Anyone who is aware of, or suspects fraudulent business activity"
+  ],
+  "what_you_need": [
+    "the name of the business",
+    "the type of fraud",
+    "the amount of money involved (if known)",
+    "a summary of the allegation",
+    "evidence to validate your allegation (if available)",
+    "how and where it occurred (if applicable)",
+    "your contact details (you can remain anonymous if you prefer)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to report fraud.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "A page confirming that your report has been received will display. Make a note of the confirmation number.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "All reports of suspected fraud are taken seriously.",
+      "link": null
+    },
+    {
+      "text": "Service NSW has processes in place to ensure that any payments made on the basis of incorrect, incomplete, or fraudulent information are recovered.",
+      "link": null
+    },
+    {
+      "text": "If evidence of criminal activity is identified, the matter will be referred to NSW Police and law enforcement action may be taken.",
+      "link": null
+    },
+    {
+      "text": "If you have further information to add to your initial report, please call 13 77 88.",
+      "link": "tel:137788"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "online contact form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can report suspected fraud?",
+      "a": "Anyone who is aware of, or suspects fraudulent business activity should report it.",
+      "link": null
+    },
+    {
+      "q": "How can I report fraud if I cannot report online?",
+      "a": "Call 13 77 88 for advice on how to make your report.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to report fraud?",
+      "a": "You should have the name of the business, the type of fraud, the amount of money involved (if known), a summary of the allegation, evidence, how and where it occurred, and your contact details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:12Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "04bed732cad1ddcf7d579288c751130160c73dc2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

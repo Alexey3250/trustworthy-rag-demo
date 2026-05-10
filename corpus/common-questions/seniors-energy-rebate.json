@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/seniors-energy-rebate",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/seniors-energy-rebate",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "seniors-energy-rebate",
+  "title": "Seniors Energy Rebate: Common questions",
+  "summary": "This page provides common questions and information regarding the Seniors Energy Rebate.",
+  "topics": [
+    "energy-rebate",
+    "seniors",
+    "nsw",
+    "documents"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "NSW Driver Licence",
+    "NSW Photo Card (physical or digital), including full name and date of birth",
+    "NSW Firearms licence, including full name and date of birth",
+    "Australian passport",
+    "Foreign passport (Australian visa)",
+    "Australian birth certificate from any state or territory (birth extracts and commemorative birth certificates are not acceptable)",
+    "Australian citizenship certificate",
+    "Australian certificate of registration by descent"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "take a photo of your bill with your phone, or scan it using your printer or scanner. Save the bill as one file or save each page of your bill separately",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "send it to an email account you can access on your computer or tablet. If this isn’t possible, ask your energy provider to send you a copy of the bill by email.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "be saved in one of the following formats: JPEG, JPG, PDF, PNG, TIF.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "be less than 6 MB in size",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "not have any spaces or special characters in the file name.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "email the photo to yourself",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "open the email on a computer or tablet",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "open and save the image of your document as a JPEG, JPG, PDF, PNG or TIF file.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "managing, saving and sharing files on computers and tablets",
+      "url": "https://beconnected.esafety.gov.au/topic-library?catalog_fts=files&orderbykey=score&itemstyle=narrow"
+    },
+    {
+      "text": "Authorisations: Australian Energy Regulator",
+      "url": "https://www.aer.gov.au/industry/registers/authorisations"
+    },
+    {
+      "text": "Energy & Water Ombudsman NSW",
+      "url": "https://www.ewon.com.au/page/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Letter of Authority for Seniors Energy Rebate – PDF",
+      "url": "https://www.service.nsw.gov.au/system/files/2024-10/letter-of-authority-seniors-energy-rebate.pdf"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Seniors Energy Rebate Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/seniors-energy-rebate"
+    },
+    {
+      "text": "Seniors Energy Rebate Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/seniors-energy-rebate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:34Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "ac22428ed08f8baacdd32a1121bf91cde1e2c9a6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

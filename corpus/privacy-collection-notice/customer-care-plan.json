@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-care-plan",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-care-plan",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "customer-care-plan",
+  "title": "Customer Care Plan – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal information to provide disaster recovery assistance.",
+  "topics": [
+    "disaster-recovery",
+    "privacy",
+    "service-nsw",
+    "assistance"
+  ],
+  "intro": "Service NSW have developed the Customer Care Plan (the Plan) to provide disaster recovery assistance to you, your family, and/or your business. We will use the plan as a guide for our staff to ensure that they provide the information you need to recover from the disaster you are experiencing.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my information?",
+      "a": "Service NSW collects your information to provide guidance and assistance related to the disaster you are experiencing, and to provide details on potential grants, vouchers, or rebates.",
+      "link": null
+    },
+    {
+      "q": "What information might Service NSW collect?",
+      "a": "Service NSW may collect your full name, and other information to provide assistance, track activities, or request participation in evaluation activities.",
+      "link": null
+    },
+    {
+      "q": "Who will Service NSW share my information with?",
+      "a": "Service NSW may share your information with government agencies, their contractors, or non-government organisations who can provide assistance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:04Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "83c990a7755c4a015cee8a99427a1a3f40e3f1c7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/packaged-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/packaged-liquor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "packaged-liquor-licence",
+  "title": "Packaged liquor licence",
+  "summary": "This page provides information about obtaining a packaged liquor licence in New South Wales.",
+  "topics": [
+    "liquor-licence",
+    "packaged-liquor",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a packaged liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-packaged-liquor-licence"
+    },
+    {
+      "text": "Check a packaged liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a packaged liquor licence?",
+      "a": "You can apply for a packaged liquor licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-packaged-liquor-licence"
+    },
+    {
+      "q": "How can I check the status of a packaged liquor licence?",
+      "a": "You can check a packaged liquor licence using the dedicated check page.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c0751d98cdd8accb3a77a9794bf68d63920995df",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

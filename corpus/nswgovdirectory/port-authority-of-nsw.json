@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/port-authority-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/port-authority-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "port-authority-of-nsw",
+  "title": "Port Authority of NSW",
+  "summary": "This page provides information about the Port Authority of NSW.",
+  "topics": [
+    "port-authority",
+    "nsw-government",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.portauthoritynsw.com.au/",
+      "url": "https://www.portauthoritynsw.com.au/"
+    },
+    {
+      "text": "About us",
+      "url": "https://www.portauthoritynsw.com.au/corporate/about-us/"
+    },
+    {
+      "text": "Submit an enquiry or complaint online",
+      "url": "https://www.portauthoritynsw.com.au/corporate/about-us/contact-us/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:55Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0509b8686ed8751cf637a5304b525bf3b0191ae6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

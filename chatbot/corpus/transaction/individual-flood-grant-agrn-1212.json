@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212",
+  "source_url": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "individual-flood-grant-agrn-1212",
+  "title": "East Coast Severe Weather Personal Hardship Assistance",
+  "summary": "Find out if you are eligible for a personal hardship assistance payment following the East Coast Severe Weather event.",
+  "topics": [
+    "disaster-assistance",
+    "financial-support",
+    "severe-weather",
+    "personal-hardship"
+  ],
+  "intro": "If you have been affected by the East Coast Severe Weather event, you may be eligible for a personal hardship assistance payment.\n\nThe payment is to help pay for food, medication, clothing, temporary accommodation and other essential needs.\n\nYour residence must be located in a suburb in the defined Impacted Area:\n\nThe list of eligible suburbs may be updated from time to time. The most recent update was made on 14 July.\n\nNote: This support is in addition to the Disaster Recovery Allowance and the Australian Government Disaster Recovery Payment available via Services Australia. For more information and eligibility criteria visit Services Australia.\n\n### Closing date\n\nApplications are closed.",
+  "who_can_apply": [
+    "Be aged 18 or over on 18 May 2025.",
+    "Live at an address in the Impacted Area on 18 May 2025.",
+    "Be impacted by the East Coast Severe Weather event.",
+    "Require emergency financial assistance to meet immediate needs or the needs of your dependents as a result of the East Coast Severe Weather event.",
+    "If under 18 on 18 May 2025, you may still be eligible if you meet other criteria and apply in person at a Service NSW Centre, Mobile Service Centre, or Recovery Assistance Point."
+  ],
+  "what_you_need": [
+    "A proof of identity document showing your full name and date of birth.",
+    "A MyServiceNSW Account.",
+    "Your Australian bank account details for payment.",
+    "A document showing your name and impacted address (must be the exact impacted postal address).",
+    "Names, dates of birth, and Medicare details for any dependents included in the application.",
+    "Supporting documents (JPG, PDF, PNG, or TIF format)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information:\n\n### Request an Internal Review of a decision about a grant application\n\nIf you do not agree with a decision we have made about your grant application, you can request an internal review.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/new-south-wales-east-coast-severe-weather-and-flooding-may-2025"
+    },
+    {
+      "text": "Disaster Relief Grant for individuals",
+      "url": "https://www.nsw.gov.au/resilience-nsw/disaster-relief-grant-for-individuals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "suburbs listed 30 May to 9 July",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-21-july"
+    },
+    {
+      "text": "suburbs listed from 10 July",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-4-august"
+    },
+    {
+      "text": "enquiry online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "request an internal review",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    },
+    {
+      "text": "Guidelines – East Coast Severe Weather Event Personal Hardship Assistance",
+      "url": "https://www.service.nsw.gov.au/guidelines/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "Terms and conditions – East Coast Severe Weather Event Personal Hardship Assistance",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "Privacy Collection Notice – East Coast Severe Weather Event Personal Hardship Assistance",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "Apply for the Recovery Grant for Small Businesses and Non-Profit Organisations",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-recovery-grant-agrn-1198-1212"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are applications for this assistance still open?",
+      "a": "Applications are currently closed.",
+      "link": null
+    },
+    {
+      "q": "What is the payment amount?",
+      "a": "The payment is $180 per eligible individual, and $180 per dependent, up to a maximum of $900 per application.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for this payment?",
+      "a": "You must be aged 18 or over on 18 May 2025, live at an address in the Impacted Area on 18 May 2025, and require emergency financial assistance due to the East Coast Severe Weather event.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:00Z",
+    "last_modified": "7 October 2025",
+    "html_sha1": "3967900be737b3485f7061f8fd9a5db57aa73546",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

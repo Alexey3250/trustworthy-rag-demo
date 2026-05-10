@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-a-condition-on-a-company-or-partnership-contractor-licence",
+  "title": "Change a condition on a company or partnership contractor licence",
+  "summary": "You can visit a Service NSW Centre to update your company or partnership contractor licence with a change of condition.",
+  "topics": [
+    "company-licence",
+    "partnership-licence",
+    "contractor-licence",
+    "service-nsw"
+  ],
+  "intro": "If you hold a company or partnership contractor licence you can visit a Service NSW Centre to ask for your licence to be updated with a change of a condition on your licence.",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence"
+  ],
+  "what_you_need": [
+    "Supporting document(s) to confirm the change of condition(s)",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button (if applicable).",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Print and complete the form (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "change of a condition on your licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/change-or-vary/conditions-placed-on-a-licence"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Add a category of work to a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the name on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Replace a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:10Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "5ddcdf7fec3e0955b9a9962e09b9e39097b4649e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

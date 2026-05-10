@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/digital-working-children-check-holders-wwcc-privacy-collection-notice",
+  "source_url": "https://www.service.nsw.gov.au/digital-working-children-check-holders-wwcc-privacy-collection-notice",
+  "category": "digital-working-children-check-holders-wwcc-privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "digital-working-children-check-holders-wwcc-privacy-collection-notice",
+  "title": "Digital Working with Children Check (for holders of WWCC) – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and handles personal information related to the Working with Children Check (WWCC) for digital working.",
+  "topics": [
+    "working-with-children-check",
+    "privacy",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": "Service NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Working with Children Check",
+      "link": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Privacy collection notices",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Office of the Children’s Guardian",
+      "url": "https://ocg.nsw.gov.au/"
+    },
+    {
+      "text": "Privacy Management Plan",
+      "url": "https://ocg.nsw.gov.au/working-children-check/applicant/privacy-and-information-management"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Office of Children’s Guardian",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/childrens-guardian"
+    },
+    {
+      "text": "SNSW Privacy page",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What personal information is collected?",
+      "a": "Information collected includes last name, date of birth and postcode, identification documents (such as Driver Licence, Photo Card, or WWCC Application), full name and WWCC number, the current or expired status of the WWCC, and the type of WWCC clearance (volunteer or employee).",
+      "link": null
+    },
+    {
+      "q": "What information is collected from WWCC holders?",
+      "a": "Details collected from WWCC holders include their full name and WWCC number, the expiry date and type of WWCC clearance, and the date checked by the verifier.",
+      "link": null
+    },
+    {
+      "q": "What information is collected from WWCC verifiers?",
+      "a": "Verifiers must provide their full name, email address, and mobile phone number. The QR Code check is restricted to employers who are a parent or carer of a child or young person, and the child-related work must relate to that child or young person.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:19Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "ca5ccbb691212d79e77a496f29cb82d830c347ea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

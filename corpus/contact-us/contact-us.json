@@ -1,0 +1,144 @@
+{
+  "url": "https://www.service.nsw.gov.au/contact-us",
+  "source_url": "https://www.service.nsw.gov.au/contact-us",
+  "category": "contact-us",
+  "article_kind": "content",
+  "slug": "contact-us",
+  "title": "Contact us",
+  "summary": "This page provides various ways to contact Service NSW, including phone numbers, service centre locations, and options for writing to them.",
+  "topics": [
+    "contact-us",
+    "phone-support",
+    "service-centre",
+    "write-to-us"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Connect with Service NSW on:",
+      "link": "https://www.facebook.com/ServiceNSW/"
+    },
+    {
+      "text": "Payment methods",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Pay a fine",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Apply for a payment plan for a fine",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "How we handle customer complaints",
+      "link": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    },
+    {
+      "text": "How we manage your personal information",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "link": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/ServiceNSW/"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://au.linkedin.com/company/servicensw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "How to stay cyber safe",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/protect-your-personal-information-with-service-nsw"
+    },
+    {
+      "text": "data breaches information",
+      "url": "https://www.service.nsw.gov.au/guide/data-breaches#what-if-i-want-to-replace-my-driver-licence-as-a-precaution"
+    },
+    {
+      "text": "this form",
+      "url": "https://www.service.nsw.gov.au/transaction/report-fraud"
+    },
+    {
+      "text": "cyber security, identity theft and scams",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security"
+    },
+    {
+      "text": "service centre locator",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "NSW Government Directory",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory"
+    },
+    {
+      "text": "Payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Apply for a payment plan for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "How we handle customer complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the phone number to call Service NSW within Australia?",
+      "a": "You can call Service NSW on 13 77 88.",
+      "link": null
+    },
+    {
+      "q": "How can I get in-language support when calling?",
+      "a": "Call 13 77 88 and select translation and interpreter services.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I am d/Deaf, hard of hearing, or have a speech/communication difficulty?",
+      "a": "Call through the National Relay Service and ask for 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:04Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "85f1edfa1cb512f4c64db253ecff58edd1f942e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/have-your-say-on-nsw-government-initiatives",
+  "source_url": "https://www.service.nsw.gov.au/transaction/have-your-say-on-nsw-government-initiatives",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "have-your-say-on-nsw-government-initiatives",
+  "title": "Have your say on NSW Government initiatives",
+  "summary": "Use the Have Your Say online portal to share your opinion on new NSW Government projects, services, and policies.",
+  "topics": [
+    "nsw-government-initiatives",
+    "feedback",
+    "policy",
+    "planning",
+    "environment"
+  ],
+  "intro": "Share your opinion on the NSW Government's new projects, services and policies through the Have Your Say online portal.\n\nThe portal lists current initiatives that are open to feedback, including transport, education, environment and planning.\n\nSearch for what is happening in your local area and find out more about what is being proposed. You can submit your feedback online, and in some cases, via email, mail or phone.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Contact the NSW Premier",
+      "url": "https://www.nsw.gov.au/nsw-government/premier-of-nsw/contact-premier"
+    },
+    {
+      "text": "Contact a NSW Government minister",
+      "url": "https://www.nsw.gov.au/nsw-government/ministers"
+    },
+    {
+      "text": "Contact your local member of parliament",
+      "url": "https://www.parliament.nsw.gov.au/members/pages/all-members.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:09Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "23c2d85850314504182119670c70a7f3182b8efe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

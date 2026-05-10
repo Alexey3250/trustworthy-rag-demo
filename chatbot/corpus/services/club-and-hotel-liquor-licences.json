@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/club-and-hotel-liquor-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/club-and-hotel-liquor-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "club-and-hotel-liquor-licences",
+  "title": "Club and hotel liquor licences",
+  "summary": "This page provides information and links for applying for, checking, or transferring various types of club and hotel liquor licences in NSW.",
+  "topics": [
+    "liquor-licences",
+    "club-licences",
+    "hotel-licences",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a club liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-club-liquor-licence"
+    },
+    {
+      "text": "Apply for a hotel or general bar liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-hotel-or-general-bar-liquor-licence"
+    },
+    {
+      "text": "Apply to transfer a club liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-club-liquor-licence"
+    },
+    {
+      "text": "Check a hotel or club liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Liquor licences for surf clubs",
+      "url": "https://www.service.nsw.gov.au/transaction/liquor-licences-for-surf-clubs"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a club liquor licence?",
+      "a": "You can apply for a club liquor licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-club-liquor-licence"
+    },
+    {
+      "q": "What are the options for applying for a hotel or general bar liquor licence?",
+      "a": "You can apply for a hotel or general bar liquor licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-hotel-or-general-bar-liquor-licence"
+    },
+    {
+      "q": "Do I need to transfer an existing club liquor licence?",
+      "a": "You can apply to transfer a club liquor licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-club-liquor-licence"
+    },
+    {
+      "q": "How can I check the status of a liquor licence?",
+      "a": "You can check a hotel or club liquor licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e593ec6d341cc83ec28ee9a3f1b9fef8c755ed71",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

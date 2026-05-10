@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test",
+  "source_url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "view-change-or-cancel-a-driver-or-rider-licence-test",
+  "title": "View, change or cancel a driver or rider licence test",
+  "summary": "You can view, change, or cancel a booked driver or rider licence test online.",
+  "topics": [
+    "driver-licence",
+    "rider-licence",
+    "test-booking",
+    "service-nsw"
+  ],
+  "intro": "If you've booked a driver or rider licence test and need to view, change or cancel it, you can do this online.\n\nAny change or cancellation to your booking needs to be made at least:\n\nThis also includes any tests you may need to take to change your licence class and type.\n\nIf you’ve cancelled your test within the required notice period, you may be able to get a refund. Call us on 13 77 88 or visit a Service NSW Centre to make a request.\n\nNote: To make changes to a rider training/testing booking made with a rider training provider, you need to contact the provider.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your booking number (found in your booking confirmation email)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage booking' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your booking number.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your family name.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to view, change or cancel your test.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When you visit a service centre for driver or rider licence testing, you'll need to prove your identity.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "You can take your test in a quieter environment at a Quiet Hour service centre location.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "prove your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Tests and practice tests for drivers – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests"
+    },
+    {
+      "text": "Getting a heavy vehicle licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/heavy-vehicle-licences/getting-a-heavy-vehicle-licence"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Quiet Hour service centre location",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Do your Driver Knowledge Test (DKT) online",
+      "url": "https://www.service.nsw.gov.au/transaction/driver-knowledge-test-online"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do if I cancel my test?",
+      "a": "If you cancel your test within the required notice period, you may be able to get a refund. Call 13 77 88 or visit a Service NSW Centre to make a request.",
+      "link": null
+    },
+    {
+      "q": "How do I make changes to a booking made with a private provider?",
+      "a": "To make changes to a rider training/testing booking made with a rider training provider, you need to contact the provider.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to change or cancel my test?",
+      "a": "You need your booking number, which you can find in your booking confirmation email.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:44Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "43621d30a890850a768bfb885101cc612d0b5759",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-community-services-portable-long-service-leave",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-community-services-portable-long-service-leave",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-community-services-portable-long-service-leave",
+  "title": "Register as an employer for the Community Services Industry portable long service leave scheme",
+  "summary": "Find out how to register as an employer for the Community Services Industry portable long service leave scheme, which starts on 1 July 2025.",
+  "topics": [
+    "community-services",
+    "employer-registration",
+    "long-service-leave",
+    "nsw-government"
+  ],
+  "intro": "The NSW Government is introducing a new Community Services Industry portable long service leave scheme on 1 July 2025. Levies and record-keeping responsibilities will only be calculated from 1 July 2025 onwards. Find out how the scheme works and what types of workers are eligible.",
+  "who_can_apply": [
+    "Work to provide a community service.",
+    "Work for an employer whose predominant purpose is to provide a community service.",
+    "Employ one or more persons to do community service work.",
+    "Supply a person through a labour hire arrangement to do community service work."
+  ],
+  "what_you_need": [
+    "MyServiceNSW Account",
+    "Business details",
+    "Supporting information"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Start registration' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to register for the scheme.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have multiple businesses, you will need to have separate ABNs for each application.",
+      "link": null
+    },
+    {
+      "text": "After your registration is received, it will be reviewed by Service NSW and you'll be notified of the outcome. This may take up to 5 business days.",
+      "link": null
+    },
+    {
+      "text": "Service NSW will provide registered businesses with details on how to take part in the scheme.",
+      "link": null
+    },
+    {
+      "text": "If you're applying on behalf of the business, the principal authority will have to accept or decline the application in the Business Profile before the registration is completed.",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Assess employer eligibility for the scheme",
+      "url": "https://www.longservice.nsw.gov.au/csi/employers/assess-employer-eligibility-for-the-scheme"
+    },
+    {
+      "text": "Long Service Corporation Privacy Collection Notice",
+      "url": "https://www.longservice.nsw.gov.au/about-us/accessing-information/privacy/privacy-collection-notices/csi-employer-registration"
+    },
+    {
+      "text": "Long Service Corporation Portable Long Service Schemes in NSW",
+      "url": "https://www.longservice.nsw.gov.au/csi/home"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does the Community Services Industry portable long service leave scheme start?",
+      "a": "The scheme is introduced on 1 July 2025. Levies and record-keeping responsibilities will only be calculated from this date onwards.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to be an employer under this scheme?",
+      "a": "Eligible employers are people who employ one or more persons to do community service work or supply a person through a labour hire arrangement to do community service work.",
+      "link": null
+    },
+    {
+      "q": "How do I register for the scheme?",
+      "a": "Select the 'Start registration' button, log in (or create your MyServiceNSW Account), and follow the prompts to register for the scheme.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:06Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "1665324ce20fbdf3de197035aa91f6c0dfd78256",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

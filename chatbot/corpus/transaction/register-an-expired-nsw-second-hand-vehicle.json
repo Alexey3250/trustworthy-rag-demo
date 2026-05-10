@@ -1,0 +1,154 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-an-expired-nsw-second-hand-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-an-expired-nsw-second-hand-vehicle",
+  "title": "Register an expired NSW second-hand vehicle",
+  "summary": "Learn how to re-register a second-hand vehicle if its registration has expired.",
+  "topics": [
+    "vehicle-registration",
+    "second-hand-vehicle",
+    "expired-registration",
+    "nsw-service"
+  ],
+  "intro": "Vehicle registrations that have expired but are within 3 months of the expiry date, can still be renewed. The vehicle is registered from the day the payment is made, but there's no extension of the expiry date.\n\nIf the registration expired more than 3 months ago, you'll need to re-register the vehicle.\n\nNote: If an unregistered vehicle is parked on a road or road-related area and the registration is more than 15 days overdue, the Police can seize the number plates. If this occurs, the vehicle will need to be re-registered.",
+  "who_can_apply": [
+    "The vehicle registration must have expired within 3 months to be renewed.",
+    "If the registration expired more than 3 months ago, the vehicle must be re-registered.",
+    "If the vehicle is parked on a road or road-related area and the registration is more than 15 days overdue, the vehicle must be re-registered."
+  ],
+  "what_you_need": [
+    "The 'Application for Registration' PDF form.",
+    "Proof of identity.",
+    "Proof of registration entitlement (if you purchased the unregistered vehicle).",
+    "Compulsory third party (CTP) insurance.",
+    "An Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (blue slip).",
+    "Your business or organisation details (if applicable).",
+    "Your fee payment.",
+    "The number plates, if available."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take the completed form, required documents and number plates to a Service NSW Centre and lodge your application with payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll receive new number plates when the vehicle is re-registered.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Used Car Safety Ratings – PDF",
+      "url": "https://towardszero.nsw.gov.au/sites/default/files/2024-10/ucsr-brochure-2024.pdf"
+    },
+    {
+      "text": "Unregistered vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles"
+    },
+    {
+      "text": "How to register a vehicle – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "renewed",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Transfer or register an interstate vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I renew my registration if it expired recently?",
+      "a": "Yes, if the vehicle registration expired within 3 months, you can still renew it. The registration will start from the day you pay, but the expiry date will not be extended.",
+      "link": null
+    },
+    {
+      "q": "What happens if my vehicle registration expired more than 3 months ago?",
+      "a": "If the registration expired more than 3 months ago, you will need to re-register the vehicle.",
+      "link": null
+    },
+    {
+      "q": "What happens if my unregistered vehicle is parked on the road and the registration is overdue?",
+      "a": "If an unregistered vehicle is parked on a road or road-related area and the registration is more than 15 days overdue, the Police can seize the number plates, and the vehicle will need to be re-registered.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:51Z",
+    "last_modified": "24 October 2024",
+    "html_sha1": "d8ee2b7d4e4c5028703e8fbbc9c596f10e5d3cad",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

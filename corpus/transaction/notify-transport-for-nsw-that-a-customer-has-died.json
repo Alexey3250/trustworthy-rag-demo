@@ -1,0 +1,143 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-transport-for-nsw-that-a-customer-has-died",
+  "title": "Notify Transport for NSW that a customer has died",
+  "summary": "Learn how to notify Transport for NSW (TfNSW) that a person with licences or vehicle/vessel registrations has died.",
+  "topics": [
+    "death-notification",
+    "transport-for-nsw",
+    "deceased-person",
+    "licences",
+    "vehicle-registration"
+  ],
+  "intro": "If a person with licences and/or vehicle or vessel registrations has died, you can advise Transport for NSW (TfNSW) by providing an appropriate document confirming the death.\n\nThe Registry of Births, Deaths and Marriages does inform TfNSW of a death, but it can take some time.",
+  "who_can_apply": [
+    "The person who died must have licences and/or vehicle or vessel registrations."
+  ],
+  "what_you_need": [
+    "Death certificate (original or copy)",
+    "Newspaper death notice",
+    "Online newspaper notification (the live link)",
+    "Letter from a solicitor or the NSW Trustee and Guardian advising that the person has died",
+    "A completed Advice of Death – PDF form",
+    "Proof of identity documents for the person who died and the person notifying of the death",
+    "For missing persons presumed deceased: 'Presumption of Death Order' issued by the Supreme Court (original or copy)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "email to transactions.parkes@service.nsw.gov.au",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "post to Service NSW, Parkes Middle Office, PO Box 21, Parkes NSW 2870",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "visiting a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "administrator of the estate",
+      "link": null
+    },
+    {
+      "text": "surviving joint registered operator, or",
+      "link": null
+    },
+    {
+      "text": "next of kin,",
+      "link": null
+    },
+    {
+      "text": "Transfer a vehicle registration due to the death of the registered operator",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer a vessel registration due to the death of the registered operator.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "To transfer a registered vehicle or vessel to one of the following:",
+      "link": null
+    },
+    {
+      "text": "visit:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Advice of Death – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Deceased estates and transferring vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration/deceased-estates-and-transferring-vehicle-registration"
+    },
+    {
+      "text": "Proof of registration entitlement – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Transfer a vehicle registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Transfer an E-Toll Account after someone has died",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I notify TfNSW that someone has died?",
+      "a": "You can notify TfNSW by providing an appropriate document confirming the death. You can submit this by emailing transactions.parkes@service.nsw.gov.au, posting to Service NSW, Parkes Middle Office, PO Box 21, Parkes NSW 2870, or visiting a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What documents are needed to notify TfNSW of a death?",
+      "a": "You need documents such as a death certificate, newspaper death notice, online newspaper notification, or a letter from a solicitor or the NSW Trustee and Guardian.",
+      "link": null
+    },
+    {
+      "q": "What if the person is missing and presumed deceased?",
+      "a": "If the person is missing and presumed deceased, you must provide a 'Presumption of Death Order' issued by the Supreme Court (original or copy). In this case, the Advice of Death form cannot be used.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:03Z",
+    "last_modified": "19 March 2025",
+    "html_sha1": "18ad69e3143ca3d0f494ec22902f526ef7e219fd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

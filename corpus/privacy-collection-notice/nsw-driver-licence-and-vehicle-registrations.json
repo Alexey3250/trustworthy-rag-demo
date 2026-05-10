@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-driver-licence-and-vehicle-registrations",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-driver-licence-and-vehicle-registrations",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "nsw-driver-licence-and-vehicle-registrations",
+  "title": "Adding the NSW Driver Licence and vehicle registrations service – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal information when you use the NSW Driver Licence and vehicle registrations service.",
+  "topics": [
+    "privacy",
+    "driver-licence",
+    "vehicle-registrations",
+    "personal-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Please visit our privacy statement for more information about how Service NSW handles your personal information. This includes how you can access and seek correction of the information, how privacy enquiries or complaints can be made, how information is securely stored and how to contact us. Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    },
+    {
+      "text": "Driving and transport",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "NSW Digital Driver Licence webpage",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What personal information is collected?",
+      "a": "The information collected includes driver licence details, photo card details, and vehicle registration details.",
+      "link": null
+    },
+    {
+      "q": "How will my information be used and disclosed?",
+      "a": "The notice outlines how the collected information will be used and disclosed.",
+      "link": null
+    },
+    {
+      "q": "Am I required by law to provide this information?",
+      "a": "The page addresses whether you are required by law to provide this information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:29Z",
+    "last_modified": "30 July 2024",
+    "html_sha1": "d127abee1aedbfeed5f0e716704187b86208fdd0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

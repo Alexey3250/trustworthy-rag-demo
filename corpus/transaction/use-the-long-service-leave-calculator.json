@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-long-service-leave-calculator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-long-service-leave-calculator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-long-service-leave-calculator",
+  "title": "Use the long service leave calculator",
+  "summary": "Use this online calculator to determine your long service leave entitlement.",
+  "topics": [
+    "long-service-leave",
+    "nsw-employment",
+    "leave-entitlement",
+    "calculator"
+  ],
+  "intro": "Most full-time, part-time or casual employees in NSW are entitled to long service leave. If you've been with the same employer for 10 years, you're entitled to 2 months (8.67 weeks) paid leave. This leave is paid at your ordinary gross weekly wage.\n\nIf you have completed 5 years (but less than 10 years) of service you may be entitled to a long service pro-rata payment if you:\n\nTo work out how much long service leave you have, use this online long service leave calculator.",
+  "who_can_apply": [
+    "Full-time, part-time, or casual employees in NSW",
+    "Employees who have been with the same employer for 10 years (entitled to 2 months paid leave)",
+    "Employees who have completed 5 years (but less than 10 years) of service (may be entitled to a long service pro-rata payment)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "About long service leave",
+      "url": "https://www.industrialrelations.nsw.gov.au/employers/nsw-employer-essentials/long-service-leave-entitlement-nsw/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is long service leave?",
+      "a": "Most full-time, part-time or casual employees in NSW are entitled to long service leave.",
+      "link": null
+    },
+    {
+      "q": "How much leave do I get after 10 years of service?",
+      "a": "If you've been with the same employer for 10 years, you're entitled to 2 months (8.67 weeks) paid leave.",
+      "link": null
+    },
+    {
+      "q": "Am I eligible for a pro-rata payment if I have less than 10 years of service?",
+      "a": "If you have completed 5 years (but less than 10 years) of service, you may be entitled to a long service pro-rata payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:22Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "e16441ffdff75dc0b953d67a39560382ffef7997",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-fair-trading",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-fair-trading",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-fair-trading",
+  "title": "NSW Fair Trading",
+  "summary": "This page provides information about NSW Fair Trading, a service that helps consumers and businesses with various consumer rights, safety, and business regulations.",
+  "topics": [
+    "consumer-rights",
+    "business-regulation",
+    "scams-and-safety",
+    "complaints",
+    "licences"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/fair-trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading"
+    },
+    {
+      "text": "For Associations",
+      "url": "https://www.nsw.gov.au/business-and-economy/incorporated-associations/about-incorporated-associations"
+    },
+    {
+      "text": "For Co-operatives",
+      "url": "https://www.nsw.gov.au/business-and-economy/co-operatives"
+    },
+    {
+      "text": "Our services",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/how-we-regulate"
+    },
+    {
+      "text": "Online tools",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/stay-informed/online-registers-and-tools"
+    },
+    {
+      "text": "Product and service safety",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/safety"
+    },
+    {
+      "text": "Types of scams and cybercrime",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/be-a-smart-consumer/types-of-scams-and-cybercrime"
+    },
+    {
+      "text": "Make a complaint",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a Service NSW location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Rental Bond Board",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rental-bond-board"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Apply for an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about consumer rights and product safety?",
+      "a": "You can find information on product and service safety, as well as types of scams and cybercrime, on the NSW Fair Trading website.",
+      "link": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/safety"
+    },
+    {
+      "q": "How do I make a complaint about a product or service?",
+      "a": "You can make a complaint through the dedicated complaints and enquiries section.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries"
+    },
+    {
+      "q": "What services does NSW Fair Trading regulate?",
+      "a": "NSW Fair Trading regulates various services, including owner-builder permits, builder and tradesperson licences, and individual contractor licences.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:43Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7ffa8e851d055d89a03a19048ff871f14fbf4301",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

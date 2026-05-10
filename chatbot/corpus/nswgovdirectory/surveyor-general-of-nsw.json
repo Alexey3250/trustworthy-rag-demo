@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/surveyor-general-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/surveyor-general-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "surveyor-general-of-nsw",
+  "title": "Surveyor General of NSW",
+  "summary": "This page provides information about the Surveyor General of NSW, including their role and related services.",
+  "topics": [
+    "surveyor-general",
+    "spatial-information",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.spatial.nsw.gov.au/",
+      "url": "https://www.spatial.nsw.gov.au/"
+    },
+    {
+      "text": "Make an online inquiry – Spatial Services NSW",
+      "url": "https://customerhub.spatial.nsw.gov.au/servicedesk/customer/user/login?destination=portals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Board of Surveying and Spatial Information (BOSSI)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/board-of-surveying-and-spatial-information-bossi"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:10Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cab069aab662188603b6c4f83a618ca18e912333",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

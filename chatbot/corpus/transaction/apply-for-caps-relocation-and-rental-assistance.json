@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-caps-relocation-and-rental-assistance",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-caps-relocation-and-rental-assistance",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-caps-relocation-and-rental-assistance",
+  "title": "Apply for CAPS relocation and rental assistance",
+  "summary": "Find out if you can get financial assistance for relocation and rent if you are an unemployed apprentice moving more than 60km for a new job.",
+  "topics": [
+    "apprenticeship",
+    "relocation",
+    "rental-assistance",
+    "caps",
+    "financial-support"
+  ],
+  "intro": "Unemployed apprentices who've found a new employer in NSW, but will need to relocate more than 60kms in order to continue the apprenticeship, may be able to get financial assistance from the Continuing Apprentices/Trainees Placement Scheme (CAPS).\n\nIf you're eligible you can claim relocation and rental assistance.\n\nYou must submit your claims within 3 months of the start of your new training contract.",
+  "who_can_apply": [
+    "Have been registered in NSW as an apprentice or new entrant trainee under the Apprenticeship and Traineeship Act 2001",
+    "Have registered with CAPS",
+    "Be unemployed and recommencing your apprenticeship",
+    "Be relocating more than 60kms from your previous place of residence in order to continue your apprenticeship"
+  ],
+  "what_you_need": [
+    "The PDF form: 'CAPS relocation and rental assistance application'",
+    "A copy of your rental lease",
+    "All receipts relating to your relocation",
+    "Your bank account details for payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The relocation allowance is a payment to reimburse your out-of-pocket expenses for the cost of moving house.",
+      "link": null
+    },
+    {
+      "text": "The rental allowance covers the costs of a rental bond (equivalent to a maximum of 4 weeks of rent) plus 2 weeks rent. It's not paid until after your new training contract has been approved and registered.",
+      "link": null
+    },
+    {
+      "text": "Visit Travel, accommodation and relocation assistance packages for apprentices for more detailed information.",
+      "link": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Travel, accommodation and relocation assistance packages for apprentices",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package"
+    },
+    {
+      "text": "Form VT12: CAPS relocation and rental assistance application – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2022-03/vt12_relocation_allowance_static.pdf"
+    },
+    {
+      "text": "Travel, Accommodation and Relocation Assistance Guidelines – PDF",
+      "url": "https://www.nsw.gov.au/education-and-training/resources/vtas-guidelines"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "registered with CAPS",
+      "url": "https://www.service.nsw.gov.au/transaction/register-with-continuing-apprentices-and-trainees-placement-service-caps"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for CAPS relocation and rental assistance?",
+      "a": "You must be an unemployed apprentice who has been registered in NSW as an apprentice or new entrant trainee under the Apprenticeship and Traineeship Act 2001, registered with CAPS, and relocating more than 60kms from your previous residence to continue your apprenticeship.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to submit my claims?",
+      "a": "You must submit your claims within 3 months of the start of your new training contract.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the 'CAPS relocation and rental assistance application' PDF form, a copy of your rental lease, and all receipts related to your relocation, including your bank account details for payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:25Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "76dc42b7de394a8f9aa96d594bd5e17927a81400",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

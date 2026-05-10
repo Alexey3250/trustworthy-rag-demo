@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-working-children-check-wwcc",
+  "title": "Renew your Working with Children Check",
+  "summary": "Learn about the two ways to renew your Working with Children Check (WWCC) and what you need for each method.",
+  "topics": [
+    "working-with-children-check",
+    "renew-wwcc",
+    "paid-workers",
+    "volunteers"
+  ],
+  "intro": "There are 2 ways to renew your Working with Children Check (WWCC), depending on how you choose to have your identification verified:\n\nYou cannot renew online using face verification if:\n\n### Fee payment\n\nTo renew your WWCC costs $107 for paid workers and is free for volunteers.\n\n### When to renew\n\nYour WWCC expires after 5 years.\n\nYou'll be notified by email 3 months before its expiry date. You can renew your WWCC from this time.\n\n### Access your WWCC details\n\nThe Working with Children Check (WWCC) is an online system and does not have a physical card or certificate. Find out how to access your WWCC details.",
+  "who_can_apply": [
+    "The WWCC is required for paid workers and volunteers.",
+    "You can renew your WWCC online using face verification or at a service centre."
+  ],
+  "what_you_need": [
+    "For online renewal using face verification: A MyServiceNSW Account with the 'Working with Children Check' service added, 3 current identity documents, a device with a working front camera, and a credit or debit card, PayPal, or PayID (if payment is required).",
+    "For renewal at a service centre: Your WWCC number, 4 identity documents, the email showing your APP number, your original identity documents, and your payment (if applicable)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For information about the renewal and WWCC screening processes, visit the OCG website.",
+      "link": "https://ocg.nsw.gov.au/working-children-check/applicant/how-renew-your-wwcc"
+    },
+    {
+      "text": "Remember to keep your WWCC details up to date so you can be contacted.",
+      "link": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/update-or-upgrade-your-wwcc-details"
+    },
+    {
+      "text": "### How face verification works",
+      "link": null
+    },
+    {
+      "text": "Learn more about using face verification to confirm your identity online.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "4 identity documents",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/proof-identity"
+    },
+    {
+      "text": "OCG renewal application form",
+      "url": "https://wwccheck.ocg.nsw.gov.au/Renew"
+    },
+    {
+      "text": "OCG website",
+      "url": "https://ocg.nsw.gov.au/working-children-check/applicant/how-renew-your-wwcc"
+    },
+    {
+      "text": "keep your WWCC details up to date",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/update-or-upgrade-your-wwcc-details"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access your WWCC details",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status#accessing-your-working-with-children-check-details"
+    },
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "how to add a service",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Watch a video",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc#video"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "face verification",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Add your Working with Children Check to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Change your Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    },
+    {
+      "text": "Find your Working with Children Check number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does it cost to renew my WWCC?",
+      "a": "It costs $107 for paid workers, but it is free for volunteers.",
+      "link": null
+    },
+    {
+      "q": "How long is a WWCC valid for?",
+      "a": "Your WWCC expires after 5 years.",
+      "link": null
+    },
+    {
+      "q": "When will I know it's time to renew?",
+      "a": "You will be notified by email 3 months before the expiry date, and you can renew from that time.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:30Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "917f1bc3eb96f2a9d508b2a24d5f63b5977cc612",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

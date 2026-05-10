@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-record-a-change-of-sex",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-record-a-change-of-sex",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-record-a-change-of-sex",
+  "title": "Apply to record a change of sex",
+  "summary": "This page provides information on how to apply to record a change of sex through the NSW Registry of Births, Deaths & Marriages.",
+  "topics": [
+    "change-of-sex",
+    "name-change",
+    "birth-certificate",
+    "nsw-registry"
+  ],
+  "intro": "A medical procedure is not required for a change of sex application through the NSW Registry of Births, Deaths & Marriages.",
+  "who_can_apply": [
+    "Adults and children",
+    "People born in NSW",
+    "People born overseas"
+  ],
+  "what_you_need": [
+    "Check your eligibility",
+    "Gather all necessary documents",
+    "Select the 'Register a change of sex' button",
+    "Complete the online form with fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check your eligibility.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex"
+    },
+    {
+      "n": 2,
+      "text": "Gather all the documents you need for your application including:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Register a change of sex' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete the online form with your fee payment.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex#toc-fees-and-processing-times"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Visit the NSW Registry of Births, Deaths & Marriages website for answers to common questions about a change of sex in NSW.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex"
+    },
+    {
+      "text": "Certificates are sent by the Registry of Births, Deaths & Marriages by registered post and cannot be collected at a service centre.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "check your eligibility",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex#toc-fees-and-processing-times"
+    },
+    {
+      "text": "online form help",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/online-form-help"
+    },
+    {
+      "text": "what to do if you cannot apply online",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-of-sex#:~:text=What%20if%20I%20cannot%20apply%20online"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a medical procedure required to change my recorded sex?",
+      "a": "No, a medical procedure is not required for a change of sex application through the NSW Registry of Births, Deaths & Marriages.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply to record a change of sex?",
+      "a": "Adults and children, people born in NSW, and people born overseas can apply.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to record a change of sex?",
+      "a": "First, check your eligibility. Then, gather all necessary documents, select the 'Register a change of sex' button, and complete the online form with fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:08Z",
+    "last_modified": "4 August 2025",
+    "html_sha1": "560e5c72b658e48e1753e5950b6bb611bbb0d0cf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-to-install-a-street-awning-or-business-sign",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-to-install-a-street-awning-or-business-sign",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-to-install-a-street-awning-or-business-sign",
+  "title": "Apply to install a street awning or business sign",
+  "summary": "This page explains the requirements and processes for applying to install a street awning or a business sign.",
+  "topics": [
+    "awning",
+    "business-sign",
+    "local-council",
+    "public-road",
+    "signage"
+  ],
+  "intro": "If you want to install an awning over any part of a public road or footpath, you need to apply for approval from your local council and obtain a complying development certificate.\n\nIf you want to install a business sign over any part of a public road or footpath, you need to apply for approval from your local council. This includes wall signs, fascia signs, under-awning signs, top hamper signs, temporary signs and public art.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "contact your local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "State Environmental Planning Policy – Advertising and Signage",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/epi-2001-0199"
+    },
+    {
+      "text": "Advertising and Signage Exempt Development Code – NSW legislation",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/epi-2008-0572#pt.2-div.2"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:28Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "9d7d2974d940909a39e6ec77ed416ad8fb758ddb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

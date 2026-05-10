@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-seasonal-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-seasonal-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-seasonal-vehicle-registration",
+  "title": "Renew a seasonal vehicle registration",
+  "summary": "You can renew a seasonal vehicle registration for a first or second quarter (3 months) or a half-year (6 months) term at a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "seasonal-registration",
+    "service-nsw",
+    "renewal"
+  ],
+  "intro": "If your vehicle is seasonally registered, and you want to renew the registration for a first or second quarter (3 months) or a half-year (6 months) term, you can do so at a Service NSW Centre.\n\nYour existing inspection report can be used to cover quarterly or half-yearly additional registration periods as long as those periods are within 12 months of the report's date.\n\nIf the report has expired you'll need a new inspection, either:",
+  "who_can_apply": [
+    "The vehicle must be seasonally registered.",
+    "The renewal term must be for a first or second quarter (3 months) or a half-year (6 months)."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your concession details (if applicable)",
+    "If not already submitted electronically to Transport for NSW, a completed Replacement Application – PDF (if you are not the first or second registered operator)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can renew seasonal registration up to 12 months after the expiry date.",
+      "link": null
+    },
+    {
+      "text": "You do not receive a renewal reminder for a seasonally registered vehicle.",
+      "link": null
+    },
+    {
+      "text": "If the registration is expired for more than 12 months you need to:",
+      "link": null
+    },
+    {
+      "text": "You do not need an inspection if your heavy vehicle is enrolled in the National Heavy Vehicle Accreditation Scheme.",
+      "link": "https://www.nhvr.gov.au/safety-accreditation-compliance/national-heavy-vehicle-accreditation-scheme"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Replacement Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "National Heavy Vehicle Accreditation Scheme",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/national-heavy-vehicle-accreditation-scheme"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use my existing inspection report for renewal?",
+      "a": "Yes, your existing inspection report can be used for quarterly or half-yearly additional registration periods, provided those periods are within 12 months of the report's date.",
+      "link": null
+    },
+    {
+      "q": "What do I need if my inspection report has expired?",
+      "a": "If the report has expired, you will need to complete a new inspection.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to renew my seasonal vehicle registration?",
+      "a": "You need your proof of identity, your concession details (if applicable), and if you are not the first or second registered operator, a completed Replacement Application – PDF.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:31Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "f122915909c0a5d9e6f60157a2eb688f5dcba3b8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

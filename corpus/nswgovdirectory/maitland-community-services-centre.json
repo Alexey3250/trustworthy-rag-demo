@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/maitland-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/maitland-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "maitland-community-services-centre",
+  "title": "Maitland Community Services Centre",
+  "summary": "This page provides information about the Maitland Community Services Centre, which is part of the Communities and Justice NSW Department.",
+  "topics": [
+    "community-services",
+    "maitland",
+    "justice",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:08Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "e0e1dacf8338178ac8350b1c89dfb364e32f38d2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

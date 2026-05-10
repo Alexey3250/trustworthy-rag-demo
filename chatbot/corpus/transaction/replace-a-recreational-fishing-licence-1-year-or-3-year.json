@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-recreational-fishing-licence-1-year-or-3-year",
+  "title": "Replace a recreational fishing licence (1-year or 3-year)",
+  "summary": "This page provides instructions on how to apply for a replacement recreational fishing licence receipt if your plastic card is lost, damaged, or stolen.",
+  "topics": [
+    "fishing-licence",
+    "nsw",
+    "recreational-fishing",
+    "replace-licence"
+  ],
+  "intro": "A NSW recreational fishing fee receipt (licence) can be either:\n\nYou must always have your receipt with you when you fish.\n\nIf your plastic receipt has been lost, damaged or stolen, you can apply for a replacement online.\n\nYou will need to pay a processing fee to replace a plastic card.\n\nFor a list of fees go to recreational fishing fees. For information on fishing in NSW go to NSW Primary Industries website.",
+  "who_can_apply": [
+    "Must be a recreational fisher in NSW."
+  ],
+  "what_you_need": [
+    "The name and licence number (found on your NSW fishing fee receipt).",
+    "Payment for a processing fee (if replacing a plastic card)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your name and your licence number. You can find this number on your NSW fishing fee receipt.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for your replacement fishing licence/fee receipt.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "recreational fishing fees",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee"
+    },
+    {
+      "text": "privacy collection notice",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/declaration-and-privacy-collection-notice"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to carry my fishing licence when I fish?",
+      "a": "Yes, you must always have your receipt with you when you fish.",
+      "link": null
+    },
+    {
+      "q": "How do I replace a lost or damaged fishing licence?",
+      "a": "You can apply for a replacement online if your plastic receipt has been lost, damaged, or stolen.",
+      "link": null
+    },
+    {
+      "q": "What is required to replace a plastic fishing licence card?",
+      "a": "You will need to pay a processing fee to replace a plastic card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:23Z",
+    "last_modified": "19 June 2025",
+    "html_sha1": "423c0ac6bc14355f6eba8d7228db058ed70c0fc7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/behind-the-scenes-ai-hackathon",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/behind-the-scenes-ai-hackathon",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "behind-the-scenes-ai-hackathon",
+  "title": "Behind the scenes of Service NSW’s AI Hackathon",
+  "summary": "This page provides a behind-the-scenes look at Service NSW's AI Hackathon.",
+  "topics": [
+    "ai",
+    "hackathon",
+    "technology",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/ServiceNSW/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:28Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "a63f2fd051cd409980a6a648a4839bdbb35df6f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

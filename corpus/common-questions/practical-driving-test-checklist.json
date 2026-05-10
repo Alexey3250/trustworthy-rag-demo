@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/practical-driving-test-checklist",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/practical-driving-test-checklist",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "practical-driving-test-checklist",
+  "title": "Common questions about what you need for your driving test",
+  "summary": "This page provides common questions and requirements for taking a practical driving test in NSW.",
+  "topics": [
+    "driving-test",
+    "nsw-licence",
+    "practical-test",
+    "driver-requirements"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Drivers under 25",
+    "Drivers with an overseas licence",
+    "Older drivers or if you have a medical condition",
+    "Heavy vehicle drivers"
+  ],
+  "what_you_need": [
+    "A registered, safe, and roadworthy vehicle that matches the licence type you are applying for.",
+    "Proof of identity, including your learner, overseas, or full driver licence.",
+    "The completed licence application form (available online or at the service centre).",
+    "Payment or concession card for the licence fee (some service centres only accept card payments).",
+    "Glasses or contact lenses for the eyesight test."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "pay a fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-test-fees"
+    },
+    {
+      "text": "Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/services/"
+    },
+    {
+      "text": "Translating and Interpreting Service",
+      "url": "https://www.tisnational.gov.au/"
+    },
+    {
+      "text": "Transport for NSW Proving your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#toc-documents-not-in-english"
+    },
+    {
+      "text": "heavy vehicle test requirements",
+      "url": "https://www.nhvr.gov.au/road-access/mass-dimension-and-loading"
+    },
+    {
+      "text": "A guide to the NSW driving test (PDF)",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-08/guide-to-driving-test.pdf"
+    },
+    {
+      "text": "About NSW tests for drivers",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "book an appointment to take a driving practical test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to bring for my driving test?",
+      "a": "You need to bring proof of identity, such as your learner, overseas, or full driver licence. It is also recommended to bring your payment or concession card for the licence fee, as some service centres only accept card payments.",
+      "link": null
+    },
+    {
+      "q": "What should I do before my driving test?",
+      "a": "You should check that your vehicle is registered, safe, roadworthy, and appropriate for the licence you want. You must also arrive at least 15 minutes before your test time and park in the designated Driving Test parking bays.",
+      "link": null
+    },
+    {
+      "q": "Do I need to prepare for the eyesight test?",
+      "a": "Yes, you may need to pass an eyesight test, so bring your glasses or wear contact lenses.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:26Z",
+    "last_modified": "23 November 2025",
+    "html_sha1": "cc71f099d9d73fb700e22e189890bdd41f6f99e6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

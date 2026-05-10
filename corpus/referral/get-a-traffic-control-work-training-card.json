@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-a-traffic-control-work-training-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-a-traffic-control-work-training-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-a-traffic-control-work-training-card",
+  "title": "Get a traffic control work training card",
+  "summary": "Learn about the requirements and process for obtaining a SafeWork NSW traffic control work training (TCWT) card.",
+  "topics": [
+    "traffic-control-card",
+    "safework-nsw",
+    "work-training"
+  ],
+  "intro": "If you do traffic control work on or adjacent to a public road, you must have a SafeWork NSW traffic control work training (TCWT) card.\n\nTo get a card you need to complete training and assessment with a SafeWork NSW approved training provider.\n\nTraffic control work includes:\n\nFor more information, visit SafeWork NSW.",
+  "who_can_apply": [
+    "Performing traffic control work on or adjacent to a public road"
+  ],
+  "what_you_need": [
+    "Complete training and assessment with a SafeWork NSW approved training provider"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/traffic-controller-training"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Replace a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-traffic-control-work-training-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a traffic control work training card?",
+      "a": "Yes, if you do traffic control work on or adjacent to a public road, you must have a SafeWork NSW traffic control work training (TCWT) card.",
+      "link": null
+    },
+    {
+      "q": "How do I get a traffic control work training card?",
+      "a": "You need to complete training and assessment with a SafeWork NSW approved training provider.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:43Z",
+    "last_modified": "30 April 2026",
+    "html_sha1": "950da5a5b15bea0b66411c0186042345150a354c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

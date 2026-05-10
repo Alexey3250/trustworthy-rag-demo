@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/disaster-relief-grant",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/disaster-relief-grant",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "disaster-relief-grant",
+  "title": "Disaster Relief Grant – Privacy Collection Notice",
+  "summary": "This notice explains how the NSW Government collects and uses your personal information when assessing your eligibility for the Disaster Relief Grant.",
+  "topics": [
+    "disaster-relief-grant",
+    "nsw-government",
+    "privacy-notice",
+    "personal-information"
+  ],
+  "intro": "The NSW Reconstruction Authority, Revenue NSW and Service NSW are delivering the Disaster Relief Grant (the Program) on behalf of the NSW Government. The NSW Reconstruction Authority and Revenue NSW (‘We’) are collecting your personal information to assess your eligibility for the Program and for related purposes. Your personal information will be stored and protected appropriately to the sensitivity of this information.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Revenue NSW Privacy Policy",
+      "url": "https://www.revenue.nsw.gov.au/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is collecting my personal information?",
+      "a": "The NSW Reconstruction Authority, Revenue NSW, and Service NSW are collecting your personal information on behalf of the NSW Government.",
+      "link": null
+    },
+    {
+      "q": "Why is my personal information being collected?",
+      "a": "Your information is collected to process your application, determine your eligibility for the Program, provide further information, and pay funds to eligible customers.",
+      "link": null
+    },
+    {
+      "q": "What types of personal information are collected?",
+      "a": "Information collected includes your full name, date of birth, contact number, residential and postal addresses, the affected property address, income, and Centrelink Reference Number.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:48Z",
+    "last_modified": "2 April 2025",
+    "html_sha1": "63631697082408f2f0d9f3dc77a7ed377938e6b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

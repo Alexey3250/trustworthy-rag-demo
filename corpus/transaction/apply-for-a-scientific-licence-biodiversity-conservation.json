@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scientific-licence-biodiversity-conservation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scientific-licence-biodiversity-conservation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-scientific-licence-biodiversity-conservation",
+  "title": "Apply for a scientific licence (biodiversity conservation)",
+  "summary": "This page explains the requirements and steps for applying for a scientific licence under the Biodiversity Conservation Act 2016.",
+  "topics": [
+    "biodiversity-conservation",
+    "scientific-licence",
+    "research-permits",
+    "nsw-environment"
+  ],
+  "intro": "You'll need a licence under the Biodiversity Conservation Act 2016 before you undertake an activity for scientific, educational or conservation purposes that is likely to result in one or more of the following:\n\nYou'll also need a licence if you plan to:",
+  "who_can_apply": [
+    "You must be undertaking an activity for scientific, educational, or conservation purposes that is likely to result in one or more specified outcomes.",
+    "The activity must be conducted in a manner that requires a licence under the Biodiversity Conservation Act 2016."
+  ],
+  "what_you_need": [
+    "Your qualifications",
+    "Concession card details (if applicable)",
+    "Details of your organisation, employer, or university (including ABN and/or ACN for academic staff and students)",
+    "Personal details and contact information for collaborators or staff working independently under the licence",
+    "A list of referees who can verify application details",
+    "Specific locations for research, including areas in National Parks and Wildlife Service managed lands",
+    "Details of the species, populations, or communities that may be affected, and the likely impacts of the project",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create an account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to apply for a scientific licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ABN and/or ACN",
+      "url": "https://connectonline.asic.gov.au/RegistrySearch/"
+    },
+    {
+      "text": "associates",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/scientific-licences/apply-for-a-scientific-licence"
+    },
+    {
+      "text": "Scientific Licensing Policy – PDF",
+      "url": "https://www.environment.nsw.gov.au/research-and-publications/publications-search/scientific-licensing-policy"
+    },
+    {
+      "text": "All about wildlife licensing in NSW",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/Wildlife-licences/"
+    },
+    {
+      "text": "Native animal facts",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/native-animals/native-animal-facts"
+    },
+    {
+      "text": "International wildlife trade – Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.dcceew.gov.au/environment/wildlife-trade"
+    },
+    {
+      "text": "BioNet: NSW biodiversity information",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/biodiversity/nsw-bionet/about-bionet-atlas"
+    },
+    {
+      "text": "NSW Native Animal Keepers' Species List – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/publications/nsw-native-animal-keepers-species-list"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What kind of activity requires a scientific licence?",
+      "a": "You need a licence if you undertake an activity for scientific, educational, or conservation purposes that is likely to result in one or more specified outcomes.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to apply for a scientific licence?",
+      "a": "You need your qualifications, details of your organisation or employer, personal details for collaborators, a list of referees, and details about the species and locations affected.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a scientific licence?",
+      "a": "You must gather the required information, select the 'Apply online' button, log in or create an account, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:31Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "d165fc753925eab847985987c3169690a850bfe5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

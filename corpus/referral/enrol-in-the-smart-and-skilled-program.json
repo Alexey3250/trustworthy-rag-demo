@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program",
+  "source_url": "https://www.service.nsw.gov.au/referral/enrol-in-the-smart-and-skilled-program",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "enrol-in-the-smart-and-skilled-program",
+  "title": "Enrol in the Smart and Skilled program",
+  "summary": "Find out if you are eligible for and how to enrol in subsidised training through the Smart and Skilled program to advance your career.",
+  "topics": [
+    "skills-training",
+    "nsw-government-subsidies",
+    "career-development",
+    "apprenticeships"
+  ],
+  "intro": "Are you planning to build your skills to find a job and advance your career? You may be able to get subsidised training for selected courses through the NSW Government program, Smart and Skilled.",
+  "who_can_apply": [
+    "Must be at least 15 years old.",
+    "Must not be currently at high school.",
+    "Must live or work in NSW (or be an Aboriginal or Torres Strait Islander person living in specific defined interstate NSW border areas).",
+    "Must be an Australian citizen, Australian permanent resident, humanitarian visa holder, or New Zealand citizen.",
+    "Must hold a valid Unique Student Identifier (USI) or be applying for one.",
+    "Must not depend on previous qualifications.",
+    "Eligibility is not affected if you have completed a vocational education and training (VET) course, including a school-based apprenticeship or traineeship, as part of your high school education."
+  ],
+  "what_you_need": [
+    "A valid Unique Student Identifier (USI) or an application for one."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "how to enrol in a course",
+      "url": "https://education.nsw.gov.au/skills-nsw/students-and-job-seekers/how-to-enrol"
+    },
+    {
+      "text": "NSW Skills List",
+      "url": "https://www.nsw.gov.au/education-and-training/resources/nsw-skills-list"
+    },
+    {
+      "text": "training course information",
+      "url": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    },
+    {
+      "text": "Fee-free apprenticeships – Department of Education",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/low-cost-and-free-training-options/fee-free-apprenticeships"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Fee-free apprenticeships",
+      "url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships"
+    },
+    {
+      "text": "Find a TAFE NSW course",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course"
+    },
+    {
+      "text": "Apply for an apprentice vehicle registration rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate"
+    },
+    {
+      "text": "Apply for the VTAS travel and accommodation allowance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What levels of training are available through Smart and Skilled?",
+      "a": "Training can be available up to Certificate III level, and may also include Certificate IV, Diploma, or Advanced Diploma level courses, depending on funding availability. It also supports some apprenticeships and traineeships.",
+      "link": null
+    },
+    {
+      "q": "How do I find out about subsidised courses?",
+      "a": "You can explore the list of subsidised courses on the NSW Skills List or find suitable training offered by approved providers using the training course information link.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for the Smart and Skilled program?",
+      "a": "You must be at least 15 years old, living or working in NSW (or in specific defined interstate NSW border areas for Aboriginal or Torres Strait Islander people), and hold an Australian citizenship, Australian permanent residency, humanitarian visa, or New Zealand citizenship.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:12Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "99a8195352d6c7d18f813a8563dab0db3d362cec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

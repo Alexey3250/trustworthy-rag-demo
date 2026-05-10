@@ -1,0 +1,219 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/nsw-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/nsw-driver-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "nsw-driver-licence",
+  "title": "NSW driver licence",
+  "summary": "This page provides comprehensive information and links for all services related to NSW driver and rider licences.",
+  "topics": [
+    "driver-licence",
+    "nsw",
+    "licence-renewal",
+    "licence-transfer",
+    "driving-rules"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "NSW residents",
+    "Interstate travellers",
+    "Overseas visitors",
+    "Australian Defence Force members"
+  ],
+  "what_you_need": [
+    "Proof of identity and address",
+    "Current licence details (if applicable)",
+    "Photo-kit (for temporary interstate/overseas renewal)",
+    "Relevant documentation for licence transfer or appeal"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Driver and rider licence fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "Replace a NSW Driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "Apply for a licence to be reissued after an enforcement action",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-an-enforcement-action"
+    },
+    {
+      "text": "Reprint a NSW Driver Licence Receipt",
+      "url": "https://www.service.nsw.gov.au/transaction/reprint-nsw-driver-licence-receipt"
+    },
+    {
+      "text": "Replace a licence card after a data breach",
+      "url": "https://www.service.nsw.gov.au/guide/data-breaches"
+    },
+    {
+      "text": "Apply for a combined driver licence and boat licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combined-driver-licence-and-boat-licence"
+    },
+    {
+      "text": "Apply for a licence to be reissued after being surrendered on medical grounds",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "How to get a driver licence in NSW",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Learner driver licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Provisional driver licences (P1, P2)",
+      "url": "https://www.service.nsw.gov.au/services/provisional-driver-licences"
+    },
+    {
+      "text": "Apply for a NSW licence as a temporary overseas visitor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-licence-as-a-temporary-overseas-visitor"
+    },
+    {
+      "text": "Losing your licence (suspension)",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    },
+    {
+      "text": "Appeal a licence or registration decision online",
+      "url": "https://www.service.nsw.gov.au/transaction/appeal-a-licence-or-registration-decision-online"
+    },
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Eyesight testing for NSW driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/guide/eyesight-tests-for-nsw-driver-and-rider-licences"
+    },
+    {
+      "text": "Apply for an international driving permit (IDP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "Transfer an overseas driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence"
+    },
+    {
+      "text": "Transfer an interstate driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-interstate-driver-licence"
+    },
+    {
+      "text": "Renew a driver licence while temporarily interstate or overseas (using a photo-kit form)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-driver-licence-while-temporarily-interstate-or-overseas"
+    },
+    {
+      "text": "Replace a driver licence while temporarily interstate or overseas",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-driver-licence-while-temporarily-interstate-or-overseas"
+    },
+    {
+      "text": "Transfer a probationary interstate driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-probationary-interstate-driver-licence"
+    },
+    {
+      "text": "Toll relief",
+      "url": "https://www.service.nsw.gov.au/services/toll-relief"
+    },
+    {
+      "text": "Savings Finder: Driving",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder#driving"
+    },
+    {
+      "text": "Change conditions on a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence"
+    },
+    {
+      "text": "Apply for a modified driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence"
+    },
+    {
+      "text": "Apply for a restricted journey licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-restricted-journey-licence"
+    },
+    {
+      "text": "Change Australian residency status on a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-australian-residency-status-on-a-nsw-driver-licence"
+    },
+    {
+      "text": "Apply to downgrade a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-downgrade-a-driver-licence"
+    },
+    {
+      "text": "Cancel (surrender) a NSW driver or rider licence voluntarily",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-nsw-driver-or-rider-licence-voluntarily"
+    },
+    {
+      "text": "Apply for a driver licence with an interlock condition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-with-an-interlock-condition"
+    },
+    {
+      "text": "Apply for a driver licence without an interlock condition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-without-an-interlock-condition"
+    },
+    {
+      "text": "Transfer an Australian Defence Force driver/rider licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-australian-defence-force-driver-rider-licence"
+    },
+    {
+      "text": "Request access to personal records held by Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw"
+    },
+    {
+      "text": "Request a copy of your NSW Driver Licence photo",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-copy-of-your-nsw-driver-licence-photo"
+    },
+    {
+      "text": "Apply for the Driver Licence Check service",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-driver-licence-check-service"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I renew or replace my NSW driver licence?",
+      "a": "You can find specific instructions and links for renewing, replacing, or reissuing your NSW driver licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "q": "What if I am an overseas visitor or resident?",
+      "a": "The page provides guidance on transferring, renewing, or applying for a licence if you are interstate or overseas.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence"
+    },
+    {
+      "q": "How do I get a driver licence in NSW?",
+      "a": "Information is available on how to get a driver licence, including details for learner and provisional licences.",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "q": "What should I do if I lose my licence or if it is suspended?",
+      "a": "There are guides available regarding losing your licence (suspension) and appealing a licence or registration decision online.",
+      "link": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:49Z",
+    "last_modified": "16 February 2026",
+    "html_sha1": "139e953a9d7e981919793a3cedccad2c4c5cf449",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

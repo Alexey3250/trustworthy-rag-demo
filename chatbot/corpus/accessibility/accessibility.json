@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/accessibility",
+  "source_url": "https://www.service.nsw.gov.au/accessibility",
+  "category": "accessibility",
+  "article_kind": "content",
+  "slug": "accessibility",
+  "title": "Accessibility (Service NSW website)",
+  "summary": "This page provides information about Service NSW's commitment to accessibility and how they ensure their services and website are usable for people with diverse needs.",
+  "topics": [
+    "accessibility",
+    "disability",
+    "web-design",
+    "services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "​​If you’re having trouble accessing any information or service provided by Service NSW you can contact us by:",
+  "more_info": [
+    {
+      "text": "Disability assistance",
+      "link": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Help in your language",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Interpreter for spoken language",
+      "link": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Document translation services",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Auslan video remote interpreting",
+      "link": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "text": "Live captioning services",
+      "link": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Disability Discrimination Act 1992",
+      "url": "https://www.humanrights.gov.au/our-work/disability-rights/guides/brief-guide-disability-discrimination-act"
+    },
+    {
+      "text": "WCAG current standard",
+      "url": "https://www.w3.org/WAI/standards-guidelines/wcag/"
+    },
+    {
+      "text": "Australian Government’s Digital Service Standard",
+      "url": "https://www.dta.gov.au/help-and-advice/about-digital-service-standard"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "online enquiry",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Auslan video remote interpreting",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "text": "Live captioning services",
+      "url": "https://www.service.nsw.gov.au/transaction/book-live-captioning-services-at-a-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can I contact if I have trouble accessing Service NSW information or services?",
+      "a": "You can contact Service NSW directly if you are having trouble accessing any information or service.",
+      "link": null
+    },
+    {
+      "q": "How does Service NSW ensure its website is accessible?",
+      "a": "The website is designed to be responsive, uses correctly structured semantic HTML, and includes WAI-ARIA roles for screen readers. It also ensures search and navigation options are keyboard accessible.",
+      "link": null
+    },
+    {
+      "q": "What types of accessibility testing do you carry out?",
+      "a": "User-testing is carried out with a wide range of people and accessibility needs, including cognitive, mobile, auditory, and visual needs. Testing also occurs on assistive devices and software like screen readers and magnifiers.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:19Z",
+    "last_modified": "12 February 2024",
+    "html_sha1": "9a74dbfcd79f4c2ec7e603c14a483bfa3e48fc14",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

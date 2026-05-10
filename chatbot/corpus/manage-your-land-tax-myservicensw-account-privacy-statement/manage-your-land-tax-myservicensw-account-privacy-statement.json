@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-privacy-statement",
+  "source_url": "https://www.service.nsw.gov.au/manage-your-land-tax-myservicensw-account-privacy-statement",
+  "category": "manage-your-land-tax-myservicensw-account-privacy-statement",
+  "article_kind": "content",
+  "slug": "manage-your-land-tax-myservicensw-account-privacy-statement",
+  "title": "Manage your land tax with a MyServiceNSW Account – Privacy Collection Notice",
+  "summary": "This page explains how Service NSW and Revenue NSW collect and use your personal information when you link your MyServiceNSW Account to the Land Tax portal.",
+  "topics": [
+    "land-tax",
+    "myservicensw-account",
+    "privacy",
+    "personal-information"
+  ],
+  "intro": "Service NSW, in partnership with Revenue NSW, is collecting your personal information to enable you to link your MyServiceNSW Account to the RNSW Land Tax portal.\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    },
+    {
+      "text": "Data Sharing (Government Sector) Act 2015",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2015-060"
+    },
+    {
+      "text": "Revenue NSW's privacy policy",
+      "url": "https://www.revenue.nsw.gov.au/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my personal information?",
+      "a": "The information is collected to provide you with access to and management of land tax, establish or maintain records in your MyServiceNSW Account, and for other directly related purposes.",
+      "link": null
+    },
+    {
+      "q": "What personal information is collected?",
+      "a": "They collect your name, date of birth, and contact details such as email address, phone number, and residential address.",
+      "link": null
+    },
+    {
+      "q": "How will my information be used and disclosed?",
+      "a": "The information may be used to contact you or Revenue NSW to verify your land tax details, for internal administrative purposes, or disclosed to Revenue NSW and NSW Police if fraud or criminal activity is suspected.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:46Z",
+    "last_modified": "16 January 2025",
+    "html_sha1": "e708f3011ee92a76ab5e5b68296d57bf964e18cc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

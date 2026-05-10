@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/restore-a-business-name",
+  "source_url": "https://www.service.nsw.gov.au/referral/restore-a-business-name",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "restore-a-business-name",
+  "title": "Restore a business name",
+  "summary": "This page explains the process for restoring a business name that has been cancelled due to non-renewal.",
+  "topics": [
+    "business-name",
+    "restore",
+    "cancelled",
+    "asic"
+  ],
+  "intro": "If your business name has been cancelled because you did not renew it by the due date, you have 6 months to contact the Australian Securities and Investments Commission (ASIC) and ask for it to be restored.\n\nIf it has been more than 6 months since your business name was cancelled, you cannot restore it. You need to check if it's still available and register it again.",
+  "who_can_apply": [
+    "The business name must have been cancelled because it was not renewed by the due date."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online enquiry form",
+      "url": "https://www.asic.gov.au/about-asic/contact-us/"
+    },
+    {
+      "text": "When ASIC cancels a business name – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/business-names/cancel-a-business-name-registration/when-asic-cancels-a-business-name/"
+    },
+    {
+      "text": "Search business names register – ASIC",
+      "url": "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/bn/SearchBnRegisters.jspx"
+    },
+    {
+      "text": "Register a business name – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/business-names/register-a-business-name/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How long do I have to restore a cancelled business name?",
+      "a": "If your business name was cancelled because you did not renew it, you have 6 months to contact the Australian Securities and Investments Commission (ASIC) and ask for it to be restored.",
+      "link": null
+    },
+    {
+      "q": "What happens if it has been more than 6 months since my business name was cancelled?",
+      "a": "If it has been more than 6 months since your business name was cancelled, you cannot restore it. You must check if it is still available and register it again.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:23Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "22eeb21601d3e20dabac24a232f4d78c83a7d5f5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

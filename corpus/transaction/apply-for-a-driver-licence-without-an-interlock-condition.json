@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-without-an-interlock-condition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-without-an-interlock-condition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-driver-licence-without-an-interlock-condition",
+  "title": "Apply for a driver licence without an interlock condition",
+  "summary": "Learn how to apply for a replacement driver licence after successfully completing the Interlock Program.",
+  "topics": [
+    "driver-licence",
+    "interlock-program",
+    "replacement-licence"
+  ],
+  "intro": "When you've successfully completed your period on the Interlock Program, you'll need to visit a service centre to apply for your replacement licence.\n\nIf you were a class C licence holder you'll be issued a replacement class C licence. If you previously held a different class of licence, you may need to take knowledge and driving tests for that licence class, depending on the length of your disqualification.\n\nTake your new licence to an interlock installer, and they'll remove the device from your vehicle.",
+  "who_can_apply": [
+    "You have received a letter advising you have successfully completed the Interlock Program."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "The PDF form – 'Replacement Application'",
+    "Your licence fee payment",
+    "Your driver licence"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application with your payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "licence fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Form 1018: Replacement Application – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Alcohol Interlock Program Participant Guide – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-04/alcohol-interlock-program-participant-guide-april-2025.pdf"
+    },
+    {
+      "text": "Alcohol Interlock Program – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/alcohol-interlock-program"
+    },
+    {
+      "text": "Sober Driver Program – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/sober-driver-program"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a driver licence with an interlock condition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-with-an-interlock-condition"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I was a class C licence holder?",
+      "a": "If you were a class C licence holder, you will be issued a replacement class C licence.",
+      "link": null
+    },
+    {
+      "q": "Do I need to take tests for my new licence class?",
+      "a": "If you previously held a different class of licence, you may need to take knowledge and driving tests, depending on the length of your disqualification.",
+      "link": null
+    },
+    {
+      "q": "What is the first step after applying for my replacement licence?",
+      "a": "Take your new licence to an interlock installer, and they will remove the device from your vehicle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:17Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "4f30ba12a04acb0a87cb97bdc125127e63a5fc28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

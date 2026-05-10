@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/real-estate-property-certificate",
+  "source_url": "https://www.service.nsw.gov.au/services/real-estate-property-certificate",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "real-estate-property-certificate",
+  "title": "Property certificate of registration",
+  "summary": "This page provides information on applying for and managing a property certificate of registration.",
+  "topics": [
+    "property-certificate",
+    "registration",
+    "real-estate",
+    "licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-of-registration"
+    },
+    {
+      "text": "Add or remove a category on a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-a-property-certificate-of-registration"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Renew or restore a property certificate of registration (Restricted to Livestock only)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-property-certificate-of-registration-livestock-only"
+    },
+    {
+      "text": "Replace a property certificate of registration",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-property-certificate-of-registration"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Apply for a property certificate under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-under-mutual-recognition"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a property certificate of registration?",
+      "a": "You can apply for a property certificate of registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-of-registration"
+    },
+    {
+      "q": "Can I apply for a property certificate under mutual recognition?",
+      "a": "Yes, you can apply for a property certificate under mutual recognition.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-under-mutual-recognition"
+    },
+    {
+      "q": "What if I need to change details on my property certificate or licence?",
+      "a": "You can change the details on your property certificate or licence through the relevant transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:05Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "dfd7d3779d1755e7ff7797d42cef6cc287b79396",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

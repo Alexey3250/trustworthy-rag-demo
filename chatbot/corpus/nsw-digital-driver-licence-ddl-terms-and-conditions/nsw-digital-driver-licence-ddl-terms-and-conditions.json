@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence-ddl-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence-ddl-terms-and-conditions",
+  "category": "nsw-digital-driver-licence-ddl-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "nsw-digital-driver-licence-ddl-terms-and-conditions",
+  "title": "NSW Digital Driver Licence (DDL) – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using the NSW Digital Driver Licence (DDL).",
+  "topics": [
+    "digital-driver-licence",
+    "nsw-licence",
+    "terms-and-conditions",
+    "driving-rules"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Reside within NSW",
+    "Have or be able to obtain a MyServiceNSW account",
+    "Have or will link your MyServiceNSW account to your NSW driver licence"
+  ],
+  "what_you_need": [
+    "A DDL is evidence that you have been issued a NSW driver licence.",
+    "It is recommended to carry your plastic driver licence card as a backup, as the DDL may not be accepted by all retailers or venues.",
+    "A plastic NSW Driver Licence Card must be held at all times when you are driving outside of NSW."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Can I use the DDL if I am driving outside of NSW?",
+      "a": "Yes, a plastic NSW Driver Licence Card must be held at all times when you are driving outside of NSW.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I need to show my licence to a Police Officer?",
+      "a": "Do not touch your mobile phone while in the driver’s seat of a motor vehicle until a Police Officer or other lawfully authorised person requests you to show your DDL.",
+      "link": null
+    },
+    {
+      "q": "What is my responsibility regarding my phone and DDL?",
+      "a": "It is your responsibility to ensure that your phone is working, the battery is charged, and the screen is not cracked, otherwise your DDL will not be accepted.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:22Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "a8dc5b2feb3fd67d347b68e898f5b9d7f171974f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

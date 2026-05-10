@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-management-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-management-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "transport-management-centre",
+  "title": "Transport Management Centre",
+  "summary": "This page provides information about the Transport Management Centre, which is a central point for transport services and information in NSW.",
+  "topics": [
+    "transport",
+    "nsw",
+    "nsw-government",
+    "transport-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.livetraffic.com",
+      "url": "https://www.livetraffic.com"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:54Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3dd8a4b74ab6b9c93de6b64178d322419cf2a5a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

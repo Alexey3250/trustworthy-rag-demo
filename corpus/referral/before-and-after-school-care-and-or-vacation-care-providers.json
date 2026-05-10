@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/before-and-after-school-care-and-or-vacation-care-providers",
+  "source_url": "https://www.service.nsw.gov.au/referral/before-and-after-school-care-and-or-vacation-care-providers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "before-and-after-school-care-and-or-vacation-care-providers",
+  "title": "Before and after school care and/or vacation care providers",
+  "summary": "This page provides information about finding and understanding before and after school care and vacation care providers.",
+  "topics": [
+    "child-care",
+    "school-care",
+    "vacation-care",
+    "nsw-education"
+  ],
+  "intro": "The NSW Department of Education:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Quality Standard",
+      "url": "https://www.startingblocks.gov.au/resources/children-and-services/choosing-a-service/understanding-the-national-quality-standard"
+    },
+    {
+      "text": "quality rating",
+      "url": "https://www.startingblocks.gov.au/resources/children-and-services/choosing-a-service/service-quality-ratings"
+    },
+    {
+      "text": "choosing a quality service",
+      "url": "https://education.nsw.gov.au/early-childhood-education/information-for-parents-and-carers/choosing-a-service"
+    },
+    {
+      "text": "StartingBlocks – Find Child Care",
+      "url": "https://www.startingblocks.gov.au/find-child-care"
+    },
+    {
+      "text": "Before and after school care (BASC) – NSW Department of Education",
+      "url": "https://education.nsw.gov.au/schooling/parents-and-carers/going-to-school/primary-schools/before-and-after-school-care"
+    },
+    {
+      "text": "Information for parents and carers – Department of Education",
+      "url": "https://education.nsw.gov.au/early-childhood-education/information-for-parents-and-carers"
+    },
+    {
+      "text": "Give feedback or make a complaint: Early childhood education – Department of Education",
+      "url": "https://education.nsw.gov.au/early-childhood-education/regulation-and-compliance/how-to-give-feedback-or-make-a-complaint"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:25Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "09118850b8e60587db05feb1531feadacf0b5c76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

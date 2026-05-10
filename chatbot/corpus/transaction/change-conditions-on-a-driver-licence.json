@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-conditions-on-a-driver-licence",
+  "title": "Change conditions on a driver licence",
+  "summary": "Visit a Service NSW Centre if you need to change, add, or remove a condition on your driver licence.",
+  "topics": [
+    "driver-licence",
+    "conditions",
+    "service-nsw",
+    "medical-review"
+  ],
+  "intro": "If you need to change, add or remove a condition on your driver licence (for example Transport for NSW may have requested that you have a medical review as part of a licence application), you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "your current NSW Driver Licence",
+    "documents relevant to the condition change (e.g., a medical report from your doctor, a driving test record sheet, or an HVCBA log book)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre to request the condition change.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Driving or riding with a disability – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability"
+    },
+    {
+      "text": "Licence conditions explained – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/conditions"
+    },
+    {
+      "text": "Licence conditions on medical advice – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/medical-licence-conditions"
+    },
+    {
+      "text": "Getting a medical assessment for fitness to drive – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/fitness-to-drive/medical-assessments"
+    },
+    {
+      "text": "A Guide to Older Driver Licensing – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-09/older-drivers-guide.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a modified driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence"
+    },
+    {
+      "text": "Apply for, replace, or renew a Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:45Z",
+    "last_modified": "6 August 2025",
+    "html_sha1": "65af2f94f8ee8c9ec6fed48f97d3ccc234631083",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-combat-sports-registration-combatant",
+  "title": "Apply for a combatant registration",
+  "summary": "You can apply online to register as a combatant to participate in combat sport contests in NSW.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "combatant"
+  ],
+  "intro": "You can apply online to register as a combatant to participate in combat sport contests in NSW.\n\nRegistration expires 3 years from the date granted, unless cancelled earlier, or the term extended or reduced.\n\nThe Combat Sports Authority of NSW grants registration in accordance with the Combat Sports Act 2013.",
+  "who_can_apply": [
+    "Must be 14 years or older.",
+    "Must be 18 years or older if applying for professional combatant registration classes.",
+    "Must not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "A recent passport size photograph (JPG/PNG format, maximum file size 10MB).",
+    "Proof of identity.",
+    "Personal details.",
+    "Proof of successful completion of training relating to the management of concussions and head injuries.",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to apply for combat sports combatant registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Emails are used to communicate with you throughout the application process. To ensure you don't miss out on important information you should:",
+      "link": null
+    },
+    {
+      "text": "If your application is incomplete, or you fail to provide the required information, your application will be delayed and may be refused. If your application is refused there is no provision for a refund of your registration application fee.",
+      "link": null
+    },
+    {
+      "text": "You'll get a medical record book if this is your first registration.",
+      "link": null
+    },
+    {
+      "text": "You won't be issued with a new medical record book if you've previously registered or you're applying for additional combatant registration classes.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Combat Sports Act 2013",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2013-096"
+    },
+    {
+      "text": "Crimes (Criminal Organisations Control) Act 2012",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-009"
+    },
+    {
+      "text": "Certificate of Fitness",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_certificate_of_fitness_for_combat_sports.pdf"
+    },
+    {
+      "text": "Serological Clearance Certificate",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_serology_clearance_certificate_s7_oct_2014.pdf"
+    },
+    {
+      "text": "Parent/Legal Guardian Consent form",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2023-05/Parent-Legal-Guardian-Consent-Form.pdf"
+    },
+    {
+      "text": "training relating to the management of concussions and head injuries",
+      "url": "https://connectivity.thinkific.com/courses/combat-course-nsw"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration"
+    },
+    {
+      "text": "change of name form",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/combatant-registration"
+    },
+    {
+      "text": "proof of identification document requirements",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2023-02/Combat-Sports_Authority-Proof-of-Identification-Document-Requirements.pdf"
+    },
+    {
+      "text": "Combat Sports Privacy Collection Notice",
+      "url": "https://www.sport.nsw.gov.au/combatsports/privacy"
+    },
+    {
+      "text": "Conditions of registration for combatants – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa-combatant-registration-conditions.pdf"
+    },
+    {
+      "text": "Combatant code of conduct – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_code_combatants.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Update medical documents for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents"
+    },
+    {
+      "text": "Replace a medical record book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-medical-record-book"
+    },
+    {
+      "text": "Apply for an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-participant-and-promoter"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a combatant registration valid for?",
+      "a": "Registration is valid for 3 years from the date it is granted, unless it is cancelled or the term is extended or reduced.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for combatant registration?",
+      "a": "You must be 14 or over. If you are applying for professional combatant registration classes, you must be 18 or over. You must also not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for combatant registration?",
+      "a": "You need a MyServiceNSW Account, a recent passport size photograph (JPG/PNG, max 10MB), proof of identity, your personal details, successful completion of training relating to the management of concussions and head injuries, and your payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:41Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "34f12085380e014843e81c623045ae0500bcff93",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

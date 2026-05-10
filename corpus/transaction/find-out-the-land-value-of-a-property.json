@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-out-the-land-value-of-a-property",
+  "title": "Find out the land value of a property",
+  "summary": "You can find out the land value and other details of your property online, as determined by the Valuer General.",
+  "topics": [
+    "land-value",
+    "property-details",
+    "valuer-general",
+    "property-valuation"
+  ],
+  "intro": "The Valuer General determines the value of land, and every 3 years provides a Notice of Valuation to property owners.\n\nYou can find out the land value and other details of your property, going back to 2001, online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the valuing year",
+    "your property number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to find the land value of a property.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Land value is the value of your land only. It doesn't include the value of your home or other structures. For more information on how land is valued, visit the Valuer General website.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "property address enquiry",
+      "url": "https://www.valuergeneral.nsw.gov.au/services/addr-inquiry.htm"
+    },
+    {
+      "text": "title reference enquiry",
+      "url": "https://www.valuergeneral.nsw.gov.au/services/title-inquiry.htm"
+    },
+    {
+      "text": "Valuer General website",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Opt in to receive your Notice of Valuation by email",
+      "url": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:50Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "d378f718c39c917111619b4179230ab17bc6aaff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

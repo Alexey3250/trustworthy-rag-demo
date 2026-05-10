@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/notify-the-use-of-pesticides-near-sensitive-places",
+  "source_url": "https://www.service.nsw.gov.au/referral/notify-the-use-of-pesticides-near-sensitive-places",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "notify-the-use-of-pesticides-near-sensitive-places",
+  "title": "Notify the use of pesticides near sensitive places",
+  "summary": "Learn the requirements and steps for notifying the use of pesticides near sensitive places.",
+  "topics": [
+    "pesticides",
+    "sensitive-places",
+    "pest-management",
+    "notification"
+  ],
+  "intro": "Pest management technicians must provide at least 5 working days' notice to the person responsible for a sensitive place, if you'll be spraying pesticides, or injecting liquid pesticides into the ground, within 20 metres of that sensitive place.\n\nThe Pesticides Regulation 2009 classifies a sensitive place as a:\n\nYou'll need to notify the neighbouring sensitive place the following information:\n\nCheck the Pest management technicians' fact sheet – PDF for details or an example notice.",
+  "who_can_apply": [
+    "Pest management technicians who plan to spray or inject liquid pesticides near a sensitive place."
+  ],
+  "what_you_need": [
+    "At least 5 working days' notice to the person responsible for the sensitive place.",
+    "The following information to provide to the neighbouring sensitive place: (Specific details not listed in the provided text)",
+    "A notice template (downloadable here: https://www.epa.nsw.gov.au/sites/default/files/17p0375-notice-intended-pest-application.docx)",
+    "The ability to lodge the notice by email, fax, post, or in person.",
+    "A method to record pesticide application details within 24 hours and keep a paper copy for 3 years."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download a notice template or draw up your notice.",
+      "link": "https://www.epa.nsw.gov.au/sites/default/files/17p0375-notice-intended-pest-application.docx"
+    },
+    {
+      "n": 2,
+      "text": "Lodge your notice by email, fax, post, or in person, with the person in charge of the affected sensitive place (such as the school principal, director or manager).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "You must record details of the pesticide application within 24 hours of using it and keep a paper copy of this record for 3 years.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have questions, you can email the NSW Environment Protection Authority or call the Environment Line on 131 555.",
+  "more_info": [
+    {
+      "text": "Fines apply if you're unable to show evidence that you provided the required notification.",
+      "link": null
+    },
+    {
+      "text": "You should have copies of the safety data sheet (SDS) in case someone requests them.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "sensitive place",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Pesticides/Licences-and-advice-for-occupational-pesticide-users/pest-management-technicians-fumigators-training-permits/notifying-pesticides-pest-management-technicians"
+    },
+    {
+      "text": "Pest management technicians' fact sheet – PDF",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/pesticide-factsheets-pest-mgt-technicians.pdf"
+    },
+    {
+      "text": "Download a notice template",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/17p0375-notice-intended-pest-application.docx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How far away must a sensitive place be from pesticide application?",
+      "a": "The notice must be provided if you are spraying or injecting liquid pesticides within 20 metres of the sensitive place.",
+      "link": null
+    },
+    {
+      "q": "How much notice is required before applying pesticides?",
+      "a": "Pest management technicians must provide at least 5 working days' notice to the person responsible for the sensitive place.",
+      "link": null
+    },
+    {
+      "q": "What must I do after using pesticides?",
+      "a": "You must record details of the pesticide application within 24 hours of using it and keep a paper copy of this record for 3 years.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:54Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "38a090014e3ad667064c2157f275edd7a0ecead6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

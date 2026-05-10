@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/clarence-correctional-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/clarence-correctional-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "clarence-correctional-centre",
+  "title": "Clarence Correctional Centre",
+  "summary": "This page provides information about the Clarence Correctional Centre.",
+  "topics": [
+    "correctional-centre",
+    "nsw-justice",
+    "dcj"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/clarence-correctional-centre.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/clarence-correctional-centre.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Justice Health and Forensic Mental Health Network",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/justice-health-and-forensic-mental-health-network"
+    },
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "3970b2d537c55e7802725edf92cb9b787d2234ae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

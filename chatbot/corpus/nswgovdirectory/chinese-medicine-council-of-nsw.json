@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/chinese-medicine-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/chinese-medicine-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "chinese-medicine-council-of-nsw",
+  "title": "Chinese Medicine Council of NSW",
+  "summary": "This page provides information about the Chinese Medicine Council of NSW.",
+  "topics": [
+    "chinese-medicine",
+    "nsw-health",
+    "council",
+    "practitioner"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.chinesemedicinecouncil.nsw.gov.au",
+      "url": "https://www.chinesemedicinecouncil.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7ce225e16d705b07aefdf6ea5639273356055917",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

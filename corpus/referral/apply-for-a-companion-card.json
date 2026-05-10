@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-companion-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-companion-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-companion-card",
+  "title": "Apply for a Companion Card",
+  "summary": "Find out if you are eligible for and how to apply for a NSW Companion Card, which allows a support person free entry to participating venues and events.",
+  "topics": [
+    "disability",
+    "companion-card",
+    "nsw-support",
+    "attendant-care"
+  ],
+  "intro": "The NSW Companion Card program is for people with significant and permanent disabilities who have a lifelong need for attendant care support when accessing the community. The Companion Card allows a cardholder’s support person free entry into participating venues and events.",
+  "who_can_apply": [
+    "Be a person with significant and permanent disability.",
+    "Be unable to participate in most community activities without attendant care support due to the impact of your disability.",
+    "Require life-long attendant care at this level.",
+    "Be an Australian citizen or permanent resident and live in NSW."
+  ],
+  "what_you_need": [
+    "Supporting documentation.",
+    "Completion of the online application."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit Get a Companion Card to check what you'll need to apply, then select 'Apply now'.",
+      "link": "https://www.nsw.gov.au/community-services/companion-card/get-a-card"
+    },
+    {
+      "n": 2,
+      "text": "Prepare all of your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online application with your supporting documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Learn more about the Companion Card.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Am I eligible for a Companion Card?",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/eligibility"
+    },
+    {
+      "text": "Get a Companion Card",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/get-a-card"
+    },
+    {
+      "text": "Companion Card",
+      "url": "https://www.nsw.gov.au/community-services/companion-card/about-card"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the NSW Companion Card for?",
+      "a": "The Companion Card program is for people with significant and permanent disabilities who need lifelong attendant care support when accessing the community. It allows a cardholder’s support person free entry into participating venues and events.",
+      "link": null
+    },
+    {
+      "q": "Does having an NDIS plan mean I qualify for the Companion Card?",
+      "a": "No. Eligibility for the National Disability Insurance Scheme (NDIS) does not mean you meet the NSW Companion Card criteria.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a Companion Card?",
+      "a": "Visit Get a Companion Card to check what you'll need to apply, then select 'Apply now'. You must also prepare all supporting documentation and complete the online application.",
+      "link": "https://www.nsw.gov.au/community-services/companion-card/get-a-card"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:10Z",
+    "last_modified": "3 July 2025",
+    "html_sha1": "5af86af5cd7aecdff13ddfc3ef94f77e2a8cc906",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

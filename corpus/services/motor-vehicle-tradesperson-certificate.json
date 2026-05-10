@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-vehicle-tradesperson-certificate",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-vehicle-tradesperson-certificate",
+  "title": "Motor vehicle tradesperson certificate",
+  "summary": "This page provides information and links for managing a motor vehicle tradesperson certificate, including applying, renewing, replacing, changing, checking, and surrendering the certificate.",
+  "topics": [
+    "motor-vehicle",
+    "tradesperson-certificate",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Renew a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Replace a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Restore a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Add or remove a class on a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-class-on-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Change the details on a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Check a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "text": "Surrender a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a motor vehicle tradesperson certificate?",
+      "a": "You can apply for a motor vehicle tradesperson certificate using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    },
+    {
+      "q": "How do I renew or replace my motor vehicle tradesperson certificate?",
+      "a": "You can renew or replace your certificate through the dedicated transaction pages.",
+      "link": null
+    },
+    {
+      "q": "What if I need to change or check my motor vehicle tradesperson certificate details?",
+      "a": "You can check your certificate, change its details, or add or remove a class using the provided links.",
+      "link": null
+    },
+    {
+      "q": "How do I surrender my motor vehicle tradesperson certificate?",
+      "a": "You can surrender your certificate by following the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:01Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "90b3dc61731f196eb14b8f5c1026a379a1e85a47",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-high-risk-work-licence-assessments",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-high-risk-work-licence-assessments",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-high-risk-work-licence-assessments",
+  "title": "Manage high risk work licence assessments",
+  "summary": "This page provides instructions for RTOs and approved training officers to manage high risk work (HRW) assessments using the online portal.",
+  "topics": [
+    "high-risk-work",
+    "licence",
+    "assessment",
+    "safe-work-nsw"
+  ],
+  "intro": "Workers who perform high risk work must hold a high risk work (HRW) licence. The licence is issued by SafeWork NSW once the workers have undergone training and assessment by an HRW registered training organisation (RTO). All HRW RTOs must be approved by SafeWork NSW.\n\nThe RTOs and their approved training officers can use the online portal to manage their HRW assessments including the notification of assessments.",
+  "who_can_apply": [
+    "RTOs and their approved training officers"
+  ],
+  "what_you_need": [
+    "a MyServiceNSW Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to manage HRW assessments.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "High risk work licence – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/high-risk-work-licence"
+    },
+    {
+      "text": "High risk work RTOs – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations/high-risk-work-rtos"
+    },
+    {
+      "text": "High risk work licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/high-risk-work-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "MyServiceNSW Accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Manage general construction induction training courses",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-general-construction-induction-training-courses"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:11Z",
+    "last_modified": "23 September 2025",
+    "html_sha1": "b1e7b0edd5923f2cd271fca32bf7fe5c256c9202",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

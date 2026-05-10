@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager",
+  "source_url": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "appoint-a-liquor-approved-manager",
+  "title": "Appoint a liquor approved manager",
+  "summary": "Corporate licensees with a liquor licence must notify Liquor & Gaming NSW when appointing a liquor approved manager.",
+  "topics": [
+    "liquor-licence",
+    "liquor-approved-manager",
+    "corporate-licensee",
+    "nsw-business"
+  ],
+  "intro": "If a corporation holds a liquor licence, the corporate licensee must:\n\nYou can notify Liquor & Gaming NSW online.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "A corporation that holds a liquor licence and is the corporate licensee."
+  ],
+  "what_you_need": [
+    "Details of the liquor licence and licensee, including contact details.",
+    "Details of the approved manager, including details of their approval.",
+    "The PDF form: Declaration by organisation – PDF"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the:",
+      "link": "https://www.nsw.gov.au/sites/default/files/noindex/2025-05/lq3992_apdec2_declaration_by_organisation_fa3_functionality.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Notify online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter your liquor licence number (including the letters) and your name.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Upload all the required supporting documentation.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot appoint a manager who is already appointed as the manager of another licensed premises.",
+      "link": null
+    },
+    {
+      "text": "A registered club with a single premises does not need to appoint a manager because the secretary of the club is taken to be the manager.",
+      "link": null
+    },
+    {
+      "text": "A registered club with multiple premises will need to appoint a manager, and notify Liquor & Gaming NSW for each premises other than the main premises.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Declaration by organisation – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-05/lq3992_apdec2_declaration_by_organisation_fa3_functionality.pdf"
+    },
+    {
+      "text": "Declaration by incoming manager – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/forms-licensed-venue-mgrs"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Manage, modify or move your liquor licence – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/modify-manage"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a liquor approved manager licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-liquor-approved-manager-licence"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find up-to-date guidelines on liquor licences?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page for resources and tools.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who should I contact if I have questions about liquor licensing?",
+      "a": "Contact Liquor & Gaming NSW directly.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:36Z",
+    "last_modified": "19 May 2025",
+    "html_sha1": "f197d082f95854bb5497fbfe7ea7268bad9743a4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

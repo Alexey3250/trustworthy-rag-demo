@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-nepean-blue-mountains-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-nepean-blue-mountains-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-nepean-blue-mountains-district",
+  "title": "DCJ Nepean Blue Mountains District",
+  "summary": "This page provides contact information and details for the DCJ Nepean Blue Mountains District Community Services Centre.",
+  "topics": [
+    "community-services",
+    "dcj",
+    "nepean",
+    "blue-mountains",
+    "contact"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Blue Mountains Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/blue-mountains-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Hawkesbury Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/hawkesbury-community-services-centre"
+    },
+    {
+      "text": "Lithgow Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/lithgow-community-services-centre"
+    },
+    {
+      "text": "Penrith Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/penrith-community-services-centre"
+    },
+    {
+      "text": "St Marys Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/st-marys-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:01Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b71e940d15ef21c56fc1b56462676499b92b8a9c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

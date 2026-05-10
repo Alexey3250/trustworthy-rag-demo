@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/waste-assets-management-corporation-wamc",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/waste-assets-management-corporation-wamc",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "waste-assets-management-corporation-wamc",
+  "title": "Waste Assets Management Corporation (WAMC)",
+  "summary": "This page provides information about the Waste Assets Management Corporation (WAMC), which manages waste assets in NSW.",
+  "topics": [
+    "waste-assets",
+    "management",
+    "corporation",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/property-and-development-nsw/what-we-do/contaminated-land-management/waste-assets-management-corporation",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/property-and-development-nsw/what-we-do/contaminated-land-management/waste-assets-management-corporation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Property and Development NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/property-and-development-nsw"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:19Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e6dda58aca04e49eb08ff6898831b4dfa0aa9fb7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

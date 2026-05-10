@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-pawnbroker-or-second-hand-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-pawnbroker-or-second-hand-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-pawnbroker-or-second-hand-dealer-licence",
+  "title": "Renew a pawnbroker or second-hand dealer licence",
+  "summary": "You can renew and pay for your pawnbroker or second-hand dealer licence online after receiving a renewal notice.",
+  "topics": [
+    "pawnbroker-licence",
+    "second-hand-dealer-licence",
+    "renew-licence",
+    "nsw-business"
+  ],
+  "intro": "When you receive your pawnbroker or second-hand dealer licence renewal notice, you can renew and pay online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your full personal details",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbrokers-and-second-hand-dealers-fees"
+    },
+    {
+      "text": "Pawnbroker and second-hand dealer licences – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/pawnbrokers-and-second-hand-dealers/pawnbroker-and-second-hand-dealer-licences"
+    },
+    {
+      "text": "Pawnbroking and secondhand dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/services/pawnbroking-and-secondhand-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-pawnbroker-or-second-hand-dealer-licence"
+    },
+    {
+      "text": "Restore a pawnbroker or second-hand dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-pawnbroker-or-second-hand-dealer-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:58Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "13143912e7b93e9940056be9225d0c3f08f54d5c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

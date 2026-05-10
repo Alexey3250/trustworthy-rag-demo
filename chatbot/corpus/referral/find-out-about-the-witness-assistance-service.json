@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-out-about-the-witness-assistance-service",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-out-about-the-witness-assistance-service",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-out-about-the-witness-assistance-service",
+  "title": "Find out about the Witness Assistance Service",
+  "summary": "Find out about the Witness Assistance Service (WAS), which supports victims and witnesses involved in criminal cases in NSW.",
+  "topics": [
+    "witness-assistance-service",
+    "victims",
+    "witnesses",
+    "criminal-cases"
+  ],
+  "intro": "The Witness Assistance Service (WAS) supports victims and witnesses involved in criminal cases in NSW.\n\nWAS can help with:\n\nPriority is given to:\n\nFor more information:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Witness Assistance Service",
+      "url": "https://www.odpp.nsw.gov.au/victims-witnesses/witness-assistance-service"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:34Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "359ac5a9646be7ac4582ec44606c80d83096951d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

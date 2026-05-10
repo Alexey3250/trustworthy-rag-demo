@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/dcj-legal-assistance-and-administration",
+  "source_url": "https://www.service.nsw.gov.au/referral/dcj-legal-assistance-and-administration",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "dcj-legal-assistance-and-administration",
+  "title": "DCJ Legal Assistance and Administration",
+  "summary": "This page provides information about the Legal Assistance and Administration services offered by the Department of Communities and Justice (DCJ Legal).",
+  "topics": [
+    "legal-assistance",
+    "department-of-communities-and-justice",
+    "law",
+    "administration"
+  ],
+  "intro": "The Legal business area at Department of Communities and Justice (DCJ Legal) ensures that the common law and statutory powers of the Attorney General are exercised in accordance with the law.\n\nThe team can also give you information about:\n\nVisit Legal Assistance and Administration – Department of Communities and Justice.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Legal Assistance and Administration – Department of Communities and Justice",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/laws-and-legislation/legal-assistance-and-applications.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:32Z",
+    "last_modified": "22 October 2025",
+    "html_sha1": "a87bfaf564fb4cfda647841cddb099bc69875701",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

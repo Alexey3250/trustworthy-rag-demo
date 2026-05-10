@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-ageing-and-disability-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-ageing-and-disability-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-ageing-and-disability-commission",
+  "title": "Ageing and Disability Commission, NSW",
+  "summary": "This page provides information about the Ageing and Disability Commission, which is an independent body that advocates for the rights of older people and people with disabilities in NSW.",
+  "topics": [
+    "ageing",
+    "disability",
+    "rights",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.ageingdisabilitycommission.nsw.gov.au",
+      "url": "https://www.ageingdisabilitycommission.nsw.gov.au"
+    },
+    {
+      "text": "Submit a report online",
+      "url": "https://www.ageingdisabilitycommission.nsw.gov.au/contact-us/submit-an-online-report.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:24Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8cb63b4d67de0f048f537d3384d3707052566942",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

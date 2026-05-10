@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/disaster-assistance-finder",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/disaster-assistance-finder",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "disaster-assistance-finder",
+  "title": "Disaster Assistance Finder – Privacy Collection Notice",
+  "summary": "This notice explains what personal information Service NSW collects when you use the Disaster Assistance Finder tool.",
+  "topics": [
+    "disaster-assistance",
+    "privacy",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The type of disaster impacting you",
+    "How the disaster has impacted you",
+    "Whether you are of Aboriginal and/or Torres Strait Islander origin",
+    "Your email address",
+    "Your full name",
+    "Your phone number",
+    "Your residential address"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected?",
+      "a": "Service NSW collects the type of disaster impacting you, how the disaster has impacted you, whether you are of Aboriginal and/or Torres Strait Islander origin, your email address, full name, phone number, and residential address.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "The information is used to provide you with personalized results on eligible assistance, to email a link to your results, and if you book an appointment, staff may use it to provide further information on eligible assistance.",
+      "link": null
+    },
+    {
+      "q": "Do I have to provide this information?",
+      "a": "You are required to provide this information if you want personalized recommendations or further information on the types of assistance for which you may be eligible.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:21Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "303a42ea96e3d100a2ebd8fdf14aa1fc59142159",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

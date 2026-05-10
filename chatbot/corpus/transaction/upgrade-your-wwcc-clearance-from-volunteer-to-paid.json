@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid",
+  "source_url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "upgrade-your-wwcc-clearance-from-volunteer-to-paid",
+  "title": "Upgrade your Working with Children Check from volunteer to paid",
+  "summary": "Learn how to upgrade your Working with Children Check (WWCC) clearance from a volunteer status to a paid status.",
+  "topics": [
+    "working-with-children-check",
+    "wwcc",
+    "paid-work",
+    "volunteer-to-paid"
+  ],
+  "intro": "People engaged in paid child-related work must hold a paid Working with Children Check (WWCC) clearance.\n\nIf you hold a volunteer WWCC clearance, and you start paid child-related work, it is a legal requirement that you upgrade your WWCC clearance from volunteer to paid within 30 days of beginning the paid work.\n\nThe fee for a paid worker WWCC is $107.",
+  "who_can_apply": [
+    "People engaged in paid child-related work",
+    "Individuals who hold a volunteer WWCC clearance and are starting paid child-related work"
+  ],
+  "what_you_need": [
+    "Your WWCC number",
+    "Proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Upgrade online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form ensuring the name you enter matches your identity documents exactly.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a Service NSW Centre to present your original identity documents and pay the fee.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/proof-identity"
+    },
+    {
+      "text": "Working with Children Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Change your Working with Children Check registration details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to upgrade my WWCC if I start paid child-related work?",
+      "a": "Yes. If you hold a volunteer WWCC clearance and start paid child-related work, you must upgrade your WWCC clearance from volunteer to paid within 30 days of beginning the paid work.",
+      "link": null
+    },
+    {
+      "q": "How much does it cost to get a paid WWCC?",
+      "a": "The fee for a paid worker WWCC is $107.",
+      "link": null
+    },
+    {
+      "q": "What do I need to upgrade my WWCC?",
+      "a": "You need your WWCC number and proof of identity.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:39Z",
+    "last_modified": "1 July 2025",
+    "html_sha1": "e01a2d213f37315191be91ec3835ae181cf1c0fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

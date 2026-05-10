@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/threatened-species-scientific-committee-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/threatened-species-scientific-committee-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "threatened-species-scientific-committee-nsw",
+  "title": "Threatened Species Scientific Committee, NSW",
+  "summary": "This page provides information about the Threatened Species Scientific Committee, which advises the NSW government on threatened species.",
+  "topics": [
+    "environment",
+    "species",
+    "conservation",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species/nsw-threatened-species-scientific-committee",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species/nsw-threatened-species-scientific-committee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:01Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "7be1c305b874aaf0480e212fd2b41711fd0b53d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

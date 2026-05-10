@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-the-details-of-a-beekeeper-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-the-details-of-a-beekeeper-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-the-details-of-a-beekeeper-registration",
+  "title": "Update the details of a beekeeper registration",
+  "summary": "If you are already registered as a beekeeper in NSW, you can update your details online.",
+  "topics": [
+    "beekeeper-registration",
+    "nsw",
+    "department-of-primary-industries",
+    "update-details"
+  ],
+  "intro": "If you're registered as a beekeeper in NSW, you can update your details online.",
+  "who_can_apply": [
+    "You must be registered as a beekeeper in NSW."
+  ],
+  "what_you_need": [
+    "Your Department of Primary Industries username and password",
+    "Your registration number and the expiry date",
+    "Your licence class",
+    "Your new details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Login to the Department of Primary Industries portal.",
+      "link": "https://www.bfs.dpi.nsw.gov.au/UX/SignUp/index"
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You should update your details as soon as possible to ensure any correspondence such as a renewal notice is sent to the correct name and mailing address, and has the correct licence fee.",
+      "link": null
+    },
+    {
+      "text": "NSW beekeepers will need to adhere to the Australian Honey Bee Industry Biosecurity Code of Practice as a condition of registration. For more information, visit the Department of Primary Industries website.",
+      "link": "https://www.dpi.nsw.gov.au/animals-and-livestock/bees/beekeeper-registration"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Department of Primary Industries portal",
+      "url": "https://www.bfs.dpi.nsw.gov.au/UX/SignUp/index"
+    },
+    {
+      "text": "Department of Primary Industries website",
+      "url": "https://www.dpi.nsw.gov.au/animals-and-livestock/bees/beekeeper-registration"
+    },
+    {
+      "text": "Bees Biosecurity Fact Sheet – PDF",
+      "url": "https://www.dpi.nsw.gov.au/__data/assets/pdf_file/0006/722877/Bees.pdf"
+    },
+    {
+      "text": "All about honey bees and beekeeping",
+      "url": "https://www.dpi.nsw.gov.au/animals-and-livestock/bees"
+    },
+    {
+      "text": "Australian Honey Bee Industry Council",
+      "url": "https://honeybee.org.au/"
+    },
+    {
+      "text": "Amateur Beekeeper's Association of NSW",
+      "url": "https://www.beekeepers.asn.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-beekeeper-registration"
+    },
+    {
+      "text": "Renew a beekeeper registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-beekeeper-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:27Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "3249c8caf0c617f80d46d6c0bc70e8e86371f8bb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

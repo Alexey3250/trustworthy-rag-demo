@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-a-perinatal-medical-cause-of-death-form",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-a-perinatal-medical-cause-of-death-form",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-a-perinatal-medical-cause-of-death-form",
+  "title": "Order a Perinatal Medical Cause of Death form",
+  "summary": "You can order a Medical Certificate Cause of Perinatal Death (MCCPD) form by emailing the Registry of Births, Deaths & Marriages.",
+  "topics": [
+    "perinatal-death",
+    "medical-certificate",
+    "births-deaths-marriages",
+    "form-order"
+  ],
+  "intro": "You can order a Medical Certificate Cause of Perinatal Death (MCCPD) form by emailing the Registry of Births, Deaths & Marriages.\n\nIn your email, ensure you provide your name and postal address.\n\nNote: The address cannot be a locked bag or PO box.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your name",
+    "Your postal address (must not be a locked bag or PO box)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "emailing the Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages/business-partners/hospitals-and-medical-practitioners"
+    },
+    {
+      "text": "Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Order a Medical Certificate Cause of Death (MCCD) form",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-medical-certificate-cause-of-death-mccd-form"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:22Z",
+    "last_modified": "18 October 2024",
+    "html_sha1": "ef2f8eef411d323ae98e0c5680ce90f05a44aa30",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

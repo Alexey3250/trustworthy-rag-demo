@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-licence-under-mutual-recognition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-licence-under-mutual-recognition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-property-licence-under-mutual-recognition",
+  "title": "Apply for a property licence under mutual recognition",
+  "summary": "This page explains how to apply for a property licence in NSW if you already hold an equivalent licence in another state, territory, or New Zealand.",
+  "topics": [
+    "property-licence",
+    "mutual-recognition",
+    "real-estate-agent",
+    "nsw-licence"
+  ],
+  "intro": "If you hold a property licence in another state or territory, or New Zealand, you may be eligible to apply for the equivalent in NSW.\n\nAn individual property licence lets you work as an agent in:\n\nIf eligible, you can also add an auctioneer accreditation to your licence.\n\nApplications can be lodged online or at a Service NSW Centre.",
+  "who_can_apply": [
+    "Hold a current and equivalent licence in another Australian state/territory or New Zealand.",
+    "Have your principal place of business in NSW or within 50 kilometres of the NSW border."
+  ],
+  "what_you_need": [
+    "Two proof of identity documents (such as Australian driver licence, Medicare card, passport).",
+    "Completed Notice for Registration of Equivalent Occupation – PDF.",
+    "Completed Notification of Change to Partnership Particulars – PDF (if applicable).",
+    "Completed Notification of Licensee in Charge Details – PDF (if applicable).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap5210.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Gather original copies of the required documents, as indicated on the form",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Visit a service centre to submit your application and payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Check the continuing professional development (CPD) requirements for your licence class.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Notice for Registration of Equivalent Occupation – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap5210.pdf"
+    },
+    {
+      "text": "Notification of Change to Partnership Particulars – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726b.pdf"
+    },
+    {
+      "text": "Notification of Licensee in Charge Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726f.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Individual Property Licence Application – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726.pdf"
+    },
+    {
+      "text": "continuing professional development (CPD) requirements",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent/continuing-professional-development"
+    },
+    {
+      "text": "Property licence types and classes – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent#:~:text=Licence types and classes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of this licence?",
+      "a": "An individual property licence allows you to work as an agent in NSW.",
+      "link": null
+    },
+    {
+      "q": "Can I add extra accreditations to my licence?",
+      "a": "If eligible, you can add an auctioneer accreditation to your licence.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the licence?",
+      "a": "Applications can be lodged online or at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:36Z",
+    "last_modified": "9 October 2024",
+    "html_sha1": "111e734209342ca98fcdf722596d1c689e451403",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

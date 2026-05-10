@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattooist-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-tattooist-licence",
+  "title": "Apply for a tattooist licence",
+  "summary": "This page provides information on how to apply for a tattooist licence to perform body art tattooing procedures in NSW.",
+  "topics": [
+    "tattooist-licence",
+    "body-art",
+    "tattooing",
+    "nsw-licensing"
+  ],
+  "intro": "A tattooist licence allows you to perform body art tattooing procedures in NSW.\n\nNote: If you want to carry on a body art tattooing business, you'll need to apply for a tattoo master licence. If you hold a master licence for the premises and you also perform tattooing procedures at the same premises, you do not need a separate tattooist licence.",
+  "who_can_apply": [
+    "Be an individual and at least 18 years of age.",
+    "Be an Australian citizen, permanent resident, or New Zealand citizen.",
+    "Not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012.",
+    "Not be a member of a prescribed criminal organisation or have been a member in the previous 12 months."
+  ],
+  "what_you_need": [
+    "Copies of 2 types of acceptable identification documents.",
+    "Details of your previous, existing, or upcoming employment as a body art tattooist, including any employment as an apprentice.",
+    "Your application fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Tattoo Industry Licences - NSW Police Force",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/tattoo_industry_licences"
+    },
+    {
+      "text": "Tattoo industry licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/921942/SLED_Tattoo_PCN_-_Dec_2025.pdf"
+    },
+    {
+      "text": "Hygiene standards for body art and tattooing businesses – NSW Health",
+      "url": "https://www.health.nsw.gov.au/environment/factsheets/Pages/tattooing.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "tattoo master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence"
+    },
+    {
+      "text": "Renew a tattooist licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-tattooist-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a separate tattooist licence if I run a body art tattooing business?",
+      "a": "If you want to carry on a body art tattooing business, you must apply for a tattoo master licence. However, if you hold a master licence for the premises and also perform tattooing procedures there, you do not need a separate tattooist licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tattoo-master-licence"
+    },
+    {
+      "q": "What are the eligibility requirements to apply for a tattooist licence?",
+      "a": "You must be an individual, at least 18 years of age, and be an Australian citizen, permanent resident, or New Zealand citizen. You must also not be a controlled member of a declared organisation or a member of a prescribed criminal organisation.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about tattoo industry licensing?",
+      "a": "Additional information, including forms, application fees, and acceptable identification documents, is available at the NSW Police Force website.",
+      "link": "https://www.police.nsw.gov.au/online_services/sled/tattoo_industry_licences"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:40Z",
+    "last_modified": "27 March 2026",
+    "html_sha1": "d72091361c66e20cbdb01baedaead669b4119d53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

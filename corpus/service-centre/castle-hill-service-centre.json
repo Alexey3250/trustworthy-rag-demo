@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/castle-hill-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/castle-hill-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "castle-hill-service-centre",
+  "title": "Castle Hill Service Centre",
+  "summary": "This page provides information about the Castle Hill Service Centre, including payment options, accessibility features, and directions.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payments",
+    "directions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.727468,150.977095"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "North Rocks Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/north-rocks-service-centre"
+    },
+    {
+      "text": "Tallawong Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tallawong-service-centre"
+    },
+    {
+      "text": "Blacktown Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/blacktown-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Castle Hill Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit cards.",
+      "link": null
+    },
+    {
+      "q": "Is the Castle Hill Service Centre accessible?",
+      "a": "Yes, the centre offers wheelchair access, hearing loop, Auslan video remote interpreting, quiet hour, and remote live captioning. It is also located within a shopping centre and has on-site and undercover parking.",
+      "link": null
+    },
+    {
+      "q": "Where are the nearest Service NSW centres to Castle Hill?",
+      "a": "The nearest locations include the North Rocks Service Centre, Tallawong Service Centre, and Blacktown Service Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:32Z",
+    "last_modified": null,
+    "html_sha1": "0bc9fb05cc67e5e054e2864fddcf846a44d301a3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

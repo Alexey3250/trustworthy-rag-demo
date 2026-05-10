@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-safety-compliance-certifier-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-safety-compliance-certifier-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-vehicle-safety-compliance-certifier-licence",
+  "title": "Apply for a Vehicle Safety Compliance certifier licence",
+  "summary": "Learn how to apply for a Vehicle Safety Compliance certifier licence to inspect and certify non-standard vehicles.",
+  "topics": [
+    "vehicle-safety",
+    "certifier-licence",
+    "vsccs",
+    "automotive"
+  ],
+  "intro": "The Vehicle Safety Compliance Certification Scheme (VSCCS) licenses competent people to inspect non-standard vehicles and certify compliance with the relevant vehicle safety standards.",
+  "who_can_apply": [
+    "Must have at least a certificate IV in a relevant discipline (e.g., engineering or automotive)."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for a Certifier's Licence'",
+    "Certified copies of your qualifications",
+    "Certified copies of your proof of identity",
+    "Payment of the required fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read the Becoming a VSCCS licensed certifier – PDF guide.",
+      "link": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/vsccs-becoming-a-licensed-certifier.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Generally, trade certificates do not meet the minimum requirement of a certificate IV.",
+      "link": null
+    },
+    {
+      "text": "As a certifier, you need to hold $20 million public liability insurance and $5 million professional indemnity insurance. This insurance is available under Transport for NSW Principal Arranged Insurance cover. Alternatively, you can operate under your own insurance, if it meets the required criteria.",
+      "link": null
+    },
+    {
+      "text": "Transport for NSW (TfNSW) charges an application fee and an annual fee for certification under the VSCCS. The application fee is non-refundable. Fees also apply for administration functions and insurance. Learn more at Vehicle examiners, certifiers and assessors – fees.",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Once your application is received, TfNSW will confirm your eligibility based on your qualifications and experience, and conduct a criminal record check.",
+      "link": null
+    },
+    {
+      "text": "Subject to eligibility, you’ll be invited to an interview, where a detailed assessment of your competence will be conducted.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Becoming a VSCCS licensed certifier – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/vsccs-becoming-a-licensed-certifier.pdf"
+    },
+    {
+      "text": "Form 1581: Application for a Vehicle Safety Compliance Certification Scheme Certifier's Licence – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071560-vsccs-application-for-a-certifiers-licence.pdf"
+    },
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme (VSCCS) – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/vehicle"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the purpose of the VSCCS?",
+      "a": "The Vehicle Safety Compliance Certification Scheme (VSCCS) licenses competent people to inspect non-standard vehicles and certify compliance with the relevant vehicle safety standards.",
+      "link": null
+    },
+    {
+      "q": "What qualifications do I need to apply?",
+      "a": "You must have at least a certificate IV in a relevant discipline, such as engineering or automotive.",
+      "link": null
+    },
+    {
+      "q": "Where can I find the application form?",
+      "a": "The application requires the PDF form, 'Application for a Certifier's Licence' (Form 1581).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071560-vsccs-application-for-a-certifiers-licence.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:45Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "3222d433326ad81855c86ab9ffee4423e05155fc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

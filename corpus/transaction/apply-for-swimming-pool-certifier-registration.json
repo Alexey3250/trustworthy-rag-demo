@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-swimming-pool-certifier-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-swimming-pool-certifier-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-swimming-pool-certifier-registration",
+  "title": "Apply for swimming pool certifier registration",
+  "summary": "Learn about the requirements and steps to apply for a swimming pool certifier registration in NSW.",
+  "topics": [
+    "swimming-pool-certifier",
+    "building-inspector",
+    "registration",
+    "safety-compliance"
+  ],
+  "intro": "A registered swimming pool certifier inspects safety barriers for pools and spas and issues certificates of compliance under the Swimming Pools Act 1992 (NSW).\n\nOnce registered you will be added to the swimming pool inspector category of the Building Certifiers Public Register.\n\nFrom the second year of registration swimming pool inspectors must complete 6 points per year of continuing professional development (CPD).\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Certifier registration as a building inspector (unconditional).",
+    "Current endorsed contractor licence or supervisor certificate under the Home Building Act as a builder, swimming pool builder or structural landscaper.",
+    "2 years' recent experience working for a council and inspecting at least 20 swimming pools.",
+    "Completion of the College of Professional Development swimming pool inspector training course (the only provider approved by the Building Commission NSW).",
+    "Passing the Building Commission NSW exam within the 6 months leading up to your application."
+  ],
+  "what_you_need": [
+    "A copy of your driver licence (front and back) or a copy of your passport with a recent utility bill or rates notice showing your address, or another form of photo ID such as a NSW Photo Card.",
+    "Current employer and employment status or ASIC extract if you are a company director.",
+    "Qualifications, skills, knowledge, and experience.",
+    "Certificate of currency for professional indemnity insurance (if required).",
+    "Documents to prove your identity and current home address.",
+    "Documents showing your qualifications, skills, knowledge, and experience (for full details, visit Building Commission NSW – 'Applying to become a certifier')."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to your portal account or sign up.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For help with applications, access and online portal issues, contact the certifiers’ registration team by emailing certifierregistration@customerservice.nsw.gov.au.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Building Certifiers Public Register",
+      "url": "https://applications.fairtrading.nsw.gov.au/bdcregister/"
+    },
+    {
+      "text": "continuing professional development (CPD)",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/certifiers"
+    },
+    {
+      "text": "swimming pool inspector training course",
+      "url": "https://cpdtraining.com.au/registered-swimming-pool-inspector-course-formerly-e-1/"
+    },
+    {
+      "text": "Applying to become a certifier",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/applying"
+    },
+    {
+      "text": "Building certifiers portal user guide",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal"
+    },
+    {
+      "text": "Pools and pool safety – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/pools-and-pool-safety"
+    },
+    {
+      "text": "Swimming Pool Register: Check a property – Building Commission NSW",
+      "url": "https://www.swimmingpoolregister.nsw.gov.au/pooldb/pgLookupPool"
+    },
+    {
+      "text": "Swimming pool building work – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/swimming-pool-building-work"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a registered swimming pool certifier do?",
+      "a": "A registered swimming pool certifier inspects safety barriers for pools and spas and issues certificates of compliance under the Swimming Pools Act 1992 (NSW).",
+      "link": null
+    },
+    {
+      "q": "What is required for continuing professional development (CPD)?",
+      "a": "From the second year of registration, swimming pool inspectors must complete 6 points per year of continuing professional development (CPD).",
+      "link": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/continuing-professional-development/certifiers"
+    },
+    {
+      "q": "How do I apply for the certifier registration?",
+      "a": "You must check eligibility, gather required documents, select 'Apply online', log in or sign up, and follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:40Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "0f83a0129e8de9a0727e5fd405c3cf3fd6270031",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

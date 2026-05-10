@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-holders",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-holders",
+  "category": "nsw-digital-photo-card",
+  "article_kind": "content",
+  "slug": "card-holders",
+  "title": "Photo Card holders and the NSW Digital Photo Card trial",
+  "summary": "This page provides information about the NSW Digital Photo Card trial, explaining how to access and use your digital ID on your phone.",
+  "topics": [
+    "digital-photo-card",
+    "nsw-id",
+    "service-nsw-app",
+    "identity-proof"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Current NSW Photo Card holders within the trial area",
+    "Card holders from the Penrith and Blacktown areas who previously joined the trial"
+  ],
+  "what_you_need": [
+    "A smartphone with the latest version of the Service NSW app installed",
+    "MyServiceNSW Account details to log into the app",
+    "Your physical NSW Photo Card (must be carried at all times during the trial)",
+    "A working mobile phone with enough charge and an uncracked screen"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://itunes.apple.com/au/app/nsw-rego/id577283433?mt=8"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.service"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "trial postcodes",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/participating-postcodes-and-suburbs"
+    },
+    {
+      "text": "Terms and Conditions for the NSW Digital Photo Card",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card-dpc-terms-and-conditions"
+    },
+    {
+      "text": "Privacy and digital licences and credentials",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/privacy-and-digital-licences-and-credentials"
+    },
+    {
+      "text": "create a Police report online",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "text": "contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the Digital Photo Card work?",
+      "a": "The Digital Photo Card allows you to present proof of ID on your phone, which is contactless and does not require someone else to handle your phone or plastic card. It also provides real-time updates when your card is re-issued or details change.",
+      "link": null
+    },
+    {
+      "q": "Where can I use the Digital Photo Card?",
+      "a": "The Digital Photo Card can be presented at participating services, venues, and businesses within Western Sydney and the Blue Mountains, including NSW Police Force, Transport Officers, some Service NSW Centres, bottle shops, supermarkets, convenience stores, pharmacies, and tobacco retailers.",
+      "link": null
+    },
+    {
+      "q": "How do I get the Digital Photo Card?",
+      "a": "Download the latest version of the Service NSW app to your smartphone, log into the app with your MyServiceNSW Account details, and follow the prompts.",
+      "link": null
+    },
+    {
+      "q": "Do I still need my physical NSW Photo Card?",
+      "a": "Yes, you must always carry your plastic NSW Photo Card with you during the trial.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:49Z",
+    "last_modified": "24 February 2026",
+    "html_sha1": "e4e0eeea4f1c916487feaa0e920bd888d4df4b6b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

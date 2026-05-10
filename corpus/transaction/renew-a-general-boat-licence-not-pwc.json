@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-general-boat-licence-not-pwc",
+  "title": "Renew a general boat licence (not PWC)",
+  "summary": "This page explains how to renew a general boat driving licence (excluding PWC) online.",
+  "topics": [
+    "boat-licence",
+    "renew-licence",
+    "service-nsw"
+  ],
+  "intro": "General boat driving licences are renewable for 1, 3, 5 or 10 years and can be renewed online. You're also able to update your contact details, if you need to.\n\nYou'll receive a renewal notice about 6 weeks before your licence expires.\n\nYou can access a digital version of your boat driving licence through the Service NSW app.\n\nNote: If you need to renew your PWC licence, visit Renew or restore a personal watercraft (PWC) driving licence",
+  "who_can_apply": [
+    "Must have a general boat driving licence (not PWC)."
+  ],
+  "what_you_need": [
+    "Information from your renewal notice.",
+    "Your concession card (if recording a concession for the first time).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Licence fees vary depending on the duration of the licence, and whether they are concessional licences.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "You must be under 16 years of age, or hold an eligible concession card at the time of payment, to receive a concession.",
+      "link": null
+    },
+    {
+      "text": "If you hold an unrestricted NSW driver licence (all classes) and a NSW general boat driving licence, you may be eligible to combine these 2 licences on one card. Visit Transport for NSW to make sure you have all the information.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/combined-driver-and-boat"
+    },
+    {
+      "text": "If any of your personal details change, you must notify us within 14 days. You'll need to update your driver licence or photo ID separately to your maritime licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/combined-driver-and-boat"
+    },
+    {
+      "text": "Boating Handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/boating-handbook.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Renew or restore a personal watercraft (PWC) driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Service NSW service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Mobile Service Centre",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance do I receive my renewal notice?",
+      "a": "You will receive a renewal notice about 6 weeks before your licence expires.",
+      "link": null
+    },
+    {
+      "q": "Can I renew my PWC licence using this page?",
+      "a": "No. If you need to renew your PWC licence, you must visit the dedicated PWC licence page.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "q": "How can I access my boat driving licence?",
+      "a": "You can access a digital version of your boat driving licence through the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:51Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "20e44d92ef645418eca6182d980187155eec17d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

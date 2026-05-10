@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-special-mobility-vehicle",
+  "title": "Register a Special Mobility Vehicle",
+  "summary": "This page provides information on how to register a Special Mobility Vehicle (SMV) or Nippi that travels faster than 10km/h as a 3-wheeled motorcycle.",
+  "topics": [
+    "special-mobility-vehicle",
+    "smv",
+    "vehicle-registration",
+    "motorcycle"
+  ],
+  "intro": "A special mobility vehicle (SMV) is a 3-wheeled vehicle that a person can operate from their wheelchair, such as a Nippi.\n\nIf you have an SMV or a Nippi that can travel faster than 10km/h, you must register it as a 3-wheeled motorcycle.",
+  "who_can_apply": [
+    "Must have an SMV or Nippi that travels faster than 10km/h."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "The PDF form: 'Application for Registration'",
+    "Proof of your entitlement to register the vehicle (such as a receipt or a notice of disposal)",
+    "Compulsory third party (CTP) insurance (green slip)",
+    "Authorised Unregistered Vehicle Inspection Scheme (AUVIS) certificate (blue slip)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your documents at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You do not need to register any type of motorised wheelchair or specially constructed conveyance if they do not travel faster than 10km/h.",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are sent out by mail a few weeks before your registration expires. When you get the renewal notice you can renew your registration online or in person at a service centre.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of your entitlement to register",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS) certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "renew your registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Apply for a Special Mobility Vehicle learner rider licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-special-mobility-vehicle-learner-rider-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Special Mobility Vehicle (SMV)?",
+      "a": "An SMV is a 3-wheeled vehicle that a person can operate from their wheelchair, such as a Nippi.",
+      "link": null
+    },
+    {
+      "q": "When must I register my SMV?",
+      "a": "If you have an SMV or a Nippi that can travel faster than 10km/h, you must register it as a 3-wheeled motorcycle.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my documents?",
+      "a": "You must submit your documents at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:37Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "8fa76ab2725a908ce3629d985898db957e2ef6e3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

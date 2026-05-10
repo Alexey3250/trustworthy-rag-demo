@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-job-seekers-and-centrelink-customers",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-job-seekers-and-centrelink-customers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-job-seekers-and-centrelink-customers",
+  "title": "Public transport concessions for job seekers (and other approved Centrelink customers)",
+  "summary": "This page provides information about public transport concessions available for job seekers and other approved Centrelink customers.",
+  "topics": [
+    "public-transport",
+    "concessions",
+    "job-seekers",
+    "centrelink"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Job seekers",
+    "Approved Centrelink customers"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/job-seekers-other-approved-centrelink-customers"
+    },
+    {
+      "text": "NSW TrainLink Regional services",
+      "url": "https://transportnsw.info/regional-travel/booking-information/ways-to-book-your-ticket"
+    },
+    {
+      "text": "Local Transport Operators",
+      "url": "https://transportnsw.info/operators"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for public transport concessions?",
+      "a": "Concessions are available for job seekers and other approved Centrelink customers.",
+      "link": null
+    },
+    {
+      "q": "What types of concessions are available?",
+      "a": "Concessions include the Transport Concession Entitlement Card, the Concession Opal card, and regional travel options.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about my concession?",
+      "a": "You can find more details on the Transport for NSW website.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/job-seekers-other-approved-centrelink-customers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:52Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "981cd4795eae8c64b25c3dfbc05028fb775e883d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

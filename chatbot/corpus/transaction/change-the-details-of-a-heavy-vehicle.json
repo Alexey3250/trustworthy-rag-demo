@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-a-heavy-vehicle",
+  "title": "Change the details of a heavy vehicle",
+  "summary": "Learn how to change the details of a heavy vehicle by visiting a Service NSW Centre.",
+  "topics": [
+    "heavy-vehicle",
+    "service-nsw",
+    "vehicle-details",
+    "registration"
+  ],
+  "intro": "If you make changes to the details of a heavy vehicle, please visit a Service NSW Centre to notify them. Any changes need to be verified by an examiner authorised in a heavy vehicle scheme or a Transport for NSW official.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "current registration details",
+    "heavy vehicle safety check inspection report",
+    "Vehicle Identification and Inspection Unit (VIIU) report (if applicable)",
+    "Vehicle Compliance Certificate (for modifications if applicable, and if not electronically supplied) and weighbridge ticket (if weight has been affected)",
+    "the PDF form – 'Change of Records'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your documents.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "heavy vehicle safety check inspection report",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-4"
+    },
+    {
+      "text": "Form 1021: Change of Records – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:11Z",
+    "last_modified": "16 January 2025",
+    "html_sha1": "c59591566480710ad7b5d18517e25fedb0ae31c5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

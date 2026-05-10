@@ -1,0 +1,146 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-national-driver-work-diary-log-book",
+  "title": "Request a National Driver Work Diary (log book)",
+  "summary": "Learn about and apply for a National Driver Work Diary (log book) required for drivers of fatigue-regulated heavy vehicles.",
+  "topics": [
+    "heavy-vehicle-driver",
+    "work-diary",
+    "log-book",
+    "fatigue-management"
+  ],
+  "intro": "Under the Heavy Vehicle National Law, drivers of fatigue-regulated heavy vehicles must complete and carry a National Driver Work Diary, also known as a log book.\n\nFatigue-regulated vehicles are:\n\nThe work diary is evidence that drivers are complying with:\n\nOnly ever record information in a single written work diary at any one time.",
+  "who_can_apply": [
+    "You drive outside a radius of 100km from your base (100+km work) under standard hours.",
+    "You work under BFM hours, AFM hours, or exemption hours, regardless of the distance you drive from your base.",
+    "You occasionally have days where you do 100+km work, in which case you must record all details for those days, including any local work details."
+  ],
+  "what_you_need": [
+    "Your personal details",
+    "Your driving licence",
+    "Your previous log book or its security number (if applicable)",
+    "2 completed National Driver Work Diary application forms (original and duplicate) at the front of the work diary",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 2,
+      "text": "Complete the original and duplicate application forms in the presence of the issuing officer.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Buy your work diary.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The fatigue laws relating to work diaries apply in NSW, Queensland, Victoria, Tasmania, and South Australia. As drivers of heavy vehicles located in the ACT regularly drive interstate, the work diary regulations apply as per the other jurisdictions.",
+      "link": null
+    },
+    {
+      "text": "In certain circumstances operators may apply for a work diary exemption.",
+      "link": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/fatigue-management-exemptions/how-to-apply-for-a-work-diary-exemption-permit"
+    },
+    {
+      "text": "If your work diary is lost, stolen or destroyed, you must notify the National Heavy Vehicle Regulator (NHVR) within 2 business days. You can use a Supplementary work diary record – PDF for up to 7 business days until you buy a new diary.",
+      "link": "https://www.nhvr.gov.au/document/791"
+    },
+    {
+      "text": "If your stay in Western Australia or the Northern Territory is:",
+      "link": null
+    },
+    {
+      "text": "If you live outside NSW, check the NHVR's website to find where you can buy a work diary.",
+      "link": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/work-diary#purchase"
+    },
+    {
+      "text": "A motorhome is not a fatigue-regulated heavy vehicle.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/work-diary#purchase"
+    },
+    {
+      "text": "Electronic work diaries",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/electronic-work-diary"
+    },
+    {
+      "text": "work diary exemption",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/fatigue-management-exemptions/how-to-apply-for-a-work-diary-exemption-permit"
+    },
+    {
+      "text": "Supplementary work diary record – PDF",
+      "url": "https://www.nhvr.gov.au/document/791"
+    },
+    {
+      "text": "National Driver Work Diary Guide – PDF",
+      "url": "https://www.nhvr.gov.au/document/251"
+    },
+    {
+      "text": "Heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "All about National Driver Work Diaries",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/work-diary"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Request a replacement or cancellation of a Heavy Vehicle CBA Learner's Logbook",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-replacement-or-cancellation-of-a-heavy-vehicle-cba-learners-logbook"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a work diary if I only do local work?",
+      "a": "No, you do not need a work diary if you only do local work, meaning driving within a 100km radius of your base.",
+      "link": null
+    },
+    {
+      "q": "Who must carry a National Driver Work Diary?",
+      "a": "Drivers of fatigue-regulated heavy vehicles must complete and carry a National Driver Work Diary, also known as a log book.",
+      "link": null
+    },
+    {
+      "q": "What information must I record in the work diary?",
+      "a": "You must record all details in a single written work diary at any one time. You must record in a work diary if you drive outside a 100km radius of your base, work under BFM or AFM hours, or have days where you do 100+km work.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:48Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "6d8aac444ffc32b640de658c0d4649a77f3e5500",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

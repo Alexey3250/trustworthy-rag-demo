@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-unclaimed-money-with-asics-moneysmart",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-unclaimed-money-with-asics-moneysmart",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-unclaimed-money-with-asics-moneysmart",
+  "title": "Find unclaimed money with ASIC's MoneySmart",
+  "summary": "Check ASIC’s MoneySmart website to find out if any unclaimed money from lost bank accounts, shares, investments, or life insurance policies belongs to you.",
+  "topics": [
+    "unclaimed-money",
+    "asic-moneysmart",
+    "bank-accounts",
+    "investments",
+    "life-insurance"
+  ],
+  "intro": "In NSW, unclaimed money from lost bank accounts, shares, investments and life insurance policies is in the millions of dollars. If you’d like to find out if any of that money belongs to you, check ASIC’s MoneySmart website.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your name",
+    "The original transaction number (OTN)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your name or the OTN.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Search'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If your search is successful, any unclaimed money will be displayed.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select the account name.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Print or email the result to record your OTN and relevant information.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "For details on how to claim your money, visit one of the following:",
+      "link": "https://moneysmart.gov.au/find-unclaimed-money/claim-money-from-shares-and-investments"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Money lodged with the Australian Securities and Investments Commission (ASIC) is transferred to the Commonwealth of Australia Consolidated Revenue Fund but is available to be claimed at any time by the rightful owner. There are no time limits on claiming this money.",
+      "link": null
+    },
+    {
+      "text": "Bank accounts become unclaimed after 7 years if the account is inactive (no deposits or withdrawals). Life insurance policies become unclaimed 7 years after the policy matures and is not claimed.",
+      "link": null
+    },
+    {
+      "text": "Interest is paid on unclaimed money, calculated from 1 July 2013.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Claim money from shares and investments",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money/claim-money-from-shares-and-investments"
+    },
+    {
+      "text": "Claim money from bank accounts and bank dividends",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends"
+    },
+    {
+      "text": "Claim money from life insurance policies",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money/claim-money-from-life-insurance-policies"
+    },
+    {
+      "text": "Find unclaimed money – ASIC's MoneySmart",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money"
+    },
+    {
+      "text": "Interest paid on unclaimed money – MoneySmart",
+      "url": "https://moneysmart.gov.au/find-unclaimed-money/interest-paid-on-unclaimed-money"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find and claim lost money – Revenue NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-and-claim-lost-money-revenue-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I check for unclaimed money?",
+      "a": "You can check for unclaimed money on ASIC’s MoneySmart website.",
+      "link": "https://moneysmart.gov.au/find-unclaimed-money"
+    },
+    {
+      "q": "What types of unclaimed money can I find?",
+      "a": "Unclaimed money can come from lost bank accounts, shares, investments, and life insurance policies.",
+      "link": null
+    },
+    {
+      "q": "How do I claim my unclaimed money?",
+      "a": "For details on how to claim your money, visit the relevant claim pages: Claim money from shares and investments, Claim money from bank accounts and bank dividends, or Claim money from life insurance policies.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:48Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "6e57d8d967ed6f19f377c7460b9ac55b7ae2b57e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

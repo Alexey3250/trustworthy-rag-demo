@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/wwcc",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/wwcc",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "wwcc",
+  "title": "Working with Children Check – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using the Working with Children Check (WWCC) service.",
+  "topics": [
+    "working-with-children-check",
+    "terms-and-conditions",
+    "service-use",
+    "privacy"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Working with Children Check",
+      "link": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Working with Children Check (WWCC)",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "MyServiceNSW Account Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:32Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "f04f03266928111b92c2d28f2803477983f56e1c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

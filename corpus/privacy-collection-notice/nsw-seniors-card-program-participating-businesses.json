@@ -1,0 +1,56 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-seniors-card-program-participating-businesses",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-seniors-card-program-participating-businesses",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "nsw-seniors-card-program-participating-businesses",
+  "title": "NSW Seniors Card program – Participating businesses – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects, uses, and protects personal and business information for businesses participating in the NSW Seniors Card program.",
+  "topics": [
+    "nsw-seniors-card",
+    "business-participation",
+    "privacy-notice",
+    "data-collection"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Business participating in the NSW Seniors Card program"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected from participating businesses?",
+      "a": "The information collected includes your full name, email address, and business details such as business name, ABN, tradesperson licence number, business phone number (optional), outlet addresses, and outlet discount details.",
+      "link": null
+    },
+    {
+      "q": "How will my business information be used?",
+      "a": "The information is used to provide details about your business to the Office of Fair Trading to verify its integrity and reputation, and to publish details on the Seniors Card website, Service NSW mobile app, and other communication platforms.",
+      "link": null
+    },
+    {
+      "q": "How will Service NSW communicate with me?",
+      "a": "Service NSW may communicate with you about the program by mail or email to provide information, verify the personal and business details you provided, or request further relevant information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:41Z",
+    "last_modified": "25 February 2026",
+    "html_sha1": "ca2dee55d0881e38d5f92bd4bf8af68ca1111f83",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

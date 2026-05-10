@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/general-construction-induction-card-white-card",
+  "source_url": "https://www.service.nsw.gov.au/services/general-construction-induction-card-white-card",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "general-construction-induction-card-white-card",
+  "title": "General construction induction card (white card)",
+  "summary": "This page provides information about the general construction induction card (white card), including how to apply, change details, replace, or check your card.",
+  "topics": [
+    "construction",
+    "induction-card",
+    "white-card",
+    "safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Change details on a general construction induction card or traffic control training work card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card"
+    },
+    {
+      "text": "Replace a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Check a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Manage general construction induction training courses",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-general-construction-induction-training-courses"
+    },
+    {
+      "text": "Add your digital white card to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a general construction induction card (white card)?",
+      "a": "You can apply for a general construction induction card (white card) using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card"
+    },
+    {
+      "q": "What if I need to change details on my white card or traffic control work card?",
+      "a": "You can change details on a general construction induction card or traffic control training work card using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card"
+    },
+    {
+      "q": "How do I replace a lost or damaged white card?",
+      "a": "You can replace a general construction induction card (white card) using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:12Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "c5c5ff11fd3d3bff0d00d8ab2692b194750598bb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

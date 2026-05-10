@@ -1,0 +1,45 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-cabinet-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/the-cabinet-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "the-cabinet-office",
+  "title": "The Cabinet Office",
+  "summary": "This page provides information about The Cabinet Office, which supports the NSW Government's ministerial functions.",
+  "topics": [
+    "nsw-government",
+    "cabinet-office",
+    "ministry-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/the-cabinet-office",
+      "url": "https://www.nsw.gov.au/the-cabinet-office"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/the-cabinet-office/contact-us"
+    },
+    {
+      "text": "NSW Government's Minister's page",
+      "url": "https://www.nsw.gov.au/nsw-government/ministers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:45Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cf12af6c3a463a558ce5c67976bca6e1a534c8d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

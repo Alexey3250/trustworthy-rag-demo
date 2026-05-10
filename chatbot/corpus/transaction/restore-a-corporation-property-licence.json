@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-corporation-property-licence",
+  "title": "Restore a corporation property licence",
+  "summary": "This page explains how to apply to restore a corporation property licence if it has expired within the last three months.",
+  "topics": [
+    "corporation-property-licence",
+    "restore-licence",
+    "nsw-business-licences"
+  ],
+  "intro": "If your corporation property licence has expired within the last 3 months, you can apply to have it restored.\n\nIf you do not apply for a restoration within 3 months, you’ll need to apply for a new licence. You cannot trade until the new licence is issued.",
+  "who_can_apply": [
+    "The corporation property licence must have expired within the last 3 months."
+  ],
+  "what_you_need": [
+    "Corporation property licence number",
+    "Renewal number (as shown on the renewal notice)",
+    "Personal and corporation details",
+    "Fee payment",
+    "Two forms of identification (Note: If you do not have two forms of identification listed above, you may still be eligible. Contact NSW Fair Trading for more information.)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Restore online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to restore the corporation property licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my licence expires?",
+      "a": "If your licence has expired within the last 3 months, you can apply to have it restored. If you do not apply for a restoration within 3 months, you will need to apply for a new licence, and you cannot trade until the new licence is issued.",
+      "link": null
+    },
+    {
+      "q": "How do I restore my licence?",
+      "a": "Select the ‘Restore online’ button and follow the prompts to restore the corporation property licence.",
+      "link": null
+    },
+    {
+      "q": "What do I need to restore my licence?",
+      "a": "You need your corporation property licence number, renewal number, your personal and corporation details, fee payment, and two forms of identification.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:18Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "f71303f21925a14b71605f16a18cc16c82e5568e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

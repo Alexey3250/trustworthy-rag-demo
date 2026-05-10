@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/guidelines",
+  "source_url": "https://www.service.nsw.gov.au/guidelines",
+  "category": "guidelines",
+  "article_kind": "content",
+  "slug": "guidelines",
+  "title": "Guidelines",
+  "summary": "This page provides access to official guidelines for various grants, rebates, and voucher programs offered by Service NSW.",
+  "topics": [
+    "grants",
+    "rebates",
+    "vouchers",
+    "disaster-relief",
+    "business-support"
+  ],
+  "intro": "Guidelines are official documents that outline important information for applicants about a program or grant, including:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Terms and Conditions – Service NSW products and services",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy Collection Notices – Service NSW products and services",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "East Coast Severe Weather Personal Hardship Assistance May 2025",
+      "url": "https://www.service.nsw.gov.au/guidelines/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "$400 business support grant",
+      "url": "https://www.service.nsw.gov.au/guidelines/nsw-far-west-support-business"
+    },
+    {
+      "text": "$200 individual support grant",
+      "url": "https://www.service.nsw.gov.au/guidelines/nsw-far-west-support"
+    },
+    {
+      "text": "Flood recovery Back Home grant",
+      "url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-guidelines"
+    },
+    {
+      "text": "Medium business support grant: August and September 2022",
+      "url": "https://www.service.nsw.gov.au/guidelines/medium-business-support-grant"
+    },
+    {
+      "text": "Northern Rivers medium size business grant: February and March 2022",
+      "url": "https://www.service.nsw.gov.au/guidelines/northern-rivers-medium-size-business-grant"
+    },
+    {
+      "text": "Personal Hardship Assistance, Tropical Cyclone Alfred, March 2025",
+      "url": "https://www.service.nsw.gov.au/guidelines/northern-nsw-storm-relief-grant-individuals-march-2025"
+    },
+    {
+      "text": "Recovery Grant for Small Businesses and Non-Profit Organisations (East Coast Severe Weather May 2025 and Tropical Cyclone Alfred March 2025)",
+      "url": "https://www.service.nsw.gov.au/guidelines/small-business-recovery-grant-agrn-1198-1212"
+    },
+    {
+      "text": "Disaster recovery small business grant – storms and floods August and September 2022 onwards",
+      "url": "https://www.service.nsw.gov.au/guidelines/disaster-recovery-small-business-grant-storms-floods-august-september-2022"
+    },
+    {
+      "text": "February and March 2022 storm and flood disaster recovery small business grant",
+      "url": "https://www.service.nsw.gov.au/guidelines/february-and-march-2022-storm-and-flood-disaster-recovery-small-business"
+    },
+    {
+      "text": "Northern Rivers Commercial Property Return to Business Support Grant",
+      "url": "https://www.service.nsw.gov.au/guidelines/northern-rivers-commercial-property-return-business"
+    },
+    {
+      "text": "2021 COVID-19 micro-business grant",
+      "url": "https://www.service.nsw.gov.au/guidelines/2021-covid-19-micro-business-grant"
+    },
+    {
+      "text": "Fertility Treatment Rebate-2",
+      "url": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-2-program"
+    },
+    {
+      "text": "Fertility Treatment Rebate (closed)",
+      "url": "https://www.service.nsw.gov.au/guidelines/fertility-treatment-rebate-program"
+    },
+    {
+      "text": "Active and Creative Kids voucher guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Terms and Conditions – Service NSW products and services",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy Collection Notices – Service NSW products and services",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of assistance guidelines are available?",
+      "a": "Guidelines are available for grants, rebates, and voucher programs, covering topics like severe weather assistance, business support, and fertility treatments.",
+      "link": null
+    },
+    {
+      "q": "Are there guidelines for small business recovery after disasters?",
+      "a": "Yes, there are guidelines for small business recovery, including those for East Coast Severe Weather, Tropical Cyclone Alfred, and general storm and flood recovery.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about personal hardship assistance?",
+      "a": "You can find guidelines for Personal Hardship Assistance related to specific events, such as Tropical Cyclone Alfred (March 2025) or general severe weather.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:40Z",
+    "last_modified": "11 June 2025",
+    "html_sha1": "7cae1b14fc872a07cb97dc810b073a219515afdb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

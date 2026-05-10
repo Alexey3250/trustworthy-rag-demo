@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-surrender-a-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-surrender-a-liquor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-surrender-a-liquor-licence",
+  "title": "Cancel (surrender) a liquor licence",
+  "summary": "This page explains how to permanently cancel (surrender) a liquor licence using the Liquor Licence Manager.",
+  "topics": [
+    "liquor-licence",
+    "surrender",
+    "business-closure",
+    "service-nsw"
+  ],
+  "intro": "To cancel your liquor licence permanently submit a completed surrender liquor licence form using the Liquor Licence Manager.\n\nTo temporarily cease trading for 6 weeks or longer, you need to lodge a cease to trade notification.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Must be ready to permanently cancel (surrender) the liquor licence."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Liquor licence name and number",
+    "Personal details of the licensee (if an individual)",
+    "ABN, ACN, or Y/Inc of the licensee (if an organisation)",
+    "Reason for surrendering the licence",
+    "Date the premises stopped trading",
+    "Details of how remaining liquor will be disposed of",
+    "Representative's name and contact details (if applicable)",
+    "Signed declaration of the applicant (individual or organisation)",
+    "Consent and signature of the relevant party"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to Liquor Licence Manager' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'View licences'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'View details' for required licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Modify licence'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Go to 'Surrender liquor licence' and select 'Apply'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to submit your application to surrender a liquor licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Liquor fee schedule – Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "lodge a cease to trade notification",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-cease-to-trade-notification"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    },
+    {
+      "text": "Change the name of a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-of-a-liquor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if I want to temporarily stop trading for 6 weeks or longer?",
+      "a": "You need to lodge a cease to trade notification.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-cease-to-trade-notification"
+    },
+    {
+      "q": "Where can I find up-to-date guidelines and resources for liquor licences?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who do I contact if I have questions about liquor licensing?",
+      "a": "Contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:02Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "16af0d9225b223d6e1d618496237473da4fd08ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/seniors-energy-rebate",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/seniors-energy-rebate",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "seniors-energy-rebate",
+  "title": "Seniors Energy Rebate – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for the Seniors Energy Rebate, which provides financial assistance to eligible customers.",
+  "topics": [
+    "energy-rebate",
+    "seniors-discount",
+    "nsw-services",
+    "electricity-bill"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Be a resident in NSW.",
+    "Be the named person on the electricity account for supply to your principal place of residence.",
+    "Hold a Commonwealth Seniors Health Card issued by Services Australia or the Commonwealth Department of Veterans' Affairs.",
+    "Not be a recipient of the Low Income Household Rebate."
+  ],
+  "what_you_need": [
+    "Your most recent electricity bill issued on or after 1 July in the current financial year.",
+    "Acceptable proof of identity documents (names must match on each document, unless you provide an acceptable marriage or change of name certificate).",
+    "Consent for the Agency to use Centrelink Confirmation eServices to check Centrelink customer details (if applicable)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Seniors Energy Rebate – Privacy Collection Notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/seniors-energy-rebate"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Social Programs for Energy Code",
+      "url": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/regulation-and-policy/social-programs-energy-code"
+    },
+    {
+      "text": "Crimes Act 1900 (NSW)",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1900-040"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Seniors Energy Rebate: Common questions webpage",
+      "url": "https://www.service.nsw.gov.au/common-questions/seniors-energy-rebate"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/seniors-energy-rebate"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Seniors Energy Rebate?",
+      "a": "The Seniors Energy Rebate is financial assistance of up to $200 for eligible customers who hold a Commonwealth Seniors Health Card to help cover the cost of their electricity.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for the Seniors Energy Rebate?",
+      "a": "You must be a resident in NSW, the named person on the electricity account for supply to your principal place of residence, hold a Commonwealth Seniors Health Card, and not be a recipient of the Low Income Household Rebate.",
+      "link": null
+    },
+    {
+      "q": "How is the rebate paid?",
+      "a": "Payment is made by the Agency when money is paid to your nominated bank account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:30Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "53becd71a740db1fe362a492ed642cb07ea5f9d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

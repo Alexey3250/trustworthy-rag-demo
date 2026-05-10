@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/optometry-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/optometry-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "optometry-council-of-nsw",
+  "title": "Optometry Council of NSW",
+  "summary": "This page provides information about the Optometry Council of NSW, which is the body that regulates optometry in New South Wales.",
+  "topics": [
+    "optometry",
+    "eye-care",
+    "health-professionals",
+    "nsw-health"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.optometrycouncil.nsw.gov.au/",
+      "url": "https://www.optometrycouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "57bd0b0ae1730e721d460a096a8019823ab0915b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-ownership-of-a-private-mooring-licence",
+  "title": "Transfer ownership of a private mooring licence",
+  "summary": "Find out how to transfer ownership of a private mooring licence after purchasing a vessel that has the licence.",
+  "topics": [
+    "mooring-licence",
+    "vessel-ownership",
+    "transfer-ownership",
+    "transport-for-nsw"
+  ],
+  "intro": "A private mooring licence is an annual licence that allows you to moor your vessel on navigable waters. If you've bought a vessel that has this licence and you want to transfer ownership of the licence to yourself, you'll need to lodge an application with Transport for NSW (TfNSW).\n\nMooring sites are subject to an ongoing range of assessment factors including:\n\nNote: Additional approvals/permits from agencies other than TfNSW may also be required, and in some instances transferring the mooring licence may not be permitted.",
+  "who_can_apply": [
+    "You must have bought the vessel and its associated mooring apparatus, and be the registered owner of the vessel."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Transfer of a Private Mooring Licence' (https://tfnswforms.transport.nsw.gov.au/45072026-application-transfer-private-mooring-licence.pdf)",
+    "Proof of identity (https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity)",
+    "Payment (https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit your application in person at a Service NSW Centre, or by post or email to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The licence can be transferred if the vessel is moored in a non priority waiting list area.",
+      "link": null
+    },
+    {
+      "text": "If the vessel is moored in a priority waiting list area, only the legal or de facto spouse named as the beneficiary in the will of the deceased licence holder can transfer the licence, and they must be at least the equal majority shareholder of the vessel. If the vessel is retained by a beneficiary other than the legal or de facto spouse, a maximum of 12 months applies.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Application for Transfer of a Private Mooring Licence – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072026-application-transfer-private-mooring-licence.pdf"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to transfer a private mooring licence?",
+      "a": "You must have bought the vessel and its associated mooring apparatus, and be the registered owner of the vessel.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to transfer the licence?",
+      "a": "You need the 'Application for Transfer of a Private Mooring Licence' form, proof of identity, and payment.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application?",
+      "a": "You can submit your completed form in person at a Service NSW Centre, or by post or email using the details provided on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:13Z",
+    "last_modified": "4 March 2026",
+    "html_sha1": "0d8f1642566472ac00c7a553210d5be2cb69c3d2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-the-pensioner-water-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-the-pensioner-water-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-the-pensioner-water-rebate",
+  "title": "Claim the pensioner water rebate",
+  "summary": "Find out if you qualify for and how to claim a rebate on your water bill if you receive a pension.",
+  "topics": [
+    "pension",
+    "water-rebate",
+    "water-bill",
+    "pensioner"
+  ],
+  "intro": "If you receive a pension, you may qualify for a rebate on your water bill from your water supplier. Rebates are applied to each bill.\n\nIf your local council is your water supplier, find out if you are eligible for pensioner council rates rebates.",
+  "who_can_apply": [
+    "Be the owner and occupier of a property.",
+    "Have a pension.",
+    "If you own the property with someone who isn’t a pensioner, you may still get a rebate (check your water supplier's criteria)."
+  ],
+  "what_you_need": [
+    "Water supplier account number or customer number (on your water bill).",
+    "Concession card or concession customer reference number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the water supplier for your residential address:",
+      "link": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/pension-rebates.html"
+    },
+    {
+      "n": 2,
+      "text": "Check that you meet the eligibility criteria.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Fill in and submit the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "DVA's MyService",
+      "url": "https://www.dva.gov.au/myservice"
+    },
+    {
+      "text": "Sydney Water – Claim your pension rebate",
+      "url": "https://www.sydneywater.com.au/accounts-billing/managing-your-account/pension-rebates.html"
+    },
+    {
+      "text": "Hunter Water – Claim your pension rebate",
+      "url": "https://www.hunterwater.com.au/home-and-business/managing-your-account/help-paying-your-bill/apply-for-a-pension-rebate/claim-your-pension-rebate"
+    },
+    {
+      "text": "Shoalhaven Water – Pensioner concessions",
+      "url": "https://www.shoalwater.nsw.gov.au/Services-and-requests/Apply-for-a-pensioner-concession"
+    },
+    {
+      "text": "Essential Water – Pensioner Concession Rebate",
+      "url": "https://essentialwater.com.au/bills-and-payments/pension-rebate/"
+    },
+    {
+      "text": "NSW Private Water Scheme Pensioner Rebates",
+      "url": "https://www.water.dcceew.nsw.gov.au/nsw-private-water-scheme-pensioner-rebates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pensioner council rates rebates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-pensioner-council-rates-rebates"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to be the owner of the property to claim the rebate?",
+      "a": "You must be the owner and occupier of a property. However, if you own the property with someone who isn’t a pensioner, you may still get a rebate, so check your water supplier's eligibility criteria.",
+      "link": null
+    },
+    {
+      "q": "What do I need to claim the water rebate?",
+      "a": "You need your water supplier account number or customer number (found on your water bill) and a concession card or concession customer reference number.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about my rebate?",
+      "a": "You must select your water supplier for your residential address and check their specific website for eligibility and claim details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:06Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "255ce8771b82fecfb7a90b6ac4044d3c670bba24",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

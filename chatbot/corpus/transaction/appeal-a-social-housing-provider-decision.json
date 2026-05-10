@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision",
+  "source_url": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "appeal-a-social-housing-provider-decision",
+  "title": "Appeal a social housing provider decision",
+  "summary": "This page provides information on how to appeal a decision made by a social housing provider.",
+  "topics": [
+    "appeal-decision",
+    "social-housing",
+    "housing-provider",
+    "appeal-process"
+  ],
+  "intro": "If you think a decision about your social housing is wrong you should first talk with:",
+  "who_can_apply": [
+    "You are a social housing tenant.",
+    "You have applied for social housing."
+  ],
+  "what_you_need": [
+    "Your name, date of birth, and contact details.",
+    "A description of the decision for review and the reasons for the appeal.",
+    "Your housing file number (if applicable).",
+    "An interpreter and hearing loop service (if needed).",
+    "The name and contact details of a person helping you with your application.",
+    "The advocate authority form (if applicable)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "what you can and cannot appeal",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/appealing-a-decision/how-to-make-an-appeal-to-housing-appeals-committee/what-you-can-and-cannot-appeal"
+    },
+    {
+      "text": "specific appeal timeframes",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/appealing-a-decision/public-housing#toc-check-the-timeframe-to-appeal-your-issue"
+    },
+    {
+      "text": "advocate authority form",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/appealing-a-decision/hac-resource-library/advocate-authority-form"
+    },
+    {
+      "text": "First Level Appeal Application Form",
+      "url": "https://onlineforms.homes.nsw.gov.au/register/FTA/"
+    },
+    {
+      "text": "First Level Appeal Application Form – PDF",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/review-of-decisions-first-tier-appeal-application-dh0152"
+    },
+    {
+      "text": "Second Level Appeal Application Form",
+      "url": "https://onlineforms.homes.nsw.gov.au/register/STA/"
+    },
+    {
+      "text": "Second Level Appeal Application Form – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/appealing-a-decision/hac-resource-library/second-tier-appeal-form-social-housing-clients"
+    },
+    {
+      "text": "Housing Appeals Committee (HAC)",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/housing-appeals-committee"
+    },
+    {
+      "text": "Appealing a decision: Public housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/appealing-a-decision/public-housing"
+    },
+    {
+      "text": "Appeals Policy – Homes NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/appeals-policy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Request or report property maintenance issues in social housing",
+      "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    },
+    {
+      "text": "Make a complaint about social housing",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-social-housing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can appeal a social housing decision?",
+      "a": "You can appeal a decision made by a social housing provider if you are a social housing tenant or if you have applied for social housing.",
+      "link": null
+    },
+    {
+      "q": "What are the reasons for appealing a decision?",
+      "a": "Reasons for an appeal include if your situation was not considered properly, if the policy was not applied correctly, or if the decision-making process was not fair or correct. Specific areas include housing eligibility, waiting list prioritisation, and rental subsidies.",
+      "link": null
+    },
+    {
+      "q": "How do I lodge a first level appeal?",
+      "a": "You can lodge a first level appeal online using the First Level Appeal Application Form, using the PDF form, or by asking your social housing provider for an appeal form.",
+      "link": null
+    },
+    {
+      "q": "What is involved in a second level appeal?",
+      "a": "The second level appeal process involves completing the Second Level Appeal Application Form, receiving confirmation letters, and attending a hearing where a report with the result will be sent approximately two weeks after the hearing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:31Z",
+    "last_modified": "20 January 2026",
+    "html_sha1": "53cd7a5f04fcd8bbf084728273e77741ee685a81",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

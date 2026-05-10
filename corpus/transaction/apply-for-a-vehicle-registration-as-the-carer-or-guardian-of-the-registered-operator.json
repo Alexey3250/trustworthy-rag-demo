@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator",
+  "title": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+  "summary": "Learn how to apply for a vehicle registration when acting as the carer or guardian for the registered operator.",
+  "topics": [
+    "vehicle-registration",
+    "carer-guardian",
+    "service-nsw"
+  ],
+  "intro": "To apply to register a vehicle as the carer or guardian on behalf of the registered operator, you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [
+    "Must be the carer or guardian of the registered operator.",
+    "Must visit a Service NSW Centre to apply."
+  ],
+  "what_you_need": [
+    "The 'Application for Registration' PDF form, completed in the name of the carer or guardian.",
+    "Proof of identity for the carer or guardian.",
+    "Proof of carer or guardian status (e.g., court order, Power of Attorney, or statutory declaration).",
+    "Proof of registration entitlement in the name of the operator or the carer or guardian.",
+    "A pensioner concession card in the name of the registered operator.",
+    "An Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (blue slip).",
+    "Proof of compulsory third party (CTP) insurance."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form in the applicant's name (the carer or guardian).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit the application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme (AUVIS)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I apply for vehicle registration as a carer or guardian?",
+      "a": "You must visit a Service NSW Centre to submit the application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need to apply for vehicle registration?",
+      "a": "You need the 'Application for Registration' form, proof of identity for yourself, proof of your carer or guardian status, proof of registration entitlement, a pensioner concession card, an AUVIS report (blue slip), and proof of CTP insurance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:52Z",
+    "last_modified": "15 October 2024",
+    "html_sha1": "62000fd0c7e5fd13e6bebbe1c40736806590a167",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

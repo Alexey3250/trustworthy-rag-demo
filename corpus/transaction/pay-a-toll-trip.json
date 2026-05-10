@@ -1,0 +1,230 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-a-toll-trip",
+  "title": "Pay a toll or toll notice",
+  "summary": "This page provides information on how to pay for tolls or toll notices incurred while using toll roads in NSW.",
+  "topics": [
+    "toll-roads",
+    "paying-tolls",
+    "toll-notices",
+    "nsw-driving"
+  ],
+  "intro": "Motorists are required to pay to use toll roads in NSW.\n\nIf you use a toll road without an active toll account or pass you have 3 days to make payment arrangements with the toll road provider. This could include opening a tolling account or setting up a casual pass. Find out more at How to get an electronic tag or pass.\n\nIf you do not pay for the trip a toll notice will be issued and will include the toll charge plus an administration fee.\n\nBefore receiving a toll notice you may receive an 'unpaid toll reminder' email so you can pay your toll before the administration fee is added. Note that video matching fees may still apply at the time of payment.",
+  "who_can_apply": [
+    "Motorists using toll roads in NSW"
+  ],
+  "what_you_need": [
+    "The vehicle licence plate number and state of registration",
+    "The toll notice number (if known)",
+    "Your tag account details (if applicable)",
+    "Credit card or debit card"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit E-Toll to pay a toll or toll notice for using the Sydney Harbour Bridge or Sydney Harbour Tunnel.",
+      "link": "https://paytollnotice.mye-toll.com.au/tollnotice/"
+    },
+    {
+      "n": 2,
+      "text": "Enter the vehicle details or the toll notice number.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your transaction.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "call Service NSW on 13 77 88 or",
+      "link": "tel:137788"
+    },
+    {
+      "n": 5,
+      "text": "call the toll notice payment line on 1300 883 114 (24-hour automated self-service payment) or",
+      "link": "tel:1300883114"
+    },
+    {
+      "n": 6,
+      "text": "visit a Service NSW Centre (for the payment of toll notices only).",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 7,
+      "text": "Visit Linkt to pay a toll or toll notice for using any other Sydney toll road (that is, any toll road other than Sydney Harbour Bridge or Sydney Harbour Tunnel).",
+      "link": "https://tollnotice.linkt.com.au/search.asp"
+    },
+    {
+      "n": 8,
+      "text": "Enter the vehicle details or the toll notice number.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Follow the prompts to complete your transaction.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "call Linkt on 13 33 31.",
+      "link": "tel:133311"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find entry and exit details for the M4, M5 and Rozelle Interchange use the Westconnex interactive map .",
+      "link": "https://www.linkt.com.au/using-toll-roads/about-sydney-toll-roads/westconnex/interactive-map/sydney"
+    },
+    {
+      "text": "Visit Toll costs by road:",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    },
+    {
+      "text": "View a list of Australian toll roads.",
+      "link": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/all-australian-toll-roads"
+    },
+    {
+      "text": "Search for toll trips for the Sydney Harbour Bridge and Sydney Harbour Tunnel.",
+      "link": "https://paytollnotice.mye-toll.com.au/tollnotice/"
+    },
+    {
+      "text": "All other NSW toll roads – search for unpaid Linkt notices.",
+      "link": "https://www.linkt.com.au/help/toll-payments/find-outstanding-toll-invoices-or-demand-notices/sydney"
+    },
+    {
+      "text": "### Travelling without an account or pass",
+      "link": null
+    },
+    {
+      "text": "For answers to frequently asked questions about using a toll road without an account or pass visit Travelling without an account or pass.",
+      "link": null
+    },
+    {
+      "text": "### Check toll roads and toll costs",
+      "link": null
+    },
+    {
+      "text": "### Check for unpaid toll notices",
+      "link": null
+    },
+    {
+      "text": "### Disputing a toll notice",
+      "link": null
+    },
+    {
+      "text": "If you believe a toll notice was issued incorrectly you can dispute a toll notice.",
+      "link": null
+    },
+    {
+      "text": "### Guide to toll roads in NSW",
+      "link": null
+    },
+    {
+      "text": "For more information read our guide to Toll roads and toll notices.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "How to get an electronic tag or pass",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "text": "E-Toll",
+      "url": "https://paytollnotice.mye-toll.com.au/tollnotice/"
+    },
+    {
+      "text": "Linkt",
+      "url": "https://tollnotice.linkt.com.au/search.asp"
+    },
+    {
+      "text": "Travelling without an account or pass",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/travelling-without-account-or-pass"
+    },
+    {
+      "text": "Westconnex interactive map",
+      "url": "https://www.linkt.com.au/using-toll-roads/about-sydney-toll-roads/westconnex/interactive-map/sydney"
+    },
+    {
+      "text": "Toll costs by road",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    },
+    {
+      "text": "list of Australian toll roads",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/all-australian-toll-roads"
+    },
+    {
+      "text": "unpaid Linkt notices",
+      "url": "https://www.linkt.com.au/help/toll-payments/find-outstanding-toll-invoices-or-demand-notices/sydney"
+    },
+    {
+      "text": "Unpaid toll notices – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-notices/unpaid-toll-notices"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "dispute a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-toll-notice"
+    },
+    {
+      "text": "Toll roads and toll notices",
+      "url": "https://www.service.nsw.gov.au/guide/toll-roads-and-toll-notices"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Submit a statutory declaration for a toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-statutory-declaration-for-a-toll-notice"
+    },
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Order an eMU Casual Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-casual-emu-pass"
+    },
+    {
+      "text": "View toll charges on an E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I use a toll road without an active account or pass?",
+      "a": "You have 3 days to make payment arrangements with the toll road provider. This could include opening a tolling account or setting up a casual pass.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "q": "What happens if I do not pay for the trip?",
+      "a": "A toll notice will be issued, which will include the toll charge plus an administration fee. You may first receive an 'unpaid toll reminder' email.",
+      "link": null
+    },
+    {
+      "q": "How can I pay for a toll or toll notice?",
+      "a": "You can pay by visiting E-Toll for the Sydney Harbour Bridge or Sydney Harbour Tunnel, visiting Linkt for other Sydney toll roads, calling Service NSW, or visiting a Service NSW Centre (for notices only).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:51Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "e18dd053b6a77c22ab1bece0edb606520315131d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

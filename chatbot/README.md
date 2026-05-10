@@ -13,7 +13,13 @@ This folder is the deployable Next.js app. The interesting bits live here:
 | `lib/retrieve/bm25.ts` | In-memory BM25. |
 | `components/Chat.tsx` | Chat UI: mode-aware headers, `AnswerCard` variants, perf panel. |
 
-For the high-level method, data structure, and deployment instructions see the [root README](../README.md).
+For the high-level method, data structures, and deployment instructions see the [root README](../README.md) and **[docs/DATA-PIPELINE.md](../docs/DATA-PIPELINE.md)** (what `data/parsed`, `data/enriched`, `corpus`, and `.embeddings.json` are).
+
+## Hybrid retrieval in production
+
+Dense retrieval needs **`EMBED_BASE_URL` + `EMBED_API_KEY` + `EMBED_MODEL`** on the server. They must match whatever you used for `npm run build-index` (same model → same vector space). Cerebras does not provide embeddings; use OpenAI or another OpenAI-compatible `/v1/embeddings` host.
+
+The built file **`corpus/.embeddings.json`** in this folder is ~tens of MB for the full site; it is tracked in git so Vercel bundles it with the app.
 
 ## Local dev
 

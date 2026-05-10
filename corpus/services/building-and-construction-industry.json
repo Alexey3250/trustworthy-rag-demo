@@ -1,0 +1,212 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/building-and-construction-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "building-and-construction-industry",
+  "title": "Building and construction industry",
+  "summary": "Find information and services related to building and construction in New South Wales, including licensing, certifications, and complaints.",
+  "topics": [
+    "building-and-construction",
+    "licences",
+    "certifications",
+    "building-contracts",
+    "safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Housing and property",
+      "link": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "Owner-Builder Permit",
+      "link": "https://www.service.nsw.gov.au/services/owner-builder-permit"
+    },
+    {
+      "text": "Real estate – selling and leasing property",
+      "link": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry"
+    },
+    {
+      "text": "Make a complaint",
+      "link": "https://www.service.nsw.gov.au/services/complaints"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Certifier accreditation and registration",
+      "url": "https://www.service.nsw.gov.au/services/certifier-accreditation-and-registration"
+    },
+    {
+      "text": "Construction cards, certificates and information",
+      "url": "https://www.service.nsw.gov.au/services/construction-cards-certificates-and-information"
+    },
+    {
+      "text": "Principal certifiers (PC)",
+      "url": "https://www.service.nsw.gov.au/services/principal-certifiers"
+    },
+    {
+      "text": "Qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/services/qualified-supervisor-certificate"
+    },
+    {
+      "text": "Tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/services/tradesperson-certificate"
+    },
+    {
+      "text": "Professional engineers, design practitioners and building practitioners",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners"
+    },
+    {
+      "text": "Plant item and design registration",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry/plant-item-and-design-registration"
+    },
+    {
+      "text": "Apply for an occupation certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/company-contractor-licence"
+    },
+    {
+      "text": "High risk work licence",
+      "url": "https://www.service.nsw.gov.au/services/high-risk-work-licence"
+    },
+    {
+      "text": "Individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Automatic mutual recognition of interstate work licences",
+      "url": "https://www.service.nsw.gov.au/services/automatic-mutual-recognition-of-interstate-work-licences"
+    },
+    {
+      "text": "Lodge a home building complaint with the Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    },
+    {
+      "text": "Apply for a certificate of eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-certificate-of-eligibility"
+    },
+    {
+      "text": "Apply for home building compensation cover",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover"
+    },
+    {
+      "text": "Use the HBC Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    },
+    {
+      "text": "Apply for a Road Occupancy Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence"
+    },
+    {
+      "text": "Check a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Getting a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/referral/get-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Replace a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Demolitions, asbestos removal, explosives and fireworks",
+      "url": "https://www.service.nsw.gov.au/services/demolitions-asbestos-removal-explosives-and-fireworks"
+    },
+    {
+      "text": "Portable long service scheme (building and construction)",
+      "url": "https://www.service.nsw.gov.au/services/portable-long-service-scheme"
+    },
+    {
+      "text": "Apply to make changes to a heritage listed place",
+      "url": "https://www.service.nsw.gov.au/referral/apply-to-make-changes-to-a-heritage-listed-place"
+    },
+    {
+      "text": "Manage a residential home building contract",
+      "url": "https://www.service.nsw.gov.au/referral/manage-a-residential-home-building-contract"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-fair-trading"
+    },
+    {
+      "text": "Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/building-commission-nsw"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/safework-nsw"
+    },
+    {
+      "text": "State Insurance Regulatory Authority (SIRA)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-insurance-regulatory-authority-sira"
+    },
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "NSW Civil and Administrative Tribunal (NCAT)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-civil-and-administrative-tribunal-ncat"
+    },
+    {
+      "text": "Long Service Corporation",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/long-service-corporation"
+    },
+    {
+      "text": "Housing and property",
+      "url": "https://www.service.nsw.gov.au/services/housing-and-property"
+    },
+    {
+      "text": "Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/services/owner-builder-permit"
+    },
+    {
+      "text": "Real estate – selling and leasing property",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry"
+    },
+    {
+      "text": "Make a complaint",
+      "url": "https://www.service.nsw.gov.au/services/complaints"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about building and construction services?",
+      "a": "The page provides information on various aspects of the building and construction industry, including licensing, certifications, and managing contracts.",
+      "link": null
+    },
+    {
+      "q": "What services are available for managing building contracts?",
+      "a": "You can manage a residential home building contract and apply to make changes to a heritage listed place.",
+      "link": null
+    },
+    {
+      "q": "How do I handle complaints related to home building?",
+      "a": "You can lodge a home building complaint with the Building Commission NSW, apply for a certificate of eligibility, or apply for home building compensation cover.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:23Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "5716cb94cab6dec1992681d01b6d242a1ee7efa2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

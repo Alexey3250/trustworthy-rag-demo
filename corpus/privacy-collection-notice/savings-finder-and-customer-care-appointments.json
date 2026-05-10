@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/savings-finder-and-customer-care-appointments",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/savings-finder-and-customer-care-appointments",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "savings-finder-and-customer-care-appointments",
+  "title": "Savings Finder and Customer Care appointments – Privacy collection notice",
+  "summary": "This notice explains why and how Service NSW collects your personal information when you attend a Savings Finder or Customer Care appointment.",
+  "topics": [
+    "privacy",
+    "service-nsw",
+    "appointments",
+    "personal-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "we handle your personal information",
+      "link": null
+    },
+    {
+      "text": "you can access and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made.",
+      "link": null
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Read the Service NSW privacy statement for more information on how:",
+      "link": null
+    },
+    {
+      "text": "You can call Service NSW on 13 77 88.",
+      "link": null
+    },
+    {
+      "text": "Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information will be collected during the appointment?",
+      "a": "Information collected includes your name, contact details, whether you hold concession cards, licenses, vehicles, or properties, your support interests (e.g., housing, parenting, education, employment, disability), the type of disaster you were impacted by, and if you identify as Aboriginal or Torres Strait Islander. Business types are also collected if you seek business support.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "Your responses and support preferences will be used to recommend rebates, vouchers, discounts, and support you may be eligible for. Your name and contact details may be used to email you a copy of your recommendations and appointment notes.",
+      "link": null
+    },
+    {
+      "q": "What happens if I lose my appointment results?",
+      "a": "Your name and contact details can be used to locate your Savings Finder record in our systems and provide you with your results again.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:30Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "f040fc40c6cadbe4b6f23ac1adc2702e40aa0753",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-traffic-control-work-training-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-traffic-control-work-training-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-traffic-control-work-training-card",
+  "title": "Replace a traffic control work training card",
+  "summary": "You can order and pay for a replacement SafeWork NSW traffic control work training (TCWT) card online if it has been lost, stolen, damaged, or destroyed, or if you need to convert an RMS card.",
+  "topics": [
+    "traffic-control-work-card",
+    "safework-nsw",
+    "replace-card",
+    "licence"
+  ],
+  "intro": "If you do traffic control work on or next to a public road, you need to have a SafeWork NSW traffic control work training (TCWT) card.\n\nIf your TCWT card has been lost, stolen, damaged or destroyed, or you need to convert your RMS card, you can order and pay for a replacement online. Your contact details must match those on your card.\n\nIf your contact details have changed, you’ll need to complete the Update contact details form before you replace your card online.\n\nThe replacement card will be sent to your postal address.",
+  "who_can_apply": [
+    "You must have already been issued a traffic control work card."
+  ],
+  "what_you_need": [
+    "A credit or debit card to pay the replacement fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Replace online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a replacement card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Visit Verify NSW to look up and verify a NSW licence or registration.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Update contact details form",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    },
+    {
+      "text": "replacement fee",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "Traffic control work training – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/traffic-controller-training"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get a traffic control work training card",
+      "url": "https://www.service.nsw.gov.au/referral/get-a-traffic-control-work-training-card"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    },
+    {
+      "text": "Replace a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a traffic control work training card?",
+      "a": "You need a TCWT card if you do traffic control work on or next to a public road.",
+      "link": null
+    },
+    {
+      "q": "How do I replace my lost or damaged TCWT card?",
+      "a": "You can order and pay for a replacement online. The replacement card will be sent to your postal address.",
+      "link": null
+    },
+    {
+      "q": "What if my contact details have changed?",
+      "a": "If your contact details have changed, you must complete the Update contact details form before replacing your card online.",
+      "link": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:40Z",
+    "last_modified": "30 October 2025",
+    "html_sha1": "43893b87b12deffab318527e318d5b5d6923f578",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-register-an-item-of-plant",
+  "title": "Apply to register an item of plant",
+  "summary": "This page provides information on how to apply to register certain items of plant with SafeWork NSW or a corresponding WHS regulator.",
+  "topics": [
+    "plant-registration",
+    "safe-work-nsw",
+    "whs-regulator",
+    "workplace-safety"
+  ],
+  "intro": "Certain items of plant must be registered with SafeWork NSW or a corresponding work health and safety (WHS) regulator before they're permitted to be used.\n\nRegistration ensures the item has been:\n\nMobile item(s) of plant coming into NSW do not require registration if they are currently registered with the WHS regulator in their jurisdiction.\n\nNote: An item of plant's registration must be renewed annually, and before it expires. Visit Apply to renew the registration of an item of plant for more information.",
+  "who_can_apply": [
+    "Boilers and pressure vessels categorized as hazard level A, B or C according to criteria in Section 2.1 of AS 4343, with some exceptions.",
+    "Tower cranes, including self-erecting tower cranes.",
+    "Mobile cranes with a rated capacity of greater than 10 tonnes.",
+    "Concrete placing booms.",
+    "Lifts, escalators and moving walkways.",
+    "Building maintenance units.",
+    "Amusement devices classified by Section 2.1 of AS 3533, with some exceptions.",
+    "The person with management or control of the plant (such as the owner or lessee) must register the item of plant once it has been deemed safe to operate by a competent person.",
+    "Plant items that require registration include those detailed in the Work Health and Safety Regulation 2025."
+  ],
+  "what_you_need": [
+    "A valid email address.",
+    "Business details (if applicable).",
+    "Your contact details.",
+    "Design registration and plant item specifications.",
+    "Supporting documentation where required.",
+    "Payment (a fee is required for the registration of each item of plant).",
+    "If you have multiple items at one location, you may receive a reduced fee if they are lodged at the same time and owned by the same applicant.",
+    "It is recommended to email licensing@safework.nsw.gov.au with your plant item details and location to align registration dates and qualify for a discounted renewal fee next year."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach any supporting documents (where applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Your fee will be calculated on completion of the online application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your application with the required payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A person is competent to inspect an item of plant if they have:",
+      "link": null
+    },
+    {
+      "text": "If plant that requires registration is not registered, no person is permitted to use that item of plant.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "exceptions",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2017-0404#sch.5-pt.2"
+    },
+    {
+      "text": "register a private lift as an item of plant – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0009/1083168/registration-of-an-item-of-plant-private-lift-application.pdf"
+    },
+    {
+      "text": "Work Health and Safety Regulation 2025",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2025-0440"
+    },
+    {
+      "text": "statement for tower crane foundations – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0007/1069828/tower-crane-foundation-design-statement.pdf"
+    },
+    {
+      "text": "engineer's inspection certificate – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0004/1069825/amusement-device-mechanical-structural-inspection-certificate.pdf"
+    },
+    {
+      "text": "electrical inspection certificate – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0003/1069824/amusement-device-electrical-inspection-certificate.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "Plant item registration – SafeWork",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations/plant-item-registration"
+    },
+    {
+      "text": "Plant registration – Privacy Collection Notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/plant-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "text": "visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to register a plant design",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design"
+    },
+    {
+      "text": "Replace a plant registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate"
+    },
+    {
+      "text": "Request a search of plant registration records",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do all items of plant require registration?",
+      "a": "No, mobile items of plant coming into NSW do not require registration if they are currently registered with the WHS regulator in their jurisdiction.",
+      "link": null
+    },
+    {
+      "q": "How often must an item of plant be registered?",
+      "a": "An item of plant's registration must be renewed annually, and before it expires.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "q": "Who must register the item of plant?",
+      "a": "The person with management or control of the plant, such as the owner or lessee, must register the item of plant once it has been deemed safe to operate by a competent person.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:29Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "58de5da25532630d0e43e4d20367ae06e1dce644",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

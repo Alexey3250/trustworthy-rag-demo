@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-northern-sydney-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-northern-sydney-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-northern-sydney-district",
+  "title": "DCJ Northern Sydney District",
+  "summary": "This page provides information and contact details for the DCJ Northern Sydney District.",
+  "topics": [
+    "community-services",
+    "justice",
+    "northern-sydney",
+    "dcj"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Chatswood Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/chatswood-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Pennant Hills Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/pennant-hills-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:01Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "19fed232c0cfcb65a8a92ce7e90c1462fc50888b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

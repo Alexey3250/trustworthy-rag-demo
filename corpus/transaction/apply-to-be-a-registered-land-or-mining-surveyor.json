@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-be-a-registered-land-or-mining-surveyor",
+  "title": "Apply to be a registered land or mining surveyor",
+  "summary": "Find out the requirements and steps to apply for registration as a land or mining surveyor in NSW.",
+  "topics": [
+    "surveyor",
+    "land-surveyor",
+    "mining-surveyor",
+    "registration"
+  ],
+  "intro": "To become a registered surveyor in NSW you need:\n\nYou can then apply for registration online.\n\nVisit the Board of Surveying and Spatial Information (BOSSI) website to learn about the pathways to registration for a:\n\n### Working in NSW with an interstate or New Zealand registration\n\nIf you're a registered land surveyor from another Australian state you're able to work in NSW under the Automatic Mutual Recognition (AMR) scheme. If you intend to work in NSW under AMR you must notify the regulator, the Board of Surveying and Spatial Information NSW.\n\nIf you're a registered mining surveyor from another Australian state you'll need to apply to the Board of Surveying and Spatial Information NSW for mutual recognition.\n\nIf you're a registered surveyor (land or mining) from New Zealand you'll need to apply to the Board of Surveying and Spatial Information NSW for mutual recognition.",
+  "who_can_apply": [
+    "A candidate surveyor in NSW who holds a Certificate of Competency.",
+    "A registered surveyor in another Australian state/territory.",
+    "A registered surveyor in New Zealand."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or your OneGov account.",
+    "Certified copies of the following documents (in English and PDF format, maximum file size 4MB):",
+    "A passport quality photo in JPG format.",
+    "A credit or debit card for the registration fee.",
+    "Mutual recognition applicants also need additional documentation."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Next' on the application screen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account, or log in using your OneGov credentials.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to apply to be a registered surveyor.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "land surveyor",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors/pathway_to_registration"
+    },
+    {
+      "text": "mining surveyor",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_mining_surveyors/pathway_to_registration"
+    },
+    {
+      "text": "apply to the Board of Surveying and Spatial Information NSW for mutual recognition",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/interstate_accreditation"
+    },
+    {
+      "text": "Notice of practical experience form – PDF",
+      "url": "https://www.bossi.nsw.gov.au/__data/assets/pdf_file/0004/233185/Notice_of_Practical_Experience_Obtained_Candidate_Surveyor.pdf"
+    },
+    {
+      "text": "registration fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "Board of Surveying and Spatial Information (BOSSI)",
+      "url": "https://www.bossi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the regulator, the Board of Surveying and Spatial Information NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Apply to be a candidate land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor"
+    },
+    {
+      "text": "Renew your surveyor registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-your-surveyor-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I work in NSW if I am a registered surveyor from another Australian state?",
+      "a": "If you are a registered land surveyor from another Australian state, you can work in NSW under the Automatic Mutual Recognition (AMR) scheme. If you are a registered mining surveyor, you must apply to the Board of Surveying and Spatial Information NSW for mutual recognition.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "q": "What do I need if I am a registered surveyor from New Zealand?",
+      "a": "You will need to apply to the Board of Surveying and Spatial Information NSW for mutual recognition.",
+      "link": "https://www.bossi.nsw.gov.au/surveyors/interstate_accreditation"
+    },
+    {
+      "q": "What are the general requirements to apply for registration?",
+      "a": "You must be a candidate surveyor in NSW holding a Certificate of Competency, or registered in another Australian state/territory or New Zealand.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:26Z",
+    "last_modified": "5 August 2025",
+    "html_sha1": "9a6d20d19adf7a9e759816c40e5f67e08e7a3dbe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

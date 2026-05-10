@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/security-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/security-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "security-industry",
+  "title": "Security industry",
+  "summary": "Find information and services related to the security industry in New South Wales.",
+  "topics": [
+    "security-industry",
+    "licences",
+    "business-licences",
+    "security-operatives"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Firearms licence",
+      "link": "https://www.service.nsw.gov.au/services/firearms-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Security operative licence",
+      "url": "https://www.service.nsw.gov.au/services/security-operative-licence"
+    },
+    {
+      "text": "Security master licence",
+      "url": "https://www.service.nsw.gov.au/services/security-master-licence"
+    },
+    {
+      "text": "Get a firearms or security industry licence issued",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued"
+    },
+    {
+      "text": "Apply for a security visitor permit at a special event",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-visitor-permit-at-a-special-event"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Firearms licence",
+      "url": "https://www.service.nsw.gov.au/services/firearms-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:02Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8d1b5668a80830cb4374383a0680b9fcd1dd99d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

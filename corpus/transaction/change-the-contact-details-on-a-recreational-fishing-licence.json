@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-contact-details-on-a-recreational-fishing-licence",
+  "title": "Change the contact details on a recreational fishing licence",
+  "summary": "Update your address, email address, and/or contact number for a recreational fishing licence online.",
+  "topics": [
+    "fishing-licence",
+    "contact-details",
+    "nsw-primary-industries"
+  ],
+  "intro": "If you need to update your address, email address and/or contact number on a 1-year or 3-year recreational fishing licence, you can do this online, as long as your current email address or mobile phone number is recorded with NSW Primary Industries.\n\nNote: If you need to update the name on a recreational fishing licence, go to Change the name on a recreational fishing licence and follow the instructions.",
+  "who_can_apply": [
+    "Must have a 1-year or 3-year recreational fishing licence.",
+    "Must have a current email address or mobile phone number recorded with NSW Primary Industries."
+  ],
+  "what_you_need": [
+    "Your name and licence number",
+    "Your new contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your contact details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/declaration-and-privacy-collection-notice"
+    },
+    {
+      "text": "NSW Primary Industries website",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I update my contact details online?",
+      "a": "Yes, you can update your address, email address, and/or contact number for a 1-year or 3-year recreational fishing licence online.",
+      "link": null
+    },
+    {
+      "q": "What must I have to update my contact details?",
+      "a": "You need your name, licence number, and your new contact details.",
+      "link": null
+    },
+    {
+      "q": "What if I need to update my name on my licence?",
+      "a": "If you need to update the name on a recreational fishing licence, you must go to Change the name on a recreational fishing licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:24Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "4e493c93698465cd962682f5d75d38f1856f3204",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

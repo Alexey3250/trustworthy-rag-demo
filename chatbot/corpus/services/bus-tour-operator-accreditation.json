@@ -1,0 +1,41 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/bus-tour-operator-accreditation",
+  "source_url": "https://www.service.nsw.gov.au/services/bus-tour-operator-accreditation",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "bus-tour-operator-accreditation",
+  "title": "Bus tour operator accreditation",
+  "summary": "Find information and apply for accreditation for bus tour operators in New South Wales.",
+  "topics": [
+    "bus-tours",
+    "operator-accreditation",
+    "bus-tour-operator"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a bus operator accreditation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-operator-accreditation"
+    },
+    {
+      "text": "Renew a bus operator accreditation",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-operator-accreditation"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:56Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "88fc426b09c0ba595f3bce6fb00a791d6ef91897",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

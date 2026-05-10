@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/rent-choice-subsidy",
+  "source_url": "https://www.service.nsw.gov.au/referral/rent-choice-subsidy",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "rent-choice-subsidy",
+  "title": "Rent Choice subsidy",
+  "summary": "Find information and assistance options for renting in NSW, including subsidies and support for moving.",
+  "topics": [
+    "renting",
+    "housing-assistance",
+    "private-rental",
+    "subsidy",
+    "moving"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Need to set up or maintain a tenancy in the private sector",
+    "Need to pay urgent housing-related costs like rent arrears",
+    "Need to move from public housing to private rental accommodation"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Private rental assistance – Homes NSW",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-assistance"
+    },
+    {
+      "text": "Social and affordable housing – Homes NSW",
+      "link": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    },
+    {
+      "text": "Take a course on renting in NSW",
+      "link": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "link": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Domestic and family violence",
+      "link": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "apply for housing assistance",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/finding-social-and-affordable-housing/apply-for-housing-assistance"
+    },
+    {
+      "text": "private rental subsidy",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-subsidy"
+    },
+    {
+      "text": "Rent Choice Assist",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-assist"
+    },
+    {
+      "text": "Rent Choice Start Safely",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-start-safely"
+    },
+    {
+      "text": "Rent Choice Youth",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-youth"
+    },
+    {
+      "text": "Rent Choice Transition",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-transition"
+    },
+    {
+      "text": "Rent Choice Veterans",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rent-choice-veterans"
+    },
+    {
+      "text": "Statement of Satisfactory Tenancy",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/leaving-social-housing/statement-of-satisfactory-tenancy"
+    },
+    {
+      "text": "Private rental brokerage service",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-brokerage-service"
+    },
+    {
+      "text": "Rentstart Move",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/rentstart-move"
+    },
+    {
+      "text": "Private rental assistance – Homes NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/homes-nsw/social-housing-resources/private-rental-assistance"
+    },
+    {
+      "text": "Social and affordable housing – Homes NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Rentstart Bond Loan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-rentstart-bond-loan"
+    },
+    {
+      "text": "Take a course on renting in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/take-a-course-on-renting-in-nsw"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of housing assistance are available?",
+      "a": "Assistance can help you set up or maintain a tenancy in the private sector, pay urgent housing-related costs like rent arrears, or move from public housing to private rental accommodation.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about different types of rent choice subsidies?",
+      "a": "The page lists several specific Rent Choice programs, including Rent Choice Assist, Rent Choice Start Safely, Rent Choice Youth, Rent Choice Transition, and Rent Choice Veterans.",
+      "link": null
+    },
+    {
+      "q": "What if I need help with moving?",
+      "a": "The page provides dedicated sections and links for help when you are moving.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:37Z",
+    "last_modified": "15 August 2025",
+    "html_sha1": "0ebfd066159c4d5649a44b0d6ed13056d3d23871",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

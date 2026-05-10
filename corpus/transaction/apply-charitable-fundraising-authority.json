@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-charitable-fundraising-authority",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-charitable-fundraising-authority",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-charitable-fundraising-authority",
+  "title": "Apply for a charitable fundraising authority",
+  "summary": "Learn about and apply for a charitable fundraising authority if you raise money for a charitable purpose in NSW.",
+  "topics": [
+    "charitable-fundraising",
+    "nsw-authority",
+    "fundraising-rules",
+    "charity-registration"
+  ],
+  "intro": "If you raise more than $15,000 in a financial year for a charitable purpose in NSW, you must have an authority to fundraise from NSW Fair Trading.\n\nHowever, from 1 April 2026, ACNC registered charities do not need to apply for or hold a NSW charitable fundraising authority, as they are automatically taken to hold a deemed authority. ACNC registered charities no longer need to apply for or renew a NSW authority.\n\nFor non ACNC registered charities, an authority continues to operate under NSW law and must be renewed as required.\n\nAn authority lasts for up to 5 years and there is no limit to the number of fundraising appeals covered by a valid authority. You can apply to renew your authority for 1, 3 or 5 years before it expires or up to 3 months after the expiry date.\n\nThe authority holder must provide written authority to people who volunteer or receive a wage, commission or fee to fundraise on their behalf towards the charitable purpose.\n\nThe Charitable Fundraising Guidelines provide information on:",
+  "who_can_apply": [
+    "Must raise more than $15,000 in a financial year for a charitable purpose in NSW.",
+    "Non-ACNC registered charities must apply for and hold an authority, as ACNC registered charities are automatically deemed to hold one from 1 April 2026."
+  ],
+  "what_you_need": [
+    "Details of the proposed beneficiary (optional).",
+    "Details of a contact person.",
+    "Details of the auditor (optional).",
+    "Copy of the terms of an appeal (if you are an individual).",
+    "Copy of the latest audited financial statements (if applicable).",
+    "Statement of objects setting out the purpose and range of activities.",
+    "Constitution or trust deed and/or certificate of registration or corporation (for non-ACNC registered charities).",
+    "No fee is required to apply for the authority."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You'll have the option to log in using your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download Charitable fundraising authority – application – PDF.",
+      "link": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-resources/charitable-fundraising-application-form"
+    },
+    {
+      "n": 5,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Sign the declaration.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Attach your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Email your application to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have any questions about a charitable fundraising authority email NSW Fair Trading or call 13 32 20.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "written authority",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-guidelines/conducting-an-appeal"
+    },
+    {
+      "text": "Charitable Fundraising Guidelines",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-guidelines"
+    },
+    {
+      "text": "responsibilities for fundraising",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/key-responsibilities-for-fundraisers"
+    },
+    {
+      "text": "follow the steps to",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/apply-for-an-authority-to-fundraise"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Charitable fundraising authority – application – PDF",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-resources/charitable-fundraising-application-form"
+    },
+    {
+      "text": "NSW Fair Trading privacy statement",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "renew your authority",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-charitable-fundraising-authority"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a charitable fundraising authority?",
+      "a": "You must have an authority if you raise more than $15,000 in a financial year for a charitable purpose in NSW.",
+      "link": null
+    },
+    {
+      "q": "Do ACNC registered charities still need to apply for an authority?",
+      "a": "No, from 1 April 2026, ACNC registered charities do not need to apply for or hold a NSW charitable fundraising authority, as they are automatically taken to hold a deemed authority.",
+      "link": null
+    },
+    {
+      "q": "How long does an authority last and how do I renew it?",
+      "a": "An authority lasts for up to 5 years. You can renew it for 1, 3, or 5 years before it expires or up to 3 months after the expiry date.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-charitable-fundraising-authority"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:08Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "7a7f525604880c37c92fc4585425781a3795aede",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

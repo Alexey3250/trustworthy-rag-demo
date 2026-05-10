@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/individual-contractor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "individual-contractor-licence",
+  "title": "Individual contractor licence",
+  "summary": "This page provides information and links for managing an individual contractor licence in New South Wales.",
+  "topics": [
+    "individual-contractor-licence",
+    "licence",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    },
+    {
+      "text": "Apply for an electrical individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/get-started-with-an-individual-contractor-licence-application-electrical"
+    },
+    {
+      "text": "Change address and contact details on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence"
+    },
+    {
+      "text": "Change the class on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-an-individual-contractor-licence"
+    },
+    {
+      "text": "Change the conditions on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-an-individual-contractor-licence"
+    },
+    {
+      "text": "Renew an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-individual-contractor-licence"
+    },
+    {
+      "text": "Replace an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-individual-contractor-licence"
+    },
+    {
+      "text": "Restore an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-individual-contractor-licence"
+    },
+    {
+      "text": "Surrender an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-an-individual-contractor-licence"
+    },
+    {
+      "text": "Add your individual digital contractor licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an individual contractor licence?",
+      "a": "You can apply for an individual contractor licence using the dedicated application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    },
+    {
+      "q": "What if I need to change details on my licence?",
+      "a": "You can change your address and contact details, change the class, or change the conditions on your licence.",
+      "link": null
+    },
+    {
+      "q": "How do I renew or replace my licence?",
+      "a": "You can renew your licence or replace it using the specific service links.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:12Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8726376bf7ddf3cd16eb5b0bf903c987a06964c1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

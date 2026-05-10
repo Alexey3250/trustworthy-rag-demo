@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-trade-union-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-trade-union-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-trade-union-in-nsw",
+  "title": "Find a trade union in NSW",
+  "summary": "This page helps you find a NSW trade union or a trade union official using the Unions NSW Directory.",
+  "topics": [
+    "trade-union",
+    "nsw",
+    "unions",
+    "directory"
+  ],
+  "intro": "If you're looking for a NSW trade union or a trade union official, you can browse the Unions NSW Directory.\n\nThe directory offers a list of unions and a contact person you can reach by phone, email or post.\n\nFor more information, visit Unions NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Unions NSW Directory",
+      "url": "https://unionsnsw.org.au/about-us/directory/"
+    },
+    {
+      "text": "Unions NSW",
+      "url": "https://unionsnsw.org.au"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:34Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "87f02113e3a71b4ed0c743d359ba4376bcce1904",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

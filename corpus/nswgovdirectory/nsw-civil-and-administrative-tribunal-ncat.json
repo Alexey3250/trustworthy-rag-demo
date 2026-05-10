@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-civil-and-administrative-tribunal-ncat",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-civil-and-administrative-tribunal-ncat",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-civil-and-administrative-tribunal-ncat",
+  "title": "NSW Civil and Administrative Tribunal (NCAT)",
+  "summary": "This page provides information about the NSW Civil and Administrative Tribunal (NCAT), which helps resolve issues or disputes.",
+  "topics": [
+    "disputes",
+    "tribunals",
+    "ncat",
+    "nsw-law"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://ncat.nsw.gov.au/",
+      "url": "https://ncat.nsw.gov.au/"
+    },
+    {
+      "text": "how NCAT can resolve your issue or dispute",
+      "url": "https://www.ncat.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Civil and Administrative Tribunal (NCAT)?",
+      "a": "NCAT is a tribunal that helps resolve issues or disputes.",
+      "link": null
+    },
+    {
+      "q": "How can NCAT help with my issue or dispute?",
+      "a": "You can find out how NCAT can resolve your issue or dispute via the NCAT website.",
+      "link": "https://www.ncat.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:46Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8b637814ff2e97a13ab91c1bea4fdc84f818a230",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

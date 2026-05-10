@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher",
+  "source_url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher",
+  "category": "active-and-creative-kids-voucher",
+  "article_kind": "landing-page",
+  "slug": "active-and-creative-kids-voucher",
+  "title": "Active and Creative Kids voucher",
+  "summary": "Find out about the Active and Creative Kids voucher, including how to apply, where to use it, and what activities are eligible.",
+  "topics": [
+    "kids-activities",
+    "voucher",
+    "education",
+    "family-support"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The voucher is for active or creative activities for kids."
+  ],
+  "what_you_need": [
+    "To apply for the voucher, you will need to follow the steps provided on the application page."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Family Tax Benefit",
+      "url": "https://www.servicesaustralia.gov.au/family-tax-benefit"
+    },
+    {
+      "text": "Find a provider Find where to use your vouchers.",
+      "url": "https://mybusiness.service.nsw.gov.au/business-finder/vouchers?voucherType=ActiveCreativeKids"
+    },
+    {
+      "text": "School term and holiday dates",
+      "url": "https://education.nsw.gov.au/schooling/calendars"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a voucher Apply for an Active and Creative Kids voucher.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-active-and-creative-kids-voucher"
+    },
+    {
+      "text": "eligible active or creative activities",
+      "url": "https://www.service.nsw.gov.au/guidelines/active-and-creative-kids-voucher#appendix-a-eligible-activities"
+    },
+    {
+      "text": "share an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/share-a-voucher"
+    },
+    {
+      "text": "Apply to be a provider Apply to be an Active and Creative Kids voucher provider.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-active-and-creative-kids-voucher-provider"
+    },
+    {
+      "text": "Redeeming vouchers from customers Find out how to redeem vouchers from customers.",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Education and training",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an Active and Creative Kids voucher?",
+      "a": "You can apply for an Active and Creative Kids voucher using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-active-and-creative-kids-voucher"
+    },
+    {
+      "q": "Where can I find a provider that accepts these vouchers?",
+      "a": "You can find where to use your vouchers by searching the provider finder.",
+      "link": "https://mybusiness.service.nsw.gov.au/business-finder/vouchers?voucherType=ActiveCreativeKids"
+    },
+    {
+      "q": "What types of activities are eligible for the voucher?",
+      "a": "The page provides guidelines on eligible active or creative activities.",
+      "link": "https://www.service.nsw.gov.au/guidelines/active-and-creative-kids-voucher#appendix-a-eligible-activities"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:47Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "3f574b34ef361621a0d7fbb3363c7c5920de3087",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

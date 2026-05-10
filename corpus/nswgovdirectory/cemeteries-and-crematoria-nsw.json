@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/cemeteries-and-crematoria-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/cemeteries-and-crematoria-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "cemeteries-and-crematoria-nsw",
+  "title": "Cemeteries and Crematoria NSW",
+  "summary": "This page provides information about cemeteries and crematoria in NSW.",
+  "topics": [
+    "cemeteries",
+    "crematoria",
+    "nsw-services",
+    "burial-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.cemeteries.nsw.gov.au/",
+      "url": "https://www.cemeteries.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:30Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "950c28676e3fdb8b0e6c940023e303bf195b866b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

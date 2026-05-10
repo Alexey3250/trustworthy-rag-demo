@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/menindee-police-station",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/menindee-police-station",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "menindee-police-station",
+  "title": "Menindee Police Station",
+  "summary": "This page provides information about the Menindee Police Station location and how to get there.",
+  "topics": [
+    "police-station",
+    "menindee",
+    "service-centre",
+    "location"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-32.393587,142.417424"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "mobile service centre",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "store location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Browse our services directory",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "Broken Hill Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/broken-hill-service-centre"
+    },
+    {
+      "text": "Wilcannia Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/wilcannia-agency"
+    },
+    {
+      "text": "Wentworth Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/wentworth-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:04Z",
+    "last_modified": null,
+    "html_sha1": "be66b5ff289497b8dea8940fb5ff3cd13ef70270",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

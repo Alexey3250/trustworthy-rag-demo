@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-boundaries-of-licensed-premises",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-boundaries-of-licensed-premises",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-boundaries-of-licensed-premises",
+  "title": "Change boundaries of licensed premises",
+  "summary": "Licensed premises owners or licensees can apply to change the boundaries of their licensed premises.",
+  "topics": [
+    "liquor-licensing",
+    "licensed-premises",
+    "business-operations",
+    "nsw-service"
+  ],
+  "intro": "If you're the licensee and/or owner of a licensed premises, and you want to change the area of the premises, you need to apply.\n\nAmendments to authorisations you may currently have, such as extended trading authorisation (ETA) and/or minors' areas, need to be applied for at the same time.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Licensee and/or owner of a licensed premises"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "A copy of your local council’s development consent or approval for the proposed licensed area (if required)",
+    "Footway dining approval document (if applicable)",
+    "A colour coded plan (PDF) in A4 or A3, showing:",
+    "Licensee consent form (if applicable)",
+    "New patron capacity",
+    "The appropriate application forms and payments required to amend current authorisations",
+    "A Statement of Risks and Potential Effects (SoRPE) may be required if the application is to increase licence boundaries by more than 50%",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Go to Liquor Licence Manager’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'View licences'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'View details' for the relevant licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Modify licence'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Select 'Change of boundaries'.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Follow the prompts to apply.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Attach any supporting documents to the application.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Submit your application with payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "a colour coded plan (PDF) in A4 or A3",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/resources/fs3127-how-to-submit-a-floor-plan-a-licence-application"
+    },
+    {
+      "text": "Statement of Risks and Potential Effects (SoRPE)",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/sorpe"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details on a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-liquor-licence"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must I do if I change the area of my licensed premises?",
+      "a": "If you are the licensee and/or owner, you must apply to change the area of the premises.",
+      "link": null
+    },
+    {
+      "q": "Do I need to apply for other changes at the same time?",
+      "a": "If you are changing the boundaries, you must also apply for any amendments to authorisations you currently have, such as extended trading authorisation (ETA) and/or minors' areas.",
+      "link": null
+    },
+    {
+      "q": "Where can I find up-to-date information on liquor licence guidelines?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page for resources and tools.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:00Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "7dac7702ea44e688e4adf69ec60e938235c707e4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

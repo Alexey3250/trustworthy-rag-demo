@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/departments",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/departments",
+  "category": "nswgovdirectory",
+  "article_kind": "content",
+  "slug": "departments",
+  "title": "NSW Government Directory by department",
+  "summary": "This page provides a directory of NSW government departments and ministries.",
+  "topics": [
+    "nsw-government",
+    "directory",
+    "departments",
+    "ministries"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NSW Government Directory A to Z",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    },
+    {
+      "text": "Contact a minister",
+      "link": "https://www.nsw.gov.au/nsw-government/ministers"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Contact a minister",
+      "url": "https://www.nsw.gov.au/nsw-government/ministers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    },
+    {
+      "text": "The Cabinet Office",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-cabinet-office"
+    },
+    {
+      "text": "Climate Change, Energy, the Environment and Water",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    },
+    {
+      "text": "Communities and Justice",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    },
+    {
+      "text": "Customer Service",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Education",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    },
+    {
+      "text": "Health",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Transport",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    },
+    {
+      "text": "Treasury",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    },
+    {
+      "text": "NSW Government Directory A to Z",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find a specific NSW government department?",
+      "a": "The page lists various departments, including Premier's Department, Health, and Education, and provides a directory A to Z for finding specific areas.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about different government sectors?",
+      "a": "The directory includes departments such as Climate Change, Energy, the Environment and Water, and Planning, Housing and Infrastructure.",
+      "link": null
+    },
+    {
+      "q": "What is the NSW Government Directory A to Z?",
+      "a": "It is a comprehensive resource to help citizens find information about all NSW government departments.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/atoz"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:18Z",
+    "last_modified": null,
+    "html_sha1": "0f4d7ac0142afba8236ee121d0f39e0c41504f95",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

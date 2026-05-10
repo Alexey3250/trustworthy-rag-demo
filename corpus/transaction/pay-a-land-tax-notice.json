@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-a-land-tax-notice",
+  "title": "Pay a land tax notice",
+  "summary": "This page provides instructions on how to pay a land tax notice online.",
+  "topics": [
+    "land-tax",
+    "nsw",
+    "paying-tax",
+    "property-tax"
+  ],
+  "intro": "Land tax is a tax levied on the owners of land in NSW as of midnight on 31 December of each year. In general, your principal place of residence (your home) or land used for primary production (a farm) is exempt from land tax.\n\nYou may be liable for land tax if you own or part-own:\n\nIf you need to pay a land tax notice, you can do this online. If you do not wish to pay online see the alternative payment options at Revenue NSW's payment page.",
+  "who_can_apply": [
+    "Own or part-own land in NSW"
+  ],
+  "what_you_need": [
+    "Your land tax assessment notice",
+    "Your client ID number (as shown on your land tax assessment notice)",
+    "Your reference number (as shown on your land tax assessment notice)",
+    "Biller code (as shown on your land tax assessment notice)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to pay a land tax notice.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Maximum payment via credit card is $200,800.",
+      "link": null
+    },
+    {
+      "text": "If payment is not paid by the due date, you may be charged interest for late payment.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "alternative payment options at Revenue NSW's payment page",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax/pay"
+    },
+    {
+      "text": "Land tax – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax"
+    },
+    {
+      "text": "Land tax online – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/help-centre/online-services/how-to-use-land-tax-online"
+    },
+    {
+      "text": "Land tax thresholds and rates",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax/understanding-land-tax/thresholds-and-rates"
+    },
+    {
+      "text": "How land tax is calculated",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax/understanding-land-tax/how-land-tax-is-calculated"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage your land tax with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is land tax?",
+      "a": "Land tax is a tax levied on the owners of land in NSW as of midnight on 31 December of each year.",
+      "link": null
+    },
+    {
+      "q": "Am I exempt from land tax?",
+      "a": "Your principal place of residence (your home) or land used for primary production (a farm) is generally exempt from land tax.",
+      "link": null
+    },
+    {
+      "q": "How can I pay my land tax notice?",
+      "a": "You can pay a land tax notice online by selecting the 'Pay online' button and following the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:22Z",
+    "last_modified": "21 May 2025",
+    "html_sha1": "f2e40293021e61f22de4ae20e75f3da7ac9058c2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

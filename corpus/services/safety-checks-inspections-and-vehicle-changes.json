@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/safety-checks-inspections-and-vehicle-changes",
+  "source_url": "https://www.service.nsw.gov.au/services/safety-checks-inspections-and-vehicle-changes",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "safety-checks-inspections-and-vehicle-changes",
+  "title": "Safety checks, inspections and vehicle changes",
+  "summary": "This page provides information and links for various vehicle safety checks, inspections, and changes to vehicle details in NSW.",
+  "topics": [
+    "vehicle-inspection",
+    "safety-checks",
+    "vehicle-changes",
+    "emissions-testing",
+    "heavy-vehicle"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Owners of vehicles needing safety inspections or changes.",
+    "Owners of heavy vehicles needing inspections.",
+    "Owners of written-off light vehicles needing repair."
+  ],
+  "what_you_need": [
+    "Vehicle details",
+    "Proof of ownership or vehicle registration documents",
+    "For emissions testing: The vehicle itself"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Vehicle Identity & Inspections Unit (VIIU)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees#toc-vehicle-identity--inspections-unit-viiu"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get a safety inspection report (pink slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip"
+    },
+    {
+      "text": "Get an authorised unregistered vehicle inspection (blue slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Find an authorised vehicle inspection station outside NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw"
+    },
+    {
+      "text": "Find a Vehicle Safety Compliance Certification Scheme (VSCCS) licensed certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier"
+    },
+    {
+      "text": "Heavy vehicle inspections",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration#inspections"
+    },
+    {
+      "text": "Change the details of your vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-vehicle"
+    },
+    {
+      "text": "Get help with a vehicle Defect Notice",
+      "url": "https://www.service.nsw.gov.au/transaction/get-help-with-vehicle-defects"
+    },
+    {
+      "text": "Apply to repair a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-repair-a-written-off-light-vehicle"
+    },
+    {
+      "text": "Book an inspection with the Vehicle Identity & Inspections Unit",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-inspection-with-the-vehicle-identity-inspections-unit"
+    },
+    {
+      "text": "Book a VIIU inspection for a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    },
+    {
+      "text": "Change or cancel a Vehicle Identity & Inspections Unit booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-vehicle-identity-inspections-unit-booking"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Find a licensed certifier for emissions testing",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-certifier-for-emissions-testing"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get a safety inspection report (pink slip)?",
+      "a": "You can get a safety inspection report (pink slip) through the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/get-a-safety-inspection-report-pink-slip"
+    },
+    {
+      "q": "Where can I find an authorized vehicle inspection station outside NSW?",
+      "a": "You can find an authorized vehicle inspection station outside NSW using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw"
+    },
+    {
+      "q": "What do I do if I need to change my vehicle's details?",
+      "a": "You can change the details of your vehicle using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-vehicle"
+    },
+    {
+      "q": "How can I check a vehicle's emissions star rating?",
+      "a": "You can check a vehicle's emissions star rating (VESR) using the provided referral link.",
+      "link": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:47Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "34ff2284571ed9bd5524f2c7ae24896eb87ce704",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

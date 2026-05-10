@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-wait-times-for-major-nsw-hospital-emergency-departments",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-wait-times-for-major-nsw-hospital-emergency-departments",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-wait-times-for-major-nsw-hospital-emergency-departments",
+  "title": "Check wait times for major NSW hospital emergency departments",
+  "summary": "Use an online search tool to check the expected wait times at major NSW hospital emergency departments.",
+  "topics": [
+    "emergency-department",
+    "nsw-hospital",
+    "wait-times",
+    "health-care"
+  ],
+  "intro": "NSW Health provides an online search tool as a guide to the expected wait times in the emergency departments of participating major NSW hospitals.\n\nYou can find information on the:\n\nThe most seriously ill patients are seen immediately. As the information provided is a guide only, it doesn't indicate a specific timeframe or order in which a patient will be seen.\n\nYou can use the map options to check surrounding hospitals' information to find alternative emergency departments.\n\nCheck emergency department wait times",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "healthdirect website",
+      "url": "https://www.healthdirect.gov.au/"
+    },
+    {
+      "text": "online search tool",
+      "url": "https://www.emergencywait.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What does the wait time information mean?",
+      "a": "The information provided is a guide only and does not indicate a specific timeframe or the order in which a patient will be seen. The most seriously ill patients are seen immediately.",
+      "link": null
+    },
+    {
+      "q": "Can I check wait times for hospitals near me?",
+      "a": "Yes, you can use the map options to check surrounding hospitals' information to find alternative emergency departments.",
+      "link": null
+    },
+    {
+      "q": "Where can I check the wait times?",
+      "a": "You can use the online search tool provided by NSW Health.",
+      "link": "https://www.emergencywait.health.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:52Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "a025d8a09b321bf7392d41e6fb4dd74c5611950d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

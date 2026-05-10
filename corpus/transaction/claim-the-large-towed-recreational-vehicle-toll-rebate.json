@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-the-large-towed-recreational-vehicle-toll-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-the-large-towed-recreational-vehicle-toll-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-the-large-towed-recreational-vehicle-toll-rebate",
+  "title": "Claim the Large Towed Recreational Vehicle Toll Rebate",
+  "summary": "Learn how to claim the Large Towed Recreational Vehicle Toll Rebate online.",
+  "topics": [
+    "toll-rebate",
+    "recreational-vehicle",
+    "nsw-tolls",
+    "e-toll"
+  ],
+  "intro": "You can claim the Large Towed Recreational Vehicle Toll Rebate online. Before claiming, you need to register for the rebate.\n\nThe rebate applies to most Sydney toll roads. It does not apply to the Sydney Harbour Bridge or the Sydney Harbour Tunnel.\n\nThe rebate is capped at 8 toll trips per monthly billing period.",
+  "who_can_apply": [
+    "Be a NSW resident.",
+    "Be registered for the rebate.",
+    "Have both the car and towed recreational vehicle registered in NSW for private, pensioner, or charitable use.",
+    "Have travelled on an eligible NSW toll road with an eligible car, caravan, boat, or horse float combination detected as a Class B vehicle.",
+    "Have paid Class B tolls in full with your NSW-issued electronic tag or tagless product charged to your toll account.",
+    "The rebate is not available for motorhomes registered as Class B or Casual Pass toll road trips."
+  ],
+  "what_you_need": [
+    "E-Toll account login details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Claim online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your E-Toll Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Submit online claim'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to claim the rebate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "E-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/managing-my-e-toll-account/logging"
+    },
+    {
+      "text": "Large Towed Recreational Vehicle Toll Rebate FAQs – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/large-towed-recreational-vehicle-toll-rebate"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register for the rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-the-large-towed-recreational-vehicle-toll-rebate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What toll roads does the rebate apply to?",
+      "a": "The rebate applies to most Sydney toll roads, but it does not apply to the Sydney Harbour Bridge or the Sydney Harbour Tunnel.",
+      "link": null
+    },
+    {
+      "q": "What is the limit for the rebate?",
+      "a": "The rebate is capped at 8 toll trips per monthly billing period.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to claim the rebate?",
+      "a": "You must claim your rebate within 12 months of receiving your toll statement.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:41Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "2f9aff4e593e1ff6bc91d3452220f72013a5bf49",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/service-nsw-app-and-digital-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/service-nsw-app-and-digital-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "service-nsw-app-and-digital-licences",
+  "title": "Digital licences and credentials in the Service NSW app",
+  "summary": "Learn how to use the Service NSW app to manage, check, and access various digital licences and credentials.",
+  "topics": [
+    "service-nsw-app",
+    "digital-licences",
+    "credentials",
+    "driver-licence",
+    "photo-card"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Check a business or trade licence",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Download the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence"
+    },
+    {
+      "text": "NSW Digital Photo Card (Trial)",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card"
+    },
+    {
+      "text": "NSW Digital Birth Certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-digital-birth-certificate"
+    },
+    {
+      "text": "Add a digital licence or credential to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Add your Working with Children Check to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app"
+    },
+    {
+      "text": "Add your digital Seniors Card or Senior Savers Card to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-digital-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    },
+    {
+      "text": "Check a NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-checkers-and-the-nsw-digital-driver-licence"
+    },
+    {
+      "text": "Check a NSW Digital Photo Card (Trial)",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-checkers"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I download the Service NSW app?",
+      "a": "You can download the Service NSW app to manage your digital licences and credentials.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "q": "How do I add a digital licence or credential to the Service NSW app?",
+      "a": "You can add various digital licences and credentials, such as your Working with Children Check or Seniors Card, directly to the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "q": "How can I check my digital driver licence?",
+      "a": "You can check your NSW Digital Driver Licence status using the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-checkers-and-the-nsw-digital-driver-licence"
+    },
+    {
+      "q": "What can I check in the Service NSW app?",
+      "a": "You can check various items, including a digital trade licence, a NSW Digital Photo Card (Trial), or your Working with Children Check status.",
+      "link": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:40Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c64859681ed94932ce5fc1c8883acccebd342612",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

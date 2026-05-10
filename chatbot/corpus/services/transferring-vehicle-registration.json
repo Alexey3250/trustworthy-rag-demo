@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/transferring-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "transferring-vehicle-registration",
+  "title": "Buy or sell a vehicle",
+  "summary": "Find information and services related to buying, selling, or transferring the registration of a vehicle in NSW.",
+  "topics": [
+    "buying-a-vehicle",
+    "selling-a-vehicle",
+    "transferring-registration",
+    "vehicle-ownership"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals buying or selling a vehicle.",
+    "Individuals transferring vehicle registration.",
+    "Carers or guardians of registered operators.",
+    "Family members dealing with the death of a registered operator."
+  ],
+  "what_you_need": [
+    "Vehicle registration details.",
+    "Identification documents (implied for transactions)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Buying a vehicle",
+      "link": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "link": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Selling a vehicle",
+      "link": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle",
+      "link": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Check a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "text": "Order a vehicle history report",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-vehicle-history-report"
+    },
+    {
+      "text": "Check motor vehicle stamp duty",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "Find the market value of a used vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle"
+    },
+    {
+      "text": "Transfer a vehicle registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Check a vehicle's emissions star rating (VESR)",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I transfer a vehicle registration?",
+      "a": "You can transfer a vehicle registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "q": "What do I do if the registered operator dies?",
+      "a": "There are specific processes for transferring a vehicle registration due to the death of the registered operator.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    },
+    {
+      "q": "Can I transfer the registration if I am a carer or guardian?",
+      "a": "Specific guidance is available for transferring a vehicle registration as the carer or guardian of a registered operator.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:47Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b3669464f32d5b0032159939d21154c99e0f9978",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

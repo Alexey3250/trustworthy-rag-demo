@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "notify-about-a-written-off-heavy-vehicle",
+  "title": "Notify about a written-off heavy vehicle",
+  "summary": "Learn how to notify Transport for NSW about a written-off heavy vehicle so it can be recorded on the Written-Off Heavy Vehicles Register.",
+  "topics": [
+    "heavy-vehicle",
+    "written-off",
+    "transport-nsw",
+    "register"
+  ],
+  "intro": "Transport for NSW must be notified if a heavy vehicle has been written-off so it can be recorded on the Written-Off Heavy Vehicles Register (WOHVR).\n\nYou must notify within 7 days after:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The completed form: Written-Off Heavy Vehicles Register Notification – PDF"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the form Written-Off Heavy Vehicles Register Notification – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2021-02/rms-form-45065694-wohvr-notification.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Return the completed form using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Written-Off Heavy Vehicles Register Notification – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-02/rms-form-45065694-wohvr-notification.pdf"
+    },
+    {
+      "text": "Written-off heavy vehicle policies and procedures - PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/written-off-heavy-vehicle-policies-and-procedures-july-2022.pdf"
+    },
+    {
+      "text": "Written-off heavy vehicles – FAQs",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details of a heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle"
+    },
+    {
+      "text": "Book a heavy vehicle inspection",
+      "url": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:29Z",
+    "last_modified": "17 January 2025",
+    "html_sha1": "7e1efb9b3ea2a60b0bf3775f19cc3e590759b96c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/applying-for-accreditation-under-the-national-heavy-vehicle-accreditation-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/applying-for-accreditation-under-the-national-heavy-vehicle-accreditation-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "applying-for-accreditation-under-the-national-heavy-vehicle-accreditation-scheme",
+  "title": "Applying for accreditation under the National Heavy Vehicle Accreditation Scheme",
+  "summary": "Learn about the National Heavy Vehicle Accreditation Scheme (NHVAS), a process for recognizing operators with robust safety and management systems.",
+  "topics": [
+    "heavy-vehicle",
+    "accreditation",
+    "safety-management",
+    "road-transport"
+  ],
+  "intro": "The National Heavy Vehicle Accreditation Scheme (NHVAS) is a formal process for recognising operators who have robust safety and other management systems in place. It is also increasingly being used to show compliance with general duty requirements under road transport law.\n\nModules include:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Basic Fatigue Management (BFM)",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/work-and-rest-requirements#basic"
+    },
+    {
+      "text": "Advanced Fatigue Management (AFM)",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/fatigue-management/work-and-rest-requirements/advanced-fatigue-management-afm"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator (NHVR) portal, NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "National Heavy Vehicle Accreditation Scheme (NHVAS)",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/national-heavy-vehicle-accreditation-scheme"
+    },
+    {
+      "text": "NHVAS Accreditation Module Guides",
+      "url": "https://www.nhvr.gov.au/safety-accreditation-compliance/national-heavy-vehicle-accreditation-scheme/accreditation-modules"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    },
+    {
+      "text": "All about heavy vehicle national law and regulations",
+      "url": "https://www.nhvr.gov.au/law-policies/heavy-vehicle-national-law-and-regulations"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:23Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "3577ade8d74d413f6c53ba32ddecbce862283f92",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

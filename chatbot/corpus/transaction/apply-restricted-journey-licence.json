@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-restricted-journey-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-restricted-journey-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-restricted-journey-licence",
+  "title": "Apply for a restricted journey licence",
+  "summary": "Learn how to update your driver licence to a restricted journey licence if advised by your medical practitioner.",
+  "topics": [
+    "driver-licence",
+    "restricted-journey-licence",
+    "medical-advice",
+    "service-nsw"
+  ],
+  "intro": "If you've been told by your medical practitioner that you need a restricted journey licence, your driver licence will need to be updated. You can do this at a Service NSW Centre.\n\nA restricted journey licence means you can only drive within a certain distance of the address listed on your driver licence.\n\nNote: The distance you can drive will depend on your doctor's medical advice.\n\nA practical driving assessment is not required to get a restricted journey licence. You'll just need to present the medical report at a service centre.",
+  "who_can_apply": [
+    "You must have been told by your medical practitioner that you need a restricted journey licence."
+  ],
+  "what_you_need": [
+    "Your current driver licence",
+    "A medical report from your doctor"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit a service centre with the medical report and your current licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If your address changes, you'll need to update your driver licence. You might also need to get a new medical report from your doctor, as a different travel radius may apply.",
+      "link": null
+    },
+    {
+      "text": "If your doctor gives you a medical report that changes or removes your licence's distance restriction, you'll need to take that report to a service centre to update your driver licence.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "A Guide to Older Driver Licensing – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-09/older-drivers-guide.pdf"
+    },
+    {
+      "text": "Older drivers and riders - Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/older-drivers-and-riders"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    },
+    {
+      "text": "Apply for a licence to be reissued after being surrendered on medical grounds",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-being-surrendered-on-medical-grounds"
+    },
+    {
+      "text": "Apply for a modified driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a practical driving assessment to get a restricted journey licence?",
+      "a": "No, a practical driving assessment is not required. You only need to present the medical report at a service centre.",
+      "link": null
+    },
+    {
+      "q": "What does a restricted journey licence allow me to do?",
+      "a": "It means you can only drive within a certain distance of the address listed on your driver licence. The distance depends on your doctor's medical advice.",
+      "link": null
+    },
+    {
+      "q": "Where do I go to get a restricted journey licence?",
+      "a": "You can update your licence at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:15Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "67fcf299ee619da5fc0ef11d3141a0496e2156d7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

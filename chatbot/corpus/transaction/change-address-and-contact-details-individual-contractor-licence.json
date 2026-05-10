@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-and-contact-details-individual-contractor-licence",
+  "title": "Change address and contact details on an individual contractor licence",
+  "summary": "Licensed contractors can update their address and contact details online if Building Commission NSW has their email or mobile phone on record.",
+  "topics": [
+    "contractor-licence",
+    "change-address",
+    "contact-details",
+    "building-commission"
+  ],
+  "intro": "If you're a licensed contractor and Building Commission NSW has your email address or mobile phone on record you can update your address or contact details online.\n\nTo check your contractor licence number and details, visit Verify NSW.\n\nOnly your address and contact details can be changed online.\n\n### Change of name\n\nIf you want to change your name on your licence you need to visit a service centre with a copy of the name change document such as a marriage certificate. Find out more about change of name.",
+  "who_can_apply": [
+    "You must be a licensed contractor.",
+    "Building Commission NSW must have your email address or mobile phone on record."
+  ],
+  "what_you_need": [
+    "Your name and licence number",
+    "Your new contact details",
+    "For name changes: A copy of the name change document (e.g., marriage certificate)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the PDF form Change of address/contact details.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "n": 4,
+      "text": "To submit the form:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Change of address/contact details",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    },
+    {
+      "text": "Change or vary the details on a licence or registration – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/change-or-vary"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the class on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-an-individual-contractor-licence"
+    },
+    {
+      "text": "Change the conditions on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-an-individual-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my contractor licence number and details?",
+      "a": "You can visit Verify NSW to check your contractor licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "q": "What details can I change online?",
+      "a": "You can only change your address and contact details online.",
+      "link": null
+    },
+    {
+      "q": "How do I change my name on my licence?",
+      "a": "To change your name, you must visit a service centre with a copy of the name change document, such as a marriage certificate.",
+      "link": "https://www.service.nsw.gov.au/services/change-of-name"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:40Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "3f548228af05c84e22833e60f2f223fbcdb0b64a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

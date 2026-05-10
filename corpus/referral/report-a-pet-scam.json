@@ -1,0 +1,158 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-pet-scam",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-pet-scam",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-pet-scam",
+  "title": "Report a pet scam",
+  "summary": "This page provides advice on how to protect yourself from pet scams and what steps to take if you suspect you have been scammed.",
+  "topics": [
+    "pet-scam",
+    "buying-a-pet",
+    "consumer-rights",
+    "animal-welfare"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Be prepared for the cost of owning a pet",
+    "Understand your rights as a consumer",
+    "Research the breeder or business to avoid being scammed",
+    "Ensure the animal's microchip numbers are valid when you complete a search on the NSW Pet Registry",
+    "Buy directly from the breeder and not someone on-selling the animal"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "you receive a different animal to the one you agreed to buy, or",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "the seller takes your money and you do not receive the animal at all.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "ask for photos and check the photos are real and not fake (you can do a reverse image search to see if the photo is used on multiple sites, indicating it may be a fake)",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "you've been asked to pay money for the dog or cat before you've seen it in person",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "you've been asked to meet in an unexpected location (like a park or public space)",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "the price is lower than expected",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "you've been asked to pay the full amount upfront.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "you're allowed to see the animal",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "you've been able to talk in depth with the breeder or seller before placing a deposit",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "you're comfortable placing a deposit if requested",
+      "link": null
+    },
+    {
+      "n": 11,
+      "text": "the breeder or seller will provide you with a documented receipt of money paid",
+      "link": null
+    },
+    {
+      "n": 12,
+      "text": "the animal microchip numbers are valid when you complete a search on the NSW Pet Registry",
+      "link": "https://www.petregistry.nsw.gov.au/#/animalwelfare"
+    },
+    {
+      "n": 13,
+      "text": "you're buying directly from the breeder and not someone on-selling the animal.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "cost of owning a pet",
+      "url": "https://moneysmart.gov.au/family-and-relationships/getting-a-pet"
+    },
+    {
+      "text": "automatic consumer guarantees",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/guarantees-contracts-and-warranties"
+    },
+    {
+      "text": "Buying a pet – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/shopping/buying-a-pet"
+    },
+    {
+      "text": "NSW Pet Registry",
+      "url": "https://www.petregistry.nsw.gov.au/#/animalwelfare"
+    },
+    {
+      "text": "Scamwatch",
+      "url": "https://www.scamwatch.gov.au/"
+    },
+    {
+      "text": "on the Scamwatch website",
+      "url": "https://www.scamwatch.gov.au/report-a-scam"
+    },
+    {
+      "text": "Ways to spot and avoid scams – Scamwatch",
+      "url": "https://www.scamwatch.gov.au/protect-yourself/ways-to-spot-and-avoid-scams"
+    },
+    {
+      "text": "Scams – ACCC",
+      "url": "https://www.accc.gov.au/consumers/stay-protected/scams"
+    },
+    {
+      "text": "Types of scams and cybercrime – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/legal-and-justice/consumer-rights-and-protection/be-a-smart-consumer/types-of-scams-and-cybercrime"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do if I suspect I have been scammed?",
+      "a": "Contact your financial institution as soon as possible and report the issue to Scamwatch to warn others.",
+      "link": null
+    },
+    {
+      "q": "What are some signs that a pet purchase might be a scam?",
+      "a": "Be cautious if you receive a different animal than agreed, if the seller takes your money and you don't receive the animal, if you are asked to pay before seeing the pet, or if the price seems too low.",
+      "link": null
+    },
+    {
+      "q": "How can I ensure the pet I buy is legitimate?",
+      "a": "Ask for photos and check them using a reverse image search. Ensure the animal's microchip numbers are valid by checking the NSW Pet Registry. Buy directly from the breeder, not someone reselling the animal.",
+      "link": "https://www.petregistry.nsw.gov.au/#/animalwelfare"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:36Z",
+    "last_modified": "23 November 2025",
+    "html_sha1": "2f698b833b7f885fae331c8d1802f478197fbb3c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

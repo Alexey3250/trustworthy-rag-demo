@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/construction-cards-certificates-and-information",
+  "source_url": "https://www.service.nsw.gov.au/services/construction-cards-certificates-and-information",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "construction-cards-certificates-and-information",
+  "title": "Construction cards, certificates and information",
+  "summary": "Find information and apply for various construction cards, certificates, and services required for building and construction projects in NSW.",
+  "topics": [
+    "construction",
+    "building",
+    "certificates",
+    "licenses",
+    "building-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "General construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/services/general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Apply for an occupation certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate"
+    },
+    {
+      "text": "Apply for a construction certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-construction-certificate"
+    },
+    {
+      "text": "Apply for a certificate of eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-certificate-of-eligibility"
+    },
+    {
+      "text": "Manage your workers' portable long service (building and construction)",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-workers-portable-long-service-building-and-construction"
+    },
+    {
+      "text": "Pay the long service levy (building and construction)",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction"
+    },
+    {
+      "text": "Continuing professional development – builders",
+      "url": "https://www.service.nsw.gov.au/transaction/continuing-professional-development-builders"
+    },
+    {
+      "text": "Use the Home Building Compensation (HBC) Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    },
+    {
+      "text": "Apply for home building compensation cover",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover"
+    },
+    {
+      "text": "Apply for a Road Occupancy Licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-road-occupancy-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:11Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e3d4e870dbbc9ea734b48de57b42e610abda133b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-if-a-property-is-in-a-mine-subsidence-district",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-if-a-property-is-in-a-mine-subsidence-district",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-if-a-property-is-in-a-mine-subsidence-district",
+  "title": "Check if a property is in a Mine Subsidence District",
+  "summary": "Find out if your property is located in an area that may be affected by mine subsidence.",
+  "topics": [
+    "mine-subsidence",
+    "property-risk",
+    "coal-mining",
+    "subsidence-district"
+  ],
+  "intro": "If a property is located in an area where coal mining has occurred, it may be affected by mine subsidence.\n\nMine Subsidence Districts are declared in areas where there are potential subsidence risks from active or non-active underground coal mining.\n\nA district is a land zoning tool administered by Subsidence Advisory NSW under the Coal Mine Subsidence Compensation Act 2017 to help protect homes and other structures from potential mine subsidence damage.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help using the portal or are unable to claim online, call Subsidence Advisory NSW on (02) 4908 4300 between 8:30am to 4:30pm, Monday to Friday.\n\nFor emergencies:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "mine subsidence",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/mine-subsidence#toc-about-mine-subsidence"
+    },
+    {
+      "text": "obtain approval",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/development"
+    },
+    {
+      "text": "use the NSW Planning Portal Spatial Viewer",
+      "url": "https://www.planningportal.nsw.gov.au/spatialviewer/"
+    },
+    {
+      "text": "online maps",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/districts#toc-download-mine-subsidence-district-maps"
+    },
+    {
+      "text": "subsidence hole",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/mine-subsidence#toc-types-of-damage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Subsidence Advisory NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/subsidence-advisory-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Mine Subsidence District?",
+      "a": "A Mine Subsidence District is a land zoning tool used to protect homes and structures from potential damage caused by mine subsidence. These districts are declared in areas with potential subsidence risks from underground coal mining.",
+      "link": null
+    },
+    {
+      "q": "How can I check if my property is in a Mine Subsidence District?",
+      "a": "You can search online or use the provided resources to check if your property is in a Mine Subsidence District.",
+      "link": null
+    },
+    {
+      "q": "Who do I contact if I need help with the portal or claiming online?",
+      "a": "Call Subsidence Advisory NSW on (02) 4908 4300 between 8:30am to 4:30pm, Monday to Friday.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:52Z",
+    "last_modified": "16 April 2025",
+    "html_sha1": "598d0aefdb2777b67761b8f283bca32122cdd944",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

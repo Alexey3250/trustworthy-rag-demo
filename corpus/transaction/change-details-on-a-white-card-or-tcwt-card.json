@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-on-a-white-card-or-tcwt-card",
+  "title": "Change details on a general construction induction card or traffic control training work card",
+  "summary": "You can update your address or contact details for your white card or traffic control work card online, but you must complete a separate application if your name has changed.",
+  "topics": [
+    "construction-induction-card",
+    "white-card",
+    "update-details",
+    "name-change"
+  ],
+  "intro": "If your address or contact details have changed, you can update these cards online:\n\nIf you've changed your name, you need to complete a SafeWork NSW Change of details application.",
+  "who_can_apply": [
+    "Must have changed address or contact details.",
+    "Must have changed name."
+  ],
+  "what_you_need": [
+    "Card number (to change address or contact details online).",
+    "Australian marriage certificate or Australian change of name certificate (if changing name).",
+    "Certified copy of an Australian marriage certificate or Australian change of name certificate (if changing name)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/GCIT"
+    },
+    {
+      "text": "Change of details application",
+      "url": "https://licenceforms.safework.nsw.gov.au/forms/change-of-details"
+    },
+    {
+      "text": "White cards – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/white-cards"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Add your digital white card to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Apply for a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I update my address or contact details?",
+      "a": "You can update your address or contact details online.",
+      "link": null
+    },
+    {
+      "q": "What do I do if my name has changed?",
+      "a": "If you have changed your name, you need to complete a SafeWork NSW Change of details application.",
+      "link": "https://licenceforms.safework.nsw.gov.au/forms/change-of-details"
+    },
+    {
+      "q": "How can I check my card number and details?",
+      "a": "You can check your card number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/GCIT"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:34Z",
+    "last_modified": "15 December 2025",
+    "html_sha1": "bd67d7a120f5da203a941c03efa0a576af234512",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

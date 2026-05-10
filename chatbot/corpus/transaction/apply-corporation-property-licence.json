@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-corporation-property-licence",
+  "title": "Apply for a corporation property licence",
+  "summary": "Learn about and apply for a corporation property licence if your corporation conducts business in real estate, stock and station, or strata management.",
+  "topics": [
+    "corporation-property-licence",
+    "real-estate",
+    "stock-and-station",
+    "strata-management"
+  ],
+  "intro": "If your corporation wants to conduct business in real estate, stock and station or strata management, it will need a corporation property licence.\n\nYou can submit and pay for your corporation’s application online.",
+  "who_can_apply": [
+    "Must be a director or company secretary.",
+    "Must have at least one director who holds an individual property licence.",
+    "Must have a nominated licensee in charge who holds a class 1 licence.",
+    "Must have a registered office in NSW (or within 50 kilometres of the NSW border if the licensee holds a current licence or authority from that jurisdiction)."
+  ],
+  "what_you_need": [
+    "Business name registration from ASIC (if applicable).",
+    "One form of identification for each company director.",
+    "Details of director(s)/secretary.",
+    "A person who has a class 1 property licence to be nominated as the licensee in charge of the business.",
+    "Notification of partnership particulars form (PDF, if applicable).",
+    "Licensee in Charge Details (PDF, if applicable).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a property licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A corporation property licence is issued for 1, 3 or 5 years and can be renewed.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Property and Stock Agents Act 2002",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2002-066"
+    },
+    {
+      "text": "Notification of partnership particulars form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726b.pdf"
+    },
+    {
+      "text": "Licensee in Charge Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4726f.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Application for a licence (Corporation) – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4365.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "renewed",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Replace a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-corporation-property-licence"
+    },
+    {
+      "text": "Restore a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a corporation property licence?",
+      "a": "A corporation needs this licence if it plans to conduct business in real estate, stock and station, or strata management.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements to apply for the licence?",
+      "a": "To apply, the applicant must be either a director or company secretary, have at least one director who holds an individual property licence, and have a nominated licensee in charge who holds a class 1 licence. The corporation must also have a registered office in NSW.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the licence?",
+      "a": "You can apply online by selecting the 'Apply online' button and following the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:19Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "e7e8ba6a2ef4d3721877510b2323aefdb05a98b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

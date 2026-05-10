@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-notice-for-the-sydney-harbour-bridge-or-tunnel",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-notice-for-the-sydney-harbour-bridge-or-tunnel",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-a-toll-notice-for-the-sydney-harbour-bridge-or-tunnel",
+  "title": "Pay a Toll Notice for the Sydney Harbour Bridge or Tunnel",
+  "summary": "This page explains how to pay for a Toll Notice for the Sydney Harbour Bridge or Tunnel online.",
+  "topics": [
+    "pay-toll-notice",
+    "sydney-harbour-bridge",
+    "sydney-harbour-tunnel",
+    "e-toll-account"
+  ],
+  "intro": "The Sydney Harbour Bridge (SHB) and Tunnel tolls are charged on the southbound journey.\n\nIf you've received a Toll Notice for travel on the SHB or Tunnel, you can pay for this online using your credit card or an electronic tag account.\n\nIf you've mislaid or lost the notice you are still able to pay online. You only need your vehicle's number plate and the state it's registered in to search for an unpaid toll trip.\n\nNote: To avoid receiving the Toll Notice in the first place, open an E-toll account or set up a pass within 3 days (72 hours) of your unpaid journey, and pay the toll. Visit Travelling without an account or pass for more information.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your vehicle's number plate and the state it is registered in",
+    "Your toll notice number (if you have it)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the vehicle's details or the toll notice number.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter your payment details.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your transaction.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you're making a payment using your E-Toll tag account and don't have sufficient funds, or if you provide incorrect details, you'll receive a further notice by mail.",
+      "link": null
+    },
+    {
+      "text": "If you're paying using your E-Toll tag account, your 'Toll Notice Administration' fee will be replaced with the 'Toll Notice Transfer' fee.",
+      "link": null
+    },
+    {
+      "text": "If you're not paying using an E-Toll tag account, a 'Toll Notice Administration' fee will be applied.",
+      "link": null
+    },
+    {
+      "text": "If you've received a toll notice from another operator other than Transport for NSW, please refer to the toll notice for payment options.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Travelling without an account or pass",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/travelling-without-account-or-pass"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Order extra tags for an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account"
+    },
+    {
+      "text": "Replace an E-Toll tag",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I pay a Toll Notice for the Sydney Harbour Bridge or Tunnel?",
+      "a": "You can pay for the toll notice online using your credit card or an electronic tag account.",
+      "link": null
+    },
+    {
+      "q": "What if I lose or misplace my Toll Notice?",
+      "a": "You can still pay online using only your vehicle's number plate and the state it is registered in.",
+      "link": null
+    },
+    {
+      "q": "How can I avoid receiving a Toll Notice?",
+      "a": "To avoid receiving a Toll Notice, open an E-toll account or set up a pass within 3 days (72 hours) of your unpaid journey and pay the toll.",
+      "link": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/travelling-without-account-or-pass"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:46Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "f5cf9c51db92d83966524c289553cd5eb4c77382",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

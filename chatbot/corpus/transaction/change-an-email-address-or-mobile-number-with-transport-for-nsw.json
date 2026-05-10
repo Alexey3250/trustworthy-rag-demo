@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-an-email-address-or-mobile-number-with-transport-for-nsw",
+  "title": "Change an email address or mobile number with Transport for NSW",
+  "summary": "You can update your email address or mobile phone number linked to Transport for NSW services using a MyServiceNSW Account.",
+  "topics": [
+    "my-service-nsw",
+    "contact-details",
+    "driver-licence",
+    "vehicle-registration"
+  ],
+  "intro": "You can change your email address or mobile phone number with Transport for NSW using a MyServiceNSW Account.\n\nThis means your driver licence or vehicle registration details will be changed at the same time as your account details.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The 'NSW Driver Licence' or 'Vehicle registration' service added to your account (if you have a Digital Driver Licence, the driver licence service is already added)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If you already have the Driver Licence or Vehicle Registration service added, you'll be taken to 'Personal details'.Go to step 7.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If you do not have a service added, follow the prompts to connect to Transport for NSW and confirm your NSW Driver Licence, Photo Card or vehicle registration details.You'll be taken to ‘My services’.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select ‘NSW Driver Licence’ or ‘Vehicle Registration’.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "In the ‘Contact details’ section, select ‘Update’ in the Email address or Mobile number tile.You'll be taken to ‘Personal details’.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "In 'Personal details', select ‘Update’ for email or mobile number.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Enter your new email or mobile number.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Select the checkbox to change the details on the driver licence or vehicle registration service.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to change my contact details?",
+      "a": "You need a MyServiceNSW Account and the 'NSW Driver Licence' or 'Vehicle registration' service added to your account.",
+      "link": null
+    },
+    {
+      "q": "Will changing my contact details update my driver licence or vehicle registration?",
+      "a": "Yes, changing your details will update both your account details and your driver licence or vehicle registration details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:01Z",
+    "last_modified": "23 June 2025",
+    "html_sha1": "344f8f9d6d2b7f61b67caa82f7e886889052f879",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

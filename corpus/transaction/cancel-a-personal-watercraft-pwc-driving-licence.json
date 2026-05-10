@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-personal-watercraft-pwc-driving-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-personal-watercraft-pwc-driving-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-personal-watercraft-pwc-driving-licence",
+  "title": "Cancel a personal watercraft (PWC) driving licence",
+  "summary": "You can cancel your Personal Watercraft (PWC) licence at a Service NSW Centre, by mail, or by email.",
+  "topics": [
+    "pwc-licence",
+    "cancel-licence",
+    "service-nsw"
+  ],
+  "intro": "If you want to cancel your Personal Watercraft (PWC) licence you can do this at a Service NSW Centre or by mail or email.\n\nNote: A refund on your licence payment may be available in certain circumstances.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A written request to cancel your licence",
+    "Proof of identity",
+    "Your current PWC licence (must be surrendered)",
+    "The Request For Refund Form (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Request for Refund (Maritime) – PDF (if applicable)",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application in person, or mail/email it using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Request for Refund (Maritime) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Personal Watercraft Handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/Personal-watercraft-handbook.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I cancel my PWC licence?",
+      "a": "You can cancel your PWC licence at a Service NSW Centre, or by mail or email.",
+      "link": null
+    },
+    {
+      "q": "Is a refund available if I cancel my licence?",
+      "a": "A refund on your licence payment may be available in certain circumstances.",
+      "link": null
+    },
+    {
+      "q": "What do I need to cancel my PWC licence?",
+      "a": "You need a written request to cancel your licence, proof of identity, your current PWC licence (which must be surrendered), and the Request For Refund Form (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:07Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "d406d43f75a0ee34c70f8006d63bb74371c819b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

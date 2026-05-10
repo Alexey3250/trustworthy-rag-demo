@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/ryde-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/ryde-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "ryde-service-centre",
+  "title": "Ryde Service Centre",
+  "summary": "This page provides information about the Ryde Service Centre, including payment options, accessibility features, and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payments",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.7786,151.120067"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Chatswood Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/chatswood-service-centre"
+    },
+    {
+      "text": "North Rocks Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/north-rocks-service-centre"
+    },
+    {
+      "text": "Silverwater Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/silverwater-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Ryde Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "Is the Ryde Service Centre accessible for people with disabilities?",
+      "a": "Yes, the centre offers wheelchair access, has on-site parking (using shopping centre bays), and has at least 5 mobility car parks.",
+      "link": null
+    },
+    {
+      "q": "Where can I find other Service NSW centres near Ryde?",
+      "a": "Nearby centres include Chatswood, North Rocks, and Silverwater.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:14Z",
+    "last_modified": null,
+    "html_sha1": "d29bc8cab63827933439eaddc60261fe39e80007",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

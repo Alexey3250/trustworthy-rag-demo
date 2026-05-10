@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/pay-leave-and-superannuation",
+  "source_url": "https://www.service.nsw.gov.au/services/pay-leave-and-superannuation",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "pay-leave-and-superannuation",
+  "title": "Pay, leave and superannuation",
+  "summary": "Find tools and information for managing pay, leave, and superannuation entitlements.",
+  "topics": [
+    "pay",
+    "leave",
+    "superannuation",
+    "wages",
+    "employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Manage employee pay, leave and superannuation",
+      "link": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Using the leave calculator",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator"
+    },
+    {
+      "text": "Use the long service leave calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-long-service-leave-calculator"
+    },
+    {
+      "text": "Check NSW Public Holidays",
+      "url": "https://www.service.nsw.gov.au/referral/check-nsw-public-holidays"
+    },
+    {
+      "text": "Check award rates, pay and wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "text": "Check for unpaid wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-unpaid-wages"
+    },
+    {
+      "text": "Using the notice and redundancy calculator",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-notice-and-redundancy-calculator"
+    },
+    {
+      "text": "Check superannuation payments",
+      "url": "https://www.service.nsw.gov.au/referral/check-superannuation-payments"
+    },
+    {
+      "text": "Check for lost super",
+      "url": "https://www.service.nsw.gov.au/referral/check-for-lost-super"
+    },
+    {
+      "text": "Manage employee pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I calculate my leave entitlements?",
+      "a": "You can use the leave calculator or the long service leave calculator to estimate your leave entitlements.",
+      "link": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator"
+    },
+    {
+      "q": "Where can I check my pay and wages information?",
+      "a": "You can check award rates, pay and wages, or look into unpaid wages using the provided tools.",
+      "link": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "q": "How do I check my superannuation payments?",
+      "a": "You can check your superannuation payments or look into lost super using dedicated tools.",
+      "link": "https://www.service.nsw.gov.au/referral/check-superannuation-payments"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:55Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "d7ed40f5a40fd7264d9eb49274a0ec8aa80ad655",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/housing-and-property",
+  "source_url": "https://www.service.nsw.gov.au/services/housing-and-property",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "housing-and-property",
+  "title": "Housing and property",
+  "summary": "Find information and services related to housing, property ownership, renting, and building in New South Wales.",
+  "topics": [
+    "housing",
+    "property",
+    "renting",
+    "building",
+    "land-tax"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Emergency accommodation",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/emergency-housing"
+    },
+    {
+      "text": "Homelessness",
+      "url": "https://www.nsw.gov.au/housing-and-construction/social-affordable/emergency-housing/homelessness"
+    },
+    {
+      "text": "STRA (Short Term Rental Accommodation) portal",
+      "url": "https://www.planningportal.nsw.gov.au/stra"
+    },
+    {
+      "text": "Pests, invasive weeds, plant disease and biosecurity",
+      "url": "https://www.dpi.nsw.gov.au/dpi/biosecurity/report-a-pest-or-disease"
+    },
+    {
+      "text": "Power outage",
+      "url": "https://www.energy.nsw.gov.au/households/guides-and-helpful-advice-households/what-power-outage-and-what-do"
+    },
+    {
+      "text": "Go to Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "Get Ready NSW",
+      "url": "https://www.nsw.gov.au/emergency/get-ready"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Strata schemes and strata reporting",
+      "url": "https://www.service.nsw.gov.au/services/strata-schemes"
+    },
+    {
+      "text": "Land tax and stamp duty",
+      "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "text": "Renting",
+      "url": "https://www.service.nsw.gov.au/services/renting"
+    },
+    {
+      "text": "Building or renovating",
+      "url": "https://www.service.nsw.gov.au/services/building-or-renovating"
+    },
+    {
+      "text": "Social housing",
+      "url": "https://www.service.nsw.gov.au/services/social-housing"
+    },
+    {
+      "text": "Buying a property",
+      "url": "https://www.service.nsw.gov.au/services/buying-property"
+    },
+    {
+      "text": "Pets",
+      "url": "https://www.service.nsw.gov.au/services/pets"
+    },
+    {
+      "text": "Recycling, waste and litter prevention",
+      "url": "https://www.service.nsw.gov.au/services/waste-and-recycling"
+    },
+    {
+      "text": "International students",
+      "url": "https://www.service.nsw.gov.au/guide/support-for-international-students"
+    },
+    {
+      "text": "Retirement villages",
+      "url": "https://www.service.nsw.gov.au/referral/find-information-about-registered-retirement-villages"
+    },
+    {
+      "text": "Land value",
+      "url": "https://www.service.nsw.gov.au/services/land-value"
+    },
+    {
+      "text": "Register a short-term rental accommodation property",
+      "url": "https://www.service.nsw.gov.au/transaction/register-short-term-rental-accommodation-property"
+    },
+    {
+      "text": "Builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Property conveyancer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-conveyancer-licence"
+    },
+    {
+      "text": "Real estate agents licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-real-estate-agent-licence"
+    },
+    {
+      "text": "Find out about the Loose-fill Asbestos Program",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-the-loose-fill-asbestos-program"
+    },
+    {
+      "text": "Development approval (DA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application"
+    },
+    {
+      "text": "Mine subsidence",
+      "url": "https://www.service.nsw.gov.au/services/property-in-a-mine-subsidence-district"
+    },
+    {
+      "text": "Property acquisition",
+      "url": "https://www.service.nsw.gov.au/referral/find-information-on-property-acquisition"
+    },
+    {
+      "text": "Vegetation clearing",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-10-50-vegetation-clearing-entitlement-area"
+    },
+    {
+      "text": "Building and construction industry",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Real estate and property industry",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-and-property-industry"
+    },
+    {
+      "text": "Bushfire preparation and recovery",
+      "url": "https://www.service.nsw.gov.au/guide/bushfire-preparation-and-recovery"
+    },
+    {
+      "text": "Change your address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Local council: find your local council in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    },
+    {
+      "text": "Moving house",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "Redirect personal mail",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-redirect-personal-mail"
+    },
+    {
+      "text": "Solar energy",
+      "url": "https://www.service.nsw.gov.au/services/solar-energy"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Make a complaint about your energy or water provider",
+      "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-your-energy-or-water-provider"
+    },
+    {
+      "text": "Report intentional damage or graffiti to NSW Police",
+      "url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police"
+    },
+    {
+      "text": "Report an unsafe product",
+      "url": "https://www.service.nsw.gov.au/referral/report-an-unsafe-product"
+    },
+    {
+      "text": "Check your eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-disaster-relief-grant"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about buying or selling property?",
+      "a": "You can find details on buying a property, land tax, stamp duty, and land value.",
+      "link": "https://www.service.nsw.gov.au/services/buying-property"
+    },
+    {
+      "q": "What services are available for renters?",
+      "a": "Information is available regarding general renting, social housing, emergency accommodation, and homelessness.",
+      "link": "https://www.service.nsw.gov.au/services/renting"
+    },
+    {
+      "q": "How do I check a licence for builders or real estate agents?",
+      "a": "You can check licences for builders/tradespersons, property conveyancers, and real estate agents.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "q": "What should I do if I am building or renovating a property?",
+      "a": "The page provides guidance on building, renovating, development approval (DA), and asbestos.",
+      "link": "https://www.service.nsw.gov.au/services/building-or-renovating"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:40Z",
+    "last_modified": "3 October 2025",
+    "html_sha1": "2625c81d18d05ea92e127853f2281b4826ed3912",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

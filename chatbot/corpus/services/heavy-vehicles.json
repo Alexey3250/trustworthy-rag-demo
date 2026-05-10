@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/heavy-vehicles",
+  "source_url": "https://www.service.nsw.gov.au/services/heavy-vehicles",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "heavy-vehicles",
+  "title": "Heavy vehicles",
+  "summary": "Find information and services related to heavy vehicles in New South Wales.",
+  "topics": [
+    "heavy-vehicles",
+    "licences",
+    "registration",
+    "transport-law",
+    "work-diary"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Driving and transport",
+      "link": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Heavy vehicle licence",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "text": "Heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    },
+    {
+      "text": "Notify about a written-off heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle"
+    },
+    {
+      "text": "Applying for accreditation under the National Heavy Vehicle Accreditation Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/applying-for-accreditation-under-the-national-heavy-vehicle-accreditation-scheme"
+    },
+    {
+      "text": "Change the details of a heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-heavy-vehicle"
+    },
+    {
+      "text": "Complying with Heavy Vehicle National Law",
+      "url": "https://www.service.nsw.gov.au/referral/complying-with-heavy-vehicle-national-law"
+    },
+    {
+      "text": "Find a public weighbridge",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-public-weighbridge"
+    },
+    {
+      "text": "Request a National Driver Work Diary (log book)",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-national-driver-work-diary-log-book"
+    },
+    {
+      "text": "Transport Management Plans (TMPs)",
+      "url": "https://www.service.nsw.gov.au/referral/transport-management-plans-tmps"
+    },
+    {
+      "text": "Check approved routes for a Restricted Access Vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-a-restricted-access-vehicle"
+    },
+    {
+      "text": "Complying with Chain of Responsibility legislation",
+      "url": "https://www.service.nsw.gov.au/referral/complying-with-chain-of-responsibility-legislation"
+    },
+    {
+      "text": "Driving and transport",
+      "url": "https://www.service.nsw.gov.au/services/driving-and-transport"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I get a heavy vehicle licence?",
+      "a": "You can find information about obtaining a heavy vehicle licence.",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "q": "How do I register a heavy vehicle?",
+      "a": "You can find information about heavy vehicle registration.",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "q": "What do I do if my heavy vehicle is written off?",
+      "a": "You can notify Service NSW about a written-off heavy vehicle.",
+      "link": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:59Z",
+    "last_modified": "21 January 2025",
+    "html_sha1": "ecd449dfc56f7290253c0586a0f29ca599150478",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

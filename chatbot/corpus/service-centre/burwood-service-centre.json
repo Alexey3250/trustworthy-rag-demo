@@ -1,0 +1,140 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/burwood-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/burwood-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "burwood-service-centre",
+  "title": "Burwood Service Centre",
+  "summary": "This page provides information about the services available at the Burwood Service Centre.",
+  "topics": [
+    "service-centre",
+    "driver-licence",
+    "licences",
+    "certificates",
+    "address-changes"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.875367,151.102612"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Birth, death or marriage certificates",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Boating licences and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Change of address for Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Contractor licence applications",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Eyesight tests",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "International driver permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "Liquor licences",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    },
+    {
+      "text": "RSA/RCG competency cards",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Savings Finder appointments",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Auburn Mobile Driver Testing",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-mobile-driver-testing"
+    },
+    {
+      "text": "Auburn Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-service-centre"
+    },
+    {
+      "text": "Auburn Dealer Business Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-dealer-business-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:44Z",
+    "last_modified": null,
+    "html_sha1": "d81942cf94ffd2a95b9d1bb56ec5e9286be69c69",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

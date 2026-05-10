@@ -1,0 +1,165 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/what-you-can-report",
+  "source_url": "https://www.service.nsw.gov.au/services/what-you-can-report",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "what-you-can-report",
+  "title": "Make a report about goods, services and community issues",
+  "summary": "This page provides various ways to report issues related to goods, services, community safety, and local environment in NSW.",
+  "topics": [
+    "report-issues",
+    "community-safety",
+    "local-environment",
+    "scams",
+    "misdemeanours"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Make a complaint",
+      "link": "https://www.service.nsw.gov.au/services/complaints"
+    },
+    {
+      "text": "You and your neighbours",
+      "link": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Service NSW Complaints Policy",
+      "link": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Report a cigarette butt tosser",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-cigarette-butt-tosser"
+    },
+    {
+      "text": "Report smoking or e-cigarette use in a smoke-free place",
+      "url": "https://www.service.nsw.gov.au/referral/report-smoking-or-e-cigarette-use-in-a-smoke-free-place"
+    },
+    {
+      "text": "Report a retailer breaking tobacco/e-cigarette retailing laws",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-retailer-breaking-tobacco-e-cigarette-retailing-laws"
+    },
+    {
+      "text": "Report a crime, scam or misdemeanour",
+      "url": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours"
+    },
+    {
+      "text": "Report an abandoned or dumped vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle"
+    },
+    {
+      "text": "Report a pothole or damaged road",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road"
+    },
+    {
+      "text": "Report unsafe driving",
+      "url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices"
+    },
+    {
+      "text": "Report littering from a vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-littering-from-a-vehicle"
+    },
+    {
+      "text": "Report a smoky vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-smoky-vehicle"
+    },
+    {
+      "text": "Dispute a towing invoice",
+      "url": "https://www.service.nsw.gov.au/transaction/dispute-a-towing-invoice"
+    },
+    {
+      "text": "Report a fuel price mismatch",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-fuel-price-mismatch"
+    },
+    {
+      "text": "Report a confusing, faulty or damaged parking sign",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-problem-with-a-parking-sign"
+    },
+    {
+      "text": "Report a taxi",
+      "url": "https://www.service.nsw.gov.au/referral/report-taxi"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "text": "Report a food safety complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint"
+    },
+    {
+      "text": "Report an unsafe product",
+      "url": "https://www.service.nsw.gov.au/referral/report-an-unsafe-product"
+    },
+    {
+      "text": "Report noise pollution",
+      "url": "https://www.service.nsw.gov.au/referral/report-noise-pollution"
+    },
+    {
+      "text": "Report elder abuse",
+      "url": "https://www.service.nsw.gov.au/referral/report-elder-abuse"
+    },
+    {
+      "text": "Report a nuisance dog or cat",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    },
+    {
+      "text": "Report a pet scam",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pet-scam"
+    },
+    {
+      "text": "Request or report property maintenance issues in social housing",
+      "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    },
+    {
+      "text": "Make a complaint",
+      "url": "https://www.service.nsw.gov.au/services/complaints"
+    },
+    {
+      "text": "You and your neighbours",
+      "url": "https://www.service.nsw.gov.au/guide/you-and-your-neighbours"
+    },
+    {
+      "text": "Service NSW Complaints Policy",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints/complaints-policy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I report a crime or scam?",
+      "a": "You can report a crime, scam, or misdemeanour using the dedicated reporting service.",
+      "link": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours"
+    },
+    {
+      "q": "What if I find a problem with a vehicle or road?",
+      "a": "You can report issues such as abandoned vehicles, potholes, unsafe driving, or littering from a vehicle.",
+      "link": null
+    },
+    {
+      "q": "Where can I report issues with goods or services?",
+      "a": "You can report food safety complaints, unsafe products, or issues with goods and services.",
+      "link": null
+    },
+    {
+      "q": "How do I report issues related to smoking or vaping?",
+      "a": "You can report cigarette butt tossing, smoking in smoke-free areas, or retailers breaking tobacco laws.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:06Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "11b76e55654ac758b07779534864754d4af7bfe2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "website-and-analytics",
+  "title": "Website and analytics privacy notice",
+  "summary": "This notice explains how Service NSW collects and uses personal information through its website and analytics.",
+  "topics": [
+    "privacy",
+    "website-analytics",
+    "data-collection",
+    "security"
+  ],
+  "intro": "This NSW Government website is maintained by Service NSW, which operates the website using the name ‘Service NSW’.\n\nThis Privacy notice applies to all the publicly accessible pages located at site. Service NSW does not have any responsibility for the privacy policies or practices of third party sites linked to the Service NSW site.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Bugcrowd website",
+      "url": "https://www.bugcrowd.com/"
+    },
+    {
+      "text": "Bugcrowd Privacy Policy",
+      "url": "https://www.bugcrowd.com/privacy/"
+    },
+    {
+      "text": "Google Chrome",
+      "url": "https://support.google.com/chrome/answer/95647?hl=en"
+    },
+    {
+      "text": "Microsoft Edge",
+      "url": "https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d"
+    },
+    {
+      "text": "Firefox",
+      "url": "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+    },
+    {
+      "text": "Safari",
+      "url": "https://support.apple.com/en-au/guide/safari/sfri11471/mac"
+    },
+    {
+      "text": "Facebook",
+      "url": "https://www.facebook.com/privacy/explanation/"
+    },
+    {
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/legal/privacy-policy"
+    },
+    {
+      "text": "X",
+      "url": "https://x.com/en/privacy#x-privacy-1"
+    },
+    {
+      "text": "Facebook Ad Preferences",
+      "url": "https://www.facebook.com/help/109378269482053"
+    },
+    {
+      "text": "LinkedIn Ads Settings",
+      "url": "https://www.linkedin.com/help/linkedin/answer/a427426/manage-your-linkedin-ads-settings?lang=en"
+    },
+    {
+      "text": "X Ad Preferences",
+      "url": "https://help.x.com/en/safety-and-security/privacy-controls-for-tailored-ads"
+    },
+    {
+      "text": "Deactivate or delete your Facebook account",
+      "url": "https://www.facebook.com/help/250563911970368/?helpref=hc_fnav"
+    },
+    {
+      "text": "Delete your data on LinkedIn",
+      "url": "https://www.linkedin.com/help/linkedin/answer/93500/delete-your-data-on-linkedin?lang=en"
+    },
+    {
+      "text": "Delete your Instagram account",
+      "url": "https://help.instagram.com/370452623149242/?helpref=hc_fnav"
+    },
+    {
+      "text": "Deactivate or delete your X account",
+      "url": "https://help.x.com/en/managing-your-account/how-to-deactivate-x-account"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "feedback, questions, comments and complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected through website and email analytics?",
+      "a": "Information collected includes your device’s IP address, the type of device and browser used, your geographic location, search terms and pages visited, and the date and time when pages were accessed.",
+      "link": null
+    },
+    {
+      "q": "How can I report security bugs or issues with the Service NSW site?",
+      "a": "You must create a free Bugcrowd researcher account and then email your username and account to the Service NSW Security Team at security@service.nsw.gov.au.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about Service NSW's privacy practices?",
+      "a": "You can view the Service NSW privacy statement or the general privacy collection notices.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:20Z",
+    "last_modified": "28 July 2025",
+    "html_sha1": "9e45e7f8007501e58c3107fcf92bb96b033a218f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

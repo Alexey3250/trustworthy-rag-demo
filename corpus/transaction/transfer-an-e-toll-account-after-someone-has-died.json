@@ -1,0 +1,138 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-an-e-toll-account-after-someone-has-died",
+  "title": "Transfer an E-Toll Account after someone has died",
+  "summary": "You can transfer a Transport for NSW E-Toll Account to another person by visiting a Service NSW Centre.",
+  "topics": [
+    "e-toll-account",
+    "death",
+    "transfer-account",
+    "service-nsw"
+  ],
+  "intro": "To transfer a Transport for NSW E-Toll Account to another person because the account holder has died, you need to visit a Service NSW Centre.\n\nThe account may be transferred to a spouse or surviving partner, but not a family member.\n\nNote: You also have the option to close the account.",
+  "who_can_apply": [
+    "The account may be transferred to a spouse or surviving partner."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "The E-Toll Account details",
+    "The tag/s (if closing an E-Toll Tag Account)",
+    "A copy of the will for the person who has died",
+    "The PDF form – 'Application for transfer of an E-Toll Account'",
+    "A completed Advice of Death form",
+    "The death certificate (original or copy)",
+    "A newspaper death notice",
+    "A letter from a solicitor or the NSW Trustee and Guardian advising that the person has died",
+    "In the case of a missing person presumed to have died, a 'Presumption of Death Order' issued by the Supreme Court (original or copy)",
+    "A marriage certificate (original or certified copy)",
+    "Proof of billing address",
+    "Statutory declaration signed by a Justice of the Peace",
+    "One of the following documents to confirm the death",
+    "One of the following documents confirming the relationship status"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take the completed form and required documents to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Advice of Death form",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf"
+    },
+    {
+      "text": "NSW Trustee and Guardian",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors#toc-nsw-trustee-and-guardian-is-the-executor"
+    },
+    {
+      "text": "Application for transfer of an E-Toll Account (deceased account holder) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071482-transfer-of-e-toll-account.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "close the account",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died"
+    },
+    {
+      "text": "death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "statutory declaration",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "E-Toll account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "Death and bereavement guide",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can receive the transferred E-Toll Account?",
+      "a": "The account may be transferred to a spouse or surviving partner, but not a family member.",
+      "link": null
+    },
+    {
+      "q": "What are the steps to transfer the E-Toll Account?",
+      "a": "Select the 'Download PDF form' button, complete the form, gather the required documents, and take everything to a service centre.",
+      "link": null
+    },
+    {
+      "q": "What if I don't want to transfer the account?",
+      "a": "You also have the option to close the account.",
+      "link": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:01Z",
+    "last_modified": "16 October 2024",
+    "html_sha1": "d7812c8876b45c364e263d4b2c0eb71018320a7d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

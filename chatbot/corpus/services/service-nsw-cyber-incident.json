@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/cyber-security/service-nsw-cyber-incident",
+  "source_url": "https://www.service.nsw.gov.au/services/cyber-security/service-nsw-cyber-incident",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "service-nsw-cyber-incident",
+  "title": "Service NSW cyber incident",
+  "summary": "This page provides information regarding a past cyber-attack on Service NSW and the types of data that were compromised.",
+  "topics": [
+    "cyber-attack",
+    "data-breach",
+    "service-nsw",
+    "privacy",
+    "security"
+  ],
+  "intro": "In March 2020, Service NSW (SNSW) was the victim of a criminal cyber-attack. Upon investigation, it was determined that 47 SNSW staff email accounts were compromised and 730 GB of data was exfiltrated, comprising 3.8 million documents that relate to up to 186,000 customers.\n\nThe types of personal information compromised included sensitive data such as driving licences, birth certificates, passports, police checks, bank accounts, names, and email addresses which have the potential to result in significant customer impacts.\n\nFor staff or former staff, the types of personal information also included information gathered during recruitment and onboarding including many cases their personal particulars and TFN numbers as well as sensitive employment related items such as disciplinary and health matters.\n\nService NSW continues to assist customers impacted by the cyber-attack on the contents of Service NSW employee inboxes.\n\nOf the approximately 18,500 final notification letters sent to customers in May 2021, approximately 15,000 were successfully delivered and approximately 3,500 were returned to sender. These letters are a second attempt to reach those people who did not sign for their first registered mail notification.\n\nThe Service NSW Hypercare team received approximately 34,000 general privacy calls and approximately 21,000 calls from affected customers, including approximately 400 calls from customers who received their second attempt notification letters.\n\nOf the approximately 67,000 customers for whom Service NSW have sufficient information to attempt a safe notification via registered mail, approximately 95% have received their notification.\n\nIn May 2021 Service NSW introduced a digital proof-of-identity check for customers contacting the Hypercare team. This option has been popular with our customers and remains an important part of our Hypercare service delivery during the COVID-19 pandemic.\n\nCustomer satisfaction with the Hypercare service is 84.67%.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "post implementation review – PDF",
+      "url": "https://www.iispartners.com/s/DCSSNSWDataBreachPIRReport16122020Final-znbp.pdf"
+    },
+    {
+      "text": "Use two-factor authentication",
+      "url": "https://www.cyber.gov.au/business-government/protecting-devices-systems/hardening-systems-applications/system-hardening/implementing-multi-factor-authentication"
+    },
+    {
+      "text": "Fortify your finances",
+      "url": "https://www.equifax.com.au/personal/products/credit-and-identity-products"
+    },
+    {
+      "text": "COVID-19 scam messages",
+      "url": "https://www.cyber.gov.au/about-us/advisories/covid-19-scam-messages"
+    },
+    {
+      "text": "Protective measures for individuals following a data breach",
+      "url": "https://www.ato.gov.au/online-services/scams-cyber-safety-and-identity-protection/help-with-data-breaches/data-breach-guidance-for-individuals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Privacy Management Plan",
+      "url": "https://www.service.nsw.gov.au/system/files/2023-12/service-nsw-privacy-management-plan.pdf"
+    },
+    {
+      "text": "Staying Safe Online",
+      "url": "https://www.service.nsw.gov.au/services/cyber-security"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happened during the cyber-attack on Service NSW?",
+      "a": "In March 2020, Service NSW was the victim of a criminal cyber-attack. 47 staff email accounts were compromised, and 730 GB of data, including 3.8 million documents related to up to 186,000 customers, were exfiltrated.",
+      "link": null
+    },
+    {
+      "q": "What types of personal information were compromised?",
+      "a": "Compromised data included sensitive information such as driving licences, birth certificates, passports, police checks, bank accounts, names, and email addresses. Staff and former staff data also included recruitment and onboarding information, personal particulars, TFN numbers, and sensitive employment matters.",
+      "link": null
+    },
+    {
+      "q": "How did Service NSW attempt to notify affected customers?",
+      "a": "Service NSW sent approximately 18,500 final notification letters in May 2021. Of these, 15,000 were successfully delivered, and 3,500 were returned to sender.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:39Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "83d343990a24c0bdd4ce29cc56473bc086d2edf2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

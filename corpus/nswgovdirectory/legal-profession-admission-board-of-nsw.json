@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/legal-profession-admission-board-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/legal-profession-admission-board-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "legal-profession-admission-board-of-nsw",
+  "title": "Legal Profession Admission Board of NSW",
+  "summary": "This page provides information about the Legal Profession Admission Board of NSW, which manages the admission process for legal professionals in New South Wales.",
+  "topics": [
+    "legal-profession",
+    "admission",
+    "lawyer",
+    "nsw",
+    "legal-board"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://lpab.nsw.gov.au/",
+      "url": "https://lpab.nsw.gov.au/"
+    },
+    {
+      "text": "Information for Overseas Applicants",
+      "url": "https://lpab.nsw.gov.au/admission-overseas-lawyers.html"
+    },
+    {
+      "text": "Diploma in Law Course",
+      "url": "https://lpab.nsw.gov.au/diploma-law-course.html"
+    },
+    {
+      "text": "Guide for a​pplicants for appointment as a Public Notary​",
+      "url": "https://lpab.nsw.gov.au/public-notary.html"
+    },
+    {
+      "text": "Forms and Fees",
+      "url": "https://lpab.nsw.gov.au/forms-fees.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Legal Profession Admission Board of NSW?",
+      "a": "The Legal Profession Admission Board of NSW is managed by the NSW Department of Communities and Justice.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    },
+    {
+      "q": "What information is available for overseas applicants?",
+      "a": "Information for overseas applicants is available on the board's website.",
+      "link": "https://lpab.nsw.gov.au/admission-overseas-lawyers.html"
+    },
+    {
+      "q": "Do I need to complete a Diploma in Law Course?",
+      "a": "Details regarding the Diploma in Law Course are provided on the board's website.",
+      "link": "https://lpab.nsw.gov.au/diploma-law-course.html"
+    },
+    {
+      "q": "How do I apply to be a Public Notary?",
+      "a": "Guidance for applicants for appointment as a Public Notary is available on the board's website.",
+      "link": "https://lpab.nsw.gov.au/public-notary.html"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:13Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "bfdf101b016de3743d6905efb7df5b0eac5f02a1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

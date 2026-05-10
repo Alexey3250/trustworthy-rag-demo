@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-your-nsw-ambulance-fee",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-your-nsw-ambulance-fee",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-your-nsw-ambulance-fee",
+  "title": "Pay your NSW ambulance fee",
+  "summary": "This page provides instructions on how to pay an NSW ambulance fee online if you have received a bill.",
+  "topics": [
+    "nsw-ambulance-fee",
+    "pay-bill",
+    "medical-services",
+    "invoice"
+  ],
+  "intro": "If you've received a bill for your NSW ambulance service, you can pay online.\n\nAmbulance fees are based on a call out charge plus a per kilometre charge, based on the round trip between the ambulance station, pick up address, destination and return to the ambulance station.\n\nMedicare doesn't cover the costs.\n\nAmbulance fee exemptions: some ambulance services are provided free of charge to people who meet certain criteria.",
+  "who_can_apply": [
+    "Anyone who has received an invoice can pay the NSW ambulance fee.",
+    "Exemptions may apply if you are a pensioner and concession card holder, a resident with private health insurance, or eligible for other exemptions."
+  ],
+  "what_you_need": [
+    "Your payment reference number (found in the 'How to pay' section of the invoice).",
+    "The issue date (found in the box on the top right hand corner of the invoice).",
+    "Your method of payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage your invoice' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your payment reference number and the issue date.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check the 'I'm not a robot' box.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your payment details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The NSW government subsidises 49% of ambulance fees for NSW residents only.",
+      "link": null
+    },
+    {
+      "text": "If you're finding it difficult to pay the fee, you can arrange for a payment plan or apply for a fee review.",
+      "link": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/financial-hardship-and-fee-review"
+    },
+    {
+      "text": "If you're exempt from payment, provide your details online.",
+      "link": "https://www.debt.osr.nsw.gov.au/DMS/debtor/search"
+    },
+    {
+      "text": "If you don't pay your ambulance bill, it will be given to Revenue NSW to deal with.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "certain criteria",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees"
+    },
+    {
+      "text": "fee review",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/financial-hardship-and-fee-review"
+    },
+    {
+      "text": "provide your details online",
+      "url": "https://www.debt.osr.nsw.gov.au/DMS/debtor/search"
+    },
+    {
+      "text": "Accounts and fees – NSW Ambulance",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees"
+    },
+    {
+      "text": "Pay your NSW Ambulance fee – Revenue NSW",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fees/pay-your-fee#toc-pay-your-nsw-ambulance-fee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Claim an exemption from NSW ambulance fees",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-an-exemption-from-nsw-ambulance-fees"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    },
+    {
+      "text": "Find NSW public hospital parking, services and directions",
+      "url": "https://www.service.nsw.gov.au/transaction/find-nsw-hospital-parking-services-and-directions"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How are NSW ambulance fees calculated?",
+      "a": "Ambulance fees are based on a call out charge plus a per kilometre charge, calculated on the round trip between the ambulance station, pick up address, destination, and return to the ambulance station.",
+      "link": null
+    },
+    {
+      "q": "Does Medicare cover the NSW ambulance fee?",
+      "a": "No, Medicare does not cover the costs of the ambulance fee.",
+      "link": null
+    },
+    {
+      "q": "Who can pay the NSW ambulance fee online?",
+      "a": "Anyone who has received an invoice can pay the NSW ambulance fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:26Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "b4ed842148095d70e5b21a9620bb5b75795a2eae",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

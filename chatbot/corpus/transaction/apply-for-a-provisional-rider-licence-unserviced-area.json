@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-unserviced-area",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-unserviced-area",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-provisional-rider-licence-unserviced-area",
+  "title": "Apply for a provisional rider licence (unserviced area)",
+  "summary": "Learn how to apply for a provisional (P1) rider licence in an unserviced area after passing a kerbside skills test.",
+  "topics": [
+    "rider-licence",
+    "provisional-licence",
+    "unserviced-area",
+    "motorcycle"
+  ],
+  "intro": "To upgrade to a provisional (P1) rider licence in an unserviced area you must first pass a kerbside rider skills test.\n\nYou can book a kerbside rider skills test by visiting a Service NSW Centre or calling 13 22 13.\n\nAfter passing the test, apply in person at a service centre for your provisional rider licence.\n\nWhen you visit the service centre, you can apply for a NSW Photo Card at the same time, and pay a reduced application fee for it.",
+  "who_can_apply": [
+    "Be aged 17 or older",
+    "Have held a learner rider licence for at least 3 months",
+    "Pass the kerbside rider skills test"
+  ],
+  "what_you_need": [
+    "The 'Licence Application' PDF form",
+    "Your learner rider licence",
+    "Your contact lenses or glasses (if you wear them)",
+    "A current concession card (if applicable)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and check the tick box to apply for a Photo Card (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and lodge your application with your payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For rider licence applications, a receipt is provided which allows you to ride until the card arrives in the mail. The receipt is valid for 2 months.",
+      "link": null
+    },
+    {
+      "text": "The NSW Photo Card is voluntary – you don't have to have one, but you may find it useful to prove your identity in situations not related to riding/driving.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "find a rider training centre",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres/find-a-rider-training-centre"
+    },
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-nsw-photo-card-fees"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Motorcycle riders' handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-10/48024416-motorcycle-riders-handbook-10-25.pdf"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Getting your rider licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/getting-your-rider-licence"
+    },
+    {
+      "text": "Rider training centre locations – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Book a motorcycle rider training course",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course"
+    },
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    },
+    {
+      "text": "Apply for a provisional rider licence (serviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-serviced-area"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start the process for a provisional rider licence in an unserviced area?",
+      "a": "You must first pass a kerbside rider skills test. You can book this test by visiting a Service NSW Centre or calling 13 22 13.",
+      "link": null
+    },
+    {
+      "q": "What is the difference between a serviced and an unserviced area?",
+      "a": "A serviced area is where motorcycle rider training is available, while an unserviced area is where there are no training providers within a reasonable distance.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for the licence?",
+      "a": "You need the 'Licence Application' PDF form, your learner rider licence, your contact lenses or glasses (if applicable), a current concession card (if applicable), and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:26Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "ca458f7c5f07a558f5aac60d8577cee5fd2635ba",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

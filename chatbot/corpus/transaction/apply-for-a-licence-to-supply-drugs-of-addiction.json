@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-supply-drugs-of-addiction",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-supply-drugs-of-addiction",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-supply-drugs-of-addiction",
+  "title": "Apply for a licence to supply drugs of addiction",
+  "summary": "This page provides information and requirements for applying for a licence to supply drugs of addiction at a health facility.",
+  "topics": [
+    "licence",
+    "drugs-of-addiction",
+    "health-facility",
+    "nsw-health"
+  ],
+  "intro": "If you wish to supply drugs of addiction at your health facility, for example at a licensed nursing home or private health facility, you'll need to apply for a licence.",
+  "who_can_apply": [
+    "The applicant must be fit and proper to be a licensee.",
+    "The premises must be appropriate for the supply of drugs of addiction.",
+    "The applicant (individual or corporation) must show the Secretary of NSW Health that they meet the requirements."
+  ],
+  "what_you_need": [
+    "Application for a Licence to Supply Drugs of Addiction form (PDF)",
+    "Statutory Declaration form (PDF)",
+    "Fitness and Probity Check form (PDF)",
+    "Details of the applicant and contact person",
+    "Facility's name and address",
+    "Full company extract from the Australian Securities and Investment Commission (ASIC), if applicable",
+    "Copy of the certificate of incorporation (if applicable)",
+    "Copy of the Act incorporating the church or organisation (if applicable)",
+    "Copy of the charitable institution status from the Australian Taxation Office (if applicable)",
+    "National Police Check",
+    "ASIC certificate of registered business name",
+    "Details of the uses to be made of the drugs of addiction",
+    "Payment for the application"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather all the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make your payment online at the NSW Health Payment Portal.",
+      "link": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    },
+    {
+      "n": 5,
+      "text": "Send the completed application form, the required documents and a copy of the payment receipt to the email on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Police Check",
+      "url": "https://portal.police.nsw.gov.au/s/policecheck-definition"
+    },
+    {
+      "text": "NSW Health Payment Portal",
+      "url": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    },
+    {
+      "text": "Application for a Licence to Supply Drugs of Addiction – PDF",
+      "url": "https://www.health.nsw.gov.au/pharmaceutical/licences/Documents/alsda.pdf"
+    },
+    {
+      "text": "Statutory Declaration – NSW Health – PDF",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Documents/stat-dec.pdf"
+    },
+    {
+      "text": "Fitness and Probity Check Form – NSW Health – PDF",
+      "url": "https://www.health.nsw.gov.au/pharmaceutical/licences/Documents/fitness-and-probity-check.pdf"
+    },
+    {
+      "text": "All about the licensing of private health facilities",
+      "url": "https://www.health.nsw.gov.au/Hospitals/privatehealth/Pages/licensing-of-private-health-facilities.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence for a private health facility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-for-a-private-health-facility"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a licence to supply drugs of addiction?",
+      "a": "An individual or corporation can apply if they are fit and proper to be a licensee, the premises are appropriate for the supply of drugs of addiction, and they can show the Secretary of NSW Health of the required documentation.",
+      "link": null
+    },
+    {
+      "q": "What documents are required for the application?",
+      "a": "You need the application form, statutory declaration, fitness and probity check form, details of the applicant, facility details, company extracts (if applicable), and a National Police Check.",
+      "link": null
+    },
+    {
+      "q": "How do I pay the application fee?",
+      "a": "You must make your payment online at the NSW Health Payment Portal.",
+      "link": "https://www.health.nsw.gov.au/payments/Pages/default.aspx"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:17Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "ecf68f3d17928a0997e0a0c39dcc19955673c0ca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

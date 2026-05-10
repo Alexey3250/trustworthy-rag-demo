@@ -1,0 +1,167 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-native-animal-keeper-licence",
+  "title": "Apply for a native animal keeper licence",
+  "summary": "This page provides information on how to apply for a native animal keeper licence for over 300 types of native animals in NSW.",
+  "topics": [
+    "animal-licence",
+    "native-animals",
+    "nsw-wildlife",
+    "biodiversity"
+  ],
+  "intro": "This licence covers over 300 types of native animals listed on the NSW Native Animal Keepers' Species List as class 1 or basic:\n\nLicences are granted under the Biodiversity Conservation Act 2016.\n\nFor details on licence fees and duration visit the Environment and Heritage website .",
+  "who_can_apply": [
+    "Must be over 16 years of age."
+  ],
+  "what_you_need": [
+    "A physical Australian driver licence card (front and back). Digital licences are not accepted.",
+    "An Australian photo card (front and back).",
+    "A passport and a proof of address document issued in the last 3 months.",
+    "An ADF Photo ID and a proof of address document issued in the last 3 months.",
+    "An uploaded copy of one of the following proof of identity."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Identify the species code using the NSW Native Animal Keepers' Species List.",
+      "link": "https://www2.environment.nsw.gov.au/publications/nsw-native-animal-keepers-species-list"
+    },
+    {
+      "n": 2,
+      "text": "Use the 'Apply online' button on this page to go the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create a MyServiceNSW account.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "n": 4,
+      "text": "Follow the steps to apply for a native animal keeper licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "You'll get a transaction receipt within 4 hours of applying.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "You'll be notified of the outcome of your application within 28 days.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "be over 18 years of age",
+      "link": null
+    },
+    {
+      "text": "have at least 2 years' experience with a class 1 licensed species",
+      "link": null
+    },
+    {
+      "text": "meet a higher level of assessment criteria.",
+      "link": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence/requirements-to-qualify-for-an-advanced-class-licence"
+    },
+    {
+      "text": "Before you can upgrade to an advanced class native animal keeper licence, you will need to:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Native Animal Keepers' Species List",
+      "url": "https://www2.environment.nsw.gov.au/publications/nsw-native-animal-keepers-species-list"
+    },
+    {
+      "text": "Biodiversity Conservation Act 2016",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2016-063"
+    },
+    {
+      "text": "Environment and Heritage website",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "higher level of assessment criteria",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence/requirements-to-qualify-for-an-advanced-class-licence"
+    },
+    {
+      "text": "All about wildlife licensing in NSW",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/Wildlife-licences/"
+    },
+    {
+      "text": "Birds you don't need a licence to keep",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/bird-keeper-licences/birds-you-dont-need-a-licence-to-keep"
+    },
+    {
+      "text": "Native animal keeper record book – Environment and Heritage",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/native-animal-keeper-record-book"
+    },
+    {
+      "text": "Native animal facts",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/native-animals/native-animal-facts"
+    },
+    {
+      "text": "International wildlife trade – Department of Climate Change, Energy, the Environment and Water",
+      "url": "https://www.dcceew.gov.au/environment/wildlife-trade"
+    },
+    {
+      "text": "Threatened Species List",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/threatened-species"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "create a MyServiceNSW account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "Change the licence class or details on a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Renew a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Apply for a companion native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-companion-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What animals does this licence cover?",
+      "a": "This licence covers over 300 types of native animals listed on the NSW Native Animal Keepers' Species List as class 1 or basic.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for this licence?",
+      "a": "You must be over 16 years of age.",
+      "link": null
+    },
+    {
+      "q": "How long will it take to get the licence?",
+      "a": "You will receive a transaction receipt within 4 hours of applying, and you will be notified of the outcome within 28 days.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:26Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "3e0b34bc8a47f100af5fed9840a5bdb5825271cb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

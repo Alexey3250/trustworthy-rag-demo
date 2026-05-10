@@ -1,0 +1,33 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-biosecurity-concern",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-biosecurity-concern",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-biosecurity-concern",
+  "title": "Report a pest or disease, or other biosecurity concern",
+  "summary": "You can help protect NSW by reporting unusual pests, diseases, or other biosecurity concerns to the Department of Primary Industries.",
+  "topics": [
+    "biosecurity",
+    "pests",
+    "diseases",
+    "reporting-concerns"
+  ],
+  "intro": "You can help to protect NSW from biosecurity concerns by reporting unusual pests and diseases to the Department of Primary Industries.\n\nConcerns may include:\n\nEven if you’re not sure, it's helpful to report the issue anyway so it can be investigated.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:11Z",
+    "last_modified": "5 November 2025",
+    "html_sha1": "626da4618c2a1f2390caa2e180cac6c459845811",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

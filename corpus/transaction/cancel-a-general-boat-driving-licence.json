@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-general-boat-driving-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-general-boat-driving-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-general-boat-driving-licence",
+  "title": "Cancel a general boat driving licence",
+  "summary": "You can cancel your general boat driving licence by visiting a service centre or by mailing in a request.",
+  "topics": [
+    "boat-licence",
+    "cancel-licence",
+    "service-nsw"
+  ],
+  "intro": "If you want to cancel your general boat driving licence, you can do this at a service centre, or post your request to the Service NSW Agency Business Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your current general boat driving licence (if available)",
+    "A written request to cancel your licence",
+    "The 'Request For Refund Form' (if applicable)",
+    "Proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the Request for Refund (Maritime) – PDF (if applicable).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure that you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and provide the information in person, or post it to:Service NSWAgency Business CentrePO Box 21Parkes NSW 2870",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Request for Refund (Maritime) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Get boat or personal watercraft (PWC) licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/get-boat-or-pwc-licence"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I cancel my general boat driving licence?",
+      "a": "You can cancel your licence by visiting a service centre or by posting your request to the Service NSW Agency Business Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to cancel my licence?",
+      "a": "You need your current general boat driving licence (if available), a written request to cancel, the 'Request For Refund Form' (if applicable), and your proof of identity.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cf11337cf4941e0f5a543658615fc5bf37b75236",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

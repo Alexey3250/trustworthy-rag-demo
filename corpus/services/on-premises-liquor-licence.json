@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/on-premises-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/on-premises-liquor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "on-premises-liquor-licence",
+  "title": "On-premises liquor licence",
+  "summary": "This page provides information about obtaining and managing an on-premises liquor licence in New South Wales.",
+  "topics": [
+    "liquor-licence",
+    "on-premises",
+    "cafe",
+    "restaurant",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an on-premises licence (cafe or restaurant)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence-cafe-or-restaurant"
+    },
+    {
+      "text": "Apply for an on-premises licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence"
+    },
+    {
+      "text": "Check an on-premises licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Apply for primary service authorisation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-primary-service-authorisation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an on-premises liquor licence?",
+      "a": "You can apply for an on-premises licence for a cafe or restaurant using the dedicated application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence-cafe-or-restaurant"
+    },
+    {
+      "q": "What if I need a general on-premises licence?",
+      "a": "You can apply for a general on-premises licence using the main application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence"
+    },
+    {
+      "q": "How can I check the status of an existing licence?",
+      "a": "You can check an on-premises licence using the dedicated check link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:09Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c156850f0a2843929cfa26694f829e5ba645b33a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

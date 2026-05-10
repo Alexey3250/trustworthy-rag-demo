@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-due-to-death-disability-or-bankruptcy-of-licensee",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-due-to-death-disability-or-bankruptcy-of-licensee",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-transfer-a-liquor-licence-due-to-death-disability-or-bankruptcy-of-licensee",
+  "title": "Apply to transfer a liquor licence (due to death, disability or bankruptcy of licensee)",
+  "summary": "Learn how to apply to transfer a liquor licence if the original licensee has died, become disabled, or filed for bankruptcy.",
+  "topics": [
+    "liquor-licence",
+    "business-transfer",
+    "death",
+    "disability",
+    "bankruptcy"
+  ],
+  "intro": "If the holder of a liquor licence dies, is bankrupted or is no longer able to hold the licence due to disability, another adult can continue to operate the business for up to one month if they are:\n\nLiquor & Gaming NSW must be notified immediately and may endorse continuation of the licence, provided they deem the nominated person to be fit and proper to hold a liquor licence.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "The licensee’s spouse or de facto partner",
+    "A family member of a deceased licensee",
+    "Someone who carries on business on behalf of the family (must be aged 18 or over)"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The liquor licence name and number",
+    "A current NSW National Police Check certificate",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the details of the required licence.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in with your MyServiceNSW Account or create an account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to transfer the licence.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Attach any supporting documents.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Submit your application with payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW National Police Check certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    },
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (with previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-transfer-liquor-licence-previous-licensees-consent"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (without previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-liquor-licence-without-previous-licensees-consent"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if the liquor licence holder dies, becomes disabled, or goes bankrupt?",
+      "a": "Another adult can continue operating the business for up to one month, provided Liquor & Gaming NSW is notified immediately and deems the nominated person fit and proper to hold a licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find up-to-date guidelines for liquor licences?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who is eligible to apply to transfer the licence?",
+      "a": "Eligible applicants include the licensee’s spouse or de facto partner, a family member of a deceased licensee, or someone who carries on business on behalf of the family (if aged 18 or over).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:06Z",
+    "last_modified": "4 August 2025",
+    "html_sha1": "dff71145d58a38f162142f1340eb26887b8eaadf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

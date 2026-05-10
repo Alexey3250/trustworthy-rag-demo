@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-property-lost-on-public-transport",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-property-lost-on-public-transport",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-property-lost-on-public-transport",
+  "title": "Report property lost on public transport",
+  "summary": "This page provides instructions on how to submit a lost property report for items lost on public transport in the Greater Sydney area or on a NSW TrainLink service.",
+  "topics": [
+    "lost-property",
+    "public-transport",
+    "nsw-trainlink",
+    "greater-sydney"
+  ],
+  "intro": "If you’ve lost or forgotten your belongings on public transport in the Greater Sydney area or on a NSW TrainLink service, you can submit a lost property report.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your name and contact details",
+    "detailed description of the lost article",
+    "approximate time and date of the loss",
+    "the service you travelled on"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Submit'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Lost property contacts – Transport for NSW",
+      "url": "https://transportnsw.info/contact-us/report-lost-property/lost-property-contacts#/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:33Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "c9acc82089fbeb207598badb9487217ae01f3b58",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

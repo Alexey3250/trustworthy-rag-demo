@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-charitable-fundraising-authority",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-charitable-fundraising-authority",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-charitable-fundraising-authority",
+  "title": "Renew a charitable fundraising authority",
+  "summary": "This page provides information on how to renew a charitable fundraising authority.",
+  "topics": [
+    "charitable-fundraising",
+    "authority",
+    "renew",
+    "nsw"
+  ],
+  "intro": "The maximum term of an authority to fundraise is 5 years. You can apply to renew your authority before it expires, or up to 3 months after the expiry date.",
+  "who_can_apply": [
+    "Must be the holder of a charitable fundraising authority or be authorised by the authority holder."
+  ],
+  "what_you_need": [
+    "Your charitable fundraising authority number (CFN) which must match the registered number.",
+    "A charitable fundraising authority that has not expired or expired less than 3 months ago.",
+    "To renew the authority, you need to follow the steps: Select 'Renew online', log in using your MyServiceNSW Account, follow the prompts, download and complete the 'Charitable fundraising authority – renewal – PDF' form, sign the declaration, attach supporting documents, and email your information to the address on the form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You'll have the option to log in using your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew the charitable fundraising authority.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download Charitable fundraising authority – renewal – PDF.",
+      "link": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-resources/charitable-fundraising-authority-renewal-form"
+    },
+    {
+      "n": 5,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Sign the declaration.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Attach your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Email your information to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have any questions about a charitable fundraising authority email NSW Fair Trading or call 13 32 20.",
+  "more_info": [
+    {
+      "text": "For more information go to the NSW Fair Trading Charitable Fundraising Guidelines.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "registered number",
+      "url": "https://verify.licence.nsw.gov.au/home/Charities"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Charitable fundraising authority – renewal – PDF",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-resources/charitable-fundraising-authority-renewal-form"
+    },
+    {
+      "text": "NSW Fair Trading privacy statement",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/statement"
+    },
+    {
+      "text": "Charitable Fundraising Guidelines",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/charitable-fundraising-guidelines"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How long is the maximum term for a fundraising authority?",
+      "a": "The maximum term of an authority to fundraise is 5 years.",
+      "link": null
+    },
+    {
+      "q": "When can I renew my charitable fundraising authority?",
+      "a": "You can apply to renew your authority before it expires, or up to 3 months after the expiry date.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to renew the authority?",
+      "a": "You must be the holder of a charitable fundraising authority or be authorised by the authority holder.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:09Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "3c12f41b9cefbaeb3302bc6ad17a67b777409af7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

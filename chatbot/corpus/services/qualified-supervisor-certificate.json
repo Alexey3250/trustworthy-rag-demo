@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/services/qualified-supervisor-certificate",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "qualified-supervisor-certificate",
+  "title": "Qualified supervisor certificate",
+  "summary": "This page provides information about the qualified supervisor certificate, including how to apply for, manage, and check the certificate.",
+  "topics": [
+    "qualified-supervisor-certificate",
+    "supervision",
+    "licence",
+    "certificate"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change a class on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-class-on-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change address and contact details on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change the conditions on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Check a qualified supervisor's certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate"
+    },
+    {
+      "text": "Renew a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Replace a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Restore a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Surrender a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Add your digital qualified supervisor certificate to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a qualified supervisor certificate?",
+      "a": "You can apply for a qualified supervisor certificate using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-qualified-supervisor-certificate"
+    },
+    {
+      "q": "What can I do if I need to make changes to my certificate?",
+      "a": "You can change a class, address and contact details, conditions, or renew your certificate through specific services.",
+      "link": null
+    },
+    {
+      "q": "How can I check the status of a qualified supervisor's certificate?",
+      "a": "You can check a qualified supervisor's certificate using the online checker.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:13Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "e3cf7345baec85fff22f3b0162c57db3676d90d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

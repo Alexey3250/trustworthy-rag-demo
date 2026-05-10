@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations",
+  "source_url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "employee-entitlements-and-obligations",
+  "title": "Employee entitlements and obligations",
+  "summary": "Find information about your entitlements and obligations as an employee in New South Wales.",
+  "topics": [
+    "employee-rights",
+    "work-life",
+    "tax-information",
+    "dismissal-applications"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Manage and grow your business",
+      "link": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    },
+    {
+      "text": "Fair Work Ombudsman",
+      "link": "https://www.fairwork.gov.au/"
+    },
+    {
+      "text": "Fair Work Commission",
+      "link": "https://www.fwc.gov.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/"
+    },
+    {
+      "text": "Fair Work Commission",
+      "url": "https://www.fwc.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay, leave and superannuation",
+      "url": "https://www.service.nsw.gov.au/services/pay-leave-and-superannuation"
+    },
+    {
+      "text": "Find a trade union in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-trade-union-in-nsw"
+    },
+    {
+      "text": "Lodge a general protections dismissal application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-protections-dismissal-application"
+    },
+    {
+      "text": "Lodge an unfair dismissal application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-unfair-dismissal-application"
+    },
+    {
+      "text": "Use the simple income tax calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-simple-income-tax-calculator"
+    },
+    {
+      "text": "Apply for an individual Tax File Number",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-an-individual-tax-file-number"
+    },
+    {
+      "text": "Guide to online calculators to help you compare prices and get estimates",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-online-calculators-to-help-you-compare-prices-and-get-estimates"
+    },
+    {
+      "text": "Manage and grow your business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I lodge an unfair dismissal application?",
+      "a": "You can lodge an unfair dismissal application using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-an-unfair-dismissal-application"
+    },
+    {
+      "q": "Where can I find information about general protections dismissal applications?",
+      "a": "You can lodge a general protections dismissal application using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-general-protections-dismissal-application"
+    },
+    {
+      "q": "How can I calculate my income tax?",
+      "a": "Use the simple income tax calculator to help estimate your tax.",
+      "link": "https://www.service.nsw.gov.au/transaction/use-the-simple-income-tax-calculator"
+    },
+    {
+      "q": "How do I apply for a Tax File Number?",
+      "a": "You can apply for an individual Tax File Number using this link.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-for-an-individual-tax-file-number"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:55Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "09a751fe0b90a1972f7d449f3377c1cbcbf41def",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

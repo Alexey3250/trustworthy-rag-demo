@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-death",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-death",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-death",
+  "title": "Register a death",
+  "summary": "Learn how to register a death that occurred in NSW with the Registry of Births, Deaths and Marriages.",
+  "topics": [
+    "register-a-death",
+    "birth-deaths-marriages",
+    "funeral-director",
+    "next-of-kin"
+  ],
+  "intro": "All deaths that occur in NSW need to be registered with the Registry of Births, Deaths and Marriages within 7 days of the burial or cremation.\n\nUsually the funeral director completes the registration, but it is also possible for a next of kin or relative to register the death. You can mail the death registration form, or visit a service centre and lodge it in person.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "the death registration form (supplied by the Registry of Births, Deaths and Marriages)",
+    "surname and name of the deceased",
+    "date and place of death",
+    "medical certificate Cause of Death (issued by a doctor)",
+    "disposal details from the crematorium or cemetery (cremation or burial certificate)",
+    "order advising on disposal of the body (if the death was referred to a coroner)",
+    "the deceased's personal details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Call 13 77 88 and request a death registration form.",
+      "link": "tel:137788"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge the registration using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The death registration must be completed before a death certificate can be issued.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Death certificates – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/death-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Death and bereavement – Guide",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Make a deceased will enquiry",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-deceased-will-enquiry"
+    },
+    {
+      "text": "Manage a deceased estate",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-a-deceased-estate"
+    },
+    {
+      "text": "Apply for a Section 50 search (deceased estate)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-section-50-search-deceased-estate"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:30Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "cca683e54210dce1ae2e0dd2cfba415223b1b122",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

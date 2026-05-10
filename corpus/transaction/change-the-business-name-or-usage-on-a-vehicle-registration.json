@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-business-name-or-usage-on-a-vehicle-registration",
+  "title": "Change the business name or usage on a vehicle registration",
+  "summary": "You can add, change, or delete a 'courtesy name' and/or change the usage details on your vehicle registration at a service centre.",
+  "topics": [
+    "vehicle-registration",
+    "business-name",
+    "usage-details",
+    "service-centre"
+  ],
+  "intro": "You can add, change or delete a 'courtesy name', and/or change the usage details on your rego at a service centre.\n\nA 'courtesy name' is a business name recorded on a vehicle's registration papers, where the registered operator is an individual.\n\nThe usage details are represented as a code, including, but not limited to:\n\nNote: If you're only changing a courtesy name, or usage such as private, business or pensioner, you may be eligible to do so by calling 13 77 88.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "your business details (if the vehicle is registered under a business)",
+    "your vehicle registration details",
+    "a copy of the Certificate of Registration of Business Name as proof of identity for the business (if applicable)",
+    "your concession card details (if applicable)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "PRIV",
+      "link": null
+    },
+    {
+      "text": "BUSG, or",
+      "link": null
+    },
+    {
+      "text": "PNSR.",
+      "link": null
+    },
+    {
+      "text": "To be eligible to change details over the phone, the vehicle must be registered in an individual's name, and the usage details can only be changing between:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Roads and waterways – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways"
+    },
+    {
+      "text": "Vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the details on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a 'courtesy name'?",
+      "a": "A 'courtesy name' is a business name recorded on a vehicle's registration papers when the registered operator is an individual.",
+      "link": null
+    },
+    {
+      "q": "How can I change a courtesy name or usage details?",
+      "a": "You can change these details at a service centre. If you are only changing a courtesy name, or usage such as private, business, or pensioner, you may be eligible to do so by calling 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:22Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "ba201b6220b8b92b70d45902e17c7ae922fca947",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

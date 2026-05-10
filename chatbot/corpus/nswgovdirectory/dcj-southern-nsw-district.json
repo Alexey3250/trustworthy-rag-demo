@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-southern-nsw-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-southern-nsw-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-southern-nsw-district",
+  "title": "DCJ Southern NSW District",
+  "summary": "This page provides information about the DCJ Southern NSW District and links to various community services centres.",
+  "topics": [
+    "dcj",
+    "southern-nsw",
+    "community-services",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Batemans Bay Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/batemans-bay-community-services-centre"
+    },
+    {
+      "text": "Bega Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bega-community-services-centre"
+    },
+    {
+      "text": "Cooma Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/cooma-community-services-centre"
+    },
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Goulburn Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/goulburn-community-services-centre"
+    },
+    {
+      "text": "Queanbeyan Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/queanbeyan-community-services-centre"
+    },
+    {
+      "text": "Yass Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/yass-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:03Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c0c04d5734a82753ffc0bf99946f88910cdaa2b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

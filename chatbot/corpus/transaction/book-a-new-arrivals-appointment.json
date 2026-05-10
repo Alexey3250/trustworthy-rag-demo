@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-new-arrivals-appointment",
+  "title": "Support and guidance for new arrivals",
+  "summary": "Service NSW offers free and confidential support to refugees, migrants, or similar backgrounds to help them understand and access government services.",
+  "topics": [
+    "new-arrivals",
+    "migrant-support",
+    "refugee-support",
+    "government-services"
+  ],
+  "intro": "If you are from a refugee, migrant or similar background and would like support with understanding and accessing government services, a Service NSW team member can assist. This is a free and confidential service.\n\nWe can help you explore opportunities and provide information and advice on a range of topics including:\n\n### Appointment types\n\nYou can book an appointment to speak to a Service NSW team member:\n\nFace-to-face appointments are available at:",
+  "who_can_apply": [
+    "You are from a refugee, migrant, or similar background."
+  ],
+  "what_you_need": [
+    "Your name, phone number, and email address",
+    "A MyServiceNSW Account (only if booking online)",
+    "To book online: Select the ‘Book an appointment’ button, log in, or create your MyServiceNSW Account."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Book an appointment’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your request for an appointment.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Call Service NSW on 13 77 88",
+      "link": "tel:137788"
+    },
+    {
+      "n": 5,
+      "text": "Visit any Service NSW Centre",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "This new arrival support service is part of the NSW Settlement Strategy, which brings together existing and new NSW Government initiatives to improve settlement outcomes for people from refugee and refugee-like backgrounds living in NSW.",
+      "link": "https://multicultural.nsw.gov.au/nsw-settlement-strategy/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Settlement Strategy",
+      "url": "https://multicultural.nsw.gov.au/nsw-settlement-strategy/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Auburn",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-service-centre"
+    },
+    {
+      "text": "Bankstown",
+      "url": "https://www.service.nsw.gov.au/service-centre/bankstown-service-centre"
+    },
+    {
+      "text": "Dubbo",
+      "url": "https://www.service.nsw.gov.au/service-centre/dubbo-service-centre"
+    },
+    {
+      "text": "Liverpool",
+      "url": "https://www.service.nsw.gov.au/service-centre/liverpool-service-centre"
+    },
+    {
+      "text": "Newcastle",
+      "url": "https://www.service.nsw.gov.au/service-centre/newcastle-service-centre"
+    },
+    {
+      "text": "Wagga Wagga",
+      "url": "https://www.service.nsw.gov.au/service-centre/wagga-wagga-service-centre"
+    },
+    {
+      "text": "Wallsend",
+      "url": "https://www.service.nsw.gov.au/service-centre/wallsend-service-centre"
+    },
+    {
+      "text": "Warrawong",
+      "url": "https://www.service.nsw.gov.au/service-centre/warrawong-service-centre"
+    },
+    {
+      "text": "Wetherill Park",
+      "url": "https://www.service.nsw.gov.au/service-centre/wetherill-park-service-centre"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/new-arrivals-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the support service free?",
+      "a": "Yes, the support provided by a Service NSW team member is free and confidential.",
+      "link": null
+    },
+    {
+      "q": "What kind of help can I receive?",
+      "a": "Service NSW can help you explore opportunities and provide information and advice on a range of topics, including accessing government services.",
+      "link": null
+    },
+    {
+      "q": "How can I book an appointment?",
+      "a": "You can book an appointment by selecting the ‘Book an appointment’ button, logging in or creating a MyServiceNSW Account, and following the prompts. You can also call Service NSW on 13 77 88 or visit any Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:54Z",
+    "last_modified": "2 March 2026",
+    "html_sha1": "9b5f115b685204117b63db3707906d5869d4762c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

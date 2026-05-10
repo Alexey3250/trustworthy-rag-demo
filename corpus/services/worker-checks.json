@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/worker-checks",
+  "source_url": "https://www.service.nsw.gov.au/services/worker-checks",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "worker-checks",
+  "title": "Worker checks",
+  "summary": "This page provides information on various types of worker checks required for employment in New South Wales.",
+  "topics": [
+    "worker-checks",
+    "employment",
+    "background-checks",
+    "nsw-employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of worker checks are available?",
+      "a": "The page provides information on the Working with Children Check, the National Disability Insurance Scheme Worker Check (NDISWC), and the National Police Check.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for a Working with Children Check?",
+      "a": "You can find more information about the Working with Children Check at the dedicated service page.",
+      "link": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "q": "How do I apply for an NDIS Worker Check?",
+      "a": "Information regarding the National Disability Insurance Scheme Worker Check (NDISWC) is available on the dedicated service page.",
+      "link": "https://www.service.nsw.gov.au/services/ndiswc"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:48Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "332c4a882cb12b526dc44587c9d30e6348d7443c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

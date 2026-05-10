@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-birth-certificate-for-business",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-birth-certificate-for-business",
+  "category": "nsw-digital-birth-certificate-for-business",
+  "article_kind": "content",
+  "slug": "nsw-digital-birth-certificate-for-business",
+  "title": "NSW Digital Birth Certificate for business",
+  "summary": "This page provides information for birth certificate checkers on how to verify and accept the NSW Digital Birth Certificate.",
+  "topics": [
+    "digital-birth-certificate",
+    "service-nsw",
+    "verification",
+    "identity-document"
+  ],
+  "intro": "The NSW Digital Birth Certificate (DBC) is now available through the Service NSW app to people born or adopted in NSW who are aged 16 to 21 years old and have a NSW Photo Card or NSW Driver Licence.\n\nIn 2022, legislation was passed that ensures that electronic or digital birth certificates hold the same legal validity as physical, paper-based certificates produced by the Registry. While the digital version will not replace the paper birth certificate, it has the same legal standing under Section 20 of the Births, Deaths and Marriages Registration Regulation 2025.\n\nWhat are the benefits of the DBC?\n\nCheckers have two options to verify a Digital Birth Certificate after a visual check:",
+  "who_can_apply": [
+    "Must be born or adopted in NSW",
+    "Must be aged 16 to 21 years old",
+    "Must have a NSW Photo Card or NSW Driver Licence"
+  ],
+  "what_you_need": [
+    "NSW Photo Card or NSW Driver Licence",
+    "Knowledge of how to visually check a Digital Birth Certificate",
+    "Following your organisation's procedures if verification is an issue"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "All birth certificate checkers need to know how to identify a Digital Birth Certificate before starting to accept it.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Holders can choose to display their Digital Birth Certificate in light mode or dark mode. Dark mode is commonly used at night or in low-light environments to reduce eye strain and make it easier to view a screen.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "As a birth certificate checker, you can ask the customer to swipe down to refresh their Digital Birth Certificate to confirm that it’s authentic and current.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "If you need extra reassurance beyond a visual check, the Digital Birth Certificate can also be verified by document verification services, in the same way as a physical paper certificate.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "A Document Verification Service (DVS) check is a process that verifies whether the biographic information on an identity document matches the original record held by the issuing agency.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "The Digital Birth Certificate has multiple features which confirm it is authentic and current.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "How to check the NSW Digital Birth Certificate - PDF",
+      "url": "https://www.service.nsw.gov.au/system/files/2026-03/How%20to%20check%20the%20NSW%20Digital%20Birth%20Certificate%20poster.pdf"
+    },
+    {
+      "text": "NSW Digital Birth Certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-digital-birth-certificate"
+    },
+    {
+      "text": "NSW Digital Birth Certificate - Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-birth-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the legal standing of the Digital Birth Certificate?",
+      "a": "Legislation passed in 2022 ensures that electronic or digital birth certificates hold the same legal validity as physical, paper-based certificates. It has the same legal standing under Section 20 of the Births, Deaths and Marriages Registration Regulation 2025.",
+      "link": null
+    },
+    {
+      "q": "How can I verify a Digital Birth Certificate?",
+      "a": "After a visual check, checkers can verify the certificate by asking the customer to swipe down to refresh it. For extra reassurance, it can also be verified by document verification services (DVS).",
+      "link": null
+    },
+    {
+      "q": "Who can obtain the NSW Digital Birth Certificate?",
+      "a": "The certificate is available to people born or adopted in NSW who are aged 16 to 21 years old and who have a NSW Photo Card or NSW Driver Licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:48Z",
+    "last_modified": "17 March 2026",
+    "html_sha1": "04e5d8a516af5a146924703506d93941d8f349f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

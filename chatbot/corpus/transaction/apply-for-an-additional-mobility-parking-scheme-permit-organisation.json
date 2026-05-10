@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-organisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-organisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-additional-mobility-parking-scheme-permit-organisation",
+  "title": "Apply for an additional Mobility Parking Scheme permit (organisation)",
+  "summary": "This page explains how an organisation that already holds a Mobility Parking Scheme (MPS) permit can apply for additional permits.",
+  "topics": [
+    "mobility-parking-scheme",
+    "organisation",
+    "permit",
+    "nsw-transport"
+  ],
+  "intro": "If your organisation already has a Mobility Parking Scheme (MPS) permit, you can apply for additional permits.",
+  "who_can_apply": [
+    "The organisation must already have a Mobility Parking Scheme (MPS) permit."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Mobility Parking Scheme Application (Organisation)' which must include the address of an operational office in NSW.",
+    "A person authorised to sign on behalf of the organisation.",
+    "A contact person responsible for managing the organisation's permits (this may be the authorised person).",
+    "Payment for the required fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and post it to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If the authorised person is not already recorded with Transport for NSW, they'll need to visit a service centre in person, and provide their proof of identity.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "The organisation can only use the MPS permit when transporting an eligible person. The permit cannot be used for any other reasons, including visiting eligible clients or running errands on their behalf.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/costs-and-concessions"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Mobility parking scheme application (Organisation) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071455-mps-organisation-permits.pdf"
+    },
+    {
+      "text": "Disability parking permit: organisations – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/disability-parking-permits/organisation-permit"
+    },
+    {
+      "text": "Park'nPay",
+      "url": "https://parknpay.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Mobility Parking Scheme permit (organisation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-mobility-parking-scheme-permit-organisation"
+    },
+    {
+      "text": "Apply for an additional Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is this page for?",
+      "a": "If your organisation already has a Mobility Parking Scheme (MPS) permit, you can apply for additional permits.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for additional permits?",
+      "a": "Select the 'Download PDF form' button, complete the form, and post it to the address provided on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:57Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "46e37e16930d3c12c7cc48e812ba76bd19946d28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

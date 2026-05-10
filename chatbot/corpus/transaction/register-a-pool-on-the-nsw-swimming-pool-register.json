@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-pool-on-the-nsw-swimming-pool-register",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-pool-on-the-nsw-swimming-pool-register",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-pool-on-the-nsw-swimming-pool-register",
+  "title": "Register a pool on the NSW Swimming Pool Register",
+  "summary": "Learn how to register a swimming pool on the NSW Swimming Pool Register, either online or through your local council.",
+  "topics": [
+    "swimming-pool",
+    "nsw",
+    "register",
+    "pool-safety"
+  ],
+  "intro": "Swimming pools must be registered. Pool owners can do this online by completing the NSW Swimming Pool Register registration form.\n\nIf you prefer, you can pay a fee to your local council and they will register it on your behalf.",
+  "who_can_apply": [
+    "Pool owners"
+  ],
+  "what_you_need": [
+    "Address of your property",
+    "Details of your pool",
+    "Details of your pool barrier",
+    "Approximate age of your pool"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the online form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "​Take note of your 'Pool ID'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you need to check the status of your registration please use the Check Property search on the NSW Swimming Pool Register website.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Swimming Pool Register",
+      "url": "https://www.swimmingpoolregister.nsw.gov.au/"
+    },
+    {
+      "text": "Check Property",
+      "url": "https://www.swimmingpoolregister.nsw.gov.au/pooldb/pgLookupPool"
+    },
+    {
+      "text": "Pools and pool safety – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/pools-and-pool-safety"
+    },
+    {
+      "text": "Find your local council – Office of Local Government",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need to register my swimming pool?",
+      "a": "Yes, swimming pools must be registered.",
+      "link": null
+    },
+    {
+      "q": "How can I register my pool?",
+      "a": "You can register online by completing the NSW Swimming Pool Register registration form, or you can pay a fee to your local council to register it on your behalf.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to register my pool?",
+      "a": "You need the address of your property, details of your pool, details of your pool barrier, and the approximate age of your pool.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:28Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "2dbe82e7d09be12978676b4440f9e90adfa33164",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

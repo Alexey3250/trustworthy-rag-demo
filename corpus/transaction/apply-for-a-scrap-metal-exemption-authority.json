@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scrap-metal-exemption-authority",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scrap-metal-exemption-authority",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-scrap-metal-exemption-authority",
+  "title": "Apply for a scrap metal exemption authority",
+  "summary": "Tow truck operators using only crane-type tow trucks and carrying scrap metal directly to a recycling facility can apply for a scrap metal exemption certificate.",
+  "topics": [
+    "tow-truck-operator",
+    "scrap-metal",
+    "exemption-certificate",
+    "recycling"
+  ],
+  "intro": "If you're a tow truck operator using only crane-type tow trucks and only carrying scrap metal directly to a scrap metal recycling facility, you can apply for a scrap metal exemption certificate.\n\nThere is a fee attached to this transaction.",
+  "who_can_apply": [
+    "You must show that you are fit and proper to be granted the exemption certificate.",
+    "All trucks must be registered in the applicant's name.",
+    "The trucks must be solely used for transporting motor vehicles for scrap metal recycling.",
+    "The tow trucks must be crane-type (tip tray tow trucks are not eligible)."
+  ],
+  "what_you_need": [
+    "Photo IDs (back and front of driver licence, passport) of:",
+    "Certificate of incorporation (if applicable)",
+    "Registration of business name (sole traders)",
+    "Latest annual company statement/extract with shareholder and director details (if applicable)",
+    "Certificate of currency for public liability insurance for your place of business",
+    "Current Transport for NSW certificates of registration for each vehicle operating",
+    "Clear colour photographs of the vehicles showing registration number and crane",
+    "A National Police Check (no more than 6 weeks old) for anyone nominated on the form who has lived overseas or in another Australian state or territory in the last 10 years",
+    "Printout of interstate/overseas criminal record(s) (if applicable)",
+    "Details of all employed/engaged tow truck drivers",
+    "A credit card or PayPal account for your payment",
+    "The PDF form – 'Application for Scrap Metal Exemption Certificate'.",
+    "Your business details, and copy(ies) of:",
+    "A payment receipt number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Ensure you and all directors, partners and close associates sign the declaration.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make your payment with credit card or PayPal, via the link on the form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your payment receipt number.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Gather all the required supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Lodge your application using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "As part of the assessment process, NSW Fair Trading will check whether an applicant has a criminal record.",
+      "link": null
+    },
+    {
+      "text": "Tow trucks transporting motor vehicles destined for repair, reuse or resale in their original form or as parts, cannot be included on an exemption certificate.",
+      "link": null
+    },
+    {
+      "text": "Your tow trucks must have an approved sign displayed on the front and rear of each tow truck in positions where they are visible outside the tow truck.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "National Police Check",
+      "url": "https://portal.police.nsw.gov.au/s/policecheck-definition"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-licensing-fees"
+    },
+    {
+      "text": "Scrap metal exemption certificate – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/scrap-metal-exemption-certificate"
+    },
+    {
+      "text": "Tow truck operator self-audit checklist – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/tow-truck-operator-self-audit-checklist"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What type of tow truck is eligible for this certificate?",
+      "a": "You must use crane-type tow trucks. Tip tray tow trucks are not eligible.",
+      "link": null
+    },
+    {
+      "q": "Must the tow trucks be registered in my name?",
+      "a": "Yes, all trucks must be registered in the applicant's name. Lease agreements are not accepted.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of the scrap metal exemption certificate?",
+      "a": "It allows tow truck operators who use only crane-type tow trucks and only carry scrap metal directly to a scrap metal recycling facility to operate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:28Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "7a31fdbe35c5bb3bbc985352c04425fe611247ec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

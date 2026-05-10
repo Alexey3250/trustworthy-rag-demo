@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals",
+  "source_url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "claim-concession-car-parking-at-nsw-health-public-hospitals",
+  "title": "Claim concessional car parking at NSW Health public hospitals",
+  "summary": "Find out how to apply for concessional car parking rates for eligible patients and carers at NSW public hospitals.",
+  "topics": [
+    "nsw-health",
+    "parking",
+    "hospitals",
+    "concessional-parking"
+  ],
+  "intro": "Concession car parking rates are available for eligible patients and their carers in all public hospital car parks in NSW where fees apply.\n\nEach hospital will have an 'administrative point' where you can apply for the concession parking.",
+  "who_can_apply": [
+    "Require treatment over an extended period",
+    "Attend hospital more than twice a week (including carers of long term patients who visit frequently)",
+    "Experience financial hardship"
+  ],
+  "what_you_need": [
+    "Use the NSW Public Hospital Parking, Services and Directions search tool to locate a NSW public hospital administrative point at the hospital."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Use the NSW Public Hospital Parking, Services and Directions search tool to locate a NSW public hospital administrative point at the hospital.",
+      "link": "https://parking.health.nsw.gov.au"
+    },
+    {
+      "n": 2,
+      "text": "Before you exit the car park:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Health website",
+      "url": "https://www.health.nsw.gov.au/Hospitals/parking/Pages/concessional-parking.aspx"
+    },
+    {
+      "text": "NSW Public Hospital Parking, Services and Directions",
+      "url": "https://parking.health.nsw.gov.au"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I apply for concessional car parking?",
+      "a": "You can apply for concession parking at an 'administrative point' located within the public hospital car park.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for concessional car parking?",
+      "a": "Eligibility criteria include requiring extended treatment, attending the hospital more than twice a week, or experiencing financial hardship. For full details, visit the NSW Health website.",
+      "link": "https://www.health.nsw.gov.au/Hospitals/parking/Pages/concessional-parking.aspx"
+    },
+    {
+      "q": "How do I find the administrative point at a hospital?",
+      "a": "Use the NSW Public Hospital Parking, Services and Directions search tool to locate the administrative point at the hospital.",
+      "link": "https://parking.health.nsw.gov.au"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:50Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "c90e600dd411454bf0f70d29e02cdde87b8134fd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

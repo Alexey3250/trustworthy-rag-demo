@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app",
+  "source_url": "https://www.service.nsw.gov.au/transaction/access-your-working-children-check-wwcc-service-nsw-app",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "access-your-working-children-check-wwcc-service-nsw-app",
+  "title": "Add your Working with Children Check to the Service NSW app",
+  "summary": "Learn how to add your existing Working with Children Check (WWCC) details to the Service NSW app for easy viewing and verification.",
+  "topics": [
+    "working-with-children-check",
+    "service-nsw-app",
+    "wwcc"
+  ],
+  "intro": "If you have a current Working with Children Check (WWCC) you can add it to the Service NSW app.\n\nOnce added, you can view your WWCC details and use the QR code to verify your status.\n\nThe WWCC is an online system and does not have a physical card or certificate. The email you received when you were cleared has your WWCC number.",
+  "who_can_apply": [
+    "Must have a current Working with Children Check (WWCC)."
+  ],
+  "what_you_need": [
+    "The latest version of the Service NSW app",
+    "A MyServiceNSW Account",
+    "The WWCC number (found on the clearance email)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Add Working with Children Check’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to add your WWCC to the app.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "WWCC clearance numbers are issued by email once the check has cleared. Allow up to 4 weeks for the WWCC to clear. Clearances expire after 5 years.",
+      "link": null
+    },
+    {
+      "text": "If you want to update your WWCC details, you’ll need to change your details with OCG. Changes will be automatically updated in the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Working with Children Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "change your details with OCG",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration"
+    },
+    {
+      "text": "Add a digital licence or credential to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Renew your Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-working-children-check-wwcc"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Working with Children Check (WWCC)?",
+      "a": "The WWCC is an online system and does not have a physical card or certificate. Your WWCC number is found on the email you received when you were cleared.",
+      "link": null
+    },
+    {
+      "q": "How can I view my WWCC details?",
+      "a": "Once added to the Service NSW app, you can view your WWCC details and use the QR code to verify your status.",
+      "link": null
+    },
+    {
+      "q": "What do I need to add my WWCC to the app?",
+      "a": "You need the latest version of the Service NSW app, a MyServiceNSW Account, and confirmation of your WWCC.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:17Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "f2d377418c869e0c69db07d3984bcce564c50d51",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

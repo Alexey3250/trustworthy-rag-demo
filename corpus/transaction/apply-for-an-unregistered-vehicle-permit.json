@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-unregistered-vehicle-permit",
+  "title": "Apply for an unregistered vehicle permit",
+  "summary": "An unregistered vehicle permit (UVP) allows you to drive an unregistered vehicle for a specific journey on the most direct route.",
+  "topics": [
+    "unregistered-vehicle",
+    "permit",
+    "driving",
+    "service-nsw"
+  ],
+  "intro": "An unregistered vehicle permit (UVP) allows you to drive an unregistered vehicle for a specific journey. It is only valid for the time required to complete that journey by the most direct route.\n\nNote: If you're an overseas or interstate visitor, you need to visit a Service NSW Centre before you apply for the UVP, so you can be issued a customer number. Take your proof of identity documents with you when you visit the service centre.",
+  "who_can_apply": [
+    "Written-off vehicles are not eligible for UVPs.",
+    "Visit Transport for NSW for more information on what vehicles and journeys are eligible."
+  ],
+  "what_you_need": [
+    "Personal or corporation details.",
+    "Proof of identity.",
+    "The vehicle's details.",
+    "Details of the proposed journey.",
+    "Fee payment.",
+    "The required PDF forms (e.g., Safe Use Declaration and Application for Unregistered Vehicle Permit).",
+    "The old number plates (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070938-safe-use-declaration.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required documentation (including your proof of identity) and the old number plates (if applicable)",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and lodge your application and supporting documents in person, or via:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The most direct route can be a:",
+      "link": null
+    },
+    {
+      "text": "Permits are not issued to cover extra days where a vehicle 'may' be using the roads.",
+      "link": null
+    },
+    {
+      "text": "A UVP cannot be used as a substitute for full registration.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity documents",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/unregistered-vehicle-permits-uvp"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Vehicle Suitable for Safe Use Declaration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070938-safe-use-declaration.pdf"
+    },
+    {
+      "text": "Application for Unregistered Vehicle Permit – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070190-unregistered-vehicle-permit.pdf"
+    },
+    {
+      "text": "Vehicle registration forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/registration-forms"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp"
+    },
+    {
+      "text": "Cancel an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for an Unregistered Vehicle Permit (UVP)?",
+      "a": "Written-off vehicles are not eligible for UVPs. For more information on eligible vehicles and journeys, visit Transport for NSW.",
+      "link": null
+    },
+    {
+      "q": "What do overseas or interstate visitors need to do before applying for a UVP?",
+      "a": "Overseas or interstate visitors must visit a Service NSW Centre first to be issued a customer number. Remember to bring your proof of identity documents.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for an Unregistered Vehicle Permit?",
+      "a": "You must download and complete the required PDF forms, gather all necessary documentation (including proof of identity and old number plates), and then lodge your application in person at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:39Z",
+    "last_modified": "1 April 2026",
+    "html_sha1": "96f2d91b496788bb32e2dcc4b2458eb4ad2b8b40",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

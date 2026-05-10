@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-the-storage-hold-period-of-number-plates",
+  "title": "Renew the storage/hold period of number plates",
+  "summary": "You can renew or extend the storage or hold period for number plates online through myPlates if your reservation or storage period is expiring.",
+  "topics": [
+    "number-plates",
+    "storage-hold",
+    "renewal",
+    "myplates"
+  ],
+  "intro": "If you previously reserved a letter/number combination, or you're storing number plates at a Service NSW Centre and you've received a notice that your reservation or storage period is due to expire, you can renew/extend the period online, through myPlates.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your email address",
+    "your driver licence number or customer number (if a business)",
+    "your plate number",
+    "your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew the storage/hold period.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Collect or surrender number plates held in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage"
+    },
+    {
+      "text": "Place your number plates on hold/in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "Change the storage location of your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:02Z",
+    "last_modified": "18 February 2026",
+    "html_sha1": "f27bcea227b69bc55c5ba8e600e5660aa307b7d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/paintball",
+  "source_url": "https://www.service.nsw.gov.au/services/paintball",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "paintball",
+  "title": "Paintball",
+  "summary": "This page provides information and links for obtaining, renewing, or managing permits related to paintball markers and venues in NSW.",
+  "topics": [
+    "paintball",
+    "permits",
+    "markers",
+    "venues",
+    "business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    },
+    {
+      "text": "Renew a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit"
+    },
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for an international paintball competitor permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    },
+    {
+      "text": "Renew a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-venue-permit"
+    },
+    {
+      "text": "Notify of supply and disposal of a paintball marker",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-of-supply-and-disposal-of-a-paintball-marker"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:13Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "53072adf0186efe8bcaf8986ebf046d9d9ef4874",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

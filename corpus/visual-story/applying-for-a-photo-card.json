@@ -1,0 +1,89 @@
+{
+  "url": "https://www.service.nsw.gov.au/visual-story/applying-for-a-photo-card",
+  "source_url": "https://www.service.nsw.gov.au/visual-story/applying-for-a-photo-card",
+  "category": "visual-story",
+  "article_kind": "landing-page",
+  "slug": "applying-for-a-photo-card",
+  "title": "Applying for a Photo Card",
+  "summary": "This page provides a visual guide on how to apply for a photo card.",
+  "topics": [
+    "photo-card",
+    "service-nsw",
+    "application",
+    "identity"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of who you are"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "download a PDF form",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    },
+    {
+      "text": "proof of who you are",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "download this visual story in PDF format",
+      "url": "https://www.service.nsw.gov.au/system/files/2025-09/Apply%20for%20a%20photo%20card%20-%20a%20visual%20guide.pdf"
+    },
+    {
+      "text": "Quiet Hour times",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour"
+    },
+    {
+      "text": "Hidden Disability Sunflower Symbol",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/be-seen-with-a-sunflower"
+    },
+    {
+      "text": "your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "Booked appointment times",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "Auslan video remote interpreting",
+      "url": "https://www.service.nsw.gov.au/transaction/book-auslan-video-remote-interpreting-at-a-service-centre"
+    },
+    {
+      "text": "local Service NSW location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a photo card?",
+      "a": "You can apply for a photo card by visiting a Service NSW centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to bring when I apply?",
+      "a": "You will need proof of who you are and any other required documents.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "q": "Is there a form I can download?",
+      "a": "Yes, you can download a PDF form to assist with your application.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071151-nsw-photo-card-application.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:17Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "dc42dbabbfa9306e2251f8865879ca282224822f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

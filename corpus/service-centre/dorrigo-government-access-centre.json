@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/dorrigo-government-access-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/dorrigo-government-access-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "dorrigo-government-access-centre",
+  "title": "Dorrigo Government Access Centre",
+  "summary": "This page provides information about the Dorrigo Government Access Centre, including payment options and nearby service centres.",
+  "topics": [
+    "service-centre",
+    "dorrigo",
+    "nsw-government",
+    "access-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-30.340721,152.714286"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Browse our services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "Coffs Harbour Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/coffs-harbour-service-centre"
+    },
+    {
+      "text": "Nambucca Heads Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/nambucca-heads-service-centre"
+    },
+    {
+      "text": "Grafton Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/grafton-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:43Z",
+    "last_modified": null,
+    "html_sha1": "106115c8620214c498f568c5d9e103084d002a42",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

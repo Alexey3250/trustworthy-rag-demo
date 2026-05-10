@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-your-voucher-profile",
+  "title": "Access your Voucher profile",
+  "summary": "Parents, guardians, or carers with a MyServiceNSW Account can store or update their child's details in their Voucher profile for future voucher programs.",
+  "topics": [
+    "parenting",
+    "voucher-profile",
+    "myservicensw-account",
+    "child-details"
+  ],
+  "intro": "If you're a parent, guardian or carer with a MyServiceNSW Account, you can add your child to your Voucher profile.\n\nBy storing your child's information now, when a new voucher program becomes available:\n\nThe information is securely stored in your Voucher profile and you can remove this information at any time.\n\nNote",
+  "who_can_apply": [
+    "Parent, guardian, or carer with a MyServiceNSW Account"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The name and address of the child or children you are responsible for",
+    "The Medicare card details for each child",
+    "The name of the school or educational facility if the child is enrolled to attend",
+    "Your Medicare card and your proof of identity document must show the same name that appears on your MyServiceNSW Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to store or update your child's details in your Voucher profile.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "log in to your MyServiceNSW Account",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "access your Voucher profile",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "select 'Remove' underneath the details you would like removed.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your child's details may already be saved to your Voucher profile if you opted in when applying for the Premier's Back to School NSW Vouchers.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Voucher profile – Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/voucher-profile"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/services/vouchers"
+    },
+    {
+      "text": "Share an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/share-a-voucher"
+    },
+    {
+      "text": "Apply for an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-active-and-creative-kids-voucher"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the benefit of storing my child's details?",
+      "a": "By storing your child's information now, the details are securely kept in your Voucher profile, allowing you to easily access them when a new voucher program becomes available.",
+      "link": null
+    },
+    {
+      "q": "Can I remove the child's details later?",
+      "a": "Yes, you can remove the stored information from your Voucher profile at any time.",
+      "link": null
+    },
+    {
+      "q": "What do I need to start or update my child's details?",
+      "a": "You need a MyServiceNSW Account, the name and address of the child or children you are responsible for, the Medicare card details for each child, and the name of the school or educational facility if the child is enrolled.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:17Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "0ce819f30e0cb96aa8a17bc562b1eb630e0ea82d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

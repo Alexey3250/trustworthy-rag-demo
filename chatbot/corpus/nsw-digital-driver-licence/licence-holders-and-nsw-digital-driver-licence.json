@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-holders-and-nsw-digital-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence/licence-holders-and-nsw-digital-driver-licence",
+  "category": "nsw-digital-driver-licence",
+  "article_kind": "content",
+  "slug": "licence-holders-and-nsw-digital-driver-licence",
+  "title": "Licence holders and the NSW Digital Driver Licence",
+  "summary": "This page provides information on how to obtain and use the optional NSW Digital Driver Licence via the Service NSW app.",
+  "topics": [
+    "nsw-digital-driver-licence",
+    "driver-licence",
+    "service-nsw-app",
+    "licence-renewal"
+  ],
+  "intro": "See the Terms and Conditions for the NSW Digital Driver Licence.",
+  "who_can_apply": [
+    "Licence holders"
+  ],
+  "what_you_need": [
+    "Service NSW app (latest version)",
+    "MyServiceNSW Account details"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "More information",
+      "url": "https://roadsafety.transport.nsw.gov.au/stayingsafe/mobilephones/know-the-rules.html"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Terms and Conditions for the NSW Digital Driver Licence",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-driver-licence-ddl-terms-and-conditions"
+    },
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Privacy and digital licences and credentials",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/privacy-and-digital-licences-and-credentials"
+    },
+    {
+      "text": "create a Police report online",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "text": "connect to the correct licence",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/adding-correct-nsw-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the NSW Digital Driver Licence free to use?",
+      "a": "The NSW Digital Driver Licence is optional and available at no additional cost.",
+      "link": null
+    },
+    {
+      "q": "How does the digital licence update?",
+      "a": "Updates are in real time, meaning you do not have to wait for a new plastic card to be posted when your licence is renewed or if you change your details.",
+      "link": null
+    },
+    {
+      "q": "How can I add my digital licence?",
+      "a": "Download the Service NSW app, log in with your MyServiceNSW Account details, select 'Wallet', tap 'Add', select 'Driver Licence', and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:16Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "be842c0e2d26ca92a759f41e434297f9a52c390a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

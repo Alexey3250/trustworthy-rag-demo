@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/personal-injury-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/personal-injury-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "personal-injury-commission",
+  "title": "Personal Injury Commission",
+  "summary": "This page provides information about the Personal Injury Commission (PIC), which helps people who have been injured.",
+  "topics": [
+    "personal-injury",
+    "compensation",
+    "claims",
+    "accidents"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.pi.nsw.gov.au/",
+      "url": "https://www.pi.nsw.gov.au/"
+    },
+    {
+      "text": "Lodge a dispute online",
+      "url": "https://www.pi.nsw.gov.au/lodge-a-dispute/applying-online"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.pi.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Personal Injury Commission?",
+      "a": "The Personal Injury Commission (PIC) provides information and services for people who have been injured.",
+      "link": null
+    },
+    {
+      "q": "How can I lodge a dispute?",
+      "a": "You can lodge a dispute online.",
+      "link": "https://www.pi.nsw.gov.au/lodge-a-dispute/applying-online"
+    },
+    {
+      "q": "Who can help me with personal injury claims?",
+      "a": "You can find contact information for the Personal Injury Commission.",
+      "link": "https://www.pi.nsw.gov.au/contact"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:57Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "339e83244f57e8224bf0256bf44da8488d685495",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

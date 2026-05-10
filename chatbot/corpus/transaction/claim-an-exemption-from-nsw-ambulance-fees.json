@@ -1,0 +1,169 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-an-exemption-from-nsw-ambulance-fees",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-an-exemption-from-nsw-ambulance-fees",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-an-exemption-from-nsw-ambulance-fees",
+  "title": "Claim an exemption from NSW ambulance fees",
+  "summary": "This page explains how to claim an exemption from NSW ambulance fees if you meet the required criteria.",
+  "topics": [
+    "ambulance-fees",
+    "nsw-ambulance",
+    "exemption",
+    "medical-services"
+  ],
+  "intro": "The cost of NSW ambulance services are not covered by Medicare. If you need to use an ambulance there is a fee attached, unless you meet the exemption criteria.\n\nNote: When you receive an invoice for your ambulance use, you claim your exemption via the Ambulance Service website's 'My Invoice' page, where you're able to:",
+  "who_can_apply": [
+    "Hold a concession card",
+    "Have private health fund",
+    "Meet other exemption criteria (visit the NSW Ambulance website)"
+  ],
+  "what_you_need": [
+    "Your payment reference number",
+    "The issue date",
+    "Your concession card, or other evidence of your exemption eligibility"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the exemption criteria.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Manage your invoice' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your payment reference number and the issue date.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Check the 'I'm not a robot' box.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Next'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts and provide your exemption details.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "call 1300 655 200, or",
+      "link": "tel:1300655200"
+    },
+    {
+      "n": 8,
+      "text": "write to:NSW AmbulanceLocked Bag 14Rozelle NSW 2039.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "believe you're entitled to an exemption",
+      "link": null
+    },
+    {
+      "text": "believe your fee has been inaccurately calculated",
+      "link": null
+    },
+    {
+      "text": "have arranged the ambulance service to help another person",
+      "link": null
+    },
+    {
+      "text": "be financially liable for a patient who has since died after receiving the service",
+      "link": null
+    },
+    {
+      "text": "be finding it difficult to pay the fee",
+      "link": null
+    },
+    {
+      "text": "have some other grounds under the NSW Ambulance Patient Payment (Fee) Review Operating Procedure – PDF.",
+      "link": "https://www.ambulance.nsw.gov.au/__data/assets/pdf_file/0007/555163/PRO2023-018-Patient-Payment-Fee-Review-Published-May-2023-15.12.24.pdf"
+    },
+    {
+      "text": "the fee being waived in full or in part",
+      "link": null
+    },
+    {
+      "text": "an instalment plan",
+      "link": null
+    },
+    {
+      "text": "an extension of payment plan",
+      "link": null
+    },
+    {
+      "text": "some other payment arrangement being put in place.",
+      "link": null
+    },
+    {
+      "text": "If you're having difficulty paying an invoice, or you wish to dispute the charge, you can apply for a fee review. For example, you may:",
+      "link": null
+    },
+    {
+      "text": "In cases of hardship, the review may result in one of the following:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "other exemptions",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees/exemptions-from-nsw-ambulance-fees"
+    },
+    {
+      "text": "fee review",
+      "url": "https://www.ambulance.nsw.gov.au/our-services/accounts-and-fees"
+    },
+    {
+      "text": "NSW Ambulance Patient Payment (Fee) Review Operating Procedure – PDF",
+      "url": "https://www.ambulance.nsw.gov.au/__data/assets/pdf_file/0007/555163/PRO2023-018-Patient-Payment-Fee-Review-Published-May-2023-15.12.24.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay your NSW ambulance fee",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-your-nsw-ambulance-fee"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are NSW ambulance services covered by Medicare?",
+      "a": "No, the cost of NSW ambulance services are not covered by Medicare. A fee is attached unless you meet an exemption criterion.",
+      "link": null
+    },
+    {
+      "q": "How do I claim an exemption from ambulance fees?",
+      "a": "When you receive an invoice, you claim your exemption via the Ambulance Service website's 'My Invoice' page.",
+      "link": null
+    },
+    {
+      "q": "What do I need to claim an exemption?",
+      "a": "You need your payment reference number, the issue date, and your concession card or other evidence of your exemption eligibility.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:15Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "b18131b84cee413695898f4404a9d8e812ec5284",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

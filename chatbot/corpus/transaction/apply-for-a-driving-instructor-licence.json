@@ -1,0 +1,180 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-driving-instructor-licence",
+  "title": "Apply for a driving instructor licence",
+  "summary": "This page provides information on how to apply for a driving instructor licence in New South Wales.",
+  "topics": [
+    "driving-instructor-licence",
+    "licence-requirements",
+    "transport-for-nsw"
+  ],
+  "intro": "Driving instructors teach another person to drive in return for money or reward.\n\nBefore you can get an instructor licence, Transport for NSW (TfNSW) needs to be assured that:\n\nOnce this is confirmed, you can apply online, and TfNSW will send you a 'Letter of Eligibility'.\n\nYou then need to enrol in a driving instructor training course with a recognised training provider. You have 6 months from your application date to complete the course.\n\nIf you need more than 6 months you'll have to lodge another application. You will not need to:\n\nunless they were undertaken more than 18 months prior.\n\nWhen you successfully complete the training course TfNSW will make their final determination as to your suitability to hold an instructor licence.",
+  "who_can_apply": [
+    "Be aged 21 or over.",
+    "Hold a current full (unrestricted) Australian driver licence.",
+    "Have held the equivalent class of unrestricted licence in which you want to instruct, for a minimum of 3 of the last 4 years.",
+    "Hold, or have evidence you are applying for, an employee WWCC number (if wanting to instruct Class C licence applicants).",
+    "Be a fit and proper person.",
+    "Have a safe driving record (parking offences excluded).",
+    "Be medically fit to drive."
+  ],
+  "what_you_need": [
+    "Evidence of your commercial medical assessment (PDF, from no more than 6 months prior).",
+    "Evidence of having successfully completed the training course at a service centre.",
+    "Your driver licence.",
+    "A secondary proof of identity document (if you hold an interstate driver licence).",
+    "A digital photo of yourself (if applying online).",
+    "2 passport size photos.",
+    "The PDF form: 'Application for Licence under Driving Instructors Act 1992' (https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check:",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required supporting documentation for uploading.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.Note: You cannot save and resume your application once you've started.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Check:",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Download and complete the Application for Licence under Driving Instructors Act 1992 – PDF.Note: Do not sign it – your signature must be witnessed at the service centre.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    },
+    {
+      "n": 7,
+      "text": "Gather the required supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Fees are payable for the:",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-test-fees"
+    },
+    {
+      "text": "You can apply for more than one driving instructor licence type (car, light rigid, heavy rigid, etc), as long as you've held an unrestricted equivalent class of licence for at least 3 of the last 4 years.",
+      "link": null
+    },
+    {
+      "text": "Heavy vehicle driving instructors will not need a WWCC if their instructor licence is to be endorsed with the condition 'May not instruct C licences'.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fit and proper person – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/driving-instructors-and-assessors-fit-and-proper-policy-pn295.pdf"
+    },
+    {
+      "text": "commercial medical assessment – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065806-medical-assessment-for-driving-instructors.pdf"
+    },
+    {
+      "text": "secondary proof of identity document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#toc-secondary-identification-documents---list-2"
+    },
+    {
+      "text": "Application for Licence under Driving Instructors Act 1992 – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    },
+    {
+      "text": "Fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "recognised training provider",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#recognised-training-providers"
+    },
+    {
+      "text": "successfully complete the training course",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#on-completion-of-the-instructor-training-course"
+    },
+    {
+      "text": "WWCC",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "digital photo of yourself",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#photographs"
+    },
+    {
+      "text": "Browser requirements",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#browser-requirements"
+    },
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a NSW driving instructor licence under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-driving-instructor-licence-under-mutual-recognition"
+    },
+    {
+      "text": "Apply for a replacement driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-replacement-driving-instructor-licence"
+    },
+    {
+      "text": "Apply for a restricted driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-restricted-driving-instructor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to complete the training course after applying?",
+      "a": "You have 6 months from your application date to complete the training course.",
+      "link": null
+    },
+    {
+      "q": "What is required to be eligible for a driving instructor licence?",
+      "a": "You must be aged 21 or over, hold a current full (unrestricted) Australian driver licence, and have held the equivalent class of unrestricted licence in which you want to instruct, for a minimum of 3 of the last 4 years.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for the licence?",
+      "a": "You need evidence of your commercial medical assessment (from no more than 6 months prior), your driver licence, a secondary proof of identity document (if interstate), 2 passport size photos, the PDF form 'Application for Licence under Driving Instructors Act 1992', and potentially supporting documents depending on your application method.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:24Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "75a935db7a142058ec1f55e34b4f99f3524bf528",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

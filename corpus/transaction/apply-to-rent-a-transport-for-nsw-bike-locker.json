@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-rent-a-transport-for-nsw-bike-locker",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-rent-a-transport-for-nsw-bike-locker",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-rent-a-transport-for-nsw-bike-locker",
+  "title": "Apply to rent a Transport for NSW bike locker",
+  "summary": "You can apply online to rent a bike locker at a public transport hub to protect your bike and equipment.",
+  "topics": [
+    "bike-locker",
+    "transport-for-nsw",
+    "public-transport",
+    "bike-storage"
+  ],
+  "intro": "If you ride your push bike to a public transport hub/interchange, and then catch the train, bus or ferry, you can rent a bike locker to protect your bike and bike equipment from bad weather, theft and vandalism. There are over 950 bike lockers across the public transport network and you can apply to rent one, online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your name and contact details",
+    "a user name and suitable password",
+    "your credit card"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the User registration form, or select the 'Login' tab if you already have an account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Under Bike Lockers, search for your bike locker location.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select your locker and your rental period (3, 6, 9 or 12 months).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you no longer require the locker, log in to your account and terminate your locker hire. Any remaining hire period will be refunded to you minus a 2-month withholding fee as per the bike locker terms and conditions.",
+      "link": null
+    },
+    {
+      "text": "Only store your bike and bike equipment in the locker, and keep it clean and clear of rubbish.",
+      "link": null
+    },
+    {
+      "text": "TfNSW can open your locker to inspect and maintain it at any time.",
+      "link": null
+    },
+    {
+      "text": "Always keep your locker locked, and ensure it locks securely. TfNSW is not liable for any loss or damage to property stored in the locker, so report any locking mechanism faults to TfNSW immediately.",
+      "link": null
+    },
+    {
+      "text": "Don't let anyone else use your locker without written permission from TfNSW.",
+      "link": null
+    },
+    {
+      "text": "You can renew your rental for a further 3, 6, 9, or 12 months as often as you like, by signing in with your user name and password.",
+      "link": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/security/login.xhtml"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "signing in",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/security/login.xhtml"
+    },
+    {
+      "text": "Bike sheds and lockers",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/home.xhtml"
+    },
+    {
+      "text": "Bike parking locations",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/findBikeParking.xhtml"
+    },
+    {
+      "text": "Bike locker FAQs",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/faq.xhtml"
+    },
+    {
+      "text": "Bike locker hire – Terms and Conditions",
+      "url": "https://bikelocker.transport.nsw.gov.au/bike-locker-terms-and-conditions-of-hire"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to access a Transport for NSW bike shed",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-access-a-transport-for-nsw-bike-shed"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:32Z",
+    "last_modified": "28 October 2025",
+    "html_sha1": "c1ea449554f628de2224fb748d9c37309d230d31",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

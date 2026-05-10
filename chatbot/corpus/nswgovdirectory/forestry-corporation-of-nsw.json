@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/forestry-corporation-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/forestry-corporation-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "forestry-corporation-of-nsw",
+  "title": "Forestry Corporation of NSW",
+  "summary": "This page provides information about the Forestry Corporation of NSW, including details on permits, visiting state forests, and sustainability initiatives.",
+  "topics": [
+    "forestry",
+    "nsw",
+    "state-forests",
+    "permits",
+    "sustainability"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.forestrycorporation.com.au/",
+      "url": "https://www.forestrycorporation.com.au/"
+    },
+    {
+      "text": "Find Forestry Corporation offices in NSW",
+      "url": "https://www.forestrycorporation.com.au/about/contact-us"
+    },
+    {
+      "text": "Permits for activities in State Forests – Forestry Corporation of NSW",
+      "url": "https://www.forestrycorporation.com.au/about/permits2"
+    },
+    {
+      "text": "Visiting NSW state forests – Forestry Corporation of NSW",
+      "url": "https://www.forestrycorporation.com.au/visit"
+    },
+    {
+      "text": "Volunteer programs – Forestry Corporation of NSW",
+      "url": "https://www.forestrycorporation.com.au/about/volunteers"
+    },
+    {
+      "text": "Forests and carbon – Forestry Corporation of NSW",
+      "url": "https://www.forestrycorporation.com.au/sustainability/carbon-and-forests"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Apply for a firewood permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firewood-permit"
+    },
+    {
+      "text": "Apply for a permit to fossick in a NSW state forest",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find the Forestry Corporation of NSW?",
+      "a": "You can find the Forestry Corporation of NSW at https://www.forestrycorporation.com.au/",
+      "link": "https://www.forestrycorporation.com.au/"
+    },
+    {
+      "q": "How do I apply for a permit to fossick in a NSW state forest?",
+      "a": "You can apply for a permit to fossick in a NSW state forest via the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest"
+    },
+    {
+      "q": "What information is available about visiting NSW state forests?",
+      "a": "Information on visiting NSW state forests is available through the Forestry Corporation of NSW website.",
+      "link": "https://www.forestrycorporation.com.au/visit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:16Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "1d4825452b2de1157ec13c12f2de5f8ea4ee886a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

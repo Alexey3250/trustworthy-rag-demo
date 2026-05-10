@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/seniors-energy-rebate",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/seniors-energy-rebate",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "seniors-energy-rebate",
+  "title": "Seniors Energy Rebate – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects, uses, and discloses your personal information when you apply for the Seniors Energy Rebate.",
+  "topics": [
+    "privacy",
+    "seniors-rebate",
+    "energy-bill",
+    "personal-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "MyServiceNSW Account details (email address, full name, date of birth, and contact details: residential address and mobile number)",
+    "Proof of identity document details (e.g., NSW driver licence and Medicare card details)",
+    "Commonwealth Seniors Health Card details",
+    "Electricity retailer name",
+    "A copy of your most recent electricity bill issued on or after 1 July in the current financial year",
+    "National Metering Identifier (NMI) (if you have one)",
+    "Bank account details",
+    "A completed ‘Service NSW Letter of Authority’ (if applying for someone else)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "you can access and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "to make a privacy enquiry or complaint",
+      "link": null
+    },
+    {
+      "text": "information is securely stored and",
+      "link": null
+    },
+    {
+      "text": "to contact us.",
+      "link": null
+    },
+    {
+      "text": "Please visit our privacy statement for more information about how Service NSW handles your personal information. This includes how:",
+      "link": null
+    },
+    {
+      "text": "Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    },
+    {
+      "text": "For more information about privacy at DCCEEW, please contact: Information Access & Privacy Unit, Locked Bag 5022, 4 Parramatta Square, Parramatta NSW 2124Phone: 02 8275 1095Email: privacy.dcceew@environment.nsw.gov.au",
+      "link": null
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/seniors-energy-rebate"
+    },
+    {
+      "text": "Savings Finder",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Apply for the Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/seniors-energy-rebate"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected when I apply for the Seniors Energy Rebate?",
+      "a": "Information collected includes your MyServiceNSW Account details (email, full name, date of birth, contact details), proof of identity (like your NSW driver licence or Medicare card), Commonwealth Seniors Health Card details, your electricity retailer name, a copy of your most recent electricity bill (issued on or after 1 July in the current financial year), your National Metering Identifier (NMI) (if applicable), bank account details, and a completed ‘Service NSW Letter of Authority’ if applying for someone else.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "The information will be used to assess your eligibility for the Rebate, verify your identity documents (with the Document Verification Service), verify your Commonwealth Seniors Health Card (with Services Australia and/or the Department of Veterans’ Affairs via Centrelink Confirmation eServices), process payments if successful, and for auditing and compliance activities.",
+      "link": null
+    },
+    {
+      "q": "Will my information be shared with other parties?",
+      "a": "Yes. Service NSW may share your personal details and energy account details (including NMI) with your energy retailer to verify your eligibility. They may also share information with Services Australia and/or the Department of Veterans’ Affairs to verify your Commonwealth Seniors Health Card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:34Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "add3255be73ee9bb0b2c38d6a699bf0aed74febd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

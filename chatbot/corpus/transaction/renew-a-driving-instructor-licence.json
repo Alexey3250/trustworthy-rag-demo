@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-driving-instructor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-driving-instructor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-driving-instructor-licence",
+  "title": "Renew a driving instructor licence",
+  "summary": "This page provides information on how to renew a driving instructor licence, depending on how long ago your licence expired.",
+  "topics": [
+    "driving-instructor-licence",
+    "renew-licence",
+    "nsw-service"
+  ],
+  "intro": "Driving instructor licences expire after 5 years. A renewal notice will be posted to you 2 months before your licence expiry date.\n\nYou are unable to renew your driving instructor licence more than 2 months before its expiry date.\n\nHow you renew your driving instructor licence will depend on how long ago the licence expired.",
+  "who_can_apply": [
+    "If your licence expired within the last 90 days, you are eligible to renew online.",
+    "If your licence expired between 90 days and 2 years ago, you are not eligible to renew and must submit an application for a new licence.",
+    "If your licence expired more than 2 years ago, you are not eligible to renew and must submit an application for a new licence.",
+    "If your licence expired more than 90 days ago, you must apply for a driving instructor licence."
+  ],
+  "what_you_need": [
+    "Paid the non-refundable fee for the issue of a 5-year driving instructor licence.",
+    "Successfully completed the instructor knowledge test for the class of licence you wish to instruct (the test is in English and interpreter assistance is not permitted).",
+    "Your driver licence.",
+    "Your driving instructor licence.",
+    "Your current NSW employee Working With Children Check (WWCC) number (Class C and R applicants only).",
+    "A digital photo of yourself.",
+    "Scanned PDF copies of your driver licence and traffic record details from an Interstate Licensing Authority (if applicable).",
+    "If your licence expired between 90 days and 2 years ago, you need to provide a commercial medical assessment – PDF no more than 6 months old (https://tfnswforms.transport.nsw.gov.au/45065806-medical-assessment-for-driving-instructors.pdf).",
+    "If your licence expired more than 2 years ago, you must submit a new application for a driving instructor licence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the What you need section.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Renew online' button.Note: You cannot save and resume your renewal application once you've started.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your renewal application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "non-refundable fee",
+      "url": "https://ablis.business.gov.au/service/nsw/driving-instructor-licence/16597"
+    },
+    {
+      "text": "commercial medical assessment – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065806-medical-assessment-for-driving-instructors.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "digital photo of yourself",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#photographs"
+    },
+    {
+      "text": "scanned PDF copies of your driver licence and traffic record details",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#application-process"
+    },
+    {
+      "text": "Apply for a driving instructor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence"
+    },
+    {
+      "text": "Browser requirements",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#browser-requirements"
+    },
+    {
+      "text": "Apply for a NSW driving instructor licence under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-driving-instructor-licence-under-mutual-recognition"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance can I renew my driving instructor licence?",
+      "a": "You cannot renew your driving instructor licence more than 2 months before its expiry date.",
+      "link": null
+    },
+    {
+      "q": "If my licence expired more than 90 days ago, can I still renew it?",
+      "a": "Applications for licences that expired more than 90 days ago are no longer considered renewals. You need to submit a new driving instructor licence application.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence"
+    },
+    {
+      "q": "What do I need to renew my licence online?",
+      "a": "You must have paid the non-refundable fee for the issue of a 5-year driving instructor licence, successfully completed the instructor knowledge test, and gathered required documents like your driver licence and WWCC number (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:26Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "d6c70f84d77d584c8cd4588bceb35e9165d553cb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

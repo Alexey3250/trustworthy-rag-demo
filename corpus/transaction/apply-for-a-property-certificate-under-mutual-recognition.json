@@ -1,0 +1,143 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-under-mutual-recognition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-certificate-under-mutual-recognition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-property-certificate-under-mutual-recognition",
+  "title": "Apply for a property certificate under mutual recognition",
+  "summary": "You can apply for an equivalent property certificate in NSW if you hold a property certificate from another Australian state, territory, or New Zealand.",
+  "topics": [
+    "property-certificate",
+    "mutual-recognition",
+    "property-agent",
+    "nsw-licence"
+  ],
+  "intro": "If you hold an interstate property certificate, you may be eligible to apply for the equivalent in NSW.\n\nA property certificate of registration lets you work as an assistant agent in:\n\nApplications can be lodged online or at a Service NSW Centre.",
+  "who_can_apply": [
+    "Hold a current and equivalent certificate of registration in another Australian state/territory or New Zealand.",
+    "Have your principal place of business in NSW or within 50 kilometres of the NSW border."
+  ],
+  "what_you_need": [
+    "Two proof of identity documents (such as Australian driver licence, Medicare card, passport).",
+    "The required forms (e.g., Notice for Registration of Equivalent Occupation – PDF, Application for Certificate of Registration – PDF).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap5210.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Gather original copies of the required supporting documents, as indicated on the form.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Visit a service centre to submit your application and payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "apply for an individual property licence to continue working in the real estate and property industry",
+      "link": null
+    },
+    {
+      "text": "check the continuing professional development (CPD) requirements for your certificate.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent/continuing-professional-development"
+    },
+    {
+      "text": "A certificate of registration is only issued for 4 years and cannot be renewed. During this time, you’ll need to:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Notice for Registration of Equivalent Occupation – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap5210.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Application for Certificate of Registration – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4337.pdf"
+    },
+    {
+      "text": "continuing professional development (CPD) requirements",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals/working-as-an-agent/continuing-professional-development"
+    },
+    {
+      "text": "Notice for Registration of Equivalent Occupation – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747a.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a property certificate of registration?",
+      "a": "A property certificate of registration allows you to work as an assistant agent.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for the property certificate?",
+      "a": "Applications can be lodged online or at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need two proof of identity documents (such as Australian driver licence, Medicare card, passport), the required forms, and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:12Z",
+    "last_modified": "10 September 2024",
+    "html_sha1": "47e4c30942c1dbcdef566de7f1e241eab187363e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

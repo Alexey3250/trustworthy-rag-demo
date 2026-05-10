@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/walgett-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/walgett-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "walgett-service-centre",
+  "title": "Walgett Service Centre",
+  "summary": "This page provides information about the Walgett Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "walgett"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-30.023384,148.116997"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Lightning Ridge Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/lightning-ridge-service-centre"
+    },
+    {
+      "text": "Coonamble Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/coonamble-agency"
+    },
+    {
+      "text": "Brewarrina Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/brewarrina-agency"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Walgett Service Centre?",
+      "a": "You can pay with cash, EFTPOS, credit, or debit card.",
+      "link": null
+    },
+    {
+      "q": "Is the Walgett Service Centre accessible?",
+      "a": "The centre offers wheelchair access, entry at street level, and street parking.",
+      "link": null
+    },
+    {
+      "q": "Where can I find other Service NSW locations near Walgett?",
+      "a": "Other nearby locations include the Lightning Ridge Service Centre, Coonamble Agency, and Brewarrina Agency.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:12Z",
+    "last_modified": null,
+    "html_sha1": "e582f4e9a68598ac2476636598ab660a6effb23c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

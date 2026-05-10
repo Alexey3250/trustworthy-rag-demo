@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-tradesperson-certificate",
+  "title": "Replace a tradesperson certificate",
+  "summary": "You can apply for a replacement tradesperson certificate if your current certificate is damaged, lost, or stolen, by visiting a Service NSW Centre.",
+  "topics": [
+    "tradesperson-certificate",
+    "replace-certificate",
+    "service-nsw"
+  ],
+  "intro": "If you have a tradesperson certificate, but it's been damaged, lost or stolen, you can apply for a replacement at a Service NSW Centre.",
+  "who_can_apply": [
+    "You have a tradesperson certificate that is damaged, lost, or stolen."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for duplicate licence, certificate or permit'",
+    "Your personal details and certificate number",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and submit it with your payment at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Add your digital tradesperson certificate to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Change the details on a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-tradesperson-certificate"
+    },
+    {
+      "text": "Renew or restore a tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to replace my tradesperson certificate?",
+      "a": "You need the PDF form, 'Application for duplicate licence, certificate or permit', your personal details and certificate number, and payment.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for a replacement certificate?",
+      "a": "You must apply for a replacement at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:21Z",
+    "last_modified": "23 September 2025",
+    "html_sha1": "aea8942cb1d9ca108c9463720d768e7e8c2977e8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

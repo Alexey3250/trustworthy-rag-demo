@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-venue",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-venue",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-licensed-venue",
+  "title": "Find a licensed venue",
+  "summary": "You can look up the liquor licence details of a venue in NSW online.",
+  "topics": [
+    "liquor-licence",
+    "venue-details",
+    "nsw-business"
+  ],
+  "intro": "If you'd like to look up the liquor licence details of a venue in NSW, you can do so online.\n\nYou can access the following licence details:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee or venue name",
+    "licence number",
+    "licence type",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "venue location (suburb, postcode or local government area)",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Find online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:17Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "205c69ba149ef3bae0ed0dc92a9ad1ad86b630e6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

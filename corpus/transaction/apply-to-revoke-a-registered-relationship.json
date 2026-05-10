@@ -1,0 +1,142 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-revoke-a-registered-relationship",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-revoke-a-registered-relationship",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-revoke-a-registered-relationship",
+  "title": "Apply to revoke a registered relationship",
+  "summary": "Learn how to apply to remove a registered relationship from the NSW relationship register.",
+  "topics": [
+    "relationship-register",
+    "revoke-relationship",
+    "de-facto-partners",
+    "service-nsw"
+  ],
+  "intro": "The NSW relationship register provides legal recognition for de facto partners.\n\nIf your relationship is on the register and you want it removed, you can lodge an application by mail, or in person at a Service NSW Centre.\n\nNote: If the parties currently in a registered relationship get married to each other, then the marriage supersedes the relationship. In this instance, the relationship does not need to be revoked.",
+  "who_can_apply": [
+    "Only the parties to a registered relationship can apply to revoke the relationship.",
+    "One or both of the parties may apply.",
+    "If only one party applies, they must serve notice of the application on the other party and lodge proof of the notice.",
+    "One or both parties may apply to withdraw the application within 90 days of making the application."
+  ],
+  "what_you_need": [
+    "Your personal and contact details.",
+    "The PDF form 'Revoke a registered relationship', which includes the following pages: 4 certified copies of personal identity documents as specified on the form, and your payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the relevant pages of the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Deliver, post or email a copy of your Service of Revocation Statement to the other registered person in the relationship (if applicable).",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a service centre and lodge your application in person, or post it to the address on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Certified copies must be verified as true and correct copies of the originals by one of the following:",
+      "link": null
+    },
+    {
+      "text": "A non-refundable fee is payable when you submit your application.",
+      "link": "https://www.nsw.gov.au/family-and-relationships/relationship-register"
+    },
+    {
+      "text": "You can also order a certificate which confirms the relationship is revoked (additional fees apply).",
+      "link": null
+    },
+    {
+      "text": "Certificates are sent via registered post. They cannot be collected at a service centre.",
+      "link": null
+    },
+    {
+      "text": "If one party of a registered relationship wishes to enter into a new relationship with another person, they will first need to revoke their previous relationship.",
+      "link": null
+    },
+    {
+      "text": "A cooling-off period of 90 days applies before the registration is revoked by the Registrar.",
+      "link": null
+    },
+    {
+      "text": "The registration of a relationship is automatically revoked by the death of a party to the relationship or on the marriage of a person in the relationship.",
+      "link": null
+    },
+    {
+      "text": "A court may make an order declaring the registration of a relationship void.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/family-and-relationships/relationship-register"
+    },
+    {
+      "text": "Revoke a registered relationship – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-12/apply-for-relationship-revoke.pdf"
+    },
+    {
+      "text": "Form 65: Letter of authority giving permission to apply for a certificate – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-letter-of-authority.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Withdraw an application to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-an-application-to-revoke-a-registered-relationship"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply to revoke a registered relationship?",
+      "a": "Only the parties who are currently in the registered relationship can apply to revoke it. One or both parties may apply.",
+      "link": null
+    },
+    {
+      "q": "What happens if the parties get married?",
+      "a": "If the parties in the registered relationship get married to each other, the marriage supersedes the relationship, and revocation is not necessary.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to revoke the relationship?",
+      "a": "You can lodge an application by mail or in person at a Service NSW Centre. Steps include completing the form, serving notice on the other party (if applicable), and submitting the application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:08Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "ac32e78c5a38d14cccdf3de6bd05341392d2b161",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual",
+  "source_url": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "real-estate-property-licence-individual",
+  "title": "Individual property licence",
+  "summary": "Find information and apply for an individual property licence in New South Wales.",
+  "topics": [
+    "property-licence",
+    "real-estate",
+    "individual-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Corporation property licence",
+      "link": "https://www.service.nsw.gov.au/services/corporation-property-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for or upgrade an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-or-upgrade-an-individual-property-licence"
+    },
+    {
+      "text": "Add or remove a category on an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-an-individual-property-licence"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Renew or restore an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-individual-property-licence"
+    },
+    {
+      "text": "Replace an individual property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-individual-property-licence"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Apply for a property licence under mutual recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-property-licence-under-mutual-recognition"
+    },
+    {
+      "text": "Corporation property licence",
+      "url": "https://www.service.nsw.gov.au/services/corporation-property-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:06Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "609be694686b3bfe9531f65ef67d47d5780b7b94",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

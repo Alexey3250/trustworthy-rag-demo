@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-equipment-repairs-and-re-order-consumables-from-enablensw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-equipment-repairs-and-re-order-consumables-from-enablensw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-equipment-repairs-and-re-order-consumables-from-enablensw",
+  "title": "Request equipment repairs and re-order consumables from EnableNSW",
+  "summary": "This page explains how to request repairs for EnableNSW equipment or re-order consumables like continence, Home Enteral Nutrition, or respiratory products.",
+  "topics": [
+    "equipment-repairs",
+    "consumables",
+    "enablensw",
+    "medical-supplies"
+  ],
+  "intro": "If the equipment provided to you by EnableNSW needs repairing, or you need to re-order continence, Home Enteral Nutrition or respiratory consumable products, you can do this by email or phone, as long as:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your full name",
+    "Date of birth",
+    "Residential address",
+    "Best contact number",
+    "The equipment that needs repairing or the consumable items you want to reorder"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Email the details to enable@health.nsw.gov.au or call 1800 362 253 and select the appropriate option.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Applying for EnableNSW – NSW Health",
+      "url": "https://enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW"
+    },
+    {
+      "text": "Forms and funding criteria by program – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/prescribers/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I request repairs or re-order consumables?",
+      "a": "You can request repairs or re-order consumables by emailing enable@health.nsw.gov.au or calling 1800 362 253 and selecting the appropriate option.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to provide?",
+      "a": "You need to provide your full name, date of birth, residential address, best contact number, and details of the equipment needing repair or the consumable items you want to reorder.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "d0114cf42fe17cb36eeadb61bae884d176189c80",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

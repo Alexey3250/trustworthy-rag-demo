@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/withdraw-your-application-to-register-your-relationship",
+  "source_url": "https://www.service.nsw.gov.au/transaction/withdraw-your-application-to-register-your-relationship",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "withdraw-your-application-to-register-your-relationship",
+  "title": "Withdraw your application to register your relationship",
+  "summary": "This page explains how to withdraw an application to register a relationship with the NSW Registry of Births, Deaths and Marriages.",
+  "topics": [
+    "register-relationship",
+    "withdraw-application",
+    "nsw-registry"
+  ],
+  "intro": "Couples who are in a relationship, but not married, can apply to register a relationship with NSW Registry of Births, Deaths and Marriages.\n\nYou or the other adult can withdraw the application, however, you will need to do this within 28 days of applying.\n\n### Fees\n\nThere is no fee to withdraw an application.\n\nNote: the original application fee is non-refundable.",
+  "who_can_apply": [
+    "Couples who have applied to register a relationship with NSW Registry of Births, Deaths and Marriages."
+  ],
+  "what_you_need": [
+    "Original proof of identity documents",
+    "Copies of your proof of identity documents",
+    "Withdraw a relationship registration application form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Bring your original proof of identity documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit your withdraw a relationship registration application form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "Make copies of your proof of identity documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Post your application form and proof of identity copies to the address on the form.Note: do not send original documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For detailed information visit the Relationship Register page.\n\nIf you have questions visit the NSW Registry of Births, Deaths and Marriages Contact us page.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Withdraw a relationship registration application",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-11/bdm-withdraw-a-relationship-registration-application-form.pdf"
+    },
+    {
+      "text": "Relationship Register",
+      "url": "https://www.nsw.gov.au/family-and-relationships/relationship-register"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/contact-registry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to register a relationship in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    },
+    {
+      "text": "Apply for a registered relationship certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-registered-relationship-certificate"
+    },
+    {
+      "text": "Apply to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-revoke-a-registered-relationship"
+    },
+    {
+      "text": "Withdraw an application to revoke a registered relationship",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-an-application-to-revoke-a-registered-relationship"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to withdraw my application?",
+      "a": "You must withdraw the application within 28 days of applying.",
+      "link": null
+    },
+    {
+      "q": "Are there any fees to withdraw the application?",
+      "a": "There is no fee to withdraw an application, but the original application fee is non-refundable.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do to withdraw my application?",
+      "a": "You can either visit a service centre or post your application form and copies of your proof of identity documents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:07Z",
+    "last_modified": "15 December 2025",
+    "html_sha1": "7bfd3a9155f2bc7e9213ed14fa38fd2dd40c8a48",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

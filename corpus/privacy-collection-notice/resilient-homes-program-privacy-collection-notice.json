@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/resilient-homes-program-privacy-collection-notice",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/resilient-homes-program-privacy-collection-notice",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "resilient-homes-program-privacy-collection-notice",
+  "title": "Resilient Homes Program – Privacy Collection Notice",
+  "summary": "This notice explains how the NSW Reconstruction Authority collects, uses, and shares personal information for the Resilient Homes Program.",
+  "topics": [
+    "nsw-reconstruction-authority",
+    "resilient-homes-program",
+    "privacy-notice",
+    "flood-resilience"
+  ],
+  "intro": "The NSW Reconstruction Authority (RA) is delivering the Resilient Homes Program (the Program) for NSW and Australian Governments. The Program provides assistance to home owners to improve the flood-resilience of properties in the Northern Rivers by providing:",
+  "who_can_apply": [
+    "Home owners in the Northern Rivers who need assistance to improve the flood-resilience of their properties."
+  ],
+  "what_you_need": [
+    "Full name",
+    "Contact details (email, phone number, and address)",
+    "The address of any property impacted by the disaster",
+    "Information on whether your home or other property has been impacted by the disaster",
+    "Consent from a third party if you are completing the form on their behalf",
+    "Any personal information required to complete any forms for the Program",
+    "Details on whether the residence is registered under the Disaster Relief Structural Repair Grant",
+    "Details on whether the residence is registered under the Flood Property Assessment Program"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Resilient Homes Program?",
+      "a": "The Program provides assistance to home owners to improve the flood-resilience of properties in the Northern Rivers.",
+      "link": null
+    },
+    {
+      "q": "Why is my information collected?",
+      "a": "Information is collected to help complete Program application forms, submit additional requested information, and allow the RA to consider, decide on, and administer the Program.",
+      "link": null
+    },
+    {
+      "q": "Who will receive my personal information?",
+      "a": "The personal information may be provided to the RA, NSW and Commonwealth government agencies, councils, and contractors who work with the RA, such as the Commonwealth National Emergency Management Agency, NSW Public Works, independent valuers, and building contractors.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:16Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "97981d285b30b54a3b687bbc245ffac8c5ba1701",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

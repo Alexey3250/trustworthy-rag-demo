@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-a-vessel-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-a-vessel-registration",
+  "title": "Transfer a vessel registration",
+  "summary": "Learn how to transfer a vessel registration into your name after purchasing a vessel.",
+  "topics": [
+    "vessel-registration",
+    "transfer-vessel",
+    "boating",
+    "nsw-service"
+  ],
+  "intro": "When you buy a vessel, you need to transfer its registration into your name within 14 days of the date of purchase.\n\nIf the registered vessel owner has died, see Transfer a vessel registration due to the death of the registered operator.",
+  "who_can_apply": [
+    "You must have purchased a vessel and need to transfer its registration into your name."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Certificate of registration",
+    "If the certificate lacks a HIN on the front, a HIN (Boatcode) certificate is required (find a boatcode agent to get the vessel inspected)",
+    "Your payment",
+    "A completed Application for Transfer of Vessel Registration – PDF",
+    "Supporting documents to prove acquisition of the vessel",
+    "If the registration certificate sections are incomplete, additional supporting documents are needed."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Book an appointment' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to make an appointment at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge your transfer documentation in person at your selected service centre.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Hull Identification Number (HIN)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions"
+    },
+    {
+      "text": "Application for Transfer of Vessel Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072015-application-transfer-vessel-registration.pdf"
+    },
+    {
+      "text": "prove acquisition of the vessel",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/how-to-register#toc-provide-proof-of-purchase"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transfer a vessel registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator"
+    },
+    {
+      "text": "find a boatcode agent",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-boatcode-agent"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Submit a notice of disposal for a vessel",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-notice-disposal-vessel"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the timeframe for transferring a vessel registration?",
+      "a": "You must transfer the registration into your name within 14 days of the date of purchase.",
+      "link": null
+    },
+    {
+      "q": "What should I do if the registered owner has died?",
+      "a": "See the section on Transfer a vessel registration due to the death of the registered operator.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator"
+    },
+    {
+      "q": "What documents do I need to transfer the registration?",
+      "a": "You need your proof of identity, the certificate of registration, your payment, a completed Application for Transfer of Vessel Registration – PDF, supporting documents to prove acquisition of the vessel, and potentially a HIN (Boatcode) certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:49Z",
+    "last_modified": "28 October 2025",
+    "html_sha1": "e8c2c7bdf07b450388c0dda2d68b90c58e775fdf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

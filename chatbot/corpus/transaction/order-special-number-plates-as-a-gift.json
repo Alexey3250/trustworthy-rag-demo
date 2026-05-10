@@ -1,0 +1,125 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-special-number-plates-as-a-gift",
+  "title": "Order special number plates as a gift",
+  "summary": "You can order special number plates for someone else as a gift, with options including background colour, letters, numbers, and plate style.",
+  "topics": [
+    "number-plates",
+    "gifts",
+    "vehicle-registration"
+  ],
+  "intro": "You can order special number plates for someone else as a gift. There are a variety of plates you can order, with options such as background colour, letters, numbers and style of plate.\n\nOptions include:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Recipient's name",
+    "Recipient's driver licence number, number plate details, or customer number (if a business)",
+    "Proposed content of the number plates (if applicable)",
+    "Style of special number plates (SNPs) you want to order (options are available on the myPlates website)",
+    "Postcode of the suburb where you'd like to collect the plates",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required information and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "To order the plates:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You need to order the SNPs in the name of the person they’re intended for, so make sure the person receiving the gift plates doesn't object to you providing their details.",
+      "link": null
+    },
+    {
+      "text": "You can nominate yourself to receive notification that the new plates are ready for collection.",
+      "link": null
+    },
+    {
+      "text": "The gift recipient will need to collect the new plates from the nominated service centre, unless they provide a letter authorising you to collect the plates on their behalf.",
+      "link": null
+    },
+    {
+      "text": "The old plates need to be handed in when picking up the new plates.",
+      "link": null
+    },
+    {
+      "text": "The plates are delivered to the nominated service centre about 21 days from the date of purchase.",
+      "link": null
+    },
+    {
+      "text": "If you have not received a letter within 28 days of placing your order, please call myPlates on 02 9433 1600.",
+      "link": "tel:0294331600"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "myPlates website",
+      "url": "https://www.myplates.com.au"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "some service centres do not accept cash",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew the storage/hold period of number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates"
+    },
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information do I need to order special number plates?",
+      "a": "You need the recipient's name, their driver licence number, number plate details, or customer number (if a business), the proposed content of the number plates, the style of special number plates (SNPs) you want to order, the postcode of the suburb where you want to collect the plates, and your payment.",
+      "link": null
+    },
+    {
+      "q": "How do I order special number plates?",
+      "a": "First, gather the required information and documents. Then, you can order the plates at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "Are there fees for special number plates?",
+      "a": "Personalised or custom plates incur an annual fee. However, restyling a standard issue plate or restyling a plate for a recipient who does not currently pay an annual fee will not incur an annual fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:47Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "d4819f012b650d2746cfd9cc0bce4b2f92f3bdc7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

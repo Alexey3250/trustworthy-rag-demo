@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-commercial-mooring-licence",
+  "title": "Replace a commercial mooring licence",
+  "summary": "You can order a replacement for a lost, damaged, or destroyed commercial mooring licence certificate at a Service NSW Centre or by post.",
+  "topics": [
+    "mooring-licence",
+    "commercial-licence",
+    "service-nsw",
+    "replacement-certificate"
+  ],
+  "intro": "If your commercial mooring licence certificate is lost, damaged or destroyed, you can order a replacement at a Service NSW Centre, or by post.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: Application for Maritime Replacement Products",
+    "Proof of identity",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Make sure that you have all the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application in person, or post it using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Application for Maritime Replacement Products",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072012-application-maritime-replacement-products.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get a replacement commercial mooring licence?",
+      "a": "You can order a replacement licence certificate if your original is lost, damaged, or destroyed. You can do this at a Service NSW Centre or by post.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to replace my licence?",
+      "a": "You need the 'Application for Maritime Replacement Products' form, proof of identity, and payment for the fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:18Z",
+    "last_modified": "18 November 2025",
+    "html_sha1": "da69c3f9b947c18ed58e206bd923d0f2f87f5348",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card",
+  "source_url": "https://www.service.nsw.gov.au/nsw-digital-photo-card",
+  "category": "nsw-digital-photo-card",
+  "article_kind": "landing-page",
+  "slug": "nsw-digital-photo-card",
+  "title": "NSW Digital Photo Card",
+  "summary": "This page provides information about the NSW Digital Photo Card, which is a digital version of your physical photo card.",
+  "topics": [
+    "nsw-digital-photo-card",
+    "photo-card",
+    "identification",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "eligible postcodes",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/participating-postcodes-and-suburbs"
+    },
+    {
+      "text": "Learn more",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-holders"
+    },
+    {
+      "text": "Get started",
+      "url": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-checkers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Digital Photo Card?",
+      "a": "The NSW Digital Photo Card is a digital version of your physical photo card, allowing you to access your card details and photo digitally.",
+      "link": null
+    },
+    {
+      "q": "How do I get started with the NSW Digital Photo Card?",
+      "a": "You can get started by visiting the 'Get started' page.",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-photo-card/card-checkers"
+    },
+    {
+      "q": "Where can I check if my postcode is participating?",
+      "a": "You can check if your postcode is participating by visiting the 'eligible postcodes' page.",
+      "link": "https://www.service.nsw.gov.au/nsw-digital-photo-card/participating-postcodes-and-suburbs"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:47Z",
+    "last_modified": "24 February 2026",
+    "html_sha1": "fbf2460f8cbb9dfed9f55c7f471b76d0bd67e20e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

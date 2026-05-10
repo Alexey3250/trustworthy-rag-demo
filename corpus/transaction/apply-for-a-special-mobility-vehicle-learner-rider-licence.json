@@ -1,0 +1,123 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-special-mobility-vehicle-learner-rider-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-special-mobility-vehicle-learner-rider-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-special-mobility-vehicle-learner-rider-licence",
+  "title": "Apply for a Special Mobility Vehicle learner rider licence",
+  "summary": "This page explains how to apply for a Special Mobility Vehicle (SMV) learner rider licence, allowing you to ride SMVs like a Nippi.",
+  "topics": [
+    "learner-rider-licence",
+    "special-mobility-vehicle",
+    "smv",
+    "nippi"
+  ],
+  "intro": "A Special Mobility Vehicle (SMV) learner rider licence lets you ride SMVs, such as a Nippi, with the special condition that you must only ride SMVs.\n\nAs an SMV learner rider, you can apply directly for a learner rider licence. You won’t need to do any pre-learner or pre-provisional rider training.",
+  "who_can_apply": [
+    "Be at least 16 years and 9 months old to apply for an SMV learner rider licence."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Completed 'Licence Application' PDF form",
+    "Medical report",
+    "Contact lenses or glasses (if applicable)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Licence Application – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit the completed form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "Pick up a medical report form at the service centre and return it once it's completed by your doctor.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Pass your SMV knowledge test.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Pass your eyesight test.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Pay your learner rider licence fee.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you’ve previously held another type of driver or rider licence, you may be exempt from some requirements.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-driver-rider-and-heavy-vehicle-licence-fees"
+    },
+    {
+      "text": "Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Class R (with SMV endorsement) licence – knowledge test questions – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-09/driver-knowledge-test-questions-rider-smv.pdf"
+    },
+    {
+      "text": "Special mobility vehicle rider licences",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/driving-or-riding-disability/smv-rider-licences#toc-what-do-i-need-to-drive-an-smv"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Register a Special Mobility Vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-special-mobility-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need pre-learner or pre-provisional rider training?",
+      "a": "No, as an SMV learner rider, you can apply directly for a learner rider licence and won’t need any pre-learner or pre-provisional rider training.",
+      "link": null
+    },
+    {
+      "q": "What is the minimum age to apply for an SMV learner rider licence?",
+      "a": "You must be at least 16 years and 9 months old to apply for an SMV learner rider licence.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for the licence?",
+      "a": "You need your proof of identity, the 'Licence Application' PDF form, a medical report, your contact lenses or glasses (if applicable), and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:36Z",
+    "last_modified": "11 October 2024",
+    "html_sha1": "b6d2f35f312f24ef8d4899bec2b9107636b2ea88",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

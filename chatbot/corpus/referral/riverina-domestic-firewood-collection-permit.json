@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/riverina-domestic-firewood-collection-permit",
+  "source_url": "https://www.service.nsw.gov.au/referral/riverina-domestic-firewood-collection-permit",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "riverina-domestic-firewood-collection-permit",
+  "title": "Riverina domestic firewood collection permit",
+  "summary": "This page provides information on obtaining a permit to collect firewood for domestic use in specific parts of the Riverina region.",
+  "topics": [
+    "firewood",
+    "riverina",
+    "permit",
+    "national-parks"
+  ],
+  "intro": "Removing firewood from national parks in NSW is usually not allowed. However, in parts of the Riverina, people can collect firewood for home use if they have a permit and follow strict rules, including:\n\nThe Riverina permit is only available to permanent NSW residents who live in the Riverina Bioregion or Balranald Shire. Each household can collect up to 6 tonnes of firewood per year. The permit is valid for 20 days from the date of purchase.\n\nPeople collecting firewood must follow all permit conditions and park rules while in the park, including staying within open areas and respecting the natural environment. Collection may be paused if there are park closures, fire risk, safety issues or other conservation and operational needs.\n\nPermits can be applied for and purchased online. Refer to the NSW National Parks and Wildlife Service website.",
+  "who_can_apply": [
+    "Must be a permanent NSW resident.",
+    "Must live in the Riverina Bioregion or Balranald Shire."
+  ],
+  "what_you_need": [
+    "A permit (purchased online).",
+    "Adherence to all permit conditions and park rules (e.g., staying within open areas and respecting the natural environment)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW National Parks and Wildlife Service website",
+      "url": "https://www.nationalparks.nsw.gov.au/conservation-and-heritage/care-for-parks/riverina-firewood-collection-permit"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible to collect firewood in the Riverina?",
+      "a": "The permit is only available to permanent NSW residents who live in the Riverina Bioregion or Balranald Shire.",
+      "link": null
+    },
+    {
+      "q": "How much firewood can one household collect per year?",
+      "a": "Each household can collect up to 6 tonnes of firewood per year.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for the permit?",
+      "a": "Permits can be applied for and purchased online. Refer to the NSW National Parks and Wildlife Service website.",
+      "link": "https://www.nationalparks.nsw.gov.au/conservation-and-heritage/care-for-parks/riverina-firewood-collection-permit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:57Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "bc3aad654ea28b061c05d4ed0fee28a903d467a7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

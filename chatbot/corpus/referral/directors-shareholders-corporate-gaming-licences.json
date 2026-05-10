@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/directors-shareholders-corporate-gaming-licences",
+  "source_url": "https://www.service.nsw.gov.au/referral/directors-shareholders-corporate-gaming-licences",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "directors-shareholders-corporate-gaming-licences",
+  "title": "Change directors or shareholders (corporate gaming-related licences)",
+  "summary": "This page advises that if your company is a gaming machine dealer, seller, or testing facility, you must notify Liquor & Gaming NSW if you change directors or shareholders.",
+  "topics": [
+    "corporate-gaming",
+    "directors",
+    "shareholders",
+    "licences",
+    "nsw-business"
+  ],
+  "intro": "In NSW the regulatory framework for gambling, casinos, wagering and lotteries is administered by Liquor and Gaming NSW. This includes compliance and enforcement activities and licensing certain activities.\n\nYou'll need to notify Liquor & Gaming NSW if your company is a gaming machine dealer, seller, or testing facility, and you want to:\n\nFor more information and details on how to make your notification, go to Liquor & Gaming NSW: Gaming-related licences.",
+  "who_can_apply": [
+    "Your company is a gaming machine dealer, seller, or testing facility."
+  ],
+  "what_you_need": [
+    "You must notify Liquor & Gaming NSW if you change directors or shareholders."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW: Gaming-related licences",
+      "url": "https://www.liquorandgaming.nsw.gov.au/operating-a-business/gaming-licences/gaming-licences-permits/gaming-related-licences"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:32Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "b11ae5f2053a823c246f0b8c515303ab3ce4da66",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

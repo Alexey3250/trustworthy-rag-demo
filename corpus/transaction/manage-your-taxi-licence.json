@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-taxi-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-taxi-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-taxi-licence",
+  "title": "Manage your taxi licence",
+  "summary": "Use your MyServiceNSW Account to manage your taxi licence online.",
+  "topics": [
+    "taxi-licence",
+    "myservicensw-account",
+    "transport",
+    "licence"
+  ],
+  "intro": "With a MyServiceNSW Account, you can:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Address, email, and phone number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to access taxi licence services.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Point to Point Transport Commissioner's Industry Portal",
+      "url": "https://portal.pointtopoint.nsw.gov.au/industryportal/s/index"
+    },
+    {
+      "text": "Point to Point Transport Commissioner",
+      "url": "https://www.pointtopoint.nsw.gov.au/"
+    },
+    {
+      "text": "Point to Point Transport Commission Privacy Collection Notice",
+      "url": "https://www.pointtopoint.nsw.gov.au/what-a-service-provider/about-industry-portal/point-to-point-transport-commission-privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Renew a taxi registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-taxi-registration"
+    },
+    {
+      "text": "Application for a passenger transport licence code",
+      "url": "https://www.service.nsw.gov.au/transaction/application-for-a-passenger-transport-licence-code"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:01Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "799790753d951cf9bb776b77d85b5f13e03c8414",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

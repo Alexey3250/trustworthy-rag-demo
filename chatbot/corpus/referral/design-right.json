@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/design-right",
+  "source_url": "https://www.service.nsw.gov.au/referral/design-right",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "design-right",
+  "title": "Apply for a design right",
+  "summary": "This page provides information about design rights, which protect the overall visual appearance of new and distinctive products.",
+  "topics": [
+    "design-right",
+    "product-appearance",
+    "intellectual-property"
+  ],
+  "intro": "A design is the overall appearance of a product, and includes shape, configuration, pattern and/or ornamentation.\n\nA design right protects the overall visual appearance of new and distinctive products.\n\nA design right aims to protect the visual appearance of a whole product that:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "applying for a design right with IP Australia",
+      "url": "https://www.ipaustralia.gov.au/design-rights/how-to-apply-for-a-design-right"
+    },
+    {
+      "text": "What are design rights? – IP Australia",
+      "url": "https://www.ipaustralia.gov.au/design-rights/what-are-design-rights"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a patent",
+      "url": "https://www.service.nsw.gov.au/referral/patent"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:33Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "9aa3c41001d6d5c024156774b8a40296cfd696f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

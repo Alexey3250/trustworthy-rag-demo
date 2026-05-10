@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/intellectual-property-and-trademark-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/intellectual-property-and-trademark-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "intellectual-property-and-trademark-registration",
+  "title": "Intellectual property and trademark registration",
+  "summary": "This page provides information and links for citizens to apply for, register, or research various types of intellectual property, such as patents, designs, and trademarks.",
+  "topics": [
+    "intellectual-property",
+    "trademark",
+    "patent",
+    "design-right",
+    "ip-registration"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "understanding IP",
+      "link": "https://www.ipaustralia.gov.au/understanding-ip"
+    },
+    {
+      "text": "who owns IP",
+      "link": "https://www.ipaustralia.gov.au/understanding-ip/who-owns-ip"
+    },
+    {
+      "text": "types of IP",
+      "link": "https://www.ipaustralia.gov.au/understanding-ip/types-of-ip"
+    },
+    {
+      "text": "how to get professional help with your IP.",
+      "link": "https://www.ipaustralia.gov.au/understanding-ip/get-professional-assistance-with-your-ip"
+    },
+    {
+      "text": "Learn about copyright – Australian Copyright Council (ACC)",
+      "link": "https://www.copyright.org.au"
+    },
+    {
+      "text": "Legal advice and information for artists – Arts Law",
+      "link": "https://www.artslaw.com.au"
+    },
+    {
+      "text": "In Australia, intellectual property (IP) rights are protected by federal legislation and common law.",
+      "link": null
+    },
+    {
+      "text": "IP Australia, an Australian Government agency, administers intellectual property (IP) rights and legislation for trade marks, patents, design rights and plant breeder's rights (PBR) in Australia.",
+      "link": null
+    },
+    {
+      "text": "Visit the IP Australia website to learn more about:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "understanding IP",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip"
+    },
+    {
+      "text": "who owns IP",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip/who-owns-ip"
+    },
+    {
+      "text": "types of IP",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip/types-of-ip"
+    },
+    {
+      "text": "how to get professional help with your IP",
+      "url": "https://www.ipaustralia.gov.au/understanding-ip/get-professional-assistance-with-your-ip"
+    },
+    {
+      "text": "Learn about copyright – Australian Copyright Council (ACC)",
+      "url": "https://www.copyright.org.au"
+    },
+    {
+      "text": "Legal advice and information for artists – Arts Law",
+      "url": "https://www.artslaw.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a patent",
+      "url": "https://www.service.nsw.gov.au/referral/patent"
+    },
+    {
+      "text": "Apply for a design right",
+      "url": "https://www.service.nsw.gov.au/referral/design-right"
+    },
+    {
+      "text": "Register a trade mark",
+      "url": "https://www.service.nsw.gov.au/referral/trade-mark"
+    },
+    {
+      "text": "Check the Personal Property Securities Register (PPSR)",
+      "url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:27Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b5a6aef4bcc987cd7dbf1a6660e6ee78524561cc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/search-for-a-strata-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/search-for-a-strata-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "search-for-a-strata-scheme",
+  "title": "Search for a strata scheme",
+  "summary": "You can access public information about any state strata scheme using the NSW Government’s Strata search.",
+  "topics": [
+    "strata-scheme",
+    "property-search",
+    "nsw-housing",
+    "property-information"
+  ],
+  "intro": "You can access public information online about any of the state’s strata schemes using the NSW Government’s Strata search.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Buying a strata property – NSW Fair Trading",
+      "link": "https://www.nsw.gov.au/housing-and-construction/strata/buying-a-strata-property"
+    },
+    {
+      "text": "NSW Land Registry Services",
+      "link": "https://www.nswlrs.com.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "search by address or strata plan number",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/strata-search"
+    },
+    {
+      "text": "NSW Strata Hub map",
+      "url": "https://portal.spatial.nsw.gov.au/portal/apps/webappviewer/index.html?id=cb153150a28c4f40b66b682e7dc3ff86&query=StrataHub"
+    },
+    {
+      "text": "before you buy",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/buying-a-strata-property"
+    },
+    {
+      "text": "NSW Land Registry Services",
+      "url": "https://www.nswlrs.com.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:14Z",
+    "last_modified": "12 May 2025",
+    "html_sha1": "9f8d97214e6c199ce96573f9a955bc10f9fc5b5c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

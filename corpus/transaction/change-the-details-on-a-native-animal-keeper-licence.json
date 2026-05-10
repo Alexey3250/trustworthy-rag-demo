@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-native-animal-keeper-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-native-animal-keeper-licence",
+  "title": "Change the licence class or details on a native animal keeper licence",
+  "summary": "You can change your name, contact details, or add a licence class on your native animal keeper licence online.",
+  "topics": [
+    "native-animal-keeper-licence",
+    "wildlife-licensing",
+    "nsw-environment"
+  ],
+  "intro": "You can change your name or contact details or add a licence class on your native animal keeper licence online.\n\nIf you want to change your contact details only, you can do this over the phone.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "To change your details, you will need to have the information found at https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence#licence-fees-and-duration"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You will need to have:",
+      "link": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence#licence-fees-and-duration"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your changes.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www2.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence#licence-fees-and-duration"
+    },
+    {
+      "text": "All about wildlife licensing in NSW",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/Wildlife-licences/"
+    },
+    {
+      "text": "Native animal facts",
+      "url": "https://www.environment.nsw.gov.au/topics/animals-and-plants/native-animals/native-animal-facts"
+    },
+    {
+      "text": "Applications & Forms",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/native-animals-as-pets/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Wildlife licensing reforms – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/wildlife-licensing-reforms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-native-animal-keeper-licence"
+    },
+    {
+      "text": "Renew a native animal keeper licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-native-animal-keeper-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change my contact details only?",
+      "a": "If you only want to change your contact details, you can do this over the phone.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:29Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "7fdfee511938c5e9b256c58385f8775bc0f2272f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

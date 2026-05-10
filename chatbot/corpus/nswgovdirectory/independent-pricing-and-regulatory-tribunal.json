@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-pricing-and-regulatory-tribunal",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-pricing-and-regulatory-tribunal",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "independent-pricing-and-regulatory-tribunal",
+  "title": "Independent Pricing and Regulatory Tribunal",
+  "summary": "This page provides information about the Independent Pricing and Regulatory Tribunal (IPART), which regulates pricing and services across various industries.",
+  "topics": [
+    "pricing-regulation",
+    "utilities",
+    "energy",
+    "water",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.ipart.nsw.gov.au",
+      "url": "https://www.ipart.nsw.gov.au"
+    },
+    {
+      "text": "Water services",
+      "url": "https://www.ipart.nsw.gov.au/Home/Industries/Water"
+    },
+    {
+      "text": "Energy services",
+      "url": "https://www.ipart.nsw.gov.au/Home/Industries/Energy"
+    },
+    {
+      "text": "Transport services",
+      "url": "https://www.ipart.nsw.gov.au/Home/Industries/Transport"
+    },
+    {
+      "text": "Local government services",
+      "url": "https://www.ipart.nsw.gov.au/Home/Industries/Local-Government"
+    },
+    {
+      "text": "Other industries",
+      "url": "https://www.ipart.nsw.gov.au/Home/Industries/Other-industries"
+    },
+    {
+      "text": "Energy Savings Scheme",
+      "url": "https://www.energysustainabilityschemes.nsw.gov.au/ess"
+    },
+    {
+      "text": "Reviews for public comment",
+      "url": "https://www.ipart.nsw.gov.au/Home/Reviews"
+    },
+    {
+      "text": "How you can have your say",
+      "url": "https://www.ipart.nsw.gov.au/Home/Reviews/Have-Your-Say"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.ipart.nsw.gov.au/Home/About-Us/Contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Independent Pricing and Regulatory Tribunal (IPART)?",
+      "a": "IPART is an independent body that regulates pricing and services across various industries, including water, energy, and transport.",
+      "link": null
+    },
+    {
+      "q": "What industries does IPART regulate?",
+      "a": "IPART regulates various industries, including water services, energy services, transport services, local government services, and other industries.",
+      "link": null
+    },
+    {
+      "q": "How can I provide feedback or comment on a review?",
+      "a": "You can find information on how to provide feedback or comment on reviews through the 'Reviews for public comment' section.",
+      "link": "https://www.ipart.nsw.gov.au/Home/Reviews"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "df2b5c1792628371317ff92d041f1729ede09f04",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

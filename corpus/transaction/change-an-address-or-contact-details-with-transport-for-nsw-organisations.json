@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-an-address-or-contact-details-with-transport-for-nsw-organisations",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-an-address-or-contact-details-with-transport-for-nsw-organisations",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-an-address-or-contact-details-with-transport-for-nsw-organisations",
+  "title": "Change an organisation's name, address or contact details with Transport for NSW",
+  "summary": "This page explains how to update an organisation's name, address, phone number, or email address with Transport for NSW.",
+  "topics": [
+    "organisation-details",
+    "address-change",
+    "contact-details",
+    "transport-for-nsw"
+  ],
+  "intro": "If an organisation’s name, address, phone number or email address has changed, the details will need to be updated on the relevant:",
+  "who_can_apply": [
+    "An organisation whose name, address, phone number, or email address has changed."
+  ],
+  "what_you_need": [
+    "Proof of identity, such as a driver licence.",
+    "A letter on the organisation's letterhead, signed by a director, secretary, president, or chairperson, that authorizes you as the organisation's representative.",
+    "If changing the organisation’s name, a Certificate of Registration on Change of Name from the Australian Securities and Investments Commission (ASIC).",
+    "One of the following PDF forms: Change of Records – Maritime Products Only (https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf) or Change of Records – Road and Maritime Products (https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the relevant PDF form:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your documents at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Change of Records – Maritime Products Only",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "text": "Change of Records – Road and Maritime Products",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What details can I update for my organisation?",
+      "a": "You can update your organisation's name, address, phone number, or email address.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit the updated details?",
+      "a": "You must submit your documents at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What documents do I need if I am changing the organisation's name?",
+      "a": "If changing the organisation’s name, you need a Certificate of Registration on Change of Name from the Australian Securities and Investments Commission (ASIC).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:57Z",
+    "last_modified": "10 September 2024",
+    "html_sha1": "567e91389234e24a893673ecd0cd32ae0997d020",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/chiropractic-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/chiropractic-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "chiropractic-council-of-nsw",
+  "title": "Chiropractic Council of NSW",
+  "summary": "This page provides information about the Chiropractic Council of NSW, which is responsible for regulating the chiropractic profession in New South Wales.",
+  "topics": [
+    "chiropractic",
+    "health-practitioner",
+    "nsw-council",
+    "regulation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.chiropracticcouncil.nsw.gov.au",
+      "url": "https://www.chiropracticcouncil.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who regulates chiropractors in NSW?",
+      "a": "The Chiropractic Council of NSW regulates the chiropractic profession in New South Wales.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the Council?",
+      "a": "You can visit the official website for the Chiropractic Council of NSW.",
+      "link": "https://www.chiropracticcouncil.nsw.gov.au"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:07Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c2b2f11f0871ded81ebf9898e45e9c00506fef15",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

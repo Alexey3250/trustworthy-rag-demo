@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notices/disaster-assistance-finder",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notices/disaster-assistance-finder",
+  "category": "privacy-collection-notices",
+  "article_kind": "content",
+  "slug": "disaster-assistance-finder",
+  "title": "Disaster Assistance Finder – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses personal information when you use the Disaster Assistance Finder.",
+  "topics": [
+    "disaster-assistance",
+    "privacy",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "we handle your personal information",
+      "link": null
+    },
+    {
+      "text": "you can access and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made.",
+      "link": null
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Read the Service NSW privacy statement for more information on how:",
+      "link": null
+    },
+    {
+      "text": "You can call Service NSW on 13 77 88.",
+      "link": null
+    },
+    {
+      "text": "Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Disaster Assistance Finder",
+      "url": "https://disasterassistance.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected when I use the Disaster Assistance Finder?",
+      "a": "Service NSW collects the type of disaster impacting you, how the disaster has impacted you, whether you are of Aboriginal and/or Torres Strait Islander origin, your email address, full name, phone number, and residential address.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "The information is used to provide personalized results on eligible assistance types, to email a link to your personalized results, and if you book an appointment, staff may use it to provide further information on eligible assistance types.",
+      "link": null
+    },
+    {
+      "q": "Do I have to provide this information?",
+      "a": "You may be required to provide this information to receive personalized recommendations or further information on the types of assistance for which you may be eligible.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:00Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "565a9ac8c6d918fe5197db99a674594fd17c095c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

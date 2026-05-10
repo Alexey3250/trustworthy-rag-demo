@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "heavy-vehicle-registration",
+  "title": "Heavy vehicle registration",
+  "summary": "Find information and apply for services related to heavy vehicle registration in New South Wales.",
+  "topics": [
+    "heavy-vehicle",
+    "registration",
+    "inspection",
+    "licence",
+    "permit"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Heavy vehicle licence",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    },
+    {
+      "text": "Notify about a written-off heavy vehicle",
+      "link": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-registration"
+    },
+    {
+      "text": "Apply to re-register a public or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-re-register-a-public-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Renew a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration"
+    },
+    {
+      "text": "Renew the registration on an SP2 crane",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-an-sp2-crane"
+    },
+    {
+      "text": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Book a heavy vehicle inspection",
+      "url": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    },
+    {
+      "text": "Change or cancel a heavy vehicle inspection booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking"
+    },
+    {
+      "text": "Heavy vehicle licence",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    },
+    {
+      "text": "Heavy vehicle permit",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit"
+    },
+    {
+      "text": "Notify about a written-off heavy vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/notify-about-a-written-off-heavy-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a heavy vehicle registration?",
+      "a": "You can apply for a heavy vehicle registration using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-registration"
+    },
+    {
+      "q": "What if I need to renew my heavy vehicle registration?",
+      "a": "You can renew a heavy vehicle registration online, or renew the registration for specific vehicles like an SP2 crane or a public passenger vehicle.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration"
+    },
+    {
+      "q": "How do I book or manage a heavy vehicle inspection?",
+      "a": "You can book a heavy vehicle inspection, or change or cancel an existing booking online.",
+      "link": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:58Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "c3322bd35d9a0e3a7c29032dd71d58da98cd2f1d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

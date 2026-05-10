@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/amending-heavy-vehicle-access-permits",
+  "source_url": "https://www.service.nsw.gov.au/referral/amending-heavy-vehicle-access-permits",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "amending-heavy-vehicle-access-permits",
+  "title": "Amending heavy vehicle access permits",
+  "summary": "This page provides information on how to amend, cancel, or replace heavy vehicle access permits through the National Heavy Vehicle Regulator (NHVR).",
+  "topics": [
+    "heavy-vehicle",
+    "access-permits",
+    "amend",
+    "cancel",
+    "replace"
+  ],
+  "intro": "Heavy vehicle access permits can be amended through the National Heavy Vehicle Regulator (NVHR).\n\nTo apply for an amendment your permit must be valid (not expired).\n\nYou can also cancel a permit through the NHVR, or replace one if it's been defaced, destroyed, lost or stolen.\n\nTo apply for an amendment log in to your NHVR Go account.",
+  "who_can_apply": [
+    "The permit must be valid (not expired) to apply for an amendment."
+  ],
+  "what_you_need": [
+    "A valid permit",
+    "An NHVR Go account to log in to"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "amended through the National Heavy Vehicle Regulator (NVHR)",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/amend-cancel-or-replace-permit"
+    },
+    {
+      "text": "NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "State and territory road transport authorities",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renewing heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I amend my heavy vehicle access permit?",
+      "a": "Heavy vehicle access permits can be amended through the National Heavy Vehicle Regulator (NVHR).",
+      "link": "https://www.nhvr.gov.au/road-access/access-management/applications/amend-cancel-or-replace-permit"
+    },
+    {
+      "q": "What do I need to do if my permit is lost or stolen?",
+      "a": "You can replace a permit if it has been defaced, destroyed, lost, or stolen.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for an amendment?",
+      "a": "To apply for an amendment, you must log in to your NHVR Go account.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:27Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "6ecaa95816f6fa255558f31e83990ff23058a468",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

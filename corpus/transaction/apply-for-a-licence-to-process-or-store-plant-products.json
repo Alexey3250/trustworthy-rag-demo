@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-or-store-plant-products",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-or-store-plant-products",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-process-or-store-plant-products",
+  "title": "Apply for a licence to process or store plant products",
+  "summary": "This page provides information on how to apply for a licence from the NSW Food Authority if your business processes or stores plant products.",
+  "topics": [
+    "food-authority",
+    "licence",
+    "plant-products",
+    "food-business"
+  ],
+  "intro": "You must hold a licence with the NSW Food Authority if your business prepares or stores:\n\nYou can apply and pay for the licence online.\n\nTo apply for 5 or more premises, you need to complete a printed application form.\n\nNote: You must not start business operations until you have your licence.",
+  "who_can_apply": [
+    "Your business prepares or stores plant products."
+  ],
+  "what_you_need": [
+    "ABN/ACN",
+    "ASIC company statement showing the director names (if applicable)",
+    "Confirmation of your registered business name (if applicable)",
+    "Certificate of incorporation (if applicable)",
+    "Details of the business activities, location and food handlers",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application and payment.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the Application for a licence for a premises to process/store plant products – PDF.",
+      "link": "https://www.foodauthority.nsw.gov.au/media/1066"
+    },
+    {
+      "n": 6,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Submit your application with payment by post or email, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot transfer a licence.",
+      "link": null
+    },
+    {
+      "text": "To change or cancel a licence, contact the Food Authority Licensing Unit on (02) 6552 3000.",
+      "link": "tel:1300552406"
+    },
+    {
+      "text": "If you transport plant products, you need to apply for a licence to operate a food business.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-for-a-licence-to-operate-a-food-business"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2015-0622#sch.3"
+    },
+    {
+      "text": "Application for a licence for a premises to process/store plant products – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/1066"
+    },
+    {
+      "text": "Licensing and notifying – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/help/licensing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a licence to operate a food business",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-licence-to-operate-a-food-business"
+    },
+    {
+      "text": "Apply for a licence to process, pack and store seafood",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-process-pack-and-store-seafood"
+    },
+    {
+      "text": "Appoint a food safety supervisor",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to process or store plant products?",
+      "a": "Yes, you must hold a licence with the NSW Food Authority if your business prepares or stores plant products.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the licence?",
+      "a": "You can apply and pay for the licence online. If you are applying for 5 or more premises, you must complete a printed application form.",
+      "link": null
+    },
+    {
+      "q": "When can I start my business?",
+      "a": "You must not start business operations until you have received your licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:54Z",
+    "last_modified": "10 April 2025",
+    "html_sha1": "2834724ee6e6cdf95d29f3ab2c5ed792260a08b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

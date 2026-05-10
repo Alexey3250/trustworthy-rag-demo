@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-general-boat-or-personal-watercraft-pwc-licence-knowledge-test",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-general-boat-or-personal-watercraft-pwc-licence-knowledge-test",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-general-boat-or-personal-watercraft-pwc-licence-knowledge-test",
+  "title": "Book a general boat or personal watercraft (PWC) licence knowledge test",
+  "summary": "This page explains how to book and take the knowledge test for a general boat or personal watercraft (PWC) driving licence.",
+  "topics": [
+    "boat-licence",
+    "pwc-licence",
+    "knowledge-test",
+    "service-nsw"
+  ],
+  "intro": "Before you apply for a general boat or personal watercraft (PWC) driving licence, you need to pass a licence knowledge test.\n\nThe general boat driving licence knowledge test consists of 50 multiple choice questions, while the PWC driving licence knowledge test has 15 questions.\n\nTo take either of these knowledge tests at a Service NSW Centre, you can book an appointment online. Once you have successfully passed the test, you then have 12 months in which to apply for your general boat driving licence or PWC driving licence.\n\nAlternatively, you can choose to take the tests with an Authorised Training Provider (ATP). If you have passed the test through an ATP, you’ll need to apply for your licence at a service centre.",
+  "who_can_apply": [
+    "To take a general boat knowledge test, you must be 12 years or older (licence restrictions apply if you are under 16).",
+    "To take the PWC knowledge test, you must already hold a general boat driving licence."
+  ],
+  "what_you_need": [
+    "If you are only taking the knowledge test, you do not need to provide evidence of your practical experience.",
+    "If you plan to take the knowledge test and apply for your licence at the same time, you should visit the specific application pages for either licence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Book an appointment’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select your preferred service centre.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Choose a date and time for your appointment.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter your details to confirm your booking.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To help you study for these tests, you can:",
+      "link": "https://www.nsw.gov.au/sites/default/files/2021-03/boating-handbook.pdf"
+    },
+    {
+      "text": "You can take your test in a quieter environment at a Quiet Hour service centre location.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Authorised Training Provider (ATP)",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/get-practical-experience"
+    },
+    {
+      "text": "Boating Handbook",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/boating-handbook.pdf"
+    },
+    {
+      "text": "Personal Watercraft Handbook",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/Personal-watercraft-handbook.pdf"
+    },
+    {
+      "text": "practice tests",
+      "url": "https://driverpracticetest.transport.nsw.gov.au/pages/practice-tests?init=true"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for your general boat driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-boat-driving-licence"
+    },
+    {
+      "text": "PWC driving licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-personal-watercraft-pwc-driving-licence"
+    },
+    {
+      "text": "Quiet Hour service centre location",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Change or cancel a service centre booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-service-centre-booking"
+    },
+    {
+      "text": "Take the boating knowledge practice quiz",
+      "url": "https://www.service.nsw.gov.au/transaction/take-the-boating-knowledge-practice-quiz"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many questions are on the knowledge tests?",
+      "a": "The general boat test has 50 multiple-choice questions, and the PWC test has 15 questions.",
+      "link": null
+    },
+    {
+      "q": "What happens after I pass the knowledge test?",
+      "a": "You have 12 months to apply for your general boat or PWC driving licence.",
+      "link": null
+    },
+    {
+      "q": "Can I take the test at a Service NSW Centre?",
+      "a": "Yes, you can book an appointment online to take the test at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Do I need to provide evidence of practical experience?",
+      "a": "If you are only taking the knowledge test, you do not need to provide evidence of your practical experience.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:07Z",
+    "last_modified": "17 December 2024",
+    "html_sha1": "3f94cab4d6374297a008957d6eb869cb72a125cd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

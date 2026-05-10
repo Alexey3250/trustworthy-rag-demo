@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/apprentices-and-trainees",
+  "source_url": "https://www.service.nsw.gov.au/services/apprentices-and-trainees",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "apprentices-and-trainees",
+  "title": "Apprentices and trainees – concessions and assistance",
+  "summary": "Find information and assistance regarding concessions and financial support for apprentices and trainees in NSW.",
+  "topics": [
+    "apprentices",
+    "trainees",
+    "financial-support",
+    "apprenticeships",
+    "employers"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "NSW apprentices (including those whose training starts before 30 June 2025)",
+    "First or second year apprentices registered with the NSW Department of Education (for vehicle rebate)",
+    "Apprentices or trainees who have lost their job (for CAPS registration)",
+    "Individuals training in a priority occupation"
+  ],
+  "what_you_need": [
+    "For fee-free apprenticeships: None specified (all NSW apprentices are eligible).",
+    "For vehicle rebate: Registration with the NSW Department of Education.",
+    "For financial support in priority occupations: Training in a priority occupation.",
+    "For CAPS assistance: Being an apprentice or trainee who has lost their job.",
+    "For employer support: Visiting the Australian Apprenticeships website."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Financial support for apprentices working in priority occupations",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices-priority-occupations"
+    },
+    {
+      "text": "Financial support for employers",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-employers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Fee-free apprenticeships",
+      "url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships"
+    },
+    {
+      "text": "Apply for an apprentice vehicle registration rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate"
+    },
+    {
+      "text": "Apply for the VTAS travel and accommodation allowance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance"
+    },
+    {
+      "text": "Register with Continuing Apprentices and Trainees Placement Service (CAPS)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-with-continuing-apprentices-and-trainees-placement-service-caps"
+    },
+    {
+      "text": "Apply for CAPS relocation and rental assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-caps-relocation-and-rental-assistance"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are there upfront fees for apprenticeships?",
+      "a": "No, under the fee-free apprenticeship initiative, employees and apprentices pay no upfront fees.",
+      "link": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships"
+    },
+    {
+      "q": "How can I get financial support for my apprenticeship?",
+      "a": "You may be eligible for incentives when training in a priority occupation to help offset the cost of living and complete your apprenticeship.",
+      "link": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-apprentices-priority-occupations"
+    },
+    {
+      "q": "What should I do if I lose my job as an apprentice or trainee?",
+      "a": "Register with Continuing Apprentices and Trainees Placement Service (CAPS) as soon as you can.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-with-continuing-apprentices-and-trainees-placement-service-caps"
+    },
+    {
+      "q": "What support is available for employers?",
+      "a": "Visit the Australian Apprenticeships website for information on employer programs, including the Priority Wage Subsidy and Group Training Organisation Reimbursement Program.",
+      "link": "https://www.apprenticeships.gov.au/support-and-resources/financial-support-employers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:37Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "73b1d4185acd442aecb29958c4cf507ee0a4f84c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

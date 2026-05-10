@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-to-make-changes-to-a-heritage-listed-place",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-to-make-changes-to-a-heritage-listed-place",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-to-make-changes-to-a-heritage-listed-place",
+  "title": "Apply to make changes to a heritage listed place",
+  "summary": "Find out what approvals you need and who to contact before making changes to a heritage listed place.",
+  "topics": [
+    "heritage-listing",
+    "development-consent",
+    "local-council",
+    "nsw-heritage"
+  ],
+  "intro": "If you would like to make changes to a heritage listed place, you may need to seek approval from your local council or from the Heritage Council of NSW before you start development. If you're not the owner of the place, you'll need to get consent from the owner before seeking approval.\n\nYou may not need development consent for minor works to heritage places if the works don’t have a significant impact to the heritage conservation areas or items.\n\nIf the place is a locally significant heritage listing, check the following with your local council:\n\nIf the place is a state significant heritage listing, you may need to submit a Section 60 application to the Heritage Council of NSW to approve new development or construction work.\n\nHeritage listings can include:",
+  "who_can_apply": [
+    "The place must be a heritage listed place (local or state significance)."
+  ],
+  "what_you_need": [
+    "If the place is locally significant, check requirements with your local council.",
+    "If the place is state significant, you may need to submit a Section 60 application to the Heritage Council of NSW.",
+    "If you are not the owner of the place, you must get consent from the owner."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "State Heritage Register",
+      "url": "https://www.environment.nsw.gov.au/topics/heritage/search-heritage-databases"
+    },
+    {
+      "text": "submit a Section 60 application",
+      "url": "https://www.environment.nsw.gov.au/topics/heritage/apply-for-heritage-approvals-and-permits"
+    },
+    {
+      "text": "All about NSW heritage – Department of Planning and Environment",
+      "url": "https://www.environment.nsw.gov.au/topics/heritage/about-heritage"
+    },
+    {
+      "text": "Find your local council – Office of Local Government",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need approval to make changes to a heritage listed place?",
+      "a": "Yes, you may need to seek approval from your local council or the Heritage Council of NSW before starting development. If you are not the owner, you must get consent from the owner first.",
+      "link": null
+    },
+    {
+      "q": "When might I not need development consent?",
+      "a": "You may not need development consent for minor works if the works do not have a significant impact on the heritage conservation areas or items.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do if the place is state significant?",
+      "a": "You may need to submit a Section 60 application to the Heritage Council of NSW to approve new development or construction work.",
+      "link": "https://www.environment.nsw.gov.au/topics/heritage/apply-for-heritage-approvals-and-permits"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:41Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "041b058e7d30e8d9622203662f23674a27439d88",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

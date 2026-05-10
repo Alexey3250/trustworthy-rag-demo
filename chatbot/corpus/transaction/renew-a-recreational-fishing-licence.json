@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-recreational-fishing-licence",
+  "title": "Renew a recreational fishing licence",
+  "summary": "Learn how to renew your recreational fishing licence for NSW waters online or by phone.",
+  "topics": [
+    "fishing-licence",
+    "recreational-fishing",
+    "nsw-waters",
+    "renew-licence"
+  ],
+  "intro": "When fishing in NSW waters, both freshwater and saltwater, you're legally required to pay a recreational fishing fee and carry the receipt showing payment.\n\nYou can renew your 1-year or 3-year recreational fishing licence online or by phone.\n\nNote: If you renew before your expiry date, your renewal begins from the date your current licence expires (not from the date of payment).",
+  "who_can_apply": [
+    "Must be fishing in NSW waters (freshwater and saltwater).",
+    "Must be eligible for a recreational fishing fee exemption (if applicable)."
+  ],
+  "what_you_need": [
+    "Licence number",
+    "Renewal number (as shown on your renewal notice)",
+    "Proof of fee exemption (if applicable)",
+    "MyServiceNSW Account (for adding a digital licence)",
+    "Service NSW app (for adding a digital licence)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your licence number and renewal number (as shown on your renewal notice)",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online form.",
+      "link": null
+    }
+  ],
+  "fees": "For information on recreational fishing and licence fees visit NSW Primary Industries website.\n\nYou must show your licence fee receipt if asked by an authorised officer.\n\n### Fee exemptions\n\nNot everyone has to pay a fee for a recreational fishing licence.\n\nCheck if you are eligible for a recreational fishing fee exemption.\n\nIf you are eligible, you'll need to carry the necessary proof with you when you're fishing, in case you're called upon to show it.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Primary Industries website",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee"
+    },
+    {
+      "text": "recreational fishing fee exemption",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/exemptions"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/declaration-and-privacy-collection-notice"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Replace a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a licence to fish in NSW waters?",
+      "a": "Yes, when fishing in NSW waters (both freshwater and saltwater), you are legally required to pay a recreational fishing fee and carry the receipt showing payment.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my recreational fishing licence?",
+      "a": "You can renew your 1-year or 3-year recreational fishing licence online or by phone. To renew online, select the 'Renew online' button, enter your licence and renewal number, and complete the online form.",
+      "link": null
+    },
+    {
+      "q": "When does my new licence period start?",
+      "a": "If you renew before your expiry date, your renewal period begins from the date your current licence expires, not from the date of payment.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I am exempt from paying a fee?",
+      "a": "If you are eligible for a fee exemption, you must carry the necessary proof with you when fishing, in case you are asked to show it by an authorised officer.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:25Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "6a1ee5f3e88957b7608a339275970fc24e677559",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

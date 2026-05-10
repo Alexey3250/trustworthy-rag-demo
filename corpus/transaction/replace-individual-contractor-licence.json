@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-individual-contractor-licence",
+  "title": "Replace an individual contractor licence",
+  "summary": "You can apply for a replacement individual contractor licence if your current licence is damaged, lost, or stolen, by visiting a Service NSW Centre.",
+  "topics": [
+    "individual-contractor-licence",
+    "replace-licence",
+    "service-nsw"
+  ],
+  "intro": "If you hold an individual contractor licence and it's been damaged, lost or stolen, you can apply for a replacement licence at a Service NSW Centre.\n\nTo check your licence number and details visit Verify NSW.",
+  "who_can_apply": [
+    "Hold an individual contractor licence that is damaged, lost, or stolen."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for duplicate licence, certificate or permit'",
+    "Your personal and licence details",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application and payment at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Add your individual contractor licence to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Apply for an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-individual-contractor-licence"
+    },
+    {
+      "text": "Renew an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-individual-contractor-licence"
+    },
+    {
+      "text": "Restore an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-individual-contractor-licence"
+    },
+    {
+      "text": "Change address and contact details on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-individual-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my licence number and details?",
+      "a": "You can check your licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "q": "Where do I submit my application for a replacement licence?",
+      "a": "You must submit your application and payment at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:24Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "1e311f262e2e13e8abef472cf8e58428fcb6b527",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

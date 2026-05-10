@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-rental-bond-landlords-and-agents",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-rental-bond-landlords-and-agents",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-residential-rental-bond-landlords-and-agents",
+  "title": "Lodge a residential rental bond (landlords and agents)",
+  "summary": "Landlords and property agents can lodge a residential rental bond for a tenant either through the online portal or by using a paper-based form.",
+  "topics": [
+    "landlord",
+    "property-agent",
+    "rental-bond",
+    "tenancy"
+  ],
+  "intro": "If you're a self-managing landlord or property agent, you're legally required to offer a tenant the option of lodging their bond directly through Rental Bonds Online (RBO).\n\nIf the tenant is unable to access the online service, or chooses to use the paper-based method, you'll need to lodge a Rental Bond Lodgement form. This form is available through your RBO account.",
+  "who_can_apply": [
+    "Self-managing landlord",
+    "Property agent"
+  ],
+  "what_you_need": [
+    "RBO account (for online lodging)",
+    "Rental Bond Lodgement form (if using paper-based method)",
+    "The tenant's signature (on the form)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Go to Rental Bonds Online' button and log in to your account.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Links' section and download a Rental Bond Lodgement form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form, and have the tenant sign it.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Lodge the form and bond:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "When using the paper-based method you can only take the rental bond after the tenant signs the tenancy agreement.",
+      "link": null
+    },
+    {
+      "text": "You cannot keep the money yourself or put it into an account in the tenant’s name.",
+      "link": null
+    },
+    {
+      "text": "Once a bond is received you must provide a receipt, or note the payment details on the tenancy agreement, and provide a copy to the tenant.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Information a tenant should get at the start of a tenancy – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rules/information-a-tenant-should-get-at-start-of-a-tenancy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Register for a Rental Bonds Online account (landlords)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-landlords"
+    },
+    {
+      "text": "Register for a Rental Bonds Online account (agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-agents"
+    },
+    {
+      "text": "Lodge a residential bond claim (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-bond-claim-landlords-and-agents"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How must I lodge a bond if I am a self-managing landlord or property agent?",
+      "a": "You are legally required to offer a tenant the option of lodging their bond directly through Rental Bonds Online (RBO).",
+      "link": null
+    },
+    {
+      "q": "What if the tenant cannot use the online service?",
+      "a": "If the tenant is unable to access the online service, or chooses to use the paper-based method, you must lodge a Rental Bond Lodgement form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:22Z",
+    "last_modified": "26 September 2024",
+    "html_sha1": "bdf70882532797ab4ddbbdb821e917d3df8d1d97",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

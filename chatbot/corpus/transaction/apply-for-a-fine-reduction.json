@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-fine-reduction",
+  "title": "Apply for a fine reduction",
+  "summary": "You can apply to reduce certain types of fines by 50% if you meet the eligibility requirements.",
+  "topics": [
+    "fine-reduction",
+    "nsw-fines",
+    "government-assistance",
+    "paying-fines"
+  ],
+  "intro": "You can apply to reduce some types of fines by 50% if you meet the eligibility requirements.",
+  "who_can_apply": [
+    "Have not yet paid the fine",
+    "Were receiving a government assistance payment at the time of the offence",
+    "Have not had 4 or more similar fines within 12 months of the offence date",
+    "Are not applying about a serious offence and have not had a serious offence in the last 12 months"
+  ],
+  "what_you_need": [
+    "Fine notice number",
+    "Personal and contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Call Revenue NSW on 1300 138 118 to request a fine reduction.",
+      "link": "tel:1300138118"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "serious offence",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "Difficulty paying your fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine"
+    },
+    {
+      "text": "Review Assist Guide – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/request-a-review/review-assist-guide"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pay the fine in full",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "set up a payment plan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "Work and Development Order (WDO)",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a fine reduction?",
+      "a": "You may be eligible if you have not yet paid your fine, were receiving a government assistance payment at the time of the offence, and meet other criteria, such as not having had 4 or more similar fines within 12 months, and not applying for a serious offence if you haven't had one in the last 12 months.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a fine reduction?",
+      "a": "You must call Revenue NSW on 1300 138 118 to request a fine reduction.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a fine reduction?",
+      "a": "You need your fine notice number and your personal and contact details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:25Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "f73e13af30542dd044cb697ca9fb9a5e2f4e39ca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

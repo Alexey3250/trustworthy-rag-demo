@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-vaccinated-through-the-national-immunisation-program",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-vaccinated-through-the-national-immunisation-program",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-vaccinated-through-the-national-immunisation-program",
+  "title": "Get vaccinated through the National Immunisation Program",
+  "summary": "Find out about your eligibility for free vaccines and how to get vaccinated through the National Immunisation Program.",
+  "topics": [
+    "vaccination",
+    "immunisation",
+    "national-immunisation-program",
+    "health"
+  ],
+  "intro": "You may be eligible for free vaccines through the National Immunisation Program (NIP). The NIP provides immunisation to help reduce diseases that can be prevented by vaccination.\n\nEligible participants include:\n\nYou’ll need to contact your preferred vaccination provider to ask about the specific vaccines they can administer.\n\nFor more details on the vaccines available and your eligibility, visit the National Immunisation Program website.\n\nYou can find out about what vaccinations you've already had, print a history, or get digital copies of records at the Australian Immunisation Register.\n\nIf you have questions or feedback about this program contact The Australian Government Department of Health, Disability and Ageing.",
+  "who_can_apply": [
+    "You may be eligible for free vaccines through the National Immunisation Program (NIP)."
+  ],
+  "what_you_need": [
+    "Contact your preferred vaccination provider to ask about the specific vaccines they can administer."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Immunisation Program website",
+      "url": "https://www.health.gov.au/our-work/national-immunisation-program"
+    },
+    {
+      "text": "Australian Immunisation Register",
+      "url": "https://www.servicesaustralia.gov.au/australian-immunisation-register"
+    },
+    {
+      "text": "NSW School Vaccination Program – NSW Health",
+      "url": "https://www.health.nsw.gov.au/immunisation/Pages/schoolvaccination.aspx"
+    },
+    {
+      "text": "Australian Immunisation Handbook",
+      "url": "https://immunisationhandbook.health.gov.au/"
+    },
+    {
+      "text": "Immunisation programs – NSW Health",
+      "url": "https://www.health.nsw.gov.au/immunisation/pages/default.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find out about the specific vaccines I can receive?",
+      "a": "You need to contact your preferred vaccination provider to ask about the specific vaccines they can administer.",
+      "link": null
+    },
+    {
+      "q": "How do I check my vaccination history?",
+      "a": "You can find out about what vaccinations you've already had, print a history, or get digital copies of records at the Australian Immunisation Register.",
+      "link": "https://www.servicesaustralia.gov.au/australian-immunisation-register"
+    },
+    {
+      "q": "Who should I contact with questions about the National Immunisation Program?",
+      "a": "If you have questions or feedback about this program, contact The Australian Government Department of Health, Disability and Ageing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:00Z",
+    "last_modified": "21 May 2025",
+    "html_sha1": "24076f72cd191fe9108d26123cfd1467a6cff9a9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

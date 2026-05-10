@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-an-authorised-unregistered-vehicle-inspection-blue-slip",
+  "title": "Get an authorised unregistered vehicle inspection (blue slip)",
+  "summary": "Find out what is needed and how to get an Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report, also known as a blue slip, for an unregistered vehicle.",
+  "topics": [
+    "vehicle-inspection",
+    "unregistered-vehicle",
+    "blue-slip",
+    "nsw-registration"
+  ],
+  "intro": "An Authorised Unregistered Vehicle Inspection Scheme (AUVIS) report (known as a blue slip) verifies that an unregistered vehicle is safe, and meets design and identity standards.\n\nAll unregistered light vehicles need an AUVIS inspection report before they can be registered in NSW.\n\nTo get an inspection report, you'll need to find a safety inspection provider that is AUVIS accredited by Transport for NSW.",
+  "who_can_apply": [
+    "Registration expired more than 3 months ago (Note: you will need to replace your number plates at a Service NSW Centre)",
+    "The vehicle has been brought into NSW from another state or territory, or from overseas",
+    "The vehicle has no number plates",
+    "The vehicle was written-off, but has now been approved for re-registration",
+    "The vehicle requires adjustments to the registration records because something about the vehicle has changed significantly (such as a new engine)",
+    "The vehicle needs defect notices cleared",
+    "The vehicle requires an inspection if it falls under the general category of 'Get an inspection if your vehicle:'"
+  ],
+  "what_you_need": [
+    "Find a safety inspection provider that is AUVIS accredited by Transport for NSW.",
+    "Select the ‘Find an inspection provider’ button.",
+    "Enter your suburb or postcode to find an inspection station with 'AUVIS' accreditation."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Find an inspection provider’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your suburb or postcode to find an inspection station with 'AUVIS' accreditation.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Every authorised inspection station displays an AIS (Authorised Inspection Scheme) sign at the front of their premises, listing the types of safety checks and inspections they're authorised to perform.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "light vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "written-off",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    },
+    {
+      "text": "Vehicle safety check and inspection fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-safety-check-and-inspection-fees"
+    },
+    {
+      "text": "Driving an unregistered vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/when-you-can-drive-an-unregistered-vehicle"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "replace your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    },
+    {
+      "text": "Find an authorised vehicle inspection station outside NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/find-an-authorised-vehicle-inspection-station-outside-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an AUVIS report (blue slip)?",
+      "a": "An AUVIS report verifies that an unregistered vehicle is safe and meets design and identity standards.",
+      "link": null
+    },
+    {
+      "q": "When is an AUVIS inspection report needed?",
+      "a": "All unregistered light vehicles need an AUVIS inspection report before they can be registered in NSW.",
+      "link": null
+    },
+    {
+      "q": "How do I get an inspection report?",
+      "a": "You must find a safety inspection provider that is AUVIS accredited by Transport for NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:30Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "99e30f9d260b75fba5e1142ac7b059eafc15679a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-profile",
+  "source_url": "https://www.service.nsw.gov.au/business/business-profile",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "business-profile",
+  "title": "Service NSW Business Profile",
+  "summary": "This page provides information about setting up and managing a business profile with Service NSW.",
+  "topics": [
+    "business-profile",
+    "service-nsw",
+    "business-registration",
+    "nsw-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "government grants and funding programs",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Find out more",
+      "url": "https://www.service.nsw.gov.au/business/business-profile/licence-manager"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:19Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "abc2f0f14362042dc66440b9b8752e1342e6f5a4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

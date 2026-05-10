@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-an-enforcement-action",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-be-reissued-after-an-enforcement-action",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-be-reissued-after-an-enforcement-action",
+  "title": "Apply for a licence to be reissued after an enforcement action",
+  "summary": "This page explains the process for applying to have your driver licence reissued after an enforcement action, such as cancellation or disqualification.",
+  "topics": [
+    "driver-licence",
+    "reissue",
+    "enforcement-action",
+    "service-nsw"
+  ],
+  "intro": "If your driver licence was cancelled, disqualified or refused, you will not be able to drive until the end of the enforcement period. Once the enforcement period is over, you'll need to go to a Service NSW Centre to apply for your licence to be re-issued. Further tests may be required, depending on the amount of time that has lapsed.",
+  "who_can_apply": [
+    "Your licence was cancelled, disqualified, or refused."
+  ],
+  "what_you_need": [
+    "Proof of identity documents (as detailed on the form)",
+    "Concession card details (if applicable)",
+    "Your old licence (if you have it)",
+    "Contact lenses or glasses (if you wear them)",
+    "Medical report (if applicable)",
+    "The PDF form: 'Licence Application' (https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF button'.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all your documentation and any additional items (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Licence suspension and disqualification – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/how-demerit-points-work/licence-suspension-and-disqualification"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Losing your driver licence (suspension)",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-licence-suspension"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my licence was cancelled or disqualified?",
+      "a": "You cannot drive until the end of the enforcement period. Once the period is over, you must apply for your licence to be re-issued at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Will I need extra tests to get my licence back?",
+      "a": "Further tests may be required, depending on how much time has passed since the enforcement action.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:35Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "06ce2787480827938e09055272ebb535f519e81a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

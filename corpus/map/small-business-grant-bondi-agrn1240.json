@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/map/small-business-grant-bondi-agrn1240",
+  "source_url": "https://www.service.nsw.gov.au/map/small-business-grant-bondi-agrn1240",
+  "category": "map",
+  "article_kind": "content",
+  "slug": "small-business-grant-bondi-agrn1240",
+  "title": "Bondi Beach terrorist attack: map of the impacted area",
+  "summary": "This page provides a map detailing the area impacted by the Bondi Beach terrorist attack.",
+  "topics": [
+    "bondi-beach",
+    "terrorist-attack",
+    "impacted-area",
+    "small-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "map in full screen",
+      "url": "https://experience.arcgis.com/experience/92b4b588d0c64249808f55e21c97e3d4"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Small Business Support Grant Bondi Beach December 2025",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-grant-bondi-agrn1240"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:42Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "9411c494d4f15b3a8338c7b0f33264fcb86f5f0d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

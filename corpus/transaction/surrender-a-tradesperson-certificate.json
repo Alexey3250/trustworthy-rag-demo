@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-tradesperson-certificate",
+  "title": "Surrender a tradesperson certificate",
+  "summary": "You can surrender your tradesperson certificate at a Service NSW Centre if you no longer need it.",
+  "topics": [
+    "tradesperson-certificate",
+    "service-nsw",
+    "surrender-certificate"
+  ],
+  "intro": "If you no longer need your tradesperson certificate for any reason, you can hand it in at a Service NSW Centre.\n\nTo find your tradesperson certificate number and details, visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your tradesperson certificate card",
+    "the PDF form – 'Surrender of Licence/Certificate'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and attach a copy of your certificate.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "To submit the form and certificate visit a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Compliance and regulation in housing and construction – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:59Z",
+    "last_modified": "28 August 2025",
+    "html_sha1": "467e1c5adae0b91c2a29cf124e8b82c66113286f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

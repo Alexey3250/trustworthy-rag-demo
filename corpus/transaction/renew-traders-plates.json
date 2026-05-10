@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-traders-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-traders-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-traders-plates",
+  "title": "Renew trader's plates",
+  "summary": "Find out how to renew your trader's plates by visiting a Service NSW Centre.",
+  "topics": [
+    "traders-plates",
+    "renewing-plates",
+    "service-nsw"
+  ],
+  "intro": "A trader's plate renewal invitation is sent to all existing trader's plate holders in late November of each year. All trader's plates have a common expiry date of 31 December.\n\nIf you want to renew your plate(s), please visit a Service NSW Centre. If they're not renewed within 3 months of the expiry date, they're automatically cancelled.",
+  "who_can_apply": [
+    "Existing trader's plate holders"
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Motor industry licence",
+    "Business or organisation identification",
+    "The trader's plate(s)",
+    "Compulsory third party (CTP) insurance that specifies the plates are being renewed (insurance must expire 31 December of the following year)",
+    "Trader's plate renewal notice"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Make sure you have the required documents and your trader's plate(s).",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1728: Trader's Plate Conditions of Use – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071875-traders-plates-condition-of-use.pdf"
+    },
+    {
+      "text": "Trader's Plate Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070540-trade-plate-application.pdf"
+    },
+    {
+      "text": "Motor Dealers Guide to Vehicle Registration – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/motor-dealers-guide-to-vehicle-registration"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Replace trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-traders-plates"
+    },
+    {
+      "text": "Apply for an additional trader's plate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When are trader's plate renewal invitations sent?",
+      "a": "Renewal invitations are sent to all existing plate holders in late November each year.",
+      "link": null
+    },
+    {
+      "q": "What happens if I don't renew my plates?",
+      "a": "If the plates are not renewed within 3 months of the expiry date, they are automatically cancelled.",
+      "link": null
+    },
+    {
+      "q": "Where do I renew my trader's plates?",
+      "a": "You must visit a Service NSW Centre to renew your plates.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:29Z",
+    "last_modified": "10 July 2024",
+    "html_sha1": "ac4a7f832d2b641771d549853cd017f75dd48765",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

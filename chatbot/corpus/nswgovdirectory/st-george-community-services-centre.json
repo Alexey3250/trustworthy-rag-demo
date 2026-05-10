@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/st-george-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/st-george-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "st-george-community-services-centre",
+  "title": "St George Community Services Centre",
+  "summary": "This page provides contact information and details for the St George Community Services Centre.",
+  "topics": [
+    "community-services",
+    "st-george",
+    "support-centre",
+    "contact-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:04Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "c895c988514d71618da9414d7b27a1f9bc3fed17",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-liquor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-liquor-licence",
+  "title": "Change the details on a liquor licence",
+  "summary": "Update the contact details on your liquor licence online if you have the necessary authorisation.",
+  "topics": [
+    "liquor-licence",
+    "nsw",
+    "update-details",
+    "business"
+  ],
+  "intro": "If you want to update the contact details on your liquor licence and you have the necessary authorisation, you can update online.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Must be aged 18 or over.",
+    "Must hold a NSW liquor licence and be listed as a licensee."
+  ],
+  "what_you_need": [
+    "Liquor licence number",
+    "Licence name",
+    "Licensee name",
+    "Personal and contact details (if an individual)",
+    "Name, ABN, ACN, and contact details (if an organisation)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter liquor licence details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Update your details' section.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find up-to-date liquor licence guidelines and resources?",
+      "a": "Visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "q": "Who should I contact if I have questions about liquor licensing?",
+      "a": "Contact Liquor & Gaming NSW.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "q": "How do I update my liquor licence details online?",
+      "a": "Select 'Apply online', enter your liquor licence details, select the 'Update your details' section, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:25Z",
+    "last_modified": "28 August 2025",
+    "html_sha1": "dc332d43de74570a4db32d03f6f40274f63bd31f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

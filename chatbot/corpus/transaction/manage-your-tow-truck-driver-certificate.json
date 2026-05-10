@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-driver-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-tow-truck-driver-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-tow-truck-driver-certificate",
+  "title": "Manage your tow truck driver certificate",
+  "summary": "This page provides information on how to manage, renew, or replace your tow truck driver certificate in NSW.",
+  "topics": [
+    "tow-truck-driver-certificate",
+    "renewing-certificate",
+    "replacing-certificate",
+    "driver-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a tow truck driver in NSW."
+  ],
+  "what_you_need": [
+    "Completed PDF form for renewal or replacement.",
+    "Photocopy of your unrestricted Australian driver licence (front and back).",
+    "Payment receipt number from the payment portal."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "visit the NSW Fair Trading website – Driving or operating a tow truck in NSW",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks"
+    },
+    {
+      "text": "call the Licensing team on 13 32 20.",
+      "link": "tel:133220"
+    },
+    {
+      "text": "For more information on tow truck driver certificates:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Tow truck driver certificate renewal/restoration application",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59809.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-licensing-fees"
+    },
+    {
+      "text": "payment portal",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "what happens after you apply",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-drivers-certificates#toc-what-happens-after-you-apply"
+    },
+    {
+      "text": "Replace a tow truck driver certificate/operator licence",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59808.pdf"
+    },
+    {
+      "text": "Driving or operating a tow truck in NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for your certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do if I am renewing my certificate?",
+      "a": "You must complete the PDF form, provide a photocopy of your unrestricted Australian driver licence (front and back), and enter the payment receipt number on the form after making the renewal payment through the payment portal.",
+      "link": null
+    },
+    {
+      "q": "What happens if my certificate has expired?",
+      "a": "The page mentions a section for 'If your certificate has expired' but does not provide specific instructions.",
+      "link": null
+    },
+    {
+      "q": "How do I replace my tow truck driver certificate?",
+      "a": "You need to complete the PDF application form, provide a photocopy of your unrestricted Australian driver licence (front and back), and enter the payment receipt number on the form after making the renewal payment through the payment portal.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:36Z",
+    "last_modified": "14 November 2025",
+    "html_sha1": "8d29d46e86e0c1e9c2b866ed5d7e29452f9a01ac",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

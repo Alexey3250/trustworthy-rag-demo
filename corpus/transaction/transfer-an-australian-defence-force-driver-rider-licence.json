@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-an-australian-defence-force-driver-rider-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-an-australian-defence-force-driver-rider-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-an-australian-defence-force-driver-rider-licence",
+  "title": "Transfer an Australian Defence Force driver/rider licence",
+  "summary": "Learn how to apply for a NSW driver or rider licence if you currently hold an Australian Defence Force (ADF) licence.",
+  "topics": [
+    "adf",
+    "driver-licence",
+    "rider-licence",
+    "nsw"
+  ],
+  "intro": "If you live in NSW and hold an Australian Defence Force (ADF) driver or rider licence, you can only use that licence while performing your duties. When driving/riding for other purposes, you'll need to apply for a NSW driver/rider licence.",
+  "who_can_apply": [
+    "You live in NSW and hold an Australian Defence Force (ADF) driver or rider licence.",
+    "You are applying for a NSW driver/rider licence for purposes other than performing ADF duties."
+  ],
+  "what_you_need": [
+    "Your ADF driver or rider licence",
+    "Verification of your ADF licence from the relevant authority",
+    "Proof of identity",
+    "Payment",
+    "The PDF form – 'Licence Application'",
+    "Completion of an eyesight test",
+    "Completion of all normal licence requirements"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Request your ADF authority to provide verification of your defence force licence to your preferred Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Make sure you have all your documentation and any additional items (glasses/contact lenses).",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit the relevant service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You have 30 days to visit a service centre after the ADF has provided verification of your defence force licence to the service centre.",
+      "link": null
+    },
+    {
+      "text": "Interstate ADF personnel and their dependants, can use their interstate driver licence until it expires, but must carry their defence force issued driver ID with them at all times.",
+      "link": null
+    },
+    {
+      "text": "Overseas defence force personnel, and their dependants, can drive without a NSW driver licence for up to 6 months. You must carry your current overseas driver licence (with an English translation if not in English) or International Driving Permit (IDP) with you at all times.",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are mailed generally within 6 weeks of the card's expiry date giving you plenty of time to plan ahead and renew early.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-driver-rider-and-heavy-vehicle-licence-fees"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Driver licences – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When can I use my ADF licence?",
+      "a": "You can only use your ADF licence while performing your duties.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a NSW licence?",
+      "a": "You need your ADF licence, verification of it from the relevant authority, proof of identity, and payment.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a relevant Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:14Z",
+    "last_modified": "8 July 2025",
+    "html_sha1": "0248e4e9d971491f3aa78549b54b10c303c5ed63",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

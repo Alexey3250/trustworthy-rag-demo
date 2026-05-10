@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-with-anti-discrimination-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-with-anti-discrimination-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-complaint-with-anti-discrimination-nsw",
+  "title": "Lodge a complaint with Anti-Discrimination NSW",
+  "summary": "You can lodge a complaint with Anti-Discrimination NSW if you believe you have experienced discrimination, sexual harassment, vilification, or victimisation.",
+  "topics": [
+    "anti-discrimination",
+    "lodge-complaint",
+    "sexual-harassment",
+    "vilification",
+    "victimisation"
+  ],
+  "intro": "If you believe that you have experienced discrimination, sexual harassment, vilification or victimisation, you can make a complaint to Anti-Discrimination NSW.\n\nA copy of your complaint and any information you provide will be shared with the person or organisation you are complaining about.\n\nYou can lodge a complaint online, by email or post.\n\nNote: Not all discrimination is unlawful. Before lodging a complaint, we recommend that you:",
+  "who_can_apply": [
+    "Individual or group who has been discriminated against, sexually harassed, vilified, or victimised.",
+    "A parent, guardian, or carer, or representative body can lodge the complaint on behalf of the individual, provided the representative names the individual and confirms agreement."
+  ],
+  "what_you_need": [
+    "A completed online or paper Anti-Discrimination NSW complaint form.",
+    "Copies of any supporting documents (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Lodge a complaint' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Lodge your complaint by:",
+      "link": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/complaints/how-to-make-a-complaint/tips-for-writing-a-complaint.html"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Most complaints are resolved within 5 months, but some complaints will be fast-tracked if they require urgent action, for example, if someone is about to lose their job.",
+      "link": null
+    },
+    {
+      "text": "Complaints older than 12 months can be declined unless there is a very good reason for the delay.",
+      "link": null
+    },
+    {
+      "text": "The complaint process is confidential – anything said or done cannot be used in any related court or tribunal proceeding.",
+      "link": null
+    },
+    {
+      "text": "Anti-Discrimination NSW is:",
+      "link": null
+    },
+    {
+      "text": "For more information, contact Anti-Discrimination NSW.",
+      "link": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/need-help/contact-us.html"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "types of discrimination",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/discrimination/types-of-discrimination.html"
+    },
+    {
+      "text": "complaint case studies",
+      "url": "https://antidiscrimination.nsw.gov.au/complaints/complaint-case-studies.html"
+    },
+    {
+      "text": "writing a letter",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/complaints/how-to-make-a-complaint/tips-for-writing-a-complaint.html"
+    },
+    {
+      "text": "Anti-Discrimination NSW",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/need-help/contact-us.html"
+    },
+    {
+      "text": "How to make a complaint – Anti-Discrimination NSW",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/complaints/how-to-make-a-complaint.html"
+    },
+    {
+      "text": "Complaints – Anti-Discrimination NSW",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/complaints.html"
+    },
+    {
+      "text": "FAQs – Anti-Discrimination NSW",
+      "url": "https://antidiscrimination.nsw.gov.au/anti-discrimination-nsw/need-help/frequently-asked-questions.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What types of incidents can I complain about?",
+      "a": "You can make a complaint if you believe you have experienced discrimination, sexual harassment, vilification, or victimisation.",
+      "link": null
+    },
+    {
+      "q": "Who can lodge a complaint?",
+      "a": "You can make a complaint if you are an individual or group who has been discriminated against, sexually harassed, vilified, or victimised. A parent, guardian, carer, or representative body can also lodge it on your behalf.",
+      "link": null
+    },
+    {
+      "q": "How can I lodge a complaint?",
+      "a": "You can lodge a complaint online, by email, or by post.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:31Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "387ba6546680219397d6392bd5b8747d36d15449",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

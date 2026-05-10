@@ -1,0 +1,41 @@
+{
+  "url": "https://www.service.nsw.gov.au/guidelines/medium-business-support-grant",
+  "source_url": "https://www.service.nsw.gov.au/guidelines/medium-business-support-grant",
+  "category": "guidelines",
+  "article_kind": "content",
+  "slug": "medium-business-support-grant",
+  "title": "Medium Business Support Grant – Guidelines",
+  "summary": "This page provides guidelines for the Medium Business Support Grant, detailing eligibility, costs, and the application process.",
+  "topics": [
+    "business-support",
+    "grant",
+    "medium-business",
+    "funding"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The grant is for medium businesses.",
+    "Eligibility criteria are detailed in the 'Eligible Applicants' section."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Division A",
+      "url": "https://www.abs.gov.au/statistics/classifications/australian-and-new-zealand-standard-industrial-classification-anzsic/2006-revision-2-0/division-definitions"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:52Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "dae7573dc2874463761aa33eca2e9652340af936",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

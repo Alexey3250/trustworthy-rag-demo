@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages",
+  "source_url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "resume-your-online-application-births-deaths-marriages",
+  "title": "Resume your online application or registration – Births, Deaths and Marriages",
+  "summary": "This page explains how to save and resume online applications for Births, Deaths, and Marriages.",
+  "topics": [
+    "births-deaths-marriages",
+    "online-application",
+    "resume-application",
+    "registry"
+  ],
+  "intro": "You're able to save and resume the following online Births, Deaths and Marriages applications:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The email address you entered on your application form.",
+    "The online reference number (ORN) provided during your application."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to the section Resume an application or registration on the Registry of Births, Deaths and Marriages website.",
+      "link": "https://forms.bdm.nsw.gov.au/"
+    },
+    {
+      "n": 2,
+      "text": "Select the relevant certificate option (for example, birth certificate).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your email address and ORN to resume.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have problems with your application contact Service NSW.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Resume an application or registration",
+      "url": "https://forms.bdm.nsw.gov.au/"
+    },
+    {
+      "text": "selecting 'Forgotten your ORN?'",
+      "url": "https://onlineforms.bdm.nsw.gov.au/application/resume"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Replace a change of name certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-change-of-name-certificate"
+    },
+    {
+      "text": "Register a birth",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "Apply to register a relationship in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-relationship-in-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What applications can I resume online?",
+      "a": "You can resume online applications for Births, Deaths, and Marriages.",
+      "link": null
+    },
+    {
+      "q": "What do I need to resume my application?",
+      "a": "You need the email address used on the application and the online reference number (ORN) provided when you applied.",
+      "link": null
+    },
+    {
+      "q": "Where do I go to resume my application?",
+      "a": "Go to the 'Resume an application or registration' section on the Registry of Births, Deaths and Marriages website.",
+      "link": "https://forms.bdm.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:05Z",
+    "last_modified": "15 April 2026",
+    "html_sha1": "1facd40fbd83fb8ce1cf008bd46d9e48e827356b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

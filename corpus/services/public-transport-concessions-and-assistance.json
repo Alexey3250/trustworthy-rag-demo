@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-assistance",
+  "source_url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-assistance",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "public-transport-concessions-and-assistance",
+  "title": "Public transport fares, concessions and assistance",
+  "summary": "Find information about public transport fares, concessions, and assistance programs available across NSW.",
+  "topics": [
+    "public-transport",
+    "fares",
+    "concessions",
+    "assistance",
+    "nsw-seniors"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Concession card holders",
+    "Apprentices or new entrant trainees",
+    "Isolated patients",
+    "Students",
+    "Seniors (NSW Seniors Card or Senior Savers Card holders)",
+    "People in regional or disadvantaged areas"
+  ],
+  "what_you_need": [
+    "Concession card",
+    "Proof of eligibility for specific schemes (e.g., IPTAAS, VTAS, ASTP)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Opal Next Generation: Tapping into the future of Opal",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/media-releases/opal-next-generation-tapping-into-future-of-opal"
+    },
+    {
+      "text": "Pensioner travel vouchers",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/pensioner-travel-vouchers"
+    },
+    {
+      "text": "Learn to swim program",
+      "url": "https://www.sport.nsw.gov.au/learn-to-swim-program"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "get an Opal card",
+      "url": "https://www.service.nsw.gov.au/referral/get-and-manage-an-opal-card"
+    },
+    {
+      "text": "Check the concession fares or free travel available",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies"
+    },
+    {
+      "text": "Deals and discounts for train and coach trips in regional NSW",
+      "url": "https://www.service.nsw.gov.au/referral/nsw-regional-travel-savings"
+    },
+    {
+      "text": "Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+      "url": "https://www.service.nsw.gov.au/services/isolated-patients-travel-and-accommodation-assistance-scheme-iptaas"
+    },
+    {
+      "text": "Vocational Training Assistance Scheme (VTAS) – for apprentices or new entrant trainees",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance"
+    },
+    {
+      "text": "Assisted School Travel Program (ASTP)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-assisted-school-travel-program"
+    },
+    {
+      "text": "Taxi Transport Subsidy Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-taxi-transport-subsidy-scheme"
+    },
+    {
+      "text": "Concessions, rebates and assistance services",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Disability assistance – Transport",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance#transport"
+    },
+    {
+      "text": "NSW Seniors Card or Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Finding lost money",
+      "url": "https://www.service.nsw.gov.au/guide/finding-lost-money"
+    },
+    {
+      "text": "Losing your wallet",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-wallet"
+    },
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about concession fares or free travel?",
+      "a": "You can check the concession fares or free travel available via the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies"
+    },
+    {
+      "q": "What assistance is available for isolated patients?",
+      "a": "The Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS) provides assistance.",
+      "link": "https://www.service.nsw.gov.au/services/isolated-patients-travel-and-accommodation-assistance-scheme-iptaas"
+    },
+    {
+      "q": "Are there travel assistance programs for students or trainees?",
+      "a": "Programs include the Vocational Training Assistance Scheme (VTAS) for apprentices or new entrant trainees, and the Assisted School Travel Program (ASTP).",
+      "link": null
+    },
+    {
+      "q": "What types of savings or discounts are available for regional travel?",
+      "a": "Deals and discounts for train and coach trips in regional NSW may be available, and pensioner travel vouchers are also available to eligible concession card holders.",
+      "link": "https://www.service.nsw.gov.au/referral/nsw-regional-travel-savings"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:33Z",
+    "last_modified": "29 April 2026",
+    "html_sha1": "33a8e6ed24861d820f7571ad2701944e69b3ca0c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

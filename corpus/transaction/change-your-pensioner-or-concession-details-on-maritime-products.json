@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-your-pensioner-or-concession-details-on-maritime-products",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-your-pensioner-or-concession-details-on-maritime-products",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-your-pensioner-or-concession-details-on-maritime-products",
+  "title": "Change your pensioner or concession details on maritime products",
+  "summary": "You can update your pensioner or concession details for maritime products by visiting a Service NSW Centre.",
+  "topics": [
+    "maritime-products",
+    "pensioner-details",
+    "concession-details",
+    "service-nsw"
+  ],
+  "intro": "If you need to let Transport for NSW know that your pensioner or concession details have changed, you can do so at a Service NSW Centre.\n\nNote: It is the same process for adding pensioner or concession details for the first time or for subsequent changes and updates.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "your eligible concession card",
+    "the PDF form – 'Change of Records – Maritime Products Only'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Form 1696: Change of Records – Maritime Products Only – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a new pensioner refund on a Mobility Parking Scheme permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-new-pensioner-refund-on-a-mobility-parking-scheme-permit"
+    },
+    {
+      "text": "Change the details on a NSW Seniors Card or NSW Senior Savers Card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:03Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "5b6d08ac7bcdba63a3cd86183e2a3c0942cb26c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

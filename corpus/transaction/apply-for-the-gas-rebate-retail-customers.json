@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-gas-rebate-retail-customers",
+  "title": "Apply for the NSW Gas Rebate (retail customers)",
+  "summary": "Find out how to apply for the NSW Gas Rebate if you are a retail (on-market) gas customer.",
+  "topics": [
+    "gas-rebate",
+    "nsw-gas",
+    "energy-bills",
+    "concession-card"
+  ],
+  "intro": "The NSW Gas Rebate helps eligible concession card holders pay their natural gas or bottled Liquefied Petroleum Gas (LPG) bills.\n\nThe rebate is $110 per retail (on-market) household per financial year.\n\nIf you are a retail (on-market) customer, you need to contact your gas retailer to apply.\n\nIf you are an embedded network (on-supply) gas customer, you may be eligible to apply for the NSW Gas Rebate (on supply and bottled gas households).\n\nNote: Embedded network ('on-supply') means your natural gas is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your gas bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the gas provider named on your gas bill.",
+  "who_can_apply": [
+    "You must have a natural gas or bottled gas (LPG) account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You must hold an eligible concession card.",
+    "If you are an embedded network (on-supply) gas customer, you may be eligible to apply for the NSW Gas Rebate (on supply and bottled gas households)."
+  ],
+  "what_you_need": [
+    "Your Services Australia Customer Reference Number (CRN) or Department of Veterans' Affairs file number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Call your gas retailer.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Ask for the NSW Gas Rebate to be applied to your account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Provide your eligible concession card details.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Confirm with your retailer that the rebate has been applied.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Retail customers receive the rebate as a daily credit on each energy bill, up to a total of $110 per year. The amount is calculated from the day you call your retailer and apply.",
+      "link": null
+    },
+    {
+      "text": "If you change your gas retailer, you can continue to receive the rebate by providing the new retailer with your:",
+      "link": null
+    },
+    {
+      "text": "A household can only receive one NSW Gas Rebate each financial year.",
+      "link": null
+    },
+    {
+      "text": "You can only receive the rebate for your principal place of residence.",
+      "link": null
+    },
+    {
+      "text": "If you receive the NSW Gas Rebate, you may be eligible for the NSW Low Income Household Rebate for your electricity account.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Commonwealth Seniors Health Card holders are not eligible for this rebate and can apply for the Seniors Energy Rebate instead.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "apply for the NSW Gas Rebate (on supply and bottled gas households)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "NSW Low Income Household Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Seniors Energy Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-seniors-energy-rebate"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Family Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Gas Rebate?",
+      "a": "The NSW Gas Rebate helps eligible concession card holders pay their natural gas or bottled Liquefied Petroleum Gas (LPG) bills. The rebate is $110 per retail household per financial year.",
+      "link": null
+    },
+    {
+      "q": "Who should apply for the rebate?",
+      "a": "If you are a retail (on-market) customer, you need to contact your gas retailer to apply. If you are an embedded network (on-supply) gas customer, you may be eligible to apply for the NSW Gas Rebate (on supply and bottled gas households).",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "q": "What does 'embedded network' mean?",
+      "a": "Embedded network ('on-supply') means your natural gas is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your gas bill or invoice from the strata manager or community/village operator.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:10Z",
+    "last_modified": "14 August 2025",
+    "html_sha1": "6080af01c671d6a60311ccdfc4d79d34d640769e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-limited-partnership",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-limited-partnership",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-limited-partnership",
+  "title": "Register a limited partnership",
+  "summary": "Register a limited partnership business structure with NSW Fair Trading’s Registry Services if it suits your business needs.",
+  "topics": [
+    "business-structure",
+    "limited-partnership",
+    "nsw-fair-trading",
+    "register-business"
+  ],
+  "intro": "If you’ve decided that a limited partnership business structure best suits your situation, you’ll need to register the limited partnership with NSW Fair Trading’s Registry Services. You can lodge your application by mail, or in person at a service centre.\n\nNote: Most partnerships are 'normal' and you don't need to register these. You should talk to your accountant or solicitor before settling on a business structure.",
+  "who_can_apply": [
+    "Must have at least 1 general partner (maximum of 20).",
+    "Must have at least 1 limited partner.",
+    "Must have a registered office in NSW (a post office box is not acceptable)."
+  ],
+  "what_you_need": [
+    "The proposed name of the limited partnership.",
+    "Registered office and postal addresses of the limited partnership.",
+    "Name, address, date and place of birth, and signature of each partner.",
+    "The limit of liability amount for each Limited Partner.",
+    "The PDF form: 'Application for registration of a Limited Partnership form (Form LP1)'."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required information.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete the form and submit it with your payment either:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "a person may be admitted as a partner of the limited partnership without the need to get consent of any other limited partner",
+      "link": null
+    },
+    {
+      "text": "once registered, you don't need to register a business name as long as you do business under the full registered limited partnership name",
+      "link": null
+    },
+    {
+      "text": "a limited partnership has 2 types of partners:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form LP1: Application for registration of a limited partnership form – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/limited-and-incorporated-limited-partnerships-nsw/form-lp1-application-for-registration-of-a-limited-partnership"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    },
+    {
+      "text": "Business partnerships - Business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/partnership"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Set up an incorporated limited partnership",
+      "url": "https://www.service.nsw.gov.au/transaction/set-up-an-incorporated-limited-partnership"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to register my partnership?",
+      "a": "Most partnerships are considered 'normal' and do not require registration. You should consult your accountant or solicitor before deciding on a business structure.",
+      "link": null
+    },
+    {
+      "q": "How can I register a limited partnership?",
+      "a": "You can lodge your application by mail or in person at a service centre.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for a limited partnership?",
+      "a": "The partnership must have at least one general partner (up to 20), at least one limited partner, and a registered office in NSW (a post office box is not acceptable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:57Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "48a1197b6001d752d9d5fa2a4326f121cd17480f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-recreational-fishing-licence-3-day-or-1-month",
+  "title": "Apply for a recreational fishing licence (3-day or 1-month)",
+  "summary": "Find out about and apply for a short-term recreational fishing licence (3-day or 1-month) in NSW.",
+  "topics": [
+    "fishing-licence",
+    "recreational-fishing",
+    "nsw-fishing",
+    "apply-online"
+  ],
+  "intro": "Recreational fishing licences are required in NSW, even if you only fish occasionally. Short-term (3-day or 1-month) and long-term (1-year or 3-year) licences are available.\n\nYou need a licence if:\n\nActivities in NSW freshwater or saltwater that require a licence include:",
+  "who_can_apply": [
+    "You need a licence if you are engaging in activities in NSW freshwater or saltwater that require a licence."
+  ],
+  "what_you_need": [
+    "A credit card",
+    "Proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "a credit card, and",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "proof of identity.",
+      "link": null
+    }
+  ],
+  "fees": "The NSW Government recreational fishing licence fees are:\n\nYou must show your licence fee receipt if asked by an authorised officer.\n\nFor more information on recreational fishing and licence fees visit NSW Primary Industries website.\n\n### Fee exemptions\n\nNot everyone has to pay a fee for a recreational fishing licence.\n\nCheck if you are eligible for a recreational fishing fee exemption.\n\nIf you are eligible, you'll need to carry the necessary proof with you when you're fishing, in case you're called upon to show it.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Primary Industries website",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee"
+    },
+    {
+      "text": "recreational fishing fee exemption",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/exemptions"
+    },
+    {
+      "text": "Recreational fishing information and services",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/declaration-and-privacy-collection-notice"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Replace a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a fishing licence if I only fish occasionally?",
+      "a": "Yes, recreational fishing licences are required in NSW, even if you only fish occasionally.",
+      "link": null
+    },
+    {
+      "q": "What types of fishing licences are available?",
+      "a": "Short-term (3-day or 1-month) and long-term (1-year or 3-year) licences are available.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a licence?",
+      "a": "You must select the 'Apply online' button, complete the online application form, provide a credit card, and show proof of identity.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:26Z",
+    "last_modified": "15 December 2025",
+    "html_sha1": "cde22bae3e45d80cf1b8b27d6b3e7088ce1ccc81",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

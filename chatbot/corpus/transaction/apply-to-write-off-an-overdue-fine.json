@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-write-off-an-overdue-fine",
+  "title": "Apply to write-off an overdue fine",
+  "summary": "You can apply to have an overdue fine written off if you are experiencing serious financial, medical, or domestic difficulties.",
+  "topics": [
+    "overdue-fine",
+    "financial-hardship",
+    "medical-hardship",
+    "domestic-violence"
+  ],
+  "intro": "If you're facing serious financial and medical or domestic problems, you can apply to get your overdue fine written-off.\n\nIf you're eligible to have your overdue fine written-off, you will not have to pay some or all of your fine but any demerit points (if applicable) will still be applied.\n\nYou'll need to show that you cannot pay now and are unlikely to be able to pay in the future.\n\nYou should not apply to have your overdue fine written-off if you have substantial assets, savings or investments that can be used for payment.",
+  "who_can_apply": [
+    "Have serious financial, medical, or domestic problems (such as family violence) that prevent you from paying your fine.",
+    "Be unable to pay your fine with a payment plan or Work and Development Order (WDO).",
+    "Do not have substantial assets, savings, or investments that can be used for payment."
+  ],
+  "what_you_need": [
+    "Your driver licence (if applicable).",
+    "Your overdue fine number(s).",
+    "A letter from you describing your financial situation and why you think it will not improve.",
+    "Copies of supporting documents showing your financial circumstances for the last 3 months (e.g., proof of income, payslips, Centrelink statements, bank statements, bills, and expenses).",
+    "A letter or report from a doctor, hospital, or health care worker outlining your medical circumstances (if applicable).",
+    "A report from a case worker, social worker, or other professional confirming domestic problems (if applicable).",
+    "Police reports or court documents to confirm your situation (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Include all the information and supporting documents requested, or your application may be refused. If you need help, you can ask a family member, your solicitor/legal advisor or your community welfare officer to apply on your behalf.",
+      "link": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/support-and-community-services/authorise-someone-else"
+    },
+    {
+      "text": "If some or all of your overdue fine is written-off, Revenue NSW will not take any recovery action for 5 years. You must not receive any further overdue notices within this 5-year period. If you do, the write off decision may be reversed and you'll need to pay all overdue fines.",
+      "link": null
+    },
+    {
+      "text": "If your application is unsuccessful, you can appeal the decision through the Hardship Review Board.",
+      "link": "https://www.nsw.gov.au/hardship-review-board"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "apply on your behalf",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/support-and-community-services/authorise-someone-else"
+    },
+    {
+      "text": "Hardship Review Board",
+      "url": "https://www.nsw.gov.au/hardship-review-board"
+    },
+    {
+      "text": "Difficulty paying your fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine"
+    },
+    {
+      "text": "Write off a fine – NSW Government",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/apply-to-have-your-fine-written-off"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "payment plan",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "Work and Development Order (WDO)",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    },
+    {
+      "text": "Guide to help people impacted by domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Pay an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine"
+    },
+    {
+      "text": "Apply to review an overdue fine in court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    },
+    {
+      "text": "Apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "If my fine is written off, will I still have to pay demerit points?",
+      "a": "If you are eligible to have your overdue fine written off, you will not have to pay some or all of your fine, but any demerit points (if applicable) will still be applied.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply to write off an overdue fine?",
+      "a": "You must have serious financial, medical, or domestic problems that prevent you from paying your fine, and you must be unable to pay with a payment plan or Work and Development Order (WDO).",
+      "link": null
+    },
+    {
+      "q": "Can I apply if I have savings or assets?",
+      "a": "You should not apply if you have substantial assets, savings, or investments that can be used for payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:20Z",
+    "last_modified": "21 November 2025",
+    "html_sha1": "bba032ad7bfdd69abffd3613aa36ac661e3ac597",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

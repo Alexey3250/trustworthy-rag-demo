@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/school-check-tool-privacy-collection-statement",
+  "source_url": "https://www.service.nsw.gov.au/school-check-tool-privacy-collection-statement",
+  "category": "school-check-tool-privacy-collection-statement",
+  "article_kind": "content",
+  "slug": "school-check-tool-privacy-collection-statement",
+  "title": "School visitor check-in – Privacy Collection Notice",
+  "summary": "This notice explains what personal information the Department of Education and Service NSW will collect when you use the digital School Check-in tool at NSW government schools.",
+  "topics": [
+    "school-check-in",
+    "privacy",
+    "nsw-schools",
+    "personal-information"
+  ],
+  "intro": "To improve the ability to register visitors at school sites, the NSW Department of Education (DoE) has partnered with Service NSW to develop a digital School Check-in tool for all NSW government schools.The School Check-in tool is necessary to:\n\nThe School Check-in tool will be available as:\n\nThis Privacy Collection Notice is to advise you of the personal information DoE and Service NSW will collect from you when you use the School Check-in tool.",
+  "who_can_apply": [
+    "Anyone visiting an NSW government school site."
+  ],
+  "what_you_need": [
+    "If you do not want to provide personal information, you must use a paper-based attendance method provided by the school."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "you can access and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made",
+      "link": null
+    },
+    {
+      "text": "information is securely stored and",
+      "link": null
+    },
+    {
+      "text": "you can contact Service NSW.",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW may collect anonymous user data, such as how you interact with the Service NSW app, to support improvements to our services and the Service NSW app.",
+      "link": null
+    },
+    {
+      "text": "Anonymous and de-identified statistical data (such as number of people checking-in, visitor types and proportion of those who added credentials) is analysed by Service NSW and may be disclosed to DoE to support the school visitor check-in experience. This will not contain personal information, because the information is de-identified and will be grouped together so no individual is identifiable.",
+      "link": null
+    },
+    {
+      "text": "Visit Service NSW Privacy for more information about how Service NSW handles your personal information. This includes how:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "State Archives and Records General Retention and Disposal Authority GA28 16.24.5",
+      "url": "https://staterecords.nsw.gov.au/recordkeeping/guidance-and-resources/administrative-records-ga28"
+    },
+    {
+      "text": "Department of Education's privacy information and forms",
+      "url": "https://education.nsw.gov.au/rights-and-accountability/privacy/privacy-information-and-forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Digital trade licences and credentials – Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/digital-trade-licences-and-credentials"
+    },
+    {
+      "text": "Service NSW Privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is personal information collected using the School Check-in tool?",
+      "a": "The information is collected to understand who was on school site, respond to injuries or incidents, exercise complaint handling and investigative functions, manage contracts, handle child protection, comply with laws, and carry out other functions of the Department of Education.",
+      "link": null
+    },
+    {
+      "q": "What types of personal information are collected?",
+      "a": "Details collected include the premises you are visiting, who you are visiting, the time and date of your visit, your name, phone number, visitor type, company name (if applicable), and job ID (if applicable).",
+      "link": null
+    },
+    {
+      "q": "What happens if I do not want to provide my personal information?",
+      "a": "You must register your attendance using a paper-based method provided by the school. If no paper-based method is available, you will not be able to attend the NSW government school site and must leave immediately.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:01Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "45217a85a36cd14b966d1fc4d2f60e5f2a1a3e69",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

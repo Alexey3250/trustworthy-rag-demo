@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "identity-assurance",
+  "title": "Identity Assurance: customer identity verification",
+  "summary": "This page explains how Service NSW verifies your identity to ensure you are who you say you are when accessing services.",
+  "topics": [
+    "identity-verification",
+    "digital-services",
+    "security",
+    "customer-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Authenticate",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Digital Notifications",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications"
+    },
+    {
+      "text": "Grants",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants"
+    },
+    {
+      "text": "Rebates",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/rebates"
+    },
+    {
+      "text": "Service Booker",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/service-booker"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-vouchers"
+    },
+    {
+      "text": "Learn more about Service NSW digital capabilities",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does Service NSW verify my identity?",
+      "a": "Service NSW uses various methods to verify your identity, including checking your existing accounts and using secure digital processes.",
+      "link": null
+    },
+    {
+      "q": "What is the purpose of identity assurance?",
+      "a": "Identity assurance ensures that when you access a service, the system knows for sure that you are the person you claim to be, protecting your information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:52Z",
+    "last_modified": "11 November 2025",
+    "html_sha1": "f1b185fa4af89f720f793a593994900dc0f56917",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

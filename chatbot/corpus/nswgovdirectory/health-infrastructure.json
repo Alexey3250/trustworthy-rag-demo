@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-infrastructure",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/health-infrastructure",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "health-infrastructure",
+  "title": "Health Infrastructure",
+  "summary": "This page provides information about health infrastructure in New South Wales.",
+  "topics": [
+    "health-infrastructure",
+    "nsw-health",
+    "medical-facilities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/health-infrastructure",
+      "url": "https://www.nsw.gov.au/health-infrastructure"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "136cd91664816ee2179a5af1c1381b5cef3ccbf9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

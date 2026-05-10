@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/hospitality-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/hospitality-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "hospitality-industry",
+  "title": "Hospitality industry",
+  "summary": "This page provides information and links to various services and regulations for businesses operating in the hospitality industry in NSW.",
+  "topics": [
+    "hospitality",
+    "food-safety",
+    "liquor-licences",
+    "business-operations",
+    "alcohol-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Food processing, storage and production",
+      "link": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "link": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Food serving and safety",
+      "url": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "text": "Gaming and gambling",
+      "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    },
+    {
+      "text": "Liquor licences and information",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "Hospitality industry training (RSA, RCG, ARCG)",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Apply for an RSA competency card (NSW RSA bridging applicants)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-competency-card-nsw-rsa-bridging-applicants"
+    },
+    {
+      "text": "Find a licensed venue",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-licensed-venue"
+    },
+    {
+      "text": "Apply for alfresco and outdoor dining approval",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-outdoor-dining-approval"
+    },
+    {
+      "text": "Apply for a licence to play music at your business",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business"
+    },
+    {
+      "text": "Food processing, storage and production",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Start or grow a business in NSW",
+      "url": "https://www.service.nsw.gov.au/guide/start-or-grow-a-business-in-nsw"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the rules for food safety in the hospitality industry?",
+      "a": "You can find information regarding food serving and safety requirements.",
+      "link": "https://www.service.nsw.gov.au/services/food-serving-and-safety"
+    },
+    {
+      "q": "Where can I find information about liquor licenses?",
+      "a": "Information regarding liquor licenses and related services is available.",
+      "link": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "q": "What do I need to know about responsible service of alcohol?",
+      "a": "There is specific information available regarding Responsible Service of Alcohol (RSA) and Responsible Conduct of Gambling (RCG).",
+      "link": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "q": "How do I apply for outdoor dining or alfresco areas?",
+      "a": "You can apply for approval for alfresco and outdoor dining.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-for-outdoor-dining-approval"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:10Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "26a967d1b2a531ff04296b7f0676e248af761462",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-rental-bonds-online-account-landlords-and-agents",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-rental-bonds-online-account-landlords-and-agents",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-rental-bonds-online-account-landlords-and-agents",
+  "title": "Check a Rental Bonds Online account (landlords and agents)",
+  "summary": "Landlords and property agents can use the NSW Fair Trading Rental Bonds Online account to manage their rental bonds.",
+  "topics": [
+    "landlords",
+    "property-agents",
+    "rental-bonds",
+    "nsw-fair-trading"
+  ],
+  "intro": "With your NSW Fair Trading Rental Bonds Online account, as a private landlord or property agent you're able to:\n\nVisit the NSW Fair Trading website to learn more about a Rental Bonds Online account.",
+  "who_can_apply": [
+    "private landlord",
+    "property agent"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Rental Bonds Online account",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register for a Rental Bonds Online account (landlords)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-landlords"
+    },
+    {
+      "text": "Register for a Rental Bonds Online account (agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-agents"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:22Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "2bd18f096e7b35594c933c4d9dd0a07655955d44",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

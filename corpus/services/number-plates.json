@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/number-plates",
+  "source_url": "https://www.service.nsw.gov.au/services/number-plates",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "number-plates",
+  "title": "Number plates",
+  "summary": "This page provides information and links for various services related to number plates, including ordering, replacing, storing, and reporting lost plates.",
+  "topics": [
+    "number-plates",
+    "vehicle-registration",
+    "vehicle-accessories",
+    "vehicle-storage"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Trader's plates",
+      "link": "https://www.service.nsw.gov.au/services/traders-plates"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    },
+    {
+      "text": "Order special number plates as a gift",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift"
+    },
+    {
+      "text": "Order auxiliary (bike rack) plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-auxiliary-plates"
+    },
+    {
+      "text": "Order number plates as a dealer with an agreement",
+      "url": "https://www.service.nsw.gov.au/transaction/order-number-plates-as-a-dealer-with-an-agreement"
+    },
+    {
+      "text": "Order a souvenir miniature numeral-only plate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-souvenir-miniature-numeral-only-plate"
+    },
+    {
+      "text": "Apply to collect number plates from another service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre"
+    },
+    {
+      "text": "Collect or surrender number plates held in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage"
+    },
+    {
+      "text": "Replace or change number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    },
+    {
+      "text": "Cancel a number plate order",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order"
+    },
+    {
+      "text": "Transfer number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates"
+    },
+    {
+      "text": "Reserve a number plate combination",
+      "url": "https://www.service.nsw.gov.au/transaction/reserve-a-number-plate-combination"
+    },
+    {
+      "text": "Get manufactured a reserved number plate combination",
+      "url": "https://www.service.nsw.gov.au/transaction/order-the-manufacture-of-a-reserved-number-plate-combination"
+    },
+    {
+      "text": "Place your number plates on hold/in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "Renew the storage/hold period of number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates"
+    },
+    {
+      "text": "Change the storage location of your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates"
+    },
+    {
+      "text": "Report lost, stolen or destroyed number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates"
+    },
+    {
+      "text": "Apply for tourist vehicle plates",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-tourist-vehicle-plates"
+    },
+    {
+      "text": "Make a complaint about the content of a number plate",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-the-content-of-a-number-plate"
+    },
+    {
+      "text": "Trader's plates",
+      "url": "https://www.service.nsw.gov.au/services/traders-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I order different types of number plates?",
+      "a": "You can order special number plates, auxiliary (bike rack) plates, or souvenir miniature numeral-only plates. You can also order plates as a dealer with an agreement.",
+      "link": null
+    },
+    {
+      "q": "What do I do if my number plates are lost, stolen, or destroyed?",
+      "a": "You can report lost, stolen, or destroyed number plates using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-lost-stolen-or-destroyed-number-plates"
+    },
+    {
+      "q": "Can I temporarily store my number plates?",
+      "a": "You can place your number plates on hold or in storage, and you can also renew the storage period or change the storage location.",
+      "link": null
+    },
+    {
+      "q": "How do I transfer or change my number plates?",
+      "a": "You can transfer number plates or replace or change existing number plates.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:50Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "6718d5cf9ba11ced166b38936ff3eee96c23f282",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

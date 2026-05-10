@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/comply-with-australian-standards",
+  "source_url": "https://www.service.nsw.gov.au/transaction/comply-with-australian-standards",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "comply-with-australian-standards",
+  "title": "Comply with Australian standards",
+  "summary": "Learn about Australian standards, which set specifications for goods, services, and systems.",
+  "topics": [
+    "australian-standards",
+    "product-safety",
+    "design-specifications",
+    "manufacturing"
+  ],
+  "intro": "Australian standards set out specifications and design procedures for goods, services and systems.\n\nThese standards help to make sure products and services:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "removing the product from sale",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "contacting consumers, and",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "publicly offering to repair, replace or refund the product.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The ACCC develops standards in consultation with industry and the public. You can have your say on and view consultations about standards on their website.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "list of current mandatory standards",
+      "url": "https://www.productsafety.gov.au/business/search-mandatory-standards"
+    },
+    {
+      "text": "Standards Australia",
+      "url": "https://www.standards.org.au/about/what-we-do"
+    },
+    {
+      "text": "ISO",
+      "url": "https://www.iso.org/home.html"
+    },
+    {
+      "text": "product recalls",
+      "url": "https://www.productsafety.gov.au/recalls/conducting-a-consumer-product-safety-recall"
+    },
+    {
+      "text": "view consultations",
+      "url": "https://www.productsafety.gov.au/about-us/consultations"
+    },
+    {
+      "text": "Product safety Australia – ACCC",
+      "url": "https://www.productsafety.gov.au/"
+    },
+    {
+      "text": "Contact the ACCC about product safety",
+      "url": "https://www.productsafety.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:02Z",
+    "last_modified": "26 March 2026",
+    "html_sha1": "7218e97b5f21866d89dfca7e6a63b261dcd00cd3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

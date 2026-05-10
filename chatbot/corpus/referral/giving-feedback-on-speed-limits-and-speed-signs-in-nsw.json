@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/giving-feedback-on-speed-limits-and-speed-signs-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/giving-feedback-on-speed-limits-and-speed-signs-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "giving-feedback-on-speed-limits-and-speed-signs-in-nsw",
+  "title": "Giving feedback on speed limits and speed signs in NSW",
+  "summary": "You can submit feedback about speed signs and speed limits in NSW to help prioritise road safety reviews.",
+  "topics": [
+    "road-safety",
+    "speed-limits",
+    "speed-signs",
+    "feedback"
+  ],
+  "intro": "The Centre for Road Safety uses feedback submitted by the public, along with crash data and other road safety engineering information, to prioritise the roads that need a speed zone review.\n\nIf you'd like to lodge feedback regarding speed signs and speed limits in NSW, you can complete an online form on the Centre for Road Safety website.\n\nIf they need further information, they may contact you using the details you've provided.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Centre for Road Safety",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding/have-your-say/speed-limits-have-your-say"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:58Z",
+    "last_modified": "11 October 2024",
+    "html_sha1": "bb870a5aa88cd7a1a5daa07b91a427a1f319ec5a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

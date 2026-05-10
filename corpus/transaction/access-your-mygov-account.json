@@ -1,0 +1,143 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/access-your-mygov-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/access-your-mygov-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "access-your-mygov-account",
+  "title": "Access your myGov account",
+  "summary": "Learn how to access and use your myGov account to link and manage various Australian Government services online.",
+  "topics": [
+    "mygov",
+    "services-australia",
+    "online-account",
+    "government-services"
+  ],
+  "intro": "myGov is the Australian Government's secure online portal that allows you to access its services online. myGov is run by Services Australia.\n\nYou can choose which services you want to link to your myGov account. It also has a secure inbox where you can get messages from some of your linked services.\n\n### MyServiceNSW Account\n\nTo access Service NSW services (such as vehicle registration, driver licence or Working with Children Check), go to the MyServiceNSW Account login.\n\nFor more information see the MyServiceNSW Account help topics.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A myGov account to link services to your account.",
+    "You can use myGovID to prove your identity when creating an account.",
+    "You can sign in using the myGov website or the myGov app."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You will need to create a myGov account to link services to your account.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "When you create an account, you'll have the option to use myGovID to prove your identity.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "To access your account, you can sign in using the myGov website or the myGov app.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/"
+    },
+    {
+      "text": "MyServiceNSW Account login",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "Medicare",
+      "url": "https://www.servicesaustralia.gov.au/medicare"
+    },
+    {
+      "text": "Centrelink",
+      "url": "https://www.servicesaustralia.gov.au/centrelink?context=1"
+    },
+    {
+      "text": "Australian Taxation Office",
+      "url": "https://www.ato.gov.au/"
+    },
+    {
+      "text": "Child Support",
+      "url": "https://www.servicesaustralia.gov.au/separated-parents"
+    },
+    {
+      "text": "My Health Record",
+      "url": "https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record"
+    },
+    {
+      "text": "My Aged Care",
+      "url": "https://www.myagedcare.gov.au/"
+    },
+    {
+      "text": "Veterans' Affairs",
+      "url": "https://www.dva.gov.au/"
+    },
+    {
+      "text": "Workforce Australia",
+      "url": "https://www.workforceaustralia.gov.au/"
+    },
+    {
+      "text": "create a myGov account",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "myGovID",
+      "url": "https://www.mygovid.gov.au/"
+    },
+    {
+      "text": "myGov app",
+      "url": "https://my.gov.au/en/about/help/mygov-app"
+    },
+    {
+      "text": "myGov languages: For help in-languages",
+      "url": "https://my.gov.au/en/languages"
+    },
+    {
+      "text": "myGov help section: Find out how to manage your account or use the myGov app",
+      "url": "https://my.gov.au/en/about/help"
+    },
+    {
+      "text": "myGov helpdesk: For help signing in and using your myGov account",
+      "url": "https://my.gov.au/en/about/help/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "National Disability Insurance Scheme",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is myGov?",
+      "a": "myGov is the Australian Government's secure online portal that allows you to access its services online. It is run by Services Australia.",
+      "link": null
+    },
+    {
+      "q": "How do I access Service NSW services?",
+      "a": "To access Service NSW services (such as vehicle registration, driver licence or Working with Children Check), go to the MyServiceNSW Account login.",
+      "link": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "q": "What services can I link to my myGov account?",
+      "a": "You can link services such as Medicare, Centrelink, Australian Taxation Office, National Disability Insurance Scheme, Child Support, My Health Record, My Aged Care, and Veterans' Affairs.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:28Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "628a2557afed2f33c7e491552c7c9c37deb42442",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

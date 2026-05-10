@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships",
+  "source_url": "https://www.service.nsw.gov.au/referral/fee-free-apprenticeships",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "fee-free-apprenticeships",
+  "title": "Fee-free apprenticeships",
+  "summary": "Find out about fee-free apprenticeships and traineeships available in NSW.",
+  "topics": [
+    "apprenticeships",
+    "traineeships",
+    "nsw",
+    "skills-nsw",
+    "training"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You can apply if you are a NSW apprentice or NSW school-based apprentice and start Smart and Skilled apprenticeship training before 30 June 2027.",
+    "Fee-free training is available until you complete your training if you: started your apprenticeship training before 1 July 2018 and change employer or apprenticeship course and return to an apprenticeship before 30 June 2027."
+  ],
+  "what_you_need": [
+    "Learn skills, gain work experience and earn a wage at the same time.",
+    "Complete your qualification in 3 to 4 years for most courses.",
+    "No upfront training costs"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Fee-Free apprenticeships",
+      "link": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/low-cost-and-free-training-options/fee-free-apprenticeships"
+    },
+    {
+      "text": "Fee-Free traineeships",
+      "link": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/low-cost-and-free-training-options/fee-free-traineeships"
+    },
+    {
+      "text": "Skills NSW",
+      "link": "https://education.nsw.gov.au/skills-nsw"
+    },
+    {
+      "text": "Training course information.",
+      "link": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    },
+    {
+      "text": "To find more information for both employers and apprentices visit:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Fee-Free apprenticeships",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/low-cost-and-free-training-options/fee-free-apprenticeships"
+    },
+    {
+      "text": "Fee-Free traineeships",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/low-cost-and-free-training-options/fee-free-traineeships"
+    },
+    {
+      "text": "Skills NSW",
+      "url": "https://education.nsw.gov.au/skills-nsw"
+    },
+    {
+      "text": "Training course information",
+      "url": "https://education.nsw.gov.au/skills-nsw/training-courses"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:37Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "10a65be8c84d3c4c14382ca266c6fe7709dc4f9b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

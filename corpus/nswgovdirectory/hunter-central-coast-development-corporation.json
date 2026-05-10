@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/hunter-central-coast-development-corporation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/hunter-central-coast-development-corporation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "hunter-central-coast-development-corporation",
+  "title": "Hunter & Central Coast Development Corporation",
+  "summary": "This page provides information about the Hunter & Central Coast Development Corporation.",
+  "topics": [
+    "development",
+    "central-coast",
+    "hunter",
+    "corporation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.hccdc.nsw.gov.au/",
+      "url": "https://www.hccdc.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:51Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f6495226c6ee05c5a23baca8d4e34ce4fb58a4d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

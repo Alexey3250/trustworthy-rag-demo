@@ -1,0 +1,37 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/using-the-maritime-mobile-portal",
+  "source_url": "https://www.service.nsw.gov.au/referral/using-the-maritime-mobile-portal",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "using-the-maritime-mobile-portal",
+  "title": "Using the maritime mobile portal",
+  "summary": "This page describes the secure online facility provided by Transport for NSW (TfNSW) for its network of agents.",
+  "topics": [
+    "maritime-portal",
+    "tfnsw-agents",
+    "online-access"
+  ],
+  "intro": "Transport for NSW's (TfNSW) maritime mobile portal is a secure online facility that provides access for the network of TfNSW agents throughout NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "maritime mobile portal",
+      "url": "https://www.onegov.nsw.gov.au/LicenceCheck/Authentication.mvc/MobileLogin?LicenceGroup=Maritime&RedirectUrl=/Licencecheck/MWPSearch.mvc"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:14Z",
+    "last_modified": "26 November 2024",
+    "html_sha1": "06c82e156ff1f0a3f25f20c6ed2694b241180067",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

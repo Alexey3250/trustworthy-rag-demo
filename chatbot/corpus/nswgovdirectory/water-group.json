@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/water-group",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/water-group",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "water-group",
+  "title": "Water Group",
+  "summary": "This page provides information about the NSW Water Group, covering various aspects of water management, science, and regulations in New South Wales.",
+  "topics": [
+    "water-management",
+    "water-science",
+    "licensing",
+    "environmental-regulation",
+    "water-quality"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.water.dcceew.nsw.gov.au/",
+      "url": "https://www.water.dcceew.nsw.gov.au/"
+    },
+    {
+      "text": "Report suspicious or illegal water activity – NSW Natural Resources Access Regulator",
+      "url": "https://www.nrar.nsw.gov.au/report-suspicious-water-activities"
+    },
+    {
+      "text": "Licensing and approvals – NSW Government Water Group",
+      "url": "https://www.water.dcceew.nsw.gov.au/our-work/licensing-and-approvals"
+    },
+    {
+      "text": "Groundwater management and science – NSW Government Water Group",
+      "url": "https://www.water.dcceew.nsw.gov.au/our-work/science-data-and-modelling/groundwater-management-and-science"
+    },
+    {
+      "text": "Real-Time Water Data – Water NSW",
+      "url": "https://realtimedata.waternsw.com.au/"
+    },
+    {
+      "text": "Water Sharing Plans – NSW Government Water Group",
+      "url": "https://www.water.dcceew.nsw.gov.au/our-work/plans-and-strategies/water-sharing-plans"
+    },
+    {
+      "text": "Water trade – NSW Government Water Group",
+      "url": "https://www.water.dcceew.nsw.gov.au/our-work/licensing-and-approvals/trade"
+    },
+    {
+      "text": "Algae Alerts – Water NSW",
+      "url": "https://www.waternsw.com.au/water-services/water-quality/algae-alerts"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about water licensing and approvals?",
+      "a": "You can find information on licensing and approvals through the NSW Government Water Group.",
+      "link": "https://www.water.dcceew.nsw.gov.au/our-work/licensing-and-approvals"
+    },
+    {
+      "q": "How can I report suspicious or illegal water activity?",
+      "a": "You can report suspicious or illegal water activity to the NSW Natural Resources Access Regulator.",
+      "link": "https://www.nrar.nsw.gov.au/report-suspicious-water-activities"
+    },
+    {
+      "q": "Where can I view real-time water data?",
+      "a": "Real-time water data is available from Water NSW.",
+      "link": "https://realtimedata.waternsw.com.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:43Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "376345f1e7ce44c974fd8667b2f12bb73786f4d2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-nsw-spectacles-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-nsw-spectacles-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-nsw-spectacles-program",
+  "title": "Apply for the NSW Spectacles Program",
+  "summary": "Find out if you are eligible for and how to apply for the NSW Spectacles Program, which provides free glasses and vision aids to financially disadvantaged NSW residents.",
+  "topics": [
+    "nsw",
+    "spectacles",
+    "glasses",
+    "vision-aids",
+    "financial-assistance"
+  ],
+  "intro": "The NSW Spectacles Program provides free glasses and vision aids to financially disadvantaged NSW residents.\n\nIf you're eligible, you can receive free of charge in any 2-year period:\n\nContact lenses, tinted lenses or low vision aids may be provided in certain circumstances.",
+  "who_can_apply": [
+    "Must be an Australian permanent resident living in NSW.",
+    "Must receive a full Centrelink pension or income support payment, and receive no other income other than the Centrelink payment.",
+    "Must be a low-wage earner who earns less than the specified amount.",
+    "Must have financial assets less than $500 (if single) or $1,000 (if married/partnered, or with dependents).",
+    "Must not be eligible for any other spectacles subsidy schemes."
+  ],
+  "what_you_need": [
+    "Check the eligibility requirements.",
+    "Select 'Find out more'.",
+    "Follow the application process steps."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Find out more'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the application process steps.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Spectacles Program providers – PDF",
+      "url": "https://www.visionaustralia.org/sites/default/files/2025-02/List%20of%20Providers%20130225.pdf"
+    },
+    {
+      "text": "NSW Spectacles Program – Vision Australia",
+      "url": "https://www.visionaustralia.org/services/funding/other-funding/nsw-spectacles"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What does the NSW Spectacles Program provide?",
+      "a": "The program provides free glasses and vision aids to financially disadvantaged NSW residents. Depending on circumstances, contact lenses or tinted lenses may also be provided.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the program?",
+      "a": "Applicants must be an Australian permanent resident living in NSW. Eligibility also depends on income, financial assets, and not being eligible for other spectacles subsidy schemes.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for the NSW Spectacles Program?",
+      "a": "To apply, you must check the eligibility requirements, select 'Find out more', and follow the application process steps.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:56Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "49509793f42e48a8d1053e7d197f083c3abf1a1e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/accountants-letter",
+  "source_url": "https://www.service.nsw.gov.au/accountants-letter",
+  "category": "accountants-letter",
+  "article_kind": "content",
+  "slug": "accountants-letter",
+  "title": "Accountant's letter templates",
+  "summary": "This page provides templates for accountants' letters, including one specifically for sole traders.",
+  "topics": [
+    "accountants-letter",
+    "sole-traders",
+    "small-business-grants",
+    "templates"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Letter of Authority templates",
+      "link": "https://www.service.nsw.gov.au/letter-of-authority"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy collection notices for our transactions and services.",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Accountant's letter template for sole traders",
+      "url": "https://www.service.nsw.gov.au/accountants-letter/small-business-grant-bondi-agrn1240"
+    },
+    {
+      "text": "Letter of Authority templates",
+      "url": "https://www.service.nsw.gov.au/letter-of-authority"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:40Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "5599ff9fea817c3cf47798207144a6292ec9515e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

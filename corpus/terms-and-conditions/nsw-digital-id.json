@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/nsw-digital-id",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "nsw-digital-id",
+  "title": "NSW Digital Identity Pilot – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for participating in the NSW Digital Identity Pilot.",
+  "topics": [
+    "nsw-digital-id",
+    "terms-and-conditions",
+    "service-nsw",
+    "identity-pilot"
+  ],
+  "intro": "1.1 The following Terms and Conditions form an agreement between you and Service NSW (together, the Parties), including the Parties’ obligations in relation to the Pilot, and relevant liabilities and indemnities.\n\n1.2 These Terms and Conditions enter into force on [15 December 2025], and may be amended from time to time as per clause 15 (Variation) of these Terms and Conditions.\n\n2.1 In these Terms and Conditions, unless the context otherwise requires:\n\n“Digital NSW Driver Licence” means a Digital Driver Licence as defined in Part 3.7 of the Road Transport Act 2013 (NSW) or a physical Driver Licence card issued by Transport for NSW.\n\n“Multi-factor Authentication” or “MFA” means a security process in which you verify your identity and account activity. You will be prompted to authenticate via one of the following methods:\n\n“MyServiceNSW Account” means the online service operated by Service NSW.\n\n“NSW Driver Licence Card” means a physical plastic driver licence card issued by Transport for NSW.\n\n“NSW Photo Card” means a Photo Card as deﬁned in s. 3 of the Photo Card Act 2005 and issued by Transport for NSW.\n\n“NSW” means the State of New South Wales.\n\n“Other Proof of Identity Documents” includes, but is not limited to, your Digital NSW Driver Licence, NSW Driver Licence Card or NSW Photo Card.\n\n“Pilot” means the test of the customer journey to create, use and reuse the NSW Digital ID either as a standalone function or as part of a transaction.\n\n“SNSW App” means the Service NSW App.“You” means the holder of the NSW Digital ID.\n\n3.1. By participating in the Pilot, you agree to these Terms and Conditions, and you must abide by these Terms and Conditions while participating in the Pilot.\n\n3.2. You must also abide by the MyServiceNSW Account Terms and Conditions when creating and using a NSW Digital ID and if the NSW Digital ID is accessed through the SNSW App, you must also abide by the Service NSW App Terms and Conditions available within the SNSW App.\n\n4.1 You are eligible to apply for a NSW Digital ID if you:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Create a NSW Digital ID",
+      "link": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "NSW Digital ID – Privacy collection notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    },
+    {
+      "text": "Face verification and identity checks – Privacy collection notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/proof-of-identity"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "NSW Digital Identity Pilot – Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id"
+    },
+    {
+      "text": "MyServiceNSW Account Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Face verification and identity checks – Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/proof-of-identity"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "online enquiry form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Create a NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do these Terms and Conditions take effect?",
+      "a": "These Terms and Conditions enter into force on 15 December 2025.",
+      "link": null
+    },
+    {
+      "q": "What is the 'Pilot'?",
+      "a": "The Pilot is the test of the customer journey to create, use and reuse the NSW Digital ID either as a standalone function or as part of a transaction.",
+      "link": null
+    },
+    {
+      "q": "What does 'Multi-factor Authentication' (MFA) mean?",
+      "a": "MFA is a security process where you verify your identity and account activity by authenticating via one of the specified methods.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:36Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "688364daa41ba9c3911d97a14ebf6cc030013c29",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

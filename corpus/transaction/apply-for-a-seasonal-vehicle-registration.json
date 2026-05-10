@@ -1,0 +1,129 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seasonal-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seasonal-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-seasonal-vehicle-registration",
+  "title": "Apply for a seasonal vehicle registration",
+  "summary": "Apply for a seasonal vehicle registration if you only use your vehicle for part of the year.",
+  "topics": [
+    "vehicle-registration",
+    "seasonal-registration",
+    "safety-checks",
+    "vehicle-inspections"
+  ],
+  "intro": "If you only use your vehicle for part of the year, for example during the harvesting period or snow season, you can apply for a seasonal registration.\n\nSeasonal registration lets you register a vehicle for a combination of unlimited 3-month or 6-month terms in a 12-month period.",
+  "who_can_apply": [
+    "You must only use your vehicle for part of the year (e.g., during harvesting or snow season)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Proof of a previous registration, or proof of registration entitlement (such as a bill of sale receipt)",
+    "The appropriate inspection report (blue slip, pink slip, or brown slip depending on the vehicle type)",
+    "Compulsory third party (CTP) insurance (green slip) covering the period of seasonal registration",
+    "Your registration fee payment",
+    "The PDF form: 'Application for Registration' (Form 1009)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a Service NSW Centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "registration fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Find an inspection station",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Seasonal vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/apply-for-seasonal-vehicle-registration"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    },
+    {
+      "text": "Safety checks and vehicle inspections",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a seasonal vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-seasonal-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is seasonal registration?",
+      "a": "Seasonal registration allows you to register a vehicle for a combination of unlimited 3-month or 6-month terms within a 12-month period.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for seasonal registration?",
+      "a": "You need your proof of identity, proof of a previous registration or entitlement (like a bill of sale receipt), the appropriate inspection report, compulsory third party (CTP) insurance (green slip) for the period, your registration fee payment, and the 'Application for Registration' PDF form.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my seasonal registration application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:31Z",
+    "last_modified": "27 January 2026",
+    "html_sha1": "3d1b6669ff25f1de979de5c1d158c35a553249d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/road-rules",
+  "source_url": "https://www.service.nsw.gov.au/referral/road-rules",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "road-rules",
+  "title": "Learn NSW road rules",
+  "summary": "Learn about NSW road rules whether you are a new driver, upgrading your licence, or visiting the state.",
+  "topics": [
+    "road-rules",
+    "driving-nsw",
+    "driver-licence",
+    "road-safety"
+  ],
+  "intro": "Whether you're a new driver, in the process of upgrading your licence, or just driving through while temporarily visiting NSW, being familiar with the rules of the road is essential.\n\nAnd if you're an experienced driver, refreshing your knowledge and staying up to date is also important, as rules can change from time to time.\n\nMore information on driving in NSW can be found at:",
+  "who_can_apply": [
+    "new driver",
+    "driver upgrading licence",
+    "temporary visitor to NSW"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Government's road safety and rules hub",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules"
+    },
+    {
+      "text": "Top 10 misunderstood road rules: Transport for NSW – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/Top%2010%20Misunderstood%20Road%20Rules.pdf"
+    },
+    {
+      "text": "Australian Road Rules – Australasian Parliamentary Counsel's Committee – PDF",
+      "url": "https://pcc.gov.au/uniform/Australian-Road-Rules-10December2021.pdf"
+    },
+    {
+      "text": "Road rules Centre for Road Safety – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/topics-tips/roadrules"
+    },
+    {
+      "text": "NSW Centre for Road Safety – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/roadsafety"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Road User Handbook",
+      "url": "https://www.service.nsw.gov.au/referral/road-user-handbook"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:42Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "941c5b9ed0221bda6466538d2e868765f5a217e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

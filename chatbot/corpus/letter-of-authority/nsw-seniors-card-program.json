@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/letter-of-authority/nsw-seniors-card-program",
+  "source_url": "https://www.service.nsw.gov.au/letter-of-authority/nsw-seniors-card-program",
+  "category": "letter-of-authority",
+  "article_kind": "landing-page",
+  "slug": "nsw-seniors-card-program",
+  "title": "NSW Seniors Card program – letter of authority template",
+  "summary": "This page provides a template for a letter of authority that businesses can use when processing a NSW Seniors Card.",
+  "topics": [
+    "business",
+    "nsw-seniors-card",
+    "letter-of-authority",
+    "template"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Business Register",
+      "url": "https://www.abr.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Apply to be a NSW Seniors Card program participating business",
+      "url": "https://www.service.nsw.gov.au/transaction/register-to-be-a-nsw-seniors-card-program-participating-business"
+    },
+    {
+      "text": "Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-seniors-card-program-participating-businesses"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a letter of authority?",
+      "a": "A letter of authority is a document that gives permission to a business to process a NSW Seniors Card.",
+      "link": null
+    },
+    {
+      "q": "Who needs to use this letter of authority?",
+      "a": "Businesses that process NSW Seniors Cards need to use this letter of authority.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:08Z",
+    "last_modified": "17 January 2025",
+    "html_sha1": "cf1c38b3bbf9f636d83b216b9a6b53550a2db48b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

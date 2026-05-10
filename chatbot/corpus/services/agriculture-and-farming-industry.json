@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "agriculture-and-farming-industry",
+  "title": "Agriculture and farming industry",
+  "summary": "This page provides information and links for various services related to agriculture and the farming industry in NSW.",
+  "topics": [
+    "agriculture",
+    "farming",
+    "livestock",
+    "harvesting",
+    "primary-production"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Drought Ready and Resilient Fund",
+      "url": "https://www.raa.nsw.gov.au/loans/drrf"
+    },
+    {
+      "text": "Disaster Assistance",
+      "url": "https://www.raa.nsw.gov.au/disaster-assistance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Animal harvesting and management",
+      "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "text": "Apply to move a grape harvester in the Hunter Valley",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-move-a-grape-harvester-in-the-hunter-valley"
+    },
+    {
+      "text": "Grain Harvest Management Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/grain-harvest-management-scheme"
+    },
+    {
+      "text": "Use the livestock feed cost calculator",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-livestock-feed-cost-calculator"
+    },
+    {
+      "text": "Livestock loading",
+      "url": "https://www.service.nsw.gov.au/services/road-freight"
+    },
+    {
+      "text": "Heavy vehicles",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "Landholder renewable energy and transmission projects",
+      "url": "https://www.service.nsw.gov.au/referral/landholder-renewable-energy-projects"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about animal harvesting and management?",
+      "a": "You can find information about animal harvesting and management at the Animal harvesting and management page.",
+      "link": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "q": "What are the options for funding for primary producers?",
+      "a": "Funding options include the Drought Ready and Resilient Fund, which offers low-interest loans up to $250,000, and Disaster Assistance through the Rural Assistance Authority.",
+      "link": null
+    },
+    {
+      "q": "How do I manage crop harvesting schemes?",
+      "a": "You can apply to move a grape harvester in the Hunter Valley or learn about the Grain Harvest Management Scheme.",
+      "link": null
+    },
+    {
+      "q": "What services are available for transporting goods in the farming industry?",
+      "a": "Services cover road freight and heavy vehicles.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:07Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "f73b04e14cb76725eb968bc916b5e67068a884c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

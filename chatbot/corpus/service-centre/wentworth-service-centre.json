@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/wentworth-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/wentworth-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "wentworth-service-centre",
+  "title": "Wentworth Service Centre",
+  "summary": "This page provides information about the Wentworth Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "nsw-services",
+    "location"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-34.1068,141.91467"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Balranald Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/balranald-agency"
+    },
+    {
+      "text": "Menindee Police Station",
+      "url": "https://www.service.nsw.gov.au/service-centre/menindee-police-station"
+    },
+    {
+      "text": "Moulamein Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/moulamein-agency"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I pay at the Wentworth Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "What accessibility facilities are available?",
+      "a": "Facilities include Auslan video remote interpreting, a hearing loop, Quiet Hour, remote live captioning, wheelchair access, entry at street level, on-site parking, and street parking.",
+      "link": null
+    },
+    {
+      "q": "Where are the nearest Service NSW locations?",
+      "a": "Nearby locations include the Balranald Agency, Menindee Police Station, and Moulamein Agency.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:12Z",
+    "last_modified": null,
+    "html_sha1": "1b84a77199477cbf498e0481701b9d9d270cd55c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

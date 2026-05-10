@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-a-towing-authorisation-book",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-a-towing-authorisation-book",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-a-towing-authorisation-book",
+  "title": "Re-order a towing authorisation book",
+  "summary": "Learn how to re-order a towing authorisation book for an accident towing tow truck.",
+  "topics": [
+    "towing-authorisation-book",
+    "tow-truck",
+    "service-centre",
+    "towing"
+  ],
+  "intro": "If you operate an accident towing tow truck it must have a towing authorisation book.\n\nTo re-order a towing authorisation book, you'll need to visit a service centre.",
+  "who_can_apply": [
+    "Operate an accident towing tow truck"
+  ],
+  "what_you_need": [
+    "A completed re-order form (found at the back of your current book)",
+    "A current certificate of registration for the tow truck",
+    "The schedule issued under the tow truck operator licence",
+    "EFTPOS, credit, or debit card (cash may not be accepted at all locations)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Tow truck licensing fees",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-licensing-fees"
+    },
+    {
+      "text": "Driving or operating a tow truck in NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/driving-or-operating-a-tow-truck-nsw"
+    },
+    {
+      "text": "Information for drivers of Category A accident tow trucks",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/tow-truck-driver-responsibilities-and-certificate-requirements"
+    },
+    {
+      "text": "Tow truck licensing, certification and application forms",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/tow-trucks/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    },
+    {
+      "text": "online booking system",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings/?at=GEN"
+    },
+    {
+      "text": "Find a Service NSW location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a tow truck drivers certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-driver-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a towing authorisation book?",
+      "a": "If you operate an accident towing tow truck, you must have a towing authorisation book.",
+      "link": null
+    },
+    {
+      "q": "How do I re-order a towing authorisation book?",
+      "a": "You must visit a service centre to re-order a towing authorisation book.",
+      "link": null
+    },
+    {
+      "q": "What payment methods are accepted at service centres?",
+      "a": "Service centres accept EFTPOS, credit, or debit card, but not all locations accept cash.",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:05Z",
+    "last_modified": "9 January 2026",
+    "html_sha1": "0f5f33233c461b3bd24ec7e4d30faec6325d1548",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

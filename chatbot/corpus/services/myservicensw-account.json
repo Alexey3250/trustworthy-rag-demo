@@ -1,0 +1,189 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "myservicensw-account",
+  "title": "MyServiceNSW Account help topics",
+  "summary": "This page provides help topics and guides for managing your MyServiceNSW account and accessing related services.",
+  "topics": [
+    "account-management",
+    "nsw-digital-id",
+    "password-reset",
+    "service-nsw-app"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Service NSW Business Profile",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "link": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Access your Voucher profile",
+      "link": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Create a MyServiceNSW account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "Resolve multiple accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Change or reset your MyServiceNSW Account password",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-or-reset-password"
+    },
+    {
+      "text": "Leaked passwords",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/leaked-passwords"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Log in from overseas",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "Protect your personal information with Service NSW",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/protect-your-personal-information-with-service-nsw"
+    },
+    {
+      "text": "Select preferred language in your account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/select-preferred-language"
+    },
+    {
+      "text": "Manage your details",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Fix incorrect details",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-fix-incorrect-details"
+    },
+    {
+      "text": "Add services to your account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Digital licences and credentials in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/services/service-nsw-app-and-digital-licences"
+    },
+    {
+      "text": "Add the correct NSW Driver Licence",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/adding-correct-nsw-driver-licence"
+    },
+    {
+      "text": "Deactivate your account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-your-account"
+    },
+    {
+      "text": "Deactivate a deceased person’s account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-a-deceased-persons-account"
+    },
+    {
+      "text": "About the NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/nsw-digital-id"
+    },
+    {
+      "text": "Create your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/transaction/create-your-nsw-digital-id"
+    },
+    {
+      "text": "Update your name on your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/update-name-digital-id"
+    },
+    {
+      "text": "Deactivate your NSW Digital ID",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/deactivate-digital-id"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Service NSW Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Access your Voucher profile",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I create or manage my MyServiceNSW account?",
+      "a": "You can find guides on creating an account, resolving multiple accounts, and managing your personal details.",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "q": "What should I do if I forget my password or suspect a leak?",
+      "a": "You can change or reset your password, or find information regarding leaked passwords.",
+      "link": null
+    },
+    {
+      "q": "How do I set up or manage multi-factor authentication?",
+      "a": "Guides are available for setting up multi-factor authentication, changing mobile numbers, and updating devices.",
+      "link": null
+    },
+    {
+      "q": "How can I manage my NSW Digital ID?",
+      "a": "You can learn about creating, updating, and deactivating your NSW Digital ID.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:21Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b536e6e7b7d060f170949704071b90ac11d26ff2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

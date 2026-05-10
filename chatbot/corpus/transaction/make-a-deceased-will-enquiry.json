@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-a-deceased-will-enquiry",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-a-deceased-will-enquiry",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-a-deceased-will-enquiry",
+  "title": "Make a deceased will enquiry",
+  "summary": "You can enquire about a deceased person's will through the NSW Trustee and Guardian to confirm if they hold the will.",
+  "topics": [
+    "deceased-will",
+    "enquiry",
+    "nsw-trustee-guardian",
+    "estate"
+  ],
+  "intro": "If you wish to make an enquiry about the will of a deceased person for family tree research, or for personal reasons, you can do this through the NSW Trustee and Guardian. They are NSW's largest will maker and their extensive database can be searched to confirm if they hold the will of a deceased person.",
+  "who_can_apply": [
+    "individuals who are referred to in the will or an earlier will",
+    "certain relatives",
+    "individuals who would be entitled to the estate if the will is not valid and the estate is distributed according to the NSW intestacy laws",
+    "individuals with a claim against the estate"
+  ],
+  "what_you_need": [
+    "the deceased's name, address and date of birth",
+    "the deceased's date of death and death certificate",
+    "your name, phone number and email address",
+    "your relationship to the deceased"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and submit the online form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If a will cannot be located, an application needs to be made to the Supreme Court for ‘Letters of Administration’ – a document providing the court’s formal approval for someone to administer the estate of the deceased.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Locating someone's will",
+      "url": "https://www.service.nsw.gov.au/transaction/locating-someones-will"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:08Z",
+    "last_modified": "27 January 2026",
+    "html_sha1": "d6fa7fc16d4d002b1598adab4671b91e3b8164a3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

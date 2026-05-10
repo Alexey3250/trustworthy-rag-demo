@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-a-medical-certificate-cause-of-death-mccd-form",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-a-medical-certificate-cause-of-death-mccd-form",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-a-medical-certificate-cause-of-death-mccd-form",
+  "title": "Order a Medical Certificate Cause of Death (MCCD) form",
+  "summary": "Find out how private hospitals and medical practitioners can order a Medical Certificate Cause of Death (MCCD) form from the NSW Registry of Births, Deaths & Marriages.",
+  "topics": [
+    "medical-certificate",
+    "cause-of-death",
+    "mccd-form",
+    "nsw-registry"
+  ],
+  "intro": "If you're an employee at a private hospital, or a medical practitioner not employed at a public hospital, you can order a Medical Certificate Cause of Death (MCCD) form via email.",
+  "who_can_apply": [
+    "Private hospitals",
+    "Medical practitioners"
+  ],
+  "what_you_need": [
+    "Doctor's full name",
+    "Australian Health Practitioner Regulation Agency (AHPRA) number",
+    "Delivery name",
+    "Delivery address (cannot be a locked bag or PO Box)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Email your request for a form, including your name and address, tobdm-assets@customerservice.nsw.gov.au",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "All about the Medical Certificate Cause of Death (MCCD) form",
+      "url": "https://www.nsw.gov.au/births-deaths-marriages/business-partners/hospitals-and-medical-practitioners"
+    },
+    {
+      "text": "NSW Registry of Births, Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Order a Perinatal Medical Cause of Death form",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-perinatal-medical-cause-of-death-form"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to order the MCCD form from the NSW Registry of Births, Deaths & Marriages?",
+      "a": "Private hospitals and medical practitioners are eligible to order the MCCD form from the NSW Registry of Births, Deaths & Marriages.",
+      "link": null
+    },
+    {
+      "q": "Can public hospitals order the MCCD form from the NSW Registry of Births, Deaths & Marriages?",
+      "a": "No, public hospitals cannot order from the registry and must continue to order the forms from the state print vendor's portal.",
+      "link": null
+    },
+    {
+      "q": "How can I order the MCCD form?",
+      "a": "Email your request for a form, including your name and address, to tobdm-assets@customerservice.nsw.gov.au.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:22Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "e68069f7c43b19ad19956e729a72997d3db79232",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

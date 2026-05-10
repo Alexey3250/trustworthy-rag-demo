@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-and-manage-an-opal-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-and-manage-an-opal-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-and-manage-an-opal-card",
+  "title": "Get and manage an Opal card",
+  "summary": "This page provides information on how to get, manage, and top up an Opal card for public transport in NSW.",
+  "topics": [
+    "opal-card",
+    "public-transport",
+    "nsw",
+    "top-up",
+    "account-management"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Adults",
+    "Children/Youth",
+    "Concession card holders"
+  ],
+  "what_you_need": [
+    "N/A"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Opal Next Generation: Tapping into the future of Opal",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/media-releases/opal-next-generation-tapping-into-future-of-opal"
+    },
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/fares"
+    },
+    {
+      "text": "log in to your Opal account or create an account",
+      "url": "https://transportnsw.info/tickets-fares/opal/manage-your-card"
+    },
+    {
+      "text": "Download Opal Travel app – Apple App store",
+      "url": "https://apps.apple.com/au/app/opal-travel/id941006607"
+    },
+    {
+      "text": "Download Opal Travel app – Google Play Store",
+      "url": "https://play.google.com/store/apps/details?id=au.com.opal.travel&hl=en"
+    },
+    {
+      "text": "Opal card seller",
+      "url": "https://transportnsw.info/trip#/opal-retailers"
+    },
+    {
+      "text": "Opal Travel app",
+      "url": "https://transportnsw.info/apps/opal-travel"
+    },
+    {
+      "text": "online",
+      "url": "https://transportnsw.info/tickets-opal/opal/check-opal-card-balance-view-activity-statements#/login"
+    },
+    {
+      "text": "Opal Customer Care",
+      "url": "https://www.opal.com.au/en/customer-care/lodge-feedback/"
+    },
+    {
+      "text": "how to transfer the balance or block a card",
+      "url": "https://transportnsw.info/tickets-fares/opal/manage-your-card/transfer-balance-block-card"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "public transport concessions and subsidies",
+      "url": "https://www.service.nsw.gov.au/services/public-transport-concessions-and-subsidies"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get an Opal card?",
+      "a": "You can get an adult or child/youth Opal card, or a concession Opal card.",
+      "link": null
+    },
+    {
+      "q": "How do I top up my Opal card?",
+      "a": "You can top up your Opal card at a top up machine, an Opal card seller, on the Opal Travel app, or online.",
+      "link": null
+    },
+    {
+      "q": "What can I do with my Opal card online?",
+      "a": "Online, you can set notifications and alerts, transfer the balance across cards, change your registered address and email, top up, update payment details, block the card if lost or stolen, and view recent activity.",
+      "link": "https://transportnsw.info/tickets-fares/opal/manage-your-card"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:50Z",
+    "last_modified": "29 April 2026",
+    "html_sha1": "d075cace5881ad7307a7e3c957b119a9d9c0d32a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

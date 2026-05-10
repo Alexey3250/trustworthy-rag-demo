@@ -1,0 +1,169 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "manage-your-details",
+  "title": "Manage your details with your MyServiceNSW Account",
+  "summary": "Learn how to manage and update your personal details within your MyServiceNSW Account using both the online portal and the Service NSW app.",
+  "topics": [
+    "my-service-nsw-account",
+    "personal-details",
+    "account-security",
+    "nsw-government-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The Service NSW app (for mobile updates)",
+    "Your login credentials for the MyServiceNSW Account"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "n": 2,
+      "text": "Go to 'Manage account'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Go to 'Personal details'.",
+      "link": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "n": 4,
+      "text": "Select the details you'd like to add or update.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Open and log in to the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 6,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select the details you’d like to add or update.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Change email address",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "'Personal details'",
+      "url": "https://account.service.nsw.gov.au/manage/personal-details"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Change email address",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the benefits of having a MyServiceNSW Account?",
+      "a": "A MyServiceNSW Account connects you online with NSW Government services, allowing you to save personal details, receive notifications to correct contact options, and help keep your account secure.",
+      "link": null
+    },
+    {
+      "q": "How do I update my personal details online?",
+      "a": "You can log in to your MyServiceNSW Account, go to 'Manage account', then 'Personal details', and select the details you wish to add or update.",
+      "link": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "q": "Can I update my details using the Service NSW app?",
+      "a": "Yes, you can open the Service NSW app, select the profile or 'person' icon, choose 'Personal details', and then select the details you want to update.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:33Z",
+    "last_modified": "18 June 2025",
+    "html_sha1": "1043eaecc8c498555b0277648c178523f7747169",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

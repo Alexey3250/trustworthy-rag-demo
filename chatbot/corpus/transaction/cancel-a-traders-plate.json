@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-traders-plate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-traders-plate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-traders-plate",
+  "title": "Cancel a trader's plate",
+  "summary": "Return your unused trader's plates to a Service NSW Centre to cancel your registration.",
+  "topics": [
+    "traders-plates",
+    "cancel-registration",
+    "service-nsw"
+  ],
+  "intro": "If you have trader's plates that are no longer required, please return them to a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "your certificate of registration",
+    "your trader's plate(s)",
+    "the PDF form – 'Number Plates and/or Cancellation of Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have the required documentation and your trader's plate(s).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1728: Trader's Plate Conditions of Use – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071875-traders-plates-condition-of-use.pdf"
+    },
+    {
+      "text": "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "Motor Dealers Guide to Vehicle Registration – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/motor-dealers-guide-to-vehicle-registration"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Replace trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-traders-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:12Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "ad1dd87679eb81785c2bb81d47a9d3b5c5ea51b6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

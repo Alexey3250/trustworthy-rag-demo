@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-access-to-dealer-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-access-to-dealer-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-access-to-dealer-online",
+  "title": "Apply for access to Dealer Online",
+  "summary": "The Dealer Online (DOL) system allows motor vehicle dealers to complete registration transactions online without visiting a Service NSW Centre.",
+  "topics": [
+    "motor-vehicle-dealers",
+    "dealer-online",
+    "registration-transactions",
+    "dvrs-agreement"
+  ],
+  "intro": "The Dealer Online (DOL) system allows motor vehicle dealers to complete registration transactions online, without having to visit a Service NSW Centre.\n\nWith DOL you can:\n\nDOL is available to all dealers who have a Dealer Vehicle Registration Scheme (DVRS) agreement with Transport for NSW (except dealers whose agreements are under review). To have an agreement, you need to meet the eligibility criteria and make an application through a service centre.",
+  "who_can_apply": [
+    "Motor vehicle dealers with a Dealer Vehicle Registration Scheme (DVRS) agreement with Transport for NSW (except dealers whose agreements are under review)."
+  ],
+  "what_you_need": [
+    "Evidence that you are a member of the DVRS.",
+    "The PDF forms: Dealer Authorisation – Dealer Online – PDF",
+    "The PDF forms: User Authorisation – Dealer Online – PDF",
+    "The PDF forms: Add/Change Security Administrator – Dealer Online – PDF"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071092-dol-dealer-authorisation-form.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Dealer Authorisation – Dealer Online – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071092-dol-dealer-authorisation-form.pdf"
+    },
+    {
+      "text": "User Authorisation – Dealer Online – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071094-dol-user-authorisation-form.pdf"
+    },
+    {
+      "text": "Add/Change Security Administrator – Dealer Online – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071220-dol-add-change.pdf"
+    },
+    {
+      "text": "Dealer Online – User Manual – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/dealer-online-manual.pdf"
+    },
+    {
+      "text": "Motor dealers log in to Dealer Online",
+      "url": "https://myrta.com/dol/index.jsp"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Dealer Vehicle Registration Scheme (DVRS) agreement",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dealer-vehicle-registration-scheme-dvrs-agreement"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Motor dealer resources",
+      "url": "https://www.service.nsw.gov.au/guide/motor-dealer-resources"
+    },
+    {
+      "text": "Sign up for an Online Services (myRTA.com) account",
+      "url": "https://www.service.nsw.gov.au/transaction/sign-up-for-an-online-services-myrtacom-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can use the Dealer Online (DOL) system?",
+      "a": "DOL is available to all dealers who have a Dealer Vehicle Registration Scheme (DVRS) agreement with Transport for NSW, provided their agreements are not under review.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for DOL access?",
+      "a": "To gain access, you must meet the eligibility criteria and submit an application through a service centre.",
+      "link": null
+    },
+    {
+      "q": "What is required to use DOL?",
+      "a": "You need to have a DVRS agreement and submit an application at a service centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:55Z",
+    "last_modified": "2 November 2024",
+    "html_sha1": "c849b64db5a5f086563882b105498f489a4a3514",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-food-safety-complaint",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-food-safety-complaint",
+  "title": "Report a food safety complaint",
+  "summary": "Use this page to report food safety complaints to the NSW Food Authority.",
+  "topics": [
+    "food-safety",
+    "complaints",
+    "nsw-food-authority",
+    "food-labelling"
+  ],
+  "intro": "The NSW Food Authority works with local councils to ensure that food sold in NSW is labelled correctly and complies with the safety standards of the respective business sector.",
+  "who_can_apply": [
+    "Butchers",
+    "Allergens in food",
+    "Possible food poisoning from a food business in more than one household",
+    "Other issues relating to food safety and labelling"
+  ],
+  "what_you_need": [
+    "A description of the problem",
+    "The name and full street address of the business (if applicable)",
+    "The internet address (if the food safety or labelling problem is viewable on the site)",
+    "The product name and size",
+    "The date on the package (if applicable)",
+    "A description of the food that was eaten, and the time and date it was consumed",
+    "The time and date illness began",
+    "The symptoms and their severity",
+    "Leftover food, packaging and receipts (if practicable)",
+    "Information if food poisoning is suspected"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read the information on the introductory page.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to submit your complaint.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can remain anonymous when making a complaint, but providing your name and contact details can assist the Food Authority if they want to investigate the matter further.",
+      "link": null
+    },
+    {
+      "text": "The Food Authority is unable to:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "Food safety complaints – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/help/complaints-about-food"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:53Z",
+    "last_modified": "4 November 2025",
+    "html_sha1": "49e5a0de875b26bd87dc86e41d290ed3cf8b8853",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

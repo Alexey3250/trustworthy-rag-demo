@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-privacy-statement",
+  "source_url": "https://www.service.nsw.gov.au/manage-your-fines-myservicensw-account-privacy-statement",
+  "category": "manage-your-fines-myservicensw-account-privacy-statement",
+  "article_kind": "content",
+  "slug": "manage-your-fines-myservicensw-account-privacy-statement",
+  "title": "Manage your fines with a MyServiceNSW Account – Privacy collection notice",
+  "summary": "This page explains how Service NSW and Revenue NSW collect and use your personal information when you link your MyServiceNSW Account to the Fines Service portal.",
+  "topics": [
+    "fines",
+    "my-service-nsw",
+    "privacy",
+    "personal-information"
+  ],
+  "intro": "Service NSW (SNSW), in partnership with Revenue NSW (RNSW), is collecting your personal information to enable you to link your MyServiceNSW Account to the RNSW Fines Service portal. SNSW and RNSW give priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998 .",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    },
+    {
+      "text": "Data Sharing (Government Sector) Act 2015",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2015-060"
+    },
+    {
+      "text": "privacy policy",
+      "url": "https://www.revenue.nsw.gov.au/privacy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of collecting my personal information?",
+      "a": "The information is collected to give you access to and manage unpaid fines, view historical fines, and maintain records in your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "q": "What types of personal information are collected?",
+      "a": "Information collected includes your name, date of birth, contact details (address, email, and phone number), and proof of identity (such as driver licence number, Medicare card details, or other identity documents).",
+      "link": null
+    },
+    {
+      "q": "Who can use or disclose my information?",
+      "a": "Your information may be used or disclosed to verify details with RNSW, the Document Verification Service, or other public/private entities; to contact you; for internal administrative purposes; or to NSW Police if fraud is suspected.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:45Z",
+    "last_modified": "16 January 2025",
+    "html_sha1": "1578b90c01238d5499c72e21f15ea00cb651133e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

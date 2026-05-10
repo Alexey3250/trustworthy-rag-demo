@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "youth-justice-nsw",
+  "title": "Youth Justice NSW",
+  "summary": "Find information and services related to Youth Justice in NSW.",
+  "topics": [
+    "youth-justice",
+    "nsw-law",
+    "juvenile-justice",
+    "crime-prevention"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice"
+    },
+    {
+      "text": "Programs and services",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/programs-and-services"
+    },
+    {
+      "text": "Information for parents, guardians and carers",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/parents-guardians-carers"
+    },
+    {
+      "text": "Youth Justice Conferences",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/conferencing"
+    },
+    {
+      "text": "Victims Registers",
+      "url": "https://www.nsw.gov.au/legal-and-justice/information-for-victims-of-crime/victims-registers-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Acmena Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/acmena-youth-justice-centre"
+    },
+    {
+      "text": "Cobham Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/cobham-youth-justice-centre"
+    },
+    {
+      "text": "Frank Baxter Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/frank-baxter-youth-justice-centre"
+    },
+    {
+      "text": "Orana Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/orana-youth-justice-centre"
+    },
+    {
+      "text": "Reiby Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/reiby-youth-justice-centre"
+    },
+    {
+      "text": "Riverina Youth Justice Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/riverina-youth-justice-centre"
+    },
+    {
+      "text": "Youth Justice Community Offices",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-community-offices"
+    },
+    {
+      "text": "Northern Region Directorate (Youth Justice NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/northern-region-directorate-youth-justice-nsw"
+    },
+    {
+      "text": "South Western Region Directorate (Youth Justice NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/south-western-region-directorate-youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:05Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8c7ad96910c3a7bb4604fc91ed43dd26e8f33872",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

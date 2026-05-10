@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-individual",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-individual",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-tobacco-licence-individual",
+  "title": "Apply for a tobacco licence – individual",
+  "summary": "This page explains how an individual business owner can apply for a retail and/or wholesale tobacco licence in NSW.",
+  "topics": [
+    "tobacco-licence",
+    "business-licence",
+    "nsw-business",
+    "retail-licence"
+  ],
+  "intro": "If your business sells tobacco products or non-tobacco smoking products in NSW, your premises must be licensed.\n\nIf you own the business as an individual, you can apply for a retail and/or wholesale licence on this page.\n\nYou need to submit a separate application for each premises and licence type.\n\nAll tobacco licences are valid for 12 months.\n\nIf your business is owned by a corporation, Apply for a tobacco licence – corporation.",
+  "who_can_apply": [
+    "Must be aged 18 or over.",
+    "Must be the registered business owner.",
+    "Must hold a current Australian Business Number (ABN)."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your ABN or business name",
+    "A National Police Check completed in the last 3 months (JPEG, JPG, PDF, or PNG format)",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create an account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Complete the online application form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Read and confirm the declaration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must provide complete and truthful answers to all questions in this application. Under the Public Health (Tobacco) Act 2008, giving false or misleading information could impact your ability to hold a tobacco licence.",
+      "link": null
+    },
+    {
+      "text": "For more information visit Tobacco retailing laws in NSW.",
+      "link": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-retailing-laws.aspx"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Tobacco retailing laws in NSW",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-retailing-laws.aspx"
+    },
+    {
+      "text": "NSW tobacco licensing scheme",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/tobacco-licensing.aspx"
+    },
+    {
+      "text": "Checklist for retailers of tobacco products",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/checklist-tobacco-retailers.aspx"
+    },
+    {
+      "text": "Publications and resources – tobacco and smoke-free laws NSW",
+      "url": "https://www.health.nsw.gov.au/tobacco/Pages/publications-resources.aspx"
+    },
+    {
+      "text": "Public Health (Tobacco) Act 2008",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2008-094"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a tobacco licence – corporation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-corporation-trust-or-partnership"
+    },
+    {
+      "text": "identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/tobacco-licences"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a tobacco licence?",
+      "a": "Your premises must be licensed if your business sells tobacco products or non-tobacco smoking products in NSW.",
+      "link": null
+    },
+    {
+      "q": "How long is a tobacco licence valid for?",
+      "a": "All tobacco licences are valid for 12 months.",
+      "link": null
+    },
+    {
+      "q": "What if my business is owned by a corporation?",
+      "a": "If your business is owned by a corporation, you must apply using the dedicated corporate application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-tobacco-licence-corporation-trust-or-partnership"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:45Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "0f6c89188077bcabb7e15cf6865bd3ebbd2895f1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

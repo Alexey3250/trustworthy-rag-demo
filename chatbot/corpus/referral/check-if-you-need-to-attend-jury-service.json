@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-if-you-need-to-attend-jury-service",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-if-you-need-to-attend-jury-service",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-if-you-need-to-attend-jury-service",
+  "title": "Check if you need to attend jury service",
+  "summary": "Find out if you are required to attend jury service and learn about options for being excused, exempted, or excluded.",
+  "topics": [
+    "jury-service",
+    "nsw-residents",
+    "court-attendance",
+    "jury-duty"
+  ],
+  "intro": "NSW residents are randomly selected from the NSW electoral roll each year and placed on a jury roll list.\n\nCertain members of the public are eligible to be excused, exempted, or excluded from jury duty.\n\nIf you've received a summons to attend court for jury service, the document will provide you with:\n\nAs trials sometimes change at the last minute, you can check online if you're still required, from 4:30pm on the business day before you're due to attend court.\n\nNote: If the trial is scheduled for a Monday, you can check after 4:30pm on the Friday.",
+  "who_can_apply": [
+    "NSW residents are randomly selected from the NSW electoral roll each year and placed on a jury roll list."
+  ],
+  "what_you_need": [
+    "If you receive a summons to attend court for jury service, the document will provide you with necessary information."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the jury service, contact the NSW jury service or call the Jury Information Line on 1300 722 574 if you need help.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "excused",
+      "url": "https://courts.nsw.gov.au/for-jurors/how-do-i-apply-to-be-excused-from-jury-service.html"
+    },
+    {
+      "text": "exempted",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1977-018#sch.2"
+    },
+    {
+      "text": "excluded",
+      "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1977-018#sch.1"
+    },
+    {
+      "text": "you can check online",
+      "url": "https://juror.nsw.gov.au/home"
+    },
+    {
+      "text": "NSW jury service",
+      "url": "https://juror.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How do I check if I need to attend court for jury service?",
+      "a": "You can check online if you are still required, starting from 4:30 pm on the business day before you are due to attend court. If the trial is scheduled for a Monday, you can check after 4:30 pm on the Friday.",
+      "link": "https://juror.nsw.gov.au/home"
+    },
+    {
+      "q": "Who is eligible to be excused, exempted, or excluded from jury duty?",
+      "a": "Certain members of the public are eligible to be excused, exempted, or excluded from jury duty.",
+      "link": null
+    },
+    {
+      "q": "Who can I contact for more information about jury service?",
+      "a": "Contact the NSW jury service or call the Jury Information Line on 1300 722 574.",
+      "link": "https://juror.nsw.gov.au/contact"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:00Z",
+    "last_modified": "22 May 2025",
+    "html_sha1": "c2b8de5a0e75ac703d3e60d9402c31fa56845a73",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

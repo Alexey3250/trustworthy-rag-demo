@@ -1,0 +1,152 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-firearms-licence-business-club-or-agency",
+  "title": "Apply for a firearms licence (business, club or government agency)",
+  "summary": "This page provides information on how a business, club, or government agency can apply for a NSW firearms licence.",
+  "topics": [
+    "firearms-licence",
+    "business-licence",
+    "club-licence",
+    "government-agency"
+  ],
+  "intro": "When applying for a NSW firearms licence, a business, club or government agency must nominate a licence holder or, if the business is a corporation, a 'nominated person'.\n\nThe nominated licence holder or person must complete the application on behalf of the business, club or government agency.\n\nEvidence of a genuine reason for the possession and use of a firearm must be provided.\n\nThere can be more than one genuine reason on a firearms licence.\n\nFirearms licences are issued for either a 2-year or 5-year term.\n\nA fee is attached to this application. Fee exemptions are only applicable to businesses with the genuine reason of primary production.",
+  "who_can_apply": [
+    "Be at least 18 years of age.",
+    "Be a fit and proper person to have access to firearms.",
+    "Have successfully completed a firearms safety training course applicable to the type of firearm licence being applied for.",
+    "Be able to justify the genuine reason for possessing or using a firearm.",
+    "The nominated licence holder/person must be a resident of NSW."
+  ],
+  "what_you_need": [
+    "Proof of identity documents (such as a driver licence and Medicare card).",
+    "A MyServiceNSW Account.",
+    "A copy of the firearms safety awareness certificate or pistol safe handling certificate.",
+    "Details of the address(es) where the firearms will be safely stored.",
+    "Documentation to support each genuine reason/category.",
+    "A current credit card for payment (if applicable).",
+    "If applying for a licence over and above a category A firearms licence, evidence that a ‘special need’ exists for a category B, C, D, or H licence."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You will be taken to the NSW Police Force Community Self Service Portal.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Check that you have all the documentation required.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Log in with Service NSW'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have any questions relating to firearms licences, please call the Firearms Registry customer service line on 1300 362 562 between 9am and 4pm Monday to Friday (excluding public holidays).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "safely store the firearms",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    },
+    {
+      "text": "Firearm licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0009/854721/NSWPF_Firearms_Registry_Privacy_Collection_Notice.pdf"
+    },
+    {
+      "text": "Information on obtaining a firearms licence in NSW – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0016/131164/Fact_Sheet_Info_on_obtaining_a_Firearms_Licence.pdf"
+    },
+    {
+      "text": "Licence Categories and Firearm Types – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0007/133198/Licence_Categories_and_Firearm_Types_FACT_Sheet.pdf"
+    },
+    {
+      "text": "Licence Categories & Genuine Reason Table – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0015/133134/GR_TABLE.pdf"
+    },
+    {
+      "text": "Firearms Registry Schedule of Fees – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/133188/Fee_Schedule.pdf"
+    },
+    {
+      "text": "Firearms licensing: Frequently asked questions – NSW Police",
+      "url": "https://portal.police.nsw.gov.au/s/article/Firearms-Licensing-Frequently-Asked-Questions"
+    },
+    {
+      "text": "Firearms Register of Licences and Permits to Acquire – NSW Police",
+      "url": "https://apps.police.nsw.gov.au/FPR/licenceCheck/search.jsp"
+    },
+    {
+      "text": "Firearms and ammunition – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/firearms_and_ammunition"
+    },
+    {
+      "text": "Firearms Data – NSW Police",
+      "url": "https://www.police.nsw.gov.au/about_us/information_of_interest_to_the_community/firearms_data"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update details on a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Renew a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a permit to acquire a firearm (PTA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta"
+    },
+    {
+      "text": "Apply for a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required when a business, club, or agency applies for a firearms licence?",
+      "a": "The nominated licence holder or person must complete the application on behalf of the business, club, or government agency, and evidence of a genuine reason for possession and use of a firearm must be provided.",
+      "link": null
+    },
+    {
+      "q": "What are the possible terms for a firearms licence?",
+      "a": "Firearms licences are issued for either a 2-year or 5-year term.",
+      "link": null
+    },
+    {
+      "q": "Are there fee exemptions for businesses?",
+      "a": "Fee exemptions are only applicable to businesses with the genuine reason of primary production.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:11Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "346286980650e6f63a21f845873f9a14d49d5a3f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

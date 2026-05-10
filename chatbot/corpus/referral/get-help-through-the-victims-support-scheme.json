@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-help-through-the-victims-support-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-help-through-the-victims-support-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-help-through-the-victims-support-scheme",
+  "title": "Get help through the Victims Support Scheme",
+  "summary": "Find out how the Victims Support Scheme can help people who have suffered an injury from a violent crime in NSW.",
+  "topics": [
+    "victims-support-scheme",
+    "violent-crime",
+    "nsw-support",
+    "injury-support"
+  ],
+  "intro": "The Victims Support Scheme helps people who have suffered an injury as a result of a violent crime committed in NSW.\n\nSupport is available for:\n\nFind out more about eligibility and who can apply.\n\nDepending on your situation, the scheme may help you with:\n\nNote: Victims of modern slavery are also able to apply for support.\n\nIf you'd like more information on the scheme, the eligibility criteria for the varied support available, and how to make your application, visit Victims Services, or call one of the following numbers during business hours:",
+  "who_can_apply": [
+    "Suffering an injury as a result of a violent crime committed in NSW",
+    "Being a victim of modern slavery"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find out more about eligibility",
+      "url": "https://www.nsw.gov.au/legal-and-justice/information-for-victims-of-crime/victims-support-scheme/eligibility"
+    },
+    {
+      "text": "Victims Services",
+      "url": "https://www.nsw.gov.au/victims-services"
+    },
+    {
+      "text": "Victim Support Scheme guide – PDF",
+      "url": "https://victimsservices.justice.nsw.gov.au/documents/how-can-we-help-you/victims-support-scheme/vss-overview/VSS-quick-guide.pdf"
+    },
+    {
+      "text": "Charter of Victims Rights – Victims Services",
+      "url": "https://www.nsw.gov.au/legal-and-justice/information-for-victims-of-crime/know-your-rights/charter-of-victims-rights"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Guide to help people impacted by domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for the Victims Support Scheme?",
+      "a": "The scheme helps people who have suffered an injury as a result of a violent crime committed in NSW. Victims of modern slavery are also able to apply for support.",
+      "link": null
+    },
+    {
+      "q": "What kind of support is available?",
+      "a": "The scheme may help with various needs depending on your specific situation.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the scheme?",
+      "a": "You can visit Victims Services or call one of the provided numbers during business hours for more information on the scheme, eligibility, and how to apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:27Z",
+    "last_modified": "7 October 2025",
+    "html_sha1": "28813bc3d2c8dfe37a91e9b716698b7749f8d6cc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

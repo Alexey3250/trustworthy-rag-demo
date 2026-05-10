@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-visitor-permit-at-a-special-event",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-visitor-permit-at-a-special-event",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-security-visitor-permit-at-a-special-event",
+  "title": "Apply for a security visitor permit at a special event",
+  "summary": "Find out how to apply for a visitor permit to carry out security activities at a special event in NSW if you are not a resident or licensed in NSW.",
+  "topics": [
+    "security-permit",
+    "special-event",
+    "nsw-police",
+    "visitor-permit"
+  ],
+  "intro": "A 'special event' is an event, or class of events, that the NSW Commissioner of Police considers to be of regional, state or national significance. If you or your company want to carry out security activities at a special event but are not a resident or licensed in NSW, you can apply to the NSW Commissioner of Police for a visitor permit. You will need to hold a current equivalent security licence from your state or territory.",
+  "who_can_apply": [
+    "Must be an individual or company wanting to carry out security activities at a special event.",
+    "Must not be a resident or licensed in NSW.",
+    "Must hold a current equivalent security licence from your state or territory."
+  ],
+  "what_you_need": [
+    "The appropriate visitor permit application form (downloaded from the NSW Police website).",
+    "Payment.",
+    "Details of the special event.",
+    "A certified copy of your current equivalent interstate licence.",
+    "A certified copy of evidence that you ordinarily reside in a state or territory other than NSW (if applying as an individual).",
+    "Details of the company and nominated person (if applying as an employer).",
+    "Someone to witness you signing the statutory declaration on the application form.",
+    "Evidence of Australian citizenship or permanent residency.",
+    "A letter from the event organiser (if applying as a company)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the relevant visitor permit application form.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Post the completed form, supporting documents, and payment to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can lodge an application for a visitor permit even if the event has not yet been declared a special event.",
+      "link": null
+    },
+    {
+      "text": "Your application will be refused if:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Visitor Permits and Special Events",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/master_licences/visitor_permits_and_special_events"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-master-licence"
+    },
+    {
+      "text": "Apply for a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a special event?",
+      "a": "A special event is an event, or class of events, that the NSW Commissioner of Police considers to be of regional, state or national significance.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for a visitor permit?",
+      "a": "If you or your company want to carry out security activities at a special event but are not a resident or licensed in NSW, you can apply to the NSW Commissioner of Police for a visitor permit.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information on eligibility and fees?",
+      "a": "For more information on who can apply and fees, go to the Visitor Permits and Special Events page on the NSW Police website.",
+      "link": "https://www.police.nsw.gov.au/online_services/sled/security_licences/master_licences/visitor_permits_and_special_events"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:14Z",
+    "last_modified": "12 November 2025",
+    "html_sha1": "fb4603f00876525558c5a211eb1d30ed95cdff34",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

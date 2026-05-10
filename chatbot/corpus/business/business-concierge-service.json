@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-concierge-service",
+  "source_url": "https://www.service.nsw.gov.au/business/business-concierge-service",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "business-concierge-service",
+  "title": "Personalised support for your business",
+  "summary": "This page provides personalised support and resources for businesses in New South Wales.",
+  "topics": [
+    "business",
+    "support",
+    "new-business",
+    "small-business",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "National Relay Service",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Service NSW Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:14Z",
+    "last_modified": "13 March 2026",
+    "html_sha1": "e0695ba87dc9f1688c181f147aaf9874de34cfba",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/security-master-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/security-master-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "security-master-licence",
+  "title": "Security master licence",
+  "summary": "This page provides information and links for applying for, renewing, or checking a security master licence, as well as applying for a Temporary Excess Provision of Services (TEPS) permit.",
+  "topics": [
+    "security-licence",
+    "master-licence",
+    "teps-permit",
+    "security-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Security operative licence",
+      "link": "https://www.service.nsw.gov.au/services/security-operative-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-master-licence"
+    },
+    {
+      "text": "Renew a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-master-licence"
+    },
+    {
+      "text": "Check a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-master-licence"
+    },
+    {
+      "text": "Apply for a Temporary Excess Provision of Services (TEPS) permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-temporary-excess-provision-of-services-teps-permit"
+    },
+    {
+      "text": "Check a security Temporary Excess Provision of Services permit",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-temporary-excess-provision-of-services-permit"
+    },
+    {
+      "text": "Security operative licence",
+      "url": "https://www.service.nsw.gov.au/services/security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a security master licence?",
+      "a": "You can apply for a security master licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-master-licence"
+    },
+    {
+      "q": "How do I renew my security master licence?",
+      "a": "You can renew your security master licence using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-security-master-licence"
+    },
+    {
+      "q": "How do I check the status of my security master licence?",
+      "a": "You can check your security master licence status using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-security-master-licence"
+    },
+    {
+      "q": "How do I apply for a Temporary Excess Provision of Services (TEPS) permit?",
+      "a": "You can apply for a Temporary Excess Provision of Services (TEPS) permit using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-temporary-excess-provision-of-services-teps-permit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:00Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "6fc851206b0d9a25e8a58e7b1dfd4ca860231da0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

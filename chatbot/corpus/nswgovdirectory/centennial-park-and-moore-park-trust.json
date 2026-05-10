@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/centennial-park-and-moore-park-trust",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/centennial-park-and-moore-park-trust",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "centennial-park-and-moore-park-trust",
+  "title": "Centennial Park and Moore Park Trust",
+  "summary": "This page provides information about the Centennial Park and Moore Park Trust, which manages the parks and associated facilities.",
+  "topics": [
+    "parks",
+    "heritage",
+    "events",
+    "activities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.centennialparklands.com.au/",
+      "url": "https://www.centennialparklands.com.au/"
+    },
+    {
+      "text": "https://www.centennialparklands.com.au/whatson",
+      "url": "https://www.centennialparklands.com.au/whatson"
+    },
+    {
+      "text": "Centennial Parklands Equestrian Centre",
+      "url": "https://www.centennialparklands.com.au/horses"
+    },
+    {
+      "text": "Centennial Parklands Event Organisers",
+      "url": "https://www.centennialparklands.com.au/venue-hire/outdoor-public-events/event-organisers"
+    },
+    {
+      "text": "Venue hire",
+      "url": "https://www.centennialparklands.com.au/venue-hire"
+    },
+    {
+      "text": "Junior golf lessons and programs – Moore Park Golf",
+      "url": "https://mooreparkgolf.com.au/learn/junior-programs/"
+    },
+    {
+      "text": "Moore Park Golf House",
+      "url": "https://www.centennialparklands.com.au/visit/history-and-heritage/heritage-buildings-and-structures/moore-park-golf-house"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "609c7786832770af8268da32e2ef89059aa45b97",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

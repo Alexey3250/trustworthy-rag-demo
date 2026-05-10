@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/mental-health-commission-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/mental-health-commission-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "mental-health-commission-of-nsw",
+  "title": "Mental Health Commission of NSW",
+  "summary": "This page provides information about the Mental Health Commission of NSW.",
+  "topics": [
+    "mental-health",
+    "commission",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nswmentalhealthcommission.com.au/",
+      "url": "https://www.nswmentalhealthcommission.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "54a3859a7d99f4b86399ed9643b858fd99bf67c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

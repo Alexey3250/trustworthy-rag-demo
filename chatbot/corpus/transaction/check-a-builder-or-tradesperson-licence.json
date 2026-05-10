@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-builder-or-tradesperson-licence",
+  "title": "Check a builder or tradesperson licence",
+  "summary": "Check if a building contractor or tradesperson has a valid licence before they begin work on your property.",
+  "topics": [
+    "builder-licence",
+    "tradesperson-licence",
+    "building-work",
+    "plumbing",
+    "electrical"
+  ],
+  "intro": "If you're hiring a building contractor or tradesperson check online to find out if they have a valid contractor licence before they start the work. A licence is required for people to do residential building work, wiring, plumbing, draining, gasfitting, air conditioning or refrigeration work (except plug-in appliances).\n\nTo check a digital licence or certificate follow the instructions to Check a digital trade licence or credential in the Service NSW app.",
+  "who_can_apply": [
+    "Hiring a building contractor or tradesperson for work on a property."
+  ],
+  "what_you_need": [
+    "Licensee name",
+    "Licence number",
+    "Licence type",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "Location (suburb, postcode or local government area)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "contact NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    },
+    {
+      "text": "contact the Building Commission NSW",
+      "url": "https://www.nsw.gov.au/building-commission"
+    },
+    {
+      "text": "Step-by-step guide to choosing the right tradesperson or builder",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/step-by-step-guide-to-choosing-right-tradesperson-or-builder"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    },
+    {
+      "text": "Checking your contractor or tradesperson is qualified – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/preparing/checking-your-contractor-or-tradesperson-qualified"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a digital trade licence or credential in the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Use the Home Building Compensation (HBC) Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    },
+    {
+      "text": "Check the registration of a professional engineer, design practitioner or building practitioner",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner"
+    },
+    {
+      "text": "Check a surveyor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-surveyor-licence"
+    },
+    {
+      "text": "Check an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-owner-builder-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of work require a licence?",
+      "a": "A licence is required for people to do residential building work, wiring, plumbing, draining, gasfitting, air conditioning or refrigeration work (except plug-in appliances).",
+      "link": null
+    },
+    {
+      "q": "How can I check a digital licence or certificate?",
+      "a": "Follow the instructions provided to Check a digital trade licence or credential in the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/licence-checkers-digital-trade-licences-and-credentials"
+    },
+    {
+      "q": "What information do I need to start the search?",
+      "a": "You need any of the following to start your search: licensee name, licence number, licence type, Australian Business Number (ABN), Australian Company Number (ACN), or location (suburb, postcode or local government area).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:31Z",
+    "last_modified": "15 August 2025",
+    "html_sha1": "ecd3eadde6192413c5e36840b8b0f2e630a923e8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-livestock-feed-cost-calculator",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-livestock-feed-cost-calculator",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-livestock-feed-cost-calculator",
+  "title": "Use the livestock feed cost calculator",
+  "summary": "Use the feed cost calculator to compare the value of livestock feeds based on energy and crude protein content.",
+  "topics": [
+    "livestock-feed",
+    "nutrition",
+    "feed-cost-calculator",
+    "energy-protein"
+  ],
+  "intro": "You can use the feed cost calculator to compare the value of livestock feeds on an energy and crude protein basis.\n\nYou select from a range of common feeds, and the calculator provides estimated values for the dry matter, energy and crude protein. You're able to change these if you've obtained your own feed test values.\n\nWhen you enter a cost per tonne, the tool then calculates the value of the feed on an energy and crude protein basis.\n\nThe tool will also determine the energy, protein and cost results of any feed mix combination, up to four selected feeds.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "use the feed cost calculator",
+      "url": "https://www.dpi.nsw.gov.au/animals-and-livestock/nutrition/costs-and-nutritive-value/feed-cost-calculator"
+    },
+    {
+      "text": "Droughthub",
+      "url": "https://www.droughthub.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:52Z",
+    "last_modified": "8 May 2025",
+    "html_sha1": "287b7a5a0c950407dab4609344809df7f37ab340",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

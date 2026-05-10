@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-sydney-motorways-toll-calculator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-sydney-motorways-toll-calculator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-sydney-motorways-toll-calculator",
+  "title": "Use the Sydney Motorways Toll Calculator",
+  "summary": "Use the online Sydney Motorways Toll Calculator to check the cost of a journey on Sydney toll roads.",
+  "topics": [
+    "sydney-motorways",
+    "toll-calculator",
+    "toll-roads",
+    "travel-fees"
+  ],
+  "intro": "If you’re travelling on Sydney toll roads you’ll need to pay a fee. You can quickly check the cost of your journey using the online Sydney Motorways Toll Calculator.\n\nYou can also use the map layer options to check the motorways network and the location of interchanges, live traffic cameras and toll gantries.\n\nAll toll roads in Sydney are cashless, and you need an electronic tag or pass to travel on them.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Electronic tag or pass"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Check online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select a trip route or select your entry point and exit point either:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select ‘Calculate my toll’.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Your trip summary and toll fees will display.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "electronic tag or pass",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "text": "Toll costs by road – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/toll-costs-by-road"
+    },
+    {
+      "text": "NSW road tolling – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/tolling"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Pay a toll or toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check the cost of a journey on Sydney toll roads?",
+      "a": "Use the online Sydney Motorways Toll Calculator to quickly check the cost of your journey.",
+      "link": null
+    },
+    {
+      "q": "What do I need to travel on Sydney toll roads?",
+      "a": "All toll roads in Sydney are cashless, so you need an electronic tag or pass to travel on them.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/tolling/get-an-electronic-tag-or-pass"
+    },
+    {
+      "q": "How can I check the motorways network and toll gantries?",
+      "a": "You can use the map layer options to check the motorways network and the location of interchanges, live traffic cameras and toll gantries.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:52Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "fcc6bc7b4be67170155288c6a37a69dcdd24a3b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

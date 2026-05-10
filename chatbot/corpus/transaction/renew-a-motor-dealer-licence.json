@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-motor-dealer-licence",
+  "title": "Renew a motor dealer licence",
+  "summary": "You can renew your motor dealer licence online if you have received a renewal notice.",
+  "topics": [
+    "motor-dealer-licence",
+    "renew-licence",
+    "nsw-business"
+  ],
+  "intro": "If you’ve received your renewal notice, you can renew your motor dealer licence online.\n\nYou cannot conduct business if your licence is expired.\n\nIf you miss the renewal deadline and it's within 3 months of the expiry date you can restore your licence.\n\nTo find your motor dealer licence number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "You must have received a renewal notice to renew your motor dealer licence online."
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice), or your name, birth date and postcode",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/licensing-fees"
+    },
+    {
+      "text": "Working as a motor dealer: business obligations in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "Motor dealers/recyclers licence information",
+      "url": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    },
+    {
+      "text": "Required forms for motor dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/required-forms-for-motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "restore your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the details on a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence"
+    },
+    {
+      "text": "Replace a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my licence is expired?",
+      "a": "You cannot conduct business if your licence is expired.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I miss the renewal deadline?",
+      "a": "If you miss the renewal deadline, you can restore your licence if it is within 3 months of the expiry date.",
+      "link": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence"
+    },
+    {
+      "q": "How do I find my motor dealer licence number and details?",
+      "a": "Visit Verify NSW to find your motor dealer licence number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:00Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "7c33f27773e64b5ad03c1c73daca8a8948e76cec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

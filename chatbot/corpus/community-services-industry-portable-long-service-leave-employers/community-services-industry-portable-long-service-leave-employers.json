@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/community-services-industry-portable-long-service-leave-employers",
+  "source_url": "https://www.service.nsw.gov.au/community-services-industry-portable-long-service-leave-employers",
+  "category": "community-services-industry-portable-long-service-leave-employers",
+  "article_kind": "landing-page",
+  "slug": "community-services-industry-portable-long-service-leave-employers",
+  "title": "Employers registered for the Community Services Industry portable long service leave scheme",
+  "summary": "This page provides information for employers registered in the Community Services Industry about the portable long service leave scheme.",
+  "topics": [
+    "employers",
+    "community-services-industry",
+    "long-service-leave",
+    "scheme"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.longservice.nsw.gov.au/csi/workers",
+      "url": "https://www.longservice.nsw.gov.au/csi/workers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is this information for?",
+      "a": "This information is for employers registered for the Community Services Industry portable long service leave scheme.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information for workers?",
+      "a": "Workers can find more information at https://www.longservice.nsw.gov.au/csi/workers.",
+      "link": "https://www.longservice.nsw.gov.au/csi/workers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:38Z",
+    "last_modified": "23 April 2026",
+    "html_sha1": "9958c0a69c24d28c277d0b7c69186d171bf4b941",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-satisfaction-survey",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-satisfaction-survey",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "customer-satisfaction-survey",
+  "title": "Customer Satisfaction Survey – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal information when you complete a customer satisfaction survey.",
+  "topics": [
+    "privacy",
+    "customer-satisfaction",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of collecting my information?",
+      "a": "The information is used to improve how Service NSW handles enquiries, communicate about your interactions, and for other directly related purposes.",
+      "link": null
+    },
+    {
+      "q": "What personal information will be collected?",
+      "a": "Service NSW collects your full name, email address, and details about your interaction with Service NSW regarding your enquiry.",
+      "link": null
+    },
+    {
+      "q": "How will my information be used or disclosed?",
+      "a": "Your information helps Service NSW continually improve customer support, allows them to communicate about your enquiry, and is used for reporting, research, and statistical purposes.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:32Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "4c6eb81ecca05f5d84b28c3c461a8ff8aa79f387",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

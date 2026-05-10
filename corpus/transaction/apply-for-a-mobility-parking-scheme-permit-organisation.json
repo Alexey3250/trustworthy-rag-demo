@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-mobility-parking-scheme-permit-organisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-mobility-parking-scheme-permit-organisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-mobility-parking-scheme-permit-organisation",
+  "title": "Apply for a Mobility Parking Scheme permit (organisation)",
+  "summary": "Organisations operating in NSW that transport people with a disability can apply for a Mobility Parking Scheme permit.",
+  "topics": [
+    "disability-parking",
+    "mobility-parking",
+    "nsw-organisation",
+    "permit-application"
+  ],
+  "intro": "If your organisation operates in NSW and transports people with a disability, you can apply for a Mobility Parking Scheme permit.\n\nThe permit allows you to park in disability parking spaces and access some parking concessions.",
+  "who_can_apply": [
+    "The organisation must operate in NSW.",
+    "The people transported must meet the required eligibility criteria."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Mobility Parking Scheme Application (Organisation)', which must include an address of an operational office in NSW.",
+    "A person authorised to sign on behalf of the organisation.",
+    "A contact person responsible for managing the organisation's permits (this may be the authorised person).",
+    "Payment of the required fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and post it to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If the authorised person is not already recorded with Transport for NSW, they'll need to visit a service centre in person, and provide their proof of identity.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "The organisation can only use the MPS permit when transporting an eligible person. The permit cannot be used for any other reasons, including visiting eligible clients or running errands on their behalf.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/mobility-parking-permits/costs-and-concessions"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Mobility parking scheme application (Organisation) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071455-mps-organisation-permits.pdf"
+    },
+    {
+      "text": "Disability parking permit: organisations – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/health-conditions-and-disability/disability-parking-permits/organisation-permit"
+    },
+    {
+      "text": "Park'nPay",
+      "url": "https://parknpay.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an additional Mobility Parking Scheme permit (organisation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-mobility-parking-scheme-permit-organisation"
+    },
+    {
+      "text": "Apply for, replace, or renew a Mobility Parking Scheme permit (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-replace-or-renew-a-mobility-parking-scheme-permit-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a Mobility Parking Scheme permit?",
+      "a": "Your organisation must operate in NSW, and the people you transport must meet the eligibility criteria.",
+      "link": null
+    },
+    {
+      "q": "What does the Mobility Parking Scheme permit allow?",
+      "a": "The permit allows you to park in disability parking spaces and access some parking concessions.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the permit?",
+      "a": "Select the 'Download PDF form' button, complete the form, and post it to the address listed on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:55Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "9c388656716393c9fd3a3b63296a87c946534b60",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

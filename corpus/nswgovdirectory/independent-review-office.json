@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-review-office",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-review-office",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "independent-review-office",
+  "title": "Independent Review Office",
+  "summary": "This page provides information about the Independent Review Office (IRO), which helps people who have complaints about their insurance.",
+  "topics": [
+    "insurance",
+    "complaints",
+    "review",
+    "independent-office"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://iro.nsw.gov.au",
+      "url": "https://iro.nsw.gov.au"
+    },
+    {
+      "text": "Contact us about your insurer",
+      "url": "https://iro.nsw.gov.au/contact-us-about-your-insurer"
+    },
+    {
+      "text": "Find a lawyer",
+      "url": "https://iro.nsw.gov.au/find-lawyers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Independent Review Office (IRO)?",
+      "a": "The Independent Review Office (IRO) is an independent body that helps people who have complaints about their insurance.",
+      "link": null
+    },
+    {
+      "q": "How can I contact the IRO?",
+      "a": "You can find contact information and specific guidance on the IRO website.",
+      "link": "https://iro.nsw.gov.au"
+    },
+    {
+      "q": "Do I need a lawyer to complain about my insurer?",
+      "a": "The IRO website provides a link to help you find a lawyer.",
+      "link": "https://iro.nsw.gov.au/find-lawyers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:22Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "9fb559011a250ea3f08ed67b832f65b01ce11421",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

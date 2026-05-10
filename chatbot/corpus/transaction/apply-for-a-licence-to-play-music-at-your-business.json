@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-play-music-at-your-business",
+  "title": "Apply for a licence to play music at your business",
+  "summary": "Find out how to apply for the necessary copyright licence to play music in your business.",
+  "topics": [
+    "music-licence",
+    "business-music",
+    "copyright-law",
+    "one-music"
+  ],
+  "intro": "All music is the intellectual property of its creator(s) and is protected under Australian copyright laws. If you want to play music at your business, you'll need to apply for the appropriate copyright licences.\n\nOneMusic Australia combines all rights into the one licence, and the amount you pay for the licence will depend on:\n\nYou can apply for a OneMusic licence online.",
+  "who_can_apply": [
+    "Playing music from CDs, radios, tablets, or smartphones.",
+    "Playing music in videos, programs, or films on TV.",
+    "Playing music during live performances, including karaoke and DJ shows.",
+    "Using music for a telephone on-hold system.",
+    "Playing music in areas that are not accessible to the public.",
+    "Using a licensed background music playlist.",
+    "Directly licensing royalty-free music from composers, songwriters, music publishers, recording artists, or record labels."
+  ],
+  "what_you_need": [
+    "Your business details",
+    "Details of how you will use the music in your business",
+    "Details of the person authorised to make the licence agreement"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select your industry.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to get a quote.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you’d like advice on using music at your business, contact OneMusic Australia.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "licensed background music",
+      "url": "https://backgroundmusicguide.com.au/"
+    },
+    {
+      "text": "contact OneMusic Australia",
+      "url": "https://onemusic.com.au/contact/"
+    },
+    {
+      "text": "All about OneMusic Australia",
+      "url": "https://onemusic.com.au/about/"
+    },
+    {
+      "text": "Australian Copyright Council",
+      "url": "https://www.copyright.org.au"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Do I need a licence to play music in my business?",
+      "a": "Yes, because all music is protected under Australian copyright laws, and you must apply for the appropriate copyright licences.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the licence?",
+      "a": "You can apply for a OneMusic licence online by selecting the ‘Apply online’ button, choosing your industry, and following the prompts to get a quote.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to apply?",
+      "a": "You will need your business details, details of how you will use the music, and details of the person authorised to make the licence agreement.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:39Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "3f59fee439a746b317cdbef9c23ad05f814baddc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

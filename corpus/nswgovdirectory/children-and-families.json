@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/children-and-families",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/children-and-families",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "children-and-families",
+  "title": "Children and families",
+  "summary": "This page provides a directory of services and resources for children and families across NSW.",
+  "topics": [
+    "children-and-families",
+    "support-services",
+    "parenting",
+    "family-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/children-and-families.html",
+      "url": "https://dcj.nsw.gov.au/children-and-families.html"
+    },
+    {
+      "text": "Family Preservation Programs",
+      "url": "https://dcj.nsw.gov.au/service-providers/deliver-services-to-children-and-families/family-preservation/family-preservation-programs.html"
+    },
+    {
+      "text": "Domestic, family and sexual violence",
+      "url": "https://dcj.nsw.gov.au/children-and-families/family-domestic-and-sexual-violence.html"
+    },
+    {
+      "text": "Information and support for families",
+      "url": "https://www.facs.nsw.gov.au/families"
+    },
+    {
+      "text": "Information for parents and carers – Department of Education",
+      "url": "https://education.nsw.gov.au/early-childhood-education/information-for-parents-and-carers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "DCJ Central Coast District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-central-coast-district"
+    },
+    {
+      "text": "DCJ Far West District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-far-west-district"
+    },
+    {
+      "text": "DCJ Hunter New England District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-hunter-new-england-district"
+    },
+    {
+      "text": "DCJ Illawarra Shoalhaven District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-illawarra-shoalhaven-district"
+    },
+    {
+      "text": "DCJ Mid North Coast District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-mid-north-coast-district"
+    },
+    {
+      "text": "DCJ Murrumbidgee District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-murrumbidgee-district"
+    },
+    {
+      "text": "DCJ Nepean Blue Mountains District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-nepean-blue-mountains-district"
+    },
+    {
+      "text": "DCJ Northern NSW District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-northern-nsw-district"
+    },
+    {
+      "text": "DCJ Northern Sydney District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-northern-sydney-district"
+    },
+    {
+      "text": "DCJ South Eastern Sydney District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-eastern-sydney-district"
+    },
+    {
+      "text": "DCJ South Western Sydney District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-western-sydney-district"
+    },
+    {
+      "text": "DCJ Southern NSW District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-southern-nsw-district"
+    },
+    {
+      "text": "DCJ Sydney District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-sydney-district"
+    },
+    {
+      "text": "DCJ Western NSW District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-nsw-district"
+    },
+    {
+      "text": "DCJ Western Sydney District",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-western-sydney-district"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find local support for children and families?",
+      "a": "The page lists various local district services, including DCJ offices for different regions like Sydney, Central Coast, and Illawarra Shoalhaven.",
+      "link": null
+    },
+    {
+      "q": "What resources are available for domestic or sexual violence?",
+      "a": "Information and support for domestic and sexual violence are available through a dedicated resource.",
+      "link": "https://dcj.nsw.gov.au/children-and-families/family-domestic-and-sexual-violence.html"
+    },
+    {
+      "q": "Where can I find information for parents and carers?",
+      "a": "There are specific links for information for parents and carers from the Department of Education, as well as general information and support for families.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d1354d8a1873b0a6a6279a6073cb0a842e829ac5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

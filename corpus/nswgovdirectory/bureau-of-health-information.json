@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/bureau-of-health-information",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/bureau-of-health-information",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "bureau-of-health-information",
+  "title": "Bureau of Health Information",
+  "summary": "This page provides information about the Bureau of Health Information (BHI), which is part of the NSW Health Ministry.",
+  "topics": [
+    "health-information",
+    "nsw-health",
+    "bureau-of-health-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.bhi.nsw.gov.au",
+      "url": "https://www.bhi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "fe06f33835c9032b44692937cdf9c546f155d62a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

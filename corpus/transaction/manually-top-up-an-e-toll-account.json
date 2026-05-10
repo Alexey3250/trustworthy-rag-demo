@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manually-top-up-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manually-top-up-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manually-top-up-an-e-toll-account",
+  "title": "Manually top up an E-Toll account",
+  "summary": "Learn how to manually top up your E-Toll account online instead of having payments automatically deducted.",
+  "topics": [
+    "e-toll",
+    "top-up",
+    "account-management",
+    "payment"
+  ],
+  "intro": "You can choose to top up your E-Toll account online rather than have payments automatically deducted.\n\nThe minimum top up amount is $10.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your E-Toll account number and password",
+    "Your payment details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Pay online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Top up account'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Choose the amount you wish to pay.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your payment details and save.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you're topping up an E-Toll account with a negative balance, it can take up to 48 hours to add the funds to your account. During this time, you may not be able to pay for tolls, and if travelling on toll roads, you may receive notices.",
+      "link": null
+    },
+    {
+      "text": "If you're making a one-off payment using a credit card, this will not change your account's payment details. To update your payment details, see Change the payment details on an E-Toll Account.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the payment details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    },
+    {
+      "text": "View toll charges on an E-Toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum amount I can top up my E-Toll account?",
+      "a": "The minimum top up amount is $10.",
+      "link": null
+    },
+    {
+      "q": "What payment methods can I use to top up my E-Toll account?",
+      "a": "You can use a credit card (Mastercard, Visa, or American Express) or a debit card (Mastercard, Visa).",
+      "link": null
+    },
+    {
+      "q": "How do I manually top up my E-Toll account?",
+      "a": "Select the 'Pay online' button, log in to your account, select 'Top up account', choose the amount, and enter your payment details and save.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:41Z",
+    "last_modified": "30 September 2024",
+    "html_sha1": "2ebd96cf44a88a312c64fb5bd0cd72ab7aabb621",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

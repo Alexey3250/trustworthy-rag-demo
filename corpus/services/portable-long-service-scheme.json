@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/portable-long-service-scheme",
+  "source_url": "https://www.service.nsw.gov.au/services/portable-long-service-scheme",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "portable-long-service-scheme",
+  "title": "Portable long service scheme (building and construction)",
+  "summary": "This page provides information about the Portable long service scheme for the building and construction industry.",
+  "topics": [
+    "building-and-construction",
+    "long-service-scheme",
+    "portable-scheme"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Worker in the building and construction industry"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Manage your portable long service (worker)",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-portable-long-service-building-and-construction"
+    },
+    {
+      "text": "Manage your workers' portable long service (employer)",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-workers-portable-long-service-building-and-construction"
+    },
+    {
+      "text": "Manage your client’s portable long service (tax agent)",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-clients-portable-long-service-building-and-construction"
+    },
+    {
+      "text": "Pay the long service levy",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Portable long service scheme?",
+      "a": "The Portable long service scheme allows workers in the building and construction industry to accumulate and manage their long service entitlements across different employers.",
+      "link": null
+    },
+    {
+      "q": "Who can use the Portable long service scheme?",
+      "a": "The scheme applies to workers in the building and construction industry.",
+      "link": null
+    },
+    {
+      "q": "How do I manage my portable long service?",
+      "a": "Workers can manage their portable long service through the dedicated online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/manage-your-portable-long-service-building-and-construction"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:54Z",
+    "last_modified": "11 June 2024",
+    "html_sha1": "29a7ffbd81a173c3560a2a0611c09285dbc82b94",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

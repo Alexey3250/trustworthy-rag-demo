@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/spatial-services",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/spatial-services",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "spatial-services",
+  "title": "Spatial Services",
+  "summary": "This page provides information about spatial services offered by NSW government departments.",
+  "topics": [
+    "spatial-services",
+    "nsw-government",
+    "data-access",
+    "mapping"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.spatial.nsw.gov.au/",
+      "url": "https://www.spatial.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "2a24832ab930574cb33af8a692d6ebbcd541f3bf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

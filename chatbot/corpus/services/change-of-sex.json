@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/change-of-sex",
+  "source_url": "https://www.service.nsw.gov.au/services/change-of-sex",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "change-of-sex",
+  "title": "Change of sex",
+  "summary": "This page provides information on how to record a change of sex on your official records.",
+  "topics": [
+    "change-of-sex",
+    "birth-death-marriage",
+    "personal-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Register a change of name",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-change-of-name"
+    },
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Change or correct personal details with Transport for NSW",
+      "link": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply to record a change of sex",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-record-a-change-of-sex"
+    },
+    {
+      "text": "Register a change of name",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-change-of-name"
+    },
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Change or correct personal details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-correct-personal-details-with-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I record a change of sex?",
+      "a": "You can apply to record a change of sex through the relevant government service.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-record-a-change-of-sex"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:31Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8f3cb700f93caada75e1373d62bc428b2f3a4047",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

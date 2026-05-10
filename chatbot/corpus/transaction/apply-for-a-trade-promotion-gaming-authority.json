@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-trade-promotion-gaming-authority",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-trade-promotion-gaming-authority",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-trade-promotion-gaming-authority",
+  "title": "Apply for a trade promotion gaming authority",
+  "summary": "This page explains how to apply for a trade promotion gaming authority if you plan to run a free-entry competition with a total prize value exceeding $10,000.",
+  "topics": [
+    "trade-promotion",
+    "gaming-authority",
+    "competition",
+    "nsw-fair-trading"
+  ],
+  "intro": "You need a trade promotion gaming authority if you'd like run a free-entry competition with a total prize value of more than $10,000 to promote your business.\n\nYou can apply and pay online for a 1-year, 3-year or 5-year authority. The authority allows you to run trade promotion gaming activities during the valid period, provided you notify Fair Trading before each promotion.\n\n### Notify Fair Trading\n\nWhen you have a valid authority you must notify NSW Fair Trading at least 10 business days before the start date of each promotion that has a total prize value of more than $10,000.",
+  "who_can_apply": [
+    "The competition must be free to enter (entry by purchasing goods or services at their normal retail value is allowed).",
+    "The total prize value must be more than $10,000.",
+    "The competition must be based on chance (such as a sweep, giveaway, or contest) and not skill.",
+    "The promotion must genuinely promote the goods or services of your business.",
+    "The promotion must take place on the nominated date.",
+    "The applicant must be conducting the trade promotion, including determining the winners, and involved in the management of any business benefiting from the promotion.",
+    "Participants must not be children, unless the rules of the trade promotion include an age limit."
+  ],
+  "what_you_need": [
+    "Details of the promotion.",
+    "An email address for the promotion licensee or contact person.",
+    "Written consent from an authorised person in the business if you are conducting the promotion on behalf of a business.",
+    "Your fee payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Get the documents and information you need ready.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete your application and pay the application fee.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For information about changes to rules, advertising, trade promotion administration and unclaimed prizes, visit NSW Fair Trading.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "prohibited prize",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions#toc-prizes"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions#toc-apply-for-an-authority"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions"
+    },
+    {
+      "text": "Apply for an ABN",
+      "url": "https://business.gov.au/registrations/register-for-an-australian-business-number-abn"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify Fair Trading of a trade promotion gaming activity",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity"
+    },
+    {
+      "text": "Check the register of authorised community gaming and trade promotions",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a trade promotion gaming authority?",
+      "a": "You need this authority if you plan to run a free-entry competition with a total prize value of more than $10,000 to promote your business.",
+      "link": null
+    },
+    {
+      "q": "What must I do after getting the authority?",
+      "a": "You must notify NSW Fair Trading at least 10 business days before the start date of each promotion that has a total prize value of more than $10,000.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity"
+    },
+    {
+      "q": "Who is eligible to apply for this authority?",
+      "a": "To be eligible, the competition must be free to enter, have a total prize value over $10,000, be based on chance (not skill), genuinely promote your goods or services, and take place on a nominated date.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:28Z",
+    "last_modified": "11 March 2025",
+    "html_sha1": "5b5023b3cad546c829436483bac30a40954ba322",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

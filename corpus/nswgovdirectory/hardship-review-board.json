@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/hardship-review-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/hardship-review-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "hardship-review-board",
+  "title": "Hardship Review Board (HRB)",
+  "summary": "This page provides information about the Hardship Review Board (HRB), which helps people who are experiencing financial hardship with government services.",
+  "topics": [
+    "hardship",
+    "financial-hardship",
+    "government-services",
+    "review-board"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/hardship-review-board",
+      "url": "https://www.nsw.gov.au/hardship-review-board"
+    },
+    {
+      "text": "Taxes and duties review process",
+      "url": "https://www.nsw.gov.au/money-and-taxes/hardship-review-board/taxes-and-duties-review-process"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Hardship Review Board (HRB)?",
+      "a": "The Hardship Review Board (HRB) is a body that helps people who are experiencing financial hardship with government services.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the HRB?",
+      "a": "You can find more information on the NSW Government website.",
+      "link": "https://www.nsw.gov.au/hardship-review-board"
+    },
+    {
+      "q": "Who can help me with my taxes and duties review process?",
+      "a": "For the taxes and duties review process, you can visit the dedicated page.",
+      "link": "https://www.nsw.gov.au/money-and-taxes/hardship-review-board/taxes-and-duties-review-process"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:55Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "bb0d051fdd47ab2831c54f65eee3d61c1e084040",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

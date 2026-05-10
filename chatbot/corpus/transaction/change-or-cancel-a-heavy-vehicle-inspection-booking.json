@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-or-cancel-a-heavy-vehicle-inspection-booking",
+  "title": "Change or cancel a heavy vehicle inspection booking",
+  "summary": "You can change or cancel your heavy vehicle inspection booking online, by phone, or at a Service NSW Centre.",
+  "topics": [
+    "heavy-vehicle-inspection",
+    "booking",
+    "service-nsw"
+  ],
+  "intro": "If you need to change or cancel your heavy vehicle inspection booking, you can do this online, by phone or at a Service NSW Centre.\n\nNote: The inspection must be carried out in the 3-month period prior to the renewal date, otherwise your registration may be suspended or cancelled. The results of an inspection are valid for 3 months only, so factor this in when changing or cancelling your booking.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your booking ID or NSW plate number",
+    "Your surname or business name"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change or cancel online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Existing booking'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your details to retrieve the booking.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Change or cancel your booking.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A heavy vehicle inspection is conducted annually on heavy vehicles registered in NSW (some exemptions apply).",
+      "link": null
+    },
+    {
+      "text": "Usually an inspection is carried out as part of the registration renewal process. If this is the case, you'll receive a renewal notification with the date your registration renewal must be completed by.",
+      "link": null
+    },
+    {
+      "text": "Bookings must be made at least 24 hours prior to inspection.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance must I get my inspection?",
+      "a": "The inspection must be carried out in the 3-month period prior to the renewal date. Otherwise, your registration may be suspended or cancelled.",
+      "link": null
+    },
+    {
+      "q": "How long are the inspection results valid for?",
+      "a": "The results of an inspection are valid for 3 months only.",
+      "link": null
+    },
+    {
+      "q": "How do I change or cancel my booking?",
+      "a": "You can change or cancel your booking by selecting the 'Change or cancel online' button, choosing 'Existing booking', and entering your details to retrieve and modify the booking.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:39Z",
+    "last_modified": "22 April 2026",
+    "html_sha1": "a23d65fc5c021243edf4e5f3d12b69c9b771f1f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

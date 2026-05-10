@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-21-july",
+  "source_url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-21-july",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "suburbs-close-21-july",
+  "title": "East Coast Severe Weather suburbs in impacted area - close 21 July",
+  "summary": "Find information about the East Coast Severe Weather Personal Hardship Assistance payment and the suburbs eligible for it.",
+  "topics": [
+    "natural-disaster",
+    "financial-assistance",
+    "severe-weather",
+    "suburbs"
+  ],
+  "intro": "To be eligible for the East Coast Severe Weather Personal Hardship Assistance payment, you must live in one of the listed suburbs within the Impacted Area.\n\nApplications for payment for the suburbs listed on this page close 21 July 2025.\n\nSee the list of eligible suburbs where applications close 4 August 2025.\n\nThe list of eligible suburbs may be updated from time to time. The most recent update was made on 14 July 2025.\n\nA | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | R | S | T | U | V | W | Y",
+  "who_can_apply": [
+    "Must live in one of the listed suburbs within the Impacted Area."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "East Coast Severe Weather Personal Hardship Assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "eligible suburbs where applications close 4 August 2025",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-4-august"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for the East Coast Severe Weather Personal Hardship Assistance payment?",
+      "a": "You must live in one of the listed suburbs within the Impacted Area.",
+      "link": null
+    },
+    {
+      "q": "When does the application for the suburbs listed on this page close?",
+      "a": "Applications for payment for the suburbs listed on this page close 21 July 2025.",
+      "link": null
+    },
+    {
+      "q": "Where can I find the list of eligible suburbs with a later deadline?",
+      "a": "You can see the list of eligible suburbs where applications close 4 August 2025.",
+      "link": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-4-august"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:05Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "63458958e77fc125bf406a996440fad9d9800aee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

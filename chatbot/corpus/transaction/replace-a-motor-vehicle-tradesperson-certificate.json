@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-motor-vehicle-tradesperson-certificate",
+  "title": "Replace a motor vehicle tradesperson certificate",
+  "summary": "You can apply for a replacement motor vehicle tradesperson certificate if your original certificate has been lost, damaged, or destroyed.",
+  "topics": [
+    "motor-vehicle-tradesperson",
+    "certificate",
+    "replacement",
+    "service-nsw"
+  ],
+  "intro": "If your motor vehicle tradesperson certificate has been lost, damaged, or destroyed, you can apply for a replacement in person at a Service NSW Centre, or by email.\n\nTo look up your certificate number and details, visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Application for Replacement Licence or Certificate'",
+    "Details of the certificate (including certificate number)",
+    "Your fee payment receipt number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "fee payment receipt number",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Application for Replacement Licence or Certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4739a.pdf"
+    },
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    },
+    {
+      "text": "Motor vehicle tradesperson’s certificate fees – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson/motor-vehicle-tradesperson-work-categories-qualification-requirements/certificate-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my certificate number and details?",
+      "a": "You can look up your certificate number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "How do I apply for a replacement certificate?",
+      "a": "You can apply for a replacement in person at a Service NSW Centre, or by email.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my completed form?",
+      "a": "You can submit the completed form at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:11Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "d1626f46ec753c4e6765f0aec5f653e973f617a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

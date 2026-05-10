@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-vessels-registration-certificate",
+  "title": "Replace a vessel's registration certificate",
+  "summary": "You can replace your vessel's registration certificate in person at a Service NSW Centre.",
+  "topics": [
+    "vessel-registration",
+    "maritime-licences",
+    "service-nsw",
+    "boat-certificate"
+  ],
+  "intro": "If you need to replace your vessel's registration certificate, you can do this in person at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Proof of identity",
+    "Payment",
+    "The PDF form: 'Application for Maritime Replacement Products'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have the required documentation and payment.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions#toc-registration-and-renewal-fees-and-concessions"
+    },
+    {
+      "text": "Application for Maritime Replacement Products – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072012-application-maritime-replacement-products.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Fees for a boat or PWC licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I replace my vessel's registration certificate?",
+      "a": "You must do this in person at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to replace my vessel's registration certificate?",
+      "a": "You need your proof of identity, payment, and the PDF form, 'Application for Maritime Replacement Products'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:44Z",
+    "last_modified": "9 December 2025",
+    "html_sha1": "a28993316a16c65a083ca2d8fc6dc946ec62eb51",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

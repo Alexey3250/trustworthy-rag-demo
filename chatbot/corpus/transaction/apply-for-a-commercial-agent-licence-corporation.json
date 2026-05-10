@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-commercial-agent-licence-corporation",
+  "title": "Apply for a commercial agent licence – corporation",
+  "summary": "This page explains the requirements and process for a corporation to apply for a commercial agent licence.",
+  "topics": [
+    "commercial-agent-licence",
+    "corporation",
+    "nsw-fair-trading",
+    "field-agent"
+  ],
+  "intro": "If a corporation employs commercial agents who have face-to-face contact with customers (known as a field agent), the corporation must hold a licence.\n\nOfficers of a corporation must hold their own individual commercial agent licence to carry out field work.\n\nIf a corporation employs commercial agents who are not field agents, the corporation does not need a licence.\n\nIf a corporation already holds a Commercial Agents and Private Inquiry Agents (CAPI) licence, the corporation will need a new commercial agent licence before the CAPI expiry date or 1 July 2023, whichever is sooner.\n\nYou can apply for a 1, 3 or 5-year licence.\n\n### Rules and regulations\n\nNSW Fair Trading is responsible for the regulation of the commercial agent industry. To learn more visit Commercial agent licensing and field agent rules in NSW.",
+  "who_can_apply": [
+    "The corporation must be able to nominate an officer to apply on its behalf.",
+    "The nominated officer must be aged 18 years or over.",
+    "The nominated officer must be a fit and proper person to hold a licence.",
+    "The corporation and its officers must not be undischarged bankrupt or taking benefit of bankruptcy laws.",
+    "The corporation and its officers must not have an exclusion order prohibiting commercial agent activity.",
+    "The corporation and its officers must not have a currently cancelled, disqualified, or suspended NSW commercial agent licence.",
+    "The corporation and its officers must not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012.",
+    "The corporation and its officers must not have been convicted of a relevant offence (including violence, harassment, intimidation, weapons, drugs, and dishonesty) within the last 5 years that resulted in a prison sentence or a fine of $500 or more."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "The corporation's previous Commercial Agents & Private Inquiry Agents (CAPI) licence number (if applicable).",
+    "Your contact details.",
+    "Your business details, including your ACN.",
+    "The name, date of birth, and email address for each officer of the corporation.",
+    "A copy of the current National Police Check Certificate for each officer of the corporation.",
+    "A completed 'Corporation Officer consent form' showing written consent from each officer to share their personal details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for a licence.",
+      "link": null
+    }
+  ],
+  "fees": "For current licensing fees visit NSW Fair Trading commercial agent licensing fees for individuals and corporations in NSW.",
+  "processing_time": null,
+  "contact": "If you need help with your application or have a question, call 13 32 20.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Commercial agent licensing and field agent rules in NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    },
+    {
+      "text": "Corporation Officer consent form",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59837.pdf"
+    },
+    {
+      "text": "commercial agent licensing fees",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licensing-fees"
+    },
+    {
+      "text": "Commercial Agent licences – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/commercial-agent-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Police Check Certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    },
+    {
+      "text": "Change the details on a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence"
+    },
+    {
+      "text": "Replace a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a corporation need a licence?",
+      "a": "A corporation must hold a licence if it employs commercial agents who have face-to-face contact with customers (field agents).",
+      "link": null
+    },
+    {
+      "q": "What happens if my CAPI licence is expiring?",
+      "a": "If your corporation already holds a Commercial Agents and Private Inquiry Agents (CAPI) licence, you will need a new commercial agent licence before the CAPI expiry date or 1 July 2023, whichever is sooner.",
+      "link": null
+    },
+    {
+      "q": "Who is responsible for regulating the commercial agent industry?",
+      "a": "NSW Fair Trading is responsible for the regulation of the commercial agent industry.",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:52Z",
+    "last_modified": "3 October 2025",
+    "html_sha1": "a8a108b219200e29389bf1141e90e9b57c6f9aac",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

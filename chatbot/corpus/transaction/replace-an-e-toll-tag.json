@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-an-e-toll-tag",
+  "title": "Replace an E-Toll tag",
+  "summary": "Learn how to get a faulty E-Toll tag replaced free of charge, or what to do if your tag is lost or stolen.",
+  "topics": [
+    "e-toll",
+    "tag-replacement",
+    "service-nsw"
+  ],
+  "intro": "If your E-Toll tag is faulty due to a battery or technical problem, you can get it replaced free of charge.\n\nFaulty tags can be returned to a Service NSW Centre or by post.\n\nNote: Before returning your tag, you should make sure that it has been installed properly. Check the installation instructions and try re-installing first.\n\nYou need to follow a different process if your tag has been lost or stolen.",
+  "who_can_apply": [
+    "The tag must be faulty due to a battery or technical problem."
+  ],
+  "what_you_need": [
+    "The faulty tag",
+    "A signed letter giving an authorised representative the authority to replace the tag on your behalf (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You can use toll roads immediately, provided you list a valid licence plate number on your account.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Your new tag will be posted to your nominated address within 5 to 7 business days.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If your tag is tested and confirmed faulty, E-Toll may consider crediting video matching fees to your account.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Fees apply for tags that are not returned, lost in transit, or have been deliberately damaged.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "How to install your E-Toll Tag – Model: Kapsch – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/kapsch-class2-car-tag-installation-instructions.pdf"
+    },
+    {
+      "text": "How to install your E-Toll Tag – Model: OBU610 – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071696a-install-e-toll-tag-obu610_0.pdf"
+    },
+    {
+      "text": "How to install your E-Toll Tag – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071696-install-your-e-toll-tag.pdf"
+    },
+    {
+      "text": "How to install your Heavy Vehicle E-Toll Tag – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071217-heavy-vehicle-e-toll-tag_0.pdf"
+    },
+    {
+      "text": "Faulty, damaged, lost or stolen tags – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/faulty-damaged-lost-or-stolen-tags"
+    },
+    {
+      "text": "Types of tags and how to install them – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/getting-started"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "tag has been lost or stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Order extra tags for an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get a faulty E-Toll tag replaced?",
+      "a": "If your E-Toll tag is faulty due to a battery or technical problem, you can get it replaced free of charge. You can return faulty tags to a Service NSW Centre or by post.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my tag is lost or stolen?",
+      "a": "If your tag has been lost or stolen, you must follow a different process.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-your-e-tag-as-lost-or-stolen"
+    },
+    {
+      "q": "What do I need to replace my tag?",
+      "a": "You need the faulty tag and a signed letter giving an authorised representative the authority to replace the tag on your behalf (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:47Z",
+    "last_modified": "3 December 2025",
+    "html_sha1": "189375cff548c3d96d9f32d57ccceefb703af135",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

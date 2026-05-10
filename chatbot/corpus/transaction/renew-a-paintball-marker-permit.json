@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-paintball-marker-permit",
+  "title": "Renew a paintball marker permit",
+  "summary": "This page explains how to renew your paintball marker permit online when your current permit is nearing expiry.",
+  "topics": [
+    "paintball-marker-permit",
+    "renew-permit",
+    "service-nsw"
+  ],
+  "intro": "When your current paintball marker permit is nearing expiry, you’ll receive an email prompting you to renew online.\n\nNote: You can only access the online renewal application through your renewal email.\n\nYou must submit your renewal application before your permit expires.\n\nYou can renew for 1, 3 or 5 years.",
+  "who_can_apply": [
+    "You must pass a fit and proper person assessment."
+  ],
+  "what_you_need": [
+    "Your renewal notice (via email)",
+    "A MyServiceNSW Account",
+    "Your contact details",
+    "One proof of identity document (such as a driver licence or Australian passport)",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Open your renewal email.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew the paintball marker permit.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach any supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your renewal with payment.",
+      "link": null
+    }
+  ],
+  "fees": "You can pay online with:",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The same fee applies for a 1, 3 or 5-year permit.",
+      "link": null
+    },
+    {
+      "text": "If your licence expired within 3 months of the expiry date, you can restore your licence.",
+      "link": null
+    },
+    {
+      "text": "If your licence expired more than 3 months after the expiry date you'll need to apply for a new licence and complete the paintball marker safety training course.",
+      "link": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "text": "You can contact Fair Trading to find out your expiry date.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "paintball marker safety training course",
+      "url": "https://store.training.tafensw.edu.au/product/nsw-paintball-marker-safety-training/"
+    },
+    {
+      "text": "contact Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    },
+    {
+      "text": "Paintball permit",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start the renewal process?",
+      "a": "You will receive an email prompting you to renew online when your current permit is nearing expiry. You must use this renewal email to access the application.",
+      "link": null
+    },
+    {
+      "q": "How long can I renew my permit for?",
+      "a": "You can renew your permit for 1, 3, or 5 years.",
+      "link": null
+    },
+    {
+      "q": "What do I need to renew my permit?",
+      "a": "You need your renewal notice email, a MyServiceNSW Account, your contact details, one proof of identity (like a driver licence or Australian passport), and your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:47Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "52c6572a0214182d91fdb42e50205dae14593319",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

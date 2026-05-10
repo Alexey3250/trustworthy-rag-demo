@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-an-owner-builder-permit",
+  "title": "Cancel an Owner-Builder Permit",
+  "summary": "This page explains that an Owner-Builder Permit can only be cancelled if a clear error was made when the permit was originally granted.",
+  "topics": [
+    "owner-builder-permit",
+    "cancel-permit",
+    "home-building",
+    "building-commission"
+  ],
+  "intro": "After an Owner-Builder Permit has been granted, there is no option for cancellation unless a clear error was made at the time of granting, and the permit should not have been issued.\n\nChanging your mind, or altering plans, or contracting a licensed builder to carry out the work, are not considered errors, and the permit cannot be cancelled.",
+  "who_can_apply": [
+    "Must satisfy the Director-General that 'special circumstances exist' (section 31(3) of the Home Building Act 1989)"
+  ],
+  "what_you_need": [
+    "Satisfy the Director-General that 'special circumstances exist' (section 31(3) of the Home Building Act 1989)",
+    "Apply for an Owner-Builder Permit",
+    "Complete the Additional Details Form 7: Owner-Builder Permit Special Circumstances – PDF"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Additional Details Form 7: Owner-Builder Permit Special Circumstances – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4654f.pdf"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    },
+    {
+      "text": "Becoming an owner-builder – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/owner-builder"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Change the details on an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit"
+    },
+    {
+      "text": "Replace an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-owner-builder-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I cancel my Owner-Builder Permit if I change my mind or alter my plans?",
+      "a": "No, changing your mind, altering plans, or contracting a licensed builder are not considered errors, and the permit cannot be cancelled.",
+      "link": null
+    },
+    {
+      "q": "Under what circumstances can an Owner-Builder Permit be cancelled?",
+      "a": "Cancellation is only possible if a clear error was made at the time the permit was granted, and the permit should not have been issued.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:54Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "8baa8a25b9ea06bacd0a76a9120d8b1e0f353364",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

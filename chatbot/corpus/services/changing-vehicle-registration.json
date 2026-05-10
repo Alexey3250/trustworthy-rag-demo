@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/changing-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/changing-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "changing-vehicle-registration",
+  "title": "Change a vehicle registration",
+  "summary": "This page provides information on how to change various details related to a vehicle registration.",
+  "topics": [
+    "vehicle-registration",
+    "change-details",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Change the details on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-vehicle-registration"
+    },
+    {
+      "text": "Change the business name or usage on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration"
+    },
+    {
+      "text": "Change the manager details on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-manager-details-on-a-vehicle-registration"
+    },
+    {
+      "text": "Change the details of your garaging address (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-garaging-address-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What details can I change on a vehicle registration?",
+      "a": "You can change the details on a vehicle registration, the business name or usage, or the manager details. You can also change the details of your garaging address (individual).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:47Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "c02538fa79117885df17bcda7ef2d33234626e67",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-vehicle-recycler-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-vehicle-recycler-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-vehicle-recycler-licence",
+  "title": "Motor vehicle recycler licence",
+  "summary": "This page provides information on obtaining, renewing, or checking a motor vehicle recycler licence in New South Wales.",
+  "topics": [
+    "motor-vehicle",
+    "recycler-licence",
+    "business-licence",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Renew a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Check a motor vehicle recycler licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "text": "Change the details of a motor dealer, recycler or repairer premises",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a motor vehicle recycler licence?",
+      "a": "You can apply for a motor vehicle recycler licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "q": "How do I renew my motor vehicle recycler licence?",
+      "a": "You can renew your licence through the online renewal service.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-recycler-licence"
+    },
+    {
+      "q": "How can I check the status of a motor vehicle recycler licence?",
+      "a": "You can check the status of a licence using the online check service.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:05Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "a25357a45b83c6003708fae201ac228c56d75bf7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

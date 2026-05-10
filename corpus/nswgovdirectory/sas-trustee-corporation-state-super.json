@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sas-trustee-corporation-state-super",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sas-trustee-corporation-state-super",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sas-trustee-corporation-state-super",
+  "title": "SAS Trustee Corporation (State Super)",
+  "summary": "This page provides information about the SAS Trustee Corporation and its role in State Super.",
+  "topics": [
+    "state-super",
+    "sas-trustee-corporation",
+    "superannuation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.statesuper.nsw.gov.au/",
+      "url": "https://www.statesuper.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:55Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "a695295b1ed627f708ab3202729958d0c55d5406",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

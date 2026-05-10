@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/board-of-surveying-and-spatial-information-bossi",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/board-of-surveying-and-spatial-information-bossi",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "board-of-surveying-and-spatial-information-bossi",
+  "title": "Board of Surveying and Spatial Information (BOSSI)",
+  "summary": "This page provides information about the Board of Surveying and Spatial Information (BOSSI), which regulates surveying and spatial information in NSW.",
+  "topics": [
+    "surveying",
+    "spatial-information",
+    "land-surveying",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.bossi.nsw.gov.au",
+      "url": "https://www.bossi.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Surveyors (land and mining)",
+      "url": "https://www.service.nsw.gov.au/services/surveyors"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a4e90905e826f30faee416533f8209653b2c0e2f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

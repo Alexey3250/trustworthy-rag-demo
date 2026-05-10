@@ -1,0 +1,150 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-protections-dismissal-application",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-protections-dismissal-application",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-general-protections-dismissal-application",
+  "title": "Lodge a general protections dismissal application",
+  "summary": "This page explains how to lodge an application if you believe your dismissal breached general protections in the workplace.",
+  "topics": [
+    "general-protections",
+    "dismissal",
+    "workplace-rights",
+    "fair-work-act"
+  ],
+  "intro": "General protections are in place to protect most people from:\n\nwhere they affect workplace rights.\n\nIf you've been dismissed and believe there's been a breach of the general protections that apply to you, you can lodge a general protections dismissal application. The application must be lodged within 21 days of your employment finishing.",
+  "who_can_apply": [
+    "Employees in the private sector in NSW covered by the national workplace relations system.",
+    "NSW public sector employees and local government employees covered by the NSW industrial relations system."
+  ],
+  "what_you_need": [
+    "Your representative's details (if applicable).",
+    "Your employment details.",
+    "Reasons given for your dismissal (if applicable).",
+    "Details of the person or business (respondent) you are making your application about.",
+    "Description of the respondent's actions.",
+    "The sections of the Fair Work Act 2009 you believe the respondent contravened.",
+    "The outcome you are seeking."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Take the general protections dismissal quiz to confirm your eligibility.",
+      "link": "https://www.fwc.gov.au/general-protections-dismissal-quiz"
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Sign the Disclosure of information page.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Decide on your method of payment, dependent on how you intend to lodge your application.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Lodge your application within 21 calendar days of your dismissal to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If the payment of the fee will cause you financial hardship, you can download and complete the Fee Waiver – PDF but note that your application won't be accepted until the fee has either been paid or waived.",
+      "link": "https://www.fwc.gov.au/documents/documents/forms/form_f80.pdf"
+    },
+    {
+      "text": "A copy of your application form and any supporting documents you provide, except the Fee Waiver form, are sent to the respondent.",
+      "link": null
+    },
+    {
+      "text": "The Fair Work Commission can't provide legal advice, but there are community legal centres (CLCs) available if you need assistance.",
+      "link": "https://www.clcnsw.org.au/legal-help-nsw"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "national workplace relations system",
+      "url": "https://www.fwc.gov.au/apply-or-lodge/who-australias-national-workplace-relations-system-covers"
+    },
+    {
+      "text": "NSW industrial relations",
+      "url": "https://irc.nsw.gov.au/awards-agreements-and-decisions/unfair-dismissals.html"
+    },
+    {
+      "text": "Take the general protections dismissal quiz",
+      "url": "https://www.fwc.gov.au/general-protections-dismissal-quiz"
+    },
+    {
+      "text": "Fee Waiver – PDF",
+      "url": "https://www.fwc.gov.au/documents/documents/forms/form_f80.pdf"
+    },
+    {
+      "text": "community legal centres",
+      "url": "https://www.clcnsw.org.au/legal-help-nsw"
+    },
+    {
+      "text": "Form F8: General protections involving dismissal (Fair Work Commission) - PDF",
+      "url": "https://www.fwc.gov.au/documents/documents/forms/form_f8.pdf"
+    },
+    {
+      "text": "Case law benchbooks – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/hearings-decisions/case-law-benchbooks"
+    },
+    {
+      "text": "Dismissal under general protections – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/job-loss-or-dismissal/dismissal-under-general-protections"
+    },
+    {
+      "text": "Disputes about general protections – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/issues-we-help/disputes-about-general-protections"
+    },
+    {
+      "text": "Unfair dismissal application fee – Fair Work Commission",
+      "url": "https://www.fwc.gov.au/form/apply-unfair-dismissal-form-f2#the-application-fee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge an unfair dismissal application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-unfair-dismissal-application"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to lodge a general protections dismissal application?",
+      "a": "The application must be lodged within 21 days of your employment finishing.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to lodge a general protections dismissal application?",
+      "a": "The application is for employees in the private sector in NSW who are covered by the national workplace relations system. NSW public sector and local government employees are covered by the NSW industrial relations system.",
+      "link": null
+    },
+    {
+      "q": "What do I need to lodge the application?",
+      "a": "You need your representative's details (if applicable), your employment details, reasons given for your dismissal (if applicable), details of the person or business (respondent), a description of the respondent's actions, the sections of the Fair Work Act 2009 you believe the respondent contravened, and the outcome you are seeking.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:38Z",
+    "last_modified": "9 October 2024",
+    "html_sha1": "481f3dc6a7d788e9500dfe124866d3783a6d475b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

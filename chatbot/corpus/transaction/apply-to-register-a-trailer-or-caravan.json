@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-trailer-or-caravan",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-trailer-or-caravan",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-register-a-trailer-or-caravan",
+  "title": "Apply to register a trailer or caravan",
+  "summary": "This page explains the process and requirements for registering a trailer or caravan on NSW roads.",
+  "topics": [
+    "register-trailer",
+    "register-caravan",
+    "vehicle-registration",
+    "service-nsw"
+  ],
+  "intro": "If you want to tow a caravan or trailer on NSW roads, you must get it registered at a Service NSW Centre.\n\nNote: When you register, if your caravan or camper trailer weighs from 255kg up to 4.5 tonnes, you'll automatically get a 40% reduction on the vehicle tax.",
+  "who_can_apply": [
+    "Must tow a caravan or trailer on NSW roads"
+  ],
+  "what_you_need": [
+    "The 'Application for Registration' PDF form",
+    "Proof of identity",
+    "A previous registration receipt or other proof of registration entitlement",
+    "Original number plates (if available)",
+    "An original inspection report issued within the last 42 days, which can be:",
+    "A Vehicle Safety Compliance Certificate (if the vehicle was significantly modified)",
+    "A weighbridge ticket (if required)",
+    "Your concession card details (if applicable)",
+    "Payment for the registration fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit the application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A weighbridge ticket is required if:",
+      "link": null
+    },
+    {
+      "text": "Caravans and camper trailers are exempt from stamp duty.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "concession card details",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/pensioner-concessions-and-renewals"
+    },
+    {
+      "text": "registration fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Trailers – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/trailers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Authorised Unregistered Vehicle Inspection Scheme report (blue slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    },
+    {
+      "text": "Heavy Vehicle Authorised Inspection Scheme report",
+      "url": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to register a caravan or trailer to use it on NSW roads?",
+      "a": "Yes, if you plan to tow a caravan or trailer on NSW roads, you must get it registered at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What tax reduction is available for certain caravans or campers?",
+      "a": "If your caravan or camper trailer weighs from 255kg up to 4.5 tonnes, you will automatically receive a 40% reduction on the vehicle tax.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my application?",
+      "a": "You must visit a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:21Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "5706971aa38090053a6895c118956318e7156b72",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

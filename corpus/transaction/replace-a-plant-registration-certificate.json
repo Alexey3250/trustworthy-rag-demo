@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-plant-registration-certificate",
+  "title": "Replace a plant registration certificate",
+  "summary": "You can apply for a replacement plant registration certificate if your original document is lost, damaged, stolen, or contains an error.",
+  "topics": [
+    "plant-registration",
+    "safe-work-nsw",
+    "replace-certificate"
+  ],
+  "intro": "If you did not receive the registration certificate for your plant design or plant item, or it contains a printing error, you can apply for a replacement document from SafeWork NSW.\n\nYou can also apply if your registration certificate has been lost, damaged, destroyed or stolen.\n\nNote: If more than one item/design registration document is required you need to pay the applicable fee for each document.",
+  "who_can_apply": [
+    "The registered owner of the plant item or plant design, or their authorised nominee."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application to replace a plant item or design registration'",
+    "The registration number (if known), or sufficient details to identify the registration",
+    "A letter of authority from the registered owner (if applicable)",
+    "The reason for replacement",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make your secure payment.",
+      "link": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "n": 4,
+      "text": "Email or post your application, supporting documents and payment receipt number to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "secure payment",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Application to replace a plant item or design registration – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0004/849523/replace-a-plant-item-or-design-registration-application.pdf"
+    },
+    {
+      "text": "Plant registrations – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    },
+    {
+      "text": "Apply to register an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "text": "Apply to register a plant design",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a replacement certificate?",
+      "a": "The registered owner of the plant item or plant design, or their authorised nominee can apply for a replacement.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a replacement certificate?",
+      "a": "You need the PDF form, the registration number (if known), sufficient details to identify the registration, a letter of authority (if applicable), and the reason for replacement.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a replacement certificate?",
+      "a": "First, download and complete the form. Next, make your secure payment. Finally, email or post your application, supporting documents, and payment receipt number to the address on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:43Z",
+    "last_modified": "31 March 2026",
+    "html_sha1": "90ae2639be17c083ef5021d2aa746c67a8d747a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

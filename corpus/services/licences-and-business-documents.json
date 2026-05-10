@@ -1,0 +1,138 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/licences-and-business-documents",
+  "source_url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/licences-and-business-documents",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "licences-and-business-documents",
+  "title": "Replace your licences and business documents",
+  "summary": "If your home or business was impacted by a declared natural disaster, you may be eligible for free replacement of lost or destroyed documents and licences.",
+  "topics": [
+    "disaster-support",
+    "business-documents",
+    "licences",
+    "natural-disaster"
+  ],
+  "intro": "If your home or business is in a Local Government Area directly impacted by a declared natural disaster you may be eligible for a free replacement of documents destroyed or lost during the event.",
+  "who_can_apply": [
+    "Your home or business must be in a Local Government Area directly impacted by a declared natural disaster."
+  ],
+  "what_you_need": [
+    "If dealing with building documents, you may need the Application for a Duplicate Licence, Certificate or Permit – PDF.",
+    "For building documents, you should visit a Service NSW Centre or call 13 77 88 and explain that your document was lost in a declared natural disaster.",
+    "If your home address is different from your nominated address, you must provide your home address."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Bureau",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Grants, loans and financial assistance",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Financial and tax assistance",
+      "link": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/financial-advice-and-tax-assistance"
+    },
+    {
+      "text": "Insurance claims and legal support",
+      "link": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters/insurance-claims-and-legal-support"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "declared natural disaster",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "get a refund on any motor vehicle duty",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty/relief"
+    },
+    {
+      "text": "online register",
+      "url": "https://verify.licence.nsw.gov.au/home/Liquor"
+    },
+    {
+      "text": "contact Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "NSW Police",
+      "url": "https://www.police.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "Application for a Duplicate Licence, Certificate or Permit – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382d.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Replacing lost identification, licences and personal documents",
+      "url": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "liquor licence manager portal",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Grants, loans and financial assistance",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Financial and tax assistance",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/financial-advice-and-tax-assistance"
+    },
+    {
+      "text": "Insurance claims and legal support",
+      "url": "https://www.service.nsw.gov.au/services/emergencies-and-natural-disasters/insurance-claims-and-legal-support"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Am I eligible for free replacement of documents?",
+      "a": "You may be eligible for a free replacement if your home or business is in a Local Government Area directly impacted by a declared natural disaster.",
+      "link": null
+    },
+    {
+      "q": "What types of documents can be replaced?",
+      "a": "Services offered include replacements for vehicle and vessel registrations and licences, liquor and gaming licences, and various business documents like contractor licences and owner builder permits.",
+      "link": null
+    },
+    {
+      "q": "How do I get a replacement for a building document?",
+      "a": "You can use the Application for a Duplicate Licence, Certificate or Permit – PDF, visit your nearest Service NSW Centre, or call 13 77 88. When contacting them, explain that your document was lost in a declared natural disaster and provide your home address if it is different from your nominated address.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:00Z",
+    "last_modified": "5 May 2026",
+    "html_sha1": "c4baf54bd6b3dcd96e2d71ca44d800e5cbe4913e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

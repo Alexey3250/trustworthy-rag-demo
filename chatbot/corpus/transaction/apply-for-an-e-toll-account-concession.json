@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-e-toll-account-concession",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-e-toll-account-concession",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-e-toll-account-concession",
+  "title": "Apply for an E-Toll Account concession",
+  "summary": "Find out if you are eligible for and how to apply for concessions on an E-Toll Account if you are a concession card holder.",
+  "topics": [
+    "e-toll-account",
+    "concession",
+    "service-nsw",
+    "pensioner"
+  ],
+  "intro": "If you're a concession card holder, you may be eligible for certain concessions on a new or existing E-Toll Account, including:\n\nYou need to apply in person at a Service NSW Centre.",
+  "who_can_apply": [
+    "Pensioner Concession Card or confirmation of concession card entitlement form (showing a NSW address)",
+    "DVA Veteran Gold Card printed with one of the following",
+    "Letter from the DVA confirming one of the following",
+    "Must be the E-Toll Account holder and have one of the following"
+  ],
+  "what_you_need": [
+    "Your eligible concession card or letter",
+    "A copy of your registration papers showing the '87 condition' recorded against your vehicle (if you drive a modified vehicle with hand controls)",
+    "Your account number if you already have an E-Toll Account",
+    "The E-Toll application form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents and visit a service centre to lodge your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "DVA's MyService",
+      "url": "https://www.dva.gov.au/myservice"
+    },
+    {
+      "text": "E-Toll application form",
+      "url": "https://www.myetoll.transport.nsw.gov.au/e-toll-application-form"
+    },
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Open an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I need to apply for an E-Toll Account concession?",
+      "a": "You must apply in person at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for an E-Toll Account concession?",
+      "a": "You need your eligible concession card or letter, a copy of your registration papers showing the '87 condition' (if applicable), your account number, and the E-Toll application form.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for an E-Toll Account concession?",
+      "a": "Eligibility depends on whether you have a Pensioner Concession Card, DVA Veteran Gold Card, or if you are the E-Toll Account holder with specific documentation.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:34Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "650576624259b8a7b67279faf3d7156f3ea33229",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

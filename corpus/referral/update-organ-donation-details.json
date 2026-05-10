@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/update-organ-donation-details",
+  "source_url": "https://www.service.nsw.gov.au/referral/update-organ-donation-details",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "update-organ-donation-details",
+  "title": "Update organ donation details",
+  "summary": "This page provides options for updating your organ donation details, either online through myGov or by completing a PDF form.",
+  "topics": [
+    "organ-donation",
+    "mygov",
+    "medicare",
+    "donor-details"
+  ],
+  "intro": "If you have a myGov account linked to Medicare, an online option is available to:\n\nIf you cannot update your donation details through myGov follow the instructions to complete the form Australian Organ Donor Register – PDF.\n\nYou will need your Medicare details to complete the PDF form.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Medicare details (if using the PDF form)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot update your organ and tissue donation decision through your NSW Driver Licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "the myGov website",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Australian Organ Donor Register – PDF",
+      "url": "https://www.servicesaustralia.gov.au/nh007df"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register to be an organ and tissue donor",
+      "url": "https://www.service.nsw.gov.au/referral/register-to-be-an-organ-donor"
+    },
+    {
+      "text": "Order a new organ donor card",
+      "url": "https://www.service.nsw.gov.au/referral/order-a-new-organ-donor-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I update my organ donation details?",
+      "a": "If you have a myGov account linked to Medicare, you can update your details online through myGov. Alternatively, you can complete the Australian Organ Donor Register PDF form.",
+      "link": null
+    },
+    {
+      "q": "Do I need any details to update my donation status?",
+      "a": "If you complete the PDF form, you will need your Medicare details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:54Z",
+    "last_modified": "8 July 2025",
+    "html_sha1": "8353993760a89050ffa40a846da7cf9cf28832cc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

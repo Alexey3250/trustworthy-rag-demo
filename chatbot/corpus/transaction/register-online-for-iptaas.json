@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-online-for-iptaas",
+  "title": "Register online for the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+  "summary": "This page explains how to register online for the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS) to receive financial help for specialist medical travel and accommodation.",
+  "topics": [
+    "medical-treatment",
+    "travel-assistance",
+    "nsw-health",
+    "iptaas"
+  ],
+  "intro": "IPTAAS may be able to give you financial assistance with your travel and accommodation expenses if you need to travel long distances for specialist medical treatment.\n\nTo apply for IPTAAS, you can register online to set up an account.",
+  "who_can_apply": [
+    "Be a resident of NSW or Lord Howe Island and be eligible for Medicare.",
+    "Live more than 100km from the nearest treating specialist (or cumulative journeys exceeding 200km within a week).",
+    "Require specialist treatment that is not available locally.",
+    "Not be receiving or eligible for financial assistance for travel and accommodation from third party insurance or other Australian government services."
+  ],
+  "what_you_need": [
+    "An email address to set up an online account.",
+    "If you do not have an email address, you can complete an application form and submit it in person or by mail.",
+    "Contact 1800 IPTAAS (1800 478 227) if you need help."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to the IPTAAS online portal.",
+      "link": "https://iptaas.enable.health.nsw.gov.au/"
+    },
+    {
+      "n": 3,
+      "text": "Enter your email address and create password. Note: To complete the registration process, you'll receive an email with a link to confirm your account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to your account to lodge an application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "application form",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients/forms"
+    },
+    {
+      "text": "IPTAAS online",
+      "url": "https://iptaas.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Assessment guidelines",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients"
+    },
+    {
+      "text": "Frequently asked questions",
+      "url": "https://www.iptaas.health.nsw.gov.au/for-patients/faqs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Lodge an IPTAAS travel application",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-iptaas-travel-application"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is IPTAAS?",
+      "a": "IPTAAS may provide financial assistance for travel and accommodation expenses if you need to travel long distances for specialist medical treatment.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for IPTAAS?",
+      "a": "You can register online to set up an account and then log in to lodge an application.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for IPTAAS?",
+      "a": "You must be a resident of NSW or Lord Howe Island, eligible for Medicare, and meet other criteria such as living far from a specialist.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:36Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "72d032fd7ecd51314305e545aadf8568b2b36b53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

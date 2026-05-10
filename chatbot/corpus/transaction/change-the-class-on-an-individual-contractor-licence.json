@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-an-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-an-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-class-on-an-individual-contractor-licence",
+  "title": "Change the class on an individual contractor licence",
+  "summary": "Learn how to add or change a class on your individual contractor licence if you gain further qualifications.",
+  "topics": [
+    "individual-contractor-licence",
+    "qualifications",
+    "service-nsw",
+    "licence-class"
+  ],
+  "intro": "An individual contractor licence allows you to work in a particular class based on your qualifications.\n\nIf you gain further qualifications that allow you to work in additional classes, you can add or change a class on your individual contractor licence. You can do this at a Service NSW Centre.",
+  "who_can_apply": [
+    "You must gain further qualifications that allow you to work in additional classes."
+  ],
+  "what_you_need": [
+    "The required PDF forms (e.g., Application Form - Individual – PDF)",
+    "Proof of identity",
+    "One passport size photograph",
+    "Documentation that validates the change of class",
+    "Your referee's statement (if applicable)",
+    "Certificate of eligibility to obtain insurance (if applicable)",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and provide the information together with your payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You need a medical gas licence to do any medical gas work in NSW, regardless of the work cost or whether it's residential, commercial or industrial.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/proof-of-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Application Form - Individual – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "text": "General Building Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747a.pdf"
+    },
+    {
+      "text": "Specialist Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4371b.pdf"
+    },
+    {
+      "text": "Other Building Work and Trade Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747b.pdf"
+    },
+    {
+      "text": "medical gas licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/medical-gas-and-mechanical-services-work"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the conditions on an individual contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-an-individual-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I change or add a class to my individual contractor licence?",
+      "a": "You can add or change a class on your individual contractor licence at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to change my licence class?",
+      "a": "You need the required PDF forms, proof of identity, a passport size photograph, documentation validating the class change, your referee's statement (if applicable), a certificate of eligibility to obtain insurance (if applicable), and your fee payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:50Z",
+    "last_modified": "12 December 2024",
+    "html_sha1": "333875a6148b2b751c5cdb3845296dcc669c45f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

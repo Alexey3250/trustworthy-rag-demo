@@ -1,0 +1,76 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/rsa-rcg-competency-card",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/rsa-rcg-competency-card",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "rsa-rcg-competency-card",
+  "title": "RSA/RCG competency card – Terms and Conditions",
+  "summary": "This page explains the terms and conditions for linking your MyServiceNSW Account to Liquor and Gaming NSW to manage your RSA/RCG competency card.",
+  "topics": [
+    "rsa-rcg-card",
+    "liquor-gaming-nsw",
+    "my-service-nsw",
+    "identity-verification"
+  ],
+  "intro": "Service NSW is collecting this information for the purpose of verifying your identity and enabling you to link your MyServiceNSW Account to Liquor and Gaming NSW (the NSW Government agency that manages RSA/RCG competency cards).\n\nThis will allow you to access:\n\nTo link your account with Liquor and Gaming NSW, we will verify your identity document details against your Liquor and Gaming NSW customer information.\n\nService NSW will not disclose your personal information to anyone else unless you provide your consent, or we are required or authorised to do so by law.\n\nThis statement is in addition to the MyServiceNSW Account Terms and Conditions and Privacy collection notice.\n\nFor further information on how Service NSW handles your privacy, go to our Privacy statement.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Hospitality industry",
+      "link": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "log in on the Service NSW website",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "RSA/RCG competency cards",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "MyServiceNSW Account Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Hospitality industry",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:32Z",
+    "last_modified": "23 September 2025",
+    "html_sha1": "95ec2ac1e0a7c0519ca65d45da2ce93a8c5e4944",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

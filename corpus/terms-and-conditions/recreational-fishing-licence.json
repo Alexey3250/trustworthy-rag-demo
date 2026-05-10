@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/recreational-fishing-licence",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/recreational-fishing-licence",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "recreational-fishing-licence",
+  "title": "Recreational fishing licence – Terms and Conditions",
+  "summary": "This page explains that Service NSW is collecting information to verify your identity and link your MyServiceNSW Account to the Department of Primary Industries for managing NSW Recreational Fishing Licences.",
+  "topics": [
+    "recreational-fishing",
+    "licence",
+    "identity-verification",
+    "service-nsw"
+  ],
+  "intro": "Service NSW is collecting this information for the purpose of verifying your identity and enabling you to link your MyServiceNSW Account to Department of Primary Industries (the NSW Government agency that manages NSW Recreational Fishing Licences).\n\nThis will allow you to access:\n\nTo link your account with Department of Primary Industries, we will verify your identity document details against your Department of Primary Industries customer information.\n\nService NSW will not disclose your personal information to anyone else unless you provide your consent, or we are required or authorised to do so by law.\n\nThis statement is in addition to the MyServiceNSW Account Terms and Conditions and Privacy collection notice.\n\nFor further information on how Service NSW handles your privacy, go to our Privacy statement.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Recreational fishing",
+      "link": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "NSW Recreational Fishing Licences",
+      "url": "https://www.service.nsw.gov.au/services/recreational-fishing"
+    },
+    {
+      "text": "MyServiceNSW Account Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my information?",
+      "a": "Service NSW is collecting this information to verify your identity and enable you to link your MyServiceNSW Account to the Department of Primary Industries.",
+      "link": null
+    },
+    {
+      "q": "What information will be verified?",
+      "a": "Service NSW will verify your identity document details against your Department of Primary Industries customer information.",
+      "link": null
+    },
+    {
+      "q": "Who can see my personal information?",
+      "a": "Service NSW will not disclose your personal information to anyone else unless you provide your consent, or we are required or authorised to do so by law.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:31Z",
+    "last_modified": "23 September 2025",
+    "html_sha1": "09d0f9fba3e3af72833d6638b3dbc7392f168a96",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

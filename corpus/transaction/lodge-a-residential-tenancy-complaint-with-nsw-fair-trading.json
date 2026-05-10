@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-tenancy-complaint-with-nsw-fair-trading",
+  "source_url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-tenancy-complaint-with-nsw-fair-trading",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "lodge-a-residential-tenancy-complaint-with-nsw-fair-trading",
+  "title": "Lodge a residential tenancy complaint with NSW Fair Trading",
+  "summary": "If you cannot resolve a tenancy dispute privately, you can lodge a complaint with NSW Fair Trading, which will act as an informal negotiator.",
+  "topics": [
+    "tenancy-complaint",
+    "nsw-fair-trading",
+    "landlord-dispute",
+    "tenant-rights"
+  ],
+  "intro": "Tenants and landlords or property managers should try to resolve disputes between themselves if possible. If you cannot resolve the issue privately you can lodge a complaint with NSW Fair Trading. Fair Trading will act as an informal negotiator between the parties. There's no fee for this service.\n\nBefore you lodge a complaint, check the types of tenancy problems Fair Trading can assist with. They can help with some but not all tenancy matters.",
+  "who_can_apply": [
+    "Tenants, landlords, or property managers who have been unable to reach an agreement over a tenancy dispute."
+  ],
+  "what_you_need": [
+    "Name and contact details of the tenant, landlord, or property manager you are complaining about.",
+    "Details of the property involved.",
+    "Details of the dispute and your attempt to resolve the issue.",
+    "Copies of any relevant documents such as correspondence, condition reports, bank statements, or photos."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Lodge online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Open the 'Renting' drop-down.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Go to tenancy complaint form'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Agree to the declaration.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Download and complete the Property Complaint Form – PDF.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/tenancy-complaint-form"
+    },
+    {
+      "n": 8,
+      "text": "Gather your supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Lodge your complaint by mail or email, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After receiving your complaint, NSW Fair Trading will attempt to finalise the matter within 30 days.",
+      "link": null
+    },
+    {
+      "text": "If there is no resolution from the NSW Fair Trading intervention, they'll advise you of further action you can take.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "types of tenancy problems Fair Trading can assist with",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-tenancy-complaints"
+    },
+    {
+      "text": "your attempt to resolve the issue",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/resolving-residential-tenancy-disputes"
+    },
+    {
+      "text": "Property Complaint Form – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/rental-forms-surveys-and-data/resources/tenancy-complaint-form"
+    },
+    {
+      "text": "Tenancy, landlord and agent complaints and enquiries – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/housing-and-property/tenancy-landlord-and-agent"
+    },
+    {
+      "text": "Short-term rental accommodation complaints and enquiries – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/travel/short-term-rental-accommodation"
+    },
+    {
+      "text": "Renting a place to live – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Is there a fee to lodge a tenancy complaint?",
+      "a": "No, there is no fee for this service.",
+      "link": null
+    },
+    {
+      "q": "Who can lodge a complaint with NSW Fair Trading?",
+      "a": "Tenants, landlords, or property managers who have been unable to reach an agreement over a tenancy dispute.",
+      "link": null
+    },
+    {
+      "q": "What should I do before lodging a complaint?",
+      "a": "Before lodging a complaint, check the types of tenancy problems Fair Trading can assist with.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-tenancy-complaints"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:21Z",
+    "last_modified": "26 August 2024",
+    "html_sha1": "32fdd84b1df71c0781154763624ee3fece51056e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

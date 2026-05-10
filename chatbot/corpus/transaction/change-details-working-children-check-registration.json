@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-working-children-check-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-working-children-check-registration",
+  "title": "Change your Working with Children Check registration details",
+  "summary": "You can change details on your Working with Children Check (WWCC) registration online.",
+  "topics": [
+    "working-with-children-check",
+    "change-details",
+    "service-nsw"
+  ],
+  "intro": "You can change details on your Working with Children Check (WWCC) registration online.\n\nDetails that can be changed include name, contact details and gender.\n\nIf you change your name or gender, you'll need to submit the online form and then visit a Service NSW Centre to show your new identification.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your WWCC number",
+    "Proof of identity (if changing name or gender)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Change online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your details.You'll be sent a confirmation email.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "If applicable, visit a service centre with your application number and identity documents.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your employer will need to re-verify your updated WWCC number.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://ocg.nsw.gov.au/working-children-check/apply-wwcc/proof-identity"
+    },
+    {
+      "text": "Working with Children Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check"
+    },
+    {
+      "text": "Information for WWCC applicants",
+      "url": "https://ocg.nsw.gov.au/working-children-check/applicant"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    },
+    {
+      "text": "Check a Working with Children Check status",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-working-with-children-check-status"
+    },
+    {
+      "text": "Find your Working with Children Check number",
+      "url": "https://www.service.nsw.gov.au/transaction/find-working-children-check-number"
+    },
+    {
+      "text": "Upgrade your Working with Children Check from volunteer to paid",
+      "url": "https://www.service.nsw.gov.au/transaction/upgrade-your-wwcc-clearance-from-volunteer-to-paid"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What details can I change on my WWCC registration?",
+      "a": "You can change details such as your name, contact details, and gender.",
+      "link": null
+    },
+    {
+      "q": "What do I need if I change my name or gender?",
+      "a": "You must submit the online form and then visit a Service NSW Centre to show your new identification.",
+      "link": null
+    },
+    {
+      "q": "What do I need to change my WWCC details?",
+      "a": "You need your WWCC number and proof of identity if you are changing your name or gender.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:04Z",
+    "last_modified": "19 April 2024",
+    "html_sha1": "fbf04e3a710c4cff4cd367a7ca1f61a0638267fa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

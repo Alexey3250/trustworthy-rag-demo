@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-taxi-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-taxi-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-taxi-registration",
+  "title": "Renew a taxi registration",
+  "summary": "This page provides information on how to renew a taxi registration, either online or by visiting a Service NSW Centre.",
+  "topics": [
+    "taxi-registration",
+    "renew-registration",
+    "service-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "Your registration renewal notice will tell you the date registration is due for your taxi. It will also tell you if there are any special requirements before registration can be granted.\n\nAll taxis need:\n\nYou can renew your taxi registration online or by visiting a Service NSW Centre.",
+  "who_can_apply": [
+    "Must have a registration renewal notice that indicates the due date and any special requirements.",
+    "Must have the vehicle's plate number or billing number."
+  ],
+  "what_you_need": [
+    "The vehicle's plate number or the billing number (from your renewal notice or digital Certificate of Registration).",
+    "Your compulsory third party (CTP) insurance policy (green slip).",
+    "Your safety inspection report (pink slip).",
+    "Payment (if applicable).",
+    "Proof of identity.",
+    "Your registration renewal notice.",
+    "The completed form Replacement Application – PDF (if you do not have the renewal notice).",
+    "Your CTP receipt details.",
+    "Your safety inspection report (if sent electronically to Transport for NSW)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew a taxi registration.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Keep a copy of the receipt for your records.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a service centre and submit your renewal application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Inspection reports for light vehicles are only valid for 6 months from the date of issue. They must be used to renew a registration within those 6 months.",
+      "link": null
+    },
+    {
+      "text": "Most insurers will send your CTP information electronically to Transport for NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Replacement Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Renewing vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration"
+    },
+    {
+      "text": "Taxi, hire car and rideshare drivers – Point to Point Transport Commissioner",
+      "url": "https://www.pointtopoint.nsw.gov.au/become-a-driver"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "BPAY",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to renew my taxi registration?",
+      "a": "You will need the vehicle's plate number or billing number, your compulsory third party (CTP) insurance policy, your safety inspection report, payment (if applicable), proof of identity, your registration renewal notice, and either the completed Replacement Application – PDF or your CTP receipt details and safety inspection report (if sent electronically).",
+      "link": null
+    },
+    {
+      "q": "How can I renew my taxi registration?",
+      "a": "You can renew your taxi registration online or by visiting a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my renewal application if I cannot renew online?",
+      "a": "You can visit a Service NSW Centre to submit your renewal application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:19Z",
+    "last_modified": "11 March 2026",
+    "html_sha1": "f102932ee02eaf5ea8a61005fb19f9a0a92e0417",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

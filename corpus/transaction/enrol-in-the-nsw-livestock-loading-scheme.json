@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/enrol-in-the-nsw-livestock-loading-scheme",
+  "source_url": "https://www.service.nsw.gov.au/transaction/enrol-in-the-nsw-livestock-loading-scheme",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "enrol-in-the-nsw-livestock-loading-scheme",
+  "title": "Enrol in the NSW Livestock Loading Scheme",
+  "summary": "Find out if you can enrol in the NSW Livestock Loading Scheme (NSWLLS) to operate with increased mass limits when transporting livestock by road in NSW.",
+  "topics": [
+    "livestock",
+    "transport",
+    "nswlls",
+    "mass-limits",
+    "enrolment"
+  ],
+  "intro": "If you transport livestock by road in NSW, you may be able to enrol in the NSW Livestock Loading Scheme (NSWLLS).\n\nThe scheme allows livestock road freight transport businesses to operate with increased mass limits.",
+  "who_can_apply": [
+    "Your vehicle must meet the eligible vehicle combinations.",
+    "You must comply with the NSWLLS vehicle standards, mass limits, and operating conditions when operating in NSW.",
+    "If your vehicle is already enrolled in a state or territory loading scheme, you must carry evidence of that enrolment."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Operator Application for Enrolment NSW Livestock Loading Scheme (NSWLLS)'",
+    "Operator's details, including the contact person's details.",
+    "Nominated vehicle details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete and submit the form by email or mail using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Drivers operating vehicles enrolled in the scheme must have completed the NSW Livestock Loading Scheme driver training course and carry the NSWLLS Driver Card with them in the vehicle.",
+      "link": null
+    },
+    {
+      "text": "All vehicles enrolled in the scheme need to display a NSWLLS label on the vehicle, on the prime mover.",
+      "link": null
+    },
+    {
+      "text": "Operators need to notify Transport for NSW within 14 days if there are any changes to the vehicle ownership or registration.",
+      "link": null
+    },
+    {
+      "text": "You can check an online interactive map to find approved NSWLLS routes.",
+      "link": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "Random compliance checks may occur at on-road intercepts, or via triggered or random inspections.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "eligible vehicle combinations",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock#Eligible_vehicles"
+    },
+    {
+      "text": "Operator Application for Enrolment NSW Livestock Loading Scheme (NSWLLS)",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071672-enrolment-nsw-livestock-scheme.pdf"
+    },
+    {
+      "text": "approved NSWLLS routes",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "NSW Livestock Loading Scheme (NSWLLS) - Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change your enrolment details for the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/change-enrolment-details-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "How to become a NSW Livestock Loading Scheme (NSWLLS) driver",
+      "url": "https://www.service.nsw.gov.au/transaction/how-to-become-a-nsw-livestock-loading-scheme-driver"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Livestock Loading Scheme (NSWLLS)?",
+      "a": "The NSWLLS allows livestock road freight transport businesses to operate with increased mass limits.",
+      "link": null
+    },
+    {
+      "q": "Who can enrol in the NSWLLS?",
+      "a": "You can enrol if your vehicle meets the eligible vehicle combinations. You must also comply with the NSWLLS vehicle standards, mass limits, and operating conditions when operating in NSW.",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/livestock#Eligible_vehicles"
+    },
+    {
+      "q": "What do I need to enrol in the scheme?",
+      "a": "You need the PDF form, 'Operator Application for Enrolment NSW Livestock Loading Scheme (NSWLLS)', along with the operator's details and the nominated vehicle details.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071672-enrolment-nsw-livestock-scheme.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:01Z",
+    "last_modified": "15 April 2025",
+    "html_sha1": "d87cf72c17743a2df717f8234398f87bacab7ae5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

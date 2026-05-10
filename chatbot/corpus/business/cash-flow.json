@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/cash-flow",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/cash-flow",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "cash-flow",
+  "title": "3 practical ways to stay on top of your cash flow",
+  "summary": "This page provides practical tips and insights for businesses on how to manage and improve their cash flow.",
+  "topics": [
+    "business-finance",
+    "cash-flow",
+    "small-business",
+    "tips-and-insights"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources?page=1"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Tips for getting paid faster",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights/tips-for-getting-paid-faster"
+    },
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:48Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "39f0b80bd15705db258058ce974e6b671d02567d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

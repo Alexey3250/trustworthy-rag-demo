@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/live-web-cam-vision-of-nsw-coastal-bars",
+  "source_url": "https://www.service.nsw.gov.au/referral/live-web-cam-vision-of-nsw-coastal-bars",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "live-web-cam-vision-of-nsw-coastal-bars",
+  "title": "Live web-cam vision of NSW coastal bars",
+  "summary": "View live web-cam vision of coastal bars and other locations to help prepare for a safe trip when boating along the NSW coast.",
+  "topics": [
+    "boating-safety",
+    "nsw-coast",
+    "webcams",
+    "estuaries"
+  ],
+  "intro": "The movement of sand along the coast, and sediment from catchments, builds up bars at the entrances to estuaries, rivers and lakes. Wave action and water movement change the shape, depth and channels on the bars quite regularly, and crossing them is a dangerous part of boating along the NSW coast.\n\nAll occupants of a recreational vessel must wear an appropriate lifejacket when crossing coastal bars.\n\nThe locations of the coastal bars are divided into 4 regions:\n\nTo help prepare for a safe trip, Transport for NSW provides web-cam vision of coastal bars and other locations. If you'd like to view footage from any of the bar crossing cameras, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Appropriate lifejacket for all occupants of a recreational vessel when crossing coastal bars."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "appropriate lifejacket",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment"
+    },
+    {
+      "text": "locations of the coastal bars",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/waterways-and-designated-areas/navigate-coastal-bars-locations-webcams-boating-safety-advice/locations#NorthCoastregion"
+    },
+    {
+      "text": "web-cam vision of coastal bars",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/webcams"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the danger when crossing coastal bars?",
+      "a": "Wave action and water movement regularly change the shape, depth, and channels on the bars, making crossing them a dangerous part of boating along the NSW coast.",
+      "link": null
+    },
+    {
+      "q": "What safety equipment must I wear when crossing coastal bars?",
+      "a": "All occupants of a recreational vessel must wear an appropriate lifejacket when crossing coastal bars.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment"
+    },
+    {
+      "q": "Where can I view the web-cam vision of coastal bars?",
+      "a": "Transport for NSW provides web-cam vision of coastal bars and other locations online.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/conditions-weather-and-tides/webcams"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:22Z",
+    "last_modified": "7 January 2025",
+    "html_sha1": "5316aa0dc71348af540a2e75dca84591b474a4e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

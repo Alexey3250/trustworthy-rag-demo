@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-eligibility-decision-tool",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-eligibility-decision-tool",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-superannuation-guarantee-eligibility-decision-tool",
+  "title": "Use the superannuation guarantee eligibility decision tool",
+  "summary": "Employers can use the superannuation guarantee eligibility decision tool to quickly check if they need to make super contributions for their employees or contractors.",
+  "topics": [
+    "superannuation",
+    "super-guarantee",
+    "employers",
+    "super-contributions"
+  ],
+  "intro": "Employers can use the superannuation guarantee eligibility decision tool to quickly check whether they need to make super contributions for their employees or contractors.\n\nAfter answering a series of questions about the individual’s employment circumstances, you will receive a brief report that shows:\n\nVisit the ATO website to learn more about super guarantee contributions.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "the ATO website",
+      "url": "https://www.ato.gov.au/single-page-applications/calculatorsandtools?anchor=ECDTSGET/questions/SGET#ECDTSGET/questions/SGET"
+    },
+    {
+      "text": "All about the Superannuation Guarantee eligibility decision tool",
+      "url": "https://www.ato.gov.au/Calculators-and-tools/Super-guarantee-eligibility/"
+    },
+    {
+      "text": "Super for employers – Australian Tax Office",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/super-for-employers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:18Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "e5c3666140ea7a2280ae7d080a5285f9e14978e3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

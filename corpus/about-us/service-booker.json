@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/service-booker",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/service-booker",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "service-booker",
+  "title": "Service Booker: customer booking system",
+  "summary": "This page provides information about Service Booker, the customer booking system used by Service NSW.",
+  "topics": [
+    "service-booking",
+    "customer-service",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Authenticate",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate"
+    },
+    {
+      "text": "Digital Notifications",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications"
+    },
+    {
+      "text": "Grants",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants"
+    },
+    {
+      "text": "Identity Assurance",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance"
+    },
+    {
+      "text": "Rebates",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/rebates"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-vouchers"
+    },
+    {
+      "text": "Learn more about Service NSW digital capabilities",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:16Z",
+    "last_modified": "11 November 2025",
+    "html_sha1": "a2424279c2eadcb4826278ee6100e12adfc652fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

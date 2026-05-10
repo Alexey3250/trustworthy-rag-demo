@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-repair-a-written-off-light-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-repair-a-written-off-light-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-repair-a-written-off-light-vehicle",
+  "title": "Apply to repair a written-off light vehicle",
+  "summary": "You must apply for an 'Authorisation to Repair' from Transport for NSW (TfNSW) before you can repair a written-off light vehicle.",
+  "topics": [
+    "written-off-vehicle",
+    "repair",
+    "transport-for-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "To repair a written-off light vehicle you need to apply for an 'Authorisation to Repair' from Transport for NSW (TfNSW).\n\nYou need to wait for authorisation before starting repairs.",
+  "who_can_apply": [
+    "The vehicle must not have suffered damage specified in the Statutory write-off assessment criteria.",
+    "One of the following eligibility criteria must apply to the applicant."
+  ],
+  "what_you_need": [
+    "A completed Declaration of Vehicle Damage (obtained from the insurer/assessor).",
+    "Your driver licence number or customer number.",
+    "Your vehicle details (including make, model, VIN, and engine number).",
+    "Supporting evidence that you are eligible.",
+    "The PDF form: ‘Application to repair a written-off light vehicle’."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Attach all the required documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your application by post or email to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you intend to repair the vehicle yourself, keep all information about the repair process, such as invoices and receipts for parts. You'll need them when you have the vehicle inspected, before registration. Note: Light trucks must be repaired by a licensed repairer.",
+      "link": null
+    },
+    {
+      "text": "Hail-damaged written-off light vehicles that are kept by the registered operator are treated differently to other written-off vehicles.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles/owning-or-buying-a-written-off-light-vehicle#toc-hail-damaged-written-off-light-vehicles"
+    },
+    {
+      "text": "After repairs are done you can Apply to re-register a written-off light vehicle.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Statutory write-off assessment criteria",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles/re-registering-a-written-off-light-vehicle#toc-eligible-customers-and-vehicles"
+    },
+    {
+      "text": "hail-damaged written-off light vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles/owning-or-buying-a-written-off-light-vehicle#toc-hail-damaged-written-off-light-vehicles"
+    },
+    {
+      "text": "Declaration of Vehicle Damage – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065808-declaration-of-vehicle-damage.pdf"
+    },
+    {
+      "text": "Written-off light vehicle policies and procedures – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2022/written-off-light-vehicle-policies-and-procedures-july-2022.pdf"
+    },
+    {
+      "text": "Written-off vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles"
+    },
+    {
+      "text": "Owning or buying a written-off light vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/written-off-vehicles/owning-or-buying-a-written-off-light-vehicle"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to re-register a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    },
+    {
+      "text": "Book a VIIU inspection for a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/book-viiu-inspection-written-vehicle"
+    },
+    {
+      "text": "Cancel the registration on a written-off vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    },
+    {
+      "text": "Get an authorised unregistered vehicle inspection (blue slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to repair a written-off light vehicle?",
+      "a": "You must apply for an 'Authorisation to Repair' from Transport for NSW (TfNSW) and wait for this authorisation before starting repairs.",
+      "link": null
+    },
+    {
+      "q": "Who can apply to repair a written-off light vehicle?",
+      "a": "The vehicle must not have suffered damage specified in the Statutory write-off assessment criteria, and one of the listed eligibility criteria must apply to you.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need a completed Declaration of Vehicle Damage, your driver licence or customer number, your vehicle details (make, model, VIN, and engine number), supporting evidence of eligibility, and the 'Application to repair a written-off light vehicle' PDF form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:06Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "9b00f0cbd463ec080e15f7c1bfdefb5b9838b055",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register",
+  "source_url": "https://www.service.nsw.gov.au/referral/personal-property-securities-register",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "personal-property-securities-register",
+  "title": "Check the Personal Property Securities Register (PPSR)",
+  "summary": "Use the Personal Property Securities Register (PPSR) to search for and register debts and security interests in personal property.",
+  "topics": [
+    "personal-property",
+    "securities-register",
+    "debt-search",
+    "security-interest"
+  ],
+  "intro": "The Personal Property Securities Register (PPSR) is a national online register managed by the federal government.\n\nIndividuals and organisations can use the PPSR to register and search for debts and other security interests in personal property such as cars, boats and artworks. (The PPSR does not include land, buildings, or fixtures to land.)\n\nA PPSR search can help to ensure that you do not buy or lease property or goods that:\n\nTo avoid buying or leasing property or goods that are unable to be insured or may be repossessed, it’s a good idea to search the PPSR before you:\n\nYou can also use the PPSR to register your rights over personal property or goods related to a debt, security interest or other obligation an individual or business owes you.\n\nNote: For PPSR registrations that ended before 30 January 2012, visit Migrated security interests and migrated data.",
+  "who_can_apply": [
+    "Individuals",
+    "Organisations"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Personal Property Securities Register",
+      "url": "https://www.ppsr.gov.au/searching"
+    },
+    {
+      "text": "your business",
+      "url": "https://www.ppsr.gov.au/education-hub/ppsr-and-your-business"
+    },
+    {
+      "text": "register",
+      "url": "https://www.ppsr.gov.au/registering"
+    },
+    {
+      "text": "Migrated security interests and migrated data",
+      "url": "https://www.ppsr.gov.au/education-hub/transitional-and-historical-information/migrated-security-interests-and-migrated-data"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:32Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "0bcab13ea509f03c3a748cbeb978d28c7101d3fe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

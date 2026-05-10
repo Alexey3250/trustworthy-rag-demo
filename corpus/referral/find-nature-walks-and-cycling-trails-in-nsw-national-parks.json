@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-nature-walks-and-cycling-trails-in-nsw-national-parks",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-nature-walks-and-cycling-trails-in-nsw-national-parks",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-nature-walks-and-cycling-trails-in-nsw-national-parks",
+  "title": "Find nature walks and cycling trails in NSW National Parks",
+  "summary": "Find information and search for nature walks and cycling trails available in NSW National Parks.",
+  "topics": [
+    "nsw-national-parks",
+    "nature-walks",
+    "cycling-trails",
+    "outdoor-activities"
+  ],
+  "intro": "National Parks in NSW offer outdoor activities for all ages and levels of fitness.\n\nYou'll find:\n\nYou can search for the activities that interest you, online.\n\nAll you need to provide is:\n\nYou may be required to pay an entry fee to some of the parks listed, and before visiting always ensure you have checked:\n\nThe NSW National Parks and Wildlife Service website has all the information you need.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Be aware that an entry fee may be required for some parks.",
+    "Always check the NSW National Parks and Wildlife Service website before visiting."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Alerts section",
+      "url": "https://www.nationalparks.nsw.gov.au/alerts/alerts-list"
+    },
+    {
+      "text": "NSW National Parks and Wildlife Service website",
+      "url": "https://www.nationalparks.nsw.gov.au/things-to-do"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:05Z",
+    "last_modified": "29 October 2024",
+    "html_sha1": "17455c3134dba1750a2202ef24e2d125555e15d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

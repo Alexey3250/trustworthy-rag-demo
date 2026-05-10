@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-vehicles-registration-certificate-online",
+  "title": "Replace a vehicle's registration certificate online",
+  "summary": "You can apply online to replace a lost, stolen, or destroyed paper registration certificate for a NSW registered vehicle.",
+  "topics": [
+    "vehicle-registration",
+    "nsw-vehicle",
+    "replace-certificate",
+    "service-nsw"
+  ],
+  "intro": "If you’re the owner of a NSW registered vehicle and your registration certificate has been lost, stolen, or destroyed, you can apply for a paper replacement online.\n\nYou’ll receive the replacement paper certificate within 7 business days. If you need it sooner, you can:\n\nNote: Ordering replacement registration documents does not renew your rego or extend its expiry date. If your registration is due to expire within 6 weeks, consider renewing it online before ordering a replacement.",
+  "who_can_apply": [
+    "The recorded owner of the NSW registered vehicle can apply online.",
+    "You cannot apply online and must visit a service centre if: you are not recorded as the owner of the registered vehicle, you do not have a NSW Driver Licence or NSW Photo Card, the vehicle is registered in a company name, or the registration has expired."
+  ],
+  "what_you_need": [
+    "Your NSW Driver Licence or NSW Photo Card details",
+    "The vehicle's NSW registration details",
+    "A copy of the Replacement Application form (https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility details.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create your MyServiceNSW Account, or continue as a guest.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to replace a registration certificate.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Keep a copy of the receipt for your records.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Download and complete the form Replacement Application.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "n": 7,
+      "text": "Submit your application in person at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Replacement Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "opting in to get a digital registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Replace a registration renewal notice",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-registration-renewal-notice"
+    },
+    {
+      "text": "Apply for an unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit"
+    },
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long will it take to receive the replacement certificate?",
+      "a": "You will receive the replacement paper certificate within 7 business days.",
+      "link": null
+    },
+    {
+      "q": "Does ordering a replacement certificate renew my registration?",
+      "a": "No, ordering replacement registration documents does not renew your rego or extend its expiry date.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my registration expires soon?",
+      "a": "If your registration is due to expire within 6 weeks, consider renewing it online before ordering a replacement.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:38Z",
+    "last_modified": "26 March 2026",
+    "html_sha1": "76d6d3d0dcd8653345019d6c6c2ca1f21ca42bf1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

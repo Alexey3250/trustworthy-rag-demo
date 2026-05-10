@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-design-or-building-practitioner-registration-for-a-body-corporate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-design-or-building-practitioner-registration-for-a-body-corporate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-design-or-building-practitioner-registration-for-a-body-corporate",
+  "title": "Renew a design or building practitioner registration for a body corporate",
+  "summary": "Directors or public officers of a body corporate can renew their design or building practitioner registration online when the registration is nearing expiry.",
+  "topics": [
+    "body-corporate",
+    "design-practitioner",
+    "building-practitioner",
+    "registration-renewal"
+  ],
+  "intro": "If you're the director or public officer of a body corporate currently holding design practitioner or building practitioner registration(s), you'll receive a renewal notice when the registration is nearing its expiry date. You are then able to renew your registration online.\n\nNote: If the body corporate has had a change of name or ABN, please ensure you complete NSW Fair Trading's Change of Details – PDF prior to renewing your registration.\n\nIf you need to update your ACN you're required to lodge a new application.",
+  "who_can_apply": [
+    "Be aged 18 or over",
+    "Meet the criteria for design practitioner body corporate or building practitioner body corporate",
+    "Have met insurance requirements"
+  ],
+  "what_you_need": [
+    "Your registration number",
+    "Your renewal number (as shown on your renewal notice)",
+    "The body corporate’s details",
+    "Your contact details",
+    "A current credit card for payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents..",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Renew online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to renew your registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you don't renew on time you'll have to make an application to restore your registration.",
+      "link": null
+    },
+    {
+      "text": "If your registration has expired more than 3 months, you'll need to apply for a new registration to be issued.",
+      "link": null
+    },
+    {
+      "text": "You cannot work if your registration is expired.",
+      "link": null
+    },
+    {
+      "text": "To find your registration number and details, visit Verify.licence.",
+      "link": "https://verify.licence.nsw.gov.au/home/DBP"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Change of Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "text": "design practitioner body corporate",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/design-practitioners#toc-eligibility"
+    },
+    {
+      "text": "building practitioner body corporate",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/building-practitioners#toc-eligibility"
+    },
+    {
+      "text": "Design and building practitioner registration for a body corporate - privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/about-us/privacy/privacy-collection-notices/privacy-collection-notice-for-design-and-building-practitioner-registration-for-a-body-corporate"
+    },
+    {
+      "text": "Verify.licence",
+      "url": "https://verify.licence.nsw.gov.au/home/DBP"
+    },
+    {
+      "text": "Working on class 2 buildings",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/professionals-working-on-regulated-buildings"
+    },
+    {
+      "text": "Fees for design and building practitioner registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-registration"
+    },
+    {
+      "text": "Design and Building Practitioners Act 2020",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2020-007"
+    },
+    {
+      "text": "Design and Building Practitioners Regulation 2021",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2021-0152"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "lodge a new application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-design-or-building-practitioner-registration-for-a-body-corporate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if the body corporate has changed its name or ABN?",
+      "a": "You must complete NSW Fair Trading's Change of Details – PDF before renewing your registration.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "q": "If I need to update my ACN, what do I need to do?",
+      "a": "You are required to lodge a new application.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-design-or-building-practitioner-registration-for-a-body-corporate"
+    },
+    {
+      "q": "How do I renew my registration online?",
+      "a": "Gather the required documents, select the ‘Renew online’ button, log in to your MyServiceNSW Account, and follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:49Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "0c0c5c9a939be69da0cbd24bfec9eff21231e993",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/miranda-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/miranda-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "miranda-service-centre",
+  "title": "Miranda Service Centre",
+  "summary": "This page provides information about the Miranda Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "nsw-services",
+    "miranda"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-34.034473,151.102497"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Hurstville Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/hurstville-service-centre"
+    },
+    {
+      "text": "Engadine Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/engadine-service-centre"
+    },
+    {
+      "text": "Rockdale Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/rockdale-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:15Z",
+    "last_modified": null,
+    "html_sha1": "e375ae6525f7fe0528183fb3cd8f0d0dfc4ad88b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

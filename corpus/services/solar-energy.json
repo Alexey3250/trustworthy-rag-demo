@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/solar-energy",
+  "source_url": "https://www.service.nsw.gov.au/services/solar-energy",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "solar-energy",
+  "title": "Solar energy",
+  "summary": "Find information about solar energy for your home in NSW, including how it works and how to avoid scams.",
+  "topics": [
+    "solar-energy",
+    "renewable-energy",
+    "home-upgrades",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Learn about renewable energy in NSW",
+      "link": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/major-state-projects/shift-renewables"
+    },
+    {
+      "text": "Energy and utilities",
+      "link": "https://www.service.nsw.gov.au/services/energy-and-utilities"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Climate and Energy Action website",
+      "url": "https://www.energy.nsw.gov.au/households/upgrades/solar"
+    },
+    {
+      "text": "SCAMwatch",
+      "url": "https://www.scamwatch.gov.au/about-us/news-and-alerts/continue-to-beware-of-scam-solar-offers"
+    },
+    {
+      "text": "Learn about renewable energy in NSW",
+      "url": "https://www.energy.nsw.gov.au/nsw-plans-and-progress/major-state-projects/shift-renewables"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Energy and utilities",
+      "url": "https://www.service.nsw.gov.au/services/energy-and-utilities"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does home solar energy work?",
+      "a": "Solar energy systems convert sunlight into electricity for your home. You can learn more about how home solar works on the NSW Climate and Energy Action website.",
+      "link": "https://www.energy.nsw.gov.au/households/upgrades/solar"
+    },
+    {
+      "q": "How can I protect myself from solar energy scams?",
+      "a": "Be aware of scams. If you receive suspicious offers, check with SCAMwatch for advice on avoiding solar scams.",
+      "link": "https://www.scamwatch.gov.au/about-us/news-and-alerts/continue-to-beware-of-scam-solar-offers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:08Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "251a74b8d8ea05a4d91100db4e1c74750b6bdb23",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-pensioner-concession-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-pensioner-concession-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "replace-a-lost-stolen-or-damaged-pensioner-concession-card",
+  "title": "Replace a lost, stolen or damaged Pensioner Concession Card",
+  "summary": "This page explains how to replace a lost, stolen, or damaged Pensioner Concession Card.",
+  "topics": [
+    "pensioner-concession-card",
+    "replace-card",
+    "services-australia"
+  ],
+  "intro": "The Pensioner Concession Card allows eligible cardholders to access cheaper health care, medicines and discounts from the Australian Government.\n\nYou don’t need to apply for a Pensioner Concession Card. Services Australia will send you one if you're eligible.\n\nIf you lose your card or it gets damaged or stolen, you can replace it by:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Pensioner Concession Card",
+      "url": "https://www.servicesaustralia.gov.au/pensioner-concession-card"
+    },
+    {
+      "text": "Services Australia website",
+      "url": "https://www.servicesaustralia.gov.au/replace-lost-or-stolen-pensioner-concession-card-or-health-care-card?context=22006"
+    },
+    {
+      "text": "myGov",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Centrelink Service Centre",
+      "url": "https://findus.servicesaustralia.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:56Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "c27e4e80ae5a3af55f1ff063b5989c3b930a7901",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

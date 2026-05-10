@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-park-trust",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-park-trust",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "parramatta-park-trust",
+  "title": "Parramatta Park Trust",
+  "summary": "This page provides information about the Parramatta Park Trust, which manages the park.",
+  "topics": [
+    "parramatta-park",
+    "park-trust",
+    "nsw-parks"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.greatersydneyparklands.nsw.gov.au/visit/parramatta-park",
+      "url": "https://www.greatersydneyparklands.nsw.gov.au/visit/parramatta-park"
+    },
+    {
+      "text": "Parramatta Park Trust website",
+      "url": "https://www.greatersydneyparklands.nsw.gov.au/book-venue"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:58Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "8a703e1d681adac94304e1a1820c946f1203cca3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

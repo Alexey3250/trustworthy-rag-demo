@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business",
+  "source_url": "https://www.service.nsw.gov.au/business/support-for-women-in-business",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "support-for-women-in-business",
+  "title": "Support for women in business",
+  "summary": "This page provides various resources and support options for women starting or running a business in NSW.",
+  "topics": [
+    "women-in-business",
+    "small-business",
+    "funding",
+    "training",
+    "networking"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Women starting or running a business in NSW"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Online resources Access free online resources, including videos, podcasts and articles on a range of small business topics, to help get you started and grow your skills.",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "Running a business toolkit Explore a range of resources that support businesswomen who are starting or running a business.",
+      "url": "https://www.nsw.gov.au/women-nsw/toolkits-and-resources/return-to-work-toolkit/running-a-business"
+    },
+    {
+      "text": "TAFE NSW Women in Business If you're starting or running a micro or small business, you can enrol in subsidised online learning via the TAFE NSW Women in Business initiative.",
+      "url": "https://www.tafensw.edu.au/programs/women-in-business"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Personalised support Get ongoing, one-on-one support at every stage of your business journey. You can talk to us over the phone, in person or online.",
+      "url": "https://www.service.nsw.gov.au/business/business-concierge-service"
+    },
+    {
+      "text": "Starting a business Learn how to set up your business, choose the right structure and apply for key registrations.",
+      "url": "https://www.service.nsw.gov.au/business/getting-started"
+    },
+    {
+      "text": "Grants and funding Find out if your business is eligible for a grant or other financial support.",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/grants-and-funding"
+    },
+    {
+      "text": "Training, education and coaching Discover courses, programs and training resources to grow your business skills.",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/training-education-and-coaching"
+    },
+    {
+      "text": "Networking and mentoring Connect with other businesswomen, investors, industry communities and local networks.",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/networking-and-mentoring"
+    },
+    {
+      "text": "Business resources Websites and online toolkits to help women in business.",
+      "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/resources"
+    },
+    {
+      "text": "Mental health support Services and resources to support mental health and wellbeing in the workplace.",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow/mental-health-support"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find ongoing, one-on-one support for my business?",
+      "a": "You can access personalised support at every stage of your business journey.",
+      "link": "https://www.service.nsw.gov.au/business/business-concierge-service"
+    },
+    {
+      "q": "What resources are available for women starting or running a business?",
+      "a": "You can explore online resources, including videos, podcasts, and articles, or use the running a business toolkit.",
+      "link": null
+    },
+    {
+      "q": "How can I find financial support or grants for my business?",
+      "a": "You can find out if your business is eligible for a grant or other financial support.",
+      "link": "https://www.service.nsw.gov.au/business/support-for-women-in-business/grants-and-funding"
+    },
+    {
+      "q": "Do I need to enrol in a course to grow my business skills?",
+      "a": "Discover courses, programs, and training resources to grow your business skills.",
+      "link": "https://www.service.nsw.gov.au/business/support-for-women-in-business/training-education-and-coaching"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:57Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "6a84cea38a29f4d473b5dd701f2add8837b72b0f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants",
+  "source_url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "business-grants",
+  "title": "Business grants, voucher programs and financial assistance",
+  "summary": "Find information and assistance regarding available NSW and Australian Government grants, rebates, vouchers, and financial support for businesses.",
+  "topics": [
+    "business-grants",
+    "small-business-support",
+    "financial-assistance",
+    "nsw-business"
+  ],
+  "intro": "Explore available NSW and Australian Government business grants, rebates, vouchers and other financial assistance programs.\n\nFor one-on-one, tailored support, book a call with the Service NSW Business Bureau.\n\nBook a call",
+  "who_can_apply": [
+    "Small businesses operating in NSW or Australia",
+    "Businesses impacted by natural disasters"
+  ],
+  "what_you_need": [
+    "Interest in specific grants, rebates, or vouchers",
+    "Contact details for the Service NSW Business Bureau (for tailored support)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "Grants and funding finder – NSW Government",
+      "url": "https://www.nsw.gov.au/grants-and-funding"
+    },
+    {
+      "text": "Grants and programs finder – business.gov.au",
+      "url": "https://business.gov.au/grants-and-programs"
+    },
+    {
+      "text": "Disaster Assistance Finder",
+      "url": "https://disasterassistance.service.nsw.gov.au/"
+    },
+    {
+      "text": "Disaster relief loans for small business – NSW Rural Assistance Authority Low-interest recovery loans for small businesses impacted by natural disasters.",
+      "url": "https://www.raa.nsw.gov.au/loans/natural-disaster-relief-loans/natural-disaster-relief-loans-for-small-businesses"
+    },
+    {
+      "text": "MVP Ventures Program – Investment NSW A competitive grant that helps businesses bring innovative products to market.",
+      "url": "https://www.nsw.gov.au/business-and-economy/innovation/grants-and-programs/mvp-ventures-program"
+    },
+    {
+      "text": "CSIRO Kick-Start Program Matched funding to help start-ups and small and medium businesses with eligible research and development projects.",
+      "url": "https://www.csiro.au/en/work-with-us/funding-programs/sme/csiro-kick-start"
+    },
+    {
+      "text": "Apply for the SafeWork small business rebate Up to $1,000 towards the cost of workplace health and safety items.",
+      "url": "https://www.nsw.gov.au/grants-and-funding/1000-safework-small-business-rebate"
+    },
+    {
+      "text": "About grants and loans – Business Bureau podcast",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resource/qvwwrugt"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the National Energy Bill Relief payment for small business A payment of up to $150 to help NSW small businesses pay their electricity bills.",
+      "url": "https://www.service.nsw.gov.au/transaction/small-business-national-energy-bill-relief-payment"
+    },
+    {
+      "text": "Apply to be an Active and Creative Kids voucher provider Learn how to become a registered provider.",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-active-and-creative-kids-voucher-provider"
+    },
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business"
+    },
+    {
+      "text": "Get help when your small business is in debt",
+      "url": "https://www.service.nsw.gov.au/guide/get-help-when-your-small-business-is-in-debt"
+    },
+    {
+      "text": "How to redeem NSW Government vouchers from customers",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find general grants and funding information?",
+      "a": "You can use the Grants and funding finder for NSW Government or the Grants and programs finder for business.gov.au.",
+      "link": null
+    },
+    {
+      "q": "What financial assistance is available for small businesses after a disaster?",
+      "a": "The NSW Rural Assistance Authority offers low-interest recovery loans for small businesses impacted by natural disasters, and there is a Disaster Assistance Finder.",
+      "link": null
+    },
+    {
+      "q": "What rebates are available for small businesses?",
+      "a": "You can apply for the SafeWork small business rebate (up to $1,000) or the National Energy Bill Relief payment (up to $150).",
+      "link": null
+    },
+    {
+      "q": "How can I get tailored support for my business?",
+      "a": "Book a call with the Service NSW Business Bureau for one-on-one, tailored support.",
+      "link": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:18Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "444ce78d90c61821ee5dfab991b9d4cffec09bb5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

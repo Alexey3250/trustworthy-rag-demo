@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/agriculture-and-biosecurity",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/agriculture-and-biosecurity",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "agriculture-and-biosecurity",
+  "title": "Agriculture and Biosecurity",
+  "summary": "This page provides information about the Department of Primary Industries and Regional Development's work in agriculture and biosecurity.",
+  "topics": [
+    "agriculture",
+    "biosecurity",
+    "primary-industries",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/agriculture-and-biosecurity",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dpird/our-agencies/agriculture-and-biosecurity"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Report a pest or disease, or other biosecurity concern",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-biosecurity-concern"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:31Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5417795a142801e65289cab0138e980e06e89cfe",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

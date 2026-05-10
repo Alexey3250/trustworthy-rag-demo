@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-an-sp2-crane",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-an-sp2-crane",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-the-registration-on-an-sp2-crane",
+  "title": "Renew the registration on an SP2 crane",
+  "summary": "Find out what you need and how to renew the registration for an SP2 crane at a Service NSW Centre.",
+  "topics": [
+    "crane-registration",
+    "sp2-crane",
+    "service-nsw",
+    "vehicle-registration"
+  ],
+  "intro": "An SP2 crane is a truck-based or purpose-built mobile crane with a Gross Vehicle Mass (GVM) greater than 12 tonnes and overmass on one or more axles or axle groups.\n\nTo renew the registration on your SP2 crane, you'll need to visit a Service NSW Centre.",
+  "who_can_apply": [
+    "Own an SP2 crane (a truck-based or purpose-built mobile crane with a Gross Vehicle Mass (GVM) greater than 12 tonnes and overmass on one or more axles or axle groups)."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Business or organisation identification details",
+    "An Authorised Crane Inspection Scheme (ACIS) inspection report",
+    "Your registration renewal notice",
+    "Your payment",
+    "The PDF form – Replacement Application (only if you are not the first or second registered operator and do not have your renewal notice)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather your information and documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre to renew your registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs"
+    },
+    {
+      "text": "Form 1018: Replacement Application – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "Authorised Crane Inspection Scheme (ACIS) – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-and-assessors-3-5"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:18Z",
+    "last_modified": "7 November 2025",
+    "html_sha1": "f0224b85b4f3b4c06cc27b570d2108270a3ab5b2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-fringe-benefits-tax",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-fringe-benefits-tax",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-fringe-benefits-tax",
+  "title": "Register for fringe benefits tax",
+  "summary": "Learn about fringe benefits tax (FBT) and the process for registering and lodging an FBT return if you provide benefits to your employees.",
+  "topics": [
+    "fringe-benefits-tax",
+    "fbt",
+    "employees",
+    "tax-return",
+    "ato"
+  ],
+  "intro": "If you provide certain benefits to your employees in addition to, or in place of, their salary or wages, you may have to pay fringe benefits tax (FBT).\n\nFBT is separate from income tax. It is based on the taxable value of the benefit you provide. Benefits could include:\n\nVisit the ATO website for information on types of fringe benefits.\n\nIf you have to pay FBT, you must register for FBT and lodge an FBT return.\n\nThe FBT year runs from 1 April to 31 March. An FBT return must be lodged by 21 May each year.\n\nIf you're registered for FBT but do not need to lodge an FBT return for the year, complete a Notice of non-lodgment.",
+  "who_can_apply": [
+    "You provide certain benefits to your employees in addition to, or in place of, their salary or wages."
+  ],
+  "what_you_need": [
+    "Register for FBT",
+    "Lodge an FBT return",
+    "Complete a Notice of non-lodgment (if applicable)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "types of fringe benefits",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/fringe-benefits-tax/types-of-fringe-benefits"
+    },
+    {
+      "text": "register for FBT and lodge an FBT return",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/fringe-benefits-tax/fbt-registration-lodgment-payment-and-reporting"
+    },
+    {
+      "text": "Notice of non-lodgment",
+      "url": "https://www.ato.gov.au/forms-and-instructions/fringe-benefits-tax-non-lodgment-notice"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is fringe benefits tax (FBT)?",
+      "a": "FBT is a tax based on the taxable value of benefits you provide to your employees, separate from income tax.",
+      "link": null
+    },
+    {
+      "q": "What types of benefits might require FBT?",
+      "a": "Benefits could include items such as those listed on the ATO website.",
+      "link": "https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/fringe-benefits-tax/types-of-fringe-benefits"
+    },
+    {
+      "q": "When is the FBT year, and when must the return be lodged?",
+      "a": "The FBT year runs from 1 April to 31 March, and the FBT return must be lodged by 21 May each year.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I am registered for FBT but do not need to lodge a return?",
+      "a": "If you are registered for FBT but do not need to lodge an FBT return for the year, you must complete a Notice of non-lodgment.",
+      "link": "https://www.ato.gov.au/forms-and-instructions/fringe-benefits-tax-non-lodgment-notice"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:38Z",
+    "last_modified": "6 February 2025",
+    "html_sha1": "dfe79e781dc36dd0de202666bd7d5e9984aa999a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-special-number-plates",
+  "title": "Order special number plates",
+  "summary": "You can order special number plates online and personalize them with options like background colour, letters, and style.",
+  "topics": [
+    "number-plates",
+    "special-plates",
+    "vehicle-registration"
+  ],
+  "intro": "If you'd like to personalise your number plates, you can order special plates with a variety of options, including background colour, letters and style of plate.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your email address",
+    "your driver licence number or customer number (if a business)",
+    "the proposed content for your new number plates",
+    "your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to order special number plates.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number plates and/or Cancellation of registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Order special number plates as a gift",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift"
+    },
+    {
+      "text": "Replace or change number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-number-plates"
+    },
+    {
+      "text": "Apply to collect number plates from another service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre"
+    },
+    {
+      "text": "Renew the storage/hold period of number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:46Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "0e57b9b4f5f7f42c6623750b8549c9abc787a136",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

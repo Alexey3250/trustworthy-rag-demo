@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-life-support-energy-rebate-retail-customers",
+  "title": "Apply for the NSW Life Support Energy Rebate (retail customers)",
+  "summary": "Find out how to apply for the NSW Life Support Energy Rebate to help pay for electricity bills for households using approved life support equipment.",
+  "topics": [
+    "energy-rebate",
+    "life-support",
+    "electricity-bills",
+    "nsw-services"
+  ],
+  "intro": "The NSW Life Support Energy Rebate helps pay electricity bills for people who need, or have someone living with them who needs, to use approved energy-intensive life support equipment at home (such as home dialysis, ventilators and oxygen concentrators).\n\nThe NSW Life Support Energy Rebate is up to $1,343.20 per retail (on-market) household, per financial year, depending on the equipment type.\n\nIf you are a retail (on-market) customer, you need to contact your electricity retailer to apply.\n\nIf you are an embedded network (on-supply) electricity customer, you can apply for the NSW Life Support Rebate (on supply).\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You must have an electricity account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You or someone living with you must have been assessed by a registered medical practitioner to verify that the use of the approved life support equipment is required at their principal place of residence."
+  ],
+  "what_you_need": [
+    "The completed form: 'NSW Life Support Rebate Retail Customer Application'.",
+    "Your registered medical practitioner must complete an assessment and sign the Life Support Medical Practitioner section of the application form.",
+    "Your registered medical practitioner must complete an assessment and sign the Life Support Medical Practitioner section of the declaration form."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements for the rebate.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download application form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the 'applicant' and 'patient' sections in the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Ask your medical practitioner (GP or specialist) to complete the relevant section of the application form and sign the declaration.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Contact your electricity retailer and provide them with a copy of your completed form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll need to reapply for this rebate every 4 years.",
+      "link": null
+    },
+    {
+      "text": "Some machines have a part-time and full-time (24 hour a day) rate rebate. Your doctor will need to indicate on the form the rate you use the equipment.",
+      "link": null
+    },
+    {
+      "text": "You can receive more than one rebate if your doctor has prescribed more than one type of machine, such as an oxygen concentrator and a ventilator.",
+      "link": null
+    },
+    {
+      "text": "If more than one person uses the approved equipment, you can receive multiple rebates, but you need to submit a separate application form for each patient.",
+      "link": null
+    },
+    {
+      "text": "You'll receive the rebate as a daily credit on each quarterly electricity bill. The amount of the rebate depends on the machine and the number of days in the billing period.",
+      "link": null
+    },
+    {
+      "text": "If you change energy providers, you can continue to receive the rebate by submitting a new, signed application form and a valid NSW Life Support Rebate Medical Declaration form to your new provider.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Life Support Rebate Retail Customer Application",
+      "url": "https://energy.nsw.gov.au/media/1246/download"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for the NSW Life Support Rebate (on supply)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Low Income Household Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Gas Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Family Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Life Support Energy Rebate?",
+      "a": "The rebate helps pay electricity bills for people who need, or have someone living with them who needs, to use approved energy-intensive life support equipment at home.",
+      "link": null
+    },
+    {
+      "q": "How much is the rebate?",
+      "a": "The rebate is up to $1,343.20 per retail household, per financial year, depending on the equipment type.",
+      "link": null
+    },
+    {
+      "q": "Who should I contact to apply?",
+      "a": "If you are a retail customer, you need to contact your electricity retailer to apply. If you are an embedded network customer, you can apply for the NSW Life Support Rebate (on supply).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:34Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "fd58115d446612c77188c350eb59d1d6cd695b50",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

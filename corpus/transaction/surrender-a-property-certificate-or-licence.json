@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-property-certificate-or-licence",
+  "title": "Surrender a property certificate or licence",
+  "summary": "This page explains how to surrender a property licence or certificate of registration by email or at a Service NSW Centre.",
+  "topics": [
+    "property-licence",
+    "certificate-of-registration",
+    "surrender"
+  ],
+  "intro": "If you want to surrender your property licence or certificate of registration, you can do this by email or at a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licence or certificate details",
+    "the PDF form – 'Notice of Surrender'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Property Notice of Surrender – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap5294b.pdf"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:22Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "dfcb2a8fd007fa39eca2b2b8351cbb316e38f08b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

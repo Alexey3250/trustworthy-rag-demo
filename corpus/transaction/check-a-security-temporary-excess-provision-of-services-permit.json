@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-security-temporary-excess-provision-of-services-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-security-temporary-excess-provision-of-services-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-security-temporary-excess-provision-of-services-permit",
+  "title": "Check a security Temporary Excess Provision of Services permit",
+  "summary": "Check the status and details of a Temporary Excess Provision of Services (TEPS) permit online using required identification numbers.",
+  "topics": [
+    "security-permit",
+    "temporary-permit",
+    "service-nsw"
+  ],
+  "intro": "If you'd like to check a Temporary Excess Provision of Services (TEPS) permit, or search for your own permit number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "permit holder's name",
+    "permit number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    },
+    {
+      "text": "Temporary Excess Provision of Services Permits",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/master_licences/temporary_excess_provision_of_services_permits"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Temporary Excess Provision of Services (TEPS) permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-temporary-excess-provision-of-services-teps-permit"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:51Z",
+    "last_modified": "28 January 2026",
+    "html_sha1": "1a6adcaa61460749e9458dd8bf0b23bbab748a62",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

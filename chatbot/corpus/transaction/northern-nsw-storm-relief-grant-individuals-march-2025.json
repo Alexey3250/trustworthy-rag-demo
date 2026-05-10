@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/northern-nsw-storm-relief-grant-individuals-march-2025",
+  "source_url": "https://www.service.nsw.gov.au/transaction/northern-nsw-storm-relief-grant-individuals-march-2025",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "northern-nsw-storm-relief-grant-individuals-march-2025",
+  "title": "Apply for Personal Hardship Assistance, Tropical Cyclone Alfred, March 2025",
+  "summary": "Find out if you are eligible for Personal Hardship Assistance following Tropical Cyclone Alfred and learn how to apply.",
+  "topics": [
+    "disaster-relief",
+    "hardship-assistance",
+    "nsw-government-aid",
+    "tropical-cyclone-alfred"
+  ],
+  "intro": "If you lived in a property impacted by Tropical Cyclone Alfred (the disaster event) on 3 March 2025, you may be eligible for Personal Hardship Assistance.\n\nThis payment is to help pay for food, medication, clothing, temporary accommodation and other essential needs.\n\n### Closing date\n\nApplications are closed.",
+  "who_can_apply": [
+    "Be aged 18 years or over.",
+    "Live in a disaster declared area (AGRN 1198) impacted by the disaster event on 3 March 2025.",
+    "Be impacted by the disaster event and require emergency financial assistance to meet immediate needs for yourself and any dependents.",
+    "Note: You are not eligible if you are living at an address concerning land acquired by the NSW Government under a buy-back scheme.",
+    "People under 18 cannot apply separately, but financially independent people under 18 may apply in person at an authorised Service NSW Centre or Mobile Service Centre."
+  ],
+  "what_you_need": [
+    "Your Australian bank account details for payment.",
+    "A MyServiceNSW Account.",
+    "One document (JPG, PDF, PNG, or TIF format) showing your name and impacted address.",
+    "For dependents: Names, Medicare numbers, and Medicare details of all included dependents.",
+    "Keep receipts for auditing: Keep evidence of how you spent the grant, including receipts, for a minimum of 5 years from the grant closing date."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information:\n\n### Request an Internal Review of a decision about a grant application\n\nIf you do not agree with a decision we have made about your grant application, you can request an internal review.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "AGRN 1198",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations/fy-2024-25"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Guidelines",
+      "url": "https://www.service.nsw.gov.au/guidelines/northern-nsw-storm-relief-grant-individuals-march-2025"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/northern-nsw-storm-relief-grant-individuals-march-2025"
+    },
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "submit an enquiry online",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "request an internal review",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/northern-nsw-storm-relief-grant-individuals-march-2025"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are applications for Personal Hardship Assistance still open?",
+      "a": "No, applications are closed.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for this assistance?",
+      "a": "You must be aged 18 or over, live in a disaster declared area (AGRN 1198) impacted by the disaster event on 3 March 2025, and require emergency financial assistance for your immediate needs and those of any dependents.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need your Australian bank account details, a MyServiceNSW Account, and one document showing your name and impacted address.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:45Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "5e4a8df78ada5e71cd093bdacf9b6636169f077a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/auburn-mobile-driver-testing",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/auburn-mobile-driver-testing",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "auburn-mobile-driver-testing",
+  "title": "Auburn Mobile Driver Testing",
+  "summary": "This page provides information about driver testing services available at the Auburn Mobile Driver Testing location.",
+  "topics": [
+    "driver-testing",
+    "service-nsw",
+    "auburn"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.85582,151.03906"
+    },
+    {
+      "text": "online booking system",
+      "url": "https://www.myrta.com/wps/poc/extvp?uri=urlresolver%3Atbsloginredirect&WASReqURL=/wps/mypoc/extvp%3Furi%3Durlresolver%3Atbsinit&tranCode=tbs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "map search tool",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Driver testing",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Auburn Dealer Business Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-dealer-business-centre"
+    },
+    {
+      "text": "Auburn Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/auburn-service-centre"
+    },
+    {
+      "text": "Silverwater Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/silverwater-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:31Z",
+    "last_modified": null,
+    "html_sha1": "b7c5ec1c67793738c5dd7a0bd4759832d8c2b0ac",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

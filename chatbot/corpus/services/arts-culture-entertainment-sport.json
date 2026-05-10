@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/arts-culture-entertainment-sport",
+  "source_url": "https://www.service.nsw.gov.au/services/arts-culture-entertainment-sport",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "arts-culture-entertainment-sport",
+  "title": "Arts, culture, entertainment and sport",
+  "summary": "This page provides information about various arts, culture, entertainment, and sport activities available in NSW.",
+  "topics": [
+    "arts",
+    "culture",
+    "entertainment",
+    "sport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Plan a music festival",
+      "url": "https://www.nsw.gov.au/working-and-business/music-festivals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence to play music at your business",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business"
+    },
+    {
+      "text": "Paintball",
+      "url": "https://www.service.nsw.gov.au/services/paintball"
+    },
+    {
+      "text": "Combat sports",
+      "url": "https://www.service.nsw.gov.au/services/combat-sports"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:17Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4d5c6de45e8367998da0ea06508a967d3a61318e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

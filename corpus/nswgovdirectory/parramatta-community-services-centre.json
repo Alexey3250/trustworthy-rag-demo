@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/parramatta-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "parramatta-community-services-centre",
+  "title": "Parramatta Community Services Centre",
+  "summary": "This page provides information about the Parramatta Community Services Centre, which offers support services to the community.",
+  "topics": [
+    "community-services",
+    "parramatta",
+    "support-centre",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:37Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "843a8b74b2b1c515d355fc805bd798a480f3753b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

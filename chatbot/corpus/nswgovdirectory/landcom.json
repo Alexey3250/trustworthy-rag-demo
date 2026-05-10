@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/landcom",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/landcom",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "landcom",
+  "title": "Landcom",
+  "summary": "This page provides information about Landcom, a company that manages land and property development in New South Wales.",
+  "topics": [
+    "land-development",
+    "property-sales",
+    "nsw-housing",
+    "real-estate"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.landcom.com.au/",
+      "url": "https://www.landcom.com.au/"
+    },
+    {
+      "text": "Search for projects under development or land for sale",
+      "url": "https://www.landcom.com.au/projects/?view=gridview"
+    },
+    {
+      "text": "Register your interest",
+      "url": "https://www.landcom.com.au/register-your-interest-2/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:55Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4e990f817a122b38c43eb14996750ac0107328b1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

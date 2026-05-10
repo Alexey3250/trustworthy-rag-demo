@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/buying-property",
+  "source_url": "https://www.service.nsw.gov.au/services/buying-property",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "buying-property",
+  "title": "Buying a property",
+  "summary": "This page provides information and guides for citizens buying a property in New South Wales.",
+  "topics": [
+    "buying-property",
+    "real-estate",
+    "land-tax",
+    "stamp-duty",
+    "first-home-buyer"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Land tax and stamp duty",
+      "link": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "text": "Land value",
+      "link": "https://www.service.nsw.gov.au/services/land-value"
+    },
+    {
+      "text": "Guide to buying a property",
+      "link": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    },
+    {
+      "text": "Guide to moving house and changing your details with NSW Government agencies",
+      "link": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Calculate your mortgage with the ASIC MoneySmart calculator",
+      "url": "https://moneysmart.gov.au/home-loans/mortgage-calculator"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for the First Home Owner Grant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-owner-grant"
+    },
+    {
+      "text": "Apply for the First Home Buyers Assistance scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-first-home-buyers-assistance-scheme"
+    },
+    {
+      "text": "Apply for a building information certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-online-building-information-certificate"
+    },
+    {
+      "text": "Search for planning information about a property",
+      "url": "https://www.service.nsw.gov.au/transaction/search-for-planning-information-about-a-property"
+    },
+    {
+      "text": "Search for a strata scheme",
+      "url": "https://www.service.nsw.gov.au/referral/search-for-a-strata-scheme"
+    },
+    {
+      "text": "Pay a land tax notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice"
+    },
+    {
+      "text": "Find out about the Loose-fill Asbestos Program",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-the-loose-fill-asbestos-program"
+    },
+    {
+      "text": "Land tax and stamp duty",
+      "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "text": "Land value",
+      "url": "https://www.service.nsw.gov.au/services/land-value"
+    },
+    {
+      "text": "Guide to buying a property",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    },
+    {
+      "text": "Guide to moving house and changing your details with NSW Government agencies",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the guides for buying a property?",
+      "a": "You can find a guide to buying a property and a guide to moving house and changing your details with NSW Government agencies.",
+      "link": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    },
+    {
+      "q": "How can I find out about land tax and stamp duty?",
+      "a": "You can find information about land tax and stamp duty on the Service NSW website.",
+      "link": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty"
+    },
+    {
+      "q": "What if I am a first home buyer?",
+      "a": "You can apply for the First Home Owner Grant or the First Home Buyers Assistance scheme.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:24Z",
+    "last_modified": "5 August 2025",
+    "html_sha1": "175497bff000795d79c0103d7956b8be5fb426b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

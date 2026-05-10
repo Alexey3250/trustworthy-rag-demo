@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/subscription-success",
+  "source_url": "https://www.service.nsw.gov.au/business/subscription-success",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "subscription-success",
+  "title": "Confirming you have successfully subscribed to the business e-newsletter",
+  "summary": "This page confirms that you have successfully subscribed to the business e-newsletter and provides information on ongoing business support.",
+  "topics": [
+    "business",
+    "newsletter",
+    "subscription",
+    "support"
+  ],
+  "intro": "Thank you for your interest. You’ll receive the e-newsletter each month.\n\nKeep an eye on your inbox for emails from ‘NSW Government’. If you do not receive an email within the next month, please check your junk folder and add us to your trusted senders list.\n\nIn the meantime, find out how Service NSW for Business provides free, ongoing and personalised support for every stage of your business.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW for Business",
+      "url": "https://www.service.nsw.gov.au/business"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:39Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "51e977a432017794aa610a48e94733e4e1451371",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

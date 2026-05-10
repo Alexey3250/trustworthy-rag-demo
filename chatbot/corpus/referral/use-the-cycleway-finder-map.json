@@ -1,0 +1,39 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-the-cycleway-finder-map",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-the-cycleway-finder-map",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-the-cycleway-finder-map",
+  "title": "Use the Cycleway Finder map",
+  "summary": "Use the Cycleway Finder map to plan bicycling routes and find information about cycling paths in NSW.",
+  "topics": [
+    "cycling",
+    "bicycling",
+    "nsw",
+    "routes",
+    "map"
+  ],
+  "intro": "Transport for NSW's Cycleway Finder is an interactive online map.\n\nYou can use it to work out bicycling routes in NSW.\n\nYou can search for an address on the map and see nearby cycling routes. If you click on a path, a pop up box will appear with information such as surface material, length, width and suburb.\n\nYou can use the map layer options to find:\n\nGo to the Cycleway Finder map.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Cycleway Finder map",
+      "url": "https://maps.transport.nsw.gov.au/egeomaps/cycleway-finder/index.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:10Z",
+    "last_modified": "12 May 2025",
+    "html_sha1": "b3c40f12eaf8bc6ca83658f4eec75db960b0adcc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

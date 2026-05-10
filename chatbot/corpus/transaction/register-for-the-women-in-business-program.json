@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-for-the-women-in-business-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-for-the-women-in-business-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-for-the-women-in-business-program",
+  "title": "Register for the Women in Business program",
+  "summary": "This page provides information on how to register for the Women in Business program, an initiative designed for women starting or growing a micro or small business.",
+  "topics": [
+    "women-in-business",
+    "small-business",
+    "start-a-business",
+    "nsw-business"
+  ],
+  "intro": "Women in Business is a NSW Government and TAFE NSW initiative for women looking to start or grow a micro or small business.\n\nThis TAFE NSW program is offered online and is fully subsidised for eligible applicants. You can select topics to suit your specific needs, and new topics covering the latest trends in Australian business are regularly added.\n\nYou can also connect with the Service NSW Business Bureau for ongoing, one-on-one support in person or over the phone. The Business Bureau team can help you understand government requirements such as the licences, permits, and approvals needed to start and run a business.",
+  "who_can_apply": [
+    "Live or work in NSW",
+    "Be Australian citizens, permanent residents, humanitarian visa holders, or New Zealand citizens",
+    "Be women aged 18 or over",
+    "Be establishing, or currently own a business"
+  ],
+  "what_you_need": [
+    "Select the 'Register online' button",
+    "Enter your details and follow the prompts to register"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter your details and follow the prompts to register.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The Women in Business program is fully subsidised by the NSW Government. Provided you meet the eligibility criteria, you won’t pay anything to access the program.",
+      "link": null
+    },
+    {
+      "text": "There may be fees associated with some optional events promoted through the Women in Business program. All costs will be outlined in the overview of each event.",
+      "link": null
+    },
+    {
+      "text": "Some topics in the program include:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Women in Business program – TAFE NSW",
+      "url": "https://www.tafensw.edu.au/programs/women-in-business"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for the program?",
+      "a": "Applicants must live or work in NSW, be Australian citizens, permanent residents, humanitarian visa holders, or New Zealand citizens, and be women aged 18 or over who are establishing or currently own a business.",
+      "link": null
+    },
+    {
+      "q": "What kind of support is available for starting a business?",
+      "a": "You can connect with the Service NSW Business Bureau for ongoing, one-on-one support in person or over the phone, which can help with understanding government requirements like licences, permits, and approvals.",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "q": "Is the Women in Business program expensive?",
+      "a": "The TAFE NSW program is fully subsidised for eligible applicants.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:38Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "5cb5f4e14202885d93f1a5f17085dedb053e3622",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

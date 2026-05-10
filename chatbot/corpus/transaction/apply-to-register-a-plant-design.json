@@ -1,0 +1,149 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-plant-design",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-register-a-plant-design",
+  "title": "Apply to register a plant design",
+  "summary": "This page provides information on how to apply to register a plant design with SafeWork NSW or a corresponding WHS regulator.",
+  "topics": [
+    "plant-design",
+    "safe-work-nsw",
+    "registration",
+    "whs"
+  ],
+  "intro": "The design of certain items of plant must be registered with SafeWork NSW or a corresponding work health and safety (WHS) regulator.\n\nAltered designs must also be registered. For example if a design is:\n\nDesigns that only need a correction such as a typo do not have to be re-registered. Email licensing@safework.nsw.gov.au with details of the corrections required.\n\nNote: International business entity applicants must have one of the following:\n\nFor more information refer to Australian Securities and Investments Commission (ASIC).",
+  "who_can_apply": [
+    "Boilers and pressure vessels categorized as hazard level A, B, C or D according to criteria in Section 2.1 of AS 4343, with some exceptions.",
+    "Gas cylinders covered by section 1.1 of AS 2030.",
+    "Lifts, escalators and moving walkways.",
+    "Tower cranes, including self-erecting tower cranes.",
+    "Gantry cranes with a safe working load (SWL) greater than 5 tonnes, or bridge cranes with a SWL greater than 10 tonnes, and any gantry crane or bridge crane which is designed to handle molten metal or Schedule 11 hazardous chemicals.",
+    "Mobile cranes with a rated capacity of greater than 10 tonnes.",
+    "Vehicle hoists, and hoists with a platform movement exceeding 2.4 metres, designed to lift people.",
+    "Mast climbing work platforms.",
+    "Building maintenance units.",
+    "Work boxes designed to be suspended from cranes.",
+    "Concrete placing booms.",
+    "Prefabricated scaffolding.",
+    "Passenger ropeways.",
+    "Boom-type elevating work platforms.",
+    "Amusement devices covered by section 2.1 of AS 3533, with some exceptions."
+  ],
+  "what_you_need": [
+    "A completed Plant designer and design verifier statement – PDF, which must include: a valid email address, your business details (if applicable), your contact details, design registration specifications.",
+    "Verified representational drawing(s) for the plant design, in English.",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Ensure you have the required supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the required information.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Attach your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Submit your application with payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Securities and Investments Commission (ASIC)",
+      "url": "https://www.asic.gov.au/for-business-and-companies/"
+    },
+    {
+      "text": "exceptions",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2017-0404#sch.5"
+    },
+    {
+      "text": "Work Health and Safety Regulation 2025",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2025-0440"
+    },
+    {
+      "text": "Plant designer and design verifier statement – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0007/1107079/plant-design-designer-and-design-verifier-statement.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "Plant design registration – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/plant-registrations/plant-design-registration"
+    },
+    {
+      "text": "Privacy collection notice",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/collection-notices/plant-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to register an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-an-item-of-plant"
+    },
+    {
+      "text": "Apply to renew the registration of an item of plant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-renew-the-registration-of-an-item-of-plant"
+    },
+    {
+      "text": "Replace a plant registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-plant-registration-certificate"
+    },
+    {
+      "text": "Request a search of plant registration records",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-search-of-plant-registration-records"
+    },
+    {
+      "text": "Notify the relocation or change of ownership of registered plant",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-relocation-or-change-of-ownership-of-registered-plant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to re-register a design if it only needs a minor correction, like a typo?",
+      "a": "No, designs that only need a correction such as a typo do not have to be re-registered. You should email licensing@safework.nsw.gov.au with details of the corrections required.",
+      "link": null
+    },
+    {
+      "q": "Who needs to register the plant design?",
+      "a": "The designer of the plant or the person with management or control of the plant must register the design.",
+      "link": null
+    },
+    {
+      "q": "What types of plant designs require registration?",
+      "a": "Designs that require registration include boilers and pressure vessels (hazard levels A, B, C or D), gas cylinders, lifts, escalators, moving walkways, tower cranes, gantry cranes, mobile cranes, hoists, mast climbing work platforms, building maintenance units, work boxes, concrete placing booms, prefabricated scaffolding, passenger ropeways, boom-type elevating work platforms, amusement devices, and others listed in the Work Health and Safety Regulation 2025.",
+      "link": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2025-0440"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:33Z",
+    "last_modified": "1 May 2026",
+    "html_sha1": "b3f590ea587fe8912fca95939f47b446769bf456",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/wharf-bookings",
+  "source_url": "https://www.service.nsw.gov.au/services/wharf-bookings",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "wharf-bookings",
+  "title": "Wharf bookings",
+  "summary": "This page provides information and links for booking wharf spaces for various purposes.",
+  "topics": [
+    "wharf-bookings",
+    "boating",
+    "recreation",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Make a bulk wharf booking",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-bulk-wharf-booking"
+    },
+    {
+      "text": "Make an ad hoc wharf booking (casual basis)",
+      "url": "https://www.service.nsw.gov.au/transaction/make-an-ad-hoc-wharf-booking-casual-basis"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I book a wharf space?",
+      "a": "You can make a bulk wharf booking or an ad hoc wharf booking (casual basis).",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about boating and recreation?",
+      "a": "You can visit the Boating, fishing, recreation and outdoors page.",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:53Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "2a326cea86ba22280291b5bdb2ccebc9289d2310",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

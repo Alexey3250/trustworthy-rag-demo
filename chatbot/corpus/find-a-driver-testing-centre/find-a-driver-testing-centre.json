@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/find-a-driver-testing-centre",
+  "source_url": "https://www.service.nsw.gov.au/find-a-driver-testing-centre",
+  "category": "find-a-driver-testing-centre",
+  "article_kind": "landing-page",
+  "slug": "find-a-driver-testing-centre",
+  "title": "Find a driver testing centre",
+  "summary": "This page helps you find a location to take a driver test in New South Wales.",
+  "topics": [
+    "driver-licence",
+    "testing-centre",
+    "nsw-driving"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Road User Handbook",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-11/Road-User-Handbook-English.pdf"
+    },
+    {
+      "text": "community languages.",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-publications"
+    },
+    {
+      "text": "Book for Auburn PCYC (Lidcombe)",
+      "url": "https://www.myrta.com/wps/poc/extvp?uri=urlresolver:tbsloginredirect&WASReqURL=/wps/mypoc/extvp?uri=urlresolver:tbsinit&tranCode=tbs"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a driver testing centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "What you need to know before you book a test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:50Z",
+    "last_modified": "13 April 2026",
+    "html_sha1": "ed48bf2ccdd2a2bbef1b8628714df1dab2b857f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

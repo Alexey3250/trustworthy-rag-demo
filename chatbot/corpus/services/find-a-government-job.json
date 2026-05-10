@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/find-a-government-job",
+  "source_url": "https://www.service.nsw.gov.au/services/find-a-government-job",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "find-a-government-job",
+  "title": "Government jobs",
+  "summary": "This page provides links and information for finding various types of jobs with the NSW Government and other public sector roles.",
+  "topics": [
+    "government-jobs",
+    "nsw-jobs",
+    "public-sector-jobs",
+    "employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Public Service jobs",
+      "url": "https://www.apsjobs.gov.au/s/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Government jobs",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-job-in-the-nsw-public-sector"
+    },
+    {
+      "text": "Register for The Welcome Experience (regional NSW)",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-the-welcome-experience-regional-nsw"
+    },
+    {
+      "text": "Supply to NSW Government",
+      "url": "https://www.service.nsw.gov.au/services/supply-nsw-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find jobs with the NSW Government?",
+      "a": "You can find NSW Government jobs through the dedicated link provided for the NSW Public Sector.",
+      "link": "https://www.service.nsw.gov.au/referral/find-a-job-in-the-nsw-public-sector"
+    },
+    {
+      "q": "How do I look for jobs with the Australian Public Service?",
+      "a": "Australian Public Service jobs can be found via the dedicated Australian Public Service jobs link.",
+      "link": "https://www.apsjobs.gov.au/s/"
+    },
+    {
+      "q": "What if I am looking for a job in regional NSW?",
+      "a": "You can register for The Welcome Experience to find regional NSW opportunities.",
+      "link": "https://www.service.nsw.gov.au/referral/register-for-the-welcome-experience-regional-nsw"
+    },
+    {
+      "q": "Does this page help businesses supply goods or services to the NSW Government?",
+      "a": "Yes, there is a section dedicated to supplying to the NSW Government for businesses.",
+      "link": "https://www.service.nsw.gov.au/services/supply-nsw-government"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:11Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "afbd7a42b1b96a333b05226cc7746fb44d10cab8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

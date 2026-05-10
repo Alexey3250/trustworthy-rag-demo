@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-your-electorate",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-your-electorate",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-your-electorate",
+  "title": "Find your electorate",
+  "summary": "Find information about your elected representatives by locating your state, federal, or local council electorate.",
+  "topics": [
+    "electorate",
+    "nsw",
+    "federal",
+    "local-council",
+    "representatives"
+  ],
+  "intro": "When you find your state or federal electorate or local council you can get information about your elected representatives.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Full home address (for NSW electorate)",
+    "Suburb or locality (for Federal electorate)",
+    "Address (for Local council)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Find out more about voting and elections.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Electoral Commission website",
+      "url": "https://elections.nsw.gov.au/elections/find-my-electorate"
+    },
+    {
+      "text": "Australian Electoral Commission website",
+      "url": "https://electorate.aec.gov.au/"
+    },
+    {
+      "text": "Office of Local Government website",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "voting and elections",
+      "url": "https://www.service.nsw.gov.au/services/voting-and-elections"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find my NSW electorate?",
+      "a": "Go to the NSW Electoral Commission website, enter your full home address (including street number, street name, and suburb), and select 'Find'.",
+      "link": "https://elections.nsw.gov.au/elections/find-my-electorate"
+    },
+    {
+      "q": "How do I find my Federal electorate?",
+      "a": "Go to the Australian Electoral Commission website, enter your suburb or locality, select 'Locality or suburb' from the drop-down menu, and select 'Find'.",
+      "link": "https://electorate.aec.gov.au/"
+    },
+    {
+      "q": "How do I find my local council?",
+      "a": "Go to the Office of Local Government website and enter your address.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:35Z",
+    "last_modified": "1 August 2025",
+    "html_sha1": "51dc2ddf2b56d21f95bde4edeae459aa751bff56",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

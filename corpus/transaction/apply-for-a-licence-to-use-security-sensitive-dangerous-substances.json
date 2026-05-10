@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-use-security-sensitive-dangerous-substances",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-use-security-sensitive-dangerous-substances",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-licence-to-use-security-sensitive-dangerous-substances",
+  "title": "Apply for a licence to use security sensitive dangerous substances",
+  "summary": "This page explains how to apply for a licence to use security sensitive dangerous substances (SSDS) or explosives from SafeWork NSW.",
+  "topics": [
+    "explosives",
+    "licence",
+    "safework-nsw",
+    "security-sensitive-dangerous-substances"
+  ],
+  "intro": "If you want to use explosives or security sensitive dangerous substances (SSDS), you need a licence issued by SafeWork NSW.\n\nThe licence allows you to purchase, use, possess, transport and store the materials specified on the licence.\n\nThe licence can be issued to you or to a nominated person on behalf of a company.",
+  "who_can_apply": [
+    "Be aged 18 or over.",
+    "Hold a current NSW security clearance and ensure only people with a security clearance have unsupervised access to explosives and SSDS.",
+    "Have a legitimate reason for using SSDS.",
+    "Make adequate arrangements for the safe and secure handling and storage of explosives and/or SSDS."
+  ],
+  "what_you_need": [
+    "The application fee.",
+    "Your reason(s) for requesting a licence.",
+    "Your security clearance (SC) licence details.",
+    "A statement outlining your experience and knowledge in training and qualifications (if applicable).",
+    "Details of interstate explosives licence/s (if applicable).",
+    "Details of explosives and/or SSDS to be used.",
+    "Details of explosives and/or SSDS to be stored (if applicable).",
+    "Confirmation that the quantities in the application align with the security plan and emergency plan.",
+    "Emergency contact's details, and emergency plan.",
+    "Assessment of separation distances.",
+    "Evidence for the submission of the emergency plan to Fire and Rescue NSW.",
+    "Evidence for the submission of the emergency plan to NSW Rural Fire Service (if the facility is located in a rural fire district).",
+    "A security plan."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Collect all the required documentation including the material and payment needed for your SC application (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and submit your application with payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The nominated person for a company must be involved in the management of the company. If that person ceases to be the nominated person (for example, if they resign) the company must nominate another person to take responsibility for the licence within 7 days.",
+      "link": null
+    },
+    {
+      "text": "If you're lodging your application for an SC licence at the same time, it will have to be approved before your transport licence application will be processed.",
+      "link": null
+    },
+    {
+      "text": "The SC licence was previously called an unsupervised handling licence (UHL).",
+      "link": null
+    },
+    {
+      "text": "If you're storing hazardous chemicals you must notify SafeWork NSW.",
+      "link": null
+    },
+    {
+      "text": "As a licence holder, you must:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Guide for explosives and security sensitive dangerous substances safety management plan – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0004/51943/SW08445-0218-402440.pdf"
+    },
+    {
+      "text": "Security sensitive dangerous substances – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/explosives-and-fireworks-licences/security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "Licensing fees schedule – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "General explosive licence and security clearance conditions – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/general-explosive-licence-and-security-clearance-conditions-under-the-nsw-explosives-act-and-regulation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW security clearance",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-clearance-explosives"
+    },
+    {
+      "text": "Prepare a security plan for storing explosives and/or security sensitive dangerous substances",
+      "url": "https://www.service.nsw.gov.au/transaction/prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for this licence?",
+      "a": "Applicants must be aged 18 or over, hold a current NSW security clearance, and have a legitimate reason for using SSDS. They must also ensure only people with a security clearance have unsupervised access to the materials.",
+      "link": null
+    },
+    {
+      "q": "What does this licence allow me to do?",
+      "a": "The licence allows you to purchase, use, possess, transport, and store the specified materials.",
+      "link": null
+    },
+    {
+      "q": "Do I need to provide a security plan?",
+      "a": "Yes, you must submit a security plan, along with evidence for emergency plans to Fire and Rescue NSW and NSW Rural Fire Service (if applicable).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:46Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "30f8795cf086edeabc958b6d46238a5512832a32",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

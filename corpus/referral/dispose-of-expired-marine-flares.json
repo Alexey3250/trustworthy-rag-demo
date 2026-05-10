@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/dispose-of-expired-marine-flares",
+  "source_url": "https://www.service.nsw.gov.au/referral/dispose-of-expired-marine-flares",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "dispose-of-expired-marine-flares",
+  "title": "Dispose of expired marine flares",
+  "summary": "This page provides information on how to safely and legally dispose of expired marine flares.",
+  "topics": [
+    "marine-flares",
+    "disposal",
+    "boating-safety",
+    "nsw-government"
+  ],
+  "intro": "Marine flares contain explosive materials. They must be disposed of safely and legally after use or by the use-by date.\n\nThe NSW Government runs a mobile flares collection program during peak boating season. Search for a mobile collection site at Disposing of expired marine flares.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Disposing of expired marine flares",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/lifejackets-and-safety-equipment/flare-disposal"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:23Z",
+    "last_modified": "24 September 2025",
+    "html_sha1": "3bc66d5dbf2a0775e5781252988426268aac47d4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-a-notice-of-disposal-for-a-vehicle",
+  "title": "Submit a notice of disposal for a vehicle",
+  "summary": "Learn how to submit a notice of disposal when you sell or dispose of a NSW-registered vehicle.",
+  "topics": [
+    "selling-a-vehicle",
+    "notice-of-disposal",
+    "nsw-vehicle-registration"
+  ],
+  "intro": "You must submit a notice of disposal when you sell or dispose of a NSW-registered vehicle, such as a car, motorcycle or trailer.\n\nWhen you submit a notice of disposal you inform Transport for NSW:\n\nYou should submit a notice of disposal immediately after you sell the vehicle so that:\n\nFor details of the steps required before and after you sell, go to the Selling a vehicle guide.",
+  "who_can_apply": [
+    "Must be the current registered operator of a vehicle registered in NSW.",
+    "The vehicle must be sold or disposed of."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "NSW Driver Licence or Photo Card details",
+    "NSW registration details for the vehicle",
+    "Buyer's NSW Driver Licence or business details (if selling to a motor dealer)",
+    "Sale date (date of disposal)",
+    "Higher amount (sale price or market value)",
+    "NSW motor dealer licence number and registered business name (if selling to a motor dealer)",
+    "If selling to a licensed motor dealership in NSW, verify the details using Verify NSW.",
+    "If submitting online, the vehicle must not be conditionally registered, and the buyer must be a person or a NSW motor dealer."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle – guide",
+      "link": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "Terms and conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Privacy statement",
+      "link": "https://www.service.nsw.gov.au/notice-disposal-privacy-statement"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "late fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Notice of Disposal form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/48013716-notice-of-disposal.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "transfer the vehicle's registration (rego)",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Selling a vehicle guide",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "market value",
+      "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "transfer the number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-number-plates"
+    },
+    {
+      "text": "cancel the vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    },
+    {
+      "text": "request for access to your records",
+      "url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw"
+    },
+    {
+      "text": "Transfer ownership of a NSW-registered vehicle – guide",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    },
+    {
+      "text": "Terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/notice-disposal-privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I submit a notice of disposal?",
+      "a": "You should submit a notice of disposal immediately after you sell the vehicle.",
+      "link": null
+    },
+    {
+      "q": "What do I need to submit a notice of disposal online?",
+      "a": "You need a MyServiceNSW Account, your NSW Driver Licence or Photo Card details, the NSW registration details for the vehicle, the buyer's NSW Driver Licence or business details, the sale date, the higher amount (sale price or market value), and the NSW motor dealer licence number and registered business name.",
+      "link": null
+    },
+    {
+      "q": "How do I submit a notice of disposal if I don't have a NSW Driver Licence or Photo Card?",
+      "a": "You can use the paper form method if you do not have a NSW Driver Licence or Photo Card, or if the vehicle is conditionally registered, or if the sale is for a company, organisation, or interstate buyer.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:50Z",
+    "last_modified": "24 March 2026",
+    "html_sha1": "0c76e5b242db8fb97aceb3008f059b48230db9c2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

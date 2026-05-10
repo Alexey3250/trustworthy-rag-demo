@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-primary-service-authorisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-primary-service-authorisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-primary-service-authorisation",
+  "title": "Apply for primary service authorisation",
+  "summary": "Apply for a Primary Service Authorisation (PSA) if you plan to serve or supply alcohol to customers who are not using your other products or services.",
+  "topics": [
+    "alcohol",
+    "liquor-licensing",
+    "on-premises-licence",
+    "primary-service-authorisation"
+  ],
+  "intro": "If you want to supply or serve alcohol at your premises to customers who are not using or consuming your other products or services (for example food or accommodation), you need to apply for a primary service authorisation (PSA).\n\nYou can apply for a PSA if you already have an existing on-premises liquor licence or if you are applying for a on-premises liquor licence.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "You must want to supply or serve alcohol at your premises to customers who are not using or consuming your other products or services (for example food or accommodation)."
+  ],
+  "what_you_need": [
+    "Statement of Risks and Potential Effects (SoRPE)",
+    "Licence and licensee details",
+    "Applicant details",
+    "A floor plan showing the boundaries of the premises",
+    "The PDF form: Primary service authorisation",
+    "The fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete Primary service authorisation – PDF.",
+      "link": "https://www.liquorandgaming.nsw.gov.au/documents/fm/am0055-primary-service-authorisation.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Attach any supporting documents to the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Immediately before submitting your application, or within 2 workings days after, complete the Public consultation – site notice included in the Primary service authorisation PDF form. Follow the instructions on the notice about placing the notice on the premises and lodging it with the occupiers of nearby buildings.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Lodge your application with Liquor & Gaming NSW using the details listed on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Statement of Risks and Potential Effects (SoRPE)",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/sorpe"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees/fee-schedule"
+    },
+    {
+      "text": "Primary service authorisation – PDF",
+      "url": "https://www.liquorandgaming.nsw.gov.au/documents/fm/am0055-primary-service-authorisation.pdf"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "NSW liquor licences",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage#types"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an on-premises licence (cafe or restaurant)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-on-premises-licence-cafe-or-restaurant"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a Primary Service Authorisation (PSA)?",
+      "a": "You need a PSA if you want to supply or serve alcohol at your premises to customers who are not using or consuming your other products or services (for example food or accommodation).",
+      "link": null
+    },
+    {
+      "q": "Can I apply for a PSA if I already have a liquor licence?",
+      "a": "Yes, you can apply for a PSA if you already have an existing on-premises liquor licence or if you are applying for a on-premises liquor licence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find up-to-date information on liquor licences?",
+      "a": "For up-to-date liquor licence guidelines, resources and tools, visit the Liquor & Gaming NSW liquor licensing page.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:37Z",
+    "last_modified": "15 May 2025",
+    "html_sha1": "499a7c75e297bb8b7826ed32e3db8cd374f4c765",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

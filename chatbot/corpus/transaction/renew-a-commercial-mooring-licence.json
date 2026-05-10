@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-commercial-mooring-licence",
+  "title": "Renew a commercial mooring licence",
+  "summary": "This page provides instructions on how to renew a commercial mooring licence.",
+  "topics": [
+    "mooring-licence",
+    "commercial",
+    "renew",
+    "nsw"
+  ],
+  "intro": "Commercial mooring licences are renewable annually. You'll be sent a renewal notice approximately 30 days before your licence expires.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your licence number",
+    "your renewal number (as shown on your renewal notice)",
+    "your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew your commercial mooring licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renew a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-private-mooring-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:41Z",
+    "last_modified": "6 March 2026",
+    "html_sha1": "a9e66fcb76aee8d7943596726025c224c35d3bf7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

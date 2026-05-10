@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order",
+  "source_url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "requesting-a-work-and-development-order",
+  "title": "Requesting a Work and Development Order",
+  "summary": "Find out if you can request a Work and Development Order (WDO) to help pay off or reduce a fine if you are unable to pay it.",
+  "topics": [
+    "fines",
+    "work-and-development-order",
+    "paying-fines",
+    "overdue-fines"
+  ],
+  "intro": "If you're not able to pay a fine, you may be able to request a Work and Development Order (WDO).\n\nA WDO enables you to pay off or reduce your fine by:\n\nYou'll need to find an approved sponsor organisation or health practitioner who agrees to support your WDO activity and will apply on your behalf.\n\nThe amount your fine is reduced by will be determined by the activity you complete in your WDO and is up to $1,000 a month.\n\nCertain eligibility criteria apply.",
+  "who_can_apply": [
+    "Certain eligibility criteria apply."
+  ],
+  "what_you_need": [
+    "An approved sponsor organisation or health practitioner who agrees to support your WDO activity and will apply on your behalf."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "approved sponsor organisation",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/work-and-development-order/wdo-sponsor-finder"
+    },
+    {
+      "text": "eligibility criteria",
+      "url": "https://www.nsw.gov.au/money-and-taxes/fines-and-fees/fines/difficulty-paying-your-fine/work-and-development-order"
+    },
+    {
+      "text": "Traffic offences – Legal Aid",
+      "url": "https://traffic.guidedpathways.legalaid.nsw.gov.au/"
+    },
+    {
+      "text": "Work and Development Orders (WDOs) – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about/fines/work-and-development-orders-wdos"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine"
+    },
+    {
+      "text": "Apply to review an overdue fine in court",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-review-an-overdue-fine-in-court"
+    },
+    {
+      "text": "Apply for a fine reduction",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fine-reduction"
+    },
+    {
+      "text": "Apply to write-off an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-write-off-an-overdue-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a Work and Development Order (WDO)?",
+      "a": "A WDO allows you to pay off or reduce your fine by completing approved work or development activities.",
+      "link": null
+    },
+    {
+      "q": "How much can my fine be reduced by a WDO?",
+      "a": "The reduction amount is determined by the activity you complete and can be up to $1,000 a month.",
+      "link": null
+    },
+    {
+      "q": "Who helps me with a WDO?",
+      "a": "You need to find an approved sponsor organisation or health practitioner who agrees to support your WDO activity and will apply on your behalf.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:35Z",
+    "last_modified": "24 January 2025",
+    "html_sha1": "4100af76203c0f452e733db36cdb249b94b6f335",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

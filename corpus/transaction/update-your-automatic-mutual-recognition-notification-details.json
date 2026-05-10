@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-your-automatic-mutual-recognition-notification-details",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-your-automatic-mutual-recognition-notification-details",
+  "title": "Update your Automatic Mutual Recognition notification details",
+  "summary": "This page explains how to update your Automatic Mutual Recognition (AMR) notification details online.",
+  "topics": [
+    "automatic-mutual-recognition",
+    "nsw-licence",
+    "update-details",
+    "work-in-nsw"
+  ],
+  "intro": "If you need to update your Automatic Mutual Recognition (AMR) notification details, you can do this online.\n\nYou can:\n\nYou cannot change the occupation stated on your notification. If you need to notify an additional occupation licence or registration, visit Notify to work in NSW under Automatic Mutual Recognition.\n\nTo continue working in NSW under AMR, you must keep your notification details up to date and hold a current home state licence.\n\nNote: If you've updated your personal details in your MyServiceNSW Account, the changes will transfer over to your AMR notification details when you update online.",
+  "who_can_apply": [
+    "Must keep notification details up to date.",
+    "Must hold a current home state licence."
+  ],
+  "what_you_need": [
+    "A copy of the front and back of your renewed home state licence (including the expiry date).",
+    "Copies of supporting documents for public protection requirements.",
+    "Accepted file types are PDF, DOCX, DOC, JPEG, JPG, or PNG; maximum file size is 2MB."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Update online' button.Note: You can save and resume your notification, but if you have not submitted it within 60 days, any details you've entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log into your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "From 'My Notifications' select the item you need to update.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to update your notification details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "For more information about AMR, visit Automatic Mutual Recognition.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Automatic Mutual Recognition – privacy collection notice",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition/managing-your-information"
+    },
+    {
+      "text": "Automatic Mutual Recognition",
+      "url": "https://www.nsw.gov.au/nsw-government/projects-and-initiatives/automatic-mutual-recognition"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify to work in NSW under Automatic Mutual Recognition",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "Complete the outstanding actions on your Automatic Mutual Recognition notification",
+      "url": "https://www.service.nsw.gov.au/transaction/complete-the-outstanding-actions-on-your-automatic-mutual-recognition-notification"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I change the occupation stated on my AMR notification?",
+      "a": "No, you cannot change the occupation stated on your notification. If you need to notify an additional occupation licence or registration, you must visit Notify to work in NSW under Automatic Mutual Recognition.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "q": "What must I do to continue working in NSW under AMR?",
+      "a": "You must keep your notification details up to date and hold a current home state licence.",
+      "link": null
+    },
+    {
+      "q": "How do I update my AMR notification details online?",
+      "a": "Select 'Update online', log into your MyServiceNSW Account, select the item from 'My Notifications', and follow the prompts to update your details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:15Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "95794728c8afd0a3b3cbfed63421290d9eaf70e0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

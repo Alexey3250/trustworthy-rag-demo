@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-lost-stolen-or-damaged-bus-driver-authority-online",
+  "title": "Replace a lost, stolen or damaged bus driver authority online",
+  "summary": "You can apply for a replacement bus driver authority online if your current card is lost, stolen, damaged, or destroyed.",
+  "topics": [
+    "bus-driver-authority",
+    "replace-authority",
+    "nsw-service"
+  ],
+  "intro": "If your bus driver authority card is lost, stolen, damaged or destroyed, you can apply for a replacement online.\n\nYou'll also need to apply for a replacement if you have moved interstate or have moved from interstate to NSW.\n\nThere is no fee for replacing your driver authority.",
+  "who_can_apply": [
+    "You must currently hold a bus driver authority."
+  ],
+  "what_you_need": [
+    "A valid email address",
+    "A copy of your current Australian driver licence (scanned as a PDF)",
+    "A copy of a proof of identity document (if you hold an interstate driver licence)",
+    "A digital photo (if you do not hold a valid NSW driver licence and have not submitted a previous online application)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select 'Replace online'",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Upload supporting documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Review and submit your details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your application cannot be saved to continue at a later date.",
+      "link": null
+    },
+    {
+      "text": "If your application is submitted successfully, you'll receive an email and PDF copy of your application.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Change the details on your bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-your-bus-driver-authority-online"
+    },
+    {
+      "text": "Renew a bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-driver-authority-online"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a fee to replace my bus driver authority?",
+      "a": "No, there is no fee for replacing your driver authority.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for a replacement authority?",
+      "a": "You can apply for a replacement authority if you currently hold a bus driver authority.",
+      "link": null
+    },
+    {
+      "q": "When do I need to apply for a replacement authority?",
+      "a": "You must also apply for a replacement if you have moved interstate or have moved from interstate to NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:19Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "fce595c55ce741e90ea74d7d4d61e1feaaf754dc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

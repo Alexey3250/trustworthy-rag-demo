@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-the-on-the-road-65plus-guide",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-the-on-the-road-65plus-guide",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-the-on-the-road-65plus-guide",
+  "title": "Check the On the Road 65Plus guide",
+  "summary": "Find safety tips and advice for people aged 65 or over regarding driving, riding, walking, using a mobility scooter, or using public transport.",
+  "topics": [
+    "older-drivers",
+    "road-safety",
+    "transport-options",
+    "nsw-seniors"
+  ],
+  "intro": "The 'On the Road 65Plus' guide has advice and safety tips to help people aged 65 years or over make safer choices when driving, riding, walking, using a mobility scooter or catching public transport.\n\nThe guide explains the NSW older driver licensing system and includes information for those who want to transition from full-time driving to other transport options.\n\nThe guide covers topics including:",
+  "who_can_apply": [
+    "People aged 65 years or over"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the On the Road 65Plus guide in PDF format.",
+      "link": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/On%20the%20road%2065Plus%20-%20English.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Pick up a copy at a Service NSW Service Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "Read information online at The Road Ahead.",
+      "link": "https://www.transport.nsw.gov.au/roadsafety/older-road-users"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Download the On the Road 65Plus guide",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/On%20the%20road%2065Plus%20-%20English.pdf"
+    },
+    {
+      "text": "The Road Ahead",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/older-road-users"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "Guide: Older drivers, riders and road users",
+      "url": "https://www.service.nsw.gov.au/guide/older-drivers-riders-and-road-users"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:39Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "ece993a60f4404589c267f71a9d2b0651bc2857c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

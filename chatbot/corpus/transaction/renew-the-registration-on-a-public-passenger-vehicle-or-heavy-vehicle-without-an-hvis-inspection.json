@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection",
+  "title": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+  "summary": "Learn how to renew the registration for a public passenger or heavy vehicle without needing a Heavy Vehicle Inspection Scheme (HVIS) inspection.",
+  "topics": [
+    "vehicle-registration",
+    "heavy-vehicle",
+    "public-passenger-vehicle",
+    "inspection"
+  ],
+  "intro": "Most heavy vehicles must have an inspection before their registration is renewed, and your renewal notice will indicate if this is the case.\n\nIf an inspection is required, but no bookings are available before the renewal date, you can renew the registration without the Heavy Vehicle Inspection Scheme (HVIS) inspection – as long you have a Heavy Vehicle Authorised Inspection Scheme (HVAIS) inspection report that's no more than 42 days old.",
+  "who_can_apply": [
+    "Must have an HVAIS inspection report that is no more than 42 days old (if an inspection is required but unavailable)."
+  ],
+  "what_you_need": [
+    "Registration renewal notice, or a Replacement Application – PDF (if you are not the first or second registered operator and do not have your renewal notice)",
+    "Proof of identity",
+    "Vehicle identification",
+    "Compulsory third party (CTP) insurance receipt (green slip)",
+    "An HVAIS inspection certificate, no more than 42 days old",
+    "Proof of eligibility for concession (if required)",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a Service NSW Centre, or call 13 77 88.",
+      "link": "tel:137788"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Replacement Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs"
+    },
+    {
+      "text": "Heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles"
+    },
+    {
+      "text": "Inspections for heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-4"
+    },
+    {
+      "text": "Fees: Vehicle examiners, certifiers and assessors – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/vehicle-examiners-certifiers-assessors/fees"
+    },
+    {
+      "text": "Nominated Configuration Codes",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-5"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Register a public passenger vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle"
+    },
+    {
+      "text": "Renew a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an inspection to renew my vehicle registration?",
+      "a": "Most heavy vehicles must have an inspection before their registration is renewed. Your renewal notice will tell you if an inspection is required.",
+      "link": null
+    },
+    {
+      "q": "Can I renew without an HVIS inspection?",
+      "a": "If an inspection is required but no bookings are available before the renewal date, you can renew without the HVIS inspection if you have an HVAIS inspection report that is no more than 42 days old.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my vehicle registration?",
+      "a": "Gather the required documents and then visit a Service NSW Centre or call 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:18Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "9dc3652d6aaceb14c8b7ef850ef89a032d756062",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

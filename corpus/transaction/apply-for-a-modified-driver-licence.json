@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-modified-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-modified-driver-licence",
+  "title": "Apply for a modified driver licence",
+  "summary": "Find out how to apply for a modified driver licence if you are 85 or older and feel uncomfortable driving in certain situations.",
+  "topics": [
+    "driver-licence",
+    "modified-licence",
+    "older-drivers",
+    "nsw-service"
+  ],
+  "intro": "If you’re 85 or older and still a competent driver, but you feel uncomfortable driving in certain situations (for example, long distances), visit a service centre and talk to the manager. The manager may suggest a modified licence based on your individual needs. A driving test is not required.\n\nModified licences can confine your driving to within a certain radius of your home, such as:\n\nNote: If your doctor recommends a modified licence, a driving test is required.",
+  "who_can_apply": [
+    "Being 85 or older and still being a competent driver.",
+    "Feeling uncomfortable driving in certain situations (e.g., long distances)."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Request for a Modified Licence'",
+    "Your current driver licence",
+    "Your concession details (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Form 1498: Request for a Modified Licence – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071414-request-for-a-modified-licence.pdf"
+    },
+    {
+      "text": "A Guide to Older Driver Licensing – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-09/older-drivers-guide.pdf"
+    },
+    {
+      "text": "Older drivers and riders - Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/older-drivers-and-riders"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change conditions on a driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-conditions-on-a-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a driving test to get a modified licence?",
+      "a": "If you are 85 or older and feel uncomfortable driving in certain situations, you do not need a driving test if you visit a service centre and talk to the manager. However, if your doctor recommends a modified licence, a driving test is required.",
+      "link": null
+    },
+    {
+      "q": "What is a modified licence?",
+      "a": "Modified licences can confine your driving to within a certain radius of your home.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:45Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "bc26c409468f88290c564fcbcd06b6f77c926c3c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

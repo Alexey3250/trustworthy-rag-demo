@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/digital-vehicle-registration-privacy-statement",
+  "source_url": "https://www.service.nsw.gov.au/digital-vehicle-registration-privacy-statement",
+  "category": "digital-vehicle-registration-privacy-statement",
+  "article_kind": "content",
+  "slug": "digital-vehicle-registration-privacy-statement",
+  "title": "Digital Vehicle Registration – Privacy statement",
+  "summary": "This page provides a privacy statement regarding the use of Digital Vehicle Registration (DVR) services.",
+  "topics": [
+    "vehicle-registration",
+    "privacy",
+    "service-nsw",
+    "transport-for-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW privacy statement",
+      "url": "https://www.transport.nsw.gov.au/about-us/transport-privacy/privacy-statement"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I use Digital Vehicle Registration (DVR)?",
+      "a": "If you choose to use DVR, Service NSW will notify Transport for NSW of your choice, and Transport for NSW will retain a record of it.",
+      "link": null
+    },
+    {
+      "q": "How will I receive my vehicle registration renewal notice and certificate of registration?",
+      "a": "By agreeing to use DVR, you authorise Service NSW to update your contact preferences and details and share them with Transport for NSW, and you acknowledge this will be the only method for receiving these communications.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:56Z",
+    "last_modified": "6 January 2025",
+    "html_sha1": "03f998fe9a1f35b81d466c66174e9bd9517c6700",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

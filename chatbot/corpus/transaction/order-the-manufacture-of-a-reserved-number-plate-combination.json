@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-the-manufacture-of-a-reserved-number-plate-combination",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-the-manufacture-of-a-reserved-number-plate-combination",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-the-manufacture-of-a-reserved-number-plate-combination",
+  "title": "Order the manufacture of a reserved number plate combination",
+  "summary": "You can order the manufacture of your reserved number plate combination online.",
+  "topics": [
+    "number-plates",
+    "vehicle-registration",
+    "reserved-combination",
+    "order-online"
+  ],
+  "intro": "You can order the manufacture of your number plate combination if:\n\nTo order the manufacture, you need to:\n\nNote: Any unused pro-rata annual fee will be used to calculate the payable amount.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your email address",
+    "your driver licence number or customer number (if a business)",
+    "the reserved content for your new number plates",
+    "your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to get your number plates manufactured.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Reserve a number plate combination",
+      "url": "https://www.service.nsw.gov.au/transaction/reserve-a-number-plate-combination"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:03Z",
+    "last_modified": "29 July 2025",
+    "html_sha1": "36e82e22c931552702a6c8cd83b805f46de93e72",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

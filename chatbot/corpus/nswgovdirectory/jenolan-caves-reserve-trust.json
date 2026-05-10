@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/jenolan-caves-reserve-trust",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/jenolan-caves-reserve-trust",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "jenolan-caves-reserve-trust",
+  "title": "Jenolan Caves Reserve Trust",
+  "summary": "This page provides information about the Jenolan Caves Reserve Trust, which manages the Jenolan Caves Reserve.",
+  "topics": [
+    "caves",
+    "reserve",
+    "trust",
+    "tourism"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.jenolancaves.org.au/",
+      "url": "https://www.jenolancaves.org.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:40Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "9d065966290f5237741182168f22e876592fbe7e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

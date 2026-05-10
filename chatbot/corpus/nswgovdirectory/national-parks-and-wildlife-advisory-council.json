@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-advisory-council",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-advisory-council",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "national-parks-and-wildlife-advisory-council",
+  "title": "National Parks and Wildlife Advisory Council",
+  "summary": "This page provides information about the National Parks and Wildlife Advisory Council.",
+  "topics": [
+    "advisory-council",
+    "national-parks",
+    "wildlife",
+    "environment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.environment.nsw.gov.au/about-us/who-we-are/national-parks-and-wildlife-advisory-council",
+      "url": "https://www.environment.nsw.gov.au/about-us/who-we-are/national-parks-and-wildlife-advisory-council"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Parks and Wildlife Service",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-parks-and-wildlife-service"
+    },
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:58Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ccde65fe95f7e6db8beb0045a1b7f2ce15a7296e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

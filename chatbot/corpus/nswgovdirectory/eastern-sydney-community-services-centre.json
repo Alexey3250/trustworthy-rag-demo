@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/eastern-sydney-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/eastern-sydney-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "eastern-sydney-community-services-centre",
+  "title": "Eastern Sydney Community Services Centre",
+  "summary": "This page provides information about the Eastern Sydney Community Services Centre, which is managed by Communities and Justice.",
+  "topics": [
+    "community-services",
+    "eastern-sydney",
+    "support-centre",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:02Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "20770377da92968de4af849ad5a445b1537da1e0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

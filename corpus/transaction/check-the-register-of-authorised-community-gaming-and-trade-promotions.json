@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-the-register-of-authorised-community-gaming-and-trade-promotions",
+  "title": "Check the register of authorised community gaming and trade promotions",
+  "summary": "Use this page to check the register of authorised community gaming and trade promotions.",
+  "topics": [
+    "community-gaming",
+    "trade-promotions",
+    "authorised-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "name of the authorised individual or organisation",
+    "authorisation number",
+    "authorisation type",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have any questions about community gaming and trade promotions, contact Fair Trading.",
+  "more_info": [
+    {
+      "text": "Community gaming and trade promotions",
+      "link": "https://www.nsw.gov.au/money-and-taxes/community-gaming"
+    },
+    {
+      "text": "Trade promotions",
+      "link": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions"
+    },
+    {
+      "text": "To find out if you need an authority for your community gaming activity or trade promotion, use the Community gaming check.",
+      "link": null
+    },
+    {
+      "text": "Visit the NSW Fair Trading website to learn more about:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Community gaming check",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/community-gaming-check"
+    },
+    {
+      "text": "Community gaming and trade promotions",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming"
+    },
+    {
+      "text": "Trade promotions",
+      "url": "https://www.nsw.gov.au/money-and-taxes/community-gaming/trade-promotions"
+    },
+    {
+      "text": "contact Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a charitable fundraising licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can help with questions about community gaming and trade promotions?",
+      "a": "Contact Fair Trading.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/contact"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:29Z",
+    "last_modified": "24 April 2025",
+    "html_sha1": "c9cd56e916f5e894e4d6766c5caabb4c98436030",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

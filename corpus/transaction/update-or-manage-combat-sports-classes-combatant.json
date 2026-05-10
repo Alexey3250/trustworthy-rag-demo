@@ -1,0 +1,164 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-or-manage-combat-sports-classes-combatant",
+  "title": "Manage classes on a combatant registration",
+  "summary": "You can apply online to add or manage classes on your combatant registration, including changing from amateur to professional levels.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "combatant"
+  ],
+  "intro": "If you hold a combatant registration, you can apply online to add classes to your registration. You can also manage your registration classes if you need to change from an amateur to a professional level.\n\nAny class that you add, or change will expire on the same registration expiry date as your existing registration classes.\n\nIf you need to surrender an amateur combatant class to apply for a professional combatant class, you are not required to complete the form to Surrender a combat sports class or registration. You will be able to complete this change within this transaction.\n\nIf you need to surrender a registration or class, you’ll need to complete the form to Surrender a combat sports class or registration.",
+  "who_can_apply": [
+    "You must be aged 18 years or over when you submit your application if you are updating your registration to professional combatant registration classes."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your registration number",
+    "A signed Parent/Legal Guardian Consent form for applicants under 18 years of age",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to manage class(es) on your combatant registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You will not get a new medical record book as you've previously been registered as a combatant with the Combat Sports Authority of NSW. Continue using the medical record book issued to you when you first registered.",
+      "link": null
+    },
+    {
+      "text": "If you need to update your details, go to Change name or contact details on a combatant registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "To check your combatant registration number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/OOS"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Surrender a combat sports class or registration",
+      "url": "https://forms.office.com/r/L7zKJA0pr3?origin=lprLink"
+    },
+    {
+      "text": "Certificate of Fitness",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_certificate_of_fitness_for_combat_sports.pdf"
+    },
+    {
+      "text": "Serological Clearance Certificate",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_serology_clearance_certificate_s7_oct_2014.pdf"
+    },
+    {
+      "text": "Parent/Legal Guardian Consent form",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2023-05/Parent-Legal-Guardian-Consent-Form.pdf"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration"
+    },
+    {
+      "text": "Change of name form",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/combatant-registration"
+    },
+    {
+      "text": "Combat Sports Privacy Collection Notice",
+      "url": "https://www.sport.nsw.gov.au/combatsports/privacy"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/OOS"
+    },
+    {
+      "text": "Conditions of registration for combatants: Combat Sports Authority NSW – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa-combatant-registration-conditions.pdf"
+    },
+    {
+      "text": "Combatant code of conduct: Combat Sports Authority NSW – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_code_combatants.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change name or contact details on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "Replace a medical record book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-medical-record-book"
+    },
+    {
+      "text": "Apply for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Renew a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Update medical documents for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents"
+    },
+    {
+      "text": "Surrender a combat sports class or registration",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-combat-sports-class-or-registration"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens to the expiry date of added or changed classes?",
+      "a": "Any class you add or change will expire on the same date as your existing registration classes.",
+      "link": null
+    },
+    {
+      "q": "Do I need to complete a form if I surrender an amateur class to apply for a professional one?",
+      "a": "No, you do not need to complete the form to Surrender a combat sports class or registration; you can make this change within this transaction.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do if I need to surrender a registration or class?",
+      "a": "You will need to complete the form to Surrender a combat sports class or registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/surrender-a-combat-sports-class-or-registration"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:45Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "2972efd3c30f54ff2488247b01f103ea83da52e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

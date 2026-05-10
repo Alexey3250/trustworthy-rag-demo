@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-superannuation-payments",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-superannuation-payments",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-superannuation-payments",
+  "title": "Check superannuation payments",
+  "summary": "Use the Estimate my super tool to check if your employer is paying the correct superannuation amount, or check if you are entitled to super.",
+  "topics": [
+    "superannuation",
+    "super-payments",
+    "employer-contributions",
+    "super-entitlement"
+  ],
+  "intro": "You can use the Estimate my super tool to check whether your employer is paying you the correct amount of super.\n\nIf you need to, you can also check whether you are entitled to super.\n\nIf the tool shows you have not been paid correctly by your employer to the nominated super fund, you should discuss this with your employer. If you cannot resolve the issue, you can report unpaid super contributions with the Australian Taxation Office.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Estimate my super tool",
+      "url": "https://www.ato.gov.au/calculators-and-tools/super-estimate-my-super"
+    },
+    {
+      "text": "check whether you are entitled to super",
+      "url": "https://www.ato.gov.au/calculators-and-tools/super-am-i-entitled-to-super"
+    },
+    {
+      "text": "report unpaid super contributions with the Australian Taxation Office",
+      "url": "https://www.ato.gov.au/calculators-and-tools/super-report-unpaid-super-contributions-from-my-employer"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What should I do if the super tool shows my employer paid the wrong amount?",
+      "a": "Discuss the issue with your employer. If you cannot resolve it, you can report unpaid super contributions with the Australian Taxation Office.",
+      "link": null
+    },
+    {
+      "q": "How can I check if I am entitled to super?",
+      "a": "You can use the tool to check whether you are entitled to super.",
+      "link": "https://www.ato.gov.au/calculators-and-tools/super-am-i-entitled-to-super"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:45Z",
+    "last_modified": "5 March 2025",
+    "html_sha1": "c96eaef2df03334f5138d08badf45f910d20fd0c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

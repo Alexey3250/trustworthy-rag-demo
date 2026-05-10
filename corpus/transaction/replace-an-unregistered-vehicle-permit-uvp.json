@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-an-unregistered-vehicle-permit-uvp",
+  "title": "Replace an unregistered vehicle permit (UVP)",
+  "summary": "You can apply for a replacement unregistered vehicle permit (UVP) if your current permit is lost, destroyed, or stolen.",
+  "topics": [
+    "unregistered-vehicle-permit",
+    "uvp",
+    "replacement-permit",
+    "service-nsw"
+  ],
+  "intro": "If you hold an unregistered vehicle permit (UVP) and your permit is lost, destroyed or stolen, but is still current, you can apply for a new one at a Service NSW Centre.\n\nA replacement fee will be charged.",
+  "who_can_apply": [
+    "You must hold an unregistered vehicle permit (UVP) that is still current.",
+    "The permit must be lost, destroyed, or stolen."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "The 'Replacement Application' PDF form"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Application for Unregistered Vehicle Permit – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070190-unregistered-vehicle-permit.pdf"
+    },
+    {
+      "text": "Form 1018: Replacement Application – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "All about unregistered vehicle permits",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/unregistered-vehicle-permits-uvp"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for an unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit"
+    },
+    {
+      "text": "Cancel an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to replace my UVP?",
+      "a": "You need your proof of identity and the 'Replacement Application' PDF form.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my replacement application?",
+      "a": "You must visit a Service NSW Centre to provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "Is there a fee for replacing the permit?",
+      "a": "Yes, a replacement fee will be charged.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:38Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "e462e3ce40220658b5caaa8c738de5eba738ca21",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/payment-methods-and-fees",
+  "source_url": "https://www.service.nsw.gov.au/services/payment-methods-and-fees",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "payment-methods-and-fees",
+  "title": "Payment methods and fees",
+  "summary": "This page provides information on various payment methods and fees for services provided by Service NSW.",
+  "topics": [
+    "fees",
+    "payments",
+    "service-nsw",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Birth certificate fees",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates"
+    },
+    {
+      "text": "Vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Driver and rider licence fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Boat or PWC licence fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "Land title fees",
+      "url": "https://www.nswlrs.com.au/services/fees-payments/fees/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Changes to merchant fees",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/merchant-fees"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "Pay an overdue fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-an-overdue-fine"
+    },
+    {
+      "text": "Pay fees and manage your debt payment plan with myDebts",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-fees-and-manage-your-debt-payment-plan-with-mydebts"
+    },
+    {
+      "text": "Apply for a payment plan for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-payment-plan-for-a-fine"
+    },
+    {
+      "text": "Pay a toll or toll notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Pay a Toll Notice for the Sydney Harbour Bridge or Tunnel",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-notice-for-the-sydney-harbour-bridge-or-tunnel"
+    },
+    {
+      "text": "Pay a land tax notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice"
+    },
+    {
+      "text": "Pay your NSW ambulance fee",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-your-nsw-ambulance-fee"
+    },
+    {
+      "text": "Pay public housing tenancy charges",
+      "url": "https://www.service.nsw.gov.au/referral/pay-public-housing-tenancy-charges"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of fees can I pay?",
+      "a": "You can pay fees for services such as birth certificates, vehicle registration, driver and rider licences, boat or PWC licences, land title, and various fines and taxes.",
+      "link": null
+    },
+    {
+      "q": "How can I pay a fine or overdue fine?",
+      "a": "You can pay a fine or an overdue fine using dedicated payment links provided on the page.",
+      "link": null
+    },
+    {
+      "q": "Do I need to apply for a payment plan?",
+      "a": "If you are unable to pay immediately, you can apply for a payment plan for a fine or manage your debt payment plan with myDebts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:15Z",
+    "last_modified": "29 October 2025",
+    "html_sha1": "0d37a60d26d7ff47153b4318bc2b16df7eb036eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

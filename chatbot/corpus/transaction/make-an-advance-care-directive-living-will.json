@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/make-an-advance-care-directive-living-will",
+  "source_url": "https://www.service.nsw.gov.au/transaction/make-an-advance-care-directive-living-will",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "make-an-advance-care-directive-living-will",
+  "title": "Make an Advance Care Directive (living will)",
+  "summary": "This page explains how to make an Advance Care Directive (living will) to state your wishes regarding healthcare and treatment if you become seriously ill or injured and unable to make decisions.",
+  "topics": [
+    "advance-care-directive",
+    "living-will",
+    "end-of-life-planning",
+    "healthcare-wishes"
+  ],
+  "intro": "An Advance Care Directive, is also called a living will. It lets people know your wishes regarding your healthcare and treatment should you become seriously ill or injured and unable to make decisions yourself.\n\nA valid Advance Care Directive must be followed. Health professionals and family members have no authority to override it. It is considered valid if:\n\nTo make an Advance Care Directive you can choose to:\n\nIn NSW, an Advance Care Directive can be spoken or written, but signed and written directives are recommended.\n\nAdvance Care Directives made in other Australian states and territories are recognised in NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Health's information booklet – PDF",
+      "url": "https://www.health.nsw.gov.au/patients/acp/Publications/acd-form-info-book.pdf"
+    },
+    {
+      "text": "Statement of values and wishes (South Western Sydney) – PDF",
+      "url": "https://www.swslhd.health.nsw.gov.au/myWishes/content/pdf/AMR001_000_-_Statement_of_Values_and_Wishes__Patient__-_Nov_2013.pdf"
+    },
+    {
+      "text": "Advance Care Planning – PDF",
+      "url": "https://www.health.nsw.gov.au/patients/acp/Publications/making-your-wishes-known.pdf"
+    },
+    {
+      "text": "Create your plan – Advance Care Planning",
+      "url": "https://www.advancecareplanning.org.au/create-your-plan/create-your-plan-nsw"
+    },
+    {
+      "text": "Planning for end of life – NSW Government",
+      "url": "https://www.nsw.gov.au/family-and-relationships/planning-for-end-of-life"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who must follow my Advance Care Directive?",
+      "a": "A valid Advance Care Directive must be followed. Health professionals and family members have no authority to override it.",
+      "link": null
+    },
+    {
+      "q": "How can I make an Advance Care Directive in NSW?",
+      "a": "In NSW, an Advance Care Directive can be spoken or written, but signed and written directives are recommended.",
+      "link": null
+    },
+    {
+      "q": "Are Advance Care Directives from other states recognized in NSW?",
+      "a": "Advance Care Directives made in other Australian states and territories are recognised in NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:18Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "38202bc81ca12ab6fee57604d1e93de7c63fa191",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

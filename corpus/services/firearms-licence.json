@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/firearms-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/firearms-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "firearms-licence",
+  "title": "Firearms licence",
+  "summary": "This page provides information and links for applying for, renewing, replacing, or updating details for a firearms licence in NSW.",
+  "topics": [
+    "firearms-licence",
+    "nsw-firearms",
+    "weapons-licence",
+    "firearms-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individual",
+    "Business, club, or government agency"
+  ],
+  "what_you_need": [
+    "Online form",
+    "Calling the customer service line on 1300 362 562 (9am to 4pm, Monday to Friday, excluding public holidays)",
+    "Keeping personal details up to date"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Get a firearms or security industry licence issued",
+      "link": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "use the online form",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/contact_us_form"
+    },
+    {
+      "text": "Licensing FAQs (frequently asked questions)",
+      "url": "https://portal.police.nsw.gov.au/s/article/Firearms-Licensing-Frequently-Asked-Questions#npc2"
+    },
+    {
+      "text": "Keep your personal details up to date",
+      "url": "https://firearms.police.nsw.gov.au/cssp/s/update-personal-details"
+    },
+    {
+      "text": "Safe storage of firearms",
+      "url": "https://www.police.nsw.gov.au/online_services/firearms/safe_storage"
+    },
+    {
+      "text": "PTA (permit to acquire) FAQs",
+      "url": "https://portal.police.nsw.gov.au/s/article/PTA-Frequently-Asked-Questions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-individual"
+    },
+    {
+      "text": "Apply for a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Apply for a permit to acquire a firearm (PTA)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-acquire-a-firearm-pta"
+    },
+    {
+      "text": "Renew a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-individual"
+    },
+    {
+      "text": "Renew a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Replace a NSW firearms licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-firearms-licence"
+    },
+    {
+      "text": "Update details on a firearms licence (individual)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-individual"
+    },
+    {
+      "text": "Update details on a firearms licence (business, club or government agency)",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-a-firearms-licence-business-club-or-agency"
+    },
+    {
+      "text": "Get a firearms or security industry licence issued",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find frequently asked questions about firearms licensing?",
+      "a": "You can find detailed answers in the Licensing FAQs.",
+      "link": "https://portal.police.nsw.gov.au/s/article/Firearms-Licensing-Frequently-Asked-Questions#npc2"
+    },
+    {
+      "q": "How can I apply for a firearms licence?",
+      "a": "You can apply for a firearms licence for an individual or for a business, club, or government agency.",
+      "link": null
+    },
+    {
+      "q": "What do I do if I need to renew or replace my firearms licence?",
+      "a": "There are specific links available for renewing or replacing your licence, depending on whether you are an individual or a business/club/agency.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:41Z",
+    "last_modified": "27 December 2025",
+    "html_sha1": "e295bf6f0bcc5de2eb50bfa4af92a272fdc889bd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

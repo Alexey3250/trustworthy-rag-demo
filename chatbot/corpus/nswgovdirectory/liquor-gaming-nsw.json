@@ -1,0 +1,109 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/liquor-gaming-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/liquor-gaming-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "liquor-gaming-nsw",
+  "title": "Liquor & Gaming NSW",
+  "summary": "This page provides information about the Liquor & Gaming NSW sector, including various licenses, training, and resources for the industry.",
+  "topics": [
+    "liquor-licences",
+    "gaming",
+    "hospitality",
+    "nsw-business",
+    "training"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    },
+    {
+      "text": "Find out how to have your say",
+      "url": "https://www.liquorandgaming.nsw.gov.au/community-and-stakeholders/have-your-say"
+    },
+    {
+      "text": "Browse the Liquor & Gaming Application Noticeboard",
+      "url": "https://lngnoticeboard.onegov.nsw.gov.au/search"
+    },
+    {
+      "text": "Help for people experiencing gambling harm – Liquor & Gaming NSW",
+      "url": "https://www.liquorandgaming.nsw.gov.au/community-and-stakeholders/community-support/help-with-problem-gambling"
+    },
+    {
+      "text": "Find an approved RSA and RCG training course provider",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/find-a-training-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Independent Liquor & Gaming Authority",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/independent-liquor-and-gaming-authority"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    },
+    {
+      "text": "Order Liquor & Gaming NSW signage",
+      "url": "https://www.service.nsw.gov.au/transaction/order-liquor-gaming-nsw-signage"
+    },
+    {
+      "text": "Hospitality industry",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Apply for a hotel or general bar liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-hotel-or-general-bar-liquor-licence"
+    },
+    {
+      "text": "Apply for a club liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-club-liquor-licence"
+    },
+    {
+      "text": "Check a liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    },
+    {
+      "text": "Apply for a trade promotion gaming authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-trade-promotion-gaming-authority"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Liquor & Gaming NSW sector?",
+      "a": "The Liquor & Gaming NSW sector is managed by various departments and agencies, including the Independent Liquor & Gaming Authority.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    },
+    {
+      "q": "How can I apply for a liquor licence?",
+      "a": "You can apply for specific types of liquor licences, such as a hotel or general bar liquor licence, or a club liquor licence.",
+      "link": null
+    },
+    {
+      "q": "What resources are available for people experiencing gambling harm?",
+      "a": "Help is available for people experiencing gambling harm through Liquor & Gaming NSW.",
+      "link": "https://www.liquorandgaming.nsw.gov.au/community-and-stakeholders/community-support/help-with-problem-gambling"
+    },
+    {
+      "q": "Where can I find training providers for RSA and RCG?",
+      "a": "You can find an approved RSA and RCG training course provider through the NSW government website.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/find-a-training-provider"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:32Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "fc64cfce6d40dcd8bc86a01fc15a361224baae99",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

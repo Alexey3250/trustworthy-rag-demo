@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/destination-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/destination-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "destination-nsw",
+  "title": "Destination NSW",
+  "summary": "This page provides information about Destination NSW, the organization responsible for promoting New South Wales as a tourist destination.",
+  "topics": [
+    "tourism",
+    "nsw",
+    "destination-nsw",
+    "business-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.destinationnsw.com.au/",
+      "url": "https://www.destinationnsw.com.au/"
+    },
+    {
+      "text": "Visit NSW – Destination NSW official tourism site",
+      "url": "https://www.visitnsw.com/"
+    },
+    {
+      "text": "Sydney.com – Destination NSW official tourism site",
+      "url": "https://www.sydney.com/"
+    },
+    {
+      "text": "Events funding and tourism grants",
+      "url": "https://www.destinationnsw.com.au/tourism/business-development-resources/funding-and-grants"
+    },
+    {
+      "text": "Business support resources",
+      "url": "https://www.destinationnsw.com.au/destination-nsw-business-support"
+    },
+    {
+      "text": "Key NSW and international contacts",
+      "url": "https://www.destinationnsw.com.au/contact-us/key-contacts"
+    },
+    {
+      "text": "Tourism industry network",
+      "url": "https://www.destinationnsw.com.au/our-industry/contacts-and-associations"
+    },
+    {
+      "text": "Websites and social media channels",
+      "url": "https://www.destinationnsw.com.au/about-us/our-websites"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.destinationnsw.com.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Destination NSW Board of Management",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/destination-nsw-board-of-management"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Destination NSW?",
+      "a": "Destination NSW is the organization responsible for promoting New South Wales as a tourist destination.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about NSW tourism?",
+      "a": "You can visit the official tourism sites like Visit NSW or Sydney.com.",
+      "link": "https://www.visitnsw.com/"
+    },
+    {
+      "q": "Does Destination NSW offer funding or grants?",
+      "a": "Yes, information on events funding and tourism grants is available.",
+      "link": "https://www.destinationnsw.com.au/tourism/business-development-resources/funding-and-grants"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:34Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "1febe6a86b8b32681a4d7c28b38d085f644ea707",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

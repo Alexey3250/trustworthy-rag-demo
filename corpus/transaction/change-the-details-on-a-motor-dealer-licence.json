@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-a-motor-dealer-licence",
+  "title": "Change the details on a motor dealer licence",
+  "summary": "This page explains how to notify NSW Fair Trading if your personal or business details have changed for your motor dealer licence.",
+  "topics": [
+    "motor-dealer-licence",
+    "business-details",
+    "nsw-fair-trading",
+    "business-changes"
+  ],
+  "intro": "If you have a motor dealer licence and your personal or business information has changed you need to notify NSW Fair Trading.\n\nTo check your motor dealer licence number and details visit Verify NSW.",
+  "who_can_apply": [
+    "Must hold a motor dealer licence and have personal or business information that has changed."
+  ],
+  "what_you_need": [
+    "The relevant PDF form for the details you need to change (e.g., Change of Director, Change in Partners, Change of Details Notification).",
+    "Completion and submission of the form via the Service NSW Centre."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the relevant PDF form for the details you need to change.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715h.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit the form",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "NSW Fair Trading",
+      "link": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Transport for NSW",
+      "link": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "business.gov.au – includes fees payable.",
+      "link": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    },
+    {
+      "text": "To find out more about motor dealer licensing visit:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Change of Director – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715h.pdf"
+    },
+    {
+      "text": "Change in Partners – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715g.pdf"
+    },
+    {
+      "text": "Change of Details Notification – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4715e.pdf"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "business.gov.au",
+      "url": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence"
+    },
+    {
+      "text": "Replace a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my motor dealer licence number and details?",
+      "a": "You can check your motor dealer licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "What do I do if my personal or business information has changed?",
+      "a": "If you have a motor dealer licence and your personal or business information has changed, you need to notify NSW Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "How do I submit the required forms?",
+      "a": "First, download the relevant PDF form for the details you need to change. Then, complete and submit the form via the Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:57Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "0064f9970a528c003886a3dfd2e08878e042aa5b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

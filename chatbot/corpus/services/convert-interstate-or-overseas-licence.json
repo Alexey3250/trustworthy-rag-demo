@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/convert-interstate-or-overseas-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/convert-interstate-or-overseas-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "convert-interstate-or-overseas-licence",
+  "title": "Convert an interstate or overseas driver licence",
+  "summary": "This page provides information on how to convert an interstate or overseas driver licence to a NSW licence.",
+  "topics": [
+    "driver-licence",
+    "interstate",
+    "overseas"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Hold an interstate driver licence",
+    "Hold an overseas driver licence",
+    "Be a temporary overseas visitor"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Get a NSW driver licence guide",
+      "link": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Transfer an interstate driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-interstate-driver-licence"
+    },
+    {
+      "text": "Transfer a probationary interstate driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-probationary-interstate-driver-licence"
+    },
+    {
+      "text": "Transfer an overseas driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence"
+    },
+    {
+      "text": "Apply for a NSW licence as a temporary overseas visitor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-licence-as-a-temporary-overseas-visitor"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if I have an interstate licence?",
+      "a": "You can transfer an interstate driver licence to a NSW licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-an-interstate-driver-licence"
+    },
+    {
+      "q": "What if I have an overseas licence?",
+      "a": "You can transfer an overseas driver licence to a NSW licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-an-overseas-driver-licence"
+    },
+    {
+      "q": "What if I am a temporary overseas visitor?",
+      "a": "You can apply for a NSW licence as a temporary overseas visitor.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-licence-as-a-temporary-overseas-visitor"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:13Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "02f916a0933a8599fcd048c95dba75af87192b41",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

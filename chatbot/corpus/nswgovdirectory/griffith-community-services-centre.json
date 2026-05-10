@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/griffith-community-services-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/griffith-community-services-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "griffith-community-services-centre",
+  "title": "Griffith Community Services Centre",
+  "summary": "This page provides information about the Griffith Community Services Centre, which is part of the Communities and Justice department.",
+  "topics": [
+    "community-services",
+    "griffith",
+    "justice",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:38Z",
+    "last_modified": "26 March 2026",
+    "html_sha1": "f56bdfcf3d7acc094fcee0ad807a317dcea8dc26",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

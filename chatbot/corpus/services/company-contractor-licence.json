@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/company-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/company-contractor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "company-contractor-licence",
+  "title": "Company or partnership contractor licence",
+  "summary": "This page provides information about company or partnership contractor licences in New South Wales.",
+  "topics": [
+    "company-licence",
+    "contractor-licence",
+    "partnership",
+    "business-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change a condition on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Add a category of work to a company contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the name on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Renew a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Replace a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Restore a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Surrender a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a company or partnership contractor licence?",
+      "a": "You can apply for a company or partnership contractor licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "q": "What can I do with my existing licence?",
+      "a": "You can renew, change conditions, add work categories, change contact details, change the name, replace, restore, or surrender your licence.",
+      "link": null
+    },
+    {
+      "q": "How do I change the name on my licence?",
+      "a": "You can change the name on your licence using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:12Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4a130ac44b852a3568d847748bc4bed174ed02e9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

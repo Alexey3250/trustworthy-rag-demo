@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app",
+  "source_url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app",
+  "category": "service-nsw-business-bureau-app",
+  "article_kind": "landing-page",
+  "slug": "service-nsw-business-bureau-app",
+  "title": "Service NSW Business Bureau app",
+  "summary": "Use the Business Bureau app to manage your business location details, redeem vouchers, and connect or disconnect your devices.",
+  "topics": [
+    "business-app",
+    "business-locations",
+    "vouchers",
+    "business-management"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "",
+      "url": "https://apps.apple.com/au/app/service-nsw-for-business/id1541820869"
+    },
+    {
+      "text": "",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.service.biz&hl=en&gl=US"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Redeeming vouchers from customers",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "text": "Connect or disconnect your devices",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations"
+    },
+    {
+      "text": "System requirements for the app",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements"
+    },
+    {
+      "text": "Privacy and security for the app",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Service NSW Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business/business-concierge-service"
+    },
+    {
+      "text": "business support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I manage my business locations?",
+      "a": "You can use the Business Bureau app to manage your business location details, including connecting or disconnecting your devices.",
+      "link": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations"
+    },
+    {
+      "q": "How do I redeem vouchers?",
+      "a": "The app allows you to redeem vouchers from customers.",
+      "link": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "q": "What do I need to use the app?",
+      "a": "The app has specific system requirements that you should check before using it.",
+      "link": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:18Z",
+    "last_modified": "26 February 2026",
+    "html_sha1": "790cd962b77c0406c66d0e5ebc85c716fab2bfcb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

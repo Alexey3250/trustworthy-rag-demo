@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-occupation-certificate",
+  "title": "Apply for an occupation certificate",
+  "summary": "Learn about the process and requirements for applying for an occupation certificate after completing a development and construction project.",
+  "topics": [
+    "occupation-certificate",
+    "development-application",
+    "construction-process",
+    "local-council"
+  ],
+  "intro": "The last step in the formal development application and construction process is when an occupation certificate is issued.\n\nYou need an occupation certificate if you want to:\n\nOccupation certificates are issued by your local council or a private certifier.",
+  "who_can_apply": [
+    "The beneficiary of the development consent",
+    "A person with the approval of the beneficiary",
+    "A person who is eligible to appoint a principal certifier for the development"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or your NSW Planning Portal login details",
+    "Copies of documents for uploading, such as your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select ‘Log in with a Service NSW account’ or enter your NSW Planning Portal login details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application, either:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A partial occupation certificate can be issued for staged building works. A partial occupation certificate allows you to occupy the part of the building that’s been completed.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "an occupation certificate is issued",
+      "url": "https://www.planningportal.nsw.gov.au/development-and-assessment/post-consent-certificates"
+    },
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "private certifier",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/finding-and-appointing"
+    },
+    {
+      "text": "building classification",
+      "url": "https://ncc.abcb.gov.au/ncc-navigator/building-classifications"
+    },
+    {
+      "text": "class 2 buildings",
+      "url": "https://ncc.abcb.gov.au/ncc-navigator/building-classifications#class-2-buildings"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.planningportal.nsw.gov.au/help-and-resources/nsw-planning-portal-service-fees"
+    },
+    {
+      "text": "Submitting an application for an occupation certificate – PDF",
+      "url": "https://shared-drupal-s3fs.s3.ap-southeast-2.amazonaws.com/master-test/fapub_pdf/NSW+Planning+Portal+Documents/How+to+submit+an+application+for+an+Occupation+Certificate.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "appoint a principal certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "text": "development application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application"
+    },
+    {
+      "text": "complying development certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-complying-development-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who issues an occupation certificate?",
+      "a": "Occupation certificates are issued by your local council or a private certifier.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for an occupation certificate?",
+      "a": "The beneficiary of the development consent, or a person with the approval of the beneficiary, can apply. The application must be made by a person eligible to appoint a principal certifier for the development.",
+      "link": null
+    },
+    {
+      "q": "When should I apply for an occupation certificate?",
+      "a": "You can apply when you submit your development application (DA) or complying development certificate (CDC), or as a standalone application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:54Z",
+    "last_modified": "16 May 2025",
+    "html_sha1": "2606b7e34046e58ad77a4a6fabe15006c8d464d2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

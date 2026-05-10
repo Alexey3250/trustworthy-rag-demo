@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/supply-nsw-government",
+  "source_url": "https://www.service.nsw.gov.au/services/supply-nsw-government",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "supply-nsw-government",
+  "title": "Supply to NSW Government",
+  "summary": "Find information and resources on how to supply goods and services to the NSW Government.",
+  "topics": [
+    "nsw-government",
+    "supplier",
+    "business-support",
+    "tendering"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Apply for a prequalification scheme",
+      "url": "https://www.tenders.nsw.gov.au/?event=public.Schemes.list"
+    },
+    {
+      "text": "Search NSW eTendering for opportunities",
+      "url": "https://www.tenders.nsw.gov.au"
+    },
+    {
+      "text": "NSW Government supplier hub",
+      "url": "https://buy.nsw.gov.au/suppliers"
+    },
+    {
+      "text": "Support for SMEs and regional businesses",
+      "url": "https://info.buy.nsw.gov.au/supplier-guidance/supply-to-government/smes"
+    },
+    {
+      "text": "Support for Aboriginal businesses",
+      "url": "https://info.buy.nsw.gov.au/supplier-guidance/supply-to-government/aboriginal-suppliers"
+    },
+    {
+      "text": "Guide to selling to NSW Government",
+      "url": "https://www.smallbusiness.nsw.gov.au/resources/guides/selling-nsw-government-guide-2023"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register as a supplier on buy.nsw",
+      "url": "https://www.service.nsw.gov.au/transaction/register-as-a-supplier-on-buynsw"
+    },
+    {
+      "text": "Submit an unsolicited proposal to NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-an-unsolicited-proposal-to-nsw-government"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:00Z",
+    "last_modified": "8 May 2026",
+    "html_sha1": "3ed3ed75c510dbba13b015a0fd0bdd9cecfee441",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

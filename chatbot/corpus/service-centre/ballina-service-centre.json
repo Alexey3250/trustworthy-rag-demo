@@ -1,0 +1,148 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/ballina-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/ballina-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "ballina-service-centre",
+  "title": "Ballina Service Centre",
+  "summary": "This page provides information about the Ballina Service Centre, including the services available, how to plan a visit, and accessibility details.",
+  "topics": [
+    "service-centre",
+    "driver-licences",
+    "licences",
+    "certificates",
+    "vehicle-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-28.843893,153.558169"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Birth, death or marriage certificates",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Boating licences and vessel registrations",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Change of address for Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    },
+    {
+      "text": "Contractor licence applications",
+      "url": "https://www.service.nsw.gov.au/services/individual-contractor-licence"
+    },
+    {
+      "text": "Driver and rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Driver Knowledge Test (DKT)",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence"
+    },
+    {
+      "text": "Driver testing",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Eyesight tests",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "Heavy vehicle driver testing",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicles"
+    },
+    {
+      "text": "International driver permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "Liquor licences",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/services/nsw-photo-card"
+    },
+    {
+      "text": "RSA/RCG competency cards",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Savings Finder appointments",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-savings-finder-appointment"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Lismore Driver Testing Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/lismore-driver-testing-centre"
+    },
+    {
+      "text": "Lismore Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/lismore-service-centre"
+    },
+    {
+      "text": "Casino Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/casino-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:34Z",
+    "last_modified": null,
+    "html_sha1": "5c69b311fcb07bdc554ef5b9768e57b41684bfdb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

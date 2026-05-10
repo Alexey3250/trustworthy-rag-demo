@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-a-pothole-or-damaged-road",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-a-pothole-or-damaged-road",
+  "title": "Report a pothole or damaged road",
+  "summary": "Find out how to report a pothole or damaged road in NSW, and learn about road network responsibilities.",
+  "topics": [
+    "pothole",
+    "damaged-road",
+    "nsw-roads",
+    "transport-for-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "online form",
+      "link": "https://feedback.transportnsw.info/s/?recordtype=012Ol0000055ClkIAE&l1=a16Ol000002vNDKIA2&l2=a16Ol000002vNF3IAM&l3=a16Ol000002vNMzIAM"
+    },
+    {
+      "n": 2,
+      "text": "phone 131 700",
+      "link": "tel:131700"
+    },
+    {
+      "n": 3,
+      "text": "other contact methods.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online form",
+      "url": "https://feedback.transportnsw.info/s/?recordtype=012Ol0000055ClkIAE&l1=a16Ol000002vNDKIA2&l2=a16Ol000002vNF3IAM&l3=a16Ol000002vNMzIAM"
+    },
+    {
+      "text": "other contact methods",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/transport-for-nsw/contact-roads-and-waterways"
+    },
+    {
+      "text": "road classification in NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/local-government-relations/arrangements-councils/road-classification"
+    },
+    {
+      "text": "NSW Road Network Classifications map",
+      "url": "https://maps.transport.nsw.gov.au/egeomaps/road-network-categorisation/index.html"
+    },
+    {
+      "text": "AusRAP map",
+      "url": "https://www.transport.nsw.gov.au/roadsafety/what-we-do/safe-system/nsw-ausrap-map"
+    },
+    {
+      "text": "Identifying street environments",
+      "url": "https://www.movementandplace.nsw.gov.au/place-and-network/identifying-street-environments"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge a public liability claim with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-public-liability-claim-with-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who manages the roads in NSW?",
+      "a": "Transport for NSW manages state and regional roads, while local councils manage public roads within a local government area.",
+      "link": null
+    },
+    {
+      "q": "How can I report a pothole or damaged road?",
+      "a": "You can report a pothole or damaged road using the online form, calling 131 700, or using other contact methods.",
+      "link": null
+    },
+    {
+      "q": "Where can I find detailed information on road and street design?",
+      "a": "For detailed information on road and street design, visit Identifying street environments.",
+      "link": "https://www.movementandplace.nsw.gov.au/place-and-network/identifying-street-environments"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:05Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "074b62ac7c7da70d39ec927e9a6101f43d2a74f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

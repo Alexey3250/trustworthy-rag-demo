@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-an-individual-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-an-individual-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-an-individual-contractor-licence",
+  "title": "Surrender an individual contractor licence",
+  "summary": "Learn how to surrender your individual contractor licence if you are no longer doing contractor work in NSW.",
+  "topics": [
+    "contractor-licence",
+    "service-nsw",
+    "surrender-licence"
+  ],
+  "intro": "If you no longer need your individual contractor licence, you can surrender it at a Service NSW Centre. You need to surrender it if you're no longer doing contractor work in NSW.",
+  "who_can_apply": [
+    "You need to surrender your licence if you are no longer doing contractor work in NSW."
+  ],
+  "what_you_need": [
+    "Your contractor licence card",
+    "The PDF form: 'Surrender of Licence/Certificate'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "HB029: Surrender of Licence/Certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382e.pdf"
+    },
+    {
+      "text": "Compliance and regulation in housing and construction – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:52Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "77966c67563151ea60500209c3d5bcc4ba0574d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

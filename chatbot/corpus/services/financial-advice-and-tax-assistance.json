@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/financial-advice-and-tax-assistance",
+  "source_url": "https://www.service.nsw.gov.au/services/disaster-and-emergency-support-for-business/financial-advice-and-tax-assistance",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "financial-advice-and-tax-assistance",
+  "title": "Financial advice and tax assistance",
+  "summary": "This page provides information and resources for businesses needing financial advice and tax assistance following a disaster or emergency.",
+  "topics": [
+    "business-disaster-support",
+    "financial-advice",
+    "tax-assistance",
+    "emergency-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Disaster and emergency support for business",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Financial support for businesses",
+      "link": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Manage and grow your business",
+      "link": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Urgent help with money",
+      "url": "https://moneysmart.gov.au/managing-debt/urgent-help-with-money"
+    },
+    {
+      "text": "Find a financial counsellor",
+      "url": "https://ndh.org.au/financial-counselling/find-a-financial-counsellor/"
+    },
+    {
+      "text": "Financial Information Service",
+      "url": "https://www.servicesaustralia.gov.au/financial-information-service"
+    },
+    {
+      "text": "Rural Financial Counselling Service NSW",
+      "url": "https://rfcsnr.org.au"
+    },
+    {
+      "text": "Revenue NSW natural disaster relief",
+      "url": "https://www.revenue.nsw.gov.au/news-media-releases/natural-disaster-relief"
+    },
+    {
+      "text": "Australian Taxation Office (ATO)",
+      "url": "https://www.ato.gov.au/individuals-and-families/financial-difficulties-and-disasters/support-in-difficult-times/natural-disaster-support/recovery-following-natural-disasters"
+    },
+    {
+      "text": "business support and services",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/starting-registering-or-closing-a-business/starting-your-own-business/supporting-your-small-business#Morehelpsupportandservices"
+    },
+    {
+      "text": "Contact your bank for details",
+      "url": "https://www.ausbanking.org.au/for-customers/financial-difficulty/"
+    },
+    {
+      "text": "icare",
+      "url": "https://www.icare.nsw.gov.au/news-and-stories/2022/icare-to-provide-relief-for-customers-impacted-by-the-floods"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disaster and emergency support for business",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business"
+    },
+    {
+      "text": "Service NSW Business Bureau",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Financial support for businesses",
+      "url": "https://www.service.nsw.gov.au/disaster-and-emergency-assistance-for-business/grants-and-loans"
+    },
+    {
+      "text": "Manage and grow your business",
+      "url": "https://www.service.nsw.gov.au/business/manage-and-grow"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I get urgent help with money?",
+      "a": "You can find urgent help with money through MoneySmart – ASIC.",
+      "link": "https://moneysmart.gov.au/managing-debt/urgent-help-with-money"
+    },
+    {
+      "q": "How can I find a financial counsellor?",
+      "a": "You can find a financial counsellor using the National Debt Helpline.",
+      "link": "https://ndh.org.au/financial-counselling/find-a-financial-counsellor/"
+    },
+    {
+      "q": "What financial services are available?",
+      "a": "Services Australia provides a Financial Information Service.",
+      "link": "https://www.servicesaustralia.gov.au/financial-information-service"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:00Z",
+    "last_modified": "28 April 2026",
+    "html_sha1": "26a207d3ed00fe30a5ebf6b0ec1e06173b2c15dd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

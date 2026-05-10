@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-apprentice-vehicle-registration-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-apprentice-vehicle-registration-rebate",
+  "title": "Apply for an apprentice vehicle registration rebate",
+  "summary": "Find out how to apply for a vehicle registration rebate if you are a first or second-year apprentice registered with the NSW Department of Education.",
+  "topics": [
+    "apprentice",
+    "vehicle-registration",
+    "rebate",
+    "nsw-department-of-education"
+  ],
+  "intro": "If you're a first or second year apprentice registered with the NSW Department of Education, you can apply for a registration rebate to help you with the costs of registering your vehicle.",
+  "who_can_apply": [
+    "Must be a first or second-year apprentice registered with the NSW Department of Education.",
+    "Must be registered in NSW.",
+    "Must be registered in your name or jointly with an existing apprentice.",
+    "Must be registered for general private or general business use.",
+    "Must have been registered in your name or jointly with an existing apprentice when the registration fee and motor vehicle tax were last paid.",
+    "Must be due for renewal and paid after becoming an eligible apprentice."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Apprentice Registration Rebate Claim'",
+    "Your training contract number",
+    "Your banking details",
+    "Vehicle registration details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Send the completed form to the email address on the form with the subject line 'Apprentice rebate'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can only claim the rebate once you’ve paid the registration or renewal fees.",
+      "link": null
+    },
+    {
+      "text": "You can only claim one rebate per financial year.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Apprentice Registration Rebate Claim – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071135-apprentice-registration-rebate-claim.pdf"
+    },
+    {
+      "text": "Apprentice vehicle registration rebate – NSW Department of Education",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/apprentice-vehicle-registration-rebate"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for the vehicle registration rebate?",
+      "a": "You must be a first or second-year apprentice registered with the NSW Department of Education, and your vehicle must meet specific registration criteria.",
+      "link": null
+    },
+    {
+      "q": "What criteria must my vehicle meet to be eligible?",
+      "a": "The vehicle must be registered in NSW, in your name (or jointly with an existing apprentice), for general private or general business use, and must have been registered when the last renewal of the registration fee and motor vehicle tax was paid.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the rebate?",
+      "a": "Select the 'Download PDF form' button, download and complete the form, and send the completed form to the email address provided on the form with the subject line 'Apprentice rebate'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:44Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "5067f1ce607f008c84d458d9e79083bb56809e79",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

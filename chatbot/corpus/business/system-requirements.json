@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements",
+  "source_url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "system-requirements",
+  "title": "System requirements for the Service NSW Business Bureau app",
+  "summary": "This page outlines the system requirements and support information for the Service NSW Business Bureau app.",
+  "topics": [
+    "business-app",
+    "system-requirements",
+    "nsw-business",
+    "mobile-app"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a participating business.",
+    "Must have a Business Profile.",
+    "Must have access to a business location code provided by the business owner.",
+    "Must be registered to participate in a NSW Government program."
+  ],
+  "what_you_need": [
+    "A device running iOS version 12 or newer.",
+    "A device running Android version 8 or newer.",
+    "The Service NSW Business Bureau app."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Profile",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Business support",
+      "link": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Google Play Store",
+      "url": "https://play.google.com/store/apps/developer?id=Service+NSW"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "NSW Government program",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Redeeming vouchers from customers",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "text": "Connect or disconnect your devices",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations"
+    },
+    {
+      "text": "Privacy and security for the Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app"
+    },
+    {
+      "text": "Business support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the minimum operating system requirements for the app?",
+      "a": "The app requires iOS version 12 or Android version 8.",
+      "link": null
+    },
+    {
+      "q": "How do I check if my Service NSW Business Bureau app is up to date?",
+      "a": "Open the app, select the menu icon, go to 'Settings', and scroll down to check the Version number. The app will show an 'Open' button if you are current, or an 'Update' button if an update is available.",
+      "link": null
+    },
+    {
+      "q": "Where can I find help regarding the Business Bureau app?",
+      "a": "Support topics include redeeming vouchers, connecting or disconnecting devices, and privacy and security.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:11Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "3ff1fc261e3bcce4b0a49253b8c7d537df42f072",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

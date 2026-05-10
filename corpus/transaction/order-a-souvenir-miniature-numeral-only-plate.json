@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-a-souvenir-miniature-numeral-only-plate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-a-souvenir-miniature-numeral-only-plate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-a-souvenir-miniature-numeral-only-plate",
+  "title": "Order a souvenir miniature numeral-only plate",
+  "summary": "You can order a miniature replica of your numeral-only plate as a souvenir at a Service NSW Centre for a fee.",
+  "topics": [
+    "souvenir",
+    "number-plate",
+    "service-nsw",
+    "miniature-replica"
+  ],
+  "intro": "If you have a numeral-only plate, you can order a miniature replica as a souvenir at a Service NSW Centre. There is a fee payable for the plate.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "your number plate details",
+    "your payment"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Numeral-only plates are managed by Transport for NSW (TfNSW) and are only available at TfNSW auctions or through private sale.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Vehicle registration fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "myPlates",
+      "url": "https://www.myplates.com.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    },
+    {
+      "text": "Order special number plates as a gift",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:05Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "36547b9b686a11a53431af1c5aa69f98bef4e13e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

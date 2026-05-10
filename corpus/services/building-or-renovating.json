@@ -1,0 +1,156 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/building-or-renovating",
+  "source_url": "https://www.service.nsw.gov.au/services/building-or-renovating",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "building-or-renovating",
+  "title": "Building or renovating",
+  "summary": "Find information and services related to building, renovating, and managing properties in NSW.",
+  "topics": [
+    "building",
+    "renovating",
+    "property-development",
+    "building-permits",
+    "construction-certificates"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Property owners",
+    "Renovators",
+    "Builders",
+    "Tradespersons"
+  ],
+  "what_you_need": [
+    "Knowledge of local planning requirements",
+    "Appropriate permits (e.g., Owner-Builder Permit, development application)",
+    "Certificates (e.g., construction certificate, occupation certificate)",
+    "Licences (e.g., builder or tradesperson licence, asbestos or demolition licence)",
+    "Information on managing inspections (MyInspections)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Home Building Compensation Fund: Making a claim – icare",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/homeowners/claims"
+    },
+    {
+      "text": "Asbestos information for property owners and renovators",
+      "url": "https://www.asbestos.nsw.gov.au/"
+    },
+    {
+      "text": "Find an asbestos disposal site",
+      "url": "https://www.epa.nsw.gov.au/your-environment/household-building-and-renovation/dealing-with-household-asbestos/facilities-accept-household-asbestos"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/services/owner-builder-permit"
+    },
+    {
+      "text": "Apply for a development application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application"
+    },
+    {
+      "text": "Search for planning information about a property",
+      "url": "https://www.service.nsw.gov.au/transaction/search-for-planning-information-about-a-property"
+    },
+    {
+      "text": "Check a builder or tradesperson licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-builder-or-tradesperson-licence"
+    },
+    {
+      "text": "Apply for a complying development certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-complying-development-certificate"
+    },
+    {
+      "text": "Apply online for a planning certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-online-for-a-planning-certificate"
+    },
+    {
+      "text": "Apply for an occupation certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-occupation-certificate"
+    },
+    {
+      "text": "Apply for a construction certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-construction-certificate"
+    },
+    {
+      "text": "Pay the long service levy (building and construction)",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-the-long-service-levy-building-and-construction"
+    },
+    {
+      "text": "Manage plumbing and drainage inspections (MyInspections)",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-fees-and-make-applications-through-myinspections"
+    },
+    {
+      "text": "Appoint a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "text": "Find a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "text": "Replace a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc"
+    },
+    {
+      "text": "Lodge a home building complaint with the Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    },
+    {
+      "text": "Use the Home Building Compensation (HBC) Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    },
+    {
+      "text": "Loose-fill Asbestos Program",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-the-loose-fill-asbestos-program"
+    },
+    {
+      "text": "Check an asbestos or demolition licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-asbestos-or-demolition-licence"
+    },
+    {
+      "text": "Removing trees on your property",
+      "url": "https://www.service.nsw.gov.au/referral/removing-trees-on-your-property"
+    },
+    {
+      "text": "Register a pool on the NSW Swimming Pool Register",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-pool-on-the-nsw-swimming-pool-register"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do before I start building or renovating?",
+      "a": "You may need to obtain various permits and approvals, such as an Owner-Builder Permit or a development application.",
+      "link": "https://www.service.nsw.gov.au/services/owner-builder-permit"
+    },
+    {
+      "q": "How do I manage building inspections and certificates?",
+      "a": "You can apply for various certificates (like construction or occupation certificates) and manage plumbing and drainage inspections through MyInspections.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-construction-certificate"
+    },
+    {
+      "q": "What should I do if I have a home building complaint or claim?",
+      "a": "You can lodge a home building complaint with the Building Commission NSW or use the Home Building Compensation (HBC) Check if you need to make a claim.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    },
+    {
+      "q": "What are the rules for dealing with asbestos?",
+      "a": "The page provides information on asbestos for property owners and renovators, including programs for loose-fill asbestos and finding disposal sites.",
+      "link": "https://www.asbestos.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:29Z",
+    "last_modified": "5 August 2025",
+    "html_sha1": "a5337e538c1a7823d25cfcaf990e4f0c52a03047",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

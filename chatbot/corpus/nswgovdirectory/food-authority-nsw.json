@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/food-authority-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/food-authority-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "food-authority-nsw",
+  "title": "Food Authority, NSW",
+  "summary": "This page provides information about the Food Authority, NSW, which is responsible for food safety and food standards in New South Wales.",
+  "topics": [
+    "food-safety",
+    "food-standards",
+    "nsw-government",
+    "food-authority"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.foodauthority.nsw.gov.au/",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:16Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "eb8a136d74666a2cafab48cc1d6bc05c92fcd563",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

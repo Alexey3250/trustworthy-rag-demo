@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-conditional-vehicle-registration",
+  "title": "Cancel a conditional vehicle registration",
+  "summary": "Learn how to cancel your conditional vehicle registration at a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "cancel-registration",
+    "conditional-registration"
+  ],
+  "intro": "If you need to cancel your conditional vehicle registration, you can do this at a Service NSW Centre.\n\nYou'll receive a cancellation letter so you can apply for a refund for the unused portion of your compulsory third party (CTP) insurance.\n\nYou will not receive a refund for number plate or administration fees already paid to Transport for NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your business identification details (if applicable)",
+    "Your Certificate of Conditional Registration",
+    "Your number plate(s)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the 'Cancel Registration Advice' on the back of the vehicle's Certificate of Conditional Registration.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documents and your number plate(s).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre to cancel your conditional vehicle registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "All about conditional registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/apply-for-conditional-vehicle-registration"
+    },
+    {
+      "text": "Vehicle sheets for conditional registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/conditional-and-seasonal/vehicle-sheets"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Cancel a vehicle registration within NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will I receive a refund for all the fees I paid?",
+      "a": "You will receive a cancellation letter to apply for a refund for the unused portion of your compulsory third party (CTP) insurance. However, you will not receive a refund for number plate or administration fees already paid to Transport for NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:12Z",
+    "last_modified": "25 November 2025",
+    "html_sha1": "4b5441b1462bd54783554c1db3ad7111b9036cc1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

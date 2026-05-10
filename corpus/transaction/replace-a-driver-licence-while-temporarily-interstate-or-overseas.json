@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-driver-licence-while-temporarily-interstate-or-overseas",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-driver-licence-while-temporarily-interstate-or-overseas",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-driver-licence-while-temporarily-interstate-or-overseas",
+  "title": "Replace a driver licence while temporarily interstate or overseas",
+  "summary": "You can order a replacement NSW driver licence online if you are temporarily interstate or overseas and your card was lost, stolen, or destroyed. Otherwise, you must complete and post a photo-kit form.",
+  "topics": [
+    "driver-licence",
+    "interstate",
+    "overseas",
+    "replacement"
+  ],
+  "intro": "If you’re temporarily interstate or overseas and your NSW driver licence card has been lost, stolen or destroyed, you can order a replacement licence online.\n\nIf you're unable to replace online or need the licence to be sent outside NSW, you'll need to complete a photo-kit form and send it by post. It may take 6 to 8 weeks for the form to be processed and the replacement licence sent.",
+  "who_can_apply": [
+    "The licence must not be a temporary paper licence.",
+    "The licence must not be suspended or cancelled."
+  ],
+  "what_you_need": [
+    "Photo-kit for a NSW Licensee Temporarily Interstate, or Photo-kit for a NSW Licensee Temporarily Overseas.",
+    "A colour passport size photograph as detailed on the form.",
+    "Proof of identity as detailed on the form.",
+    "Your NSW residential address details.",
+    "Your driver/rider licence number.",
+    "The fee payment.",
+    "An appropriate witness as described on the form.",
+    "Photocopy of your concession card.",
+    "Accepted change of name document as listed on the form.",
+    "If your proof of identity documents are in an old name due to a name change, you must also provide a witnessed and certified change-of-name document."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070794-photo-kit-nsw-licensee-temp-interstate.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Ensure you have a witness to complete the form if:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach your supporting documents, and post your photo-kit application form with payment, to the address specified on the form.",
+      "link": null
+    }
+  ],
+  "fees": "### Pay by post\n\n### Pay at a service centre",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Photo-kit for a NSW licensee temporarily interstate – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070794-photo-kit-nsw-licensee-temp-interstate.pdf"
+    },
+    {
+      "text": "Photo-kit for a NSW licensee temporarily overseas – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070563-photo-kit-nsw-licensee-temp-overseas.pdf"
+    },
+    {
+      "text": "Renew or replace your licence from interstate or overseas",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/renewing-or-replacing-your-licence/interstate-or-overseas"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "order a replacement licence online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-nsw-driver-licence-online"
+    },
+    {
+      "text": "name change",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "payment methods page",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "online enquiry form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Renew a driver licence while temporarily interstate or overseas (using a photo-kit form)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-driver-licence-while-temporarily-interstate-or-overseas"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does it take to get a replacement licence?",
+      "a": "If you send a photo-kit form by post, it may take 6 to 8 weeks for the form to be processed and the replacement licence sent.",
+      "link": null
+    },
+    {
+      "q": "What if I cannot replace my licence online?",
+      "a": "If you are unable to replace online or need the licence sent outside NSW, you must complete a photo-kit form and send it by post.",
+      "link": null
+    },
+    {
+      "q": "Can I ask for a name change using a photo-kit form?",
+      "a": "No, you cannot ask for a name change using a photo-kit form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:59Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "ad967d0d5b6f657fe8660fd35af86837878d04ef",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

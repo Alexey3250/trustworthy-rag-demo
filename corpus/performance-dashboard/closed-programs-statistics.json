@@ -1,0 +1,33 @@
+{
+  "url": "https://www.service.nsw.gov.au/performance-dashboard/closed-programs-statistics",
+  "source_url": "https://www.service.nsw.gov.au/performance-dashboard/closed-programs-statistics",
+  "category": "performance-dashboard",
+  "article_kind": "landing-page",
+  "slug": "closed-programs-statistics",
+  "title": "Closed programs – statistics",
+  "summary": "This page provides statistics and data regarding closed programs offered by Service NSW.",
+  "topics": [
+    "statistics",
+    "programs",
+    "service-nsw",
+    "data"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:09Z",
+    "last_modified": "18 December 2025",
+    "html_sha1": "11348bb7c82d6e76aee3584327a3248d292c63b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

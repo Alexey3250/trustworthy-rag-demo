@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-combat-sports-registration",
+  "title": "Check a combat sports registration",
+  "summary": "You can check a combat sports registration or search for details using a registration number online.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "nsw-sport"
+  ],
+  "intro": "You can check a combat sports registration or search for your own registration number and details online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Any of the required information for the search."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Have any of these ready:",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter the information into the 'Search options' section.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Combatant Sports Authority of NSW website",
+      "url": "https://www.sport.nsw.gov.au/combatsports"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage classes on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "text": "Manage classes on an industry participant and promoter registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-industry-participant-and-promoter"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:43Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "93da7e820554de4368beb62afccb342835976bce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-private-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-private-mooring-licence",
+  "title": "Apply for a private mooring licence",
+  "summary": "This page provides information on how to apply for an annual private mooring licence to moor your vessel on navigable waters.",
+  "topics": [
+    "mooring-licence",
+    "vessel-licence",
+    "nsw-waterways",
+    "boating"
+  ],
+  "intro": "A private mooring licence is an annual licence that allows you to moor your vessel on navigable waters. It is not a lease of the seabed.\n\nYou can use the mooring map to search and apply for a mooring. If there are no moorings available in your preferred area, you can join a priority waiting list.\n\nNote: The general position of mooring sites is determined at the discretion of Transport for NSW and may involve approvals/permits from other agencies. Sites are subject to an ongoing range of assessments which can result in moorings being no longer available due to relocation or removal.",
+  "who_can_apply": [
+    "You must be the registered owner of the vessel to be attached to the mooring.",
+    "Your vessel's registration must be current."
+  ],
+  "what_you_need": [
+    "Your vessel's registration number",
+    "Credit card details for payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the mooring area required from the map.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for a mooring licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Assessment factors may include:",
+      "link": null
+    },
+    {
+      "text": "Private mooring licences are only issued to individuals. They’re not issued to a partnership, company, organisation or association.",
+      "link": null
+    },
+    {
+      "text": "The vessel must be at least 5.2 metres in length, unless otherwise approved by Transport for NSW.",
+      "link": null
+    },
+    {
+      "text": "Concessions (if applicable) are only available for vessels used solely for recreational purposes.",
+      "link": null
+    },
+    {
+      "text": "The mooring will only be granted ‘subject to approval’ and will be assessed on the proposed vessel size, type and condition.",
+      "link": null
+    },
+    {
+      "text": "Costs associated with the purchase, installation, servicing or removal of mooring apparatus are the responsibility of the licence holder.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "concession card",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges#toc-concession-eligibility"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Private mooring licence and rules – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/private-mooring-licence-and-rules"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is a private mooring licence?",
+      "a": "A private mooring licence is an annual licence that allows you to moor your vessel on navigable waters. It is not a lease of the seabed.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for a private mooring licence?",
+      "a": "You must be the registered owner of the vessel to be attached to the mooring, and your vessel's registration must be current.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a mooring licence?",
+      "a": "Select the 'Apply online' button, select the mooring area required from the map, and follow the prompts to apply for a mooring licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:11Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "65941245062b25e3be4590b43aa9564332e70681",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

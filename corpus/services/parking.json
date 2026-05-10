@@ -1,0 +1,129 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/parking",
+  "source_url": "https://www.service.nsw.gov.au/services/parking",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "parking",
+  "title": "Parking, speed limits and speed cameras",
+  "summary": "Find information and services related to parking, speed limits, and speed cameras in New South Wales.",
+  "topics": [
+    "parking",
+    "speed-limits",
+    "speed-cameras",
+    "fines",
+    "bike-parking"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Demerits (driver or rider licence demerit points)",
+      "link": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Mobility parking scheme",
+      "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme"
+    },
+    {
+      "text": "Claim concessional car parking at NSW Health public hospitals",
+      "url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals"
+    },
+    {
+      "text": "Report a problem with a parking sign",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-problem-with-a-parking-sign"
+    },
+    {
+      "text": "Park for free when you ride public transport",
+      "url": "https://www.service.nsw.gov.au/transaction/park-for-free-when-you-ride-public-transport"
+    },
+    {
+      "text": "Pay a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "text": "View images of an offence",
+      "url": "https://www.service.nsw.gov.au/transaction/view-images-of-an-offence"
+    },
+    {
+      "text": "Apply to go to court for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-go-to-court-for-a-fine"
+    },
+    {
+      "text": "Request a review for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-review-for-a-fine"
+    },
+    {
+      "text": "Nominate someone else for a fine",
+      "url": "https://www.service.nsw.gov.au/transaction/nominate-someone-else-for-a-fine"
+    },
+    {
+      "text": "Requesting a Work and Development Order",
+      "url": "https://www.service.nsw.gov.au/referral/requesting-a-work-and-development-order"
+    },
+    {
+      "text": "Apply to access a Transport for NSW bike shed",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-access-a-transport-for-nsw-bike-shed"
+    },
+    {
+      "text": "Apply to rent a Transport for NSW bike locker",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-rent-a-transport-for-nsw-bike-locker"
+    },
+    {
+      "text": "Use the Cycleway Finder map",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-cycleway-finder-map"
+    },
+    {
+      "text": "Check a speed camera location",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-speed-camera-location"
+    },
+    {
+      "text": "Suggest a speed camera location",
+      "url": "https://www.service.nsw.gov.au/referral/suggest-a-speed-camera-location"
+    },
+    {
+      "text": "Giving feedback on speed limits and speed signs in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/giving-feedback-on-speed-limits-and-speed-signs-in-nsw"
+    },
+    {
+      "text": "Demerits (driver or rider licence demerit points)",
+      "url": "https://www.service.nsw.gov.au/services/demerits-driver-or-rider-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I pay a parking fine?",
+      "a": "You can pay a fine using the dedicated service.",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-a-fine"
+    },
+    {
+      "q": "What can I do if I disagree with a parking fine?",
+      "a": "You can request a review for a fine, apply to go to court, or view images of the offence.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about bike parking?",
+      "a": "You can apply to access a Transport for NSW bike shed, rent a bike locker, or use the Cycleway Finder map.",
+      "link": null
+    },
+    {
+      "q": "How do I check speed camera locations or suggest new ones?",
+      "a": "You can check a speed camera location or suggest a speed camera location using the provided services.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:44Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "963013ce676d7391a10a980000d3c4b9d14e27de",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

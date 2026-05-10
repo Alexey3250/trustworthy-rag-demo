@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/crown-solicitors-office-cso",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/crown-solicitors-office-cso",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "crown-solicitors-office-cso",
+  "title": "Crown Solicitor's Office (CSO)",
+  "summary": "This page provides information about the Crown Solicitor's Office (CSO), which is a legal service for the NSW Government.",
+  "topics": [
+    "legal-advice",
+    "nsw-government",
+    "solicitors",
+    "crown-solicitors-office"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://cso.nsw.gov.au/",
+      "url": "https://cso.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:03Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "65f059d36937490252c2ecc9e3d59ac843ff7454",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

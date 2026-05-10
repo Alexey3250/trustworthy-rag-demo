@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-crown-lands",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-crown-lands",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-crown-lands",
+  "title": "Crown Lands",
+  "summary": "This page provides information about Crown Lands and directs users to various resources managed by the NSW government.",
+  "topics": [
+    "crown-lands",
+    "nsw-government",
+    "land-management",
+    "nsw-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.crownland.nsw.gov.au",
+      "url": "https://www.crownland.nsw.gov.au"
+    },
+    {
+      "text": "Who manages Crown land",
+      "url": "https://www.crownland.nsw.gov.au/reserve-manager"
+    },
+    {
+      "text": "Find a Crown Lands regional office",
+      "url": "https://www.crownland.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Crown land managers Reserve Manager Portal",
+      "url": "https://portal.crownland.nsw.gov.au/login.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/services/national-parks-annual-pass"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:33Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c30d2e2534e346d65041dac670137ba29f2f2357",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

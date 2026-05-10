@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries",
+  "source_url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "fundraising-and-trade-lotteries",
+  "title": "Fundraising and trade lotteries",
+  "summary": "This page provides information and links for managing charitable fundraising and trade lotteries in New South Wales.",
+  "topics": [
+    "charitable-fundraising",
+    "lotteries",
+    "trade-promotions",
+    "gaming"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Individuals or organizations conducting charitable fundraising.",
+    "Individuals or organizations planning trade promotion gaming activities.",
+    "Community groups or organizations involved in gaming and lotteries."
+  ],
+  "what_you_need": [
+    "Details regarding the charitable fundraising activity.",
+    "Proof of authority or license for fundraising.",
+    "Information about the trade promotion gaming activity."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Gaming and gambling",
+      "link": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    },
+    {
+      "text": "Apply for a liquor licence exemption for a non-profit organisation",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "record keeping and financial reporting responsibilities",
+      "url": "https://www.nsw.gov.au/money-and-taxes/charitable-fundraising/key-responsibilities-for-fundraisers"
+    },
+    {
+      "text": "Make a complaint or enquiry to NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/financial-entities/charitable-fundraising"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a charitable fundraising licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence"
+    },
+    {
+      "text": "Apply for a charitable fundraising authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-charitable-fundraising-authority"
+    },
+    {
+      "text": "Renew a charitable fundraising authority",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-charitable-fundraising-authority"
+    },
+    {
+      "text": "Change the details on a charitable fundraising authority",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-charitable-fundraising-authority"
+    },
+    {
+      "text": "Lodge an annual return for a charitable fundraising authority",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-annual-return-for-a-charitable-fundraising-authority"
+    },
+    {
+      "text": "Notify Fair Trading of a trade promotion gaming activity",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity"
+    },
+    {
+      "text": "Apply for a trade promotion gaming authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-trade-promotion-gaming-authority"
+    },
+    {
+      "text": "Check the register of authorised community gaming and trade promotions",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    },
+    {
+      "text": "Gaming and gambling",
+      "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    },
+    {
+      "text": "Apply for a liquor licence exemption for a non-profit organisation",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-liquor-licence-exemption-for-a-non-profit-organisation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check if a charitable fundraising licence is required?",
+      "a": "You can check a charitable fundraising licence using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-charitable-fundraising-licence"
+    },
+    {
+      "q": "What are the steps to apply for a charitable fundraising authority?",
+      "a": "You can apply for a charitable fundraising authority through the official service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-charitable-fundraising-authority"
+    },
+    {
+      "q": "How do I notify Fair Trading about a trade promotion gaming activity?",
+      "a": "You can notify Fair Trading of a trade promotion gaming activity using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-fair-trading-of-a-trade-promotion-gaming-activity"
+    },
+    {
+      "q": "Where can I check the register of authorised community gaming and trade promotions?",
+      "a": "The register of authorised community gaming and trade promotions can be checked via the service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:22Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "60a99bdcd0f48a9b5fdb192b48d3b6d3a89be42a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

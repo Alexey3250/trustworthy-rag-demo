@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-of-use",
+  "source_url": "https://www.service.nsw.gov.au/terms-of-use",
+  "category": "terms-of-use",
+  "article_kind": "content",
+  "slug": "terms-of-use",
+  "title": "Terms of use",
+  "summary": "This page outlines the rights and responsibilities of users accessing the Service NSW website and mobile app.",
+  "topics": [
+    "terms-of-use",
+    "website-access",
+    "user-responsibilities",
+    "service-nsw"
+  ],
+  "intro": "These terms of use describe your rights and responsibilities as a user of the service.nsw.gov.au website (Website). By downloading and accessing a Service NSW Mobile App and/or accessing this Website, you agree to be bound by these terms of use. This Website is operated by the State of New South Wales acting through Service NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "MyServiceNSW Account terms and conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions"
+    },
+    {
+      "text": "Website and analytics privacy collection notice",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW Mobile App",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "accessing this Website",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/website-and-analytics"
+    },
+    {
+      "text": "Copyright and Disclaimer",
+      "url": "https://www.service.nsw.gov.au/copyright-and-disclaimer"
+    },
+    {
+      "text": "MyServiceNSW Account terms and conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/myservicensw-account"
+    },
+    {
+      "text": "Terms and conditions for products and services",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:18Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "5b900ee954f7cd7e5a3f5d9a1f2e8847dbe57391",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

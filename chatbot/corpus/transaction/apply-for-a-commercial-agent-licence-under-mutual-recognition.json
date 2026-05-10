@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-under-mutual-recognition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-under-mutual-recognition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-commercial-agent-licence-under-mutual-recognition",
+  "title": "Apply for a commercial agent licence under mutual recognition",
+  "summary": "You can apply for an equivalent commercial agent licence in NSW if you currently hold a licence from another eligible Australian state or territory.",
+  "topics": [
+    "commercial-agent-licence",
+    "mutual-recognition",
+    "nsw-licence",
+    "field-agent"
+  ],
+  "intro": "If you hold a current commercial agent licence issued in another eligible Australian state or territory, you can apply for the equivalent in NSW under mutual recognition.\n\nCommercial agents who have face-to-face contact with customers are known as field agents and must hold a licence to:\n\nNote: If you're only wanting to work in NSW on a temporary basis and your commercial agent licence is from another state or territory (excluding Queensland) you'll need to apply for Automatic Mutual Recognition (AMR).",
+  "who_can_apply": [
+    "Hold a current commercial agent licence issued in another eligible Australian state or territory."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Registration of Equivalent Occupation'",
+    "Your current interstate commercial agent licence",
+    "Two proof of identity documents (one must include your photo, and both must be the original)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Download PDF form’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and take the required documents to a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licensing-fees"
+    },
+    {
+      "text": "Register equivalent occupation: Commercial agents mutual recognition – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59838.pdf"
+    },
+    {
+      "text": "Commercial agent licensing and field agent rules in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Automatic Mutual Recognition (AMR)",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "proof of identity documents",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required if I only want to work in NSW temporarily?",
+      "a": "If you are only working in NSW temporarily and your licence is from another state or territory (excluding Queensland), you must apply for Automatic Mutual Recognition (AMR).",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "q": "Who must hold a licence if they have face-to-face contact with customers?",
+      "a": "Commercial agents who have face-to-face contact with customers are known as field agents and must hold a licence.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my application for mutual recognition?",
+      "a": "Complete the form and take the required documents to a Service NSW Centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:55Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "194286274670360be761a8114bda1b7bd098bb06",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

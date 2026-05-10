@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/biosecurity-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/biosecurity-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "biosecurity-nsw",
+  "title": "Biosecurity NSW",
+  "summary": "This page provides information about biosecurity in NSW, including how to report concerns and understanding your role in protecting the environment.",
+  "topics": [
+    "biosecurity",
+    "nsw",
+    "pest-control",
+    "disease-reporting",
+    "environment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au/dpi/biosecurity",
+      "url": "https://www.dpi.nsw.gov.au/dpi/biosecurity"
+    },
+    {
+      "text": "reporting a pest, weed, disease or other biosecurity concern",
+      "url": "https://www.dpi.nsw.gov.au/dpi/biosecurity/report-a-pest-or-disease"
+    },
+    {
+      "text": "current biosecurity emergencies",
+      "url": "https://www.dpi.nsw.gov.au/emergencies/biosecurity"
+    },
+    {
+      "text": "your role in being biosecure and spotting the risks",
+      "url": "https://www.dpi.nsw.gov.au/dpi/biosecurity/your-role-in-biosecurity"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Food Authority, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/food-authority-nsw"
+    },
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Animal harvesting and management",
+      "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:14Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5f044a14bac548b560efa9ad6281254f176b995b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

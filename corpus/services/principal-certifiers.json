@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/principal-certifiers",
+  "source_url": "https://www.service.nsw.gov.au/services/principal-certifiers",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "principal-certifiers",
+  "title": "Principal certifiers (PC)",
+  "summary": "This page provides information about Principal Certifiers (PC) and the processes for appointing, finding, or replacing one.",
+  "topics": [
+    "principal-certifier",
+    "building-compliance",
+    "building-codes",
+    "construction"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Appoint a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "text": "Find a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "text": "Replace a principal certifier (PC)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I appoint a Principal Certifier (PC)?",
+      "a": "You can appoint a Principal Certifier (PC) using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "q": "How do I find a Principal Certifier (PC)?",
+      "a": "You can find a Principal Certifier (PC) using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "q": "How do I replace a Principal Certifier (PC)?",
+      "a": "You can replace a Principal Certifier (PC) using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:13Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "44bdc6475d9f2b2eec19aa9127513d089d4e0796",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-fix-incorrect-details",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-fix-incorrect-details",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "how-to-fix-incorrect-details",
+  "title": "How to fix incorrect details in your MyServiceNSW Account",
+  "summary": "This page provides instructions on how to fix incorrect details within your MyServiceNSW Account.",
+  "topics": [
+    "my-service-nsw-account",
+    "update-details",
+    "personal-information",
+    "manage-account"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You may be sharing your account with someone else, such as a family member, or have shared your account in the past.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "To find out how to stop sharing a MyServiceNSW Account with someone else, see Help with multiple MyServiceNSW Accounts.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Help with multiple MyServiceNSW Accounts",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "Manage your details",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "link": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Log in",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "'Personal details'",
+      "url": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "text": "Remove services'",
+      "url": "https://account.service.nsw.gov.au/manage/remove"
+    },
+    {
+      "text": "'Add services'",
+      "url": "https://account.service.nsw.gov.au/services/add"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Help with multiple MyServiceNSW Accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Manage your details",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/manage-your-details"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why might my details in MyServiceNSW Account be incorrect?",
+      "a": "Details may be incorrect if you have changed your personal information but not updated it in your account, if you previously added someone else's details, or if you are sharing your account.",
+      "link": null
+    },
+    {
+      "q": "How do I update my personal details?",
+      "a": "Log in to your MyServiceNSW Account, go to 'Personal details', select the details you want to update, and save your changes.",
+      "link": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "q": "How can I refresh my licence details?",
+      "a": "Open your Digital Driver Licence in the Service NSW app, select the menu button, choose 'Refresh licence details', and then press the 'Refresh licence details' button.",
+      "link": null
+    },
+    {
+      "q": "How do I remove or add services to my account?",
+      "a": "Log in to your MyServiceNSW Account, go to 'Remove services' to remove services, and then go to 'Add services' to select and add services using your own details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:05Z",
+    "last_modified": "29 May 2025",
+    "html_sha1": "4832f8beeac109d260b8bab85bd8fcf5420a90aa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

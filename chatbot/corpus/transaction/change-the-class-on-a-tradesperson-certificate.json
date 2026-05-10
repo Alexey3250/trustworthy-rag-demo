@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-a-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-class-on-a-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-class-on-a-tradesperson-certificate",
+  "title": "Change the class on a tradesperson certificate",
+  "summary": "Learn how to add or change a class on your tradesperson certificate if you gain further qualifications.",
+  "topics": [
+    "tradesperson-certificate",
+    "plumbers",
+    "gasfitters",
+    "change-class"
+  ],
+  "intro": "A tradesperson certificate allows drainers, gasfitters, plumbers, roof plumbers and water plumbers to work with minimum supervision.\n\nIf you gain further qualifications that allow you to work in additional classes, you can add or change a class on your tradesperson certificate.\n\nYou can do this at a service centre.",
+  "who_can_apply": [
+    "Must have gained further qualifications that allow you to work in additional classes."
+  ],
+  "what_you_need": [
+    "The completed PDF forms.",
+    "Proof of identity.",
+    "One passport size photograph.",
+    "Documentation that validates the change of class.",
+    "Your referee's statement (if applicable).",
+    "Certificate of eligibility to obtain insurance (if applicable).",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather the required supporting documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and provide the information together with your payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You need a medical gas licence to do any medical gas work in NSW, regardless of the work cost or whether it's residential, commercial or industrial.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Application Form - Individual – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747.pdf"
+    },
+    {
+      "text": "General Building Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747a.pdf"
+    },
+    {
+      "text": "Specialist Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4371b.pdf"
+    },
+    {
+      "text": "Other Building Work and Trade Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ad4747b.pdf"
+    },
+    {
+      "text": "medical gas licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/medical-gas-and-mechanical-services-work"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a tradesperson certificate?",
+      "a": "A tradesperson certificate allows drainers, gasfitters, plumbers, roof plumbers and water plumbers to work with minimum supervision.",
+      "link": null
+    },
+    {
+      "q": "How can I change or add a class to my tradesperson certificate?",
+      "a": "You can add or change a class on your tradesperson certificate if you gain further qualifications that allow you to work in additional classes. You must do this at a service centre.",
+      "link": null
+    },
+    {
+      "q": "Where can I complete the process?",
+      "a": "You must visit a service centre to provide the required information and payment.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:54Z",
+    "last_modified": "16 June 2025",
+    "html_sha1": "65c46f78071e48f7016ac7ce2c4a7583cc8f566b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

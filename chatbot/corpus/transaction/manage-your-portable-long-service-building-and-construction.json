@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/manage-your-portable-long-service-building-and-construction",
+  "source_url": "https://www.service.nsw.gov.au/transaction/manage-your-portable-long-service-building-and-construction",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "manage-your-portable-long-service-building-and-construction",
+  "title": "Manage your portable long service (building and construction)",
+  "summary": "This page explains how the Long Service Corporation (LSC) administers a portable long service scheme for building and construction workers in NSW, and how you can manage your service record online.",
+  "topics": [
+    "long-service-scheme",
+    "building-and-construction",
+    "nsw-workers",
+    "service-record"
+  ],
+  "intro": "The Long Service Corporation (LSC) administers a portable long service scheme for building and construction workers in NSW. The scheme allows eligible workers to get paid for long service even though they may have worked for different employers or as contractors.\n\nIf you’re an employee, you should be registered in the long service scheme by your employer. If you’re a contractor, you can register yourself in the scheme.\n\nAfter your registration is approved, you'll be sent a registration number, which you must give to your employer when you start a new job. Your employer is responsible for updating your service record.\n\nIf you're a contractor, a registered tax agent will need to lodge a certificate of service each financial year for you.\n\nThe LSC portal lets you manage your portable long service online. You can:",
+  "who_can_apply": [
+    "Must work in the building and construction industry in NSW",
+    "Must work in the private sector",
+    "Must be an employee under one of the set awards",
+    "Must work as a contractor with a sole trader/partnership ABN"
+  ],
+  "what_you_need": [
+    "If you are an employee, your employer must register you in the long service scheme.",
+    "If you are a contractor, you must be able to register yourself in the scheme.",
+    "After registration, you must give your registration number to your employer when starting a new job.",
+    "If you are a contractor, a registered tax agent must lodge a certificate of service each financial year."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to the portal, or register as a new worker.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once you have 10 years of recorded service in the industry, you’re entitled to a long service payment equivalent to 2 months’ (8.67 weeks) pay. For more information about the scheme and benefits, visit the LSC website.",
+      "link": "https://www.longservice.nsw.gov.au/bci/workers"
+    },
+    {
+      "text": "To make a claim, you’ll need to log in with a MyServiceNSW Account:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "LSC website",
+      "url": "https://www.longservice.nsw.gov.au/bci/workers/your-long-service/joining-the-scheme"
+    },
+    {
+      "text": "LSC website",
+      "url": "https://www.longservice.nsw.gov.au/bci/workers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who administers the portable long service scheme for building and construction workers in NSW?",
+      "a": "The Long Service Corporation (LSC) administers the scheme.",
+      "link": null
+    },
+    {
+      "q": "How do I manage my portable long service online?",
+      "a": "You can manage your portable long service online using the LSC portal.",
+      "link": null
+    },
+    {
+      "q": "What must I do if I am a contractor?",
+      "a": "If you are a contractor, a registered tax agent must lodge a certificate of service each financial year for you.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:48Z",
+    "last_modified": "30 April 2025",
+    "html_sha1": "9dba670044cefca05ab01efcd3ff0c84eb6e76b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/cancelling-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/services/cancelling-vehicle-registration",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "cancelling-vehicle-registration",
+  "title": "Cancel a vehicle registration",
+  "summary": "Find out how to cancel a vehicle registration in New South Wales, depending on your specific situation.",
+  "topics": [
+    "vehicle-registration",
+    "cancel-registration",
+    "nsw-vehicle"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The ability to cancel a vehicle registration depends on the specific circumstances, such as whether the vehicle is written off, if the cancellation is within NSW, or if it is from interstate."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Vehicle registrations",
+      "link": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Change the business name or usage on a vehicle registration",
+      "link": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration"
+    },
+    {
+      "text": "ACT driver licences and vehicle registrations",
+      "link": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "Change or cancel a heavy vehicle inspection booking",
+      "link": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking"
+    },
+    {
+      "text": "Cancel a number plate order",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Cancel a vehicle registration within NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw"
+    },
+    {
+      "text": "Cancel the registration on a written-off vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    },
+    {
+      "text": "Cancel a vehicle registration from interstate",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate"
+    },
+    {
+      "text": "Cancel a conditional vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-conditional-vehicle-registration"
+    },
+    {
+      "text": "Vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/services/vehicle-registrations"
+    },
+    {
+      "text": "Change the business name or usage on a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-business-name-or-usage-on-a-vehicle-registration"
+    },
+    {
+      "text": "ACT driver licences and vehicle registrations",
+      "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations"
+    },
+    {
+      "text": "Change or cancel a heavy vehicle inspection booking",
+      "url": "https://www.service.nsw.gov.au/transaction/change-or-cancel-a-heavy-vehicle-inspection-booking"
+    },
+    {
+      "text": "Cancel a number plate order",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-number-plate-order"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I cancel a vehicle registration within NSW?",
+      "a": "You can cancel a vehicle registration within NSW by following the steps provided for that specific situation.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw"
+    },
+    {
+      "q": "What if my vehicle has been written off?",
+      "a": "If your vehicle has been written off, you must cancel the registration using the dedicated process for written-off vehicles.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-the-registration-on-a-written-off-vehicle"
+    },
+    {
+      "q": "Can I cancel a registration if I moved from another state?",
+      "a": "If you are cancelling a vehicle registration from interstate, there are specific steps you need to follow.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:46Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "9fec9714428884591fc71ec4aad55ded949ca706",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-of-early-pregnancy-loss",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-recognition-of-early-pregnancy-loss",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-recognition-of-early-pregnancy-loss",
+  "title": "Apply for Recognition of Early Pregnancy Loss",
+  "summary": "Learn how to apply for a Recognition of Early Pregnancy Loss certificate to memorialise a loss that occurred before 20 weeks.",
+  "topics": [
+    "early-pregnancy-loss",
+    "memorialisation",
+    "certificate",
+    "nsw"
+  ],
+  "intro": "You can commemorate an early pregnancy loss with a Recognition of Early Pregnancy Loss certificate.\n\nThis is not a legal document, but can be used to memorialise a loss that occurred before 20 weeks, or if weeks are unknown, a baby that weighed less than 400 grams.",
+  "who_can_apply": [
+    "The loss must have occurred in NSW.",
+    "The loss must have occurred before 20 weeks, or if the weeks are unknown, the baby must have weighed less than 400 grams."
+  ],
+  "what_you_need": [
+    "Your personal and contact details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you meet the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download, print and complete the application form – Recognition of early pregnancy loss – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-for-recognition-of-early-pregnancy-loss.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Send your completed application to the contact details listed on the form or lodge your application at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The Recognition of Early Pregnancy Loss application and certificate is free.",
+      "link": null
+    },
+    {
+      "text": "There is no time limit on when you can apply after your loss.",
+      "link": null
+    },
+    {
+      "text": "Processing times commence when applications are received in full compliance with Registry requirements, and exclude delivery time.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Recognition of early pregnancy loss – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/apply-for-recognition-of-early-pregnancy-loss.pdf"
+    },
+    {
+      "text": "Miscarriage, stillbirth and loss of a newborn – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/miscarriage-stillbirth-and-loss-of-a-newborn"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Mental wellbeing resources",
+      "url": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Recognition of Early Pregnancy Loss certificate a legal document?",
+      "a": "No, it is not a legal document, but it can be used to memorialise a loss.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for this certificate?",
+      "a": "You must have experienced a loss in NSW that occurred before 20 weeks, or if the weeks are unknown, the baby weighed less than 400 grams.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the Recognition of Early Pregnancy Loss certificate?",
+      "a": "Check eligibility, download and complete the application form, and then send it or lodge it at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:59Z",
+    "last_modified": "6 August 2025",
+    "html_sha1": "0c992cd831598bda93e8f9778a2f00a642214210",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

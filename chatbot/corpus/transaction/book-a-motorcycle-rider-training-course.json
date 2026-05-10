@@ -1,0 +1,138 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-motorcycle-rider-training-course",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-motorcycle-rider-training-course",
+  "title": "Book a motorcycle rider training course",
+  "summary": "Find information and book a training course to obtain a learner or provisional motorcycle rider licence.",
+  "topics": [
+    "motorcycle-licence",
+    "rider-training",
+    "learner-licence",
+    "provisional-licence"
+  ],
+  "intro": "To obtain either a learner or provisional motorcycle rider licence, you need to attend and pass the training course relevant to your licence.\n\nPre-learner and pre-provisional rider training is available at approved rider training centres for applicants living in a serviced area.\n\nThere is now a trike-only training and testing pathway for customers to get a licence to ride a trike. For further information, visit Riding a trike on NSW Roads.\n\nNote: Visit a service centre if a rider training centre is unavailable in your local area.",
+  "who_can_apply": [
+    "Must be 16 years and 6 months old to attend a pre-learner course.",
+    "Must be at least 16 years and 9 months old to get a learner rider licence.",
+    "Must have held a learner rider licence for at least 3 months.",
+    "Must book the course within 6 weeks before the end of the 3-month qualifying period.",
+    "Must complete the course before the expiry of the learner rider licence."
+  ],
+  "what_you_need": [
+    "Your driver licence, Photo Card, or Transport for NSW customer number.",
+    "Payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Find a rider training provider' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Choose your rider training provider.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit their website and book your course.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Make sure you've booked your pre-provisional training at least 4 to 6 weeks before your learner licence expires. This will give you enough time to reschedule another test if you fail, or have to delay, the first one.",
+      "link": null
+    },
+    {
+      "text": "If you do not pass the provisional training before your licence expires, you'll have to start the entire program again – this includes paying the fees again.",
+      "link": null
+    },
+    {
+      "text": "You cannot get an extension or renewal of a learner rider licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "rider training centres",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres/find-a-rider-training-centre"
+    },
+    {
+      "text": "serviced area",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/training-centres"
+    },
+    {
+      "text": "Riding a trike on NSW Roads",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/trikes"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Motorcycle riders' handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-10/48024416-motorcycle-riders-handbook-10-25.pdf"
+    },
+    {
+      "text": "Learner rider licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/learner-rider-licence"
+    },
+    {
+      "text": "Rider provisional P1 licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/rider-provisional-p1-licence"
+    },
+    {
+      "text": "The riding test – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/rider-licences/rider-tests/riding-test"
+    },
+    {
+      "text": "Prohibited vehicles – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles/rules-for-unregistered-vehicles/prohibited-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start the process of getting a motorcycle licence?",
+      "a": "To get a learner or provisional motorcycle rider licence, you must attend and pass the relevant training course.",
+      "link": null
+    },
+    {
+      "q": "What is the minimum age to start training for a learner licence?",
+      "a": "You can attend a pre-learner course when you are 16 years and 6 months old. To get your learner rider licence, you must be at least 16 years and 9 months old.",
+      "link": null
+    },
+    {
+      "q": "Do I need to visit a service centre?",
+      "a": "Visit a service centre if a rider training centre is unavailable in your local area.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:45Z",
+    "last_modified": "2 February 2026",
+    "html_sha1": "511aa0b0f5b020f028128a8c6055f196c7ecb57d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

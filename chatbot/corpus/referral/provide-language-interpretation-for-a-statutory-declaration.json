@@ -1,0 +1,101 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/provide-language-interpretation-for-a-statutory-declaration",
+  "source_url": "https://www.service.nsw.gov.au/referral/provide-language-interpretation-for-a-statutory-declaration",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "provide-language-interpretation-for-a-statutory-declaration",
+  "title": "Provide language interpretation for a statutory declaration",
+  "summary": "If you provide language interpretation for a statutory declaration, you must complete an additional statutory declaration to confirm your role.",
+  "topics": [
+    "statutory-declaration",
+    "language-interpretation",
+    "accredited-interpreter"
+  ],
+  "intro": "If you provide language interpretation to a person making a statutory declaration you need to complete an additional statutory declaration. This will confirm:\n\nIf you're an accredited interpreter, you should also declare:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Complete an additional statutory declaration to confirm your role as an interpreter."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Prepare a NSW statutory declaration (stat dec)",
+      "link": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    },
+    {
+      "text": "Book an interpreter for spoken language",
+      "link": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Apply for document translation services",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Support and guidance for new arrivals",
+      "link": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW statutory declaration by an accredited interpreter – PDF",
+      "url": "https://dcj.nsw.gov.au/documents/legal-and-justice/justice-of-the-peace/nsw-statutory-declaration-forms/nsw-stat-dec-accredited-interpreter.pdf"
+    },
+    {
+      "text": "NSW statutory declaration by an accredited interpreter – DOC",
+      "url": "https://dcj.nsw.gov.au/documents/legal-and-justice/justice-of-the-peace/nsw-statutory-declaration-forms/nsw-stat-dec-accredited-interpreter.doc"
+    },
+    {
+      "text": "NSW statutory declaration by an interpreter (not accredited) – PDF",
+      "url": "https://dcj.nsw.gov.au/documents/legal-and-justice/justice-of-the-peace/nsw-statutory-declaration-forms/nsw-stat-dec-other-interpreter.pdf"
+    },
+    {
+      "text": "NSW statutory declaration by an interpreter (not accredited) – DOC",
+      "url": "https://dcj.nsw.gov.au/documents/legal-and-justice/justice-of-the-peace/nsw-statutory-declaration-forms/nsw-stat-dec-other-interpreter.doc"
+    },
+    {
+      "text": "go to the JP Public Register",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/justice-of-the-peace/finding-a-jp.html"
+    },
+    {
+      "text": "visit a Justice of the Peace community desk – NSW Justices Association",
+      "url": "https://nswja.org.au/community-desks/"
+    },
+    {
+      "text": "LawAccess NSW website",
+      "url": "https://www.legalaid.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Prepare a NSW statutory declaration (stat dec)",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    },
+    {
+      "text": "Book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "Apply for document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Support and guidance for new arrivals",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:15Z",
+    "last_modified": "5 August 2025",
+    "html_sha1": "316483858f23a74889f53febc2fadc4ba24922fa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-a-vehicles-emissions-star-rating-vesr",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-a-vehicles-emissions-star-rating-vesr",
+  "title": "Check a vehicle's emissions star rating (VESR)",
+  "summary": "Use the Vehicle Emissions Star Rating (VESR) tool to compare the tailpipe greenhouse gas emissions of cars, utes, and vans.",
+  "topics": [
+    "emissions-rating",
+    "vehicle-emissions",
+    "fuel-efficiency",
+    "car-buying"
+  ],
+  "intro": "The Vehicle Emissions Star Ratings (VESR) is an initiative of the NSW Government developed in consultation with the Australian Government and is endorsed by all state and territory governments.\n\nThe tool's 6-star rating enables you to compare the tailpipe greenhouse gas emissions of cars, utes and vans you may be interested in – the more stars, the lower the vehicle's carbon dioxide (CO2) emissions.\n\nThe tool is customisable, and allows you to enter the current price you pay for fuel or electricity and the distance you travel annually, so you can consider actual costs to you, rather than just an average figure.\n\nThe VESR website also provides information on how to minimise running costs, the difference between electric, hybrid and internal combustion engines, and how driving style and maintenance can help reduce emissions.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "You can contact the VESR Program and the NSW Department of Climate Change, Energy, the Environment and Water for more information.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "VESR website tool",
+      "url": "https://www.vesr.gov.au/"
+    },
+    {
+      "text": "he VESR Program",
+      "url": "https://www.vesr.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:06Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "f60db916e69ac10e5852b788d52d11d09a340fe5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

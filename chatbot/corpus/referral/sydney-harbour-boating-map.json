@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/sydney-harbour-boating-map",
+  "source_url": "https://www.service.nsw.gov.au/referral/sydney-harbour-boating-map",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "sydney-harbour-boating-map",
+  "title": "Find Sydney Harbour boating destinations",
+  "summary": "Use the interactive map to find boating destinations and facilities around Sydney Harbour.",
+  "topics": [
+    "sydney-harbour",
+    "boating",
+    "marina",
+    "destinations",
+    "map"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "The map is interactive. Select an icon on the map to view the location and facilities at that location.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You can also use the Destination Search drop-down to select a marina.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Go to the Sydney Harbour Boating Destinations Map",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Go to the Sydney Harbour Boating Destinations Map",
+      "url": "https://appln.transport.nsw.gov.au/mapservices/proxy/boating-destinations/map.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How do I find a boating destination on the map?",
+      "a": "You can select an icon on the interactive map to view the location and facilities, or use the Destination Search drop-down to select a marina.",
+      "link": null
+    },
+    {
+      "q": "What facilities are available at the boating destinations?",
+      "a": "The map shows details on facilities such as dinghy storage, food services, fuel, power, public toilets, pump out area, marine services, and recreational area.",
+      "link": null
+    },
+    {
+      "q": "What should I do before I set out boating?",
+      "a": "Before setting out, you should contact the marina to confirm berth availability, check the house rules, and know what to do when you arrive at your destination.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:32Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "9757ccdbfba8738c60aab04eab0785fa17779514",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/tuncurry-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/tuncurry-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "tuncurry-service-centre",
+  "title": "Tuncurry Service Centre",
+  "summary": "This page provides information about the Tuncurry Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "nsw-services",
+    "local-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-32.174236,152.499263"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Taree Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/taree-service-centre"
+    },
+    {
+      "text": "Gloucester Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/gloucester-agency"
+    },
+    {
+      "text": "Nelson Bay Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/nelson-bay-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:38Z",
+    "last_modified": null,
+    "html_sha1": "9af9a4bee442b72119242d9f6c47311f56887504",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

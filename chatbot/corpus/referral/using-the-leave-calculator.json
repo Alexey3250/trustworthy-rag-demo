@@ -1,0 +1,45 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator",
+  "source_url": "https://www.service.nsw.gov.au/referral/using-the-leave-calculator",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "using-the-leave-calculator",
+  "title": "Using the leave calculator",
+  "summary": "Use the online leave calculator to determine how much leave you are entitled to based on your award or the National Employment Standards (NES).",
+  "topics": [
+    "leave-calculator",
+    "employment-leave",
+    "fair-work-ombudsman"
+  ],
+  "intro": "The online leave calculator helps you work out how much leave you should get. The leave is calculated using your award or the National Employment Standards (NES).\n\nThe calculator works out your:\n\nThe leave calculator uses the Fair Work Ombudsman's best practice method of calculating leave. Both employees and employers can use this tool.\n\nNote: If you work under a registered agreement do not use this calculator.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "leave calculator",
+      "url": "https://calculate.fairwork.gov.au/Leave"
+    },
+    {
+      "text": "registered agreement",
+      "url": "https://www.fairwork.gov.au/taxonomy/term/407"
+    },
+    {
+      "text": "Fair Work Ombudsman",
+      "url": "https://www.fairwork.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:13Z",
+    "last_modified": "27 November 2024",
+    "html_sha1": "63c0a31d3d7c5dc8bec460443c040b6c94760117",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

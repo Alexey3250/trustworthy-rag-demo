@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/small-bar-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/small-bar-liquor-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "small-bar-liquor-licence",
+  "title": "Small bar licence",
+  "summary": "Find out about and apply for a small bar liquor licence in New South Wales.",
+  "topics": [
+    "liquor-licence",
+    "small-bar",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a small bar liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-small-bar-liquor-licence"
+    },
+    {
+      "text": "Check a small bar liquor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a small bar liquor licence?",
+      "a": "A small bar liquor licence allows you to sell liquor in a small bar setting.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a small bar liquor licence?",
+      "a": "You can apply for a small bar liquor licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-small-bar-liquor-licence"
+    },
+    {
+      "q": "How can I check the status of a liquor licence?",
+      "a": "You can check a liquor licence using the online checking tool.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:09Z",
+    "last_modified": "1 August 2025",
+    "html_sha1": "d5b099858f8ca190e909ce56661078c8d0fe1fc9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

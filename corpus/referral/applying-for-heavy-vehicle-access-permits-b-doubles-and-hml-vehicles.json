@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/applying-for-heavy-vehicle-access-permits-b-doubles-and-hml-vehicles",
+  "source_url": "https://www.service.nsw.gov.au/referral/applying-for-heavy-vehicle-access-permits-b-doubles-and-hml-vehicles",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "applying-for-heavy-vehicle-access-permits-b-doubles-and-hml-vehicles",
+  "title": "Applying for heavy vehicle access permits (B-doubles and HML vehicles)",
+  "summary": "This page provides information on applying for heavy vehicle access permits for B-doubles and HML vehicles through the National Heavy Vehicle Regulator (NHVR).",
+  "topics": [
+    "heavy-vehicle",
+    "access-permit",
+    "nhvr",
+    "b-double",
+    "hml"
+  ],
+  "intro": "Heavy vehicle access permits can be applied for through the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.\n\nIf you're needing to operate a:\n\nNote: If you're operating a Performance-Based Standards vehicle at HML, you'll need to apply for a Performance-Based Standards (PBS) access permit.\n\nThe NHVR permit applies to travel throughout Australia, with the exception of Western Australia and the Northern Territory, where you'll need to apply directly to the relevant state or territory road transport authority.",
+  "who_can_apply": [
+    "Operating a B-double vehicle",
+    "Operating an HML vehicle",
+    "Operating a Performance-Based Standards (PBS) vehicle at HML"
+  ],
+  "what_you_need": [
+    "Apply through the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+    "For PBS vehicles at HML, apply for a Performance-Based Standards (PBS) access permit."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "B-double permit",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/b-double-permit"
+    },
+    {
+      "text": "Higher Mass Limits permit",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/higher-mass-limits-permit"
+    },
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Performance-Based Standards (PBS) access permit",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit"
+    },
+    {
+      "text": "Renewing heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I apply for a heavy vehicle access permit?",
+      "a": "You can apply for heavy vehicle access permits through the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "q": "Does the NHVR permit cover all areas?",
+      "a": "The NHVR permit applies to travel throughout Australia, but you must apply directly to the relevant state or territory road transport authority if you are operating in Western Australia or the Northern Territory.",
+      "link": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "q": "What if I am operating a Performance-Based Standards (PBS) vehicle at HML?",
+      "a": "If you are operating a Performance-Based Standards vehicle at HML, you must apply for a Performance-Based Standards (PBS) access permit.",
+      "link": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:29Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "c6c16c42ffcbc55f00662bbae85d9a52d3b2da66",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-vessels-details",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-vessels-details",
+  "title": "Change a vessel's details",
+  "summary": "You must inform Transport for NSW of changes made to your vessel's details (excluding the HIN).",
+  "topics": [
+    "vessel-details",
+    "maritime-licences",
+    "transport-for-nsw",
+    "vessel-registration"
+  ],
+  "intro": "If you've changed details on your vessel (not HIN), you need to inform Transport for NSW of the changes.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your personal details",
+    "Your proof of identity",
+    "One of the following PDF forms:",
+    "The relevant supporting documents (if required)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete either:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Lodge your application:",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "in person at a service centre, or",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 5,
+      "text": "to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Adjustment of Records – Maritime Customers Only – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "text": "Change of Records – Transport for NSW Products – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change the HIN certificate details for a vessel",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-hin-certificate-details-for-a-vessel"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    },
+    {
+      "text": "Check a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:48Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "4df0d9ba728150de70fcaed95a45cee941754d05",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

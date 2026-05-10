@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "transfer-ownership-of-a-commercial-mooring-licence",
+  "title": "Transfer ownership of a commercial mooring licence",
+  "summary": "This page provides information and steps for transferring ownership of a commercial mooring licence.",
+  "topics": [
+    "commercial-mooring-licence",
+    "transfer-ownership",
+    "business-licence"
+  ],
+  "intro": "If you've bought a business that has a commercial mooring licence, and you want to transfer the licence to your name, you'll need to submit an application.\n\nCommercial mooring licence transfer applications are subject to approval by Transport for NSW (TfNSW), and additional approvals/permits from other agencies may also be required.\n\nMooring sites are continually assessed against factors including:\n\nNote: In some instances the transfer of a mooring licence may not be permitted to proceed based on ongoing assessments or other approval/permit requirements.",
+  "who_can_apply": [
+    "The business provides approved marine type services to the boating public.",
+    "The mooring site can only be accessed by water.",
+    "The buyer of a business that holds a commercial mooring licence."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for Initial or Transfer of a Commercial Mooring Licence'.",
+    "The organisation's details, including contact numbers and a business address (PO box is not acceptable).",
+    "Written authorisation of the nominated representative on business letterhead.",
+    "The nominated representative's personal and contact details, including a residential address (PO box is not acceptable).",
+    "Proof of identity for both the business entity and the nominated representative.",
+    "The Relinquishment of Commercial Mooring section of the form, signed by the previous licence holder.",
+    "A detailed description of the proposed usage of the mooring site and associated shore-based facilities, on business letterhead, along with supporting documentation.",
+    "An authorised signatory as specified on the form (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application in person at a Service NSW Centre, or by post or email using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once your application has been assessed, TfNSW will let you know the outcome.",
+      "link": null
+    },
+    {
+      "text": "Licence fees are payable when the licence is issued.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Any costs associated with the purchase, installation and servicing of mooring apparatus are your responsibility.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Licence fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/using-waterways-boating-and-transport-information/mooring-type-licence-and-fees/mooring-fees-and-charges"
+    },
+    {
+      "text": "Application for Initial or Transfer of a Commercial Mooring Licence – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-07/Application-for-initial-or-transfer-commercial-mooring-licence.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-mooring-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to apply to transfer a commercial mooring licence?",
+      "a": "You must submit an application if you have bought a business that holds a commercial mooring licence and wish to transfer the licence to your name.",
+      "link": null
+    },
+    {
+      "q": "Are there any restrictions on transferring a mooring licence?",
+      "a": "The transfer is subject to approval by Transport for NSW (TfNSW), and additional approvals or permits from other agencies may be required. The transfer may not be permitted based on ongoing assessments or other requirements.",
+      "link": null
+    },
+    {
+      "q": "How can I submit my application?",
+      "a": "You can submit your application in person at a Service NSW Centre, or by post or email using the details provided on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:12Z",
+    "last_modified": "3 March 2026",
+    "html_sha1": "5b89c56da8c02e121d2f6cd7705e0b7e12ac2627",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

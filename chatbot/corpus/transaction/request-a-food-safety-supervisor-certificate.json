@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-a-food-safety-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-a-food-safety-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-a-food-safety-supervisor-certificate",
+  "title": "Request a food safety supervisor certificate",
+  "summary": "This page provides information on how to apply for a replacement food safety supervisor certificate if your original certificate is lost or damaged.",
+  "topics": [
+    "food-safety",
+    "supervisor-certificate",
+    "replacement-certificate",
+    "nsw-food-authority"
+  ],
+  "intro": "If your food safety supervisor certificate has been lost or damaged, contact the registered training organisation (RTO) that issued the certificate for a replacement.\n\nIf the RTO is no longer operating or has let its NSW Food Authority approval lapse, you can lodge an application with the Food Authority. They will be able to reissue a replacement certificate.",
+  "who_can_apply": [
+    "Must have completed all required units as indicated on the form",
+    "Must have a qualification from a registered training organisation (RTO) in Australia",
+    "Training must have been completed within 5 years from the date of request"
+  ],
+  "what_you_need": [
+    "Your personal details",
+    "Your RTO's name and location",
+    "A certified copy of your certificate and transcript, or certified copies of your statement/s of attainment",
+    "Payment (as indicated on the form)",
+    "The PDF form: 'FSS certificate request form'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application by mail, with payment, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Your FSS certificate is valid for 5 years from the date of issue, after that it will need to be renewed",
+      "link": null
+    },
+    {
+      "text": "If your FSS certificate has expired or is about to expire, you need to recertify with an approved RTO. You will have 90 days to replace the expired certificate.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Food safety supervisor certificate request: NSW Food Authority – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/1286"
+    },
+    {
+      "text": "Food Safety Supervisor program – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/fss-food-safety-supervisors"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who should I contact if my food safety supervisor certificate is lost or damaged?",
+      "a": "Contact the registered training organisation (RTO) that issued the certificate for a replacement.",
+      "link": null
+    },
+    {
+      "q": "What if my original RTO is no longer operating or has lapsed approval?",
+      "a": "You can lodge an application with the Food Authority, who will be able to reissue a replacement certificate.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for applying for a replacement certificate?",
+      "a": "You must have completed all required units as indicated on the form, hold a qualification from a registered training organisation (RTO) in Australia, and have completed the training within the last 5 years.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:18Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "c901721a2b7a4926f11cce52136b0c3c3125348f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-service-nsw-centre-only",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-service-nsw-centre-only",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-international-driving-permit-service-nsw-centre-only",
+  "title": "Apply for an international driving permit (Service NSW Centre only)",
+  "summary": "Learn about the requirements and steps to apply for an International Driving Permit (IDP) at a Service NSW Centre.",
+  "topics": [
+    "driving-licence",
+    "international-travel",
+    "service-nsw"
+  ],
+  "intro": "If you hold an Australian driver licence, and you're intending to travel overseas, it's advisable to get an International Driving Permit (IDP) in case you need to drive when you're away.\n\nMany countries require you to have an IDP in addition to your Australian state or territory driver licence. Always carry both with you when driving or riding overseas.\n\nNote: Check which countries require an IDP.",
+  "who_can_apply": [
+    "Be over 18 years of age.",
+    "Hold a provisional (P1 or P2) or full (unrestricted) Australian driver licence.",
+    "Interim licences and learner drivers are not acceptable."
+  ],
+  "what_you_need": [
+    "Your current driver licence (card or digital licence accepted).",
+    "A passport size photo (pre-cut to single photo) taken no more than 6 months ago.",
+    "A $53 payment (price is subject to change)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Start your application' button.Note: You must complete your application within 2 business days. After that, your information will be lost, and you'll need to start again.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the required details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Ask a staff member to print your completed form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Get a ticket for the counter.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "When called to a counter, present:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If there is no urgency you can apply online and the IDP will be posted to you in 5 to 7 days.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    },
+    {
+      "text": "An IDP is sometimes referred to as an international driving licence and is valid for 12 months.",
+      "link": null
+    },
+    {
+      "text": "Ensure your IDP allows you to drive or ride the vehicles you intend to use. Some insurance policies will not cover you if you have an accident using a vehicle you're not licensed to drive.",
+      "link": null
+    },
+    {
+      "text": "Note: As many countries require you to have an IDP in addition to your Australian-issued driver licence photocard, always carry both with you when driving or riding overseas (as per the conditions of the IDP).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "which countries require an IDP",
+      "url": "https://www.aaa.asn.au/international-motoring/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "$53 payment",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#in-person"
+    },
+    {
+      "text": "apply online",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-driving-permit-idp"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an IDP if I drive overseas?",
+      "a": "It is advisable to get an International Driving Permit (IDP) if you plan to drive overseas, as many countries require it in addition to your Australian driver licence. Always carry both with you when driving or riding overseas.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for an IDP?",
+      "a": "You must be over 18 years of age and hold a provisional (P1 or P2) or full (unrestricted) Australian driver licence. Learner drivers are not eligible.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for an IDP?",
+      "a": "You need your current driver licence, a passport size photo (taken no more than 6 months ago), and $53 payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:28Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "1ef15362b91379cf71d7a86d1680b02fa96e1c62",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/workers-insurance-and-workers-care-program-icare",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/workers-insurance-and-workers-care-program-icare",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "workers-insurance-and-workers-care-program-icare",
+  "title": "Workers Insurance and Workers Care Program (icare)",
+  "summary": "This page provides information about Workers Insurance and the Workers Care Program (icare) for people who are injured or ill due to work.",
+  "topics": [
+    "workers-insurance",
+    "workplace-injury",
+    "workers-care-program",
+    "icare"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/who-we-care-for",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/who-we-care-for"
+    },
+    {
+      "text": "types of payments and compensation",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/workplace-injuries/payments/types-of-payments"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    },
+    {
+      "text": "Get a quote for workers insurance",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-quote-for-workers-insurance"
+    },
+    {
+      "text": "Work health and safety (WHS) for business",
+      "url": "https://www.service.nsw.gov.au/guide/work-health-and-safety-whs-for-business"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "1fed1f634a8aa8e014cc288b5201d90ee658952e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

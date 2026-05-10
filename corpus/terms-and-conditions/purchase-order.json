@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/purchase-order",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/purchase-order",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "purchase-order",
+  "title": "Purchase Order – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions governing the purchase of goods and services from Service NSW.",
+  "topics": [
+    "purchase-order",
+    "terms-and-conditions",
+    "goods-and-services",
+    "contractual-agreement"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW (SNSW)",
+      "url": "https://www.service.nsw.gov.au/about-us"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:22Z",
+    "last_modified": "17 January 2025",
+    "html_sha1": "793aac5780bebb2e304c52365ff5b13c5432600f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

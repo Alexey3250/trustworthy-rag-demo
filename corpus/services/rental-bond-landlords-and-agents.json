@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/rental-bond-landlords-and-agents",
+  "source_url": "https://www.service.nsw.gov.au/services/rental-bond-landlords-and-agents",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "rental-bond-landlords-and-agents",
+  "title": "Rental bond (landlords and agents)",
+  "summary": "This page provides information and links for landlords and agents regarding the management and claiming of residential rental bonds in NSW.",
+  "topics": [
+    "landlords",
+    "agents",
+    "rental-bond",
+    "nsw-property-management"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must be a landlord or a real estate agent in NSW."
+  ],
+  "what_you_need": [
+    "Access to the online services for managing bonds."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Check a Rental Bonds Online account (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-rental-bonds-online-account-landlords-and-agents"
+    },
+    {
+      "text": "Lodge a residential bond claim (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-bond-claim-landlords-and-agents"
+    },
+    {
+      "text": "Lodge a residential rental bond (landlords and agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-residential-rental-bond-landlords-and-agents"
+    },
+    {
+      "text": "Register for a Rental Bonds Online account (landlords)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-landlords"
+    },
+    {
+      "text": "Register for a Rental Bonds Online account (agents)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-for-a-rental-bonds-online-account-agents"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can landlords and agents manage residential bonds?",
+      "a": "Landlords and agents can manage residential bonds by using the online services provided by Service NSW, including checking accounts, lodging claims, and registering for accounts.",
+      "link": null
+    },
+    {
+      "q": "What services are available for managing bonds?",
+      "a": "Services include checking a Rental Bonds Online account, lodging a residential bond claim, lodging a residential rental bond, and registering for a Rental Bonds Online account for landlords or agents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:05Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "d24299515bd979bbc5a157bc0fe7235df0c9c32d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/digital-working-with-children-check-for-verifiers-of-wwcc-privacy-collection-notice",
+  "source_url": "https://www.service.nsw.gov.au/digital-working-with-children-check-for-verifiers-of-wwcc-privacy-collection-notice",
+  "category": "digital-working-with-children-check-for-verifiers-of-wwcc-privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "digital-working-with-children-check-for-verifiers-of-wwcc-privacy-collection-notice",
+  "title": "Digital Working with Children Check (for verifiers of WWCC) – Privacy Collection Notice",
+  "summary": "This page provides a privacy collection notice for verifiers who are checking a Working with Children Check (WWCC) for Service NSW.",
+  "topics": [
+    "privacy",
+    "working-with-children-check",
+    "verifiers",
+    "service-nsw"
+  ],
+  "intro": "Service NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [
+    "You are a verifier checking a Working with Children Check (WWCC) for Service NSW."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Office of the Children’s Guardian",
+      "url": "https://ocg.nsw.gov.au/"
+    },
+    {
+      "text": "Privacy Management Plan",
+      "url": "https://ocg.nsw.gov.au/working-children-check/applicant/privacy-and-information-management"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "SNSW Privacy page",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What personal information is collected from verifiers?",
+      "a": "Service NSW collects the verifier's full name, email address, and mobile phone number.",
+      "link": null
+    },
+    {
+      "q": "What information is disclosed when a WWCC is checked?",
+      "a": "The information disclosed includes the date checked by the verifier, the full name and WWCC number, the current or expired status of the WWCC, and the type of clearance (volunteer or employee).",
+      "link": null
+    },
+    {
+      "q": "Who can use the QR Code check?",
+      "a": "The QR Code check can only be used by an employer who is a parent or carer of a child or young person, and only if the child-related work relates to that child or young person.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:17Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "cbcbff6ef89223c946f9176450e7de2b18c5f8ea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

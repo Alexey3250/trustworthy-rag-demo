@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/nsw-digital-id",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "nsw-digital-id",
+  "title": "NSW Digital Identity Pilot – Privacy collection notice",
+  "summary": "This notice explains how Service NSW collects and uses personal information when piloting the NSW Digital ID to help people prove their identity.",
+  "topics": [
+    "nsw-digital-id",
+    "privacy",
+    "identity-verification",
+    "biometrics"
+  ],
+  "intro": "Service NSW is piloting a NSW Digital ID to make it easier for people to prove their identity when dealing with government, without needing to show or provide copies of identity documents.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Please visit www.service.nsw.gov.au/privacy for more information about how Service NSW handles your personal information. This includes how you can access and seek correction of the information, how privacy enquiries or complaints can be made, how information is securely stored and how to contact us. Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Face Verification and Identity Checks Privacy Collection Notice",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/face-verification-and-identity-checks"
+    },
+    {
+      "text": "www.service.nsw.gov.au/privacy",
+      "url": "https://www.service.nsw.gov.au/privacy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NSW Digital ID?",
+      "a": "The NSW Digital ID is a pilot program designed to make it easier for people to prove their identity when dealing with government, without needing to show or provide copies of identity documents.",
+      "link": null
+    },
+    {
+      "q": "What personal information will be collected?",
+      "a": "Service NSW collects details from your Proof of Identity documents (like name, date of birth, number, type, and effective dates), biometric face verification data, and information for an Australian Death Check. They also collect activity information for auditing.",
+      "link": null
+    },
+    {
+      "q": "How is my information used?",
+      "a": "Your information is used to create a reusable NSW Digital ID in your MyServiceNSW Account, check validity with services like the Document Verification Service (DVS), match your image with photos (e.g., Transport for NSW), perform a death check (ID Support NSW), and verify your identity with the agency you are transacting with.",
+      "link": null
+    },
+    {
+      "q": "How can I correct my information?",
+      "a": "You can review and correct your information by logging into your MyServiceNSW Account. If you cannot log in, you should contact Service NSW on 13 77 88.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:37Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "cfd4f119f00ddb1c3ce6d70cb8b771acd0e22f83",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

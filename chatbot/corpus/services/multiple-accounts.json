@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "multiple-accounts",
+  "title": "Help with multiple MyServiceNSW Accounts",
+  "summary": "This page provides guidance on managing multiple or shared MyServiceNSW Accounts to ensure personal security and privacy.",
+  "topics": [
+    "my-service-nsw",
+    "account-security",
+    "privacy",
+    "account-management"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "The person keeping the account",
+    "The other person"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "The person who is keeping the account must:",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "The other person will need to:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is my MyServiceNSW Account for me only?",
+      "a": "For security and privacy reasons, your MyServiceNSW Account is for you only.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I have more than one MyServiceNSW Account or a shared account?",
+      "a": "You need to take steps to manage the accounts, including keeping your account details private, not using a shared email, stopping sharing, deactivating unused accounts, and removing personal details and services from other accounts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:57Z",
+    "last_modified": "17 April 2025",
+    "html_sha1": "79bf8c2c5a71f32d897d37ee37800543277cb0c4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

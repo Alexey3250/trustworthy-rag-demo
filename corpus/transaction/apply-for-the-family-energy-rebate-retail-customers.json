@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-retail-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-family-energy-rebate-retail-customers",
+  "title": "Apply for the NSW Family Energy Rebate (retail customers)",
+  "summary": "Find out how to apply for the NSW Family Energy Rebate, which helps people with dependent children pay their electricity bills.",
+  "topics": [
+    "nsw",
+    "energy-rebate",
+    "electricity-bills",
+    "family-rebate"
+  ],
+  "intro": "The NSW Family Energy Rebate helps people with dependent children pay their electricity bills.\n\nThe rebate is up to $180 per retail (on-market) household, per financial year.\n\nIf you are a retail (on-market) customer, you can apply for the NSW Family Energy Rebate online.\n\nIf you are an embedded network (on-supply) electricity customer, you may be eligible to apply for the NSW Family Energy Rebate (on supply customers).\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You must have an electricity account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You must have received the Family Tax Benefit in the 2024–25 financial year.",
+    "If you are an embedded network (on-supply) customer, you may be eligible to apply for the NSW Family Energy Rebate (on supply customers)."
+  ],
+  "what_you_need": [
+    "The confirmation letter from Services Australia that your Family Tax Benefit has been finalised for the last financial year.",
+    "Your Services Australia Customer Reference Number (CRN).",
+    "Your energy account details.",
+    "If you did not need to lodge a tax return, you need to notify Services Australia."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete and submit your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the NSW Family Energy Rebate Application Form – PDF.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/family-energy-rebate-application-retail-customers-form.pdf?2"
+    },
+    {
+      "n": 5,
+      "text": "Lodge your application by post to NSW Energy Rebates, PO Box 435, Parramatta NSW 2124.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If your energy retailer is not listed in the online form, you'll need to download and complete the NSW Family Energy Rebate Application Form – PDF and lodge by post.",
+      "link": null
+    },
+    {
+      "text": "Retail customers receive the rebate as a lump-sum payment of $180 (or $20 if you are also eligible to receive the NSW Low Income Household Rebate) credited to your energy bill.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "You can only receive the rebate for your principal place of residence.",
+      "link": null
+    },
+    {
+      "text": "A household can only receive one NSW Family Energy Rebate each financial year.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "notify Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/advising-non-lodgement-tax-return"
+    },
+    {
+      "text": "NSW Family Energy Rebate Application Form – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/family-energy-rebate-application-retail-customers-form.pdf?2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for the NSW Family Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "NSW Low Income Household Rebate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Gas Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Life Support Energy Rebate (retail customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for the NSW Family Energy Rebate?",
+      "a": "You must have an electricity account for your home in NSW, be the account holder, and have received the Family Tax Benefit in the 2024–25 financial year.",
+      "link": null
+    },
+    {
+      "q": "What is the maximum amount of the rebate?",
+      "a": "The rebate is up to $180 per retail household, per financial year.",
+      "link": null
+    },
+    {
+      "q": "What is an on-supply customer?",
+      "a": "An on-supply customer is one whose electricity is supplied by an embedded network (such as in a residential community, retirement village, or strata scheme), and who receives their bill from the strata manager or community/village operator.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:34Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "512316aa6bc5186de08cbda26d9a21f45bf47799",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

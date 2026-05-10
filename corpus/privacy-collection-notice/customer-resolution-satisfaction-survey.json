@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-resolution-satisfaction-survey",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/customer-resolution-satisfaction-survey",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "customer-resolution-satisfaction-survey",
+  "title": "Customer Resolution Satisfaction Survey – Privacy Collection Notice",
+  "summary": "This page provides a privacy collection notice for the Customer Resolution Satisfaction Survey, explaining how Service NSW collects and uses your personal information.",
+  "topics": [
+    "privacy",
+    "feedback",
+    "satisfaction-survey",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW Privacy Statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why is Service NSW collecting my information?",
+      "a": "The information is collected to improve how Service NSW responds to and handles feedback, and to communicate with you about your feedback or interactions with Service NSW.",
+      "link": null
+    },
+    {
+      "q": "How will my personal information be used?",
+      "a": "Your information will be used to continually improve customer support and feedback management, to communicate about your interactions, and for reporting, research, and statistical purposes.",
+      "link": null
+    },
+    {
+      "q": "What if I have privacy concerns?",
+      "a": "You can make privacy enquiries or complaints, and you can access and seek correction of the information we handle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:34Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "8397f10cd50e910be96fa3a245e589c7a9d2e878",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

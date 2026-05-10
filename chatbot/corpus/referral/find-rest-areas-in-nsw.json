@@ -1,0 +1,38 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-rest-areas-in-nsw",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-rest-areas-in-nsw",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-rest-areas-in-nsw",
+  "title": "Find rest areas in NSW",
+  "summary": "This page helps you find rest areas in NSW to take safe breaks when driving long distances.",
+  "topics": [
+    "driving",
+    "rest-areas",
+    "nsw",
+    "travel"
+  ],
+  "intro": "It’s important to take regular breaks when driving long distances. Rest areas (or rest stops) are places where you can park safely, get out of your vehicle and refresh yourself. They’re available 24 hours a day, every day of the year.\n\nUse the tool to plan your trip route and find the location and coordinates of:\n\nSearch the interactive map to display rest sites with:\n\nNote: Rest areas are not for camping, if you need a longer rest, find a campsite, hotel or motel.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "interactive rest area map",
+      "url": "https://roads-waterways.transport.nsw.gov.au/roads/using-roads/trip-information/rest-areas/map/index.html"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:57Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "50dfb1b0595c01f70c51ff463a835d4583fe0146",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

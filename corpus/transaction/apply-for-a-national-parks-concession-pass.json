@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-parks-concession-pass",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-national-parks-concession-pass",
+  "title": "Apply for a National Parks Concession Pass",
+  "summary": "Find out how to apply for a National Parks Concession Pass, which provides free car entry into national parks that charge entry fees.",
+  "topics": [
+    "national-parks",
+    "concession-pass",
+    "pensioner",
+    "veteran"
+  ],
+  "intro": "A National Parks Concession Pass gives eligible Australian pensioners and veterans free car entry into the national parks that charge entry fees.\n\nYou can apply for a pass online.",
+  "who_can_apply": [
+    "Australian Pensioner Concession Card holder",
+    "Department of Veterans' Affairs (DVA) Veteran Card holder (Gold, White or Orange)"
+  ],
+  "what_you_need": [
+    "An email address that is not shared with someone else",
+    "Your Pensioner Concession Card number or DVA card number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a pass.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "call the National Parks Contact Centre on 1300 072 757 (13000PARKS) or",
+      "link": "tel:1300072757"
+    },
+    {
+      "n": 4,
+      "text": "visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "national parks that charge entry fees",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/fee-collecting-parks"
+    },
+    {
+      "text": "National Parks concession pass – conditions of use",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/conditions-of-use"
+    },
+    {
+      "text": "Concession passes – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/discount-and-concession-passes"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a seniors discount on National Parks annual passes",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-seniors-discount-on-national-parks-annual-passes"
+    },
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for a National Parks Concession Pass?",
+      "a": "You must be an Australian Pensioner Concession Card holder or a Department of Veterans' Affairs (DVA) Veteran Card holder (Gold, White, or Orange).",
+      "link": null
+    },
+    {
+      "q": "Can I get a discount if I have a Seniors Card?",
+      "a": "If you are a Seniors Card holder, you may be eligible for a seniors discount on some annual passes.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-seniors-discount-on-national-parks-annual-passes"
+    },
+    {
+      "q": "How can I apply for the pass?",
+      "a": "You can apply online, call the National Parks Contact Centre on 1300 072 757 (13000PARKS), or visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:37Z",
+    "last_modified": "1 August 2025",
+    "html_sha1": "c89f0b61eee27a0e72a5718ce7b40496e64f9aaa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/service-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/service-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "service-nsw",
+  "title": "Service NSW",
+  "summary": "This page provides a directory of services offered by Service NSW, helping citizens find information and assistance for various government services.",
+  "topics": [
+    "service-directory",
+    "nsw-government-services",
+    "contact-information",
+    "nsw-department-of"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://account.service.nsw.gov.au/manage/settings/nsw-digital-id",
+      "url": "https://account.service.nsw.gov.au/manage/settings/nsw-digital-id"
+    },
+    {
+      "text": "access option",
+      "url": "https://www.accesshub.gov.au/about-the-nrs/nrs-call-numbers-and-links"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "search for a store",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "view a list of Quiet Hour times",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "View a visual guide",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/visual-story-visiting-a-service-centre"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Customer complaints",
+      "url": "https://www.service.nsw.gov.au/contact-us/customer-complaints"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about NSW government services?",
+      "a": "You can find a list of services by clicking the 'Find services' link.",
+      "link": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "q": "How can I contact Service NSW?",
+      "a": "You can find contact details using the 'Contact us' link.",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "q": "What are the options for accessing services?",
+      "a": "Service NSW offers various access options, including managing your NSW Digital ID, accessing the Access Hub, and finding a local service centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "8cbf19a73308ed5cbd5646162994dd752dc6956c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

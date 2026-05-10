@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-racing",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-racing",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-racing",
+  "title": "Office of Racing",
+  "summary": "This page provides information about the Office of Racing, which is part of the NSW Department of Primary Industries.",
+  "topics": [
+    "racing",
+    "nsw-department-of-primary-industries",
+    "sport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/office-of-racing",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/office-of-racing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "1225604accab1075964d7e11f70edc299d144be5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

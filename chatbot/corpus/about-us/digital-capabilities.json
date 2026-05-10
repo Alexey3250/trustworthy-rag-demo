@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "digital-capabilities",
+  "title": "Service NSW digital capabilities",
+  "summary": "This page provides an overview of the digital capabilities and services offered by Service NSW.",
+  "topics": [
+    "digital-services",
+    "nsw-government",
+    "online-services",
+    "digital-capabilities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Identity Assurance",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/identity-assurance"
+    },
+    {
+      "text": "Authenticate",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/authenticate"
+    },
+    {
+      "text": "Digital Notifications",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-notifications"
+    },
+    {
+      "text": "Service Booker",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/service-booker"
+    },
+    {
+      "text": "Grants",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants"
+    },
+    {
+      "text": "Rebates",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/rebates"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-vouchers"
+    },
+    {
+      "text": "Digital Services Blog",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:13Z",
+    "last_modified": "16 October 2025",
+    "html_sha1": "92010ce54bf55ba059f7c530d3d966ccfed9bd36",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

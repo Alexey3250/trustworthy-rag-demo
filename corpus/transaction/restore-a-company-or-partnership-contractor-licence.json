@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-company-or-partnership-contractor-licence",
+  "title": "Restore a company or partnership contractor licence",
+  "summary": "Learn how to restore a company or partnership contractor licence if it has expired.",
+  "topics": [
+    "contractor-licence",
+    "company-licence",
+    "partnership-licence",
+    "service-nsw"
+  ],
+  "intro": "If you hold a company or partnership contractor licence and you have not renewed it before the licence expiry date you need to visit a Service NSW Centre to restore the licence.\n\nYou must restore your licence within 3 months of the expiry date, or you have to apply for a new company or partnership contractor licence.\n\nYou cannot trade as a contractor if your licence is not current.\n\nTo check your registration number and details visit Verify NSW.",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence that has expired.",
+    "Must restore the licence within 3 months of the expiry date."
+  ],
+  "what_you_need": [
+    "Your completed licence renewal notice",
+    "Proof of identity (if you do not have your renewal notice)",
+    "Fee payment",
+    "Take your renewal notice and payment to a service centre"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/DBP"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "assessment process and time frames for licence and registration applications",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Renew, restore or replace a licence or registration – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/renew-restore-or-replace"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the contact details on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the name on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Add a category of work to a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change a condition on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must I do if my company or partnership contractor licence has expired?",
+      "a": "You must visit a Service NSW Centre to restore the licence. You have 3 months from the expiry date to restore it, otherwise, you must apply for a new licence.",
+      "link": null
+    },
+    {
+      "q": "Can I work as a contractor if my licence is not current?",
+      "a": "No, you cannot trade as a contractor if your licence is not current.",
+      "link": null
+    },
+    {
+      "q": "How can I check my registration number and details?",
+      "a": "You can check your registration number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/DBP"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:21Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "3ea1cf632c55dc7777571f595f23e65a50c287b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

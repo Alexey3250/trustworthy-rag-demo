@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-tax-withheld-calculator",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-tax-withheld-calculator",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-tax-withheld-calculator",
+  "title": "Use the tax withheld calculator",
+  "summary": "Use the tax withheld calculator to determine the tax that needs to be withheld from payments made to employees or other workers.",
+  "topics": [
+    "tax-withheld",
+    "employees",
+    "workers",
+    "payments"
+  ],
+  "intro": "If you want to work out the tax you need to withhold from payments you make to employees or other workers, you can use the tax withheld calculator.\n\nThe calculator takes into account:\n\nTo use the tax withheld calculator, you'll need your employee's or other worker's tax file number declaration, withholding declaration and Medicare levy variation declaration.\n\nThe calculator applies to payments made in the current tax year.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your employee's or other worker's tax file number declaration",
+    "Withholding declaration",
+    "Medicare levy variation declaration"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "About the ATO tax withheld calculator",
+      "url": "https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:23Z",
+    "last_modified": "6 September 2024",
+    "html_sha1": "64b4494c37ae2012b26d6ff1e176ed1c48ca4110",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

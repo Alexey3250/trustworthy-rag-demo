@@ -1,0 +1,140 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-pre-ivf-fertility-testing-rebate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-pre-ivf-fertility-testing-rebate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-pre-ivf-fertility-testing-rebate",
+  "title": "Apply for the Pre-IVF Fertility Testing Rebate",
+  "summary": "Find out how to apply for a one-time $250 rebate to help cover the costs of eligible pre-IVF fertility testing.",
+  "topics": [
+    "fertility-testing",
+    "ivf",
+    "rebate",
+    "nsw-residents"
+  ],
+  "intro": "The Pre-IVF Fertility Testing Rebate helps eligible NSW residents cover the costs of fertility testing.\n\nIf you have incurred out-of-pocket costs for eligible fertility tests after 30 September 2019, you can apply for a one-time $250 rebate, regardless of when you took the tests.\n\nYou can only apply for the rebate once.\n\n### Before you apply\n\nAsk your fertility specialist to:\n\nThe following specialists can confirm your eligibility for the rebate:",
+  "who_can_apply": [
+    "Be a NSW resident.",
+    "Be a woman (only women can submit the application, even if the test was for a man or male donor).",
+    "Have been referred for eligible fertility tests by a general practitioner or a specialist.",
+    "Have a receipt showing out-of-pocket costs for eligible pre-IVF fertility testing after 30 September 2019."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "The name of your fertility specialist.",
+    "The Pre-IVF Fertility Testing Rebate Declaration form (completed by your specialist, not your GP). If claiming for a man’s or male donor’s test, the specialist must also sign the form.",
+    "One receipt showing out-of-pocket costs for eligible fertility testing (this can be for less than the rebate amount).",
+    "Your bank account details for the electronic funds transfer."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to apply for the rebate.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After your application has been successfully reviewed and approved you receive the rebate in your nominated bank account within 28 days.",
+      "link": null
+    },
+    {
+      "text": "The rebate can only be claimed for out-of-pocket costs after claims from Medicare have been made.",
+      "link": null
+    },
+    {
+      "text": "The Pre-IVF Fertility Testing Rebate is available until 30 June 2026.",
+      "link": null
+    },
+    {
+      "text": "Service NSW stores the health data you provide, including which specialist you’re seeing and that you’ve had a fertility test. To validate your application, Service NSW employees will review your uploaded ‘Pre-IVF Fertility Testing Rebate’ and receipt.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Pre-IVF Fertility Testing Rebate checklist – PDF",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Documents/ivf-rebate-checklist.pdf"
+    },
+    {
+      "text": "Pre-IVF Fertility Testing Rebate frequently asked questions for specialists – PDF",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Documents/ivf-info-specialists.pdf"
+    },
+    {
+      "text": "Pre-IVF Fertility Testing Rebate Declaration form – PDF",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Documents/rebate-form.pdf"
+    },
+    {
+      "text": "Improving affordability and access to IVF services in NSW – NSW Health",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Pages/affordable-ivf.aspx"
+    },
+    {
+      "text": "Frequently asked questions",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/maternity/Pages/ivf-faqs.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Privacy Statement",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/pre-ivf-fertility-testing-rebate"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/pre-ivf-fertility-testing-rebate"
+    },
+    {
+      "text": "Information about health and care services",
+      "url": "https://www.service.nsw.gov.au/services/health-and-care"
+    },
+    {
+      "text": "Apply for the Fertility Treatment Rebate-2",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-fertility-treatment-rebate-2"
+    },
+    {
+      "text": "Register online for the Isolated Patients Travel and Accommodation Assistance Scheme (IPTAAS)",
+      "url": "https://www.service.nsw.gov.au/transaction/register-online-for-iptaas"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the rebate?",
+      "a": "You can apply for a one-time $250 rebate.",
+      "link": null
+    },
+    {
+      "q": "Who can apply for the rebate?",
+      "a": "You must be a NSW resident, a woman, and have been referred for eligible fertility tests by a general practitioner or a specialist.",
+      "link": null
+    },
+    {
+      "q": "What costs are covered by the rebate?",
+      "a": "The rebate covers out-of-pocket costs for eligible fertility tests incurred after 30 September 2019.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:35Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "5fa632413967dafe90c8002479e0e069aad27f6b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

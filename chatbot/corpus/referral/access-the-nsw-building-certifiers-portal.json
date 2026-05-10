@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-the-nsw-building-certifiers-portal",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-the-nsw-building-certifiers-portal",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-the-nsw-building-certifiers-portal",
+  "title": "Access the NSW Building Certifiers' Portal",
+  "summary": "This page provides information and access points for the NSW Building Certifiers' Portal, allowing registered certifiers to manage applications and registration details online.",
+  "topics": [
+    "building-certifier",
+    "nsw-portal",
+    "registration",
+    "applications"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a registered building certifier in NSW."
+  ],
+  "what_you_need": [
+    "Access to the NSW Building Certifiers’ Portal (https://applications.fairtrading.nsw.gov.au/BDCPortal/Account/Login.aspx?ReturnUrl=/BDCPortal)",
+    "Supporting documentation for applications",
+    "Payment for registration and changes"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For help with applications, access and online portal issues, contact the certifiers’ registration team by emailing certifierregistration@customerservice.nsw.gov.au.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Access the NSW Building Certifiers’ Portal",
+      "url": "https://applications.fairtrading.nsw.gov.au/BDCPortal/Account/Login.aspx?ReturnUrl=/BDCPortal"
+    },
+    {
+      "text": "Fees schedule for building certifiers' registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/fees-schedule"
+    },
+    {
+      "text": "NSW Building Certifiers' Portal user guide",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal"
+    },
+    {
+      "text": "Getting started – register for access",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal/getting-started-register-for-access"
+    },
+    {
+      "text": "Logging onto the online portal",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal/logging-on"
+    },
+    {
+      "text": "Applications and supporting documents",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal/applications-and-supporting-documents"
+    },
+    {
+      "text": "Professional indemnity insurance",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal/professional-indemnity-insurance"
+    },
+    {
+      "text": "Changing your contact details, password, or security information",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/portal/changes"
+    },
+    {
+      "text": "Building certifiers",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/building-certifiers"
+    },
+    {
+      "text": "What certifiers do",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/what-certifiers-do"
+    },
+    {
+      "text": "Applying to become a certifier",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-certifiers/applying"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How do I get help with the online portal or applications?",
+      "a": "For help with applications, access, or online portal issues, contact the certifiers’ registration team by emailing certifierregistration@customerservice.nsw.gov.au.",
+      "link": null
+    },
+    {
+      "q": "What can I do using the Building Certifiers' Portal?",
+      "a": "Through the portal, you can lodge applications, submit supporting documentation, view your application status, view registration details, and pay associated fees.",
+      "link": null
+    },
+    {
+      "q": "What types of applications can I submit?",
+      "a": "Applications include individual certifier registrations, mutual recognition, variations of registration, body corporate (company) registrations, and voluntary surrender or suspension.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:04Z",
+    "last_modified": "29 May 2025",
+    "html_sha1": "82135f981b18228087f1c48ea7806025e8dbdd07",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

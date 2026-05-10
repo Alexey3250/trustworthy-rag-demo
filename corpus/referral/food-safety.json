@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/food-safety",
+  "source_url": "https://www.service.nsw.gov.au/referral/food-safety",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "food-safety",
+  "title": "Meet food safety requirements",
+  "summary": "This page explains the food safety responsibilities for businesses in NSW, depending on whether they are retail or operate in the food industry.",
+  "topics": [
+    "food-safety",
+    "nsw-business",
+    "retail-food",
+    "food-industry"
+  ],
+  "intro": "NSW food businesses have a responsibility to make sure the food they produce, process, store, distribute and sell is safe and correctly labelled.\n\nIf you operate a retail food business that sells food to the public, you should check the requirements for your sector. Retail food businesses include:\n\nIf you operate a business in the food industry, such as production, processing or transport, you should check the requirements for your sector. Industry sectors include:",
+  "who_can_apply": [
+    "NSW food businesses",
+    "retail food businesses that sell food to the public",
+    "businesses in the food industry (production, processing, or transport)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "retail food business",
+      "url": "https://www.foodauthority.nsw.gov.au/retail"
+    },
+    {
+      "text": "business in the food industry",
+      "url": "https://www.foodauthority.nsw.gov.au/industry"
+    },
+    {
+      "text": "NSW Food Authority website",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Notify the Food Authority or local council of a food business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business"
+    },
+    {
+      "text": "Appoint a food safety supervisor",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:42Z",
+    "last_modified": "9 September 2024",
+    "html_sha1": "f6165c849d84107b39275dc53bdb0707060aecbb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

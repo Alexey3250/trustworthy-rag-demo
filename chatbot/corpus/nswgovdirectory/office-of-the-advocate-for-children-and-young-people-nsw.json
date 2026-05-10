@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-advocate-for-children-and-young-people-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-advocate-for-children-and-young-people-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-the-advocate-for-children-and-young-people-nsw",
+  "title": "Office of the Advocate for Children and Young People (NSW)",
+  "summary": "This page provides information about the Office of the Advocate for Children and Young People (NSW), detailing its role and how it supports children and young people in New South Wales.",
+  "topics": [
+    "advocacy",
+    "children",
+    "young-people",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.acyp.nsw.gov.au/",
+      "url": "https://www.acyp.nsw.gov.au/"
+    },
+    {
+      "text": "Child Safe Scheme – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/child-safe-scheme"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Advisory Council (YAC)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-advisory-council-yac"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:37Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d8e4bfa502651ef495ffe192796995eeb6881156",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/families-and-friends-of-missing-persons-unit",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/families-and-friends-of-missing-persons-unit",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "families-and-friends-of-missing-persons-unit",
+  "title": "Families and Friends of Missing Persons Unit",
+  "summary": "This page provides information about the Families and Friends of Missing Persons Unit, offering support and guidance to those concerned about a missing person.",
+  "topics": [
+    "missing-persons",
+    "support",
+    "families",
+    "friends",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.missingpersons.justice.nsw.gov.au/",
+      "url": "https://www.missingpersons.justice.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Victims Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/victims-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is the Families and Friends of Missing Persons Unit?",
+      "a": "The Families and Friends of Missing Persons Unit provides support and information to families and friends of missing persons.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about missing persons?",
+      "a": "You can find more information at the Missing Persons Unit website.",
+      "link": "https://www.missingpersons.justice.nsw.gov.au/"
+    },
+    {
+      "q": "What services are available for victims?",
+      "a": "Victims Services NSW provides support for victims.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/victims-services-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:49Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c88cc879fedbbbb9f212cda82318c45e8d3ca9e3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

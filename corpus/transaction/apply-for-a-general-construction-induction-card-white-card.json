@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-general-construction-induction-card-white-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-general-construction-induction-card-white-card",
+  "title": "Apply for a general construction induction card (white card)",
+  "summary": "Find out if you need and how to apply for a general construction induction card (white card).",
+  "topics": [
+    "construction-induction-card",
+    "white-card",
+    "safework-nsw",
+    "work-safety"
+  ],
+  "intro": "You'll need a general construction induction card, commonly called a white card, if any of the following apply:\n\nNote: A white card can be used in any Australian state or territory.",
+  "who_can_apply": [
+    "Must be aged 14 or over."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "A construction induction training course from a registered training organisation (RTO)",
+    "Payment for the training course"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Find an RTO' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to find an RTO.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "send your application to SafeWork NSW",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "give you a statement of training that you can use for 60 days (until you receive your white card from SafeWork NSW).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have a construction induction card from another Australian state or territory, you can use it in NSW – check to make sure your card is valid.",
+      "link": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/recognition-of-general-construction-induction-training-cards-fact-sheet"
+    },
+    {
+      "text": "Your white card will usually arrive within 30 days. If you do not receive your card, call 13 10 50.",
+      "link": "tel:131050"
+    },
+    {
+      "text": "You need to take part in a safety induction each time you work on a new construction site.",
+      "link": null
+    },
+    {
+      "text": "Always carry your white card with you when you're at work.",
+      "link": null
+    },
+    {
+      "text": "Once you receive your white card, you can access it digitally through the Service NSW app.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "You can verify NSW white cards online.",
+      "link": "https://verify.licence.nsw.gov.au/home"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/evidence-of-identity"
+    },
+    {
+      "text": "check to make sure your card is valid",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/recognition-of-general-construction-induction-training-cards-fact-sheet"
+    },
+    {
+      "text": "verify NSW white cards online",
+      "url": "https://verify.licence.nsw.gov.au/home"
+    },
+    {
+      "text": "White cards – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/white-cards"
+    },
+    {
+      "text": "Work Health and Safety Regulation 2025",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2025-0440"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access it digitally",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Replace a general construction induction card (white card)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card"
+    },
+    {
+      "text": "Apply for a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a white card be used outside of NSW?",
+      "a": "Yes, a white card can be used in any Australian state or territory.",
+      "link": null
+    },
+    {
+      "q": "What is the minimum age to hold a white card?",
+      "a": "You must be aged 14 or over.",
+      "link": null
+    },
+    {
+      "q": "What do I need to apply for a white card?",
+      "a": "You need proof of identity, a construction induction training course from a registered training organisation (RTO), and payment for the course.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:35Z",
+    "last_modified": "1 May 2026",
+    "html_sha1": "2ac0dca0c8c6d8eed9ae9faa342bd63cdfcfa3dc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

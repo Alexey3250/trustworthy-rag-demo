@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-an-owner-builder-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-an-owner-builder-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-an-owner-builder-permit",
+  "title": "Replace an Owner-Builder Permit",
+  "summary": "This page explains how to apply for a replacement Owner-Builder Permit if your original permit has been lost, stolen, or damaged.",
+  "topics": [
+    "owner-builder-permit",
+    "replace-permit",
+    "building-work",
+    "service-centre"
+  ],
+  "intro": "If you've been granted an Owner-Builder Permit to supervise building work on your own private residential premises, and your permit has been damaged, lost or stolen, you can apply for a replacement at a service centre.",
+  "who_can_apply": [
+    "You must have been granted an Owner-Builder Permit to supervise building work on your own private residential premises."
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for duplicate licence, certificate or permit'",
+    "Your personal details and permit number",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete an Application for duplicate licence, certificate or permit – PDF.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382d.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Take your application and payment to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "your",
+      "url": "https://verify.licence.nsw.gov.au/home/OwnerBuilder"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Application for duplicate licence, certificate or permit – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382d.pdf"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Cancel an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit"
+    },
+    {
+      "text": "Change the details on an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do I need to do if my Owner-Builder Permit is lost or damaged?",
+      "a": "You can apply for a replacement permit at a service centre.",
+      "link": null
+    },
+    {
+      "q": "How can I check my permit number and details?",
+      "a": "You can visit Verify NSW to check your permit number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/OwnerBuilder"
+    },
+    {
+      "q": "Where do I submit my application for a replacement permit?",
+      "a": "You must take your application and payment to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:54Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "90f1181ac51686888623695fda99b4fb42d4cf28",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

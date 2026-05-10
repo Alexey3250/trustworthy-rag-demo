@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions",
+  "source_url": "https://www.service.nsw.gov.au/common-questions",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "common-questions",
+  "title": "Common questions",
+  "summary": "This page provides answers to common questions about various NSW government services.",
+  "topics": [
+    "common-questions",
+    "nsw-services",
+    "government-support",
+    "faq"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Using BPAY to renew a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "Driving/riding instructor and bus driver authority",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority"
+    },
+    {
+      "text": "Energy Accounts Payment Assistance (EAPA)",
+      "url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa"
+    },
+    {
+      "text": "Internal review of a grant decision",
+      "url": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Using BPAY to renew a vehicle registration",
+      "a": "You can use BPAY to renew your vehicle registration.",
+      "link": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "q": "Driving/riding instructor and bus driver authority",
+      "a": "Information is available regarding driving/riding instructor and bus driver authority.",
+      "link": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority"
+    },
+    {
+      "q": "Energy Accounts Payment Assistance (EAPA)",
+      "a": "Details about Energy Accounts Payment Assistance (EAPA) are provided.",
+      "link": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa"
+    },
+    {
+      "q": "Internal review of a grant decision",
+      "a": "You can find information about the internal review of a grant decision.",
+      "link": "https://www.service.nsw.gov.au/common-questions/internal-review-of-a-grant-decision"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:38Z",
+    "last_modified": "2 October 2025",
+    "html_sha1": "fe41302511b8bdb1834b891bd3341ba84f9aeb72",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

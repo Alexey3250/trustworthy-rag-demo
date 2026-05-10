@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-of-name-with-transport-for-nsw",
+  "title": "Change of name with Transport for NSW",
+  "summary": "This page explains the process for updating your name on your licence, vehicle, and vessel details after a name change.",
+  "topics": [
+    "change-of-name",
+    "service-nsw",
+    "licence",
+    "vehicle-details",
+    "vessel-details"
+  ],
+  "intro": "If you've changed your name, you'll need to visit a Service NSW Centre within 14 days to record your new name on your licence, vehicle and vessel details.\n\nNote: Your E-Toll Account details do not get automatically updated when you change your licence and registration details. Please let us know that you have an account and we'll change your account details.",
+  "who_can_apply": [
+    "You have changed your name and need to update it on your licence, vehicle, and vessel details."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your original change of name document",
+    "Your licence card and registration papers (if applicable)",
+    "Your E-Toll Account number (if applicable)",
+    "The 'Replacement Application' PDF form (if you need a replacement product like a driver licence card)",
+    "The 'Change of Records' PDF form (if you do not need a replacement product)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather all your required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "federal government agencies (Services Australia, Electoral Commission)",
+      "link": null
+    },
+    {
+      "text": "state government agencies (NSW Land Registry, NSW Pet Registry, NSW Rental Bond Board)",
+      "link": null
+    },
+    {
+      "text": "municipal government bodies (local council, local public library)",
+      "link": null
+    },
+    {
+      "text": "businesses (insurance and utility providers, banks and more).",
+      "link": null
+    },
+    {
+      "text": "You'll need to update your name everywhere else, including with:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "'Replacement Application'",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070182-replacement-application.pdf"
+    },
+    {
+      "text": "'Change of Records'",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Changing your name or address",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/updating-personal-details/changing-your-name-or-address"
+    },
+    {
+      "text": "Change your surname after marriage in Australia",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/change-your-surname-after-marriage"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change your account details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to record my new name?",
+      "a": "You must visit a Service NSW Centre within 14 days to record your new name on your licence, vehicle, and vessel details.",
+      "link": null
+    },
+    {
+      "q": "Do I need to update my E-Toll Account details myself?",
+      "a": "No, your E-Toll Account details do not update automatically when you change your licence and registration details. You must let Service NSW know you have an account so they can change your details.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account"
+    },
+    {
+      "q": "What are the steps to change my name?",
+      "a": "First, gather all your required documents. Second, visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:56Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "b68d880e298ac0911cf7256530fce7d18b52e31f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/new-arrivals-program",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/new-arrivals-program",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "new-arrivals-program",
+  "title": "New arrivals support – Privacy Collection Notice",
+  "summary": "This notice explains that Service NSW collects personal information from people from migrant and refugee backgrounds to help them understand and access government services and book appointments.",
+  "topics": [
+    "new-arrivals",
+    "migrant-support",
+    "refugee-support",
+    "service-nsw"
+  ],
+  "intro": "Service NSW provides new arrival support for people from migrant and refugee backgrounds who would like support understanding and accessing government services. Service NSW is collecting your personal information to assist you in booking an appointment.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "First name (mandatory)",
+    "Last name (mandatory)",
+    "Email address (mandatory)",
+    "Mobile number (mandatory)",
+    "Postcode (mandatory)",
+    "Residential address (optional)",
+    "Landline number (optional)",
+    "Hearing assistance (optional)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:36Z",
+    "last_modified": "17 September 2025",
+    "html_sha1": "dbaf50f16c9ff9723582d39967dfb17fc7085d38",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

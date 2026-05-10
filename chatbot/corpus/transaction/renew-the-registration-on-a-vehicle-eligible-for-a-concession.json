@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-the-registration-on-a-vehicle-eligible-for-a-concession",
+  "title": "Renew the registration on a vehicle eligible for a concession",
+  "summary": "Learn how to renew a vehicle registration if you are eligible for a concession.",
+  "topics": [
+    "vehicle-registration",
+    "concession",
+    "service-nsw"
+  ],
+  "intro": "If you're eligible for a concession because of your vehicle registration's usage code, you'll need to renew your registration at a Service NSW Centre or by phone.\n\nNote: If you're a pensioner, you may be eligible for a pensioner concession on vehicle registration renewals.",
+  "who_can_apply": [
+    "AMBU – Ambulance vehicle",
+    "CIVL – Civil defence vehicle",
+    "FIRE – Fire fighting vehicle",
+    "HAND – Transport for people with a disability",
+    "MCRA – Mobile crane",
+    "MINE – Mine rescue vehicle",
+    "PAST – Local Land Services",
+    "POLC – Police youth club vehicle",
+    "PPG – Primary producer vehicle",
+    "PRIV – Wheelchair modified vehicle (with vehicle condition code V88)",
+    "RDWK – Roadwork by a council, park or cemetery trust (or general roadwork)",
+    "SCHL – School student driver education vehicle",
+    "SES – State emergency service",
+    "SURF – Surf Life Saving Club vehicle",
+    "TOW – Tow trucks with 'crane and hook' body",
+    "Pensioner (may be eligible for a concession)"
+  ],
+  "what_you_need": [
+    "Form 1193: Declaration of Eligibility for a Registration Concession – PDF",
+    "Your registration details (including plate number, found on your renewal notice or digital Certificate of Registration)",
+    "Your registration renewal notice (to note your receipt number, unless using Digital Vehicle Registration)",
+    "Compulsory third party (CTP) insurance (green slip)",
+    "Safety inspection report",
+    "Signed declaration, tax averaging certificate, or tax assessment notice (for primary producer vehicles only)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Declaration of Eligibility for a Registration Concession PDF form.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070829-declaration-of-eligibility.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Take your completed form and required documents to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Form 1193: Declaration of Eligibility for a Registration Concession – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070829-declaration-of-eligibility.pdf"
+    },
+    {
+      "text": "Vehicle registration fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Renewing vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "pensioner concession on vehicle registration renewals",
+      "url": "https://www.service.nsw.gov.au/referral/find-out-about-vehicle-registration-concessions-for-pensioners"
+    },
+    {
+      "text": "Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "Renew a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for a concession?",
+      "a": "Concessions are available for specific vehicle usage codes, including ambulance, civil defence, fire fighting, and others listed on the page.",
+      "link": null
+    },
+    {
+      "q": "What do I need to renew my registration?",
+      "a": "You will need the Declaration of Eligibility for a Registration Concession form, your registration details, your renewal notice, CTP insurance, and a safety inspection report.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my registration?",
+      "a": "You must download and complete the Declaration of Eligibility for a Registration Concession form, and then take the completed form and required documents to a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:15Z",
+    "last_modified": "26 March 2026",
+    "html_sha1": "b4e3059fe208d5425f33ddd9a740b65c16c0ae02",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

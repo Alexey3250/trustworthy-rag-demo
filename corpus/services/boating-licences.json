@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/boating-licences",
+  "source_url": "https://www.service.nsw.gov.au/services/boating-licences",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "boating-licences",
+  "title": "Boating licences",
+  "summary": "This page provides information about various boating licences available in New South Wales.",
+  "topics": [
+    "boating-licences",
+    "watercraft",
+    "personal-watercraft",
+    "boating"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Maritime and shipping industry",
+      "link": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "link": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Aquatic licences",
+      "url": "https://www.service.nsw.gov.au/services/aquatic-licence"
+    },
+    {
+      "text": "General boat driving licence",
+      "url": "https://www.service.nsw.gov.au/services/general-boat-driving-licence"
+    },
+    {
+      "text": "Personal watercraft (PWC) licence",
+      "url": "https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence"
+    },
+    {
+      "text": "Private mooring licence",
+      "url": "https://www.service.nsw.gov.au/services/private-mooring-licence"
+    },
+    {
+      "text": "Book a general boat or personal watercraft (PWC) licence knowledge test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-general-boat-or-personal-watercraft-pwc-licence-knowledge-test"
+    },
+    {
+      "text": "Maritime and shipping industry",
+      "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Update details with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/services/update-details-transport-for-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of boating licences are available?",
+      "a": "Licences include general boat driving, personal watercraft (PWC), aquatic, and private mooring licences.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about a general boat driving licence?",
+      "a": "You can find details about a general boat driving licence here: https://www.service.nsw.gov.au/services/general-boat-driving-licence",
+      "link": "https://www.service.nsw.gov.au/services/general-boat-driving-licence"
+    },
+    {
+      "q": "How do I get a PWC licence?",
+      "a": "Information on obtaining a Personal Watercraft (PWC) licence is available here: https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence",
+      "link": "https://www.service.nsw.gov.au/services/personal-watercraft-pwc-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:33Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "decb351164daf5b0d75e0184747b793c08e0a2ea",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

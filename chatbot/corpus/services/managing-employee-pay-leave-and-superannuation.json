@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation",
+  "source_url": "https://www.service.nsw.gov.au/services/managing-employee-pay-leave-and-superannuation",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "managing-employee-pay-leave-and-superannuation",
+  "title": "Manage employee pay, leave and superannuation",
+  "summary": "This page provides resources and tools for employers to manage employee pay, leave, and superannuation obligations.",
+  "topics": [
+    "employer",
+    "payroll",
+    "superannuation",
+    "leave",
+    "pay-and-wages"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Employer"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Employee entitlements and obligations",
+      "link": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "text": "Manage employees and contractors",
+      "link": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Register for Pay As You Go (PAYG) withholding",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-pay-as-you-go-payg-withholding"
+    },
+    {
+      "text": "Use the tax withheld calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-tax-withheld-calculator"
+    },
+    {
+      "text": "Check award rates, pay and wages",
+      "url": "https://www.service.nsw.gov.au/referral/check-award-rates-pay-and-wages"
+    },
+    {
+      "text": "Register for fringe benefits tax",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-fringe-benefits-tax"
+    },
+    {
+      "text": "Using the notice and redundancy calculator",
+      "url": "https://www.service.nsw.gov.au/referral/using-the-notice-and-redundancy-calculator"
+    },
+    {
+      "text": "Comply with long service leave requirements",
+      "url": "https://www.service.nsw.gov.au/referral/comply-with-long-service-leave-requirements"
+    },
+    {
+      "text": "Small Business Superannuation Clearing House (SBSCH)",
+      "url": "https://www.service.nsw.gov.au/guide/small-business-superannuation-clearing-house-sbsch"
+    },
+    {
+      "text": "Use the superannuation guarantee contributions calculator",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-contributions-calculator"
+    },
+    {
+      "text": "Use the superannuation guarantee eligibility decision tool",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-superannuation-guarantee-eligibility-decision-tool"
+    },
+    {
+      "text": "Paying super contributions using SuperStream",
+      "url": "https://www.service.nsw.gov.au/transaction/paying-super-contributions-using-superstream"
+    },
+    {
+      "text": "Registering as a working holiday maker employer",
+      "url": "https://www.service.nsw.gov.au/referral/registering-as-a-working-holiday-maker-employer"
+    },
+    {
+      "text": "Employee entitlements and obligations",
+      "url": "https://www.service.nsw.gov.au/services/employee-entitlements-and-obligations"
+    },
+    {
+      "text": "Manage employees and contractors",
+      "url": "https://www.service.nsw.gov.au/referral/managing-employees-and-contractors"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I manage my employee's pay and taxes?",
+      "a": "You can register for Pay As You Go (PAYG) withholding, use the tax withheld calculator, and check award rates, pay and wages.",
+      "link": "https://www.service.nsw.gov.au/referral/register-for-pay-as-you-go-payg-withholding"
+    },
+    {
+      "q": "What are the requirements for employee leave?",
+      "a": "You can find information on how to comply with long service leave requirements.",
+      "link": "https://www.service.nsw.gov.au/referral/comply-with-long-service-leave-requirements"
+    },
+    {
+      "q": "How do I handle superannuation contributions?",
+      "a": "You can use calculators and tools to manage superannuation guarantee contributions, pay contributions via SuperStream, or learn about the Small Business Superannuation Clearing House (SBSCH).",
+      "link": "https://www.service.nsw.gov.au/guide/small-business-superannuation-clearing-house-sbsch"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:28Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "8b80c99b58eaa0706399a57b66238f88670608c9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

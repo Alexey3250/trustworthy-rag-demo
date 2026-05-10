@@ -1,0 +1,157 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-building-practitioner-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-building-practitioner-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-building-practitioner-registration",
+  "title": "Renew a building practitioner registration",
+  "summary": "Learn how to renew your building practitioner registration online before it expires.",
+  "topics": [
+    "building-practitioner",
+    "registration",
+    "renewal",
+    "nsw"
+  ],
+  "intro": "When your building practitioner registration is nearing its expiry date you'll receive a renewal notice. You can then renew your registration online before the due date.\n\n### If your registration has expired\n\nYou cannot make declarations or lodge regulated designs as a building practitioner in NSW if your registration has expired.\n\n### Change of name or contact details\n\nIf you have changed your name or contact details do not start your application until you complete and lodge a Building Commission NSW form for Change of Details – PDF.\n\n### Check your details\n\nTo check your registration number and details, visit Verify NSW.",
+  "who_can_apply": [
+    "Be aged 18 or over.",
+    "Complete the approved education and training requirements for continuing professional development (CPD) and meet the requirements to maintain your registration.",
+    "Meet the requirements to work on regulated buildings.",
+    "Hold the required level of insurance cover."
+  ],
+  "what_you_need": [
+    "Your registration number.",
+    "Your renewal number (as shown on your renewal notice).",
+    "Evidence of your continuing professional development.",
+    "Your fee payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents including evidence of your continuing professional development.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Renew online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to renew your registration.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "your application will be assessed by Building Commission NSW on set criteria for:",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "if Building Commission NSW contacts you to ask for more information the processing time may increase",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "you will be notified about the result of your application when the assessment is completed.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have questions about your registration you can contact Building Commission NSW.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "restore or replace a licence or registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/renew-restore-or-replace"
+    },
+    {
+      "text": "Change of Details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/DBP"
+    },
+    {
+      "text": "maintain your registration",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/building-practitioners#toc-maintaining-your-registration"
+    },
+    {
+      "text": "work on regulated buildings",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/professionals-working-on-regulated-buildings/design-and-building-practitioners"
+    },
+    {
+      "text": "insurance cover",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/insurance-cover"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-registration"
+    },
+    {
+      "text": "assessment process and time frames for licence and registration applications",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames"
+    },
+    {
+      "text": "Building practitioner registration – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/building-commission/about-us/privacy/privacy-collection-notices/privacy-collection-notice-for-building-practitioner-registration"
+    },
+    {
+      "text": "Enquiry form",
+      "url": "https://dbp-enquiry.fairtrading.nsw.gov.au/forms/20467"
+    },
+    {
+      "text": "Design and Building Practitioners Act 2020",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2020-007"
+    },
+    {
+      "text": "Design and Building Practitioners Regulation 2021",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/sl-2021-0152"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "reapply for registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-building-practitioner-registration"
+    },
+    {
+      "text": "Apply for design or building practitioner registration for a body corporate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-design-or-building-practitioner-registration-for-a-body-corporate"
+    },
+    {
+      "text": "Renew a design or building practitioner registration for a body corporate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-design-or-building-practitioner-registration-for-a-body-corporate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if my building practitioner registration has expired?",
+      "a": "You cannot make declarations or lodge regulated designs as a building practitioner in NSW if your registration has expired.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I have changed my name or contact details?",
+      "a": "Do not start your application until you complete and lodge a Building Commission NSW form for Change of Details.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59854.pdf"
+    },
+    {
+      "q": "How can I check my current registration details?",
+      "a": "You can visit Verify NSW to check your registration number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/DBP"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:49Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "1552fb055ff05b0fc9fc037a81286c6f1061ba69",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

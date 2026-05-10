@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-care-icare",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-care-icare",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dust-diseases-care-icare",
+  "title": "Dust Diseases Care (icare)",
+  "summary": "This page provides information about care for dust diseases, including who is covered and how to get help.",
+  "topics": [
+    "dust-diseases",
+    "icare",
+    "work-related-illness",
+    "health-care"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "People who are injured or ill due to work-related dust diseases."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/who-we-care-for",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/who-we-care-for"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is covered for dust diseases?",
+      "a": "icare provides care for people who are injured or ill due to work-related dust diseases.",
+      "link": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/who-we-care-for"
+    },
+    {
+      "q": "Where can I find more information about icare?",
+      "a": "You can find more information about icare at the Service NSW directory.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a14d53fd8491d0f0049445e6e486727e436c153d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

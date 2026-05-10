@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-with-outstanding-defects",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-with-outstanding-defects",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-the-registration-on-a-vehicle-with-outstanding-defects",
+  "title": "Renew the registration on a vehicle with outstanding defects",
+  "summary": "Learn how to renew your vehicle registration if your vehicle has outstanding defects by passing a specialist inspection and safety check.",
+  "topics": [
+    "vehicle-registration",
+    "defects",
+    "safety-check",
+    "service-nsw"
+  ],
+  "intro": "If your vehicle has been issued with a defect notice, you can renew your registration after the vehicle passes a specialist inspection, has all defects cleared, and passes another safety check.\n\nOnce you've passed the safety check, please visit a Service NSW Centre.",
+  "who_can_apply": [
+    "Your vehicle has been issued with a defect notice."
+  ],
+  "what_you_need": [
+    "Your renewal notice (unless you have opted in to Digital Vehicle Registration)",
+    "A safety inspection report (pink slip) dated after the defect notices (the mechanic will notify Transport for NSW (TfNSW) electronically)",
+    "Compulsory third party (CTP) insurance policy (green slip) (your insurer will usually send this electronically to TfNSW)",
+    "Details of vehicle design alterations (if applicable)",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and provide your information in person.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Driving in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/living-in-nsw/driving-boating-and-transport/driving-nsw"
+    },
+    {
+      "text": "Safety checks and vehicle inspections",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Use the vehicle registration calculator",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-vehicle-registration-calculator"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:32Z",
+    "last_modified": "17 October 2024",
+    "html_sha1": "629fb0072fb6b515100706633a4fa383eae6ef52",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

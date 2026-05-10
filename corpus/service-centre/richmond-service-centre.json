@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/richmond-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/richmond-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "richmond-service-centre",
+  "title": "Richmond Service Centre",
+  "summary": "This page provides information about the Richmond Service Centre, including payment options, accessibility facilities, and directions to other nearby Service NSW centres.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payments",
+    "richmond"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.597279,150.752633"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Tallawong Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/tallawong-service-centre"
+    },
+    {
+      "text": "Penrith Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/penrith-service-centre"
+    },
+    {
+      "text": "Mount Druitt Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/mount-druitt-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:13Z",
+    "last_modified": null,
+    "html_sha1": "71a0d211fc1f58a2f1029217c0a1e5cb9d1aa98e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

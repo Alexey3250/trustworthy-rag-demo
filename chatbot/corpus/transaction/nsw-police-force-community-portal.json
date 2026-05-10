@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/nsw-police-force-community-portal",
+  "source_url": "https://www.service.nsw.gov.au/transaction/nsw-police-force-community-portal",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "nsw-police-force-community-portal",
+  "title": "Access the NSW Police Force Community Portal",
+  "summary": "Use the NSW Police Force Community Portal to report incidents and check the status of your police reports online.",
+  "topics": [
+    "police-report",
+    "community-portal",
+    "report-crime",
+    "nsw-police"
+  ],
+  "intro": "You can make a police report online and get status updates through the NSW Police Force Community Portal.\n\nThe portal allows you to report incidents such as:\n\nWhen you access the portal, you'll need to:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report theft",
+      "url": "https://www.service.nsw.gov.au/transaction/report-theft"
+    },
+    {
+      "text": "Report lost property",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "text": "Report intentional damage or graffiti to NSW Police",
+      "url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:27Z",
+    "last_modified": "5 November 2025",
+    "html_sha1": "1d1da5aadd42117bc1f62ff23187325b331d58b7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

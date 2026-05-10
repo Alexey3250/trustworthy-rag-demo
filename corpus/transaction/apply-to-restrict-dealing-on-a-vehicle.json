@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-restrict-dealing-on-a-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-restrict-dealing-on-a-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-restrict-dealing-on-a-vehicle",
+  "title": "Apply to restrict dealing on a vehicle",
+  "summary": "You can place a dealing restriction on a vehicle at a Service NSW Centre if you need to stop it from being sold.",
+  "topics": [
+    "vehicle",
+    "dealing-restriction",
+    "service-nsw",
+    "ownership"
+  ],
+  "intro": "If you need to stop a vehicle being sold, you can place a dealing restriction on it at a Service NSW Centre.\n\nA dealing restriction is placed on a vehicle when ownership is disputed. Registration can be renewed on the vehicle, but it can't be transferred or re-established.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your proof of identity",
+    "A court order (if applicable)",
+    "A police report or COPS Event Number (if applicable)",
+    "A financial management order (if applicable)",
+    "A copy of the will/last testament if you are the executor of the estate (if applicable)",
+    "Authorisation from the company, if you are representing their directions (if applicable)",
+    "Evidence that you are a company director (if applicable)",
+    "The PDF form – 'Dealing Restriction Application' (with a daytime contact number included)",
+    "Documentary evidence that legal proceedings have commenced, or a letter from a legal representative that legal proceedings are about to commence",
+    "Written proof of the relationship between the parties (for example, a letter from a solicitor outlining the relationship)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you've attached all the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Dealing Restriction Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071149-dealing-restriction.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a dealing restriction?",
+      "a": "A dealing restriction is placed on a vehicle when ownership is disputed. While registration can be renewed, the vehicle cannot be transferred or re-established.",
+      "link": null
+    },
+    {
+      "q": "Where can I place a dealing restriction?",
+      "a": "You can place a dealing restriction on a vehicle at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to apply for a dealing restriction?",
+      "a": "You need various documents, including proof of identity, the application form, and evidence related to the dispute.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:13Z",
+    "last_modified": "18 November 2025",
+    "html_sha1": "a03368ffdc0c47c853f35d93ef9b6ce4468cadc6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

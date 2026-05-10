@@ -1,0 +1,145 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-assessor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-assessor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-asbestos-assessor-licence",
+  "title": "Apply for an asbestos assessor licence",
+  "summary": "Apply for an asbestos assessor licence online if you work in the asbestos removal industry.",
+  "topics": [
+    "asbestos-assessor-licence",
+    "asbestos-removal",
+    "licence-application",
+    "safety-training"
+  ],
+  "intro": "If you work in the asbestos removal industry and want to become an asbestos assessor, you need to apply for an asbestos assessor licence.\n\nAsbestos assessors carry out air monitoring and clearance inspections, and issue clearance certificates.\n\nYou can apply for the licence online.\n\nNote: The person who'll be holding the licence must complete the application.\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Be aged 18 years or over.",
+    "Hold the relevant qualifications.",
+    "Have the required training or experience in friable asbestos industry practice."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account.",
+    "Proof of identity.",
+    "A copy of your interstate asbestos assessor licence (if applicable).",
+    "A general construction induction card (or NSW statement of training number).",
+    "A digital photo for your licence card.",
+    "Your qualification(s), including evidence of experience (not more than 5 years old) working on at least 3 asbestos assessor jobs over a 3-year period.",
+    "A reference letter from an employer or organisation, dated and signed on a business letterhead document."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Apply online’ button.Note: You can save and resume your application, but if you have not submitted it within 60 days, any details you’ve entered will be deleted.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take a digital photo of yourself, or have one taken, for your printed photo-card, if your licence is approved.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Gather and upload your supporting documents, including the digital photo.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Make your payment.",
+      "link": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "n": 7,
+      "text": "Submit your application.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Visit a Service NSW Centre with your photo ID within 30 days of submitting your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "After you’ve submitted your application, SafeWork NSW will assess it and decide if an asbestos assessor licence can be issued.",
+      "link": null
+    },
+    {
+      "text": "If you withdraw your application or are refused a licence, the processing fee will not be refunded.",
+      "link": null
+    },
+    {
+      "text": "Asbestos assessor licences last for 5 years.",
+      "link": null
+    },
+    {
+      "text": "If you already hold an asbestos assessor licence from a different state or territory, you’ll need to surrender it or show that it’s going to expire soon.",
+      "link": null
+    },
+    {
+      "text": "For more detailed information, go to the SafeWork NSW website.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "SafeWork NSW website",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/asbestos-assessor-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Apply for an asbestos removal licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-removal-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs an asbestos assessor licence?",
+      "a": "Anyone who works in the asbestos removal industry and wants to become an asbestos assessor.",
+      "link": null
+    },
+    {
+      "q": "What do asbestos assessors do?",
+      "a": "Asbestos assessors carry out air monitoring, clearance inspections, and issue clearance certificates.",
+      "link": null
+    },
+    {
+      "q": "What must I do if I hold an interstate licence?",
+      "a": "Under the Automatic Mutual Recognition (AMR) scheme, you must notify the licence regulator of your intention to work in NSW.",
+      "link": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:41Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "e06d216bfe0611e6f007d99462060100ee4b4a93",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

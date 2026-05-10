@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-general-construction-induction-card-white-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-general-construction-induction-card-white-card",
+  "title": "Replace a general construction induction card (white card)",
+  "summary": "You can order and pay for a replacement general construction induction card (white card) online if your details match those on your card.",
+  "topics": [
+    "construction-site",
+    "white-card",
+    "replace-card",
+    "safework-nsw"
+  ],
+  "intro": "Workers on construction sites must have a SafeWork NSW general construction induction card, known as a white card.\n\nIf your white card has been lost, stolen, damaged or destroyed you can order and pay for a replacement online if your details match those on your card.\n\nThe replacement card will be sent to your postal address.\n\n### Before you start\n\nIf your address or contact details have changed do not start your application until you complete the update contact details form.\n\nTo check your white card number and details visit Verify NSW.",
+  "who_can_apply": [
+    "You must have already been issued a white card.",
+    "Your details must match those on your card."
+  ],
+  "what_you_need": [
+    "A credit or debit card to pay the replacement fee.",
+    "If your card contains errors, you need to call 13 10 50."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Replace online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to apply for a replacement card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "update contact details form",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/GCIT"
+    },
+    {
+      "text": "replacement fee",
+      "url": "https://www.safework.nsw.gov.au/resource-library/licence-and-registrations/licensing-fees"
+    },
+    {
+      "text": "White cards – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/white-cards"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Add your digital white card to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Change details on a general construction induction card or traffic control training work card",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-on-a-white-card-or-tcwt-card"
+    },
+    {
+      "text": "Replace a high risk work licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-high-risk-work-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a general construction induction card (white card)?",
+      "a": "Workers on construction sites must have a SafeWork NSW general construction induction card, known as a white card.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my white card is lost, stolen, damaged, or destroyed?",
+      "a": "You can order and pay for a replacement online if your details match those on your card. The replacement card will be sent to your postal address.",
+      "link": null
+    },
+    {
+      "q": "Do I need to update my contact details before applying for a replacement?",
+      "a": "If your address or contact details have changed, do not start your application until you complete the update contact details form.",
+      "link": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/LicenceForm.mvc/NewApplication?formId=1c56bd08-cbd2-4db8-a66d-dbb386d18ad8&agencyID=54f7539b-566b-4ec3-8a66-115d21796436"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:32Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "2044e095b1a31b3be1904489e04044ac4525780a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/live-traffic-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "live-traffic-nsw",
+  "title": "Check road and traffic conditions with Live Traffic NSW",
+  "summary": "Check real-time information about roads and traffic conditions, including road closures and hazards, across NSW.",
+  "topics": [
+    "traffic",
+    "road-conditions",
+    "nsw-driving",
+    "road-closures"
+  ],
+  "intro": "Live Traffic NSW provides real-time information about roads and changed traffic conditions that affect your journey on roads throughout NSW.\n\nYou can find out about changes, road conditions and road closures resulting from:\n\nThe service is managed by Transport for NSW’s Transport Management Centre.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "To check for roadworks, water levels and hazards, enter your origin and destination points when you plan a trip within NSW",
+      "link": "https://www.livetraffic.com"
+    },
+    {
+      "n": 2,
+      "text": "You can view a list of current incidents by region or check hazards closed in the past 24 hours when you check traffic incidents",
+      "link": "https://www.livetraffic.com/incident-list"
+    },
+    {
+      "n": 3,
+      "text": "Search the traffic cameras list or find locations by region: find traffic cameras",
+      "link": "https://www.livetraffic.com/traffic-cameras"
+    },
+    {
+      "n": 4,
+      "text": "ACT",
+      "link": "https://www.cityservices.act.gov.au/roads-and-paths"
+    },
+    {
+      "n": 5,
+      "text": "Northern Territory",
+      "link": "https://nt.gov.au/driving"
+    },
+    {
+      "n": 6,
+      "text": "Queensland",
+      "link": "https://qldtraffic.qld.gov.au/"
+    },
+    {
+      "n": 7,
+      "text": "South Australia",
+      "link": "https://traffic.sa.gov.au/"
+    },
+    {
+      "n": 8,
+      "text": "Tasmania",
+      "link": "https://www.transport.tas.gov.au/roadworks"
+    },
+    {
+      "n": 9,
+      "text": "Victoria",
+      "link": "https://traffic.transport.vic.gov.au/"
+    },
+    {
+      "n": 10,
+      "text": "Western Australia",
+      "link": "https://www.mainroads.wa.gov.au/"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "plan a trip within NSW",
+      "url": "https://www.livetraffic.com"
+    },
+    {
+      "text": "check traffic incidents",
+      "url": "https://www.livetraffic.com/incident-list"
+    },
+    {
+      "text": "find traffic cameras",
+      "url": "https://www.livetraffic.com/traffic-cameras"
+    },
+    {
+      "text": "ACT",
+      "url": "https://www.cityservices.act.gov.au/roads-and-paths"
+    },
+    {
+      "text": "Northern Territory",
+      "url": "https://nt.gov.au/driving"
+    },
+    {
+      "text": "Queensland",
+      "url": "https://qldtraffic.qld.gov.au/"
+    },
+    {
+      "text": "South Australia",
+      "url": "https://traffic.sa.gov.au/"
+    },
+    {
+      "text": "Tasmania",
+      "url": "https://www.transport.tas.gov.au/roadworks"
+    },
+    {
+      "text": "Victoria",
+      "url": "https://traffic.transport.vic.gov.au/"
+    },
+    {
+      "text": "Western Australia",
+      "url": "https://www.mainroads.wa.gov.au/"
+    },
+    {
+      "text": "feedback form",
+      "url": "https://www.livetraffic.com/help"
+    },
+    {
+      "text": "Download for Android",
+      "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.rfs.firesnearme.nsw&hl=en_AU"
+    },
+    {
+      "text": "Download for iPhone",
+      "url": "https://apps.apple.com/au/app/fires-near-me-nsw/id370891827"
+    },
+    {
+      "text": "NSW Rural Fire Service website",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/fires-near-me"
+    },
+    {
+      "text": "Live Traffic NSW app – iPhone",
+      "url": "https://apps.apple.com/au/app/live-traffic-nsw/id447303817"
+    },
+    {
+      "text": "Live Traffic NSW app – Android",
+      "url": "https://play.google.com/store/apps/details?id=com.livetrafficnsw&hl=en_AU"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "storms and floods",
+      "url": "https://www.service.nsw.gov.au/guide/storm-and-flood-preparation-and-recovery"
+    },
+    {
+      "text": "bushfires",
+      "url": "https://www.service.nsw.gov.au/guide/bushfire-preparation-and-recovery"
+    },
+    {
+      "text": "Report a traffic accident, breakdown or other incident",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-traffic-breakdown-or-other-incident"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check for roadworks, water levels, and hazards?",
+      "a": "Enter your origin and destination points when planning a trip within NSW.",
+      "link": "https://www.livetraffic.com"
+    },
+    {
+      "q": "Where can I view current traffic incidents or past hazards?",
+      "a": "You can view a list of current incidents by region or check hazards closed in the past 24 hours when checking traffic incidents.",
+      "link": "https://www.livetraffic.com/incident-list"
+    },
+    {
+      "q": "How do I find traffic cameras or locations by region?",
+      "a": "You can search the traffic cameras list or find locations by region.",
+      "link": "https://www.livetraffic.com/traffic-cameras"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:29Z",
+    "last_modified": "4 February 2025",
+    "html_sha1": "c9894726adf2c34a93a290c579f2747fa4d06197",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-tertiary-and-tafe-students",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-tertiary-and-tafe-students",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-tertiary-and-tafe-students",
+  "title": "Public transport concessions for tertiary and TAFE students",
+  "summary": "This page provides information on public transport concessions available for tertiary and TAFE students in NSW.",
+  "topics": [
+    "tertiary-student",
+    "tafe-student",
+    "public-transport",
+    "concessions",
+    "nsw"
+  ],
+  "intro": "If you are a tertiary or TAFE student in NSW, you may be able to get cheaper public transport. Many students need two things:",
+  "who_can_apply": [
+    "Must live in NSW.",
+    "Must be an Australian citizen or permanent resident enrolled full-time in an approved higher education or vocational course (exceptions apply for students with disability who must study part-time or externally).",
+    "Must be an international student on one of the specified scholarships."
+  ],
+  "what_you_need": [
+    "Transport Concession Entitlement Card",
+    "Concession Opal card",
+    "Regional travel"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/tertiary-tafe-students"
+    },
+    {
+      "text": "NSW TrainLink Regional services",
+      "url": "https://transportnsw.info/regional-travel/booking-information/ways-to-book-your-ticket"
+    },
+    {
+      "text": "Local Transport Operators",
+      "url": "https://transportnsw.info/operators"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible for public transport concessions?",
+      "a": "You must live in NSW and be an Australian citizen or permanent resident enrolled full-time in an approved higher education or vocational course (exceptions apply for students with disability who study part-time or externally), or be an international student on a specific scholarship.",
+      "link": null
+    },
+    {
+      "q": "What types of concessions are available?",
+      "a": "Concessions include the Transport Concession Entitlement Card, Concession Opal card, and regional travel options.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about my concession?",
+      "a": "You can check eligibility and details on the Transport for NSW website.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/tertiary-tafe-students"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:51Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "cd41966be8408d21e0f95aba1cc70e5b32fc3eeb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

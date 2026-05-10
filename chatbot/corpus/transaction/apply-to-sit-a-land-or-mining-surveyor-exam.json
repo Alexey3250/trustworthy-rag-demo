@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-sit-a-land-or-mining-surveyor-exam",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-sit-a-land-or-mining-surveyor-exam",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-sit-a-land-or-mining-surveyor-exam",
+  "title": "Apply to sit a land or mining surveyor exam",
+  "summary": "Learn how to apply to sit the Board of Surveying and Spatial Information (BOSSI) exams to become a registered land or mining surveyor.",
+  "topics": [
+    "surveyor",
+    "land-surveyor",
+    "mining-surveyor",
+    "exam"
+  ],
+  "intro": "Candidate land or mining surveyors need to sit Board of Surveying and Spatial Information (BOSSI) exams to become registered surveyors.\n\nTo sit the exam you have to apply and be accepted. If your application is not accepted, BOSSI will refund your application fee.",
+  "who_can_apply": [
+    "Paid your annual candidate surveyor enrolment fee",
+    "Completed the specified minimum period of recognised practical work experience",
+    "Have a supervising surveyor",
+    "Check BOSSI guidelines and determinations for specific eligibility and exam requirements"
+  ],
+  "what_you_need": [
+    "Your registration number",
+    "Your supervising surveyor’s full name, contact details and registration number",
+    "Proof of eligibility",
+    "A creditor debit card to pay the application fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Start' button on the application screen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to proceed to payment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "BOSSI guidelines and determinations",
+      "url": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    },
+    {
+      "text": "application fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "Land surveyors: pathway to registration – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors/pathway_to_registration"
+    },
+    {
+      "text": "Mining surveyors: pathway to registration – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_mining_surveyors/pathway_to_registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be a candidate land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor"
+    },
+    {
+      "text": "Apply for a candidate surveyor training workshop",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-candidate-surveyor-training-workshop"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is required to become a registered surveyor?",
+      "a": "Candidate land or mining surveyors must sit BOSSI exams to become registered surveyors.",
+      "link": null
+    },
+    {
+      "q": "What happens if my application to sit the exam is not accepted?",
+      "a": "BOSSI will refund your application fee.",
+      "link": null
+    },
+    {
+      "q": "Where can I find specific eligibility and exam requirements?",
+      "a": "Visit the BOSSI guidelines and determinations.",
+      "link": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:27Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "034d54cc4da1fffb715efed01c0fa825b017cd4f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

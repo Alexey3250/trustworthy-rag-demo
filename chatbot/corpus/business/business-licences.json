@@ -1,0 +1,143 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/business-licences",
+  "source_url": "https://www.service.nsw.gov.au/business/business-licences",
+  "category": "business",
+  "article_kind": "category",
+  "slug": "business-licences",
+  "title": "Business licences",
+  "summary": "This page provides information and links to various business and industry licences and support services available in NSW.",
+  "topics": [
+    "business-licences",
+    "industry-licences",
+    "business-support",
+    "nsw-business"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for outdoor dining approval",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-outdoor-dining-approval"
+    },
+    {
+      "text": "Apply for a licence to play music at your business",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-play-music-at-your-business"
+    },
+    {
+      "text": "Apply for a development application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-development-application"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Leases for cafes, restaurants and small bars",
+      "url": "https://www.service.nsw.gov.au/guide/leases-for-cafes-restaurants-and-small-bars"
+    },
+    {
+      "text": "Liquor licences and information",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "Licence Manager",
+      "url": "https://www.service.nsw.gov.au/business/business-profile/licence-manager"
+    },
+    {
+      "text": "Agriculture and farming",
+      "url": "https://www.service.nsw.gov.au/services/agriculture-and-farming-industry"
+    },
+    {
+      "text": "Building and construction",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    },
+    {
+      "text": "Cleaning",
+      "url": "https://www.service.nsw.gov.au/services/cleaning-industry"
+    },
+    {
+      "text": "Debt collection",
+      "url": "https://www.service.nsw.gov.au/services/debt-collection-industry"
+    },
+    {
+      "text": "Food production",
+      "url": "https://www.service.nsw.gov.au/services/food-production-industry"
+    },
+    {
+      "text": "Hospitality",
+      "url": "https://www.service.nsw.gov.au/services/hospitality-industry"
+    },
+    {
+      "text": "Maritime and shipping",
+      "url": "https://www.service.nsw.gov.au/services/maritime-and-shipping-industry"
+    },
+    {
+      "text": "Motor vehicle and road transport",
+      "url": "https://www.service.nsw.gov.au/services/motor-vehicle-and-road-transport-industry"
+    },
+    {
+      "text": "Private health",
+      "url": "https://www.service.nsw.gov.au/services/private-health-industry"
+    },
+    {
+      "text": "Retail",
+      "url": "https://www.service.nsw.gov.au/services/retail-industry"
+    },
+    {
+      "text": "Security",
+      "url": "https://www.service.nsw.gov.au/services/security-industry"
+    },
+    {
+      "text": "Personalised support The Service NSW Business Bureau offers one-on-one support for your business, including help with licences and permits.",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "Service NSW Business Profile With a Business Profile, you can keep track of your licences, applications, or support programs and search for government tenders.",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app Manage your business transactions, save and track licences, and connect with us via your mobile device.",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about specific industry licences?",
+      "a": "The page lists various industry licences, including agriculture and farming, building and construction, food production, and hospitality.",
+      "link": null
+    },
+    {
+      "q": "How can I get support with my business licences?",
+      "a": "You can access personalised support from the Service NSW Business Bureau, which offers one-on-one help with licences and permits.",
+      "link": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "q": "What services can I use to manage my business transactions?",
+      "a": "You can use the Service NSW Business Profile to track licences and applications, or use the Service NSW Business Bureau app to manage transactions and save licences.",
+      "link": null
+    },
+    {
+      "q": "What are some common types of business licences I might need?",
+      "a": "Common licences include outdoor dining approval, playing music at a business, development applications, and liquor licences.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:15Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "0193b897a03cdf9c54f4df523004c3f231ba8e08",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

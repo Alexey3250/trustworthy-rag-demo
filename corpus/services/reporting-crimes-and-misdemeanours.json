@@ -1,0 +1,160 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours",
+  "source_url": "https://www.service.nsw.gov.au/services/reporting-crimes-and-misdemeanours",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "reporting-crimes-and-misdemeanours",
+  "title": "Report a crime, scam or misdemeanour",
+  "summary": "This page provides various ways to report different types of crimes, scams, misdemeanours, and concerns in New South Wales.",
+  "topics": [
+    "report-crime",
+    "report-scam",
+    "report-misdemeanour",
+    "lost-property",
+    "community-safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Access the NSW Police Force Community Portal",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-police-force-community-portal"
+    },
+    {
+      "text": "Report theft",
+      "url": "https://www.service.nsw.gov.au/transaction/report-theft"
+    },
+    {
+      "text": "Report an incident to Crime Stoppers",
+      "url": "https://www.service.nsw.gov.au/transaction/report-an-incident-to-crime-stoppers"
+    },
+    {
+      "text": "Losing your wallet",
+      "url": "https://www.service.nsw.gov.au/guide/losing-your-wallet"
+    },
+    {
+      "text": "Report lost property",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "text": "Finding lost money",
+      "url": "https://www.service.nsw.gov.au/guide/finding-lost-money"
+    },
+    {
+      "text": "Report identity theft, scams or cybercrime",
+      "url": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "text": "Report suspected business fraud",
+      "url": "https://www.service.nsw.gov.au/transaction/report-fraud"
+    },
+    {
+      "text": "Report a pet scam",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-pet-scam"
+    },
+    {
+      "text": "Report a complaint or concern",
+      "url": "https://www.service.nsw.gov.au/services/complaints"
+    },
+    {
+      "text": "Report erratic or unsafe driving practices",
+      "url": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices"
+    },
+    {
+      "text": "Report suspected odometer tampering",
+      "url": "https://www.service.nsw.gov.au/transaction/report-suspected-odometer-tampering"
+    },
+    {
+      "text": "Report a stolen vessel or engine as recovered",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-stolen-vessel-or-engine-as-recovered"
+    },
+    {
+      "text": "Report a vessel or engine as stolen",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-vessel-or-engine-as-stolen"
+    },
+    {
+      "text": "Report an abandoned or dumped vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle"
+    },
+    {
+      "text": "Report noise pollution",
+      "url": "https://www.service.nsw.gov.au/referral/report-noise-pollution"
+    },
+    {
+      "text": "Report a smoky vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-smoky-vehicle"
+    },
+    {
+      "text": "Report littering from a vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-littering-from-a-vehicle"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "text": "Report a nuisance dog or cat",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    },
+    {
+      "text": "Submit a greyhound welfare or integrity concern online",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-greyhound-welfare-or-integrity-concern-online"
+    },
+    {
+      "text": "Report intentional damage or graffiti to NSW Police",
+      "url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police"
+    },
+    {
+      "text": "Report graffiti on community facilities or public assets",
+      "url": "https://www.service.nsw.gov.au/referral/report-graffiti"
+    },
+    {
+      "text": "Report a cigarette butt tosser",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-cigarette-butt-tosser"
+    },
+    {
+      "text": "Report smoking or e-cigarette use in a smoke-free place",
+      "url": "https://www.service.nsw.gov.au/referral/report-smoking-or-e-cigarette-use-in-a-smoke-free-place"
+    },
+    {
+      "text": "Report a retailer breaking tobacco/e-cigarette retailing laws",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-retailer-breaking-tobacco-e-cigarette-retailing-laws"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I report theft or a general crime?",
+      "a": "You can access the NSW Police Force Community Portal or report theft directly.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-theft"
+    },
+    {
+      "q": "How do I report a scam, identity theft, or cybercrime?",
+      "a": "You can report identity theft, scams, or cybercrime using the dedicated portal.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "q": "What if I find lost property or money?",
+      "a": "You can report lost property or find information on finding lost money.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "q": "How do I report issues with vehicles or vessels?",
+      "a": "You can report issues such as erratic driving, suspected odometer tampering, or abandoned vehicles.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-erratic-or-unsafe-driving-practices"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:44Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4ca3cd3c0c863c1eddb964be49b7083da451dc06",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

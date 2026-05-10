@@ -1,0 +1,52 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/screen-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/screen-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "screen-nsw",
+  "title": "Screen NSW",
+  "summary": "This page provides information about Screen NSW, which supports the creative industries in New South Wales.",
+  "topics": [
+    "screen-nsw",
+    "creative-industries",
+    "film",
+    "tourism",
+    "hospitality"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.screen.nsw.gov.au/",
+      "url": "https://www.screen.nsw.gov.au/"
+    },
+    {
+      "text": "Permits and protocols – Screen NSW",
+      "url": "https://www.screen.nsw.gov.au/make-it-in-nsw/permits-and-protocols"
+    },
+    {
+      "text": "Filming in Sydney – Screen NSW",
+      "url": "https://www.screen.nsw.gov.au/make-it-in-nsw/sydney-city-of-film?stage=Live"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:30Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "2acacb87e9070d3e2cdfa6a0aa5659246bdd890e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

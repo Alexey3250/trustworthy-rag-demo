@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-national-parks-annual-pass-discounts-when-you-renew-your-rego",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-national-parks-annual-pass-discounts-when-you-renew-your-rego",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-national-parks-annual-pass-discounts-when-you-renew-your-rego",
+  "title": "Access National Parks annual pass discounts when you renew your rego",
+  "summary": "Eligible customers can receive discounts on certain National Parks annual passes when they renew their vehicle registration online.",
+  "topics": [
+    "national-parks",
+    "annual-pass",
+    "registration-renewal",
+    "discounts",
+    "vehicle-pass"
+  ],
+  "intro": "Discounts on certain National Parks annual passes are offered to eligible customers when they renew their registration online.\n\nThe discounts apply to the:\n\nYour vehicle must be a passenger vehicle with 8 seats or less, and only used for non-commercial purposes.\n\nIf you're eligible and would like to take advantage of the savings offered, you'll be able to select 'Buy a pass' on the final screen of the registration renewal process.",
+  "who_can_apply": [
+    "Your vehicle must be a passenger vehicle with 8 seats or less.",
+    "The vehicle must only be used for non-commercial purposes."
+  ],
+  "what_you_need": [
+    "Be eligible for the discount.",
+    "Select 'Buy a pass' on the final screen of the registration renewal process.",
+    "The registration renewal process can be found at https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Entry fees and passes FAQs – NSW National Parks and Wildlife Service",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/national-parks-annual-pass-faqs"
+    },
+    {
+      "text": "Discount and concession park passes",
+      "url": "https://www.nationalparks.nsw.gov.au/passes-and-fees/discount-and-concession-passes#discount-annual-park-passes-with-nsw-vehicle-registration-renewal"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "registration renewal process",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:42Z",
+    "last_modified": "17 February 2025",
+    "html_sha1": "a3b20725458bbd35e5b695bb469ed24ff22ec280",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

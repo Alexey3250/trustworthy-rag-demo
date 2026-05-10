@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/retrieve-a-fossicking-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/retrieve-a-fossicking-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "retrieve-a-fossicking-permit",
+  "title": "Retrieve a fossicking permit",
+  "summary": "This page explains how to retrieve a copy of your last valid fossicking permit online.",
+  "topics": [
+    "fossicking",
+    "permit",
+    "nsw-state-forests",
+    "minerals"
+  ],
+  "intro": "Fossicking is looking for and collecting gems and minerals with hand tools. You must have a permit to fossick in NSW state forests.\n\nYou can get a copy of your last valid fossicking permit online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The email address you used to apply for the permit."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Retrieve online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the email address you used to apply for the permit.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Carry your permit with you when you go fossicking.",
+      "link": null
+    },
+    {
+      "text": "Follow the rules in the Guide to fossicking in NSW.",
+      "link": "https://www.resourcesregulator.nsw.gov.au/sites/default/files/documents/fossicking-a-guide-to-fossicking-in-nsw.pdf"
+    },
+    {
+      "text": "Before you visit a state forest, check for:",
+      "link": "https://minview.geoscience.nsw.gov.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW state forests",
+      "url": "https://www.forestrycorporation.com.au/visit/forests"
+    },
+    {
+      "text": "Guide to fossicking in NSW",
+      "url": "https://www.resourcesregulator.nsw.gov.au/sites/default/files/documents/fossicking-a-guide-to-fossicking-in-nsw.pdf"
+    },
+    {
+      "text": "permitted fossicking areas",
+      "url": "https://minview.geoscience.nsw.gov.au/"
+    },
+    {
+      "text": "road and forest closures",
+      "url": "https://www.forestrycorporation.com.au/visit/closures"
+    },
+    {
+      "text": "All about fossicking permits",
+      "url": "https://fpos.fcnsw.com.au/FossickMain.ASPX"
+    },
+    {
+      "text": "Important information when visiting state forests",
+      "url": "https://www.forestrycorporation.com.au/visit/important"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a permit to fossick in a NSW state forest",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-permit-to-fossick-in-a-nsw-state-forest"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is fossicking?",
+      "a": "Fossicking is the activity of looking for and collecting gems and minerals using hand tools.",
+      "link": null
+    },
+    {
+      "q": "Do I need a permit to fossick in NSW state forests?",
+      "a": "Yes, you must have a permit to fossick in NSW state forests.",
+      "link": null
+    },
+    {
+      "q": "How do I retrieve my last valid fossicking permit?",
+      "a": "Select the ‘Retrieve online’ button and enter the email address you used to apply for the permit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:55Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "bff8e2c11adf92f1d41574939aa66035b0539093",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

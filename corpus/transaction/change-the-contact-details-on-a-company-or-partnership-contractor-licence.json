@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-contact-details-on-a-company-or-partnership-contractor-licence",
+  "title": "Change the contact details on a company or partnership contractor licence",
+  "summary": "Update your company or partnership contractor licence details if your contact information has changed.",
+  "topics": [
+    "company-licence",
+    "partnership-licence",
+    "contact-details",
+    "service-nsw"
+  ],
+  "intro": "If you hold a company or partnership contractor licence and your contact details have changed (email address, address or phone number), you must update the licence details within 7 days.",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence",
+    "Have changed contact details (email address, address, or phone number)"
+  ],
+  "what_you_need": [
+    "Your licence number",
+    "Your old and new contact details",
+    "The PDF form – 'Notification of Change of Address'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your notification at a Service NSW Centre or by email to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Form HB024: Notification of Change of Address – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382c.pdf"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change a condition on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-condition-on-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Add a category of work to a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-category-of-work-to-a-company-or-partnership-contractor-licence"
+    },
+    {
+      "text": "Change the name on a company or partnership contractor licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-company-or-partnership-contractor-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How quickly must I update my contact details?",
+      "a": "If you hold a company or partnership contractor licence and your contact details have changed (email address, address or phone number), you must update the licence details within 7 days.",
+      "link": null
+    },
+    {
+      "q": "How do I update my contact details?",
+      "a": "Select the 'Download PDF form' button, complete and sign the form, and submit your notification at a Service NSW Centre or by email to the details on the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:37Z",
+    "last_modified": "25 March 2025",
+    "html_sha1": "d44f175160614592471916b370273fa673884cc9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

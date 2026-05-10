@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-personal-watercraft-pwc-driving-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-or-restore-a-personal-watercraft-pwc-driving-licence",
+  "title": "Renew or restore a personal watercraft (PWC) driving licence",
+  "summary": "Learn how to renew or restore your Personal Watercraft (PWC) driving licence.",
+  "topics": [
+    "pwc-licence",
+    "renew-licence",
+    "service-nsw"
+  ],
+  "intro": "Personal watercraft (PWC) driving licences are renewable for 1, 3, 5 or 10 years. You'll need to take the PDF form in person to a Service NSW Centre or Mobile Service Centre.",
+  "who_can_apply": [
+    "The PWC driving licence must be current, or not expired more than 5 years."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Your PWC driving licence details (if available)",
+    "2 colour, passport acceptable photos",
+    "Renewal fee",
+    "Concession card details (if applicable)",
+    "The completed PDF form: Application for a Personal Watercraft Driving Licence"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Application for a Personal Watercraft Driving Licence – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45072013-personal-watercraft-driver-licence.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre/mobile service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The duration of a PWC driving licence can be one (1), 3, 5 or 10 years.",
+      "link": null
+    },
+    {
+      "text": "Licence fees vary depending on the duration of the licence, and whether they are concessional licences.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "You must be under 16 years of age, or hold an eligible concession card at the time of payment, to receive a concession.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "renewal fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/licence-and-test-fees"
+    },
+    {
+      "text": "Application for a Personal Watercraft Driving Licence – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072013-personal-watercraft-driver-licence.pdf"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Get boat or personal watercraft (PWC) licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/get-boat-or-pwc-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Mobile Service Centre",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a general boat licence (not PWC)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a PWC driving licence valid for?",
+      "a": "PWC driving licences can be renewed for 1, 3, 5, or 10 years.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my PWC licence application?",
+      "a": "You must take the completed PDF form in person to a Service NSW Centre or Mobile Service Centre.",
+      "link": null
+    },
+    {
+      "q": "What is the eligibility requirement to renew my PWC licence?",
+      "a": "Your PWC driving licence must be current, or not expired more than 5 years.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:02Z",
+    "last_modified": "23 January 2026",
+    "html_sha1": "d62e53bff2db301287d5396f5871ba77eefd99e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

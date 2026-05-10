@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-qualified-supervisor-certificate",
+  "title": "Surrender a qualified supervisor certificate",
+  "summary": "Learn how to surrender your qualified supervisor certificate at a Service NSW Centre if you no longer need it.",
+  "topics": [
+    "certificate",
+    "supervisor",
+    "surrender",
+    "service-nsw"
+  ],
+  "intro": "If you no longer require your qualified supervisor certificate, you can surrender it at a Service NSW Centre. You need to surrender it if you've stopped doing supervision work in NSW – for example, due to retirement or if you're moving to another state.",
+  "who_can_apply": [
+    "You need to surrender your certificate if you have stopped doing supervision work in NSW, for example, due to retirement or moving to another state."
+  ],
+  "what_you_need": [
+    "Your qualified supervisor certificate card",
+    "The PDF form: 'Surrender of Licence/Certificate'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "HB029: Surrender of Licence/Certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382e.pdf"
+    },
+    {
+      "text": "Compliance and regulation in housing and construction – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:43Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "81fd30ff31f04428364bbb76217a4833b46e1cb0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

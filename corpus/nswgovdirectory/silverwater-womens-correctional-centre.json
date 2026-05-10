@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/silverwater-womens-correctional-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/silverwater-womens-correctional-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "silverwater-womens-correctional-centre",
+  "title": "Silverwater Women's Correctional Centre",
+  "summary": "This page provides information about the Silverwater Women's Correctional Centre.",
+  "topics": [
+    "correctional-centre",
+    "womens-detention",
+    "justice-services",
+    "nsw-corrections"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/silverwater-women-s-correctional-centre.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/silverwater-women-s-correctional-centre.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6e5219c9b77a2d7ae5dace0bbc15e9bf7e918820",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

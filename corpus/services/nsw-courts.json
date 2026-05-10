@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/nsw-courts",
+  "source_url": "https://www.service.nsw.gov.au/services/nsw-courts",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "nsw-courts",
+  "title": "NSW courts",
+  "summary": "This page provides information about the NSW courts and various services related to court processes.",
+  "topics": [
+    "nsw-courts",
+    "legal-process",
+    "court-forms",
+    "jury-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Jury service",
+      "link": "https://www.service.nsw.gov.au/services/jury-service"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Going to court",
+      "url": "https://www.courts.nsw.gov.au/going-to-court.html"
+    },
+    {
+      "text": "Representing yourself in court",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/representing-yourself"
+    },
+    {
+      "text": "File a Defence or Appearance",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/defence-or-appearance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register for a NSW Online Registry account – Courts and Tribunals",
+      "url": "https://www.service.nsw.gov.au/referral/register-for-a-nsw-online-registry-account-courts-and-tribunals"
+    },
+    {
+      "text": "File court forms and documents",
+      "url": "https://www.service.nsw.gov.au/referral/file-court-forms-and-documents"
+    },
+    {
+      "text": "Find a local court in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-local-court-in-nsw"
+    },
+    {
+      "text": "Jury service",
+      "url": "https://www.service.nsw.gov.au/services/jury-service"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find a local court in NSW?",
+      "a": "You can find a local court in NSW using the provided service link.",
+      "link": "https://www.service.nsw.gov.au/referral/find-a-local-court-in-nsw"
+    },
+    {
+      "q": "How do I file court forms and documents?",
+      "a": "You can file court forms and documents using the provided service link.",
+      "link": "https://www.service.nsw.gov.au/referral/file-court-forms-and-documents"
+    },
+    {
+      "q": "What should I know before going to court?",
+      "a": "There is information available about going to court.",
+      "link": "https://www.courts.nsw.gov.au/going-to-court.html"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:44Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "bb5213d2dc5719d8945984877864bc6caed7a95f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

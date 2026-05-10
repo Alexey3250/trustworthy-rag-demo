@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-motor-vehicle-tradesperson-certificate",
+  "title": "Check a motor vehicle tradesperson certificate",
+  "summary": "Check the details of a motor vehicle tradesperson certificate online using required identification information.",
+  "topics": [
+    "motor-vehicle",
+    "tradesperson-certificate",
+    "nsw-service"
+  ],
+  "intro": "If you'd like to check a motor vehicle tradesperson certificate, or search for your own certificate number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "certificate holder's name",
+    "certificate number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb or postcode)",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:46Z",
+    "last_modified": "6 February 2026",
+    "html_sha1": "1bb9bc5b4a7aeb8ad7ac8b8742743b75d0cc0c9d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

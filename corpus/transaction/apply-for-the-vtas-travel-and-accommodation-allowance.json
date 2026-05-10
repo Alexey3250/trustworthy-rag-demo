@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-vtas-travel-and-accommodation-allowance",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-vtas-travel-and-accommodation-allowance",
+  "title": "Apply for the VTAS travel and accommodation allowance",
+  "summary": "Find out if you can apply for financial assistance from the Vocational Training Assistance Scheme (VTAS) if you must travel a long distance for your training.",
+  "topics": [
+    "apprenticeship",
+    "traineeship",
+    "financial-assistance",
+    "vtas",
+    "travel-allowance"
+  ],
+  "intro": "Apprentices or new entrant trainees who have to travel more than 110km (return) to attend day or block release training, may be able to apply for financial assistance from the Vocational Training Assistance Scheme (VTAS).\n\nIf you're eligible, VTAS will provide:\n\nYou must submit your claims no later than 30 June following the year of travel.\n\nNote: Claims for expenses prior to the previous year will not be considered.",
+  "who_can_apply": [
+    "Registered in NSW as an apprentice or new entrant trainee under the Apprenticeship and Traineeship Act 2001",
+    "Place of employment is in NSW",
+    "Must travel more than 110km (return) for off-the-job training"
+  ],
+  "what_you_need": [
+    "Application form",
+    "Signed Statement (if applicable)",
+    "Bank account details for payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check you're eligible before you apply. For full details on eligibility:",
+      "link": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package"
+    },
+    {
+      "n": 2,
+      "text": "Prepare your application form:",
+      "link": "https://www.nsw.gov.au/education-and-training/resources/vt23-vocational-training-assistance-scheme-vtas"
+    },
+    {
+      "n": 3,
+      "text": "Prepare a signed statement, if applicable:",
+      "link": "https://www.nsw.gov.au/education-and-training/resources/vt24-vtas-signed-statement"
+    },
+    {
+      "n": 4,
+      "text": "Take your supporting documents (signed forms, contract and travel details, bank account details) to your local Training Services office.",
+      "link": "https://education.nsw.gov.au/skills-nsw/contact-us"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Vocational Training Assistance Scheme (VTAS) Application for Allowance – PDF",
+      "url": "https://www.nsw.gov.au/education-and-training/resources/vt23-vocational-training-assistance-scheme-vtas"
+    },
+    {
+      "text": "Vocational Training Assistance Scheme (VTAS) Signed Statement – PDF (if applicable)",
+      "url": "https://www.nsw.gov.au/education-and-training/resources/vt24-vtas-signed-statement"
+    },
+    {
+      "text": "Sydney Trains network",
+      "url": "https://transportnsw.info/travel-info/ways-to-get-around/train"
+    },
+    {
+      "text": "Travel, accommodation and relocation assistance packages for apprentices",
+      "url": "https://education.nsw.gov.au/skills-nsw/apprentices-and-trainees/support-with-your-apprenticeship-or-traineeship/financial-assistance/travel--accommodation-and-relocation-assistance-package"
+    },
+    {
+      "text": "Vocational Training Assistance Scheme Guidelines",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-10/vocational-training-assistance-scheme-guidelines.pdf"
+    },
+    {
+      "text": "Training Services",
+      "url": "https://education.nsw.gov.au/skills-nsw/contact-us"
+    },
+    {
+      "text": "Vocational Training Assistance Scheme Guidelines – PDF",
+      "url": "https://www.nsw.gov.au/education-and-training/resources/vtas-guidelines"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can apply for the VTAS allowance?",
+      "a": "You must be registered in NSW as an apprentice or new entrant trainee under the Apprenticeship and Traineeship Act 2001, have your place of employment in NSW, and travel more than 110km (return) for your off-the-job training.",
+      "link": null
+    },
+    {
+      "q": "When must I submit my VTAS claims?",
+      "a": "You must submit your claims no later than 30 June following the year of travel. Claims for expenses prior to the previous year will not be considered.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need an application form, a signed statement (if applicable), and details including your bank account details for payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:24Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "7ab32c19377b05e29627e8a7385f464ea8d861d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

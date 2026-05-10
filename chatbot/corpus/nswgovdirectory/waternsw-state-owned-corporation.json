@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/waternsw-state-owned-corporation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/waternsw-state-owned-corporation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "waternsw-state-owned-corporation",
+  "title": "WaterNSW (State-Owned Corporation)",
+  "summary": "This page provides information about WaterNSW, a state-owned corporation.",
+  "topics": [
+    "water-nsw",
+    "state-owned-corporation",
+    "environment",
+    "water-management"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.waternsw.com.au/",
+      "url": "https://www.waternsw.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:54Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a82efe21ccd6eeb790a3b0431b987b2eccfe64f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

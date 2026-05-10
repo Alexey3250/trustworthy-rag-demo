@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/telco-authority-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/telco-authority-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "telco-authority-nsw",
+  "title": "Telco Authority, NSW",
+  "summary": "This page provides information about the NSW Telco Authority, which is responsible for regulating the telecommunications industry in New South Wales.",
+  "topics": [
+    "telecommunications",
+    "nsw-authority",
+    "regulation",
+    "telco"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/nsw-telco-authority",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-telco-authority"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cda45e5247c0e3c44aa7b8c0e3a982331a5bc1b2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

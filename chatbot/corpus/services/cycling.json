@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/cycling",
+  "source_url": "https://www.service.nsw.gov.au/services/cycling",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "cycling",
+  "title": "Cycling",
+  "summary": "This page provides information and resources for cycling in New South Wales.",
+  "topics": [
+    "cycling",
+    "bike-safety",
+    "cycleways",
+    "transport-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Vehicle safety, traffic and road conditions",
+      "link": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply to access a Transport for NSW bike shed",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-access-a-transport-for-nsw-bike-shed"
+    },
+    {
+      "text": "Apply to rent a Transport for NSW bike locker",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-rent-a-transport-for-nsw-bike-locker"
+    },
+    {
+      "text": "Use the Cycleway Finder map",
+      "url": "https://www.service.nsw.gov.au/referral/use-the-cycleway-finder-map"
+    },
+    {
+      "text": "Vehicle safety, traffic and road conditions",
+      "url": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find safe cycling routes?",
+      "a": "You can use the Cycleway Finder map to locate safe cycling routes.",
+      "link": "https://www.service.nsw.gov.au/referral/use-the-cycleway-finder-map"
+    },
+    {
+      "q": "How do I secure my bike?",
+      "a": "You can apply to access a Transport for NSW bike shed or apply to rent a Transport for NSW bike locker.",
+      "link": null
+    },
+    {
+      "q": "What should I know about cycling safety?",
+      "a": "For information on vehicle safety, traffic, and road conditions, please visit the dedicated safety page.",
+      "link": "https://www.service.nsw.gov.au/services/using-roads-and-public-safety"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:50Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "887a69ae3b00044f16cb65fec65603706dc704f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

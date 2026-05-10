@@ -1,0 +1,121 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-downgrade-a-driver-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-downgrade-a-driver-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-downgrade-a-driver-licence",
+  "title": "Apply to downgrade a driver licence",
+  "summary": "This page provides information on how to apply to downgrade your driver licence at a Service NSW Centre.",
+  "topics": [
+    "driver-licence",
+    "downgrade",
+    "service-nsw",
+    "licence-application"
+  ],
+  "intro": "You may need to or want to downgrade your licence due to:\n\nYou can downgrade your licence at a Service NSW Centre.",
+  "who_can_apply": [
+    "Must be able to visit a Service NSW Centre to submit the application."
+  ],
+  "what_you_need": [
+    "Your current licence, or proof of identity if the licence is unavailable.",
+    "Your concession card details (if applicable).",
+    "Evidence of why you need to downgrade (if involuntary), such as your contact lenses or glasses.",
+    "The completed PDF form: 'Licence Application' (https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf).",
+    "Payment (if applicable)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have all your documentation and any additional items (if applicable).",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": "Depending on the reason for the licence downgrade you may have to pay a fee.\n\nAt most service centre locations, you can pay by EFTPOS, credit or debit card – Mastercard, Visa, American Express or UnionPay.\n\nNot all service centre locations accept cash. Check the list of locations where cash is not accepted before you visit.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Renewal notices are posted generally within 6 weeks before the card's expiry date.",
+      "link": null
+    },
+    {
+      "text": "For driver licence renewals or applications, a receipt is provided that allows you to drive until the card arrives in the post. The receipt is valid for 2 months.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1001: Licence Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Licence classes – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/classes"
+    },
+    {
+      "text": "Driver and rider licence fees – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "list of locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    },
+    {
+      "text": "Apply for a heavy vehicle licence (LR, MR, HR and HC)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-lr-mr-hr-and-hc"
+    },
+    {
+      "text": "Apply for a heavy vehicle licence (multi-combination only)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-licence-multi-combination-only"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I apply to downgrade my licence?",
+      "a": "You can downgrade your licence at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to bring when I apply?",
+      "a": "You need your current licence (or proof of identity if the licence is unavailable), your concession card details (if applicable), and evidence of why you need to downgrade (if involuntary).",
+      "link": null
+    },
+    {
+      "q": "How do I pay for the licence downgrade?",
+      "a": "You can pay by EFTPOS, credit or debit card (Mastercard, Visa, American Express, or UnionPay) at most service centre locations. Note that not all locations accept cash.",
+      "link": "https://www.service.nsw.gov.au/services/payment-methods#locations-where-cash-is-not-accepted"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:43Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "f876802c7ac43848c719329eca03413dc30f1789",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

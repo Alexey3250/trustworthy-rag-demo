@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-qualified-supervisor-certificate",
+  "title": "Replace a qualified supervisor certificate",
+  "summary": "You can apply for a replacement of a lost, damaged, or stolen qualified supervisor certificate at a Service NSW Centre.",
+  "topics": [
+    "supervisor-certificate",
+    "replace-certificate",
+    "service-nsw"
+  ],
+  "intro": "If your qualified supervisor certificate has been damaged, lost or stolen, you can apply for a replacement at a Service NSW Centre.\n\nNote: A duplicate can only be issued for a current certificate.",
+  "who_can_apply": [
+    "Must have a current qualified supervisor certificate."
+  ],
+  "what_you_need": [
+    "Confirmation that your qualified supervisor certificate is current (via Verify NSW).",
+    "The completed PDF form 'Application for duplicate licence, certificate or permit'.",
+    "Payment for the service."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check your qualified supervisor certificate is current at Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the PDF form 'Application for duplicate licence, certificate or permit'.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382d.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Take your completed form to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": "You will need to pay a fee for this service. For current fees visit NSW Fair Trading Fees for contractor licences, supervision and tradesperson certificates.\n\nYou cannot pay with cash at some Service NSW Centres. Check our payment methods page for the list of locations where cash is not accepted.",
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Application for duplicate licence, certificate or permit",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382d.pdf"
+    },
+    {
+      "text": "Fees for contractor licences, supervision and tradesperson certificates",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/assessment-process-and-time-frames/fees-for-licences-and-certificates"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "locations where cash is not accepted",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods#in-person"
+    },
+    {
+      "text": "Add a digital licence or credential to the Service NSW app",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Renew a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Restore a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Surrender a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-qualified-supervisor-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I get a duplicate certificate?",
+      "a": "A duplicate can only be issued for a current certificate.",
+      "link": null
+    },
+    {
+      "q": "Where can I apply for a replacement?",
+      "a": "You must take your completed form to a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do before applying?",
+      "a": "First, check that your qualified supervisor certificate is current at Verify NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:41Z",
+    "last_modified": "28 November 2025",
+    "html_sha1": "6255cd00e32c7788cb1adefceb5515a4e8f70899",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

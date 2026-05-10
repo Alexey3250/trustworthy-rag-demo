@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/industrial-relations-commission-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/industrial-relations-commission-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "industrial-relations-commission-of-nsw",
+  "title": "Industrial Relations Commission of NSW",
+  "summary": "This page provides information about the Industrial Relations Commission of NSW.",
+  "topics": [
+    "industrial-relations",
+    "nsw-law",
+    "tribunals",
+    "employment-law"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.irc.nsw.gov.au/",
+      "url": "https://www.irc.nsw.gov.au/"
+    },
+    {
+      "text": "https://www.irc.nsw.gov.au/irc/about-us/contact-us.html",
+      "url": "https://www.irc.nsw.gov.au/irc/about-us/contact-us.html"
+    },
+    {
+      "text": "NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/Landing.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:07Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "61afe7de10e72349e94603ec7689bfb718a58485",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

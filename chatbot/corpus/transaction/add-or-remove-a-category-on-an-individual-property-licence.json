@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-an-individual-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-category-on-an-individual-property-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-or-remove-a-category-on-an-individual-property-licence",
+  "title": "Add or remove a category on an individual property licence",
+  "summary": "Learn how to add or remove a category of work on your individual property licence, or surrender your licence if you no longer need it.",
+  "topics": [
+    "property-licence",
+    "add-category",
+    "remove-category",
+    "property-agent"
+  ],
+  "intro": "If you hold an individual property licence, you can add another category of work if you have the required qualifications and experience. You can also remove a category.\n\nIf you no longer need it you can surrender your licence.",
+  "who_can_apply": [
+    "Must hold an individual property licence.",
+    "Must have the required qualifications and experience to add a category of work."
+  ],
+  "what_you_need": [
+    "Your licence number and expiry date",
+    "Evidence of required qualifications and experience",
+    "The PDF form: 'Application for Adding or Removing Category' (https://ablisfiles.business.gov.au/newsouthwales/resource/ap10001.pdf)",
+    "Payment",
+    "To apply, you need to visit the Service NSW Centre (https://www.service.nsw.gov.au/service-centre)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required documents",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the form and submit your application:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/becoming-a-property-agent/property-and-stock-agents-fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "text": "Application for Adding or Removing Category - PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap10001.pdf"
+    },
+    {
+      "text": "Information for property professionals – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-professionals"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "surrender your licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I check my property licence number and details?",
+      "a": "You can check your property licence number and details by visiting Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Property"
+    },
+    {
+      "q": "What do I need to add or remove a category on my licence?",
+      "a": "You need your licence number and expiry date, evidence of required qualifications and experience, the 'Application for Adding or Removing Category' PDF form, your payment, and to apply, you must visit the Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What happens if I no longer need my licence?",
+      "a": "You can surrender your licence if you no longer need it.",
+      "link": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:16Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "b1d5adce919400a307eef5495a241c43e87b17d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/exporting-for-small-businesses",
+  "source_url": "https://www.service.nsw.gov.au/business/exporting-for-small-businesses",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "exporting-for-small-businesses",
+  "title": "Exporting for small businesses",
+  "summary": "This page provides resources and programs to help small businesses export their products and services to international markets.",
+  "topics": [
+    "exporting",
+    "small-business",
+    "international-trade",
+    "global-markets"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Export from NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/export-from-nsw"
+    },
+    {
+      "text": "Go Global Toolkit",
+      "url": "https://export.business.gov.au"
+    },
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=efsb"
+    },
+    {
+      "text": "NSW Export Capability Building Program",
+      "url": "https://www.nsw.gov.au/business-and-economy/export-from-nsw/export-capability-building-program"
+    },
+    {
+      "text": "NSW Going Global Export Program",
+      "url": "https://www.nsw.gov.au/business-and-economy/export-from-nsw/going-global-export-program"
+    },
+    {
+      "text": "Destination NSW Getting Started: Inbound Tourism",
+      "url": "https://www.destinationnsw.com.au/destination-nsw-business-support/nsw-first-program/export-ready-101-getting-started-inbound-tourism"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "How to unlock export opportunities and reach new markets",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights/exporting"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What programs are available to help my business export?",
+      "a": "There are several programs available, including the NSW Export Capability Building Program and the NSW Going Global Export Program, which offer support for businesses looking to expand internationally.",
+      "link": null
+    },
+    {
+      "q": "Where can I find general tips on exporting?",
+      "a": "You can find tips and insights on exporting opportunities and reaching new markets at the provided link.",
+      "link": "https://www.service.nsw.gov.au/business/tips-and-insights/exporting"
+    },
+    {
+      "q": "How can I get general support for exporting from NSW?",
+      "a": "You can visit the Export from NSW page for more information on exporting from the state.",
+      "link": "https://www.nsw.gov.au/business-and-economy/export-from-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:49Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "22a71ddb5274a852008f4f896003150686ac9a6f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

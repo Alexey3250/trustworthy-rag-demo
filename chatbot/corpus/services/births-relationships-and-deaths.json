@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths",
+  "source_url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "births-relationships-and-deaths",
+  "title": "Births, relationships and deaths",
+  "summary": "Find information and services related to births, relationships, deaths, and family support in NSW.",
+  "topics": [
+    "births",
+    "relationships",
+    "deaths",
+    "adoptions",
+    "divorce",
+    "family-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Become a foster carer",
+      "link": "https://www.nsw.gov.au/community-services/foster-relative-and-kinship-care/become-a-foster-carer"
+    },
+    {
+      "text": "Australian passports and visas",
+      "link": "https://www.service.nsw.gov.au/guide/australian-passports-and-visas"
+    },
+    {
+      "text": "Change contact details on NSW Government services",
+      "link": "https://www.service.nsw.gov.au/guide/change-nsw-details"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Become a foster carer",
+      "url": "https://www.nsw.gov.au/community-services/foster-relative-and-kinship-care/become-a-foster-carer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Births",
+      "url": "https://www.service.nsw.gov.au/services/births"
+    },
+    {
+      "text": "Adoptions",
+      "url": "https://www.service.nsw.gov.au/services/adoptions"
+    },
+    {
+      "text": "Marriages and relationships",
+      "url": "https://www.service.nsw.gov.au/services/marriages-relationships-and-divorces"
+    },
+    {
+      "text": "Divorce: request a proof of divorce order",
+      "url": "https://www.service.nsw.gov.au/referral/request-a-proof-of-divorce-order"
+    },
+    {
+      "text": "Change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "Change of sex",
+      "url": "https://www.service.nsw.gov.au/services/change-of-sex"
+    },
+    {
+      "text": "Deaths, wills and deceased estates",
+      "url": "https://www.service.nsw.gov.au/services/deaths-wills-and-deceased-estates"
+    },
+    {
+      "text": "Out-of-home care records",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records"
+    },
+    {
+      "text": "Getting married",
+      "url": "https://www.service.nsw.gov.au/guide/getting-married"
+    },
+    {
+      "text": "Having a baby",
+      "url": "https://www.service.nsw.gov.au/guide/having-a-baby"
+    },
+    {
+      "text": "Death and bereavement",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Domestic and family violence",
+      "url": "https://www.service.nsw.gov.au/guide/domestic-and-family-violence"
+    },
+    {
+      "text": "Australian passports and visas",
+      "url": "https://www.service.nsw.gov.au/guide/australian-passports-and-visas"
+    },
+    {
+      "text": "Change contact details on NSW Government services",
+      "url": "https://www.service.nsw.gov.au/guide/change-nsw-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about having a baby?",
+      "a": "You can find guides and support information about having a baby.",
+      "link": "https://www.service.nsw.gov.au/guide/having-a-baby"
+    },
+    {
+      "q": "What services are available for changing names or sex?",
+      "a": "Services are available for changing names and changing sex.",
+      "link": null
+    },
+    {
+      "q": "How do I get information about death and bereavement?",
+      "a": "There are guides available for death and bereavement.",
+      "link": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:31Z",
+    "last_modified": "31 October 2025",
+    "html_sha1": "5674d9427a0246a66b92a9195224fe8368517402",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

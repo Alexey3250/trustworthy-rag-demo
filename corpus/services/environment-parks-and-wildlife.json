@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife",
+  "source_url": "https://www.service.nsw.gov.au/services/environment-parks-and-wildlife",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "environment-parks-and-wildlife",
+  "title": "Environment, parks and wildlife",
+  "summary": "Find information and services related to the environment, parks, and wildlife in New South Wales.",
+  "topics": [
+    "environment",
+    "parks",
+    "wildlife",
+    "waste",
+    "pets",
+    "fishing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Pets",
+      "link": "https://www.service.nsw.gov.au/services/pets"
+    },
+    {
+      "text": "Animal harvesting and management",
+      "link": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "text": "Recycling, waste and litter prevention",
+      "link": "https://www.service.nsw.gov.au/services/waste-and-recycling"
+    },
+    {
+      "text": "Find your local council in NSW",
+      "link": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Manage wildlife licence applications",
+      "url": "https://www.onegov.nsw.gov.au/GLS_Portal/snsw/MyProducts.mvc"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Parks and State Forests",
+      "url": "https://www.service.nsw.gov.au/services/national-parks-and-state-forests"
+    },
+    {
+      "text": "Native animal and bird licensing",
+      "url": "https://www.service.nsw.gov.au/services/animal-harvesting-and-management"
+    },
+    {
+      "text": "Apply for a scientific licence (biodiversity conservation)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-scientific-licence-biodiversity-conservation"
+    },
+    {
+      "text": "Report a pest or disease, or other biosecurity concern",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-biosecurity-concern"
+    },
+    {
+      "text": "Report a nuisance dog or cat",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "text": "Report noise pollution",
+      "url": "https://www.service.nsw.gov.au/referral/report-noise-pollution"
+    },
+    {
+      "text": "Report a smoky vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-smoky-vehicle"
+    },
+    {
+      "text": "Report littering from a vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/report-littering-from-a-vehicle"
+    },
+    {
+      "text": "Report a cigarette butt tosser",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-cigarette-butt-tosser"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    },
+    {
+      "text": "Pets",
+      "url": "https://www.service.nsw.gov.au/services/pets"
+    },
+    {
+      "text": "Recycling, waste and litter prevention",
+      "url": "https://www.service.nsw.gov.au/services/waste-and-recycling"
+    },
+    {
+      "text": "Find your local council in NSW",
+      "url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I report an environmental issue?",
+      "a": "You can report various issues, such as nuisance animals, illegal fishing, noise pollution, or littering.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about national parks and state forests?",
+      "a": "You can visit the dedicated page for National Parks and State Forests.",
+      "link": "https://www.service.nsw.gov.au/services/national-parks-and-state-forests"
+    },
+    {
+      "q": "What do I need to do if I have a biosecurity concern?",
+      "a": "You can report a pest, disease, or other biosecurity concern through the official transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-a-biosecurity-concern"
+    },
+    {
+      "q": "Where can I get help with pets and waste?",
+      "a": "Information is available regarding pets and recycling, waste, and litter prevention.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:20Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "8e6fef46bd78b0b98ccbb804d41809042b13da7f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-suspected-odometer-tampering",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-suspected-odometer-tampering",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-suspected-odometer-tampering",
+  "title": "Report suspected odometer tampering",
+  "summary": "Report suspected odometer tampering to NSW Fair Trading if you believe an odometer reading has been illegally interfered with.",
+  "topics": [
+    "odometer-tampering",
+    "vehicle-safety",
+    "nsw-fair-trading",
+    "consumer-rights"
+  ],
+  "intro": "It's an offence in NSW to interfere with an odometer reading, and the Motor Dealers and Repairers Act 2013 deems interference to be:\n\nIf you suspect an odometer has been tampered with, you can report the matter to NSW Fair Trading. If they find that the law has been broken, they'll inform the trader and take the action required to protect other consumers.",
+  "who_can_apply": [
+    "You have not already reported the matter.",
+    "The suspect odometer reading is not being reviewed by a court or tribunal."
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "A summary of the issue",
+    "Details of the vehicle",
+    "Details of the business/seller of the vehicle",
+    "Any supporting documents, such as receipts, invoices, and/or contracts for the vehicle"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete the online report form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Odometer interference can result in very severe penalties, and an offending motor dealer or repairer may also be liable to pay the losses of a purchaser through civil action.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Used Car Safety Ratings – PDF",
+      "url": "https://towardszero.nsw.gov.au/sites/default/files/2024-10/ucsr-brochure-2024.pdf"
+    },
+    {
+      "text": "Complaints register – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/complaints-register"
+    },
+    {
+      "text": "How NSW Fair Trading handles general complaints – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/how-nsw-fair-trading-handles-general-complaints"
+    },
+    {
+      "text": "Buying and selling a car – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/buying-and-selling-vehicles"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Lodge a general consumer complaint",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-general-consumer-complaint"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:46Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "04fffc11195f9a5eb2f0fd3745f9aa831c5940b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

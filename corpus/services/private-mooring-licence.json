@@ -1,0 +1,91 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/private-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/private-mooring-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "private-mooring-licence",
+  "title": "Private mooring licence",
+  "summary": "This page provides information and links for managing a private mooring licence, including applying, renewing, changing details, and transferring ownership.",
+  "topics": [
+    "mooring-licence",
+    "marine",
+    "vessel",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-private-mooring-licence"
+    },
+    {
+      "text": "Renew a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-private-mooring-licence"
+    },
+    {
+      "text": "Replace a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-private-mooring-licence"
+    },
+    {
+      "text": "Change address and contact details on a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-on-a-private-mooring-licence"
+    },
+    {
+      "text": "Apply to change the vessel on a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-change-the-vessel-on-a-private-mooring-licence"
+    },
+    {
+      "text": "Apply for relocation of a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-relocation-of-a-private-mooring-licence"
+    },
+    {
+      "text": "Transfer ownership of a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-private-mooring-licence"
+    },
+    {
+      "text": "Cancel a private mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-private-mooring-licence"
+    },
+    {
+      "text": "Withdraw a priority waiting list application (private)",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waiting-list-application-private"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a private mooring licence?",
+      "a": "You can apply for a private mooring licence using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-private-mooring-licence"
+    },
+    {
+      "q": "What if I need to renew or replace my private mooring licence?",
+      "a": "You can renew your licence or replace it through the relevant online services.",
+      "link": null
+    },
+    {
+      "q": "How can I change details on my private mooring licence?",
+      "a": "You can change your address and contact details, or apply to change the vessel or relocate the licence.",
+      "link": null
+    },
+    {
+      "q": "Can I transfer or cancel my private mooring licence?",
+      "a": "Yes, you can transfer ownership of the licence or cancel it, or withdraw a priority waiting list application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:35Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "55a4c72eb2e787771586fcc7142fe8a930d7cd62",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

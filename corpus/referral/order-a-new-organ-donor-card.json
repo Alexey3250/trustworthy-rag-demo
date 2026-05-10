@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/order-a-new-organ-donor-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/order-a-new-organ-donor-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "order-a-new-organ-donor-card",
+  "title": "Order a new organ donor card",
+  "summary": "You can order a new Australian Organ Donor Register card online as a symbol of your decision to donate your organs and tissue after death.",
+  "topics": [
+    "organ-donor-card",
+    "donate-organs",
+    "australian-organ-donor-register"
+  ],
+  "intro": "If you want to order a new Australian Organ Donor Register card as a symbol of your decision to donate your organs and tissue after death, you can do so online.\n\nYou do not need to carry your physical card in order to donate your organs and tissue.\n\nYou may need to order a new card if:\n\nTo order a new card, you must already be registered on the Australian Organ Donor Register.",
+  "who_can_apply": [
+    "Must already be registered on the Australian Organ Donor Register."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Government myGov website",
+      "url": "https://my.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Register to be an organ and tissue donor",
+      "url": "https://www.service.nsw.gov.au/referral/register-to-be-an-organ-donor"
+    },
+    {
+      "text": "Update organ donation details",
+      "url": "https://www.service.nsw.gov.au/referral/update-organ-donation-details"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to carry my physical card to donate my organs?",
+      "a": "No, you do not need to carry your physical card in order to donate your organs and tissue.",
+      "link": null
+    },
+    {
+      "q": "Who can order a new card?",
+      "a": "You must already be registered on the Australian Organ Donor Register.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:55Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "f3dfdaff390739c964745510f03aa8b771dacf97",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-health-pathology",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-health-pathology",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-health-pathology",
+  "title": "Health Pathology, NSW",
+  "summary": "This page provides information about health pathology services in NSW, including how to find collection centres and laboratories.",
+  "topics": [
+    "health-pathology",
+    "nsw-health",
+    "blood-testing",
+    "lab-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.pathology.health.nsw.gov.au",
+      "url": "https://www.pathology.health.nsw.gov.au"
+    },
+    {
+      "text": "Find a collection centre",
+      "url": "https://pathology.health.nsw.gov.au/contact-us/locations-services/find-a-collection-centre/"
+    },
+    {
+      "text": "Find a laboratory",
+      "url": "https://pathology.health.nsw.gov.au/contact-us/locations-services/find-a-laboratory/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I get my blood tested?",
+      "a": "You can find a collection centre or a laboratory location using the provided links.",
+      "link": null
+    },
+    {
+      "q": "What services are covered?",
+      "a": "The page directs users to the official NSW Health Pathology website for detailed service information.",
+      "link": "https://www.pathology.health.nsw.gov.au"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:08Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "22c2da1fdeaae5c49bd2261460a8870e1c26c38e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

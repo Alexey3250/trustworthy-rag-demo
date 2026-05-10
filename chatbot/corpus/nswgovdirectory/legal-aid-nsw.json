@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/legal-aid-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/legal-aid-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "legal-aid-nsw",
+  "title": "Legal Aid NSW",
+  "summary": "This page provides information about Legal Aid NSW, including how to get help and resources available to the public.",
+  "topics": [
+    "legal-aid",
+    "nsw-law",
+    "justice",
+    "legal-help"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.legalaid.nsw.gov.au/",
+      "url": "https://www.legalaid.nsw.gov.au/"
+    },
+    {
+      "text": "Legal Aid NSW offices",
+      "url": "https://www.legalaid.nsw.gov.au/contact-us/our-offices"
+    },
+    {
+      "text": "Apply for Legal Aid",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/apply-for-legal-aid"
+    },
+    {
+      "text": "Help at Court",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/help-at-court"
+    },
+    {
+      "text": "Ways to get help – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help"
+    },
+    {
+      "text": "Legal Aid Fact Sheets and Resources",
+      "url": "https://www.legalaid.nsw.gov.au/ways-to-get-help/publications-and-resources"
+    },
+    {
+      "text": "Grants for Lawyers - Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/for-lawyers/grants-online"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Legal Aid NSW?",
+      "a": "Legal Aid NSW provides legal assistance and resources to help people with legal issues.",
+      "link": "https://www.legalaid.nsw.gov.au/"
+    },
+    {
+      "q": "How can I apply for legal aid?",
+      "a": "You can find information on how to apply for legal aid through the dedicated section on the website.",
+      "link": "https://www.legalaid.nsw.gov.au/ways-to-get-help/apply-for-legal-aid"
+    },
+    {
+      "q": "Do you offer help at court?",
+      "a": "Yes, Legal Aid NSW offers help at court to assist people during legal proceedings.",
+      "link": "https://www.legalaid.nsw.gov.au/ways-to-get-help/help-at-court"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:02Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "98d62e7ff0328ab2edda6ec0b0b0e73f76cb425a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

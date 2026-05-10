@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-registration-renewal-notice",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-registration-renewal-notice",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-registration-renewal-notice",
+  "title": "Replace a registration renewal notice",
+  "summary": "You can order a replacement registration renewal notice online if you have misplaced or lost your original notice.",
+  "topics": [
+    "vehicle-registration",
+    "renewal-notice",
+    "nsw-service"
+  ],
+  "intro": "If you've misplaced or lost your renewal notice and you'd like a replacement notice, you can order one online.\n\nNote that you can get your vehicle's billing number when renewing your registration online.",
+  "who_can_apply": [
+    "Must be recorded as the owner of the registered vehicle."
+  ],
+  "what_you_need": [
+    "NSW Driver Licence details",
+    "The vehicle's plate number",
+    "The last 4 digits of your VIN (found on your rego papers or on your vehicle)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to replace your registration renewal notice.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can opt in to Digital Vehicle Registration to receive your registration renewal notice by email, and in your MyServiceNSW Account and the Service NSW app.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "renewing your registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    },
+    {
+      "text": "opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    },
+    {
+      "text": "Replace a vehicle's registration certificate online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-vehicles-registration-certificate-online"
+    },
+    {
+      "text": "Renew the registration on a vehicle eligible for a concession",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-vehicle-eligible-for-a-concession"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a replacement renewal notice?",
+      "a": "You must be recorded as the owner of the registered vehicle to get a copy of the renewal notice.",
+      "link": null
+    },
+    {
+      "q": "What do I need to replace my renewal notice online?",
+      "a": "You need your NSW Driver Licence details, the vehicle's plate number, and the last 4 digits of your VIN.",
+      "link": null
+    },
+    {
+      "q": "How do I get a replacement notice?",
+      "a": "Select the 'Replace online' button and follow the prompts to replace your registration renewal notice.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:39Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "4afcc2e0323b8efa799b855fa6382c3996ec2534",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

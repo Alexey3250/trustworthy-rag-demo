@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died",
+  "source_url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account-after-someone-has-died",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "close-an-e-toll-account-after-someone-has-died",
+  "title": "Close an E-Toll Account after someone has died",
+  "summary": "You can close a Transport for NSW E-Toll Account at a Service NSW Centre.",
+  "topics": [
+    "e-toll-account",
+    "death",
+    "service-nsw"
+  ],
+  "intro": "You can close a Transport for NSW E-Toll Account at a Service NSW Centre.\n\nNote: The spouse or surviving partner may be eligible to transfer the e-toll account.",
+  "who_can_apply": [
+    "surviving partner/spouse",
+    "executor of the will",
+    "Enduring Guardian or Power of Attorney"
+  ],
+  "what_you_need": [
+    "your proof of identity",
+    "the E-Toll Account details",
+    "the tag/s (for an E-Toll Tag Account)",
+    "a copy of the will for the person who has died",
+    "a completed PDF form – Advice of Death",
+    "the death certificate (original or copy)",
+    "a newspaper death notice",
+    "a letter from a solicitor or the NSW Trustee and Guardian advising that the person has died",
+    "in the case of a missing person presumed deceased, a 'Presumption of Death Order' issued by the Supreme Court (original or copy)",
+    "one of the following documents (for additional identification)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre with:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Pay any outstanding amounts on the account.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Advice of Death",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf"
+    },
+    {
+      "text": "NSW Trustee and Guardian",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/guide-for-executors#toc-nsw-trustee-and-guardian-is-the-executor"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "transfer the e-toll account",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-e-toll-account-after-someone-has-died"
+    },
+    {
+      "text": "death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "find your nearest service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Death and bereavement guide",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Close an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/close-an-e-toll-account"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can close the E-Toll Account?",
+      "a": "Those who can close the account include a surviving partner/spouse, the executor of the will, or the Enduring Guardian or Power of Attorney.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to close the account?",
+      "a": "You need your proof of identity, the E-Toll Account details, the tag(s), a copy of the will, the completed 'Advice of Death' form, the death certificate, a newspaper death notice, and a letter from a solicitor or the NSW Trustee and Guardian.",
+      "link": null
+    },
+    {
+      "q": "What if the person is missing and presumed deceased?",
+      "a": "If the person is missing and presumed deceased, you must provide a 'Presumption of Death Order' issued by the Supreme Court.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:58Z",
+    "last_modified": "12 January 2026",
+    "html_sha1": "eff916c573a407c7dd22611096d4517f8f9e3585",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

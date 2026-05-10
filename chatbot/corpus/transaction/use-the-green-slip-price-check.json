@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/use-the-green-slip-price-check",
+  "source_url": "https://www.service.nsw.gov.au/transaction/use-the-green-slip-price-check",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "use-the-green-slip-price-check",
+  "title": "Use the Green Slip Price Check",
+  "summary": "Use the Green Slip Price Check to compare Compulsory Third Party (CTP) Green Slip quotes from all insurers for common vehicle types.",
+  "topics": [
+    "ctp-insurance",
+    "green-slip",
+    "price-check",
+    "vehicle-insurance"
+  ],
+  "intro": "The Green Slip Price Check is a quick and easy way to get a CTP Green Slip quote comparison from all insurers, for the most common vehicle types.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Driver licence or registration billing number",
+    "Vehicle number plate or VIN",
+    "Vehicle details, insurance, and driving history"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Choose from the 3 options.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to get a price comparison.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "how the Green Slip Price Check works",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips/compare-ctp-green-slip-prices"
+    },
+    {
+      "text": "CTP insurance (Green Slip) – State Insurance Regulatory Authority",
+      "url": "https://www.sira.nsw.gov.au/motor/compulsory-third-party-motor-vehicle-insurance-green-slips"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check your demerit points",
+      "url": "https://www.service.nsw.gov.au/transaction/check-your-demerit-points"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get a CTP Green Slip quote comparison?",
+      "a": "You can use the Green Slip Price Check to compare quotes from all insurers for common vehicle types.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to use the Green Slip Price Check?",
+      "a": "You can use a driver licence or registration billing number, a vehicle number plate or VIN, or vehicle details, insurance, and driving history.",
+      "link": null
+    },
+    {
+      "q": "Which method provides the most accurate price?",
+      "a": "Options using a driver licence or registration billing number, or a vehicle number plate or VIN, usually provide the most accurate prices.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:47Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "8de3e04f2e0accbc99ab80b0c6bfba3da50d8f53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

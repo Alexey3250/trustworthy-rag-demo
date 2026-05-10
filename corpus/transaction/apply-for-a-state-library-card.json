@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-state-library-card",
+  "title": "Apply for a State Library card",
+  "summary": "Learn how to apply for a free State Library card to access services and collections.",
+  "topics": [
+    "library-card",
+    "state-library",
+    "nsw-resident",
+    "apply-online"
+  ],
+  "intro": "All visitors to the State Library of NSW can use the computers, read the newspapers and magazines, and get general help from staff.\n\nYou'll need to apply for a State Library card to:",
+  "who_can_apply": [
+    "Anyone"
+  ],
+  "what_you_need": [
+    "An email address",
+    "A valid NSW residential address (for NSW residents to access the full range of services)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Go to Join the State Library of NSW.",
+      "link": "https://www.sl.nsw.gov.au/join/become-library-member"
+    },
+    {
+      "n": 2,
+      "text": "On the page, select the option 'Become a Library Member'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Enter your personal details.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the instructions to set up an account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "You'll receive your library card number via email (next business day).",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "You can choose to have your card sent by post or you can collect it at the State Library.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "you'll need to pick up your card from the State Library",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "you can only access online resources and collection items from within the State Library.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Join the State Library of NSW",
+      "url": "https://www.sl.nsw.gov.au/join/become-library-member"
+    },
+    {
+      "text": "https://www.library.gov.au/research/guides-and-resources/join-library",
+      "url": "https://www.library.gov.au/research/guides-and-resources/join-library"
+    },
+    {
+      "text": "State Library of NSW website",
+      "url": "https://www.sl.nsw.gov.au/"
+    },
+    {
+      "text": "Visit us – State Library of NSW",
+      "url": "https://www.sl.nsw.gov.au/visit-us"
+    },
+    {
+      "text": "Access conditions for eresources – State Library of NSW",
+      "url": "https://eresources.sl.nsw.gov.au/access-conditions"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can apply for a State Library card?",
+      "a": "Anyone can apply for a library card.",
+      "link": null
+    },
+    {
+      "q": "What do I need to do to get a library card?",
+      "a": "You must sign up for an account and provide an email address. NSW residents may also need to provide a valid NSW residential address to access the full range of services.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a State Library card?",
+      "a": "Go to Join the State Library of NSW, select 'Become a Library Member', enter your personal details, and follow the instructions to set up an account. You will receive your card number via email the next business day.",
+      "link": "https://www.sl.nsw.gov.au/join/become-library-member"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:41Z",
+    "last_modified": "6 May 2026",
+    "html_sha1": "86198177e3f45424eb8e0bd23a2dfb6feaada1b3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

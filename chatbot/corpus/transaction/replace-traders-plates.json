@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-traders-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-traders-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-traders-plates",
+  "title": "Replace trader's plates",
+  "summary": "This page provides instructions on how to apply for replacement trader's plates at a Service NSW Centre.",
+  "topics": [
+    "traders-plates",
+    "replace-plates",
+    "service-nsw",
+    "transport-nsw"
+  ],
+  "intro": "Trader's plates are, and always remain, the property of Transport for NSW. If they're lost or stolen, you must report it to the police within 7 days of the incident.\n\nTo apply for replacement trader's plate(s), please visit a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "business or organisation identification",
+    "your motor industry licence",
+    "a list of all the trader's plates you currently hold",
+    "the last 3 months' Record of Use sheets for all trader's plates currently held",
+    "Police Event Number for lost or stolen plates, or the damaged plates if the plates are damaged",
+    "vehicle details that will be associated with the replacement plates",
+    "the trader's plate fee payment",
+    "either: (The content lists 'either:' but does not specify the options, so this is kept as is.)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Trader's Plate Application – PDF (if applicable).",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070540-trade-plate-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documentation and the damaged plate(s) (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Record of Use sheets",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071078-trade-plate-record-of-use.pdf"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers#Trader%E2%80%99s_plates"
+    },
+    {
+      "text": "Trader's Plate Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070540-trade-plate-application.pdf"
+    },
+    {
+      "text": "Motor Dealers Guide to Vehicle Registration – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/news-and-events/reports-and-publications/motor-dealers-guide-to-vehicle-registration"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for an additional trader's plate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-additional-traders-plate"
+    },
+    {
+      "text": "Renew trader's plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-traders-plates"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who owns the trader's plates?",
+      "a": "Trader's plates are, and always remain, the property of Transport for NSW.",
+      "link": null
+    },
+    {
+      "q": "What should I do if my trader's plates are lost or stolen?",
+      "a": "You must report the loss or theft to the police within 7 days of the incident.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for replacement trader's plates?",
+      "a": "To apply for replacement trader's plate(s), you must visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:30Z",
+    "last_modified": "4 November 2025",
+    "html_sha1": "84212ac2b1b4b0bd2e1a870197a406cf3aa9680a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

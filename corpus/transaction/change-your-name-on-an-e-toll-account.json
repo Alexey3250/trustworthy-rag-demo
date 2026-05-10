@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-your-name-on-an-e-toll-account",
+  "title": "Change your name on an E-Toll Account",
+  "summary": "Learn how to update your name on a Transport for NSW E-Toll Account after a name change.",
+  "topics": [
+    "e-toll-account",
+    "name-change",
+    "service-nsw",
+    "transport-for-nsw"
+  ],
+  "intro": "If you need to update your Transport for NSW E-Toll Account because of a name change (due to marriage, for example) you'll need to visit a Service NSW Centre.\n\nThe account cannot be transferred into the name of another person.",
+  "who_can_apply": [
+    "You need to update your Transport for NSW E-Toll Account because of a name change (e.g., due to marriage)."
+  ],
+  "what_you_need": [
+    "Your proof of identity",
+    "Your account number",
+    "Your name change document",
+    "Your tags (if closing your account)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "name change document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/updating-personal-details/changing-your-name-or-address"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Manage an e-toll account",
+      "url": "https://www.service.nsw.gov.au/services/e-toll-tag-account"
+    },
+    {
+      "text": "Change of name with Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-name-with-transport-for-nsw"
+    },
+    {
+      "text": "Change the organisation's name or contact person on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-organisations-name-or-contact-person-business-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I go to change my name on an E-Toll Account?",
+      "a": "You must visit a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "Can I transfer my E-Toll Account into someone else's name?",
+      "a": "No, the account cannot be transferred into the name of another person.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:59Z",
+    "last_modified": "10 January 2025",
+    "html_sha1": "e7591ef2faea5bdd6c8174e8420b7fbae4de5f4a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

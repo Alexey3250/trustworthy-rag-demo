@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-local-government",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-local-government",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-local-government",
+  "title": "Local Government, Office of",
+  "summary": "This page provides information and links related to local government services in New South Wales.",
+  "topics": [
+    "local-government",
+    "council",
+    "nsw-services",
+    "planning"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.olg.nsw.gov.au",
+      "url": "https://www.olg.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "text": "Find your local council",
+      "url": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    },
+    {
+      "text": "Report a nuisance dog or cat",
+      "url": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about local councils?",
+      "a": "You can find a directory and information about local councils using the provided link.",
+      "link": "https://www.service.nsw.gov.au/referral/nsw-local-government-directory-and-local-councils"
+    },
+    {
+      "q": "What is the official website for local government?",
+      "a": "The official website for local government is the NSW Office of Local Government.",
+      "link": "https://www.olg.nsw.gov.au"
+    },
+    {
+      "q": "How do I report a nuisance dog or cat?",
+      "a": "You can report a nuisance dog or cat through the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/referral/report-a-nuisance-dog-or-cat"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4343de0a7a05307b189171fbaf7f8dcd824f065f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

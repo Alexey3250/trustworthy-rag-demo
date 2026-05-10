@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-emergency-service-ses-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/state-emergency-service-ses-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "state-emergency-service-ses-nsw",
+  "title": "State Emergency Service (SES) NSW",
+  "summary": "This page provides information about the State Emergency Service (SES) NSW, including how they operate and how to get involved.",
+  "topics": [
+    "emergency-response",
+    "state-emergency-service",
+    "disaster-preparedness",
+    "volunteering"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.ses.nsw.gov.au",
+      "url": "https://www.ses.nsw.gov.au"
+    },
+    {
+      "text": "7 zones",
+      "url": "https://www.ses.nsw.gov.au/about-us/our-zones/"
+    },
+    {
+      "text": "Volunteer with the SES – NSW State Emergency Service",
+      "url": "https://www.ses.nsw.gov.au/volunteer"
+    },
+    {
+      "text": "Current Weather Warnings for NSW – Bureau of Meteorology",
+      "url": "http://www.bom.gov.au/nsw/"
+    },
+    {
+      "text": "Prepare for severe weather and other hazards – NSW State Emergency Service (SES)",
+      "url": "https://www.nsw.gov.au/emergency/get-ready"
+    },
+    {
+      "text": "Latest news – NSW State Emergency Service (SES)",
+      "url": "https://www.ses.nsw.gov.au/news/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the State Emergency Service (SES)?",
+      "a": "The SES is a volunteer organization that assists the community during emergencies and natural disasters.",
+      "link": null
+    },
+    {
+      "q": "How can I get involved with the SES?",
+      "a": "You can volunteer with the SES through the official website.",
+      "link": "https://www.ses.nsw.gov.au/volunteer"
+    },
+    {
+      "q": "Where can I find information about SES zones?",
+      "a": "Information about the 7 zones is available on the SES website.",
+      "link": "https://www.ses.nsw.gov.au/about-us/our-zones/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:03Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "98b6e40fa0e8c4149103407ac6cc3f81e0f83f32",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

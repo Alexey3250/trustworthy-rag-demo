@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/road-user-handbook",
+  "source_url": "https://www.service.nsw.gov.au/referral/road-user-handbook",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "road-user-handbook",
+  "title": "Road User Handbook and DKT practice tests",
+  "summary": "This page provides access to the Road User Handbook and practice tests for the Driver Knowledge Test (DKT).",
+  "topics": [
+    "road-safety",
+    "driving-licence",
+    "road-rules",
+    "driving-tests"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Road User Handbook",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safety-updates-for-nsw-road-users/road-user-handbook"
+    },
+    {
+      "text": "road rules and safety information",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules"
+    },
+    {
+      "text": "NSW practice test online",
+      "url": "https://driverpracticetest.transport.nsw.gov.au/pages/practice-tests?init=true"
+    },
+    {
+      "text": "App Store",
+      "url": "https://apps.apple.com/au/app/nsw-practice-tests/id1471084521"
+    },
+    {
+      "text": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.jt.rms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Driver Knowledge Test",
+      "url": "https://www.service.nsw.gov.au/services/learner-driver-licence#driver-knowledge-test-dkt"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I download the Road User Handbook?",
+      "a": "You can download the Road User Handbook, which covers topics like licence requirements, safe driving behaviour, and road hazards.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safety-updates-for-nsw-road-users/road-user-handbook"
+    },
+    {
+      "q": "How can I practice for the Driver Knowledge Test (DKT)?",
+      "a": "You can use the NSW practice test online or download the practice test app.",
+      "link": null
+    },
+    {
+      "q": "What topics are covered in the Road User Handbook?",
+      "a": "The handbook covers licence requirements, safe driving behaviour, sharing with other road users, road lanes and markings, parking, warnings and road hazards, vehicle registration, and penalties and fines for driving offences.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:30Z",
+    "last_modified": "13 November 2025",
+    "html_sha1": "f342117ccfde257daff163b81d8e7d519d5251fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

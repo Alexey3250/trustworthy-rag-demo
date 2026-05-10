@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/rental-bond-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/rental-bond-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "rental-bond-board",
+  "title": "Rental Bond Board",
+  "summary": "This page provides information about the Rental Bond Board, which manages the security deposit (bond) for rental properties in NSW.",
+  "topics": [
+    "rental-bonds",
+    "nsw-renting",
+    "property-rental",
+    "security-deposit"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    },
+    {
+      "text": "https://www.nsw.gov.au/business-and-economy/running-a-business/renting-a-property-for-business",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/renting-a-property-for-business"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-fair-trading"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of the Rental Bond Board?",
+      "a": "The Rental Bond Board is responsible for managing the bond money paid by tenants and landlords for residential rental properties in NSW.",
+      "link": null
+    },
+    {
+      "q": "Who manages the bond money?",
+      "a": "The bond money is managed by the Rental Bond Board.",
+      "link": null
+    },
+    {
+      "q": "What happens to the bond when I move out?",
+      "a": "The bond is typically returned to the tenant after the tenancy ends, provided there are no damages or outstanding rent.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:29Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4e3a2cae4b20fa07fd10c8203e3021d914e161e5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

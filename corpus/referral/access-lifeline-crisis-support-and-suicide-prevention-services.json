@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-lifeline-crisis-support-and-suicide-prevention-services",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-lifeline-crisis-support-and-suicide-prevention-services",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-lifeline-crisis-support-and-suicide-prevention-services",
+  "title": "Access Lifeline crisis support and suicide prevention services",
+  "summary": "This page provides information and links to various crisis support and suicide prevention services available to people in need of immediate help.",
+  "topics": [
+    "crisis-support",
+    "suicide-prevention",
+    "mental-health",
+    "lifeline"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "eheadspace",
+      "link": "https://headspace.org.au/eheadspace/"
+    },
+    {
+      "text": "Suicide Call Back Service",
+      "link": "https://www.suicidecallbackservice.org.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "online via chat",
+      "url": "https://www.lifeline.org.au/crisis-chat/"
+    },
+    {
+      "text": "text Lifeline",
+      "url": "https://www.lifeline.org.au/crisis-text/"
+    },
+    {
+      "text": "Lifeline",
+      "url": "https://www.lifeline.org.au/"
+    },
+    {
+      "text": "eheadspace",
+      "url": "https://headspace.org.au/eheadspace/"
+    },
+    {
+      "text": "Suicide Call Back Service",
+      "url": "https://www.suicidecallbackservice.org.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I get immediate crisis support?",
+      "a": "You can access immediate support through various services, including calling Lifeline, using the crisis chat, or texting Lifeline.",
+      "link": null
+    },
+    {
+      "q": "What services are available for mental health support?",
+      "a": "Services mentioned include Lifeline, eheadspace, and the Suicide Call Back Service.",
+      "link": null
+    },
+    {
+      "q": "How can I contact Lifeline?",
+      "a": "You can contact Lifeline by calling, using the crisis chat online, or texting Lifeline.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:47Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "e9fe9428873d0ce5ab9c9303cd36fa261888c98f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

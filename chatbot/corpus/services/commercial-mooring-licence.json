@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/commercial-mooring-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "commercial-mooring-licence",
+  "title": "Commercial mooring licence",
+  "summary": "This page provides information and links for managing a commercial mooring licence, including applying, renewing, transferring, and cancelling.",
+  "topics": [
+    "mooring-licence",
+    "boating",
+    "commercial",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "link": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Apply to be on a priority waiting list for a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-on-a-priority-waiting-list-for-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Renew a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Replace a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Transfer ownership of a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-ownership-of-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Cancel a commercial mooring licence",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-commercial-mooring-licence"
+    },
+    {
+      "text": "Withdraw a priority waitlist application (commercial)",
+      "url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waitlist-application-commercial"
+    },
+    {
+      "text": "Boating, fishing, recreation and outdoors",
+      "url": "https://www.service.nsw.gov.au/services/boating-fishing-and-outdoors"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:54Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "a27e1fa5b55709cc5ce375cbbb2f9da841222391",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

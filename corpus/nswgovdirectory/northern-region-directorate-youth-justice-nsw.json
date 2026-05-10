@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/northern-region-directorate-youth-justice-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/northern-region-directorate-youth-justice-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "northern-region-directorate-youth-justice-nsw",
+  "title": "Northern Region Directorate (Youth Justice NSW)",
+  "summary": "This page provides information about the Northern Region Directorate's services related to Youth Justice in NSW.",
+  "topics": [
+    "youth-justice",
+    "nsw-department",
+    "northern-region",
+    "justice-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/contact-us/find-a-service",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/contact-us/find-a-service"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Youth Justice Community Offices",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-community-offices"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:15Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6bfa16c30ee1822bf6910dd6837148ce662e8976",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

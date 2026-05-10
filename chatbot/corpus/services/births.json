@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/births",
+  "source_url": "https://www.service.nsw.gov.au/services/births",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "births",
+  "title": "Births",
+  "summary": "This page provides information and links for services related to births, including registering a birth, applying for certificates, and making record changes.",
+  "topics": [
+    "births",
+    "birth-certificate",
+    "register-a-birth",
+    "family-records",
+    "stillbirth"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Register a stillbirth",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-stillbirth"
+    },
+    {
+      "text": "Check the status of your online application – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-status-of-your-online-certificate-application-birth-death-marriage-change-of-name"
+    },
+    {
+      "text": "Resume your online application or registration – Births, Deaths and Marriages",
+      "url": "https://www.service.nsw.gov.au/transaction/resume-your-online-application-births-deaths-marriages"
+    },
+    {
+      "text": "Report a lost or stolen birth or marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate"
+    },
+    {
+      "text": "NSW Digital Birth Certificate.",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-digital-birth-certificate"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Register a birth",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "Apply to add a parent to a birth registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-add-a-parent-to-a-birth-registration"
+    },
+    {
+      "text": "Change the details on a birth, death or marriage record",
+      "url": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "text": "Apply to record a change of sex",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-record-a-change-of-sex"
+    },
+    {
+      "text": "Having a baby",
+      "url": "https://www.service.nsw.gov.au/guide/having-a-baby"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I register a birth?",
+      "a": "You can register a birth using the dedicated service link.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "q": "Where can I apply for a birth certificate?",
+      "a": "You can apply for a birth certificate through the online transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "q": "What if I need to change details on a birth record?",
+      "a": "There are services available to help you change details on a birth, death, or marriage record.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record"
+    },
+    {
+      "q": "How do I report a lost or stolen certificate?",
+      "a": "You can report a lost or stolen birth or marriage certificate using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-a-lost-or-stolen-birth-or-marriage-certificate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:26Z",
+    "last_modified": "17 March 2026",
+    "html_sha1": "2e404f3765a3b147efa8b23c45a7e0216000ed8d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/resolve-a-strata-dispute",
+  "source_url": "https://www.service.nsw.gov.au/referral/resolve-a-strata-dispute",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "resolve-a-strata-dispute",
+  "title": "Resolve a strata dispute",
+  "summary": "This page provides information on how to resolve different types of strata disputes, depending on who the issue is with.",
+  "topics": [
+    "strata-dispute",
+    "owner-dispute",
+    "manager-complaint",
+    "rental-problems"
+  ],
+  "intro": "If you have a strata issue with a resident, owner, or the owners corporation, you can:\n\nFor more information, refer to Strata disputes.\n\nIf you have a strata issue with a strata manager or building manager:\n\nFor more information, refer to Strata complaints.\n\nIf you are renting in strata and have an issue:\n\nFor more information, refer to Rental problems.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Strata disputes",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/disputes"
+    },
+    {
+      "text": "Strata complaints",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/strata-complaints"
+    },
+    {
+      "text": "Rental problems",
+      "url": "https://www.nsw.gov.au/housing-and-construction/strata/disputes#toc-rental-problems"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:09Z",
+    "last_modified": "8 November 2024",
+    "html_sha1": "002ed00499b70b7395f7fe2abbfb24f3373be359",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

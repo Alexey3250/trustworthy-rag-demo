@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-recycler-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-motor-vehicle-recycler-licence",
+  "title": "Check a motor vehicle recycler licence",
+  "summary": "You can check a motor vehicle recycler licence or search for details using an online tool.",
+  "topics": [
+    "motor-vehicle-recycler",
+    "licence-check",
+    "business-search"
+  ],
+  "intro": "If you'd like to check a motor vehicle recycler licence, or search for your own licence number and details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb or postcode)",
+    "One of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Working as a motor vehicle recycler: business obligations – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-recycler"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:48Z",
+    "last_modified": "28 January 2026",
+    "html_sha1": "655e11c4bda3e9080c8d8b03b9d90ab225be24b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

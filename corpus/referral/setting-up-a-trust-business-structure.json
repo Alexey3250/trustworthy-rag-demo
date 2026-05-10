@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/setting-up-a-trust-business-structure",
+  "source_url": "https://www.service.nsw.gov.au/referral/setting-up-a-trust-business-structure",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "setting-up-a-trust-business-structure",
+  "title": "Setting up a trust business structure",
+  "summary": "Learn about setting up a trust business structure, including its key features and types.",
+  "topics": [
+    "trust-structure",
+    "business-setup",
+    "legal-liability",
+    "tax-planning"
+  ],
+  "intro": "A trust is a structure where a trustee (an individual or a company) carries on business for the benefit of other people (the beneficiaries). It's set up through a formal trust deed which outlines how the trust will operate.\n\nThere are 2 main types of trusts:\n\nA trust is not a separate legal entity. The trustee is legally responsible for the operation of the trust, and legally liable for the debts of the trust. Commonly however, the trustee is a company (a corporate trustee), which can reduce liability.\n\nA trust can be tax effective due to the flexibility of its asset and income distribution. It can't distribute losses however, only profits.\n\nThe key features of a trust business structure are:\n\nBefore deciding on your business structure, it's important to get professional advice from a business adviser, solicitor or accountant. They can help you choose the structure that best suits your personal circumstances and business objectives.\n\nFor more information, visit Australian Government Business Structures – Trust.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Professional advice from a business adviser, solicitor, or accountant is recommended before deciding on a business structure."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "business adviser",
+      "url": "https://business.gov.au/expertise-and-advice"
+    },
+    {
+      "text": "Australian Government Business Structures – Trust",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/trust"
+    },
+    {
+      "text": "Business structures – business.gov.au",
+      "url": "https://business.gov.au/planning/business-structures-and-types/business-structures/"
+    },
+    {
+      "text": "ATO – Trusts",
+      "url": "https://www.ato.gov.au/businesses-and-organisations/trusts"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is a trust structure?",
+      "a": "A trust is a structure where a trustee (an individual or a company) carries on business for the benefit of other people (the beneficiaries). It is set up through a formal trust deed.",
+      "link": null
+    },
+    {
+      "q": "Is a trust a separate legal entity?",
+      "a": "No, a trust is not a separate legal entity. The trustee is legally responsible for the operation and debts of the trust.",
+      "link": null
+    },
+    {
+      "q": "How can a trust reduce liability?",
+      "a": "While the trustee is legally responsible, the trustee can commonly be a company (a corporate trustee), which can reduce liability.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:51Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "784f3eb2cb665ccd027af24b1741bb6b00c33096",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

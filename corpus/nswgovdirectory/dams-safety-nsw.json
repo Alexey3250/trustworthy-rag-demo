@@ -1,0 +1,54 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dams-safety-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dams-safety-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dams-safety-nsw",
+  "title": "Dams Safety NSW",
+  "summary": "This page provides information about dam safety in New South Wales, including who is responsible and key safety considerations.",
+  "topics": [
+    "dam-safety",
+    "nsw-government",
+    "infrastructure",
+    "safety"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.damsafety.nsw.gov.au/",
+      "url": "https://www.damsafety.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is responsible for dam safety in NSW?",
+      "a": "The NSW Department of Planning, Housing and Infrastructure is responsible for dam safety.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    },
+    {
+      "q": "Where can I find more information about dam safety?",
+      "a": "You can find more information on the Dams Safety NSW website.",
+      "link": "https://www.damsafety.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:34Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "43bda891d032aaac0ee74df0378cb2f7753815ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

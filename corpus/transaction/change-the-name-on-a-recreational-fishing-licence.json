@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-name-on-a-recreational-fishing-licence",
+  "title": "Change the name on a recreational fishing licence",
+  "summary": "Find out how to change the name on your recreational fishing licence.",
+  "topics": [
+    "fishing-licence",
+    "recreational-fishing",
+    "change-name"
+  ],
+  "intro": "Unless you are eligible for an exemption, you will need a recreational fishing licence if you want to fish in NSW waters. You must show your licence fee receipt if asked by an authorised officer.\n\nYou will need to change the name on your recreational fishing licence if you:\n\nNote:",
+  "who_can_apply": [
+    "You need a recreational fishing licence to fish in NSW waters, unless you are eligible for an exemption."
+  ],
+  "what_you_need": [
+    "A licence fee receipt (if asked by an authorised officer)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Call NSW Primary Industries on (02) 4424 7499.",
+      "link": "tel:0244247499"
+    },
+    {
+      "n": 2,
+      "text": "Provide:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "eligible for an exemption",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee/exemptions"
+    },
+    {
+      "text": "NSW Fisheries",
+      "url": "https://www.dpi.nsw.gov.au/contact-us/contact-a-dpi-fisheries-officer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:25Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "586b91665655cf1e6f051f27ed594f324f5010ef",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

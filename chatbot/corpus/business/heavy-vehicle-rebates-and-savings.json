@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/manage-and-grow/guides-and-resources-for-emergencies-or-disasters/heavy-vehicle-rebates-and-savings",
+  "source_url": "https://www.service.nsw.gov.au/business/manage-and-grow/guides-and-resources-for-emergencies-or-disasters/heavy-vehicle-rebates-and-savings",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "heavy-vehicle-rebates-and-savings",
+  "title": "Heavy vehicle rebates and savings",
+  "summary": "This page provides information about rebates and savings available for heavy vehicles and offers resources for primary producers.",
+  "topics": [
+    "heavy-vehicles",
+    "rebates",
+    "savings",
+    "primary-producers",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Owners of trailers with a Gross Vehicle Mass more than 4.5 tonnes.",
+    "Owners of vehicles built to be towed, or is towed, by a motor vehicle.",
+    "NSW primary producers."
+  ],
+  "what_you_need": [
+    "For Converter Dolly Rebate: Application form (PDF).",
+    "For Spare Trailer Rebate: Application form (PDF).",
+    "For primary producers: Information on registration concessions."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Application - Converter Dolly Rebate – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071661-converter-dolly-rebate-form.pdf"
+    },
+    {
+      "text": "Application - Spare Trailer Rebate – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071662-spare-trailer-rebate-form.pdf"
+    },
+    {
+      "text": "Transport for NSW website",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs#toc-concessions-exemptions-and-rebates"
+    },
+    {
+      "text": "Registration concessions – primary producers",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/primary-producers-registration-concessions#toc-what-is-the-registration-concession"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    },
+    {
+      "text": "Department of Primary Industries DroughtHub",
+      "url": "https://droughthub.nsw.gov.au/"
+    },
+    {
+      "text": "Drought in NSW",
+      "url": "https://www.nsw.gov.au/drought-in-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Drought support",
+      "url": "https://www.service.nsw.gov.au/guide/drought-support"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    },
+    {
+      "text": "Business, industries and employment",
+      "url": "https://www.service.nsw.gov.au/services/employment-and-industries"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of heavy vehicles are eligible for assistance?",
+      "a": "Assistance may apply to a trailer with a Gross Vehicle Mass more than 4.5 tonnes, or a vehicle built to be towed, or is towed, by a motor vehicle.",
+      "link": null
+    },
+    {
+      "q": "Where can I find forms for rebates?",
+      "a": "Forms are available for the Converter Dolly Rebate and the Spare Trailer Rebate.",
+      "link": null
+    },
+    {
+      "q": "What support is available for primary producers?",
+      "a": "Primary producers can find information regarding registration concessions and assistance.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/primary-producers-registration-concessions#toc-what-is-the-registration-concession"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:24Z",
+    "last_modified": "7 February 2025",
+    "html_sha1": "9f07387aca413f72c457314d90aed85430a9313a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-a-stillbirth",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-a-stillbirth",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-a-stillbirth",
+  "title": "Register a stillbirth",
+  "summary": "This page explains the process for registering a stillbirth, noting that parents can register the birth online and subsequently purchase a birth certificate.",
+  "topics": [
+    "stillbirth",
+    "register-birth",
+    "newborn-loss",
+    "birth-certificate"
+  ],
+  "intro": "Babies are said to be stillborn if they show no signs of life after birth and:\n\nStillbirths are legally required to be registered as births, and will contain a notation of the stillbirth. The hospital does not register the birth for you.\n\nThe parent(s) of the baby can register the birth online, and once the registration is submitted they can purchase a birth certificate if they wish.\n\nAs a stillbirth is not registered as a death, the Registry cannot issue a death certificate.\n\nNote: If a baby dies shortly after birth, the birth still needs to be registered, but a death certificate can also be issued. The funeral director will submit the necessary paperwork relating to the death and can make an application for a death certificate on behalf of the parents.",
+  "who_can_apply": [
+    "Parent(s) of the baby"
+  ],
+  "what_you_need": [
+    "The parent(s) of the baby"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Miscarriage, stillbirth and loss of a newborn – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/miscarriage-stillbirth-and-loss-of-a-newborn"
+    },
+    {
+      "text": "Birth certificates – NSW Registry of Births, Deaths and Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/birth-certificates"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register the birth online",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "text": "Mental wellbeing resources",
+      "url": "https://www.service.nsw.gov.au/guide/mental-wellbeing-resources"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How is a stillbirth defined?",
+      "a": "Babies are said to be stillborn if they show no signs of life after birth.",
+      "link": null
+    },
+    {
+      "q": "Who registers the stillbirth?",
+      "a": "The parent(s) of the baby can register the birth online.",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-birth"
+    },
+    {
+      "q": "Can I get a death certificate for a stillbirth?",
+      "a": "As a stillbirth is not registered as a death, the Registry cannot issue a death certificate. However, if a baby dies shortly after birth, the funeral director can submit paperwork and apply for a death certificate.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:15Z",
+    "last_modified": "21 August 2024",
+    "html_sha1": "23522fb7c9c9e72033782033b8a2556c0ea37f63",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/patent",
+  "source_url": "https://www.service.nsw.gov.au/referral/patent",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "patent",
+  "title": "Apply for a patent",
+  "summary": "Learn how to apply for a patent to protect your invention, whether it is a device, substance, method, or process, in Australia.",
+  "topics": [
+    "patent",
+    "invention",
+    "intellectual-property",
+    "australia"
+  ],
+  "intro": "If you've developed a new device, substance, method, or process, you can apply for a patent to give you rights over your invention in Australia.\n\nYou must be able to prove you're the actual inventor, or that you have entitlement from the actual inventor(s).\n\nYou can use a patent to protect devices, substances, methods or processes.\n\nIn order to be granted a patent, you'll need to make sure that your invention is:",
+  "who_can_apply": [
+    "You must be able to prove you are the actual inventor, or that you have entitlement from the actual inventor(s)."
+  ],
+  "what_you_need": [
+    "The invention must be useful.",
+    "The invention must be a device, substance, method, or process."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "apply for a patent",
+      "url": "https://www.ipaustralia.gov.au/patents"
+    },
+    {
+      "text": "All about Intellectual Property",
+      "url": "https://www.ipaustralia.gov.au/"
+    },
+    {
+      "text": "What are patents?",
+      "url": "https://www.ipaustralia.gov.au/patents/understanding-patents/types-patents/what-can-be-patented"
+    },
+    {
+      "text": "All about searching for a patent",
+      "url": "https://www.ipaustralia.gov.au/patents/understanding-patents/searching-patents"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:33Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "091ab1253d6934a3260eea4f5577def3df5f0eec",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

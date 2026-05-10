@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/public-service-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/public-service-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "public-service-commission",
+  "title": "Public Service Commission",
+  "summary": "This page provides information about the Public Service Commission, which is responsible for managing the NSW public service.",
+  "topics": [
+    "public-service",
+    "nsw-government",
+    "employment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.psc.nsw.gov.au/",
+      "url": "https://www.psc.nsw.gov.au/"
+    },
+    {
+      "text": "I work for NSW",
+      "url": "https://iworkfor.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:00Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "881f3c0c3f3c2fe2fa73fd640a6a5287c3c7d5d0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

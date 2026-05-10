@@ -1,0 +1,32 @@
+{
+  "url": "https://www.service.nsw.gov.au/mobile-service-centres/northern-service",
+  "source_url": "https://www.service.nsw.gov.au/mobile-service-centres/northern-service",
+  "category": "mobile-service-centres",
+  "article_kind": "landing-page",
+  "slug": "northern-service",
+  "title": "Upcoming Northern Mobile Service Centre visits",
+  "summary": "This page provides information about upcoming visits from the Northern Mobile Service Centre.",
+  "topics": [
+    "service-centre",
+    "mobile-service",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:49Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "2a42a626783870ab5e37e8f82745ae35d635bc2f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

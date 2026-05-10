@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-eastern-sydney-district",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-south-eastern-sydney-district",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dcj-south-eastern-sydney-district",
+  "title": "DCJ South Eastern Sydney District",
+  "summary": "This page provides information and contact details for the DCJ South Eastern Sydney District.",
+  "topics": [
+    "dcj",
+    "community-services",
+    "sydney-district",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://dcj.nsw.gov.au/contact-us/csc.html/",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "DCJ Community Services Centres (all centres)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dcj-community-services-centres-all-centres"
+    },
+    {
+      "text": "Eastern Sydney Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/eastern-sydney-community-services-centre"
+    },
+    {
+      "text": "St George Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/st-george-community-services-centre"
+    },
+    {
+      "text": "Sutherland Community Services Centre",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sutherland-community-services-centre"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:02Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6f146904f5ca62571aeae2a52010ef5f7dccf671",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

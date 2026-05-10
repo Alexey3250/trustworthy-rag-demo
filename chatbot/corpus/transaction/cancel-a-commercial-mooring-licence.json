@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-commercial-mooring-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-commercial-mooring-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-commercial-mooring-licence",
+  "title": "Cancel a commercial mooring licence",
+  "summary": "You can cancel your commercial mooring licence at a Service NSW Centre, by post, or by email.",
+  "topics": [
+    "commercial-mooring-licence",
+    "cancel-licence",
+    "service-nsw"
+  ],
+  "intro": "If you want to cancel your commercial mooring licence, you can do so at a Service NSW Centre or by post or email.\n\nYou may be required to remove the mooring apparatus from the seabed and you're responsible for any costs associated with the removal.\n\nFor more information visit Transport for NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A written request to cancel the commercial mooring licence on the organisation's letterhead",
+    "Proof of identity",
+    "Your commercial mooring licence",
+    "The PDF form – Request for Refund – Maritime (if applicable)",
+    "A letter of authority on organisation letterhead and signed by a director/secretary/president/chairperson of the organisation, authorising you to act on the organisation's behalf"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather all the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Submit your application in person at a service centre, or by post or email, using the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Request for Refund – Maritime",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071755-request-for-refund-maritime.pdf"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is responsible for removing the mooring apparatus?",
+      "a": "You are responsible for any costs associated with removing the mooring apparatus from the seabed.",
+      "link": null
+    },
+    {
+      "q": "How can I cancel my commercial mooring licence?",
+      "a": "You can cancel your licence at a Service NSW Centre, by post, or by email.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about mooring?",
+      "a": "For more information, visit Transport for NSW.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:15Z",
+    "last_modified": "16 March 2026",
+    "html_sha1": "4755651c93f09deaffc9f35f94970c023f3cd3c8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

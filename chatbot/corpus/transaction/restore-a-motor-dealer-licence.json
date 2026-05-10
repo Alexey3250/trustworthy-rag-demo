@@ -1,0 +1,72 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "restore-a-motor-dealer-licence",
+  "title": "Restore a motor dealer licence",
+  "summary": "You can restore an expired motor dealer licence at a Service NSW Centre if it expired within the last three months.",
+  "topics": [
+    "motor-dealer-licence",
+    "service-nsw",
+    "restore-licence",
+    "business-licence"
+  ],
+  "intro": "If your motor dealer licence has expired, but is still within 3 months of the expiry date, you can restore it at a Service NSW Centre.",
+  "who_can_apply": [
+    "The motor dealer licence must have expired, but still be within 3 months of the expiry date."
+  ],
+  "what_you_need": [
+    "Your completed and signed renewal form",
+    "Your payment"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "your payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/licensing-fees"
+    },
+    {
+      "text": "Motor dealers/recyclers licence information",
+      "url": "https://ablis.business.gov.au/service/new-south-wales/motor-dealers-licence-motor-vehicle-recyclers-licence/16719"
+    },
+    {
+      "text": "Working as a motor dealer: business obligations in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    },
+    {
+      "text": "Motor dealers – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/motor-dealers"
+    },
+    {
+      "text": "Required forms for motor dealers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer/required-forms-for-motor-dealers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-dealer-licence"
+    },
+    {
+      "text": "Replace a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:58Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "2c4ebe91c82dbadb0eeed7cfd820a21e2661914e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

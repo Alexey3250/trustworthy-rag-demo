@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-board",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dust-diseases-board",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dust-diseases-board",
+  "title": "Dust Diseases Board",
+  "summary": "This page provides information about the Dust Diseases Board, which is responsible for research and grants related to work-related dust diseases.",
+  "topics": [
+    "dust-diseases",
+    "research",
+    "grants",
+    "work-related-illness"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/dust-diseases-board-research-grants/about-us",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/dust-diseases-board-research-grants/about-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Dust Diseases Board?",
+      "a": "The Dust Diseases Board is a body that conducts research and provides grants related to work-related dust diseases.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the Dust Diseases Board?",
+      "a": "You can find more information on the iCare website.",
+      "link": "https://www.icare.nsw.gov.au/injured-or-ill-people/work-related-dust-disease/dust-diseases-board-research-grants/about-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:22Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "951aff37788827762d977cad5b4c0618a6a8a6f2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

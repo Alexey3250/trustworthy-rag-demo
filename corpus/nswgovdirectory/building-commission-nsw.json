@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/building-commission-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/building-commission-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "building-commission-nsw",
+  "title": "Building Commission NSW",
+  "summary": "This page provides information about the Building Commission NSW, which helps citizens understand building regulations and lodge complaints.",
+  "topics": [
+    "building-commission",
+    "nsw-building",
+    "construction",
+    "complaints"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/building-commission",
+      "url": "https://www.nsw.gov.au/building-commission"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Lodge a home building complaint with the Building Commission NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Building Commission NSW?",
+      "a": "You can find more information about the Building Commission NSW at https://www.nsw.gov.au/building-commission.",
+      "link": "https://www.nsw.gov.au/building-commission"
+    },
+    {
+      "q": "How do I lodge a home building complaint?",
+      "a": "You can lodge a home building complaint with the Building Commission NSW via this link: https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-home-building-complaint-with-the-building-commission-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b938e2eebc700211744f6cb2d629beaeef5ee7a8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

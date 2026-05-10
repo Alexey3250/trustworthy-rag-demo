@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/notify-safework-nsw-of-asbestos-removal-work",
+  "source_url": "https://www.service.nsw.gov.au/transaction/notify-safework-nsw-of-asbestos-removal-work",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "notify-safework-nsw-of-asbestos-removal-work",
+  "title": "Notify SafeWork NSW of asbestos removal work",
+  "summary": "This page explains the process and requirements for notifying SafeWork NSW when asbestos removal work is planned.",
+  "topics": [
+    "asbestos",
+    "safe-work-nsw",
+    "removal-work",
+    "notification"
+  ],
+  "intro": "You must notify SafeWork NSW if you plan to:\n\nNotification must be given at least 5 calendar days before starting the work.\n\nYou can lodge your notification online.\n\nWhere asbestos must be removed immediately, phone SafeWork NSW on 13 10 50.",
+  "who_can_apply": [
+    "Individuals or businesses planning to remove asbestos."
+  ],
+  "what_you_need": [
+    "Your licence and business details, including ABN.",
+    "Your supervisor's personal and contact details.",
+    "Details of the clearance inspector.",
+    "The asbestos assessor licence number (if applicable).",
+    "Details of the site owner/controller for whom the removal work is being done.",
+    "Details of the work site and the type of work being undertaken."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Notify online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in or create your account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the required fields.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Contact SafeWork NSW on 13 10 50.",
+      "link": "tel:131050"
+    },
+    {
+      "n": 5,
+      "text": "Lodge an online notification within 24 hours of the telephone notification.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Information for asbestos removal licence holders – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0004/1054174/information-for-asbestos-removal-licence-holders.pdf"
+    },
+    {
+      "text": "How to safely remove asbestos: Code of Practice – PDF",
+      "url": "https://www.safework.nsw.gov.au/__data/assets/pdf_file/0015/50082/How-to-safely-remove-asbestos-Code-of-Practice.pdf"
+    },
+    {
+      "text": "Asbestos notifications",
+      "url": "https://www.safework.nsw.gov.au/notify-safework/asbestos-notifications"
+    },
+    {
+      "text": "All about asbestos – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/asbestos"
+    },
+    {
+      "text": "Find licensed asbestos and demolition providers",
+      "url": "https://verify.licence.nsw.gov.au/home/ADL"
+    },
+    {
+      "text": "Asbestos information for property owners and renovators",
+      "url": "https://www.asbestos.nsw.gov.au/"
+    },
+    {
+      "text": "Find an asbestos disposal site",
+      "url": "https://www.epa.nsw.gov.au/your-environment/household-building-and-renovation/dealing-with-household-asbestos/facilities-accept-household-asbestos"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an asbestos removal licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-asbestos-removal-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance must I notify SafeWork NSW about asbestos removal work?",
+      "a": "Notification must be given at least 5 calendar days before starting the work.",
+      "link": null
+    },
+    {
+      "q": "What should I do if asbestos needs to be removed immediately?",
+      "a": "Phone SafeWork NSW on 13 10 50.",
+      "link": null
+    },
+    {
+      "q": "What steps are involved in notifying SafeWork NSW?",
+      "a": "Select the 'Notify online' button, log in or create an account, complete the required fields, contact SafeWork NSW on 13 10 50, and lodge an online notification within 24 hours of the telephone notification.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:40Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "7ae0053490a8f8f123ed41dc09fbabcdb94a8296",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

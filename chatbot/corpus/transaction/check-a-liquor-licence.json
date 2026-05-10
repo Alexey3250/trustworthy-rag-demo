@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-liquor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-liquor-licence",
+  "title": "Check a liquor licence",
+  "summary": "You can check the details and conditions of a NSW liquor licence online.",
+  "topics": [
+    "liquor-licence",
+    "nsw",
+    "business-search",
+    "licensing"
+  ],
+  "intro": "If you’d like to check a NSW liquor licence, or search for your own licence number and details, you can do so online.\n\nYou can check the details and conditions of the following liquor licence types:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name (individual or business)",
+    "trading name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the licence information into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search button.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw"
+    },
+    {
+      "text": "NSW liquor licences",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage#types"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:33Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "2cb374e8dca9541aa46a1b5ce9d9c308e0f96510",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

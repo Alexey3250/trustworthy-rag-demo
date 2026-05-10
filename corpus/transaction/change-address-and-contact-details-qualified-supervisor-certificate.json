@@ -1,0 +1,118 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-qualified-supervisor-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-address-and-contact-details-qualified-supervisor-certificate",
+  "title": "Change address and contact details on a qualified supervisor certificate",
+  "summary": "If you hold a qualified supervisor certificate, you can update your address or contact details online if Building Commission NSW has your email or mobile number on record.",
+  "topics": [
+    "qualified-supervisor-certificate",
+    "change-address",
+    "change-contact-details",
+    "building-commission-nsw"
+  ],
+  "intro": "If you hold a qualified supervisor certificate and Building Commission NSW has your email address or mobile phone number on record you can update your address or contact details online.\n\nTo check your qualified supervisor certificate number and details visit Verify NSW.\n\nOnly your address and contact details can be changed online.\n\n### Change of name\n\nIf you want to change your name on your certificate you need to visit a service centre with a copy of the name change document such as a marriage certificate. Find out more about change of name.",
+  "who_can_apply": [
+    "Hold a qualified supervisor certificate",
+    "Building Commission NSW must have your email address or mobile phone number on record"
+  ],
+  "what_you_need": [
+    "Your name and licence number",
+    "Your new contact details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to update your details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the Change of address/contact details – PDF.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "n": 4,
+      "text": "To submit the form send it to the email address on the form or go to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "text": "Change of address/contact details – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4747b.pdf"
+    },
+    {
+      "text": "Building or renovating a home – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change a class on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-a-class-on-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Change the conditions on a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-on-a-qualified-supervisor-certificate"
+    },
+    {
+      "text": "Check a qualified supervisor's certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-qualified-supervisors-certificate"
+    },
+    {
+      "text": "Replace a qualified supervisor certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-qualified-supervisor-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my qualified supervisor certificate number and details?",
+      "a": "You can visit Verify NSW to check your qualified supervisor certificate number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Trades"
+    },
+    {
+      "q": "What details can I change online?",
+      "a": "You can only change your address and contact details online.",
+      "link": null
+    },
+    {
+      "q": "How do I change my name on my certificate?",
+      "a": "To change your name, you must visit a service centre with a copy of the name change document, such as a marriage certificate.",
+      "link": "https://www.service.nsw.gov.au/services/change-of-name"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:59Z",
+    "last_modified": "21 January 2026",
+    "html_sha1": "ae9104c7196008e87d55a0bd583a37690ed14fd3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

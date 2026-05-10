@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "sydney-opera-house",
+  "title": "Sydney Opera House",
+  "summary": "This page provides information about the Sydney Opera House, including details on its history, functions, and related services.",
+  "topics": [
+    "sydney-opera-house",
+    "culture",
+    "tourism",
+    "venue-hire"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sydneyoperahouse.com/",
+      "url": "https://www.sydneyoperahouse.com/"
+    },
+    {
+      "text": "What's on – Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/whats-on"
+    },
+    {
+      "text": "Take a tour of the Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/tours-and-experiences"
+    },
+    {
+      "text": "Plan your visit – Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/visit"
+    },
+    {
+      "text": "Commercial venue hire – Sydney Opera House",
+      "url": "https://www.sydneyoperahouse.com/venue-hire/commercial-venue-hire"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Sydney Opera House Trust",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-opera-house-trust"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:31Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6596716840f6d43e33c38581d4ea2e82ecb187a3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

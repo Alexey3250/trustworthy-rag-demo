@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/key-worker-housing-teacher-housing-authority-and-police-force-housing",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/key-worker-housing-teacher-housing-authority-and-police-force-housing",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "key-worker-housing-teacher-housing-authority-and-police-force-housing",
+  "title": "Key worker housing (Teacher Housing Authority and Police Force Housing)",
+  "summary": "This page provides information about housing options for key workers, including teachers and police force personnel.",
+  "topics": [
+    "key-worker-housing",
+    "teacher-housing",
+    "police-housing",
+    "nsw-housing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/housing-and-construction/key-worker-housing",
+      "url": "https://www.nsw.gov.au/housing-and-construction/key-worker-housing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Aboriginal Housing Office (Parramatta Head Office)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-housing-office-parramatta-head-office"
+    },
+    {
+      "text": "Homes NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/homes-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:20Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a9beafa7a4e24c7daef2ad4e151ccb22f075b863",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

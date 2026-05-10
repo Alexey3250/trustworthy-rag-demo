@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-company-or-partnership-contractor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-company-or-partnership-contractor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-company-or-partnership-contractor-licence",
+  "title": "Surrender a company or partnership contractor licence",
+  "summary": "Learn how to cancel and return a company or partnership contractor licence to Fair Trading if your business is retiring, dissolving, or changing.",
+  "topics": [
+    "company-licence",
+    "partnership-licence",
+    "contractor-licence",
+    "cancel-licence",
+    "fair-trading"
+  ],
+  "intro": "If you hold a company or partnership contractor licence and the business is retiring, dissolving or changing, the licence will need to be cancelled and returned to Fair Trading. This can be done at a Service NSW Centre.\n\nYou may be entitled to a partial refund for the unexpired portion of the fee you paid for the licence.",
+  "who_can_apply": [
+    "Hold a company or partnership contractor licence",
+    "The business is retiring, dissolving, or changing"
+  ],
+  "what_you_need": [
+    "Your licence card and licence number",
+    "The PDF form: 'Surrender of Licence/Certificate'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Print and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre with your licence card and submit the documentation in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "HB029: Surrender of Licence/Certificate – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4382e.pdf"
+    },
+    {
+      "text": "Company and partnership licences – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/company-and-partnership-licences"
+    },
+    {
+      "text": "Building, trade and specialist licences and registrations – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my business is retiring or dissolving?",
+      "a": "If you hold a company or partnership contractor licence and the business is retiring, dissolving or changing, the licence must be cancelled and returned to Fair Trading.",
+      "link": null
+    },
+    {
+      "q": "Do I need to bring any documents to cancel my licence?",
+      "a": "You need your licence card and licence number, and the PDF form titled 'Surrender of Licence/Certificate'.",
+      "link": null
+    },
+    {
+      "q": "Where can I surrender my licence?",
+      "a": "You can cancel and return the licence at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:00Z",
+    "last_modified": "12 December 2024",
+    "html_sha1": "ab12c6f09c7c1f2e26f0e67dd600c34df3ae0202",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/park-for-free-when-you-ride-public-transport",
+  "source_url": "https://www.service.nsw.gov.au/transaction/park-for-free-when-you-ride-public-transport",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "park-for-free-when-you-ride-public-transport",
+  "title": "Park for free when you ride public transport",
+  "summary": "Learn how to park for free for up to 18 hours a day at a Transport Park&Ride car park when you use public transport.",
+  "topics": [
+    "parking",
+    "public-transport",
+    "park-and-ride",
+    "nsw"
+  ],
+  "intro": "If you travel on public transport, you can park for free for up to 18 hours each day at a Transport Park&Ride car park.\n\nTo be eligible for free parking, you must:\n\nIf you’re not using public transport or do not exit the car park within the 18-hour free parking window, fees will apply.\n\nNote: You can use an Adult, Child/Youth, Senior/Pensioner, Concession, Employee or Free Travel Opal card. Single trip tickets and School Opal cards are not accepted.",
+  "who_can_apply": [
+    "Must travel on public transport.",
+    "Must exit the car park within the 18-hour free parking window."
+  ],
+  "what_you_need": [
+    "Adult, Child/Youth, Senior/Pensioner, Concession, Employee or Free Travel Opal card."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport Connect",
+      "url": "https://transportnsw.info/transport-connect/parkride"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Opal cards",
+      "url": "https://www.service.nsw.gov.au/services/opal-cards"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can I park for free?",
+      "a": "You can park for free for up to 18 hours each day at a Transport Park&Ride car park.",
+      "link": null
+    },
+    {
+      "q": "What cards are accepted for free parking?",
+      "a": "You can use an Adult, Child/Youth, Senior/Pensioner, Concession, Employee or Free Travel Opal card.",
+      "link": null
+    },
+    {
+      "q": "What happens if I don't use public transport or leave the car park?",
+      "a": "If you are not using public transport or do not exit the car park within the 18-hour free parking window, fees will apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:44Z",
+    "last_modified": "9 January 2025",
+    "html_sha1": "a3433fd65bce0cee39b95819e5c021461a79bdf0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

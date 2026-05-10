@@ -1,0 +1,130 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-justice-of-the-peace-jp",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-justice-of-the-peace-jp",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-justice-of-the-peace-jp",
+  "title": "Find a Justice of the Peace (JP)",
+  "summary": "Find information and locations for Justices of the Peace (JPs) across NSW, and learn about the services they provide.",
+  "topics": [
+    "justice-of-the-peace",
+    "statutory-declaration",
+    "witnessing-documents",
+    "legal-services"
+  ],
+  "intro": "Justices of the Peace (JPs) are volunteers that come from all sections of the community. JPs are available across NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Documents to be witnessed or certified",
+    "Appointment details (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "search the Public Register",
+      "link": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/justice-of-the-peace/finding-a-jp.html"
+    },
+    {
+      "n": 2,
+      "text": "go to a local JP community desk",
+      "link": "https://nswja.org.au/community-desks/"
+    },
+    {
+      "n": 3,
+      "text": "ask if there is a JP at your local council or shire offices, police station or courthouse, office of your local Member of Parliament, local shopping centre, library, chemist or bank.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "if using the online Public Register, check their availability before you call",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "check that the JP is authorised to witness your documents",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "let the JP know if you have a large number of documents to be witnessed",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "get your documents ready before your appointment and do not sign your documents before the appointment.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "search the Public Register",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/justice-of-the-peace/finding-a-jp.html"
+    },
+    {
+      "text": "JP community desk",
+      "url": "https://nswja.org.au/community-desks/"
+    },
+    {
+      "text": "Justices of the Peace – Department of Communities and Justice",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/justice-of-the-peace.html"
+    },
+    {
+      "text": "JP Online – Department of Communities and Justice",
+      "url": "https://dcj.nsw.gov.au/legal-and-justice/legal-assistance-and-representation/justice-of-the-peace/jp-online.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "get help in your language",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/help-in-your-language"
+    },
+    {
+      "text": "book an interpreter for spoken language",
+      "url": "https://www.service.nsw.gov.au/transaction/book-interpreter"
+    },
+    {
+      "text": "support and guidance for new arrivals",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-new-arrivals-appointment"
+    },
+    {
+      "text": "language interpretation for a statutory declaration (stat dec)",
+      "url": "https://www.service.nsw.gov.au/referral/provide-language-interpretation-for-a-statutory-declaration"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Prepare a NSW statutory declaration (stat dec)",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-statutory-declaration-forms"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I find a Justice of the Peace (JP)?",
+      "a": "You can search the Public Register, visit a local JP community desk, or ask at local council, police, or other community offices.",
+      "link": null
+    },
+    {
+      "q": "What services can a JP provide?",
+      "a": "JPs can witness statutory declarations or affidavits (valid only in Australia), certify copies of documents, and assist with language interpretation services.",
+      "link": null
+    },
+    {
+      "q": "Do I need to prepare anything before I visit a JP?",
+      "a": "Get your documents ready before your appointment, and do not sign them until you are with the JP.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:07Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "53e4a43cdf4808594a1d7a610089632f90377cbb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

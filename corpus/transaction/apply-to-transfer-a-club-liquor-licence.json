@@ -1,0 +1,137 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-club-liquor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-transfer-a-club-liquor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-transfer-a-club-liquor-licence",
+  "title": "Apply to transfer a club liquor licence",
+  "summary": "If two or more registered clubs are amalgamating, this page provides information on applying to transfer a club liquor licence.",
+  "topics": [
+    "liquor-licence",
+    "club-amalgamation",
+    "business-licensing",
+    "nsw-service"
+  ],
+  "intro": "If two or more registered clubs intend to amalgamate, they need to apply for a liquor licence transfer.\n\nFor up-to-date liquor licence guidelines, resources and tools visit Liquor & Gaming NSW liquor licensing.\n\nIf you have questions or feedback about liquor licensing contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "The existing licensee",
+    "The proposed licensee (if the existing licensee consents)",
+    "Applicants must be 18 years or older"
+  ],
+  "what_you_need": [
+    "The liquor licence name and number",
+    "Details of the incoming licensee (transferee), including the organisation's ABN or ACN",
+    "Details of the transferee's contact person",
+    "Details of the premises owner (individual or organisation, whichever is applicable)",
+    "Signed declaration of consent from the transferor",
+    "Signed declaration of consent from the transferee",
+    "A completed direct debit request form – PDF (if operating gaming machines)",
+    "Representative's name and contact details (if applicable)",
+    "A completed appointment of manager notice form – PDF (if applicable)",
+    "Any other applicable supporting documents as noted in the Guidelines for registered clubs amalgamations",
+    "The PDF form – 'Liquor licence transfer – club licence'",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check your eligibility.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required information and documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete the PDF form – 'Liquor licence transfer – club licence'.",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/resources/club-licence-forms"
+    },
+    {
+      "n": 4,
+      "text": "Email your application and pay the required fee by following the instructions on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "ABN or ACN",
+      "url": "https://abr.business.gov.au/"
+    },
+    {
+      "text": "direct debit request form – PDF",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/gaming/gaming-resource-library/direct-debit"
+    },
+    {
+      "text": "Guidelines for registered clubs amalgamations",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/licensed-venues/law-compliance"
+    },
+    {
+      "text": "Liquor licence transfer – club licence",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/resources/club-licence-forms"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/apply-manage/fees"
+    },
+    {
+      "text": "Liquor & Gaming NSW liquor licensing",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    },
+    {
+      "text": "Clubs NSW",
+      "url": "https://www.clubsnsw.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "appointment of manager notice form – PDF",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-liquor-approved-manager"
+    },
+    {
+      "text": "Apply to transfer a liquor licence (with previous licensee's consent)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-transfer-liquor-licence-previous-licensees-consent"
+    },
+    {
+      "text": "Apply for a notice of licence transfer",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-streamlined-liquor-licence-transfer"
+    },
+    {
+      "text": "Use the Liquor Licence Manager",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-liquor-licence-manager"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply to transfer a club liquor licence?",
+      "a": "The existing licensee, or the proposed licensee (if the existing licensee consents), can apply.",
+      "link": null
+    },
+    {
+      "q": "What is required if I am applying for a liquor licence transfer?",
+      "a": "You must gather the liquor licence name and number, details of the incoming licensee, details of the premises owner, and signed declarations of consent from both the transferor and transferee.",
+      "link": null
+    },
+    {
+      "q": "Where can I find the necessary forms?",
+      "a": "The required PDF form is 'Liquor licence transfer – club licence', which can be found here: https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/resources/club-licence-forms",
+      "link": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/liquor-licensing/resources/club-licence-forms"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:05Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "d7120237f128215e594873b98858c1e2996f58b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

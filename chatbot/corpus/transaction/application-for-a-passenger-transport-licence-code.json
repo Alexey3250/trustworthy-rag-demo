@@ -1,0 +1,141 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/application-for-a-passenger-transport-licence-code",
+  "source_url": "https://www.service.nsw.gov.au/transaction/application-for-a-passenger-transport-licence-code",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "application-for-a-passenger-transport-licence-code",
+  "title": "Application for a passenger transport licence code",
+  "summary": "This page provides information on how to apply for a Passenger Transport Licence Code (PTLC) if you provide passenger transport services in New South Wales.",
+  "topics": [
+    "passenger-transport",
+    "licence-code",
+    "taxis",
+    "rideshare",
+    "tour-operations"
+  ],
+  "intro": "If you provide passenger transport services in New South Wales such as taxis, private hire, rideshare or tour drive operations, you’ll need to apply for a passenger transport licence code (PTLC).",
+  "who_can_apply": [
+    "Meet medical standards for commercial vehicle drivers.",
+    "Provide a medical report if you declare a medical condition.",
+    "Provide an eyesight report from an optometrist or ophthalmologist if you declare a vision or eye disorder.",
+    "Have held an unrestricted Australian driver licence for at least 12 months in the last 4 years."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Unrestricted Australian driver licence with an expiry date that is 5 years or less",
+    "Completed commercial standard medical test (if applicable)",
+    "Eyesight report by an optometrist or ophthalmologist (if applicable)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Download PDF form’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Complete, print and sign the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once you’ve applied, you'll hear back from Transport for NSW within 14 business days.",
+      "link": null
+    },
+    {
+      "text": "The PTLC will appear on your driver licence under 'Conditions'.",
+      "link": null
+    },
+    {
+      "text": "A driver licence holder with a PTLC will be subject to 0.02 blood alcohol concentration when driving a point to point passenger service or public passenger service.",
+      "link": null
+    },
+    {
+      "text": "For first time applications for a PTLC, you'll need to pass a commercial eyesight test.",
+      "link": null
+    },
+    {
+      "text": "When renewing your driver licence, you’ll need to re-apply for your PTLC, and pass a commercial eyesight test each time.",
+      "link": null
+    },
+    {
+      "text": "If you wish to remove the PTLC from your licence, you can make a request at a service centre. There's no cost involved.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Assessing fitness to drive – PDF",
+      "url": "https://austroads.gov.au/__data/assets/pdf_file/0037/498691/AP-G56-22_Assessing_Fitness_Drive.pdf"
+    },
+    {
+      "text": "Point to point transport Factsheet – PDF",
+      "url": "https://www.pointtopoint.nsw.gov.au/learning-centre/fact-sheets/tourist-transport-operators-fact-sheet"
+    },
+    {
+      "text": "Application for a Passenger Transport Licence Code – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072066-application-passenger-transport-licence-code.pdf"
+    },
+    {
+      "text": "Austroads Assessing Fitness to Drive",
+      "url": "https://austroads.gov.au/drivers-and-vehicles/assessing-fitness-to-drive"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a bus driver authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-driver-authority"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What services require a Passenger Transport Licence Code (PTLC)?",
+      "a": "You need a PTLC if you provide passenger transport services in New South Wales, such as taxis, private hire, rideshare, or tour drive operations.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for applying for a PTLC?",
+      "a": "You must meet medical standards for commercial vehicle drivers, have held an unrestricted Australian driver licence for at least 12 months in the last 4 years, and provide specific reports if you have medical or vision conditions.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my application?",
+      "a": "You must visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:00Z",
+    "last_modified": "12 February 2026",
+    "html_sha1": "b72d8576b5b44dacdf861aa7e87d373c4c64ae15",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

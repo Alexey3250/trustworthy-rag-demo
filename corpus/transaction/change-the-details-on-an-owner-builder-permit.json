@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-on-an-owner-builder-permit",
+  "title": "Change the details on an Owner-Builder Permit",
+  "summary": "Find out how to apply for a new Owner-Builder Permit or amend an existing one if your details have changed.",
+  "topics": [
+    "owner-builder",
+    "permit",
+    "building",
+    "details-change"
+  ],
+  "intro": "If you have an Owner-Builder Permit to supervise building on your own private residential site and details have changed since your permit was issued (except for a change of name) you need to visit a service centre and apply for a new permit.\n\nIf details such as your name or address have been incorrectly recorded visit a service centre and have your permit amended.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your permit number",
+    "the details to be changed",
+    "supporting document as evidence of the change (such as a rates notice or a letter from your local authority)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find your permit number and details, visit Verify NSW.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/OwnerBuilder"
+    },
+    {
+      "text": "Becoming an owner-builder – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/building-or-renovating-a-home/owner-builder"
+    },
+    {
+      "text": "Owner-builder applications",
+      "url": "https://ablis.business.gov.au/service/nsw/owner-builder-permit/16675"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Cancel an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit"
+    },
+    {
+      "text": "Replace an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-owner-builder-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my details have changed for my Owner-Builder Permit?",
+      "a": "If details such as your name or address have been incorrectly recorded, you need to visit a service centre to have your permit amended.",
+      "link": null
+    },
+    {
+      "q": "Do I need to apply for a new permit if my details have changed?",
+      "a": "If you have an Owner-Builder Permit and details have changed (except for a change of name), you must visit a service centre and apply for a new permit.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:54Z",
+    "last_modified": "20 October 2025",
+    "html_sha1": "08b4b983244cac08b6a87e41d7cb9bd9757a0b71",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

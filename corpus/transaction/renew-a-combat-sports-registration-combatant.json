@@ -1,0 +1,177 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-combat-sports-registration-combatant",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-combat-sports-registration-combatant",
+  "title": "Renew a combatant registration",
+  "summary": "You can apply online to renew your combat sports combatant registration to participate in combat sport contests in NSW.",
+  "topics": [
+    "combat-sports",
+    "registration",
+    "renew",
+    "nsw"
+  ],
+  "intro": "You can apply online to renew your combat sports combatant registration to engage in combat sport contests in NSW. This can be done online from 8 weeks before your registration expiry date.\n\nRegistration expires 3 years from the date granted, unless cancelled earlier, or the term extended or reduced.",
+  "who_can_apply": [
+    "You must have submitted a complete application and your registration must not have expired.",
+    "You must not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account (you can create one when applying).",
+    "Your combatant registration number.",
+    "Your renewal number (including all digits and letters, as shown on your renewal reminder notice).",
+    "A recent passport size photograph in JPG/PNG format (maximum file size 10MB).",
+    "Proof of successful completion of training relating to the management of concussions and head injuries.",
+    "Your payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the ‘Renew online’ button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your registration and renewal numbers, these can be found on your renewal notice",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts to apply for combat sports combatant registration.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You will not get a medical record book as you've previously been registered as a combatant with the Combat Sports Authority of NSW. You should continue using the medical record book that was issued to you when you first registered.",
+      "link": null
+    },
+    {
+      "text": "If you need to update your details, go to Change name or contact details on a combatant registration.",
+      "link": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "You can only renew combatant class(es) already held on your registration. We recommend completing a Manage combatant classes transaction after your renewal application is approved if you need to update your registration classes.",
+      "link": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "text": "To check your combatant registration number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/OOS"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Crimes (Criminal Organisations Control) Act 2012",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-009"
+    },
+    {
+      "text": "Certificate of Fitness",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_certificate_of_fitness_for_combat_sports.pdf"
+    },
+    {
+      "text": "Serological Clearance Certificate",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_form_serology_clearance_certificate_s7_oct_2014.pdf"
+    },
+    {
+      "text": "Parent/Legal Guardian Consent form",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2023-05/Parent-Legal-Guardian-Consent-Form.pdf"
+    },
+    {
+      "text": "training relating to the management of concussions and head injuries",
+      "url": "https://connectivity.thinkific.com/courses/combat-course-nsw"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration"
+    },
+    {
+      "text": "Change of name form",
+      "url": "https://www.sport.nsw.gov.au/combatsports/registration/combatant-registration"
+    },
+    {
+      "text": "Combat Sports Privacy Collection Notice",
+      "url": "https://www.sport.nsw.gov.au/combatsports/privacy"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/OOS"
+    },
+    {
+      "text": "Conditions of registration for combatants – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa-combatant-registration-conditions.pdf"
+    },
+    {
+      "text": "Combatant code of conduct – PDF",
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-04/csa_code_combatants.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change name or contact details on a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-contact-details-combat-sports-combatant"
+    },
+    {
+      "text": "Manage combatant classes transaction",
+      "url": "https://www.service.nsw.gov.au/transaction/update-or-manage-combat-sports-classes-combatant"
+    },
+    {
+      "text": "Apply for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combat-sports-registration-combatant"
+    },
+    {
+      "text": "Update medical documents for a combatant registration",
+      "url": "https://www.service.nsw.gov.au/transaction/update-combatant-medical-documents"
+    },
+    {
+      "text": "Replace a medical record book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-medical-record-book"
+    },
+    {
+      "text": "Check a combat sports registration",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-combat-sports-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is a combatant registration valid for?",
+      "a": "A registration is valid for 3 years from the date it was granted, unless it is cancelled or the term is extended or reduced.",
+      "link": null
+    },
+    {
+      "q": "When can I renew my combatant registration?",
+      "a": "You can apply online to renew your registration starting 8 weeks before the expiry date.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to renew their combatant registration?",
+      "a": "You can renew if you have submitted a complete application and your registration has not expired. You must also not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012.",
+      "link": "https://legislation.nsw.gov.au/view/html/inforce/current/act-2012-009"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:53Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "e57bf106776f3025fc9f22c290c121f5b3508148",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

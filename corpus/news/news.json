@@ -1,0 +1,106 @@
+{
+  "url": "https://www.service.nsw.gov.au/news",
+  "source_url": "https://www.service.nsw.gov.au/news",
+  "category": "news",
+  "article_kind": "landing-page",
+  "slug": "news",
+  "title": "News",
+  "summary": "This page provides the latest news and updates from Service NSW.",
+  "topics": [
+    "nsw-news",
+    "government-updates",
+    "service-announcements",
+    "community-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Service NSW 28 March 2026 ‘You’re hired!’ Mark Bouris AM to lead Review into new Small Business Advisory Service Small business owners across NSW are being invited to have their say to help design the successor to...",
+      "url": "https://www.service.nsw.gov.au/news/youre-hired-mark-bouris-am-to-lead-review-into-new-small-business-advisory-service"
+    },
+    {
+      "text": "Service NSW 17 March 2026 Secure Digital Birth Certificates now available in NSW In an Australian first, people born in NSW who are aged 16 to 21 now have the option to set up a...",
+      "url": "https://www.service.nsw.gov.au/news/secure-digital-birth-certificates-now-available-in-nsw"
+    },
+    {
+      "text": "Service NSW 13 March 2026 NSW Government delivers crucial cost-of-living relief The Minns Labor Government has extended the No Interest Loan Scheme (“the NIL Scheme”) and Aged-Care...",
+      "url": "https://www.service.nsw.gov.au/news/nsw-government-delivers-crucial-cost-of-living-relief"
+    },
+    {
+      "text": "Service NSW 27 February 2026 Tough new Mobile Service NSW Centres hit the road to support regional communities Regional and remote communities across NSW will benefit from a new fleet of tough Service NSW Mobile...",
+      "url": "https://www.service.nsw.gov.au/news/tough-new-mobile-service-nsw-centres-hit-the-road-to-support-regional-communities"
+    },
+    {
+      "text": "Service NSW 1 February 2026 NSW Government reforms overseas driving licence arrangements to keep NSW roads safe The NSW Government is reforming licensing loopholes and strengthening foreign licence conversion...",
+      "url": "https://www.service.nsw.gov.au/news/nsw-government-reforms-overseas-driving-licence-arrangements-to-keep-nsw-roads-safe"
+    },
+    {
+      "text": "Service NSW 1 January 2026 Lasting relief for motorists as ongoing $60 toll cap begins Toll relief becomes permanent today in the form of the Minns Labor Government’s signature cost-of...",
+      "url": "https://www.service.nsw.gov.au/news/lasting-relief-for-motorists-as-ongoing-60-toll-cap-begins"
+    },
+    {
+      "text": "Service NSW 26 November 2025 Secure Digital Birth Certificate to make it easier to prove who you are People in NSW are moving into a new digital era with the Minns Labor Government today previewing the...",
+      "url": "https://www.service.nsw.gov.au/news/secure-digital-birth-certificate-to-make-it-easier-to-prove-who-you-are"
+    },
+    {
+      "text": "Service NSW 12 September 2025 Returning Home A talented Paarkintji and Ngiyaampa artist hopes her digital painting showcased at Broken Hill...",
+      "url": "https://www.service.nsw.gov.au/news/returning-home"
+    },
+    {
+      "text": "Service NSW 2 September 2025 Service NSW the ‘centre of care’ for NSW communities NSW residents from Bega to Bourke and everywhere in between are benefitting from the NSW Government...",
+      "url": "https://www.service.nsw.gov.au/news/service-nsw-the-centre-of-care-for-nsw-communities"
+    },
+    {
+      "text": "Service NSW 1 August 2025 Armidale Service NSW Centre has moved down the road The Armidale community can now complete NSW Government transactions and services in a larger, modern...",
+      "url": "https://www.service.nsw.gov.au/news/armidale-service-nsw-centre-has-moved-down-the-road"
+    },
+    {
+      "text": "Current page 1",
+      "url": "https://www.service.nsw.gov.au/news?page=0"
+    },
+    {
+      "text": "Page 2",
+      "url": "https://www.service.nsw.gov.au/news?page=1"
+    },
+    {
+      "text": "Page 3",
+      "url": "https://www.service.nsw.gov.au/news?page=2"
+    },
+    {
+      "text": "Page 4",
+      "url": "https://www.service.nsw.gov.au/news?page=3"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What kind of news updates are available?",
+      "a": "The page lists various news articles covering topics such as digital birth certificates, cost-of-living relief, and changes to service centres.",
+      "link": null
+    },
+    {
+      "q": "When was the last update about digital birth certificates?",
+      "a": "Secure Digital Birth Certificates were announced as available on March 17, 2026, and also on November 26, 2025.",
+      "link": null
+    },
+    {
+      "q": "What recent changes were made to driving licences?",
+      "a": "The NSW Government reformed overseas driving licence arrangements on February 1, 2026, to keep NSW roads safe.",
+      "link": "https://www.service.nsw.gov.au/news/nsw-government-reforms-overseas-driving-licence-arrangements-to-keep-nsw-roads-safe"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:06Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "833ea188bc24984038172169a4a595f2efab9a8c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

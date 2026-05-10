@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-a-business-name",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-a-business-name",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-a-business-name",
+  "title": "Register a business name",
+  "summary": "Learn about registering a business name (or trading name) if you operate your business under a name different from your own.",
+  "topics": [
+    "business-name",
+    "trading-name",
+    "register-business",
+    "legal-entity"
+  ],
+  "intro": "You need to register a business name if you conduct business under a name other than your own. A business name, also known as a trading name, is a name or title under which a person, or other legal entity, carries on business.\n\nWhen you register a business name, you register it nationally. This means you can operate your business in any state or territory in Australia.\n\nAt the Australian Government's Business Registration website you can register a business name using one online form. The form will also:\n\nRegistering a business name will prevent others from registering the exact business name, but not from trading with a similar business name or likeness. For that, you'll need to register a trademark.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "the Australian Government's Business Registration website",
+      "url": "https://register.business.gov.au/registration/type"
+    },
+    {
+      "text": "Business name fees and payment options – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/forms-and-fees/payment-options/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "register a trademark",
+      "url": "https://www.service.nsw.gov.au/referral/trade-mark"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:18Z",
+    "last_modified": "21 August 2025",
+    "html_sha1": "fa7443925a0ce2d5514a1dbf752c691eb5f37c13",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

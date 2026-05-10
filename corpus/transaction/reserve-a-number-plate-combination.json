@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/reserve-a-number-plate-combination",
+  "source_url": "https://www.service.nsw.gov.au/transaction/reserve-a-number-plate-combination",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "reserve-a-number-plate-combination",
+  "title": "Reserve a number plate combination",
+  "summary": "You can reserve your desired number plate combination through myPlates without having to manufacture the plates immediately.",
+  "topics": [
+    "number-plates",
+    "reserve-combination",
+    "myplates"
+  ],
+  "intro": "If you have an idea for a number plate, but you're not ready to register the plates to a vehicle, you can reserve your idea through myPlates, without having to get the plates manufactured.\n\nYou can reserve the plate combination for up to one year. You need to pay a yearly fee to keep your combination reserved.\n\nYou'll receive a notification letter 21 days before the reservation period expires to remind you to renew it. If you don’t renew within this time, the plate combination will be made available for sale.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your email address",
+    "your driver licence number or customer number (if a business)",
+    "the proposed number plate combination",
+    "your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Reserve online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to reserve a number plate combination.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "myPlates",
+      "url": "https://www.myplates.com.au/reserve-combination"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Order the manufacture of a reserved number plate combination",
+      "url": "https://www.service.nsw.gov.au/transaction/order-the-manufacture-of-a-reserved-number-plate-combination"
+    },
+    {
+      "text": "Place your number plates on hold/in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can I reserve a number plate combination for?",
+      "a": "You can reserve the plate combination for up to one year.",
+      "link": null
+    },
+    {
+      "q": "What happens if I don't renew my reservation?",
+      "a": "You will receive a notification letter 21 days before the reservation period expires. If you don’t renew within this time, the plate combination will be made available for sale.",
+      "link": null
+    },
+    {
+      "q": "Where can I reserve my number plate combination?",
+      "a": "You can reserve your combination by selecting the 'Reserve online' button and following the prompts.",
+      "link": "https://www.myplates.com.au/reserve-combination"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:01Z",
+    "last_modified": "30 July 2025",
+    "html_sha1": "b54663b907301546eccc79cfffdc216443df3263",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

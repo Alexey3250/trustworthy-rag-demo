@@ -1,0 +1,52 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/adoptions",
+  "source_url": "https://www.service.nsw.gov.au/services/adoptions",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "adoptions",
+  "title": "Adoptions",
+  "summary": "This page provides information about adoptions in New South Wales.",
+  "topics": [
+    "adoption",
+    "birth-certificate",
+    "parenting"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for adoption information and/or an integrated birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-adoption-information-and-or-an-integrated-birth-certificate"
+    },
+    {
+      "text": "Add a parent to a pre-adoptive birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/add-a-parent-to-a-pre-adoptive-birth-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for adoption information or an integrated birth certificate?",
+      "a": "You can apply for adoption information and/or an integrated birth certificate using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-adoption-information-and-or-an-integrated-birth-certificate"
+    },
+    {
+      "q": "How do I add a parent to a pre-adoptive birth certificate?",
+      "a": "You can add a parent to a pre-adoptive birth certificate using this link.",
+      "link": "https://www.service.nsw.gov.au/transaction/add-a-parent-to-a-pre-adoptive-birth-certificate"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:30Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "e2021776dedf33774c18589ae25bff3a304ad080",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

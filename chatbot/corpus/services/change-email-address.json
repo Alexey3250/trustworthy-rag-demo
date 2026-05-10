@@ -1,0 +1,177 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address",
+  "source_url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-email-address",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "change-email-address",
+  "title": "Change email address",
+  "summary": "This page provides instructions on how to change your email address for your MyServiceNSW Account and the Service NSW app.",
+  "topics": [
+    "my-service-nsw-account",
+    "change-email-address",
+    "personal-details"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your MyServiceNSW Account login details",
+    "Access to the Service NSW app"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Log in to your MyServiceNSW Account.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "n": 2,
+      "text": "Go to 'Manage account'.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Go to 'Personal details'.",
+      "link": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "n": 4,
+      "text": "Select 'Update' next to 'Email'.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Enter your new email and follow any other prompts. Then select 'Continue'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Log in to the Service NSW app.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Select the profile or 'person' icon.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Select 'Personal details'.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Select 'Email'.",
+      "link": null
+    },
+    {
+      "n": 10,
+      "text": "Enter your new email and follow any other prompts. Then select 'Continue'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help or have questions, call us on 13 77 88 or go to a service centre.\n\nIf you're overseas, call +61 2 8894 1555.",
+  "more_info": [
+    {
+      "text": "Add or change mobile number",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Log in from overseas",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Personal details",
+      "url": "https://account.service.nsw.gov.au/manage/personal-details"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "multiple accounts",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multiple-accounts"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Driver Licence and Vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/change-an-email-address-or-mobile-number-with-transport-for-nsw"
+    },
+    {
+      "text": "change your email for the other services separately",
+      "url": "https://www.service.nsw.gov.au/guide/change-nsw-details"
+    },
+    {
+      "text": "Add or change mobile number",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/add-or-change-mobile-number"
+    },
+    {
+      "text": "Change mobile phone or device used for multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/change-mobile-phone-or-device-used-for-multi-factor-authentication"
+    },
+    {
+      "text": "Set up multi-factor authentication",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/multi-factor-authentication"
+    },
+    {
+      "text": "Log in from overseas",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/log-in-from-overseas"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I change my email address for my MyServiceNSW Account?",
+      "a": "Log in to your MyServiceNSW Account, go to 'Manage account', then 'Personal details'. Select 'Update' next to 'Email', enter your new email, and select 'Continue'.",
+      "link": "https://account.service.nsw.gov.au/manage/personal-details"
+    },
+    {
+      "q": "How do I change my email address using the Service NSW app?",
+      "a": "Log in to the Service NSW app, select the profile or 'person' icon, choose 'Personal details', select 'Email', enter your new email, and select 'Continue'.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "q": "What information changes when I update my email address?",
+      "a": "The email address you use to log in to your MyServiceNSW Account, and your Driver Licence and Vehicle registration details.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:03Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "70dae1d88d4983c92bc0ab1376b7b8af98c26577",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

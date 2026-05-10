@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/australian-museum",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/australian-museum",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "australian-museum",
+  "title": "Australian Museum",
+  "summary": "This page provides information about the Australian Museum, including details on visiting, education, and getting involved.",
+  "topics": [
+    "museum",
+    "australian-museum",
+    "education",
+    "visit"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://australian.museum/",
+      "url": "https://australian.museum/"
+    },
+    {
+      "text": "What's on",
+      "url": "https://australian.museum/visit/whats-on/"
+    },
+    {
+      "text": "Education programs",
+      "url": "https://australian.museum/learn/teachers/"
+    },
+    {
+      "text": "Book a group visit",
+      "url": "https://australian.museum/visit/book-a-group/"
+    },
+    {
+      "text": "Functions and venues",
+      "url": "https://australian.museum/visit/functions-venues/"
+    },
+    {
+      "text": "Australian Museum Shop",
+      "url": "https://shop.australian.museum"
+    },
+    {
+      "text": "Contact us",
+      "url": "https://australian.museum/get-involved/contact/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the Australian Museum?",
+      "a": "You can find information about the Australian Museum at https://australian.museum/",
+      "link": "https://australian.museum/"
+    },
+    {
+      "q": "What activities are available at the museum?",
+      "a": "The museum offers information on what's on, education programs, group visits, and functions and venues.",
+      "link": null
+    },
+    {
+      "q": "How can I get involved with the museum?",
+      "a": "For more information on getting involved, you can visit the contact page.",
+      "link": "https://australian.museum/get-involved/contact/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:31Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "902db3432f98e82fb3ec0ee94a74a4ac67c75b0a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

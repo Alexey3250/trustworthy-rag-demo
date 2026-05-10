@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/toll-relief",
+  "source_url": "https://www.service.nsw.gov.au/services/toll-relief",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "toll-relief",
+  "title": "Toll relief",
+  "summary": "Find out about the toll relief program, including how to link your accounts and claim the weekly spending cap.",
+  "topics": [
+    "toll-relief",
+    "nsw-tolls",
+    "transport",
+    "savings"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Link your accounts"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Track your toll spend with Toll Tracker",
+      "link": "https://www.service.nsw.gov.au/transaction/toll-tracker"
+    },
+    {
+      "text": "Tolls",
+      "link": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Savings Finder",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Link your accounts",
+      "url": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "text": "Claim $60 weekly cap",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "text": "Track your toll spend with Toll Tracker",
+      "url": "https://www.service.nsw.gov.au/transaction/toll-tracker"
+    },
+    {
+      "text": "Tolls",
+      "url": "https://www.service.nsw.gov.au/services/tolls"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I start the toll relief program?",
+      "a": "You must link your accounts first. You can link your accounts using this link: https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts",
+      "link": "https://www.service.nsw.gov.au/transaction/link-your-toll-and-myservicensw-accounts"
+    },
+    {
+      "q": "How can I claim the weekly spending cap?",
+      "a": "You can claim the $60 weekly cap using this link: https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap",
+      "link": "https://www.service.nsw.gov.au/transaction/claim-the-toll-relief-cap"
+    },
+    {
+      "q": "How can I track my toll spending?",
+      "a": "You can track your toll spending using the Toll Tracker: https://www.service.nsw.gov.au/transaction/toll-tracker",
+      "link": "https://www.service.nsw.gov.au/transaction/toll-tracker"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:45Z",
+    "last_modified": "11 December 2025",
+    "html_sha1": "18e731a4177554e52c3ce1f729f47dd3bb50908a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

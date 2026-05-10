@@ -1,0 +1,77 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-an-incident-to-crime-stoppers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-an-incident-to-crime-stoppers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-an-incident-to-crime-stoppers",
+  "title": "Report an incident to Crime Stoppers",
+  "summary": "You can report information about incidents or investigations to Crime Stoppers by calling 1800 333 000 or submitting it online via the NSW Police Force website.",
+  "topics": [
+    "crime-stoppers",
+    "report-crime",
+    "police-assistance",
+    "incident-report"
+  ],
+  "intro": "If you have information that you think may assist the Police in relation to specific incidents or investigations, you can pass it on to Crime Stoppers by phoning 1800 333 000. Alternatively, you can submit the information online, via the NSW Police Force website.",
+  "who_can_apply": [
+    "people wanted by the Police",
+    "unsolved crimes and future crime that is being planned",
+    "people you know who committed criminal offences and have not been arrested",
+    "suspicious or unusual activity"
+  ],
+  "what_you_need": [
+    "your personal details",
+    "your contact details",
+    "reference number from a previous report (if applicable)",
+    "details of the person/s committing the crime including name, address, work location (if known)",
+    "a description of the person/s committing the crime including gender, build, height, age, hair colour, eye colour and distinguishing features (if any)",
+    "registration details, make, model, colour, year of manufacture, description of the car/s involved (if applicable)",
+    "a description of the crime including what is happening and the time and date it is occurring",
+    "attachments of images, videos or other information about the crime"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Report online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the online form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to report an incident.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Prior to submitting the form you can add, remove, or correct any of the information you've provided by selecting the section icons shown at the top of the form.",
+      "link": null
+    },
+    {
+      "text": "Once you've submitted the report, you'll receive a reference number. This reference number can be used if you need to submit further information about the crime.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Police Assistance Line (PAL) 131 444",
+      "url": "https://www.police.nsw.gov.au/contact_us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:30Z",
+    "last_modified": "20 November 2025",
+    "html_sha1": "f88757f42151781dc62c7f3802a425aca382fc89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

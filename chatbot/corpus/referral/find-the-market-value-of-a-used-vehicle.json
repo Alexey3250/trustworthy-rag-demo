@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-the-market-value-of-a-used-vehicle",
+  "title": "Find the market value of a used vehicle",
+  "summary": "Find the current market value of a used vehicle to correctly calculate stamp duty (motor vehicle duty) when transferring ownership.",
+  "topics": [
+    "used-vehicle",
+    "market-value",
+    "stamp-duty",
+    "motor-vehicle-duty"
+  ],
+  "intro": "When you buy, win, inherit or receive a new or used vehicle you may be required to pay stamp duty (motor vehicle duty) costs when you transfer the vehicle into your name.\n\nYou need to find and provide the current market value of the vehicle so that stamp duty can be correctly calculated. The market value is the amount a vehicle is worth in the open market. It includes GST, unless you're exempt from paying it.\n\nThe market value is used to determine:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The vehicle must be a new or used vehicle.",
+    "The market value of the vehicle is needed for stamp duty calculation.",
+    "If transferring ownership, the previous owner/seller must have submitted a Notice of Disposal (NOD)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "download and complete the application form to Register a brand new vehicle",
+      "link": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "n": 2,
+      "text": "visit a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 3,
+      "text": "you are transferring the ownership of a vehicle registered in NSW",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "the previous owner/seller has submitted a Notice of Disposal.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "you could face a penalty",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://account.service.nsw.gov.au/api/auth/login"
+    },
+    {
+      "text": "Estimate the cost of stamp duty on a motor vehicle purchase",
+      "url": "https://www.apps09.revenue.nsw.gov.au/erevenue/calculators/motorsimple.php"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "stamp duty on a motor vehicle purchase",
+      "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty"
+    },
+    {
+      "text": "transferring a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "submitting a Notice of Disposal (NOD)",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "visit a Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Buying a vehicle guide",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Selling a vehicle guide",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    },
+    {
+      "text": "Transferring a vehicle guide",
+      "url": "https://www.service.nsw.gov.au/guide/transferring-a-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the market value of a used vehicle?",
+      "a": "The market value is the amount a vehicle is worth in the open market, which includes GST unless you are exempt from paying it.",
+      "link": null
+    },
+    {
+      "q": "When do I need to find the market value?",
+      "a": "You may need to find and provide the current market value when you buy, win, inherit, or receive a new or used vehicle, as it is required to correctly calculate stamp duty.",
+      "link": null
+    },
+    {
+      "q": "How is stamp duty calculated?",
+      "a": "Stamp duty (motor vehicle duty) is calculated when transferring a vehicle registration or submitting a Notice of Disposal (NOD) for a used vehicle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:07Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "c54bae6d0c9f2dae4222e8ba9b99ee1331d31322",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

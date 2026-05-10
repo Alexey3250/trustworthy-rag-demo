@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/podiatry-council-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/podiatry-council-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "podiatry-council-of-nsw",
+  "title": "Podiatry Council of NSW",
+  "summary": "This page provides information about the Podiatry Council of NSW, which is the professional body for podiatrists in New South Wales.",
+  "topics": [
+    "podiatry",
+    "health-professionals",
+    "nsw-health",
+    "podiatrist"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.podiatrycouncil.nsw.gov.au/",
+      "url": "https://www.podiatrycouncil.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:43Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "45fd75e0527dfdb1d4308595a6a21e5772f4c97b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

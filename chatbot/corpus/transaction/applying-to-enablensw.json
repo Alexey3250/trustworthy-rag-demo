@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/applying-to-enablensw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "applying-to-enablensw",
+  "title": "Apply for EnableNSW assistance",
+  "summary": "This page provides information on how to apply for and check eligibility for EnableNSW assistance.",
+  "topics": [
+    "enable-nsw",
+    "disability-assistance",
+    "apply-for-help"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must apply and be approved to receive assistance from EnableNSW."
+  ],
+  "what_you_need": [
+    "Use the EnableNSW eligibility indicator to check eligibility.",
+    "Apply online or fill out a PDF form and mail it."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "You can apply online or fill out a PDF form and mail it. Check the EnableNSW application page for options.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to Applying to EnableNSW",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you'd like to talk to someone about your individual circumstances:",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "eligibility indicator",
+      "url": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    },
+    {
+      "text": "Go to Applying to EnableNSW",
+      "url": "https://enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW"
+    },
+    {
+      "text": "EnableNSW website",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    },
+    {
+      "text": "Forms and funding criteria by program – EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/prescribers/forms"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check if I am eligible for EnableNSW assistance?",
+      "a": "You can use the EnableNSW eligibility indicator to check your eligibility.",
+      "link": "https://www.enable.health.nsw.gov.au/for_individuals/eligibility-indicator"
+    },
+    {
+      "q": "How do I apply for EnableNSW assistance?",
+      "a": "You can apply online or fill out a PDF form and mail it. Check the EnableNSW application page for options.",
+      "link": "https://enable.health.nsw.gov.au/for_individuals/applying-to-EnableNSW"
+    },
+    {
+      "q": "Who can apply for EnableNSW assistance?",
+      "a": "You must apply and be approved to receive assistance from EnableNSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:39Z",
+    "last_modified": "9 April 2026",
+    "html_sha1": "a2acf7b782b62f4e9020cb298c53ad5aaf6e593b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

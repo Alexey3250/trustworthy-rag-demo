@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-asset-manager-tam",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-asset-manager-tam",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "transport-asset-manager-tam",
+  "title": "Transport Asset Manager (TAM)",
+  "summary": "This page provides information about the Transport Asset Manager (TAM) role within NSW.",
+  "topics": [
+    "transport",
+    "asset-management",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.tam.nsw.gov.au",
+      "url": "https://www.tam.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Transport for NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-for-nsw"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "42a635b5a0c26709dad1a7d04c90253f1d7e6f43",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

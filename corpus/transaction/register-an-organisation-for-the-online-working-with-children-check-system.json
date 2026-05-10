@@ -1,0 +1,97 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/register-an-organisation-for-the-online-working-with-children-check-system",
+  "source_url": "https://www.service.nsw.gov.au/transaction/register-an-organisation-for-the-online-working-with-children-check-system",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "register-an-organisation-for-the-online-working-with-children-check-system",
+  "title": "Register an organisation for the online Working with Children Check system",
+  "summary": "Organisations involved with children must register online with the Office of the Children's Guardian to verify that their workers have valid Working with Children Checks.",
+  "topics": [
+    "working-with-children-check",
+    "organisation-registration",
+    "employer-responsibilities",
+    "office-of-the-childrens-guardian"
+  ],
+  "intro": "If your organisation is involved with children, whether it's in a paid or voluntary capacity, you must register it online with the Office of the Children's Guardian. Registering also allows you to verify that your workers have valid Working with Children Checks (WWCCs).\n\n### Lost employer registration number\n\nIf you are registered under the current system and cannot find your employer registration number, complete the online form with your email address, organisation name and ABN.",
+  "who_can_apply": [
+    "Organisations involved with children (paid or voluntary capacity)"
+  ],
+  "what_you_need": [
+    "Name and contact details of the business/organisation",
+    "ABN number",
+    "Name and contact details of one or two senior people within the organisation who will be notified if a worker becomes barred"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Register online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to register the organisation.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Sole traders with no employees do not need to register. Sole traders must give their WWCC details to the client for them to verify.",
+      "link": null
+    },
+    {
+      "text": "Once you submit your form, you can log in with your username and password and verify the WWCC status of your employees and/or volunteers, or update your details.",
+      "link": "https://wwccemployer.ocg.nsw.gov.au/"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "complete the online form",
+      "url": "https://ocg.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "log in",
+      "url": "https://wwccemployer.ocg.nsw.gov.au/"
+    },
+    {
+      "text": "Help to register and verify Working with Children Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check/wwcc-information-organisations/help-register-and-verify"
+    },
+    {
+      "text": "Role of an employer with the Working with Children Check – Office of the Children's Guardian",
+      "url": "https://ocg.nsw.gov.au/working-children-check/wwcc-information-organisations/role-employer-working-children-check"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-working-with-children-check"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must I do if my organisation is involved with children?",
+      "a": "If your organisation is involved with children, whether in a paid or voluntary capacity, you must register it online with the Office of the Children's Guardian.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I cannot find my employer registration number?",
+      "a": "If you are registered under the current system and cannot find your employer registration number, complete the online form with your email address, organisation name and ABN.",
+      "link": "https://ocg.nsw.gov.au/contact-us"
+    },
+    {
+      "q": "How do I register my organisation?",
+      "a": "Select the 'Register online' button and follow the prompts to register the organisation.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:20Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "70a7f43629c973ae087c303ead7365505e6fb0f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

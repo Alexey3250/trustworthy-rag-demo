@@ -1,0 +1,90 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-an-abandoned-or-dumped-vehicle",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-an-abandoned-or-dumped-vehicle",
+  "title": "Report an abandoned or dumped vehicle",
+  "summary": "Find out who to contact and what steps to take if you believe a vehicle has been abandoned or dumped in your neighbourhood.",
+  "topics": [
+    "abandoned-vehicle",
+    "dumped-vehicle",
+    "local-council",
+    "vehicle-registration"
+  ],
+  "intro": "If you believe that a vehicle has been abandoned or dumped in your neighbourhood, you can report it to your local council.\n\nYou will need to know the vehicle's:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The vehicle's details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check if the vehicle is registered. Note: Registered vehicles can stay parked in one spot for 28 days provided they are in good order and parked in line with NSW road rules.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "n": 2,
+      "text": "If the vehicle is:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "registered and you think it may be stolen, notify the NSW Police on 131 444.",
+      "link": "tel:131444"
+    },
+    {
+      "n": 4,
+      "text": "unregistered, or registered but cannot be legally driven due to damage, and it has been in the same place for 15 days or more, contact your local council.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "parked in line with NSW road rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/parking/parking-rules"
+    },
+    {
+      "text": "local council",
+      "url": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    },
+    {
+      "text": "rules for unattended vehicles.",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/mysppau/uploads/redactor_assets/documents/b45a682782088c63362583807d9bfcbfc864e34076244b9e7e60b52e1880bb78/13507/Factsheet_Vehicles.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "vehicle is registered",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long can a registered vehicle stay parked in one spot?",
+      "a": "Registered vehicles can stay parked in one spot for 28 days, provided they are in good order and parked in line with NSW road rules.",
+      "link": "https://www.service.nsw.gov.au/transaction/check-a-vehicle-registration"
+    },
+    {
+      "q": "What should I do if I find a registered vehicle that I think might be stolen?",
+      "a": "Notify the NSW Police on 131 444.",
+      "link": null
+    },
+    {
+      "q": "When should I contact my local council about an abandoned vehicle?",
+      "a": "Contact your local council if the vehicle is unregistered, or if it is registered but cannot be legally driven due to damage, and it has been in the same place for 15 days or more.",
+      "link": "https://www.olg.nsw.gov.au/public/find-my-council/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:20Z",
+    "last_modified": "27 August 2025",
+    "html_sha1": "e477eabf2873b18bde2cd885305992966b176b89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

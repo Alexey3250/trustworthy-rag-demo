@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/keep-a-record-of-pesticide-use",
+  "source_url": "https://www.service.nsw.gov.au/transaction/keep-a-record-of-pesticide-use",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "keep-a-record-of-pesticide-use",
+  "title": "Keep a record of pesticide use",
+  "summary": "This page explains the requirement to keep records of pesticide use if you use them in your business, occupation, or on your produce or farm.",
+  "topics": [
+    "pesticide-use",
+    "record-keeping",
+    "farming",
+    "business-operations"
+  ],
+  "intro": "If you use pesticides in your business or occupation, or on your produce or farm, you must make a record of their use. It must be made within 48 hours of using the pesticide, and kept for 3 years.\n\nPesticides include herbicides, fungicides, insecticides, fumigants, bactericides, rodenticides, baits, lures and repellents. The products used on animals to control external parasites are considered pesticides if they require dilution or mixing with water.\n\nAnother person can make the record for you, but it's your responsibility to ensure it's accurate.\n\nYou must record :\n\nAuthorised officers of the Environment Protection Authority (EPA) may check your records at any time, and penalties can apply if they haven't been kept in accordance with the Pesticides Regulation 2009.\n\nVisit the EPA website to learn more about keeping records of pesticide use.",
+  "who_can_apply": [
+    "Individuals or businesses that use pesticides in their business, occupation, or on their produce or farm."
+  ],
+  "what_you_need": [
+    "A system or person to accurately record pesticide use within 48 hours of use.",
+    "Knowledge of the Pesticides Regulation 2009."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Beaufort Scale",
+      "url": "http://www.bom.gov.au/marine/knowledge-centre/reference/wind.shtml#:~:text=Beaufort%20Wind%20Scale"
+    },
+    {
+      "text": "Pest management technicians' fact sheet – PDF",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/pesticide-factsheets-pest-mgt-technicians.pdf"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What must I record about pesticide use?",
+      "a": "You must record the use of pesticides if you use them in your business, occupation, or on your produce or farm.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to keep pesticide use records?",
+      "a": "Records must be made within 48 hours of using the pesticide and kept for 3 years.",
+      "link": null
+    },
+    {
+      "q": "What types of products are considered pesticides?",
+      "a": "Pesticides include herbicides, fungicides, insecticides, fumigants, bactericides, rodenticides, baits, lures, and repellents. Products used on animals to control external parasites are also considered pesticides if they require dilution or mixing with water.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:40Z",
+    "last_modified": "10 November 2025",
+    "html_sha1": "8dc666f175d4daba2c26e9999b7ab17ffe36daf1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

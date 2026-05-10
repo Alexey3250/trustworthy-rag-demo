@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-camping-or-accommodation-in-a-nsw-national-park",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-camping-or-accommodation-in-a-nsw-national-park",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-camping-or-accommodation-in-a-nsw-national-park",
+  "title": "Find camping or accommodation in a NSW National Park",
+  "summary": "Find information and book accommodation, including camping sites, cabins, and cottages, in NSW National Parks.",
+  "topics": [
+    "nsw-national-parks",
+    "camping",
+    "accommodation",
+    "travel-planning"
+  ],
+  "intro": "If you're wanting to spend some recreation time in the NSW national parks, you can search online for accommodation ranging from camping sites to cabins and cottages.\n\nYou may be required to pay an entry fee to some of the parks listed, and before visiting always ensure you have checked:\n\nFind a place to stay in a NSW national park.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Check for entry fees before visiting the park."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Alerts section",
+      "url": "https://www.nationalparks.nsw.gov.au/alerts/alerts-list"
+    },
+    {
+      "text": "Find a place to stay",
+      "url": "https://www.nationalparks.nsw.gov.au/camping-and-accommodation"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Buy a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/transaction/buy-a-national-parks-annual-pass"
+    },
+    {
+      "text": "Renew a National Parks annual pass",
+      "url": "https://www.service.nsw.gov.au/referral/renew-a-national-parks-annual-pass"
+    },
+    {
+      "text": "Find nature walks and cycling trails in NSW National Parks",
+      "url": "https://www.service.nsw.gov.au/referral/find-nature-walks-and-cycling-trails-in-nsw-national-parks"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:25Z",
+    "last_modified": "9 January 2025",
+    "html_sha1": "eb2082d51e3be89703d828dce0757dc6a4671f6c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

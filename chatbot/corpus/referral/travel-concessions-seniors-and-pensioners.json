@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-seniors-and-pensioners",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-seniors-and-pensioners",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-seniors-and-pensioners",
+  "title": "Public transport concessions for seniors and pensioners",
+  "summary": "This page provides information about public transport concessions available for seniors and pensioners in New South Wales.",
+  "topics": [
+    "seniors",
+    "pensioners",
+    "public-transport",
+    "concessions"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Seniors",
+    "Pensioners"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "check eligibility and apply for a Gold Opal Card",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/seniors"
+    },
+    {
+      "text": "Regional Excursion Daily (RED) tickets",
+      "url": "https://transportnsw.info/tickets-opal/regional-tickets-fares/regional-excursion-daily-red"
+    },
+    {
+      "text": "Country Pensioner Excursion (CPE) tickets",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/country-pensioner-excursion-tickets"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pensioner Travel Vouchers",
+      "url": "https://www.service.nsw.gov.au/referral/use-your-concession-card-to-access-pensioner-travel-vouchers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I check my eligibility for concessions?",
+      "a": "You can check your eligibility and apply for a Gold Opal Card using the provided link.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/seniors"
+    },
+    {
+      "q": "What are the regional travel options for pensioners?",
+      "a": "Pensioners can use Country Pensioner Excursion (CPE) tickets or Regional Excursion Daily (RED) tickets for regional travel.",
+      "link": null
+    },
+    {
+      "q": "How do I use my concession card?",
+      "a": "You can access Pensioner Travel Vouchers using your concession card.",
+      "link": "https://www.service.nsw.gov.au/referral/use-your-concession-card-to-access-pensioner-travel-vouchers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:51Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "812c7ec271f0fa62570761dd8e73e3b7222346e5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

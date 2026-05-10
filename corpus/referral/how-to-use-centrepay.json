@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/how-to-use-centrepay",
+  "source_url": "https://www.service.nsw.gov.au/referral/how-to-use-centrepay",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "how-to-use-centrepay",
+  "title": "How to use Centrepay",
+  "summary": "This page provides information about Centrepay, including how it works and where you can use it.",
+  "topics": [
+    "centrepay",
+    "payments",
+    "centrelink",
+    "servicesaustralia"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "registered businesses",
+      "url": "https://www.centrelink.gov.au/custsite_orgfinder/orgfinder/entryPage.jsf?wec-appid=Orgfinder&wec-locale=en_US#stay"
+    },
+    {
+      "text": "Centrepay reform",
+      "url": "https://www.servicesaustralia.gov.au/centrepay-reform?context=23256"
+    },
+    {
+      "text": "What Centrepay is",
+      "url": "https://www.servicesaustralia.gov.au/what-centrepay?context=22366"
+    },
+    {
+      "text": "How to use Centrepay",
+      "url": "https://www.servicesaustralia.gov.au/how-to-use-centrepay?context=22366"
+    },
+    {
+      "text": "Managing your money",
+      "url": "https://www.servicesaustralia.gov.au/managing-your-money"
+    },
+    {
+      "text": "How Centrepay works",
+      "url": "https://www.servicesaustralia.gov.au/how-centrepay-works-centrepay-for-businesses?context=23256"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Get or manage your Centrelink payment",
+      "url": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Centrepay?",
+      "a": "Centrepay is a payment system that allows you to receive payments directly into your bank account.",
+      "link": "https://www.servicesaustralia.gov.au/what-centrepay?context=22366"
+    },
+    {
+      "q": "How do I use Centrepay?",
+      "a": "You can find detailed instructions on how to use Centrepay at the dedicated guide.",
+      "link": "https://www.servicesaustralia.gov.au/how-to-use-centrepay?context=22366"
+    },
+    {
+      "q": "Where can I use Centrepay?",
+      "a": "The page provides a list of locations and services where Centrepay can be used.",
+      "link": "https://www.servicesaustralia.gov.au/how-to-use-centrepay?context=22366"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:16Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "610c0b164e3cfb17dc845ff03d20f992da4053ff",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

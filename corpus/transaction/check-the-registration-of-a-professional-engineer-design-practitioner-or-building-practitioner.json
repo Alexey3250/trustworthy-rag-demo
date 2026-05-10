@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-the-registration-of-a-professional-engineer-design-practitioner-or-building-practitioner",
+  "title": "Check the registration of a professional engineer, design practitioner or building practitioner",
+  "summary": "You can check the registration details of a professional engineer, design practitioner, or building practitioner online, or search for your own registration information.",
+  "topics": [
+    "professional-engineer",
+    "building-practitioner",
+    "design-practitioner",
+    "registration-check"
+  ],
+  "intro": "If you'd like to check the registration of a professional engineer, building practitioner or design practitioner, or search for your own registration details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "location (suburb, postcode or local government area)",
+    "Any one of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Building practitioner registration – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/building-practitioners"
+    },
+    {
+      "text": "Apply for registration as a design or building practitioner – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register"
+    },
+    {
+      "text": "Professional engineer work: Qualifications and experience – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/business-and-economy/licences-and-credentials/building-and-trade-licences-and-registrations/register/professional-engineers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:23Z",
+    "last_modified": "17 May 2024",
+    "html_sha1": "5be9fe1dc1b985b5c97767f85264ebd1e13f16ce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

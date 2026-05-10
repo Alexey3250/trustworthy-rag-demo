@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/advise-maritime-that-a-customer-has-died",
+  "source_url": "https://www.service.nsw.gov.au/transaction/advise-maritime-that-a-customer-has-died",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "advise-maritime-that-a-customer-has-died",
+  "title": "Advise Maritime that a customer has died",
+  "summary": "You can request that Maritime update a customer's records to show that they have died by visiting a service centre or posting a request to the Service NSW Agency Business Centre.",
+  "topics": [
+    "maritime",
+    "death",
+    "customer-records"
+  ],
+  "intro": "You can request that Maritime update a customer's records to show that they have died by visiting a service centre or posting a request to the Service NSW Agency Business Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your own proof of identity",
+    "One of the following pieces of documentation confirming the deceased's status"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Make sure that you have your proof of identity, and one of the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "You can:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Advice of Death – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071665-advice-of-death.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Maritime licences (includes boats and PWCs) – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences"
+    },
+    {
+      "text": "Boat and vessel registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Death and bereavement guide",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Transfer a vessel registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-vessel-registration-due-death-registered-operator"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:03Z",
+    "last_modified": "17 February 2026",
+    "html_sha1": "8d2e45e63961b3deb0b7318e92baa5b09d750b7f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/our-services/merchant-fees",
+  "source_url": "https://www.service.nsw.gov.au/about-us/our-services/merchant-fees",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "merchant-fees",
+  "title": "Changes to merchant fees",
+  "summary": "This page informs citizens that merchant fees for transactions with the NSW Government are being removed, making services cheaper.",
+  "topics": [
+    "merchant-fees",
+    "nsw-government-services",
+    "transactions",
+    "service-nsw"
+  ],
+  "intro": "The NSW Department of Customer Service and its agencies, including Service NSW, are removing merchant fees for transactions.\n\nAs the merchant fees are removed, the customer cost of transactions with the NSW Government will be cheaper.\n\nThe Department of Customer Service acknowledges these charges, while typically very small, may have impacted some customers and should not have been passed on.\n\nTo receive updates you can register online.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "unsubscribe",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/merchant-fees/unsubscribe"
+    },
+    {
+      "text": "all locations",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is happening with merchant fees?",
+      "a": "The NSW Department of Customer Service and its agencies, including Service NSW, are removing merchant fees for transactions.",
+      "link": null
+    },
+    {
+      "q": "How will this affect me?",
+      "a": "The customer cost of transactions with the NSW Government will be cheaper.",
+      "link": null
+    },
+    {
+      "q": "How can I receive updates about this change?",
+      "a": "You can register online to receive updates.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:59Z",
+    "last_modified": "11 November 2025",
+    "html_sha1": "9108d1bfa3a07b1ac01a566fa5d5bdd6bdd9ad95",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

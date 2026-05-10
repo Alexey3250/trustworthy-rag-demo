@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-governor-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-governor-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-the-governor-of-nsw",
+  "title": "Office of the Governor of NSW",
+  "summary": "This page provides information about the Office of the Governor of NSW.",
+  "topics": [
+    "governor-of-nsw",
+    "office-of-the-governor",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.governor.nsw.gov.au/",
+      "url": "https://www.governor.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:39Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4f546ee6fb0f12bf7aaf5f659deca25112b1f7c1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

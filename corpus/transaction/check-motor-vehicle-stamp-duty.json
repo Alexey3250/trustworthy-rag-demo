@@ -1,0 +1,98 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-motor-vehicle-stamp-duty",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-motor-vehicle-stamp-duty",
+  "title": "Check motor vehicle stamp duty",
+  "summary": "Find out about stamp duty costs when transferring a new or used vehicle into your name.",
+  "topics": [
+    "motor-vehicle",
+    "stamp-duty",
+    "vehicle-transfer",
+    "nsw-government"
+  ],
+  "intro": "When you buy a new or used vehicle you may be required to pay stamp duty costs when you transfer the vehicle into your name. Stamp duty is calculated on the market value of the vehicle or the purchase price, whichever is higher.\n\nIf you'd like to calculate the stamp duty for a vehicle, you can do this online using Revenue NSW's stamp duty calculator.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The market value or purchase price of the vehicle (whichever is higher)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the required fields.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Calculate'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Stamp duty is calculated at $3 per $100, or part thereof, of the vehicle's value.",
+      "link": null
+    },
+    {
+      "text": "For passenger vehicles valued over $45,000 with seating for up to 9 occupants, the rate of stamp duty is $1,350 plus $5 per $100, or part thereof, of the vehicle's value over $45,000. These vehicles may include:",
+      "link": null
+    },
+    {
+      "text": "Concessions or exemptions may apply.",
+      "link": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty/exemptions"
+    },
+    {
+      "text": "Refer to Transfer a vehicle registration for more information about vehicle taxes, registration costs and inspection fees.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Concessions or exemptions",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty/exemptions"
+    },
+    {
+      "text": "Motor vehicle duty – Revenue NSW",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/motor-vehicle-duty"
+    },
+    {
+      "text": "Vehicle registration fees, concessions and forms – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms"
+    },
+    {
+      "text": "Electric vehicle reform – NSW Government",
+      "url": "https://www.nsw.gov.au/electric-vehicle-reform"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "market value",
+      "url": "https://www.service.nsw.gov.au/referral/find-the-market-value-of-a-used-vehicle"
+    },
+    {
+      "text": "Transfer a vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration"
+    },
+    {
+      "text": "Transfer a vehicle registration due to the death of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-due-to-the-death-of-the-registered-operator"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:13Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "12d5c4d0d939fd5ec6357026d54fcffea174d2e0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

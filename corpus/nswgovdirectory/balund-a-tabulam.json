@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/balund-a-tabulam",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/balund-a-tabulam",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "balund-a-tabulam",
+  "title": "Balund-a (Tabulam)",
+  "summary": "This page provides information about Balund-a (Tabulam), a residential and transitional centre.",
+  "topics": [
+    "corrections",
+    "residential-centre",
+    "tabulam",
+    "community-corrections"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/community-corrections/residential-and-transitional-centres/balund-a-tabulam.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/community-corrections/residential-and-transitional-centres/balund-a-tabulam.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Community Corrections Offices (Probation and Parole)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/community-corrections-offices-probation-and-parole"
+    },
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "20ad6d4dc4c20c8ceff1be3712944190d97fd805",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

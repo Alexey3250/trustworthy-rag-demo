@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-help-with-vehicle-defects",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-help-with-vehicle-defects",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-help-with-vehicle-defects",
+  "title": "Get help with a vehicle Defect Notice",
+  "summary": "Find out what to do if your vehicle is issued a Defect Notice to ensure it is safe and legally registered in NSW.",
+  "topics": [
+    "vehicle-defect-notice",
+    "roadworthiness",
+    "vehicle-registration",
+    "nsw-driving"
+  ],
+  "intro": "Your vehicle must be suitable for safe use (roadworthy) and meet the standards required by law to be registered in NSW.\n\nIf your vehicle is not safe to drive, you could be issued a Defect Notice.\n\nIf you get a Defect Notice, you must repair your vehicle by the due date on the notice.\n\nYou can visit a Service NSW Centre or call 13 77 88 to:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "vehicle registration details",
+    "Defect Notice",
+    "inspection report",
+    "payment"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Defect Notices",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/vehicle-safety-and-compliance/roadworthiness#toc-defect-notices"
+    },
+    {
+      "text": "Roadworthiness",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/vehicle-safety-and-compliance/roadworthiness"
+    },
+    {
+      "text": "Safety checks and vehicle inspections",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply to re-register a written-off light vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-re-register-written-vehicle"
+    },
+    {
+      "text": "Change the details of your vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-vehicle"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:06Z",
+    "last_modified": "2 May 2025",
+    "html_sha1": "8e2f5f2236d239bb3125e55e3b88ac1e91242837",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

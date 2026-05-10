@@ -1,0 +1,116 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-details-birth-death-or-marriage-record",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-details-birth-death-or-marriage-record",
+  "title": "Change the details on a birth, death or marriage record",
+  "summary": "Learn how to apply to correct details on a birth, death, or marriage record.",
+  "topics": [
+    "birth-death-marriage-records",
+    "correct-details",
+    "registry-records"
+  ],
+  "intro": "The Births, Deaths and Marriage Registry records are historic documents showing information that was correct at the time of the event.\n\nIf you want to amend information kept by the Registry, you'll need to lodge an Application to Correct an Entry form. You can do this by mail, or by visiting a service centre and submitting the information in person.\n\nNote: If you wish to remove a parent's details from a birth certificate you'll need to complete the PDF Form 42: Removing a parent’s details from a birth registration.",
+  "who_can_apply": [
+    "Birth Register:",
+    "Marriage Register:",
+    "Relationships Register:",
+    "Change of Name Register:",
+    "Death Register:",
+    "Recognised Details Certificate:"
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "Three personal identity documents as specified on the form",
+    "The PDF 'Form 18: Application to Correct an Entry', signed by you and a qualified witness",
+    "The details in the Registry entry that need to be changed"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete Form 18: Application to Correct an Entry – PDF.",
+      "link": "https://www.nsw.gov.au/sites/default/files/2024-02/apply-for-correct-an-entry.pdf"
+    },
+    {
+      "n": 3,
+      "text": "Make sure you have the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your application in person, or mail the information to the details on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "There are legislative and historical restrictions on which records can be changed, and in certain circumstances supporting evidence may be required.",
+      "link": null
+    },
+    {
+      "text": "To correct records you may need to supply identification to verify that you're entitled to correct the records.",
+      "link": null
+    },
+    {
+      "text": "This application cannot be used to change a child’s name, or to include the father’s details on a birth registration.",
+      "link": null
+    },
+    {
+      "text": "Documents provided as proof of identity may have their authenticity verified through the National Document Verification Service (DVS).",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 42: Removing a parent’s details from a birth registration",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2024-08/Remove_a_Parent_form.pdf"
+    },
+    {
+      "text": "Form 18: Application to Correct an Entry – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2024-02/apply-for-correct-an-entry.pdf"
+    },
+    {
+      "text": "Correct an entry to a birth, marriage or change of name certificate – Births Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/name-changes-and-corrections/correct-an-entry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the Births, Deaths and Marriage Registry records?",
+      "a": "These records are historic documents that show information that was correct at the time of the event.",
+      "link": null
+    },
+    {
+      "q": "How do I amend information kept by the Registry?",
+      "a": "You must lodge an Application to Correct an Entry form. You can submit this by mail or by visiting a service centre.",
+      "link": null
+    },
+    {
+      "q": "Do I need a special form to remove a parent's details from a birth certificate?",
+      "a": "Yes, you need to complete the PDF Form 42: Removing a parent’s details from a birth registration.",
+      "link": "https://www.nsw.gov.au/sites/default/files/noindex/2024-08/Remove_a_Parent_form.pdf"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:02Z",
+    "last_modified": "10 April 2026",
+    "html_sha1": "67853491ccb9385cd37aa673372fc96669227e05",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

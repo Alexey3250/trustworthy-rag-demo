@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-dva-veteran-gold-card-holders",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-dva-veteran-gold-card-holders",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-dva-veteran-gold-card-holders",
+  "title": "Public transport concessions for DVA Veteran Gold Card holders",
+  "summary": "This page provides information about public transport concessions available for DVA Veteran Gold Card holders.",
+  "topics": [
+    "dva-veteran-gold-card",
+    "public-transport",
+    "concessions",
+    "regional-travel"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "DVA Veteran Gold Card holders"
+  ],
+  "what_you_need": [
+    "DVA Veteran Gold Card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/dva-veteran-gold-cards"
+    },
+    {
+      "text": "Regional Excursion Daily (RED) tickets",
+      "url": "https://transportnsw.info/tickets-opal/regional-tickets-fares/regional-excursion-daily-red"
+    },
+    {
+      "text": "Country Pensioner Excursion (CPE) tickets",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/country-pensioner-excursion-tickets"
+    },
+    {
+      "text": "Local Transport Operators",
+      "url": "https://transportnsw.info/operators"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pensioner Travel Vouchers",
+      "url": "https://www.service.nsw.gov.au/referral/use-your-concession-card-to-access-pensioner-travel-vouchers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What concessions are available for DVA Veteran Gold Card holders?",
+      "a": "Concessions are available for Opal Card use and for regional travel, including Regional Excursion Daily (RED) tickets, Country Pensioner Excursion (CPE) tickets, and Pensioner Travel Vouchers.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about my DVA Veteran Gold Card concessions?",
+      "a": "You can find more details on the Transport for NSW website.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/dva-veteran-gold-cards"
+    },
+    {
+      "q": "What are the regional travel options?",
+      "a": "Regional travel options include Regional Excursion Daily (RED) tickets, Country Pensioner Excursion (CPE) tickets, and Pensioner Travel Vouchers.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:53Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "885f3e790e9c34b63262d6b741029237b2a0d0e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

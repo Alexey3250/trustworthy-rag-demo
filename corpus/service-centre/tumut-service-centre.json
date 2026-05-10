@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/tumut-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/tumut-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "tumut-service-centre",
+  "title": "Tumut Service Centre",
+  "summary": "This page provides information about the Tumut Service Centre, including payment options, accessibility features, and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payments",
+    "directions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Cash",
+    "EFTPOS, credit or debit card"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-35.301829,148.224582"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Tumbarumba Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/tumbarumba-agency"
+    },
+    {
+      "text": "Junee Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/junee-agency"
+    },
+    {
+      "text": "Cootamundra Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/cootamundra-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:17Z",
+    "last_modified": null,
+    "html_sha1": "c9969ab3929cbd3a76e1408dc7e35828406093a9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

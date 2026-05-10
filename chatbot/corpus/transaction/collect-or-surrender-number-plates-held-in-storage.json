@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage",
+  "source_url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "collect-or-surrender-number-plates-held-in-storage",
+  "title": "Collect or surrender number plates held in storage",
+  "summary": "Learn how to collect or surrender number plates that are currently being held in storage at a Service NSW Centre.",
+  "topics": [
+    "number-plates",
+    "service-nsw",
+    "storage",
+    "vehicle-registration"
+  ],
+  "intro": "If your number plates are in storage and you wish to collect or surrender them, you must submit the required documents at the Service NSW Centre where your number plates are stored.\n\nIf you need to move your number plates to another service centre, refer to Change the storage location of your number plates.",
+  "who_can_apply": [
+    "The number plate holder or an authorised representative",
+    "Must be affixing the number plates to a registered vehicle, or surrendering them"
+  ],
+  "what_you_need": [
+    "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+    "Proof of identity",
+    "Current Certificate of Registration (if available)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Download PDF’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit the service centre where your number plates are stored and submit your form and documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You may be entitled to a refund for annual storage fees you have paid in advance. Refunds are issued on the number of whole years remaining in the storage period and are not pro-rated.",
+      "link": null
+    },
+    {
+      "text": "Please ensure you have the necessary tools and screws with you if you'll be picking up plates for the vehicle you're driving. Operating a vehicle without number plates is illegal.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 1038: Number Plates and/or Cancellation of Registration – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the storage location of your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates"
+    },
+    {
+      "text": "Renew the storage/hold period of number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-storage-hold-period-of-number-plates"
+    },
+    {
+      "text": "Place your number plates on hold/in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/place-your-number-plates-on-hold-in-storage"
+    },
+    {
+      "text": "Reserve a number plate combination",
+      "url": "https://www.service.nsw.gov.au/transaction/reserve-a-number-plate-combination"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:34Z",
+    "last_modified": "5 May 2025",
+    "html_sha1": "d7f835a756c853f1c58a78c67f7c5896653153df",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/training-education-and-coaching",
+  "source_url": "https://www.service.nsw.gov.au/business/support-for-women-in-business/training-education-and-coaching",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "training-education-and-coaching",
+  "title": "Training, education and coaching",
+  "summary": "Service NSW offers ongoing, personalized support for women business owners, including training, coaching, and networking opportunities.",
+  "topics": [
+    "women-business",
+    "entrepreneurship",
+    "small-business-support",
+    "training",
+    "coaching"
+  ],
+  "intro": "The Service NSW Business Bureau provides ongoing, personalised support for women business owners, over the phone or in person in their local area. Call us on 13 77 88 or book a call.\n\nBook a call",
+  "who_can_apply": [
+    "women business owners"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Women in Business",
+      "url": "https://www.tafensw.edu.au/programs/women-in-business"
+    },
+    {
+      "text": "SBE Australia",
+      "url": "https://www.sbeaustralia.org/"
+    },
+    {
+      "text": "Women & Leadership Australia",
+      "url": "https://www.wla.edu.au/"
+    },
+    {
+      "text": "Events and training finder",
+      "url": "https://business.gov.au/events-and-training?resultsNum=10"
+    },
+    {
+      "text": "Self-Employment Assistance",
+      "url": "https://www.dewr.gov.au/self-employment-assistance"
+    },
+    {
+      "text": "Australian Apprenticeships",
+      "url": "https://www.apprenticeships.gov.au/support-and-resources/support-priority-cohorts"
+    },
+    {
+      "text": "book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call"
+    },
+    {
+      "text": "Book a call",
+      "url": "https://mybusiness.service.nsw.gov.au/book-a-call?subject=wib"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I get personalized support for my business?",
+      "a": "The Service NSW Business Bureau offers ongoing, personalized support for women business owners, which can be accessed over the phone or in person.",
+      "link": null
+    },
+    {
+      "q": "What kind of skills can I develop for my business?",
+      "a": "You can develop skills, knowledge, mindset, and connections in areas like marketing, technology, team building, and leadership.",
+      "link": null
+    },
+    {
+      "q": "Where can I find training and business advice?",
+      "a": "You can access resources through TAFE NSW Women in Business, SBE Australia, Women & Leadership Australia, and the Events and training finder.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:56Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "d4876cfc5140f9bdea00919717dfebac9ef871f7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

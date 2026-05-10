@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/royal-botanic-gardens-and-domain-trust-the",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "royal-botanic-gardens-and-domain-trust-the",
+  "title": "Royal Botanic Gardens and Domain Trust, The",
+  "summary": "This page provides information about the Royal Botanic Gardens and Domain Trust, including its role and related resources.",
+  "topics": [
+    "botanical-gardens",
+    "domain-trust",
+    "nsw-history",
+    "conservation"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.botanicgardens.org.au/",
+      "url": "https://www.botanicgardens.org.au/"
+    },
+    {
+      "text": "Royal Botanic Gardens and Domain Trust Act 1980",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1980-019"
+    },
+    {
+      "text": "joining the Foundation",
+      "url": "https://www.botanicgardens.org.au/get-involved/foundation-friends-botanic-gardens"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Herbarium of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/national-herbarium-of-nsw"
+    },
+    {
+      "text": "The Australian Botanic Garden, Mount Annan",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-australian-botanic-garden-mount-annan"
+    },
+    {
+      "text": "The Blue Mountains Botanic Garden, Mount Tomah",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/the-blue-mountains-botanic-garden-mount-tomah"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:00Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "be4c7f29ca841a69362a0100099d9e3109982ff2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

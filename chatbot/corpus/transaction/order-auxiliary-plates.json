@@ -1,0 +1,144 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/order-auxiliary-plates",
+  "source_url": "https://www.service.nsw.gov.au/transaction/order-auxiliary-plates",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "order-auxiliary-plates",
+  "title": "Order auxiliary (bike rack) plates",
+  "summary": "Learn how to order an auxiliary number plate online if your rear plate is hidden by a mobility device, bike rack, or towed vehicle.",
+  "topics": [
+    "number-plates",
+    "auxiliary-plates",
+    "vehicle-registration",
+    "towing"
+  ],
+  "intro": "You must display an auxiliary number plate when your rear plate is hidden by a mobility device or bike rack or by a caravan, trailer or vehicle you are towing.\n\nAn auxiliary number plate:\n\nIf you do not display an auxiliary plate clearly and do not use a working rear number plate light you can be fined.\n\nYou can order an auxiliary number plate online through myPlates and either:\n\nNote: Auxiliary number plates are not issued to trailers, caravans, motorbikes or public vehicles.",
+  "who_can_apply": [
+    "The vehicle's rear plate is hidden by a mobility device, bike rack, or by a caravan, trailer, or vehicle being towed."
+  ],
+  "what_you_need": [
+    "Your contact details",
+    "Your driver licence number or customer number (if a business)",
+    "Your NSW plate number",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Order online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to order auxiliary plates.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the form Number Plates and/or Cancellation of Registration – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Lodge the form by mail, or in person at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Displaying number plates",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/vehicle-number-plates/displaying-number-plates"
+    },
+    {
+      "text": "myPlates FAQs",
+      "link": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "myPlates terms and conditions.",
+      "link": "https://www.myplates.com.au/terms-conditions"
+    },
+    {
+      "text": "include the auxiliary plate in the sale or",
+      "link": null
+    },
+    {
+      "text": "return the auxiliary plate to a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Find out more about:",
+      "link": null
+    },
+    {
+      "text": "### Selling your vehicle",
+      "link": null
+    },
+    {
+      "text": "When you sell or dispose of your vehicle you can either:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "you can be fined",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Number Plates and/or Cancellation of Registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070387-num-plates-and-or-cancellation-of-reg.pdf"
+    },
+    {
+      "text": "Displaying number plates",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/vehicle-number-plates/displaying-number-plates"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "myPlates terms and conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs an auxiliary number plate?",
+      "a": "You must display an auxiliary number plate if your rear plate is hidden by a mobility device, bike rack, or by a caravan, trailer, or vehicle you are towing.",
+      "link": null
+    },
+    {
+      "q": "Can I get an auxiliary plate for a trailer or motorbike?",
+      "a": "No, auxiliary number plates are not issued to trailers, caravans, motorbikes, or public vehicles.",
+      "link": null
+    },
+    {
+      "q": "What happens if I don't display an auxiliary plate?",
+      "a": "If you do not display an auxiliary plate clearly and do not use a working rear number plate light, you can be fined.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/search-offences-and-penalties"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:59Z",
+    "last_modified": "13 May 2025",
+    "html_sha1": "10ddb4a9cbb22cf4d8049e118f21bbd54c9db545",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/district-court-civil-registry",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/district-court-civil-registry",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "district-court-civil-registry",
+  "title": "District Court Civil Registry",
+  "summary": "This page provides information about the District Court Civil Registry.",
+  "topics": [
+    "district-court",
+    "civil-registry",
+    "courts"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.districtcourt.nsw.gov.au/",
+      "url": "https://www.districtcourt.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "81fd798c9c2e55783e5aeee26566359e0186a752",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

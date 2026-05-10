@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waitlist-application-commercial",
+  "source_url": "https://www.service.nsw.gov.au/transaction/withdraw-a-priority-waitlist-application-commercial",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "withdraw-a-priority-waitlist-application-commercial",
+  "title": "Withdraw a priority waitlist application (commercial)",
+  "summary": "Learn how to withdraw a priority waiting list application for a commercial mooring by visiting a Service NSW Centre or posting a request.",
+  "topics": [
+    "commercial-mooring",
+    "priority-waitlist",
+    "withdraw-application"
+  ],
+  "intro": "If you'd like to withdraw your priority waiting list application for a commercial mooring, you can do this in person at a Service NSW Centre, or post your request.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "A written request to withdraw the application on the organisation's letterhead",
+    "Written authorisation of the nominated representative on the organisation's letterhead",
+    "Proof of identity"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Visit a service centre and submit the application in person, or post your request and documentation to:Maritime Product ServicesLocked Bag 5100Camperdown NSW 1450.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Commercial mooring licence and rules",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/mooring-type-licence-and-fees/commercial-mooring-license-and-rules"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:15Z",
+    "last_modified": "18 October 2024",
+    "html_sha1": "c0c8a69328748a4086423b0ae793f347e93eccd7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

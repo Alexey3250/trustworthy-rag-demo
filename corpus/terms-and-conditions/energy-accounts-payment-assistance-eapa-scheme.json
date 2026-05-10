@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/terms-and-conditions/energy-accounts-payment-assistance-eapa-scheme",
+  "source_url": "https://www.service.nsw.gov.au/terms-and-conditions/energy-accounts-payment-assistance-eapa-scheme",
+  "category": "terms-and-conditions",
+  "article_kind": "content",
+  "slug": "energy-accounts-payment-assistance-eapa-scheme",
+  "title": "Energy Accounts Payment Assistance (EAPA) Scheme – Terms and Conditions",
+  "summary": "This page provides the terms and conditions for the Energy Accounts Payment Assistance (EAPA) Scheme, which helps eligible residents with short-term energy bill difficulties.",
+  "topics": [
+    "energy-bills",
+    "financial-hardship",
+    "energy-assistance",
+    "nsw-residents"
+  ],
+  "intro": "The Energy Accounts Payment Assistance (EAPA) Scheme helps eligible residential energy customers who are experiencing difficulty paying their current electricity and /or natural gas bill(s) (in part or in full) due to a short-term financial hardship, crisis or emergency, such as loss of income, unexpected costs, or natural disaster.\n\nEAPA is intended to keep NSW residents connected to essential energy services and is intended as a one-off emergency support program. EAPA is not intended for ongoing support or debt management. Applicants are assessed by an approved EAPA Provider who will determine eligibility. Vouchers are sent directly to the eligible customer's energy account.\n\nApplying for EAPA vouchers involves an eligibility assessment. EAPA voucher limits apply and are based on your assessment.",
+  "who_can_apply": [
+    "Must be an eligible residential energy customer.",
+    "Must be experiencing difficulty paying current electricity and/or natural gas bill(s) (in part or in full).",
+    "Difficulty must be due to a short-term financial hardship, crisis, or emergency (such as loss of income, unexpected costs, or natural disaster)."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Energy Accounts Payment Assistance (EAPA) Scheme",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the EAPA Scheme for?",
+      "a": "The EAPA Scheme helps eligible residential energy customers who are experiencing difficulty paying their current electricity and/or natural gas bill(s) due to a short-term financial hardship, crisis, or emergency.",
+      "link": null
+    },
+    {
+      "q": "Is EAPA for ongoing support?",
+      "a": "No, EAPA is intended as a one-off emergency support program and is not intended for ongoing support or debt management.",
+      "link": null
+    },
+    {
+      "q": "How are applicants assessed?",
+      "a": "Applicants are assessed by an approved EAPA Provider who will determine eligibility. Vouchers are sent directly to the eligible customer's energy account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:37Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "b2e87faacd9e9a27cd8d5713b7955c47093c030f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/tips-and-insights/small-business-restructuring",
+  "source_url": "https://www.service.nsw.gov.au/business/tips-and-insights/small-business-restructuring",
+  "category": "business",
+  "article_kind": "landing-page",
+  "slug": "small-business-restructuring",
+  "title": "What you need to know about small business restructuring",
+  "summary": "This page provides information and resources about small business restructuring.",
+  "topics": [
+    "small-business",
+    "restructuring",
+    "business-tips",
+    "finance"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Corporations Act 2001",
+      "url": "https://www.legislation.gov.au/Details/C2019C00216"
+    },
+    {
+      "text": "online resources",
+      "url": "https://mybusiness.service.nsw.gov.au/business-bureau/resources"
+    },
+    {
+      "text": "ServiceNSWBusinessBureau",
+      "url": "https://m.facebook.com/ServiceNSWBusinessBureau"
+    },
+    {
+      "text": "@ServiceNSWBusinessBureau",
+      "url": "https://www.instagram.com/servicenswbusinessbureau/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Read more Service NSW Business Bureau tips and insights",
+      "url": "https://www.service.nsw.gov.au/business/tips-and-insights"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:49Z",
+    "last_modified": "14 January 2026",
+    "html_sha1": "5700062992df06454bd12217cfbce402ab0397a2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

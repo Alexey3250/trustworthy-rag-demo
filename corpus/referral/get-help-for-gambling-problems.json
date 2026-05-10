@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-help-for-gambling-problems",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-help-for-gambling-problems",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-help-for-gambling-problems",
+  "title": "Get help for gambling problems",
+  "summary": "Find resources and support options if you or someone you know is struggling with gambling problems.",
+  "topics": [
+    "gambling-problems",
+    "addiction-support",
+    "mental-health",
+    "help-resources"
+  ],
+  "intro": "Gambling comes in many forms and can develop into a problem for some of us. If you or someone you know finds gambling difficult to manage, there are resources that can help, including:\n\nYou can also call 1800 858 858 for free and confidential support, or arrange to talk with a counsellor in your area.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online or face-to-face support",
+      "url": "https://www.nsw.gov.au/health/addiction-services/gambling"
+    },
+    {
+      "text": "apps to help quit gambling or gamble less",
+      "url": "https://www.gambleaware.nsw.gov.au/i-need-support/i-want-to-help-myself/use-apps-to-manage-your-gambling"
+    },
+    {
+      "text": "GambleAware NSW",
+      "url": "https://www.gambleaware.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:01Z",
+    "last_modified": "24 October 2024",
+    "html_sha1": "d11484f8cbe5c8094bb8ad99c0db34cf097ec9fa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

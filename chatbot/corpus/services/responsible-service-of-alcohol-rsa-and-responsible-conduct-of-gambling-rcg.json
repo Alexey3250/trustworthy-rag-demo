@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg",
+  "source_url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg",
+  "title": "Hospitality industry training (RSA, RCG, ARCG)",
+  "summary": "Find information and services for Responsible Service of Alcohol (RSA) and Responsible Conduct of Gambling (RCG) competency cards.",
+  "topics": [
+    "alcohol-service",
+    "gambling-conduct",
+    "training",
+    "competency-card"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Liquor licences and information",
+      "link": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "Gaming and gambling",
+      "link": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Apply for an RSA competency card (NSW RSA bridging applicants)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-competency-card-nsw-rsa-bridging-applicants"
+    },
+    {
+      "text": "Renew an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Replace an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    },
+    {
+      "text": "Update details on an RSA/RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card"
+    },
+    {
+      "text": "Undertake Responsible Service of Alcohol (RSA) training",
+      "url": "https://www.service.nsw.gov.au/referral/responsible-service-of-alcohol-rsa-training"
+    },
+    {
+      "text": "Undertake Responsible Conduct of Gambling (RCG) training",
+      "url": "https://www.service.nsw.gov.au/referral/responsible-conduct-of-gambling-rcg-training"
+    },
+    {
+      "text": "Access the RSA, RCG and ARCG course management portal",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-rsa-rcg-arcg-training-courses"
+    },
+    {
+      "text": "Liquor licences and information",
+      "url": "https://www.service.nsw.gov.au/services/liquor-licences"
+    },
+    {
+      "text": "Gaming and gambling",
+      "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an RSA or RCG competency card?",
+      "a": "You can apply for an RSA or RCG competency card using the dedicated application link.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "q": "What if I need to renew or replace my RSA or RCG card?",
+      "a": "There are specific services available to help you renew or replace your RSA or RCG competency card.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "q": "Where can I undertake RSA or RCG training?",
+      "a": "You can undertake Responsible Service of Alcohol (RSA) or Responsible Conduct of Gambling (RCG) training through the provided referral links.",
+      "link": "https://www.service.nsw.gov.au/referral/responsible-service-of-alcohol-rsa-training"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:06Z",
+    "last_modified": "10 September 2025",
+    "html_sha1": "8625ce6b818a178914ead200f088453819265ac1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

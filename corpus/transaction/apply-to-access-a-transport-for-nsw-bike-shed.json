@@ -1,0 +1,103 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-access-a-transport-for-nsw-bike-shed",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-access-a-transport-for-nsw-bike-shed",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-access-a-transport-for-nsw-bike-shed",
+  "title": "Apply to access a Transport for NSW bike shed",
+  "summary": "Apply online to access a free Transport for NSW bike shed to protect your bike when travelling to a public transport hub.",
+  "topics": [
+    "bike-shed",
+    "transport-for-nsw",
+    "opal-card",
+    "public-transport"
+  ],
+  "intro": "If you ride your push bike to a public transport hub/interchange, and then catch the train, bus or ferry, you can protect your bike from bad weather by parking it in a Transport for NSW (TfNSW) bike shed. The sheds accommodate between 20 and 50 bikes, and are free to use on a first in first served basis.\n\nYou can apply for access to a bike shed, online.",
+  "who_can_apply": [
+    "Any Opal card holders who ride a push bike."
+  ],
+  "what_you_need": [
+    "Your name and contact details",
+    "A user name and suitable password",
+    "An Opal card"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the User registration form, or select the 'Login' tab if you already have an account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Link your Opal card and agree to the bike shed Terms and Conditions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Allow 5 minutes for your shed access to be activated.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Once your Opal card is linked, you'll have access to any TfNSW bike shed, at any time.",
+      "link": null
+    },
+    {
+      "text": "You'll also need your Opal card to exit the bike shed, as electronic readers are installed in all the sheds to reduce unauthorised access and tail-gating.",
+      "link": null
+    },
+    {
+      "text": "Secure your bike to the racks provided, with your own bike lock.",
+      "link": null
+    },
+    {
+      "text": "Bikes and equipment will be considered abandoned if they're reported as not being used for 2 consecutive months. The property will then be held in Lost Property for a further 2 months and if not claimed in that period, disposed of permanently.",
+      "link": null
+    },
+    {
+      "text": "TfNSW is not liable for any loss, damage or theft of a bike (or bike equipment) stored in a bike shed.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Bike sheds and lockers",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/home.xhtml"
+    },
+    {
+      "text": "Bike parking locations",
+      "url": "https://appln.transport.nsw.gov.au/bikelockers/faces/jsp/public/findBikeParking.xhtml"
+    },
+    {
+      "text": "Bike shed FAQs",
+      "url": "https://bikelocker.transport.nsw.gov.au/bike-shed-faqs"
+    },
+    {
+      "text": "Bike shed use – Terms and Conditions",
+      "url": "https://bikelocker.transport.nsw.gov.au/bike-shed-terms-and-conditions-of-use"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to rent a Transport for NSW bike locker",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-rent-a-transport-for-nsw-bike-locker"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:32Z",
+    "last_modified": "29 September 2025",
+    "html_sha1": "ecadd6d05702a15c6b94dcad3d49e936390be4e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

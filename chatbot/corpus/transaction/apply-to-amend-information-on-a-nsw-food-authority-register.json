@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-amend-information-on-a-nsw-food-authority-register",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-amend-information-on-a-nsw-food-authority-register",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-amend-information-on-a-nsw-food-authority-register",
+  "title": "Apply to amend information on a NSW Food Authority register",
+  "summary": "This page explains how to apply to the NSW Food Authority to amend information on a register.",
+  "topics": [
+    "nsw-food-authority",
+    "amend-register",
+    "food-safety-laws",
+    "business-information"
+  ],
+  "intro": "The NSW Food Authority publishes lists of businesses that have breached or are alleged to have breached NSW food safety laws.\n\nTo update information on these registers, you need to apply to the NSW Food Authority.\n\nChanges may include:",
+  "who_can_apply": [
+    "Be listed on the register or be someone to whom the information on the register relates.",
+    "Own or have an interest in a business listed on the register."
+  ],
+  "what_you_need": [
+    "The business details",
+    "Penalty notice number (if applicable)",
+    "Details of your claim",
+    "Documentary evidence to support your claim",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Read Appendix A of How to apply to change a register – PDF.",
+      "link": "https://www.foodauthority.nsw.gov.au/media/2516"
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Apply to change a penalty notice or offence register' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to complete the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "criteria",
+      "url": "https://www.foodauthority.nsw.gov.au/sites/default/files/_Documents/corporate/publication_criteria_penalty_notices.pdf"
+    },
+    {
+      "text": "How to apply to change a register – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/2516"
+    },
+    {
+      "text": "Changes and corrections – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/offences/changes-and-corrections"
+    },
+    {
+      "text": "Register of penalty notices – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/offences/penalty-notices"
+    },
+    {
+      "text": "Register of offences (prosecutions) – NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/offences/prosecutions"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can apply to amend information on the register?",
+      "a": "You must be listed on the register, or the information relates to you, or you must own or have an interest in a business listed on the register.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need the business details, penalty notice number (if applicable), details of your claim, documentary evidence to support your claim, and your payment.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to change the register information?",
+      "a": "First, read Appendix A of How to apply to change a register – PDF. Then, gather your supporting documents, select the 'Apply to change a penalty notice or offence register' button, and follow the prompts to complete the form.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:58Z",
+    "last_modified": "9 October 2024",
+    "html_sha1": "f28d17e1ff5abab0a159fd6409fa538b3a467c89",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

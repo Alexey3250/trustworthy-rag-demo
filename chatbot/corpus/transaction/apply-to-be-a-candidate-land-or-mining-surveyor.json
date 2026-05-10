@@ -1,0 +1,134 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-be-a-candidate-land-or-mining-surveyor",
+  "title": "Apply to be a candidate land or mining surveyor",
+  "summary": "Apply to the NSW Board of Surveying and Spatial Information (BOSSI) to enrol as a candidate land or mining surveyor.",
+  "topics": [
+    "surveyor",
+    "land-surveyor",
+    "mining-surveyor",
+    "nsw-board-of-surveying"
+  ],
+  "intro": "To enrol as a candidate surveyor, you'll need to apply to the NSW Board of Surveying and Spatial Information (BOSSI).\n\nBefore you apply, check the requirements for becoming a candidate land surveyor or candidate mining surveyor.\n\nEnrolment is payable at the beginning of each financial year.",
+  "who_can_apply": [
+    "Be enrolled to study for a recognised qualification.",
+    "Hold a recognised qualification."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account or OneGov account.",
+    "Certified copies of required documents in English and PDF format (max 4MB).",
+    "A passport quality photo in JPG format.",
+    "A credit or debit card for the enrolment fee.",
+    "If overseas, a BOSSI-specific Overseas Assessment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Apply online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Start' on the application screen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account, or log in using your OneGov credentials.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to apply to be a candidate surveyor.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "candidate land surveyor",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors/pathway_to_registration"
+    },
+    {
+      "text": "candidate mining surveyor",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_mining_surveyors/pathway_to_registration"
+    },
+    {
+      "text": "recognised qualification",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors/recognised_qualifications"
+    },
+    {
+      "text": "Notice of practical experience form – PDF",
+      "url": "https://www.bossi.nsw.gov.au/__data/assets/pdf_file/0004/233185/Notice_of_Practical_Experience_Obtained_Candidate_Surveyor.pdf"
+    },
+    {
+      "text": "enrolment fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "BOSSI-specific Overseas Assessment",
+      "url": "https://www.bossi.nsw.gov.au/candidates/overseas_assessment"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    },
+    {
+      "text": "Candidate land surveyors – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_land_surveyors"
+    },
+    {
+      "text": "Candidate mining surveyors – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_mining_surveyors"
+    },
+    {
+      "text": "Guidelines and determinations – BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/publications/determinations_policies"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be a surveyor's assistant",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-surveyors-assistant"
+    },
+    {
+      "text": "Apply to be a registered land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-registered-land-or-mining-surveyor"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply to be a candidate surveyor?",
+      "a": "You must either be enrolled to study for a recognised qualification or hold a recognised qualification.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need a MyServiceNSW or OneGov account, a passport quality photo (JPG), a credit or debit card for the fee, and if you are overseas, a BOSSI-specific Overseas Assessment.",
+      "link": null
+    },
+    {
+      "q": "How do I apply to be a candidate surveyor?",
+      "a": "Gather your documents, select 'Apply online', start the application, and log in or create your MyServiceNSW Account.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:25Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "6b9da63424f1e16b833fd1fd7fa2428e1012e4c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

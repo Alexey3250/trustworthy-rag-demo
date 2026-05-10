@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/locating-someones-will",
+  "source_url": "https://www.service.nsw.gov.au/transaction/locating-someones-will",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "locating-someones-will",
+  "title": "Locating someone's will",
+  "summary": "This page provides information on what a will is and where to look if you need to locate a deceased person's will.",
+  "topics": [
+    "will",
+    "deceased",
+    "estate",
+    "legal-documents"
+  ],
+  "intro": "A will is a legal document that sets out how someone wants their assets distributed after they die.\n\nPeople usually keep a copy of their will at one or more of the following locations:\n\nIf you need to make enquiries with solicitors or accountants/financial advisors, you'll need to provide:\n\nLegal Aid NSW has sample letters to help you.\n\nNSW Trustee and Guardian provides secure storage for documents such as wills. You can complete an online enquiry form to find a will in their database.\n\nIf you find more than one will, the most recent one cancels any previous one(s) made by the deceased.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "If you need to make enquiries with solicitors or accountants/financial advisors, you'll need to provide:",
+    "You can complete an online enquiry form to find a will in the NSW Trustee and Guardian database."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "sample letters",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about/someone-who-died/wills-and-estates/forms-wills-and-estates"
+    },
+    {
+      "text": "complete an online enquiry form",
+      "url": "https://www.nsw.gov.au/family-and-relationships/deaths/after-a-death/will-and-deceased-estate/find-out-if-we-hold-a-will-made-nsw"
+    },
+    {
+      "text": "Searching for a will – Legal Aid NSW",
+      "url": "https://www.legalaid.nsw.gov.au/my-problem-is-about/someone-who-died/wills-and-estates/searching-for-the-will"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Make a deceased will enquiry",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-deceased-will-enquiry"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a will?",
+      "a": "A will is a legal document that sets out how someone wants their assets distributed after they die.",
+      "link": null
+    },
+    {
+      "q": "Where are wills usually kept?",
+      "a": "People usually keep a copy of their will at one or more of the following locations: solicitors, accountants/financial advisors, or NSW Trustee and Guardian.",
+      "link": null
+    },
+    {
+      "q": "What happens if there is more than one will?",
+      "a": "If you find more than one will, the most recent one cancels any previous one(s) made by the deceased.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:16Z",
+    "last_modified": "5 November 2025",
+    "html_sha1": "b970431475240912a432ce0fd52f84b564801e0d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

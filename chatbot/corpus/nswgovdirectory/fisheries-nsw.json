@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/fisheries-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "fisheries-nsw",
+  "title": "Fisheries NSW",
+  "summary": "This page provides information about fisheries in NSW, including licensing, marine parks, and reporting illegal fishing.",
+  "topics": [
+    "fishing",
+    "nsw",
+    "licences",
+    "marine-parks",
+    "recreational-fishing"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au/fishing",
+      "url": "https://www.dpi.nsw.gov.au/fishing"
+    },
+    {
+      "text": "6 marine parks in NSW",
+      "url": "https://www.dpi.nsw.gov.au/fishing/marine-protected-areas/marine-parks"
+    },
+    {
+      "text": "Contact details for all local fisheries offices can be found online.",
+      "url": "https://www.dpi.nsw.gov.au/contact-us/local-office"
+    },
+    {
+      "text": "NSW Recreational Fishing Fee",
+      "url": "https://www.dpi.nsw.gov.au/fishing/recreational/recreational-fishing-fee"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    },
+    {
+      "text": "Report illegal fishing",
+      "url": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    },
+    {
+      "text": "Get the FishSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-fishsmart-app"
+    },
+    {
+      "text": "Get the SharkSmart app",
+      "url": "https://www.service.nsw.gov.au/referral/get-the-sharksmart-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about fishing in NSW?",
+      "a": "You can find general information about fishing in NSW at the Department of Primary Industries website.",
+      "link": "https://www.dpi.nsw.gov.au/fishing"
+    },
+    {
+      "q": "How do I get a recreational fishing licence?",
+      "a": "You can apply for a recreational fishing licence (1-year or 3-year) or renew an existing licence online.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I see illegal fishing?",
+      "a": "You can report illegal fishing through the designated online service.",
+      "link": "https://www.service.nsw.gov.au/transaction/report-illegal-fishing"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:42Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "2a9247d05bfaeb8d0e4d5e899d96126712948157",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

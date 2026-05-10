@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-class-on-a-motor-vehicle-tradesperson-certificate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-class-on-a-motor-vehicle-tradesperson-certificate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-or-remove-a-class-on-a-motor-vehicle-tradesperson-certificate",
+  "title": "Add or remove a class on a motor vehicle tradesperson certificate",
+  "summary": "You can add or remove a class of repair work on your motor vehicle tradesperson certificate by visiting a Service NSW Centre or sending in a form by mail.",
+  "topics": [
+    "motor-vehicle-tradesperson",
+    "certificate",
+    "add-class",
+    "remove-class"
+  ],
+  "intro": "To add or remove a class of repair work on your motor vehicle tradesperson certificate you can either visit a Service NSW Centre or send the form by mail.\n\nTo find your tradesperson certificate number and details visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The PDF form: 'Motor Vehicle Tradesperson Certificate: Add a Class of Repair Work'",
+    "Photo ID, such as a driver licence",
+    "Your certificate number",
+    "Details of your qualifications, including proof of completion of the relevant training course",
+    "Your fee payment receipt number",
+    "For removing a class of repair work: A signed letter showing your certificate number and personal details, requesting removal of the class of repair work."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "qualifications",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson/motor-vehicle-tradesperson-work-categories-qualification-requirements"
+    },
+    {
+      "text": "fee payment receipt number",
+      "url": "https://applicationpayments.customerservice.nsw.gov.au/"
+    },
+    {
+      "text": "Motor Vehicle Tradesperson Certificate :Add a Class of Repair Work – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap4739c.pdf"
+    },
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    },
+    {
+      "text": "Motor vehicle tradesperson’s certificate fees – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson/motor-vehicle-tradesperson-work-categories-qualification-requirements/certificate-fees"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a motor vehicle tradesperson certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-tradesperson-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find my tradesperson certificate number and details?",
+      "a": "You can visit Verify NSW to find your tradesperson certificate number and details.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "q": "How can I add or remove a class of repair work?",
+      "a": "You can either visit a Service NSW Centre or send the form by mail.",
+      "link": null
+    },
+    {
+      "q": "What do I need to remove a class of repair work?",
+      "a": "You will need a signed letter that clearly shows your certificate number and personal details, requesting removal of the class of repair work.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:10Z",
+    "last_modified": "11 September 2025",
+    "html_sha1": "768f5de7a5b4322817a5e0f7ed6c333eeaf8b306",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

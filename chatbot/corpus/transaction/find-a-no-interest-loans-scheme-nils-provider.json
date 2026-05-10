@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider",
+  "source_url": "https://www.service.nsw.gov.au/transaction/find-a-no-interest-loans-scheme-nils-provider",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "find-a-no-interest-loans-scheme-nils-provider",
+  "title": "Find a No Interest Loans Scheme (NILS) provider",
+  "summary": "Find information about the No Interest Loans Scheme (NILS) and locate a local provider for safe and affordable credit.",
+  "topics": [
+    "nils",
+    "loans",
+    "low-income",
+    "credit",
+    "financial-assistance"
+  ],
+  "intro": "The No Interest Loans Scheme (NILS) offers safe and affordable access to credit to people on low incomes in NSW.\n\nNote: The dollar amounts on this page refer to Australian Dollar.\n\n### What you need to know",
+  "who_can_apply": [
+    "Have a health care card or pension card.",
+    "Have experienced family or domestic violence in the last 10 years.",
+    "Meet the earnings criteria.",
+    "Live at your current address for a minimum of 3 months.",
+    "Show that you are able to repay the loan in the given time period."
+  ],
+  "what_you_need": [
+    "Contact your local NILS provider or call Good Shepherd on 13 64 57."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "Contact your local NILS provider or call Good Shepherd on 13 64 57.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Contact your local NILS provider",
+      "url": "https://goodshep.org.au/nils-provider-finder/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for NILS?",
+      "a": "You may be eligible if you have a health care card or pension card, have experienced family or domestic violence in the last 10 years, or meet specific earnings criteria.",
+      "link": null
+    },
+    {
+      "q": "What types of items can NILS loans cover?",
+      "a": "Credit can be available for whitegoods, essential household furniture, educational necessities (like computers and textbooks), some medical and dental services, car repairs, and bond for a new property.",
+      "link": null
+    },
+    {
+      "q": "How do I find a NILS provider?",
+      "a": "You can contact your local NILS provider or call Good Shepherd on 13 64 57.",
+      "link": "https://goodshep.org.au/nils-provider-finder/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:26Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "fadb388011378f587bfd62498a4519afed1a6d84",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

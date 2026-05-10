@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/hunter-water-corporation",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/hunter-water-corporation",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "hunter-water-corporation",
+  "title": "Hunter Water Corporation",
+  "summary": "This page provides general information about the Hunter Water Corporation.",
+  "topics": [
+    "water-supply",
+    "water-services",
+    "utility-company",
+    "environment"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.hunterwater.com.au/",
+      "url": "https://www.hunterwater.com.au/"
+    },
+    {
+      "text": "Hunter Water help paying your bill",
+      "url": "https://www.hunterwater.com.au/home-and-business/managing-your-account/get-help-paying/personalised-payment-support/payment-assistance-scheme"
+    },
+    {
+      "text": "My Account: manage your Hunter Water account online",
+      "url": "https://www.hunterwater.com.au/accounts-and-billing/manage-your-account"
+    },
+    {
+      "text": "Get a Hunter Water pension rebate",
+      "url": "https://www.hunterwater.com.au/accounts-and-billing/get-help-paying/pension-rebate"
+    },
+    {
+      "text": "Submit a standpipe reading – Hunter Water",
+      "url": "https://www.hunterwater.com.au/business/standpipes-and-water-carriers/submit-a-standpipe-reading"
+    },
+    {
+      "text": "Water Recycling and Reuse – Hunter Water",
+      "url": "https://www.hunterwater.com.au/our-water/sustainability/recycling-and-reuse"
+    },
+    {
+      "text": "Information for suppliers – Hunter Water",
+      "url": "https://www.hunterwater.com.au/about/our-business/information-for-suppliers"
+    },
+    {
+      "text": "Water sources – Hunter Water",
+      "url": "https://www.hunterwater.com.au/water-and-environment/your-water-supply/water-sources"
+    },
+    {
+      "text": "Building and developing – Hunter Water",
+      "url": "https://www.hunterwater.com.au/building-and-developing"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Climate Change, Energy, the Environment and Water, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/climate-change-energy-the-environment-and-water-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:57Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5459c51af1761f8f8fd1824d5773745062371eb4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

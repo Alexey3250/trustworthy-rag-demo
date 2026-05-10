@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/hospitals-and-ambulances",
+  "source_url": "https://www.service.nsw.gov.au/services/hospitals-and-ambulances",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "hospitals-and-ambulances",
+  "title": "Hospitals and ambulances",
+  "summary": "Find information and services related to NSW hospitals, including urgent care, parking, and checking hospital performance, as well as details on ambulance fees and transport.",
+  "topics": [
+    "hospitals",
+    "ambulances",
+    "urgent-care",
+    "health-services",
+    "nsw-health"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Urgent Care Services (for treatment of an injury or illness that is not an emergency)",
+      "url": "https://www.health.nsw.gov.au/Hospitals/Pages/urgent-care-services.aspx"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check wait times",
+      "url": "https://www.service.nsw.gov.au/referral/check-wait-times-for-major-nsw-hospital-emergency-departments"
+    },
+    {
+      "text": "Find NSW public hospital parking, services and directions",
+      "url": "https://www.service.nsw.gov.au/transaction/find-nsw-hospital-parking-services-and-directions"
+    },
+    {
+      "text": "Access concession car parking",
+      "url": "https://www.service.nsw.gov.au/referral/claim-concession-car-parking-at-nsw-health-public-hospitals"
+    },
+    {
+      "text": "Check a public hospital's performance",
+      "url": "https://www.service.nsw.gov.au/referral/check-a-public-hospitals-performance"
+    },
+    {
+      "text": "Pay your NSW ambulance fee",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-your-nsw-ambulance-fee"
+    },
+    {
+      "text": "Claim an exemption from NSW ambulance fees",
+      "url": "https://www.service.nsw.gov.au/transaction/claim-an-exemption-from-nsw-ambulance-fees"
+    },
+    {
+      "text": "Access Patient Transport Service (PTS)",
+      "url": "https://www.service.nsw.gov.au/transaction/access-patient-transport-service-pts"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I go for treatment if my illness or injury is not an emergency?",
+      "a": "You can access Urgent Care Services for treatment of an injury or illness that is not an emergency.",
+      "link": "https://www.health.nsw.gov.au/Hospitals/Pages/urgent-care-services.aspx"
+    },
+    {
+      "q": "How can I check the wait times for a major NSW hospital emergency department?",
+      "a": "You can check the wait times for major NSW hospital emergency departments.",
+      "link": "https://www.service.nsw.gov.au/referral/check-wait-times-for-major-nsw-hospital-emergency-departments"
+    },
+    {
+      "q": "What services are available regarding NSW ambulance fees?",
+      "a": "You can pay your NSW ambulance fee, claim an exemption, or access the Patient Transport Service (PTS).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:37Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "f507b38e846b07367f0ba4d497435afea1ed9d4f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

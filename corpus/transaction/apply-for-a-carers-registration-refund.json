@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-carers-registration-refund",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-carers-registration-refund",
+  "title": "Apply for a carer's registration refund",
+  "summary": "Find out if you are eligible for a refund on vehicle tax paid when registering a vehicle if you receive the Commonwealth Carer Allowance.",
+  "topics": [
+    "carer-allowance",
+    "vehicle-tax",
+    "refund",
+    "registration"
+  ],
+  "intro": "If you receive the Commonwealth Carer Allowance, you may be eligible for a refund on some of the vehicle tax paid when registering a vehicle.",
+  "who_can_apply": [
+    "Must be a Commonwealth Carer Allowance recipient.",
+    "Must be the registered operator of an eligible vehicle (weighing between 976 kg and 2504 kg).",
+    "If the vehicle is registered in joint names, both operators must receive the Commonwealth Carer Allowance."
+  ],
+  "what_you_need": [
+    "The 'Carers Registration Rebate' PDF form.",
+    "Your Centrelink Customer Reference Number (CRN).",
+    "The vehicle's details (number plate and VIN number).",
+    "Your NSW Driver Licence number."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Download PDF form’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Send the completed form to the email address on the form with the subject line 'Carer Rebate', or lodge it at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The carer registration concession applies to one vehicle at a time.",
+      "link": null
+    },
+    {
+      "text": "The information you provide will be validated with Centrelink.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Form 1568: Carers Registration Rebate form – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071544-carers-registration-rebate.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Apply for a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Renew a vehicle registration as the carer or guardian of the registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration-as-the-carer-or-guardian-of-the-registered-operator"
+    },
+    {
+      "text": "Transfer a vehicle registration as the carer or guardian of a registered operator",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-a-vehicle-registration-as-the-carer-or-guardian-of-a-registered-operator"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible to apply for this refund?",
+      "a": "Commonwealth Carer Allowance recipients who are the registered operators of an eligible vehicle (weighing between 976 kg and 2504 kg). If the vehicle is registered in joint names, both operators must receive the Commonwealth Carer Allowance.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply for the refund?",
+      "a": "You need the 'Carers Registration Rebate' PDF form, your Centrelink Customer Reference Number (CRN), the vehicle's details (number plate and VIN number), and your NSW Driver Licence number.",
+      "link": null
+    },
+    {
+      "q": "How do I submit the completed form?",
+      "a": "You can send the completed form to the email address on the form with the subject line 'Carer Rebate', or lodge it at a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:25Z",
+    "last_modified": "3 December 2024",
+    "html_sha1": "9938c0ac9d8059b296785c9b9708a60820c9b3db",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

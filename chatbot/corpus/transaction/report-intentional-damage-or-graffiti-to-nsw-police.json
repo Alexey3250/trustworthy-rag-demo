@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-intentional-damage-or-graffiti-to-nsw-police",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-intentional-damage-or-graffiti-to-nsw-police",
+  "title": "Report intentional damage or graffiti to NSW Police",
+  "summary": "You can report intentional damage or graffiti to your property online through the NSW Police.",
+  "topics": [
+    "intentional-damage",
+    "graffiti",
+    "nsw-police",
+    "report-online"
+  ],
+  "intro": "If your property has been intentionally damaged, destroyed or graffitied, you can complete a police report online.",
+  "who_can_apply": [
+    "The damage must be intentional, not normal wear and tear or an accident.",
+    "The damage must not be caused by a traffic crash, fire, or attempt to gain entry to a premises (in which case, call 131 444).",
+    "If the incident is an emergency or happening now, call Triple Zero (000)."
+  ],
+  "what_you_need": [
+    "A description of the damaged property, including the location, the owner's contact details, the estimated value of the damage, and the date and time of the incident (if known).",
+    "Photos of the damaged property (if available)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Report online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to submit your online police report.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "you can track it and receive electronic status updates",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "you’ll receive a NSW Police Force Event number for insurance purposes (if applicable).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Police reports may be referred to as online malicious damage reports, or online damaged property reports.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Find your local police station",
+      "url": "https://www.police.nsw.gov.au/about_us/regions_commands_districts/police_station_search"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Report graffiti on community facilities or public assets",
+      "url": "https://www.service.nsw.gov.au/referral/report-graffiti"
+    },
+    {
+      "text": "Report lost property",
+      "url": "https://www.service.nsw.gov.au/transaction/report-lost-property"
+    },
+    {
+      "text": "Report theft",
+      "url": "https://www.service.nsw.gov.au/transaction/report-theft"
+    },
+    {
+      "text": "Access the NSW Police Force Community Portal",
+      "url": "https://www.service.nsw.gov.au/transaction/nsw-police-force-community-portal"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What types of damage can I report online?",
+      "a": "You can report intentional damage or graffiti online, but normal wear and tear or accidents are not considered intentional damage.",
+      "link": null
+    },
+    {
+      "q": "What should I do if the damage is an emergency?",
+      "a": "If the incident is an emergency or happening now, call Triple Zero (000) immediately.",
+      "link": null
+    },
+    {
+      "q": "How do I report damage caused by a traffic crash or fire?",
+      "a": "If the damage is caused by a traffic crash or fire, or an attempt to gain entry to a premises, call the Police Assistance Line on 131 444.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:27Z",
+    "last_modified": "17 September 2025",
+    "html_sha1": "268dd95b15604b89371d2d205923f0c221a11cf8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

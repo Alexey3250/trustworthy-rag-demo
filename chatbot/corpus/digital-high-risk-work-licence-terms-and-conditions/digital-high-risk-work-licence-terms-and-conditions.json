@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/digital-high-risk-work-licence-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/digital-high-risk-work-licence-terms-and-conditions",
+  "category": "digital-high-risk-work-licence-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "digital-high-risk-work-licence-terms-and-conditions",
+  "title": "Digital High Risk Work Licence – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for using a Digital High Risk Work Licence (DHRWL) issued by Service NSW.",
+  "topics": [
+    "high-risk-work-licence",
+    "digital-licence",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Have or are able to obtain a MyServiceNSW Account",
+    "Hold a valid high risk work licence",
+    "Have or will link your MyServiceNSW Account to your high risk work licence"
+  ],
+  "what_you_need": [
+    "A valid high risk work licence",
+    "A MyServiceNSW Account"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "SafeWork NSW Privacy Statement",
+      "url": "https://www.safework.nsw.gov.au/about-us/privacy/safework-nsw-privacy-statement"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Is the Digital High Risk Work Licence (DHRWL) mandatory?",
+      "a": "No, a DHRWL is optional. It will only be issued in addition to the physical form of a high risk work licence.",
+      "link": null
+    },
+    {
+      "q": "What should I carry when working outside of NSW?",
+      "a": "You should always carry your physical high risk work licence, as the DHRWL may not be recognised in other states and territories.",
+      "link": null
+    },
+    {
+      "q": "What are my responsibilities regarding the DHRWL device?",
+      "a": "You must ensure the device holding your DHRWL is working, charged, and that the screen can be inspected without obstruction or damage.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:50Z",
+    "last_modified": "28 June 2022",
+    "html_sha1": "34dbaa873479736ea8ac5bba7e211e7096c0e25c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

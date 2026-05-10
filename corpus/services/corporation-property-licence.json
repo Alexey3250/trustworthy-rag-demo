@@ -1,0 +1,92 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/corporation-property-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/corporation-property-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "corporation-property-licence",
+  "title": "Corporation property licence",
+  "summary": "This page provides information about the corporation property licence, including how to apply for, renew, or manage the licence.",
+  "topics": [
+    "corporation-property-licence",
+    "property-licence",
+    "real-estate",
+    "nsw-property"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "The applicant must be a corporation that owns or manages property in New South Wales."
+  ],
+  "what_you_need": [
+    "Details of the property or properties in question.",
+    "Corporate identification documents (e.g., ABN, company registration details)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Individual property licence",
+      "link": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence"
+    },
+    {
+      "text": "Change the details on a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Check a property agent licence or certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-property-agent-licence-or-certificate"
+    },
+    {
+      "text": "Renew a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-corporation-property-licence"
+    },
+    {
+      "text": "Replace a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-corporation-property-licence"
+    },
+    {
+      "text": "Restore a corporation property licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-corporation-property-licence"
+    },
+    {
+      "text": "Surrender a property certificate or licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-property-certificate-or-licence"
+    },
+    {
+      "text": "Individual property licence",
+      "url": "https://www.service.nsw.gov.au/services/real-estate-property-licence-individual"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a corporation property licence?",
+      "a": "A corporation property licence is required for corporations that own or manage property in New South Wales.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a corporation property licence?",
+      "a": "You can apply for a corporation property licence using the dedicated application page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-corporation-property-licence"
+    },
+    {
+      "q": "What if I need to renew or replace my licence?",
+      "a": "You can renew your licence or replace it using the specific online services available.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:07Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "db2f7f85ce86caa2df4ab47e9c33286ed3124cce",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

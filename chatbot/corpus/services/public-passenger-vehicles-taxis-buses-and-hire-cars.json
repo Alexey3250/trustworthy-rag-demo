@@ -1,0 +1,117 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars",
+  "source_url": "https://www.service.nsw.gov.au/services/public-passenger-vehicles-taxis-buses-and-hire-cars",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "public-passenger-vehicles-taxis-buses-and-hire-cars",
+  "title": "Public passenger vehicles (taxis, buses and hire cars)",
+  "summary": "Find information and services related to public passenger vehicles, including taxis, buses, and hire cars.",
+  "topics": [
+    "taxis",
+    "buses",
+    "hire-cars",
+    "passenger-vehicles",
+    "transport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Report property lost on public transport",
+      "link": "https://www.service.nsw.gov.au/transaction/report-property-lost-on-public-transport"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a bus driver authority",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-bus-driver-authority"
+    },
+    {
+      "text": "Renew a bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-bus-driver-authority-online"
+    },
+    {
+      "text": "Replace a lost, stolen or damaged bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-lost-stolen-or-damaged-bus-driver-authority-online"
+    },
+    {
+      "text": "Change the details on your bus driver authority online",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-your-bus-driver-authority-online"
+    },
+    {
+      "text": "Register a public passenger vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-public-passenger-vehicle"
+    },
+    {
+      "text": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Manage your taxi licence",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-taxi-licence"
+    },
+    {
+      "text": "Renew a taxi registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-taxi-registration"
+    },
+    {
+      "text": "Book a wheelchair accessible taxi",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-wheelchair-accessible-taxi"
+    },
+    {
+      "text": "Find a secure taxi rank",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-secure-taxi-rank"
+    },
+    {
+      "text": "Report a taxi",
+      "url": "https://www.service.nsw.gov.au/referral/report-taxi"
+    },
+    {
+      "text": "Application for a passenger transport licence code",
+      "url": "https://www.service.nsw.gov.au/transaction/application-for-a-passenger-transport-licence-code"
+    },
+    {
+      "text": "Report property lost on public transport",
+      "url": "https://www.service.nsw.gov.au/transaction/report-property-lost-on-public-transport"
+    },
+    {
+      "text": "contact us form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for or manage a bus driver authority?",
+      "a": "You can apply for a bus driver authority, renew it online, replace a lost or damaged one, or change the details on your existing authority.",
+      "link": null
+    },
+    {
+      "q": "How do I register or renew a public passenger vehicle?",
+      "a": "You can register a public passenger vehicle or renew the registration for a public passenger vehicle or heavy vehicle (without an HVIS inspection).",
+      "link": null
+    },
+    {
+      "q": "What services are available for taxis?",
+      "a": "You can manage your taxi licence, renew a taxi registration, book a wheelchair accessible taxi, find a secure taxi rank, or report a taxi.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a passenger transport licence code?",
+      "a": "Information is available regarding the application for a passenger transport licence code.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:57Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "493094f78b7bb8d50091ac0a3c6ae402f2dc693c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

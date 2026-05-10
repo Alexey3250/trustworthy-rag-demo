@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-for-a-personal-watercraft-pwc-driving-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-conditions-for-a-personal-watercraft-pwc-driving-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-conditions-for-a-personal-watercraft-pwc-driving-licence",
+  "title": "Change the conditions for a personal watercraft (PWC) driving licence",
+  "summary": "PWC licence holders must visit a Service NSW Centre in person to change conditions on their licence, especially if there are changes to medical or physical conditions like eyesight.",
+  "topics": [
+    "pwc-licence",
+    "service-nsw",
+    "medical-conditions",
+    "eyesight-test"
+  ],
+  "intro": "As the holder of a PWC licence you'll need to notify Transport for NSW of any changes to medical/physical conditions, including eyesight, that might cast doubt on your fitness to operate a PWC.\n\nTo change the conditions on your PWC licence you can do so in person at a Service NSW Centre.\n\nNote: Changes to eyesight conditions will require a replacement licence.",
+  "who_can_apply": [
+    "Must be a current holder of a PWC licence.",
+    "Must be able to visit a Service NSW Centre in person."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Your PWC licence",
+    "A copy of your current Australian driver licence (to indicate eyesight conditions)",
+    "The completed 'Adjustment of Records – Maritime Customers Only' form",
+    "The 'Application for a Personal Watercraft Driving Licence' form",
+    "The 'Application for a Replacement Product' form",
+    "Two colour, passport-size photos (if applicable)",
+    "If adding or removing an eyesight condition, you may need to undergo an eyesight test at the service centre."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete:",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all the required documentation.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Adjustment of Records – Maritime Customers Only – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071760-adjustment-to-records-maritime.pdf"
+    },
+    {
+      "text": "Application for a Personal Watercraft Driving Licence – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072013-personal-watercraft-driver-licence.pdf"
+    },
+    {
+      "text": "Application for a Replacement Product – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072012-application-maritime-replacement-products.pdf"
+    },
+    {
+      "text": "Maritime proof of identity requirements – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2023-12/proof-of-identity-maritime-fact-sheet.pdf"
+    },
+    {
+      "text": "Personal Watercraft Handbook – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-03/Personal-watercraft-handbook.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Get boat or personal watercraft (PWC) licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/get-boat-or-pwc-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my medical or physical condition changes?",
+      "a": "You must notify Transport for NSW of any changes to medical or physical conditions, including eyesight, that might affect your ability to operate a PWC.",
+      "link": null
+    },
+    {
+      "q": "How do I change the conditions on my PWC licence?",
+      "a": "You must visit a Service NSW Centre in person to change the conditions on your PWC licence.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "Do I need a replacement licence if my eyesight condition changes?",
+      "a": "Yes, changes to eyesight conditions will require a replacement licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:06Z",
+    "last_modified": "17 February 2026",
+    "html_sha1": "b9708af89683c67ab8d5f53573fab94fa973beed",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

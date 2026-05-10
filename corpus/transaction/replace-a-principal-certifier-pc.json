@@ -1,0 +1,100 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-principal-certifier-pc",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-principal-certifier-pc",
+  "title": "Replace a principal certifier (PC)",
+  "summary": "Learn how to replace a principal certifier (PC) appointed for building or construction work.",
+  "topics": [
+    "building-commission-nsw",
+    "principal-certifier",
+    "construction-work",
+    "property-owner"
+  ],
+  "intro": "You (as the property owner) can replace the principal certifier you appointed for building or construction work either by agreement or by approval from Building Commission NSW.\n\nYour builder cannot apply to replace the principal certifier even if you agree with the change.",
+  "who_can_apply": [
+    "You must be the property owner who appointed the principal certifier for building or construction work."
+  ],
+  "what_you_need": [
+    "For replacement by agreement: The form 'Notice to appoint a replacement principal certifier' and agreement from your current principal certifier and the local council (and the consent authority if different to the council)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you have feedback or an enquiry contact Building Commission NSW.",
+  "more_info": [
+    {
+      "text": "Find a principal certifier",
+      "link": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "text": "Appoint a principal certifier.",
+      "link": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    },
+    {
+      "text": "Find out how to:",
+      "link": null
+    },
+    {
+      "text": "Visit the Building Commission NSW website for more information on replacing a certifier.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Notice to appoint a replacement principal certifier – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-03/notice-to-appoint-a-replacement-principal-certifier-pc-v5.pdf"
+    },
+    {
+      "text": "Application to replace a principal certifier application",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/replacing/application-to-replace-a-principal-certifier"
+    },
+    {
+      "text": "role and responsibilities of a certifier",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/building-certifiers/working-as-a-certifier"
+    },
+    {
+      "text": "replacing a certifier",
+      "url": "https://www.nsw.gov.au/housing-and-construction/appointing-a-certifier/replacing"
+    },
+    {
+      "text": "Building Commission NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/complaints-and-enquiries/building-and-renovating"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a principal certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-principal-certifier-pc"
+    },
+    {
+      "text": "Appoint a principal certifier",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-principal-certifier-pc"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can replace the principal certifier?",
+      "a": "As the property owner, you can replace the principal certifier you appointed for building or construction work. Your builder cannot apply for this replacement, even if you agree with the change.",
+      "link": null
+    },
+    {
+      "q": "How can I replace the principal certifier by agreement?",
+      "a": "You can replace the principal certifier by having your current principal certifier and the local council agree. You must complete and send the form 'Notice to appoint a replacement principal certifier' to the local council.",
+      "link": "https://www.nsw.gov.au/sites/default/files/noindex/2025-03/notice-to-appoint-a-replacement-principal-certifier-pc-v5.pdf"
+    },
+    {
+      "q": "What happens if the current PC cannot carry out their functions?",
+      "a": "The current PC can no longer carry out the functions of a PC if they are no longer registered or if they cannot agree on the replacement.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:57Z",
+    "last_modified": "17 December 2025",
+    "html_sha1": "63d771f6c395faf018b4b64f8e903f976e1eefdd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

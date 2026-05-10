@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog",
+  "category": "about-us",
+  "article_kind": "content",
+  "slug": "digital-services-blog",
+  "title": "Digital Services Blog",
+  "summary": "This blog provides updates and insights into Service NSW's digital capabilities and service improvements.",
+  "topics": [
+    "digital-services",
+    "nsw-updates",
+    "technology",
+    "service-improvements"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Small changes, big impact 20 March 2025How we create culturally safe messaging for Aboriginal and Torres Strait Islander communities.Elese Barrymore1 minute read",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/small-changes-big-impact"
+    },
+    {
+      "text": "Making digital credentials easy to use across borders 26 November 2024How citizens will be able to use a NSW Digital Wallet in Australia and around the globe.Peter Lechlein3 minute read",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/digital-credentials-across-borders"
+    },
+    {
+      "text": "A/B testing push notifications 20 September 2024Results from our A/B testing for push notifications in the Service NSW app. Emma Salkild2 minute read",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/a-b-testing-push-notifications"
+    },
+    {
+      "text": "Behind the scenes of Service NSW’s AI Hackathon 9 July 2024Learnings from Service NSW's AI (Artificial Intelligence) hackathon.Abhishek Dadhich 5 minute read",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-services-blog/behind-the-scenes-ai-hackathon"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:28Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "9f608a27e24492534a0721d14ca5a3f7cc98d187",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

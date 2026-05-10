@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/use-your-concession-card-to-access-pensioner-travel-vouchers",
+  "source_url": "https://www.service.nsw.gov.au/referral/use-your-concession-card-to-access-pensioner-travel-vouchers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "use-your-concession-card-to-access-pensioner-travel-vouchers",
+  "title": "Use your concession card to access Pensioner Travel Vouchers",
+  "summary": "This page explains how holding a specific concession card entitles you to Pensioner Travel Vouchers for discounted travel in regional NSW.",
+  "topics": [
+    "pensioner-travel-vouchers",
+    "regional-nsw-travel",
+    "concession-card",
+    "nsw-trainlink"
+  ],
+  "intro": "If you hold a NSW/ACT pensioner concession card or a NSW War Widow/er transport concession card, you're entitled to 4 Pensioner Travel Vouchers each calendar year. You can use the vouchers for 2 return or 4 single trips.\n\nThe vouchers provide free or discounted travel in economy class on NSW TrainLink Regional services within regional NSW. If you want to upgrade to first class you only pay 15% of the full adult peak season fare.\n\nIf you cross the NSW border into another state, you pay 50% of the relevant economy or first class fare for the interstate section. Sleeping berths attract an additional charge.\n\nAlways carry your concession card with you when you travel as the onboard crew will need to check it.",
+  "who_can_apply": [
+    "Hold a NSW/ACT pensioner concession card.",
+    "Hold a NSW War Widow/er transport concession card."
+  ],
+  "what_you_need": [
+    "NSW/ACT pensioner concession card or NSW War Widow/er transport concession card",
+    "Concession card (to be carried when travelling)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Pensioner Travel Vouchers",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/pensioner-travel-vouchers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How many Pensioner Travel Vouchers are available?",
+      "a": "If you hold a NSW/ACT pensioner concession card or a NSW War Widow/er transport concession card, you are entitled to 4 Pensioner Travel Vouchers each calendar year.",
+      "link": null
+    },
+    {
+      "q": "What can the vouchers be used for?",
+      "a": "You can use the vouchers for 2 return or 4 single trips. They provide free or discounted travel in economy class on NSW TrainLink Regional services within regional NSW.",
+      "link": null
+    },
+    {
+      "q": "Do I need to carry my concession card when I travel?",
+      "a": "Yes, always carry your concession card with you when you travel, as the onboard crew will need to check it.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:59Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "4e3d501f4d0bbd97787a02b7853228ca41f2ce72",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/frank-baxter-youth-justice-centre",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/frank-baxter-youth-justice-centre",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "frank-baxter-youth-justice-centre",
+  "title": "Frank Baxter Youth Justice Centre",
+  "summary": "This page provides information about the Frank Baxter Youth Justice Centre.",
+  "topics": [
+    "youth-justice",
+    "nsw-justice",
+    "frank-baxter-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/frank-baxter-youth-justice-centre",
+      "url": "https://www.nsw.gov.au/legal-and-justice/youth-justice/centres/frank-baxter-youth-justice-centre"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Youth Justice NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/youth-justice-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:21Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "50c6b4b95bfa332010e7f19d4f0023796547d419",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

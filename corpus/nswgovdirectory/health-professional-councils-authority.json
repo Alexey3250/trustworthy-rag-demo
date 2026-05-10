@@ -1,0 +1,131 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-professional-councils-authority",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/health-professional-councils-authority",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "health-professional-councils-authority",
+  "title": "Health Professional Councils Authority",
+  "summary": "This page provides a directory of health professional councils and authorities in NSW.",
+  "topics": [
+    "health-professionals",
+    "councils",
+    "nsw-health",
+    "medical-practice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.hpca.nsw.gov.au",
+      "url": "https://www.hpca.nsw.gov.au"
+    },
+    {
+      "text": "Learn more about the HPCA",
+      "url": "https://www.hpca.nsw.gov.au/how-we-work"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health Care Complaints Commission",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-care-complaints-commission"
+    },
+    {
+      "text": "Aboriginal and Torres Strait Islander Health Practice Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/aboriginal-and-torres-strait-islander-health-practice-council-of-nsw"
+    },
+    {
+      "text": "Chinese Medicine Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/chinese-medicine-council-of-nsw"
+    },
+    {
+      "text": "Chiropractic Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/chiropractic-council-of-nsw"
+    },
+    {
+      "text": "Dental Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/dental-council-of-nsw"
+    },
+    {
+      "text": "Medical Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/medical-council-of-nsw"
+    },
+    {
+      "text": "Medical Radiation Practice Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/medical-radiation-practice-council-of-nsw"
+    },
+    {
+      "text": "Nursing and Midwifery Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nursing-and-midwifery-council-of-nsw"
+    },
+    {
+      "text": "Occupational Therapy Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/occupational-therapy-council-of-nsw"
+    },
+    {
+      "text": "Optometry Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/optometry-council-of-nsw"
+    },
+    {
+      "text": "Osteopathy Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/osteopathy-council-of-nsw"
+    },
+    {
+      "text": "Paramedicine Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/paramedicine-council-of-nsw"
+    },
+    {
+      "text": "Pharmacy Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/pharmacy-council-of-nsw"
+    },
+    {
+      "text": "Physiotherapy Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/physiotherapy-council-of-nsw"
+    },
+    {
+      "text": "Podiatry Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/podiatry-council-of-nsw"
+    },
+    {
+      "text": "Psychology Council of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/psychology-council-of-nsw"
+    },
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    },
+    {
+      "text": "Lodge a complaint about a health care practitioner or service provider",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about health professional councils?",
+      "a": "This page lists various health professional councils and authorities in NSW, including those for medicine, nursing, and allied health.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I have a complaint about a health practitioner?",
+      "a": "You can lodge a complaint about a health care practitioner or service provider using the dedicated Service NSW page.",
+      "link": "https://www.service.nsw.gov.au/transaction/lodge-a-complaint-about-a-health-care-practitioner-or-service-provider"
+    },
+    {
+      "q": "Which council governs a specific health profession?",
+      "a": "The page lists specific councils for various professions, such as the Dental Council of NSW, Nursing and Midwifery Council of NSW, and Chiropractic Council of NSW.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:44Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "cf0b750dd0f65dc5179cdf0cb7dd8beb7dc459c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

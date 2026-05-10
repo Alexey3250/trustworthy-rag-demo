@@ -1,0 +1,105 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/get-a-free-japanese-encephalitis-vaccination",
+  "source_url": "https://www.service.nsw.gov.au/referral/get-a-free-japanese-encephalitis-vaccination",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "get-a-free-japanese-encephalitis-vaccination",
+  "title": "Get a free Japanese encephalitis vaccination",
+  "summary": "Find out if you are eligible for a free Japanese encephalitis vaccination if you live or work in a flood-impacted area.",
+  "topics": [
+    "japanese-encephalitis-vaccination",
+    "flood-impacted-area",
+    "mosquito-bites",
+    "nsw-health"
+  ],
+  "intro": "If you live or regularly work in a flood impacted area, it is recommended by NSW Health that you get vaccinated against Japanese encephalitis virus.\n\nIn NSW, wet conditions and stagnant water after floods creates a breeding ground for mosquitoes and can contribute to an increase in Japanese encephalitis virus (JEV) cases.",
+  "who_can_apply": [
+    "Aged 2 months and older",
+    "Live or routinely work in certain local government areas",
+    "Live or regularly work in a flood impacted area"
+  ],
+  "what_you_need": [
+    "To check eligibility, visit NSW Health.",
+    "To get the vaccination, speak to your General Practitioner (GP), pharmacist or Aboriginal Medical Service."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Speak to your General Practitioner (GP), pharmacist or Aboriginal Medical Service about getting a vaccination.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Note: Some providers may charge an administration or consultation fee. Be sure to check if this applies to you.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "How to avoid mosquito bites",
+      "link": "https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/bite-prevention.aspx"
+    },
+    {
+      "text": "How to reduce mosquitoes",
+      "link": "https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/mosquito-reduction.aspx"
+    },
+    {
+      "text": "Japanese encephalitis virus cases in NSW",
+      "link": "https://www.health.nsw.gov.au/infectious/jev/pages/default.aspx"
+    },
+    {
+      "text": "NSW Health has resources and information to help you manage mosquitoes at home or at your business.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "certain local government areas",
+      "url": "https://www.health.nsw.gov.au/infectious/jev/pages/vaccination.aspx#eligible"
+    },
+    {
+      "text": "Visit NSW Health",
+      "url": "https://www.health.nsw.gov.au/infectious/jev/pages/vaccination.aspx"
+    },
+    {
+      "text": "How to avoid mosquito bites",
+      "url": "https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/bite-prevention.aspx"
+    },
+    {
+      "text": "How to reduce mosquitoes",
+      "url": "https://www.health.nsw.gov.au/Infectious/mosquito-borne/Pages/mosquito-reduction.aspx"
+    },
+    {
+      "text": "Japanese encephalitis virus cases in NSW",
+      "url": "https://www.health.nsw.gov.au/infectious/jev/pages/default.aspx"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who should get vaccinated against Japanese encephalitis?",
+      "a": "NSW Health recommends vaccination if you live or regularly work in a flood-impacted area.",
+      "link": null
+    },
+    {
+      "q": "How do I check if I am eligible for a free vaccination?",
+      "a": "You must visit NSW Health to check your eligibility.",
+      "link": "https://www.health.nsw.gov.au/infectious/jev/pages/vaccination.aspx"
+    },
+    {
+      "q": "Where can I get the vaccination?",
+      "a": "Speak to your General Practitioner (GP), pharmacist or Aboriginal Medical Service about getting a vaccination.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:25Z",
+    "last_modified": "24 September 2025",
+    "html_sha1": "5775a0e7f8f3851b52d49e5dd2904c738f783c40",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

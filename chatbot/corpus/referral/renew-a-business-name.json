@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/renew-a-business-name",
+  "source_url": "https://www.service.nsw.gov.au/referral/renew-a-business-name",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "renew-a-business-name",
+  "title": "Renew a business name",
+  "summary": "This page provides information on renewing a registered business name.",
+  "topics": [
+    "business-name",
+    "renewal",
+    "registration",
+    "asic"
+  ],
+  "intro": "If you have a registered business name, you'll receive a notice to renew it at least 30 days before it expires. This notice is usually sent by email.\n\nBusiness name registrations can be renewed for one or 3 years.\n\nYou have until the due date listed on your renewal notice to complete the form and pay the registration fee. If you do not register and pay by the due date, your business name registration may be cancelled.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "online form",
+      "url": "https://asicconnect.asic.gov.au/public/faces/renewal"
+    },
+    {
+      "text": "Renew a business name registration – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/business-names/renew-a-business-name-registration/"
+    },
+    {
+      "text": "Payment options – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/forms-and-fees/payment-options/"
+    },
+    {
+      "text": "When ASIC cancels a business name – ASIC",
+      "url": "https://www.asic.gov.au/for-business-and-companies/business-names/cancel-a-business-name-registration/when-asic-cancels-a-business-name/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:24Z",
+    "last_modified": "26 September 2025",
+    "html_sha1": "136270ff1600cd224931cbc5f5296ac643069f9d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-licence-to-carry-out-taxidermy-or-possess-preserved-specimens",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-licence-to-carry-out-taxidermy-or-possess-preserved-specimens",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-licence-to-carry-out-taxidermy-or-possess-preserved-specimens",
+  "title": "Renew a licence to carry out taxidermy or possess preserved specimens",
+  "summary": "This page explains how to renew a taxidermy licence or licence to possess preserved specimens.",
+  "topics": [
+    "taxidermy",
+    "licence",
+    "specimens",
+    "renewal"
+  ],
+  "intro": "If you hold a taxidermy licence, you need to renew it before the expiry date.\n\nBefore renewing, you must return the specimen record and transaction form with:\n\nYou do this online by submitting the Specimen record and transaction form.",
+  "who_can_apply": [
+    "Must hold a taxidermy licence and renew it before the expiry date."
+  ],
+  "what_you_need": [
+    "The report after completing the Specimen record and transaction form",
+    "The PDF form ‘Licence to Possess Preserved Specimens and/or Carry Out Taxidermy – Renewal’",
+    "Payment for the renewal fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the application form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application by email to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You do not need a licence to keep or carry out taxidermy on non-native animals or hold processed animal products.",
+      "link": null
+    },
+    {
+      "text": "You cannot sell or trade animal specimens, even if you do not want to keep it. If you’re a professional taxidermist, you may advertise and charge for your taxidermy services.",
+      "link": null
+    },
+    {
+      "text": "When you hold a taxidermy licence, you'll need to follow the relevant conditions for your licence type found in:",
+      "link": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/taxidermist-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "For more information, contact the Wildlife Team on 9585 6406 or email wildlife.licensing@environment.nsw.gov.au.",
+      "link": "tel:0295856406"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Specimen record and transaction form",
+      "url": "https://nswdpie.tfaforms.net/wf26v3l"
+    },
+    {
+      "text": "Taxidermist Biodiversity Conservation Licence",
+      "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/taxidermist-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "Protected Animal Specimens Biodiversity Conservation Licence",
+      "url": "https://www.environment.nsw.gov.au/sites/default/files/2024-09/protected-animal-specimen-biodiversity-conservation-licence-conditions.pdf"
+    },
+    {
+      "text": "Taxidermy licence – Environment and Heritage",
+      "url": "https://www.environment.nsw.gov.au/licences-and-permits/wildlife-licences/taxidermy-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence to carry out taxidermy or possess preserved specimens",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-licence-carry-out-taxidermy"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to renew my taxidermy licence?",
+      "a": "Yes, if you hold a taxidermy licence, you must renew it before the expiry date.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my licence?",
+      "a": "You can renew your licence online by submitting the Specimen record and transaction form.",
+      "link": null
+    },
+    {
+      "q": "What do I need to renew my licence?",
+      "a": "You need the report after completing the Specimen record and transaction form, the PDF form ‘Licence to Possess Preserved Specimens and/or Carry Out Taxidermy – Renewal’, and payment for the renewal fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:10Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "cce945be4ea6dfd60a67b087efa5d37e3eecfb80",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

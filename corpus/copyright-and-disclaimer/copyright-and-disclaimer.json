@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/copyright-and-disclaimer",
+  "source_url": "https://www.service.nsw.gov.au/copyright-and-disclaimer",
+  "category": "copyright-and-disclaimer",
+  "article_kind": "content",
+  "slug": "copyright-and-disclaimer",
+  "title": "Copyright and disclaimer",
+  "summary": "This page outlines the copyright, usage rules, and disclaimers for content found on the Service NSW website.",
+  "topics": [
+    "copyright",
+    "disclaimer",
+    "website-usage",
+    "legal-information"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    },
+    {
+      "text": "Google Maps/Google Earth Additional Terms of Service",
+      "url": "https://www.google.com/help/terms_maps/"
+    },
+    {
+      "text": "Google Privacy Policy",
+      "url": "https://policies.google.com/privacy/embedded?hl=en-US"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What material is not covered by the Creative Commons licence?",
+      "a": "The State’s Coat of Arms, logos, trademarks of the State of NSW or any Department or agency, Service NSW brand logos (including the NSW Waratah and names like “Service NSW”), third-party material, and all photography, illustrations, animations, and sound files used by Service NSW are not licensed under the Creative Commons licence.",
+      "link": null
+    },
+    {
+      "q": "How can I request permission to use the material?",
+      "a": "You can request permission by emailing governanceandrisk@service.nsw.gov.au or posting to: Privacy Officer Governance and Risk Service NSW, GPO Box 7057, Sydney NSW 2001.",
+      "link": null
+    },
+    {
+      "q": "What are the rules for linking to the Service NSW website?",
+      "a": "Links to the Service NSW website (www.service.nsw.gov.au) must go to the homepage or other high-level page. You must not use the link to imply endorsement by the NSW Government or Department of Customer Service.",
+      "link": null
+    },
+    {
+      "q": "What does the disclaimer cover regarding linked websites?",
+      "a": "Service NSW makes no guarantees about the security of linked websites and does not accept liability for security issues or any loss, damage, cost, or expense incurred if you rely on information from those sites.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:19Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "bfdc6b18d9e214b6e961c661663639e8d0885ab2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

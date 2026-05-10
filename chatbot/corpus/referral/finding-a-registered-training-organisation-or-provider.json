@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/finding-a-registered-training-organisation-or-provider",
+  "source_url": "https://www.service.nsw.gov.au/referral/finding-a-registered-training-organisation-or-provider",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "finding-a-registered-training-organisation-or-provider",
+  "title": "Finding a registered training organisation or provider",
+  "summary": "This page explains that registered training organisations (RTOs) and providers offer vocational training for various work types, and it provides ways to search for them online.",
+  "topics": [
+    "training-provider",
+    "rto",
+    "vocational-training",
+    "work-skills"
+  ],
+  "intro": "Registered training organisations (RTOs) and training providers deliver the vocational training that is needed before you can carry out a range of work, including asbestos, construction, and high risk work. They also provide training for health and safety representatives.\n\nYou can search for trainers and RTOs online by name, training type or training location (suburb or postcode).",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Registered training organisations (RTOs)",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/registered-training-organisations"
+    },
+    {
+      "text": "search for trainers and RTOs online",
+      "url": "https://verify.licence.nsw.gov.au/home/RTO"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:27Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "687d44f639660a1a673cd495b8d0be8ee701334d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

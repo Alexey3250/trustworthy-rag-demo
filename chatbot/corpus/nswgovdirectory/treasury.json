@@ -1,0 +1,139 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "treasury",
+  "title": "Treasury, NSW",
+  "summary": "This page provides information about NSW Treasury, the government department responsible for financial advice and economic planning.",
+  "topics": [
+    "nsw-treasury",
+    "finance",
+    "economy",
+    "government-department"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/nsw-treasury",
+      "url": "https://www.nsw.gov.au/nsw-treasury"
+    },
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury/about-us/contact-us",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury/about-us/contact-us"
+    },
+    {
+      "text": "NSW Budget - NSW Treasury",
+      "url": "https://www.budget.nsw.gov.au/"
+    },
+    {
+      "text": "Careers at NSW Treasury – NSW Treasury",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury/about-us/careers"
+    },
+    {
+      "text": "State Infrastructure Strategy – NSW Treasury",
+      "url": "https://www.nsw.gov.au/business-and-economy/nsw-economy/state-infrastructure-strategy"
+    },
+    {
+      "text": "Capital planning – NSW Treasury",
+      "url": "https://www.nsw.gov.au/nsw-government/public-sector/financial-information-for-public-entities/capital-planning"
+    },
+    {
+      "text": "Documents library – NSW Treasury",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury/documents-library"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Infrastructure NSW (INSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/infrastructure-nsw-insw"
+    },
+    {
+      "text": "Office of Social Impact Investment",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-social-impact-investment"
+    },
+    {
+      "text": "SAS Trustee Corporation (State Super)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sas-trustee-corporation-state-super"
+    },
+    {
+      "text": "Transport Asset Manager (TAM)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/transport-asset-manager-tam"
+    },
+    {
+      "text": "NSW Procurement",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-procurement"
+    },
+    {
+      "text": "icare (Insurance and Care NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "NSW Treasury Corporation (TCorp)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-treasury-corporation-tcorp"
+    },
+    {
+      "text": "Essential Energy",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/essential-energy"
+    },
+    {
+      "text": "Forestry Corporation of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/forestry-corporation-of-nsw"
+    },
+    {
+      "text": "Hunter Water Corporation",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/hunter-water-corporation"
+    },
+    {
+      "text": "Landcom",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/landcom"
+    },
+    {
+      "text": "Port Authority of NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/port-authority-of-nsw"
+    },
+    {
+      "text": "Sydney Water Corporation",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/sydney-water-corporation"
+    },
+    {
+      "text": "WaterNSW (State-Owned Corporation)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/waternsw-state-owned-corporation"
+    },
+    {
+      "text": "NSW Productivity Commission",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-productivity-commission"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the role of NSW Treasury?",
+      "a": "NSW Treasury is the government department that provides financial advice and economic planning for the state.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about the NSW budget?",
+      "a": "You can find information about the NSW budget at the NSW Budget page.",
+      "link": "https://www.budget.nsw.gov.au/"
+    },
+    {
+      "q": "How can I find career opportunities at NSW Treasury?",
+      "a": "Information regarding careers at NSW Treasury is available on the dedicated careers page.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/nsw-treasury/about-us/careers"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:56Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "4bc66ad4b8fc2b4f149b2a504fe1f322a653575e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

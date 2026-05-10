@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/submit-vessel-incident-reports",
+  "source_url": "https://www.service.nsw.gov.au/transaction/submit-vessel-incident-reports",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "submit-vessel-incident-reports",
+  "title": "Submit vessel incident reports",
+  "summary": "This page provides instructions on how to report a vessel incident that occurs in NSW navigable water, depending on whether the vessel is recreational or commercial.",
+  "topics": [
+    "boating-accidents",
+    "vessel-incidents",
+    "nsw-reporting",
+    "boating-safety"
+  ],
+  "intro": "If a boating accident occurs in any port or navigable water in NSW, the master of the vessel must:\n\nIf you need help, alert search and rescue services.\n\nFollow the reporting procedures after the incident within the timeframe required for a recreational or commercial vessel.",
+  "who_can_apply": [
+    "The master of a vessel that has been involved in an accident in any port or navigable water in NSW."
+  ],
+  "what_you_need": [
+    "The time, place, and nature of the accident.",
+    "The name and registration number of the vessels involved (if available).",
+    "The name and address of every person who was concerned with, or witnessed, the accident (if available).",
+    "Details of any injury or damage resulting from the accident.",
+    "Your boat driver's licence or Certificate of Competency details.",
+    "For recreational reports: The 'Vessel incident report – PDF' form and supporting documents.",
+    "For commercial reports: Completion of the online Incident report (AMSA Form 19) and the online Incident alert (AMSA Form 18)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For further information and assistance with completing the report call 13 12 36.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "alert search and rescue services",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/alerting-rescue-services"
+    },
+    {
+      "text": "Certificate of Competency",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/rules/commercial-vessel-use"
+    },
+    {
+      "text": "Vessel incident report – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065752-vessel-incident-report.pdf"
+    },
+    {
+      "text": "Incident report (AMSA Form 19)",
+      "url": "https://www.amsa.gov.au/forms/incident-report-form-19"
+    },
+    {
+      "text": "Incident alert (AMSA Form 18)",
+      "url": "https://www.amsa.gov.au/form18"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "licence",
+      "url": "https://www.service.nsw.gov.au/services/boating-licences"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if a boating accident happens?",
+      "a": "If a boating accident occurs, the master of the vessel must first alert search and rescue services. After the incident, you must follow the required reporting procedures.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/waterways-safety-and-rules/emergencies/alerting-rescue-services"
+    },
+    {
+      "q": "How do I report a recreational vessel incident?",
+      "a": "You must download the 'Vessel incident report – PDF' form, complete it, attach supporting documents, and then post or email the report using the contact details provided on the form.",
+      "link": null
+    },
+    {
+      "q": "How do I report a commercial vessel incident?",
+      "a": "For commercial vessels, you must complete the online Incident report (AMSA Form 19) and the online Incident alert (AMSA Form 18), following the prompts to submit both reports.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:17Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "f0bc12a9fa331b34ef2a5ae73ca40671a54162bb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

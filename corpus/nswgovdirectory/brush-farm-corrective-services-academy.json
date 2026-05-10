@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/brush-farm-corrective-services-academy",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/brush-farm-corrective-services-academy",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "brush-farm-corrective-services-academy",
+  "title": "Brush Farm Corrective Services Academy",
+  "summary": "This page provides information about the Brush Farm Corrective Services Academy.",
+  "topics": [
+    "corrective-services",
+    "academy",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.bfcsa.nsw.gov.au/",
+      "url": "https://www.bfcsa.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Library@Corrective Services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/library-at-corrective-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5ba3f838ea3fe510dbddb46a42160b671a3ea31b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

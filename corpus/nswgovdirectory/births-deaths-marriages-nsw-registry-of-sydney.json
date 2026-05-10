@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/births-deaths-marriages-nsw-registry-of-sydney",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/births-deaths-marriages-nsw-registry-of-sydney",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "births-deaths-marriages-nsw-registry-of-sydney",
+  "title": "Births, Deaths & Marriages, NSW Registry of (Sydney)",
+  "summary": "This page provides information about the NSW Registry of Births, Deaths & Marriages, covering services for births, deaths, and marriages.",
+  "topics": [
+    "births",
+    "deaths",
+    "marriages",
+    "nsw-registry"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages"
+    },
+    {
+      "text": "Family ancestry search guide",
+      "url": "https://www.nsw.gov.au/family-and-relationships/family-history-search/search-guide"
+    },
+    {
+      "text": "Get married by the Registry – Births Deaths & Marriages",
+      "url": "https://www.nsw.gov.au/family-and-relationships/marriages/get-married-by-registry"
+    },
+    {
+      "text": "Contact the Registry",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/births-deaths-marriages/contact-registry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "online",
+      "url": "https://www.service.nsw.gov.au/services/births-relationships-and-deaths"
+    },
+    {
+      "text": "Service NSW centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Apply for a marriage certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "text": "Apply for a birth certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-birth-certificate"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Order a family history certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/order-family-history-certificate"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I get information about births, deaths, and marriages?",
+      "a": "The NSW Registry of Births, Deaths & Marriages provides services for births, deaths, and marriages.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for a marriage certificate?",
+      "a": "You can apply for a marriage certificate using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-marriage-certificate"
+    },
+    {
+      "q": "What services are available for birth and death records?",
+      "a": "Services are available for applying for birth certificates, death certificates, and ordering family history certificates.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:14Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a485cfe1755ef7c931aca1e2bfe5264b18f67655",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

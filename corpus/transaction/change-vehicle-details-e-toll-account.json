@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-vehicle-details-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-vehicle-details-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-vehicle-details-e-toll-account",
+  "title": "Change the vehicle details on an E-Toll Account",
+  "summary": "You can change, add, or delete vehicle details linked to your Transport for NSW E-Toll Account online.",
+  "topics": [
+    "e-toll-account",
+    "vehicle-details",
+    "transport-for-nsw",
+    "online-account-management"
+  ],
+  "intro": "To add, change or delete the vehicle details linked to your Transport for NSW E-Toll Account, you can do this online.",
+  "who_can_apply": [
+    "You must be the account holder or an additional contact on the E-Toll Account."
+  ],
+  "what_you_need": [
+    "Your account details",
+    "Your new, changed, or deleted vehicle details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Change online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in to your account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Vehicles'.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Check the box next to the vehicle you'd like to change.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Make the required change and submit.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "There may be a limit on the number of vehicles you can link to your account. For more information, visit the E-Toll website.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/managing-my-e-toll-account/logging"
+    },
+    {
+      "text": "E-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/managing-my-e-toll-account/account-and-vehicle-details"
+    },
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the customer details on a business E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-customer-details-on-a-business-e-toll-account"
+    },
+    {
+      "text": "Change the payment details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-payment-details-on-an-e-toll-account"
+    },
+    {
+      "text": "Change your name on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-your-name-on-an-e-toll-account"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:46Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "35c90957a9dbe1baca7927e333fee4024f98d3b4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

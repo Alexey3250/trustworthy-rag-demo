@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combined-driver-licence-and-boat-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-combined-driver-licence-and-boat-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-combined-driver-licence-and-boat-licence",
+  "title": "Apply for a combined driver licence and boat licence",
+  "summary": "You can apply to combine your existing NSW driver licence and boat licence onto a single card.",
+  "topics": [
+    "driver-licence",
+    "boat-licence",
+    "combined-licence",
+    "nsw-licences"
+  ],
+  "intro": "If you have a boat licence and a driver licence, you can apply to combine the two licences onto one card. There is no change to the way each of the licences are obtained.\n\nThe combined licence looks like a NSW Driver Licence, with an indicator on the reverse side of the card that shows the licence holder also has a NSW boat licence.\n\nYou can only apply for a combined licence:\n\nNote: Combined licences cannot be renewed online.",
+  "who_can_apply": [
+    "You hold an unrestricted driver licence of any class (including rider, heavy vehicle).",
+    "Your driver licence is due or eligible for renewal.",
+    "The name and date of birth on your driver licence and boat licence match.",
+    "Your driver licence and boat licence (including personal watercraft) are current, or not expired more than 5 years.",
+    "You hold a young adult general boat or young adult personal watercraft licence, or a gratis boat licence.",
+    "You must meet all listed criteria."
+  ],
+  "what_you_need": [
+    "An eligible driver licence.",
+    "An eligible boat licence.",
+    "A satisfactory medical report (if required).",
+    "The PDF form: 'Licence Renewal Application'."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the Licence Renewal Application – PDF.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45071506-licence-renewal-application.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Gather all the necessary documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You must agree to align your boat licence expiry date with your driver licence expiry date, and pay the necessary fees.",
+      "link": null
+    },
+    {
+      "text": "Your driver licence renewal period must have an expiry date that is greater than your current boat licence expiry date (boat licence expiry dates can only be extended, not reduced).",
+      "link": null
+    },
+    {
+      "text": "There's no additional fee for the combined licence.",
+      "link": null
+    },
+    {
+      "text": "You can opt out of your combined licence at any time, and your driver licence and boat licence will be reprinted at no cost.",
+      "link": null
+    },
+    {
+      "text": "If you surrender your licence voluntarily, you'll receive a pro rata refund of both, or either, licence components.",
+      "link": null
+    },
+    {
+      "text": "You'll get a renewal notice for your combined licence about 6 weeks before it's due to expire.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Licence Renewal Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071506-licence-renewal-application.pdf"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Combined driver and boat licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/licence-classes-and-conditions/combined-driver-and-boat"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Renew a general boat licence (not PWC)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-general-boat-licence-not-pwc"
+    },
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How does the combined licence look?",
+      "a": "The combined licence looks like a NSW Driver Licence, with an indicator on the reverse side of the card that shows you also have a NSW boat licence.",
+      "link": null
+    },
+    {
+      "q": "Can I renew the combined licence online?",
+      "a": "No, combined licences cannot be renewed online.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my combined licence application?",
+      "a": "You must visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:23Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "24d0b4c6873c3fcae7b7a27b251e96d17d6396eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

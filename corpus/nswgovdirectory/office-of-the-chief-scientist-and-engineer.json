@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-chief-scientist-and-engineer",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-the-chief-scientist-and-engineer",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-the-chief-scientist-and-engineer",
+  "title": "Office of the Chief Scientist and Engineer",
+  "summary": "This page provides information about the Office of the Chief Scientist and Engineer.",
+  "topics": [
+    "chief-scientist",
+    "engineer",
+    "research",
+    "science"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.chiefscientist.nsw.gov.au/",
+      "url": "https://www.chiefscientist.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Investment NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/investment-nsw"
+    },
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:28Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "307a992e8ae20ba772ec820348487058bfad6943",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

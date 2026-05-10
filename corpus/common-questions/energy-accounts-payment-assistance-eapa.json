@@ -1,0 +1,136 @@
+{
+  "url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa",
+  "source_url": "https://www.service.nsw.gov.au/common-questions/energy-accounts-payment-assistance-eapa",
+  "category": "common-questions",
+  "article_kind": "content",
+  "slug": "energy-accounts-payment-assistance-eapa",
+  "title": "Energy Accounts Payment Assistance (EAPA) – common questions",
+  "summary": "This page provides information about the Energy Accounts Payment Assistance (EAPA) scheme, helping residents understand who can apply and how to get help with energy bills.",
+  "topics": [
+    "energy-bills",
+    "payment-assistance",
+    "nsw-energy",
+    "debt-help"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be a retail customer.",
+    "Must have an open energy account.",
+    "Must have money owing on the energy bill."
+  ],
+  "what_you_need": [
+    "Your energy bill must have money owing.",
+    "Your energy account must be open."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Apply for Energy Accounts Payment Assistance (EAPA)",
+      "link": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "EAPA providers: contact list – PDF",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2025-07/nsw-eapa-provider-contact-list.pdf"
+    },
+    {
+      "text": "Privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Terms and Conditions",
+      "link": "https://www.service.nsw.gov.au/terms-and-conditions/energy-accounts-payment-assistance-eapa-scheme"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Australian Energy Regulator’s Energy Made Easy",
+      "url": "https://www.energymadeeasy.gov.au/"
+    },
+    {
+      "text": "Free ways to save energy and money",
+      "url": "https://www.energy.nsw.gov.au/households/tips/save"
+    },
+    {
+      "text": "Water wise tips",
+      "url": "https://www.sydneywater.com.au/your-home/saving-water-at-home/water-wise-tips.html"
+    },
+    {
+      "text": "Contact the Energy & Water Ombudsman NSW",
+      "url": "https://www.ewon.com.au/page/contact-us"
+    },
+    {
+      "text": "Financial Counsellors Association of NSW",
+      "url": "https://fcan.org.au/"
+    },
+    {
+      "text": "MoneySmart",
+      "url": "https://moneysmart.gov.au/managing-debt/urgent-help-with-money"
+    },
+    {
+      "text": "AskIzzy",
+      "url": "https://askizzy.org.au/"
+    },
+    {
+      "text": "EAPA providers: contact list – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2025-07/nsw-eapa-provider-contact-list.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for EAPA online",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "eligibility conditions",
+      "url": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme#eligibility"
+    },
+    {
+      "text": "Check if your business is eligible for other help",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "text": "Terms and Conditions",
+      "url": "https://www.service.nsw.gov.au/terms-and-conditions/energy-accounts-payment-assistance-eapa-scheme"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for EAPA?",
+      "a": "EAPA helps people who are struggling to pay their energy bills. You must be a retail customer with an open energy account and have money owing on your bill.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for EAPA?",
+      "a": "You can apply for EAPA online using the provided link.",
+      "link": "https://www.service.nsw.gov.au/transaction/energy-accounts-payment-assistance-eapa-scheme"
+    },
+    {
+      "q": "What if I am a business owner?",
+      "a": "Commercial or business customers may have different support options. You can check if your business is eligible for other help.",
+      "link": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "q": "Where can I find more help with energy bills?",
+      "a": "You can talk to your energy retailer, or contact the Energy & Water Ombudsman NSW for assistance.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:38Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "ddd3a5de856e7f049ba19ea3c63a2d81fdf3c9b3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

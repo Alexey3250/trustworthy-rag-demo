@@ -1,0 +1,67 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/subsidence-advisory-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/subsidence-advisory-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "subsidence-advisory-nsw",
+  "title": "Subsidence Advisory NSW",
+  "summary": "This page provides information about subsidence in NSW, including advisory services and resources for property owners.",
+  "topics": [
+    "subsidence",
+    "nsw",
+    "property-advice",
+    "mining"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/subsidence-advisory",
+      "url": "https://www.nsw.gov.au/subsidence-advisory"
+    },
+    {
+      "text": "Subsidence Advisory NSW Portal - NSW Government",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/subsidence-advisory/portal"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Customer Service, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/customer-service-nsw-department-of"
+    },
+    {
+      "text": "Property in a mine subsidence district",
+      "url": "https://www.service.nsw.gov.au/services/property-in-a-mine-subsidence-district"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is subsidence?",
+      "a": "Subsidence is the gradual sinking or settling of the ground surface. It can be caused by various factors, including mining activities.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about subsidence?",
+      "a": "You can find more information on the Subsidence Advisory NSW Portal.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/subsidence-advisory/portal"
+    },
+    {
+      "q": "What should I do if my property is in a mine subsidence district?",
+      "a": "If your property is in a mine subsidence district, you should check the specific guidelines and resources available for that area.",
+      "link": "https://www.service.nsw.gov.au/services/property-in-a-mine-subsidence-district"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:47Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "75f08ddc729b9d904d88bb7209c63eadce5f67e0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

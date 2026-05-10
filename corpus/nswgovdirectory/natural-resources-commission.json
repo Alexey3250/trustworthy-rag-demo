@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/natural-resources-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/natural-resources-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "natural-resources-commission",
+  "title": "Natural Resources Commission",
+  "summary": "This page provides information about the Natural Resources Commission (NRC), which manages natural resources in New South Wales.",
+  "topics": [
+    "natural-resources",
+    "environment",
+    "nsw-government",
+    "commission"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nrc.nsw.gov.au/",
+      "url": "https://www.nrc.nsw.gov.au/"
+    },
+    {
+      "text": "Contact us – Natural Resources Commission",
+      "url": "https://www.nrc.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Premier's Department",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/premiers-department"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:41Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "d016c4270d4843b0c7b839992acba725a597b4c6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-commercial-agent-licence-corporation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-commercial-agent-licence-corporation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-or-restore-a-commercial-agent-licence-corporation",
+  "title": "Renew or restore a commercial agent licence – corporation",
+  "summary": "This page provides information on how a corporation can renew or restore its commercial agent licence with NSW Fair Trading.",
+  "topics": [
+    "commercial-agent-licence",
+    "corporation",
+    "renew-licence",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you hold a corporate commercial agent licence with NSW Fair Trading, you'll be emailed a renewal notice about 60 days before your licence expires. You're then able to renew your licence online.\n\nIf your NSW Fair Trading licence has expired and it is:\n\nYou can renew for 1, 3 or 5 years.",
+  "who_can_apply": [
+    "The corporation must hold a current commercial agent licence that is due for renewal.",
+    "The applicant must be the nominated officer.",
+    "The applicant must be a fit and proper person to hold a licence.",
+    "The applicant must not be an undischarged bankrupt or taking benefit of bankruptcy laws.",
+    "The applicant must not have an exclusion order prohibiting commercial agent activity.",
+    "The applicant must not have a NSW commercial agent licence that is currently cancelled, disqualified, or suspended.",
+    "The applicant must not be a controlled member of a declared organisation under the Crimes (Criminal Organisations Control) Act 2012.",
+    "The applicant must not have been convicted of a relevant offence (including violence, harassment, intimidation, weapons, drugs, and dishonesty) within the last 5 years that resulted in a prison sentence or a fine of $500 or more."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number",
+    "Your renewal number (as shown on your renewal notice)",
+    "Your business details, including your ACN",
+    "The name, date of birth, and email address for each officer of the corporation",
+    "A copy of the current National Police Check for each officer (no older than 4 months, in PDF, JPG, or PNG format)",
+    "A completed consent form showing written consent from each officer to share their personal details (in PDF, JPG, or PNG format)",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather the required details and documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to renew or restore your licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you have not received a renewal notice within 60 days of your licence expiry date, call 13 32 20.",
+      "link": "tel:133220"
+    },
+    {
+      "text": "Officers of a corporation must hold their own individual commercial agent licence to carry out field work.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "restoration fee",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licensing-fees"
+    },
+    {
+      "text": "consent form",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59837.pdf"
+    },
+    {
+      "text": "Commercial Agent licences – privacy collection notice",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/fair-trading/privacy/collection-notices/commercial-agent-licences"
+    },
+    {
+      "text": "Commercial agent licence – Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent/commercial-agent-licence"
+    },
+    {
+      "text": "Commercial agent licensing and field agent rules in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/commercial-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a new licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-corporation"
+    },
+    {
+      "text": "National Police Check",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-national-police-check"
+    },
+    {
+      "text": "Change the details on a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-commercial-agent-licence"
+    },
+    {
+      "text": "Replace a commercial agent licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-commercial-agent-licence"
+    },
+    {
+      "text": "Apply for a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-commercial-agent-licence-individual"
+    },
+    {
+      "text": "Renew or restore a commercial agent licence – individual/sole trader",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-a-commercial-agent-licence-individual-sole-trader"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance will I receive notice about renewing my licence?",
+      "a": "If you hold a corporate commercial agent licence, you will be emailed a renewal notice about 60 days before your licence expires.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements for a corporation to renew or restore a licence?",
+      "a": "The corporation must hold a current commercial agent licence due for renewal, and the nominated officer must be a fit and proper person. You cannot renew if you or any officer are an undischarged bankrupt, have an exclusion order, or have been convicted of certain relevant offences within the last 5 years.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to renew my licence?",
+      "a": "You need a MyServiceNSW Account, your licence number, your renewal number, your business details (including ACN), officer details (name, DOB, email), a National Police Check (no older than 4 months), a completed consent form, and payment.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:33Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "960f1ac7afede21e284823d269d92d96ad64ec20",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

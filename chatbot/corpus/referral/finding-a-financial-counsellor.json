@@ -1,0 +1,82 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/finding-a-financial-counsellor",
+  "source_url": "https://www.service.nsw.gov.au/referral/finding-a-financial-counsellor",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "finding-a-financial-counsellor",
+  "title": "Finding a financial counsellor",
+  "summary": "Find free, confidential help and advice from financial counsellors if you are experiencing financial difficulties.",
+  "topics": [
+    "financial-counselling",
+    "debt-help",
+    "money-management",
+    "financial-advice"
+  ],
+  "intro": "If you are in financial trouble, you can get help from a financial counsellor.\n\nCommunity organisations and not-for-profit organisations offer these confidential services for free.\n\nYou can contact these organisations to get guidance or advice on your financial situation.\n\nFinancial counsellors are professionals who can help you to:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "National Debt Helpline",
+      "url": "https://ndh.org.au/financial-counselling/find-a-financial-counsellor/"
+    },
+    {
+      "text": "MoneySmart ASIC",
+      "url": "https://moneysmart.gov.au/managing-debt"
+    },
+    {
+      "text": "Financial counselling",
+      "url": "https://moneysmart.gov.au/managing-debt/financial-counselling"
+    },
+    {
+      "text": "Anglicare financial counselling",
+      "url": "https://www.anglicare.org.au/community/financial-assistance/financial-counselling/"
+    },
+    {
+      "text": "Salvation Army financial counselling",
+      "url": "https://www.salvationarmy.org.au/need-help/financial-assistance/financial-counselling/"
+    },
+    {
+      "text": "Wesley Mission financial counselling",
+      "url": "https://www.wesleymission.org.au/get-support/financial-wellbeing-support/financial-counselling/"
+    },
+    {
+      "text": "Rural Financial Counselling Service NSW",
+      "url": "https://rfcsnsw.com.au/"
+    },
+    {
+      "text": "Small business debt helpline",
+      "url": "https://sbdh.org.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can help me with financial trouble?",
+      "a": "You can get help from a financial counsellor. These services are offered by community and not-for-profit organisations.",
+      "link": null
+    },
+    {
+      "q": "Is financial counselling expensive?",
+      "a": "No, community and not-for-profit organisations offer these services for free.",
+      "link": null
+    },
+    {
+      "q": "What can a financial counsellor help me with?",
+      "a": "Financial counsellors are professionals who can help you with your financial situation.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:32Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "a0aaf29a56883e2544c7f70905afe4c7a0323f17",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

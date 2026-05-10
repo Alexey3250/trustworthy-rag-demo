@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations",
+  "source_url": "https://www.service.nsw.gov.au/business/mobile-app/connect-or-disconnect-your-business-locations",
+  "category": "business",
+  "article_kind": "content",
+  "slug": "connect-or-disconnect-your-business-locations",
+  "title": "Connect or disconnect your devices",
+  "summary": "This page provides instructions for participating businesses on how to connect, edit, or disconnect devices and locations using the Service NSW Business Bureau app.",
+  "topics": [
+    "business-bureau-app",
+    "connect-device",
+    "manage-locations",
+    "disconnect-device"
+  ],
+  "intro": "For participating businesses only\n\nTo use the Service NSW Business Bureau app you must:",
+  "who_can_apply": [
+    "Participating businesses only"
+  ],
+  "what_you_need": [
+    "Service NSW Business Bureau app",
+    "MyServiceNSW Account",
+    "Business Profile",
+    "Unique location code (6 characters)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Service NSW Business Profile",
+      "link": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Business support",
+      "link": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "NSW Government program",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/business-grants"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Redeeming vouchers from customers",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/redeeming-vouchers-from-customers"
+    },
+    {
+      "text": "System requirements for the Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/business/mobile-app/system-requirements"
+    },
+    {
+      "text": "Privacy and security for the Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/business-mobile-app"
+    },
+    {
+      "text": "Business support",
+      "url": "https://www.service.nsw.gov.au/business/business-support"
+    },
+    {
+      "text": "MyServiceNSW account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I connect a device to a location?",
+      "a": "Go to the Service NSW Business Bureau app or your Business Profile, log in with your MyServiceNSW Account, select a program, select 'Locations and devices', and then select 'Manage devices' under the location. You will need to enter your unique 6-character location code into the Service NSW Business Bureau app on your scanning device.",
+      "link": null
+    },
+    {
+      "q": "How can I edit or add locations?",
+      "a": "Log in to the Service NSW Business Bureau app or Business Profile using your MyServiceNSW Account, select ‘Locations and devices’ from the program management tab, and then add or edit the details of your locations.",
+      "link": null
+    },
+    {
+      "q": "How do I disconnect a device from a program?",
+      "a": "You can disconnect a device by opening the Service NSW Business Bureau app, selecting the voucher program tile under 'Program management' and disconnecting the device. Alternatively, you can go to your Service NSW Business Profile, log in, select ‘Manage locations and devices’ in the program card, and select ‘Remove’ for the device.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:13Z",
+    "last_modified": "2 April 2026",
+    "html_sha1": "dd12f1b29d15df9d76f05a56524b88ab4625ef4a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

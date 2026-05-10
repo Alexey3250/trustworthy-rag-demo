@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-collect-number-plates-from-another-service-centre",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-collect-number-plates-from-another-service-centre",
+  "title": "Apply to collect number plates from another service centre",
+  "summary": "You can apply to move your number plates from one Service NSW Centre to another if the current location is inconvenient.",
+  "topics": [
+    "number-plates",
+    "service-centre",
+    "vehicle-registration",
+    "moving-plates"
+  ],
+  "intro": "If your number plates have arrived at a Service NSW Centre that's no longer convenient as a pick-up location, you can apply to have them moved to another service centre. A 'move number plates' fee will apply.\n\nPlease call 13 77 88 or visit a service centre to arrange this.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "proof of identity",
+    "payment"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Please ensure you have the necessary tools and screws with you if you'll be picking up plates for the vehicle you're driving. Operating a vehicle without number plates is illegal.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "move number plates",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "myPlates FAQs",
+      "url": "https://www.myplates.com.au/faq-page"
+    },
+    {
+      "text": "Number plates Terms and Conditions",
+      "url": "https://www.myplates.com.au/terms-conditions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Change the storage location of your number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-storage-location-of-your-number-plates"
+    },
+    {
+      "text": "Collect or surrender number plates held in storage",
+      "url": "https://www.service.nsw.gov.au/transaction/collect-or-surrender-number-plates-held-in-storage"
+    },
+    {
+      "text": "Order special number plates as a gift",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates-as-a-gift"
+    },
+    {
+      "text": "Order special number plates",
+      "url": "https://www.service.nsw.gov.au/transaction/order-special-number-plates"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:06Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "cc6929fac8137e0a44b90765d69c625f0190d8c4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-to-be-excused-from-jury-service",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-to-be-excused-from-jury-service",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-to-be-excused-from-jury-service",
+  "title": "Apply to be excused from jury service",
+  "summary": "Learn how to apply to be excused from jury service if you have received a summons to attend court.",
+  "topics": [
+    "jury-service",
+    "excused",
+    "court-summons",
+    "apply"
+  ],
+  "intro": "If you've received a summons to attend court for jury service, you can apply to be excused. This can be done online, or by email or post, at least one week prior to the summons date.\n\nYou can also apply in person on the day you report to court for jury service.\n\nYou'll need to show that you have 'good cause' to be excused when you apply. Penalties or fines apply if you provide false or misleading information in your application.\n\nNote: Being excused from jury service is not the same as being excluded or exempted from the jury roll. Find out more about who can and cannot serve as a juror.",
+  "who_can_apply": [
+    "Must have 'good cause' to be excused from jury service."
+  ],
+  "what_you_need": [
+    "The form included with your summons.",
+    "Supporting documents for your application.",
+    "Contact the NSW jury service or call the Jury Information Line on 1300 722 574 for more information."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete the form included with your summons.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents and send your application to the details provided in your summons.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "a Sheriff's staff member while you're still in the jury assembly area, or",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "the judge or coroner when you're called into court (if your reasons are health-related or might cause you embarrassment or distress, you can write out your application and ask for it to be handed to the judge).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For more information about the jury service, contact the NSW jury service or call the Jury Information Line on 1300 722 574 if you need help.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "who can and cannot serve as a juror",
+      "url": "https://courts.nsw.gov.au/for-jurors/how-do-i-apply-to-be-excused-from-jury-service.html"
+    },
+    {
+      "text": "NSW jury service",
+      "url": "https://juror.nsw.gov.au/contact"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I apply to be excused from jury service?",
+      "a": "You can apply online, by email, or by post at least one week before your summons date. You can also apply in person on the day you report to court for jury service.",
+      "link": null
+    },
+    {
+      "q": "What do I need to show to be excused from jury service?",
+      "a": "You must show that you have 'good cause' to be excused when you apply.",
+      "link": null
+    },
+    {
+      "q": "What happens if I provide false information in my application?",
+      "a": "Penalties or fines apply if you provide false or misleading information in your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:00Z",
+    "last_modified": "22 May 2025",
+    "html_sha1": "48ce988c1ac6595e399906d8ea4ced6d3dc7ebd8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

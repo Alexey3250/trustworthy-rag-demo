@@ -1,0 +1,99 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/mount-druitt-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/mount-druitt-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "mount-druitt-service-centre",
+  "title": "Mount Druitt Service Centre",
+  "summary": "This page provides information about the Mount Druitt Service Centre, including accessibility details and nearby locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payment",
+    "directions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-33.766533,150.820598"
+    },
+    {
+      "text": "planning an accessible trip",
+      "url": "https://transportnsw.info/travel-info/using-public-transport/accessible-travel/planning-accessible-trip"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "St Marys Driver Testing Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/st-marys-driver-testing-centre"
+    },
+    {
+      "text": "Blacktown Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/blacktown-service-centre"
+    },
+    {
+      "text": "Penrith Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/penrith-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Mount Druitt Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "Is the Mount Druitt Service Centre accessible?",
+      "a": "Yes, the centre offers wheelchair access, entry at street level, and is located within a shopping centre. It also provides Auslan video remote interpreting, a hearing loop, quiet hour, and remote live captioning.",
+      "link": null
+    },
+    {
+      "q": "Where are the nearest Service NSW locations to Mount Druitt?",
+      "a": "The nearest locations include the St Marys Driver Testing Centre, the Blacktown Service Centre, and the Penrith Service Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:37Z",
+    "last_modified": null,
+    "html_sha1": "3968dc25ddcb51e421ab20e82273e8ce6e591fc0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

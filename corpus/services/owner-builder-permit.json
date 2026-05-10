@@ -1,0 +1,86 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/owner-builder-permit",
+  "source_url": "https://www.service.nsw.gov.au/services/owner-builder-permit",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "owner-builder-permit",
+  "title": "Owner-Builder Permit",
+  "summary": "This page provides information about the Owner-Builder Permit process for building or renovating a property in NSW.",
+  "topics": [
+    "owner-builder",
+    "building-permit",
+    "renovation",
+    "construction"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "You must be the owner of the property where the work is being done.",
+    "You must comply with all relevant building codes and regulations."
+  ],
+  "what_you_need": [
+    "Proof of property ownership.",
+    "Detailed plans and specifications for the work.",
+    "A qualified builder or contractor to manage the construction process."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Building and construction industry",
+      "link": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "text": "Replace an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-owner-builder-permit"
+    },
+    {
+      "text": "Cancel an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-owner-builder-permit"
+    },
+    {
+      "text": "Change the details on an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-an-owner-builder-permit"
+    },
+    {
+      "text": "Check an Owner-Builder Permit",
+      "url": "https://www.service.nsw.gov.au/transaction/check-an-owner-builder-permit"
+    },
+    {
+      "text": "Building and construction industry",
+      "url": "https://www.service.nsw.gov.au/services/building-and-construction-industry"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is an Owner-Builder Permit?",
+      "a": "An Owner-Builder Permit allows you to manage and oversee the building or renovation of your own property, provided you meet specific requirements.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for an Owner-Builder Permit?",
+      "a": "You can apply for an Owner-Builder Permit using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-owner-builder-permit"
+    },
+    {
+      "q": "What if I need to change or cancel my permit?",
+      "a": "You can change the details or cancel your permit using the relevant transaction pages.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:39Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "eeede6fceb1f757c8b5f9e177868be70c6b31cd5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

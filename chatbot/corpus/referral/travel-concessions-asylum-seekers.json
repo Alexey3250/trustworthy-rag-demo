@@ -1,0 +1,68 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/travel-concessions-asylum-seekers",
+  "source_url": "https://www.service.nsw.gov.au/referral/travel-concessions-asylum-seekers",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "travel-concessions-asylum-seekers",
+  "title": "Public transport concessions for asylum seekers",
+  "summary": "This page provides information about public transport concessions available for asylum seekers in New South Wales.",
+  "topics": [
+    "asylum-seekers",
+    "public-transport",
+    "concessions",
+    "regional-travel"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Asylum seekers are eligible for information regarding public transport concessions."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/asylum-seekers"
+    },
+    {
+      "text": "Regional Excursion Daily (RED) tickets",
+      "url": "https://transportnsw.info/tickets-opal/regional-tickets-fares/regional-excursion-daily-red"
+    },
+    {
+      "text": "Country Pensioner Excursion (CPE) tickets",
+      "url": "https://transportnsw.info/regional-travel/regional-offers/country-pensioner-excursion-tickets"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can asylum seekers find information about transport concessions?",
+      "a": "Information regarding concessions for asylum seekers can be found on the Transport for NSW website.",
+      "link": "https://transportnsw.info/tickets-fares/eligibility-concessions/asylum-seekers"
+    },
+    {
+      "q": "Are there specific tickets for regional travel?",
+      "a": "Yes, tickets such as Regional Excursion Daily (RED) tickets and Country Pensioner Excursion (CPE) tickets are available.",
+      "link": null
+    },
+    {
+      "q": "Do concessions apply when travelling interstate?",
+      "a": "Concession fares, including sleeping berths, are available when travelling on interstate train services, but entitlements vary by state.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:54Z",
+    "last_modified": "30 March 2026",
+    "html_sha1": "1d25ac37b8806cda4ac601733a4010139dd794dc",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

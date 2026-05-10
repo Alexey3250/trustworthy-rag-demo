@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-advisory-council",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-advisory-council",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "rural-fire-service-advisory-council",
+  "title": "Rural Fire Service Advisory Council",
+  "summary": "This page provides information about the Rural Fire Service Advisory Council.",
+  "topics": [
+    "rural-fire-service",
+    "advisory-council",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Bush Fire Co-ordinating Committee",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/bush-fire-coordinating-committee"
+    },
+    {
+      "text": "Fire Services Joint Standing Committee",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/fire-services-joint-standing-committee"
+    },
+    {
+      "text": "Rural Fire Service NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/rural-fire-service-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:12Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ba45d0b9ab87f37752cd0dc26ad31d2400f67232",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

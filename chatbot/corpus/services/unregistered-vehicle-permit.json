@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/unregistered-vehicle-permit",
+  "source_url": "https://www.service.nsw.gov.au/services/unregistered-vehicle-permit",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "unregistered-vehicle-permit",
+  "title": "Unregistered vehicle permit",
+  "summary": "This page provides information and links for managing an unregistered vehicle permit (UVP) for vehicles that are not yet registered.",
+  "topics": [
+    "unregistered-vehicle",
+    "permit",
+    "vehicle-inspection",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for an unregistered vehicle permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit"
+    },
+    {
+      "text": "Replace an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp"
+    },
+    {
+      "text": "Cancel an unregistered vehicle permit (UVP)",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp"
+    },
+    {
+      "text": "Get an authorised unregistered vehicle inspection (blue slip)",
+      "url": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for an unregistered vehicle permit?",
+      "a": "You can apply for an unregistered vehicle permit using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-an-unregistered-vehicle-permit"
+    },
+    {
+      "q": "What if I need to replace my UVP?",
+      "a": "You can replace an unregistered vehicle permit (UVP) through the online transaction service.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-an-unregistered-vehicle-permit-uvp"
+    },
+    {
+      "q": "How do I cancel my UVP?",
+      "a": "You can cancel an unregistered vehicle permit (UVP) using the online transaction service.",
+      "link": "https://www.service.nsw.gov.au/transaction/cancel-an-unregistered-vehicle-permit-uvp"
+    },
+    {
+      "q": "Where can I get an authorised inspection (blue slip)?",
+      "a": "You can get an authorised unregistered vehicle inspection (blue slip) through the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/get-an-authorised-unregistered-vehicle-inspection-blue-slip"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:48Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "2ee71db7e6005eed8145a167c718fc35a3b64567",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

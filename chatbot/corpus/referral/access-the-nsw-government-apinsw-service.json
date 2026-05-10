@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/access-the-nsw-government-apinsw-service",
+  "source_url": "https://www.service.nsw.gov.au/referral/access-the-nsw-government-apinsw-service",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "access-the-nsw-government-apinsw-service",
+  "title": "Access the NSW Government API.NSW service",
+  "summary": "This page provides information on accessing and using the NSW Government API catalogue for integrating government data into applications.",
+  "topics": [
+    "nsw-government-api",
+    "data-integration",
+    "software-development",
+    "api-access"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "To report a problem or make an enquiry, use the API.NSW online form.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Government API.NSW service",
+      "url": "https://api.nsw.gov.au/"
+    },
+    {
+      "text": "API.NSW support page",
+      "url": "https://api.nsw.gov.au/Support"
+    },
+    {
+      "text": "API provider portal",
+      "url": "https://api.nsw.gov.au/Support/PublisherRequest"
+    },
+    {
+      "text": "Swagger",
+      "url": "https://swagger.io/docs/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Where can I find the NSW Government APIs?",
+      "a": "The API.NSW catalogue includes APIs for licensing (in the liquor, property, trades, high-risk work and security industries), transport, fuel, water and strata.",
+      "link": "https://api.nsw.gov.au/"
+    },
+    {
+      "q": "How can I test an API before using it in my app?",
+      "a": "Each API comes with documentation, sample code and free API calls so you can understand the API in a safe environment before committing.",
+      "link": null
+    },
+    {
+      "q": "How do I become an API provider?",
+      "a": "As an API provider, you can publish your APIs, add details and endpoints, customize API call quotas, and incorporate Swagger to generate an OpenAPI document.",
+      "link": "https://api.nsw.gov.au/Support/PublisherRequest"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:54Z",
+    "last_modified": "13 June 2025",
+    "html_sha1": "c44a7c959958b4c42fdb8511de3eb9c3e9ee11e7",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

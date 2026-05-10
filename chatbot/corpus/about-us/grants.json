@@ -1,0 +1,49 @@
+{
+  "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants",
+  "source_url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/grants",
+  "category": "about-us",
+  "article_kind": "landing-page",
+  "slug": "grants",
+  "title": "Grants: customer financial assistance delivery",
+  "summary": "This page provides information about grants that offer financial assistance to customers.",
+  "topics": [
+    "grants",
+    "financial-assistance",
+    "customer-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Rebates",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/rebates"
+    },
+    {
+      "text": "Vouchers",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities/digital-vouchers"
+    },
+    {
+      "text": "Learn more about Service NSW digital capabilities",
+      "url": "https://www.service.nsw.gov.au/about-us/digital-capabilities"
+    },
+    {
+      "text": "privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:26Z",
+    "last_modified": "11 November 2025",
+    "html_sha1": "82f8002dddb1b63fa1e4cc4e819900c84f278bc2",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty",
+  "source_url": "https://www.service.nsw.gov.au/services/land-tax-and-stamp-duty",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "land-tax-and-stamp-duty",
+  "title": "Land tax and stamp duty",
+  "summary": "This page provides information about land tax and surcharge land tax, which are based on unimproved land values in NSW.",
+  "topics": [
+    "land-tax",
+    "stamp-duty",
+    "unimproved-land-values",
+    "nsw-property-tax"
+  ],
+  "intro": "Land tax and surcharge land tax are based on unimproved land values in NSW. For more information on how land taxes are calculated, visit the Revenue NSW website.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "visit the Revenue NSW website",
+      "url": "https://www.revenue.nsw.gov.au/taxes-duties-levies-royalties/land-tax/understanding-land-tax/how-land-tax-is-calculated"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Pay a land tax notice",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-land-tax-notice"
+    },
+    {
+      "text": "Calculate the stamp duty on the sale of land or businesses in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/calculate-the-stamp-duty-on-the-sale-of-land-or-businesses-in-nsw"
+    },
+    {
+      "text": "Manage your land tax with a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-land-tax-myservicensw-account"
+    },
+    {
+      "text": "Go to Land value",
+      "url": "https://www.service.nsw.gov.au/services/land-value"
+    },
+    {
+      "text": "Go to Moving house",
+      "url": "https://www.service.nsw.gov.au/guide/guide-to-moving-house-and-changing-your-details-with-nsw-government-agencies"
+    },
+    {
+      "text": "Go to Buying a property",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-property"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:39Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e118f1f19c6c9c7b502dca13db56d022b49b3909",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

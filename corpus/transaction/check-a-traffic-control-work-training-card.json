@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-a-traffic-control-work-training-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-a-traffic-control-work-training-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-a-traffic-control-work-training-card",
+  "title": "Check a traffic control work training card",
+  "summary": "You can check or find your traffic control work training card details online.",
+  "topics": [
+    "traffic-control-card",
+    "training-card",
+    "service-nsw"
+  ],
+  "intro": "If you need to check a traffic control work training card, or find your card details, you can do so online.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licensee name",
+    "licence number",
+    "Australian Business Number (ABN)",
+    "Australian Company Number (ACN)",
+    "Any one of the following"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Check online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the information you have into the search bar.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the search icon.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Traffic control work training – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/traffic-controller-training"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:24Z",
+    "last_modified": "6 November 2025",
+    "html_sha1": "c1290d5e5d8c5f0f46f9c8ef36c64f9ac75b2a86",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

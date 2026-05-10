@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/child-care",
+  "source_url": "https://www.service.nsw.gov.au/services/child-care",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "child-care",
+  "title": "Child care support and providers",
+  "summary": "Find information and support regarding child care services and providers in NSW.",
+  "topics": [
+    "child-care",
+    "preschool",
+    "support",
+    "providers"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Concessions, rebates and assistance",
+      "link": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Learn about the Australian Government's Child Care Subsidy",
+      "url": "https://www.servicesaustralia.gov.au/child-care-subsidy"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Fee relief for preschool and long day care (Start Strong program)",
+      "url": "https://www.service.nsw.gov.au/referral/start-strong-program-for-preschool-children"
+    },
+    {
+      "text": "Before and after school care and/or vacation care",
+      "url": "https://www.service.nsw.gov.au/referral/before-and-after-school-care-and-or-vacation-care-providers"
+    },
+    {
+      "text": "Education and training",
+      "url": "https://www.service.nsw.gov.au/services/education"
+    },
+    {
+      "text": "Concessions, rebates and assistance",
+      "url": "https://www.service.nsw.gov.au/services/concessions-rebates-and-assistance"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I get fee relief for preschool and long day care?",
+      "a": "You can find information about fee relief for preschool and long day care through the Start Strong program.",
+      "link": "https://www.service.nsw.gov.au/referral/start-strong-program-for-preschool-children"
+    },
+    {
+      "q": "What is the Australian Government's Child Care Subsidy?",
+      "a": "Learn more about the Australian Government's Child Care Subsidy.",
+      "link": "https://www.servicesaustralia.gov.au/child-care-subsidy"
+    },
+    {
+      "q": "Where can I find before and after school care or vacation care?",
+      "a": "You can find information about before and after school care and/or vacation care providers.",
+      "link": "https://www.service.nsw.gov.au/referral/before-and-after-school-care-and-or-vacation-care-providers"
+    },
+    {
+      "q": "What if I need education and training for my child?",
+      "a": "Information is available regarding education and training options.",
+      "link": "https://www.service.nsw.gov.au/services/education"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:38Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "b9ce33eb8093cf026407f0efe252baeee5473c54",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

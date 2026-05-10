@@ -1,0 +1,107 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-an-rsa-or-rcg-competency-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-an-rsa-or-rcg-competency-card",
+  "title": "Replace an RSA or RCG competency card",
+  "summary": "You can request a replacement for a lost, stolen, or damaged RSA or RCG competency card online.",
+  "topics": [
+    "rsa",
+    "rcg",
+    "competency-card",
+    "replacement"
+  ],
+  "intro": "If your RSA and/or RCG competency card has been lost, stolen or damaged, you can request a replacement card online.\n\nMake sure your email address or mobile phone number is on record with Liquor & Gaming NSW.\n\nRather than pay the replacement card fee, you may prefer to access a free digital version of your competency card through the Service NSW app.\n\nIf you have completed the Advanced Responsible Conduct of Gambling (ARCG) course:\n\nFor up-to-date information, resources and tools visit Liquor & Gaming NSW: Training.\n\nIf you have questions or feedback about liquor and gaming training contact Liquor & Gaming NSW.",
+  "who_can_apply": [
+    "Your RSA and/or RCG competency card must have been lost, stolen, or damaged.",
+    "Your email address or mobile phone number must be on record with Liquor & Gaming NSW."
+  ],
+  "what_you_need": [
+    "Your competency card number (if known)",
+    "Your personal details",
+    "The reason why you need to replace your card",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Manage your RSA/RCG card' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to replace your card.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you do not need a replacement card, but do need to update your contact details, you can use the online form.",
+      "link": "https://www.onegov.nsw.gov.au/gls_portal/olgr/Transactions/CompetencyCard.mvc"
+    },
+    {
+      "text": "It can take up to 5 weeks to get your new card.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "replacement card fee",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training/competency-cards/fees"
+    },
+    {
+      "text": "online form",
+      "url": "https://www.onegov.nsw.gov.au/gls_portal/olgr/Transactions/CompetencyCard.mvc"
+    },
+    {
+      "text": "Liquor & Gaming NSW: Training",
+      "url": "https://www.nsw.gov.au/business-and-economy/liquor-and-gaming/training"
+    },
+    {
+      "text": "Liquor & Gaming NSW",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "access a free digital version",
+      "url": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "text": "Renew an RSA or RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-an-rsa-or-rcg-competency-card"
+    },
+    {
+      "text": "Update details on an RSA/RCG competency card",
+      "url": "https://www.service.nsw.gov.au/transaction/update-details-on-an-rsa-rcg-competency-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my RSA or RCG competency card is lost, stolen, or damaged?",
+      "a": "You can request a replacement card online.",
+      "link": null
+    },
+    {
+      "q": "Is there a free way to access my competency card?",
+      "a": "You may access a free digital version of your competency card through the Service NSW app instead of paying the replacement card fee.",
+      "link": "https://www.service.nsw.gov.au/guide/digital-licences-and-credentials"
+    },
+    {
+      "q": "Who should I contact with questions about liquor and gaming training?",
+      "a": "Contact Liquor & Gaming NSW for questions or feedback about liquor and gaming training.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/dciths/liquor-gaming-nsw/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:24Z",
+    "last_modified": "12 September 2025",
+    "html_sha1": "a386034ae8264fb43706f046bdaccb5caa447b68",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/adns",
+  "source_url": "https://www.service.nsw.gov.au/referral/adns",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "adns",
+  "title": "Use the Australian Death Notification Service (ADNS)",
+  "summary": "Use the Australian Death Notification Service (ADNS) to notify multiple organizations about a death using a single online notification.",
+  "topics": [
+    "death-notification",
+    "bereavement",
+    "estate-management",
+    "death-certificate"
+  ],
+  "intro": "The Australian Death Notification Service is a free service anyone can use to advise multiple organisations about a death using a single online notification.\n\nA person with an official role in the estate of the person who has died is best placed to close or transfer accounts.\n\nNote: in order to progress the notification, a death certificate must have been issued by the relevant state or territory Registry of Births, Deaths & Marriages.\n\nThe Australian Death Notification Service will validate the details against the Australian Death Check, which holds all the death registration data across Australia.\n\nOnce the details are validated, you can choose which organisations and services to inform. View a list of participating organisations.\n\nIt also helps if you know the account and membership numbers of the person who has passed away. If you do not have these, you can still send a notification to relevant organisations.",
+  "who_can_apply": [
+    "Anyone can use the Australian Death Notification Service (ADNS)."
+  ],
+  "what_you_need": [
+    "A death certificate issued by the relevant state or territory Registry of Births, Deaths & Marriages.",
+    "The account and membership numbers of the person who has passed away (helpful, but not mandatory)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Australian Death Notification Service website",
+      "url": "https://deathnotification.gov.au/"
+    },
+    {
+      "text": "participating organisations",
+      "url": "https://deathnotification.gov.au/participating-organisations"
+    },
+    {
+      "text": "Griefline: Free, compassionate and confidential support",
+      "url": "https://griefline.org.au/"
+    },
+    {
+      "text": "ADNS help centre",
+      "url": "https://deathnotification.gov.au/help-centre"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Death and bereavement: What to do after someone has died",
+      "url": "https://www.service.nsw.gov.au/guide/death-and-bereavement"
+    },
+    {
+      "text": "Register a death",
+      "url": "https://www.service.nsw.gov.au/transaction/register-death"
+    },
+    {
+      "text": "Apply for a death certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-death-certificate"
+    },
+    {
+      "text": "Notify Transport for NSW that a customer has died",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-transport-for-nsw-that-a-customer-has-died"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who should notify organizations about a death?",
+      "a": "A person with an official role in the estate of the person who has died is best placed to close or transfer accounts.",
+      "link": null
+    },
+    {
+      "q": "What is required to progress the notification?",
+      "a": "A death certificate must have been issued by the relevant state or territory Registry of Births, Deaths & Marriages.",
+      "link": null
+    },
+    {
+      "q": "What information does the ADNS use to validate details?",
+      "a": "The Australian Death Notification Service validates details against the Australian Death Check, which holds all the death registration data across Australia.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:47Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "45da82e4ca76075a26a9e88d17fb431f31804668",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

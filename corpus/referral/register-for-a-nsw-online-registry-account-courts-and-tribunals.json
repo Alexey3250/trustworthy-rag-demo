@@ -1,0 +1,75 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-for-a-nsw-online-registry-account-courts-and-tribunals",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-for-a-nsw-online-registry-account-courts-and-tribunals",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-for-a-nsw-online-registry-account-courts-and-tribunals",
+  "title": "Register for a NSW Online Registry account – Courts and Tribunals",
+  "summary": "If you are a party or authorized representative in a civil case in the NSW Supreme, District, or Local Court, you can use a NSW Online Registry account to securely access the courts' electronic registry.",
+  "topics": [
+    "nsw-courts",
+    "online-registry",
+    "civil-case",
+    "court-documents"
+  ],
+  "intro": "If you’re a party or an authorised representative involved in a civil case in the NSW Supreme, District or Local Court, you can securely access the courts' electronic registry with a NSW Online Registry account.\n\nYou can then use your account to:\n\nTo create an account, you’ll need:",
+  "who_can_apply": [
+    "Party or authorized representative involved in a civil case in the NSW Supreme, District or Local Court"
+  ],
+  "what_you_need": [
+    "NSW Online Registry account"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Online Registry account",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/"
+    },
+    {
+      "text": "create an account",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/jlink-eservices/eservices/orwUnsecRegistration.do"
+    },
+    {
+      "text": "user type",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/node/196"
+    },
+    {
+      "text": "proof of identity documents",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/node/149"
+    },
+    {
+      "text": "Frequently asked questions – NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/faqs"
+    },
+    {
+      "text": "Representing yourself in court",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/representing-yourself"
+    },
+    {
+      "text": "Search NSW Court and Tribunal Lists",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/court-lists"
+    },
+    {
+      "text": "Contact us – NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/content/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "submit and download court documents and forms",
+      "url": "https://www.service.nsw.gov.au/referral/file-court-forms-and-documents"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:37Z",
+    "last_modified": "5 February 2025",
+    "html_sha1": "861e4c07859fabacf7a4465bb78537495f33b5dd",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

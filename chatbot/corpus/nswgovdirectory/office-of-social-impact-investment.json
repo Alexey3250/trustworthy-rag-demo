@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-social-impact-investment",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-social-impact-investment",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "office-of-social-impact-investment",
+  "title": "Office of Social Impact Investment",
+  "summary": "This page provides information about the Office of Social Impact Investment (OSII), detailing its role and related government departments.",
+  "topics": [
+    "social-impact",
+    "investment",
+    "government-departments",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/departments-and-agencies/osii",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/osii"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:40Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "a2f1f99460b4dd22d17a2e0067732feb80051e80",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

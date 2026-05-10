@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-vehicle-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-vehicle-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-dangerous-goods-vehicle-licence",
+  "title": "Apply for a dangerous goods vehicle licence",
+  "summary": "This page explains how to apply for a dangerous goods vehicle licence if your vehicle transports dangerous goods.",
+  "topics": [
+    "dangerous-goods",
+    "vehicle-licence",
+    "transport",
+    "nsw"
+  ],
+  "intro": "You need a dangerous goods vehicle licence if the vehicle is transporting dangerous goods:\n\nIntermediate bulk containers (IBCs) with a total capacity of up to 3,000 litres are exempt, as long as they are not filled or emptied while on the vehicle.\n\nExamples of vehicles are:\n\nPrime movers and converter dollies do not need a dangerous goods vehicle licence.\n\nA single licence is issued for each transport organisation, and details of each vehicle are included on the licence.\n\nThe licence is valid for one year and is recognised throughout Australia.\n\nYou can apply online via eConnect EPA.",
+  "who_can_apply": [
+    "The vehicle must be transporting dangerous goods.",
+    "The licence is issued for each transport organisation, and details of each vehicle are included on the licence."
+  ],
+  "what_you_need": [
+    "Vehicle details, such as its registration number.",
+    "The class(es) of dangerous goods to be transported.",
+    "Evidence of insurance cover with a minimum of $5 million for clean-up and emergency services costs.",
+    "A rear image of the vehicle showing the number plate and vehicle type.",
+    "For tank vehicles, a credit card for payment."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Register to start a new application' and follow the prompts to apply.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The vehicle transporting dangerous goods must be covered by a dangerous goods vehicle licence, and the driver must hold a dangerous goods driver licence.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Dangerous goods – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/dangerous-goods"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "dangerous goods driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-driver-licence"
+    },
+    {
+      "text": "Check a dangerous goods licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-dangerous-goods-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a dangerous goods vehicle licence?",
+      "a": "You need a licence if the vehicle is transporting dangerous goods. However, IBCs up to 3,000 litres are exempt if they are not filled or emptied while on the vehicle, and prime movers and converter dollies do not need a licence.",
+      "link": null
+    },
+    {
+      "q": "How long is the licence valid for?",
+      "a": "The licence is valid for one year and is recognised throughout Australia.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the licence?",
+      "a": "You can apply online via eConnect EPA by selecting the 'Apply online' button and then choosing 'Register to start a new application'.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:00Z",
+    "last_modified": "24 February 2025",
+    "html_sha1": "1c785915a7c51b0a7079acb0aaa72da8b71402e0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

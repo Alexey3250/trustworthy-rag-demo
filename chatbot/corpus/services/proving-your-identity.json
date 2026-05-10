@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/proving-your-identity",
+  "source_url": "https://www.service.nsw.gov.au/services/proving-your-identity",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "proving-your-identity",
+  "title": "Prove your identity",
+  "summary": "Find out how to prove your identity using various accepted documents and services.",
+  "topics": [
+    "prove-identity",
+    "identification",
+    "documents",
+    "nsw-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you need help proving your identity, contact us.",
+  "more_info": [
+    {
+      "text": "Lost identity documents",
+      "link": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "Identity theft and scams",
+      "link": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "text": "Document translation services",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Change of name",
+      "link": "https://www.service.nsw.gov.au/services/change-of-name"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "NSW driver or rider licences",
+      "url": "https://www.service.nsw.gov.au/services/driver-and-rider-licences"
+    },
+    {
+      "text": "Australian passports and visas",
+      "url": "https://www.service.nsw.gov.au/guide/australian-passports-and-visas"
+    },
+    {
+      "text": "Identity documents and face verification",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Document examples to prove your identity",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity/document-examples"
+    },
+    {
+      "text": "Lost identity documents",
+      "url": "https://www.service.nsw.gov.au/guide/replacing-lost-identification-licences-and-personal-documents"
+    },
+    {
+      "text": "Identity theft and scams",
+      "url": "https://www.service.nsw.gov.au/transaction/report-identity-theft-scams-or-cybercrime"
+    },
+    {
+      "text": "Document translation services",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-document-translation-services"
+    },
+    {
+      "text": "Change of name",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I prove my identity?",
+      "a": "You can prove your identity using various accepted documents and services.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I need help proving my identity?",
+      "a": "Contact Service NSW for assistance.",
+      "link": "https://www.service.nsw.gov.au/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:25Z",
+    "last_modified": "21 July 2025",
+    "html_sha1": "530573310fc139d7ebcf80e996b9e1fbb72c27f3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/art-gallery-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/art-gallery-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "art-gallery-of-nsw",
+  "title": "Art Gallery of NSW",
+  "summary": "This page provides information about the Art Gallery of NSW, including details on visiting, programs, and membership.",
+  "topics": [
+    "art-gallery",
+    "culture",
+    "museum",
+    "exhibitions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.artgallery.nsw.gov.au",
+      "url": "https://www.artgallery.nsw.gov.au"
+    },
+    {
+      "text": "Become a member",
+      "url": "https://www.artgallery.nsw.gov.au/members/become-a-member/"
+    },
+    {
+      "text": "What's on",
+      "url": "https://www.artgallery.nsw.gov.au/whats-on/exhibitions/"
+    },
+    {
+      "text": "Plan your visit",
+      "url": "https://www.artgallery.nsw.gov.au/visit-us/plan-your-visit/"
+    },
+    {
+      "text": "Learning programs",
+      "url": "https://www.artgallery.nsw.gov.au/learn/learning-programs/"
+    },
+    {
+      "text": "Gallery Shop",
+      "url": "https://shop.artgallery.nsw.gov.au/"
+    },
+    {
+      "text": "Venue hire",
+      "url": "https://www.artgallery.nsw.gov.au/visit/venue-hire/"
+    },
+    {
+      "text": "Contact the gallery",
+      "url": "https://www.artgallery.nsw.gov.au/about-us/contact-the-gallery/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about current exhibitions?",
+      "a": "You can find details about what is currently on at the gallery.",
+      "link": "https://www.artgallery.nsw.gov.au/whats-on/exhibitions/"
+    },
+    {
+      "q": "How can I plan my visit to the Art Gallery of NSW?",
+      "a": "The website provides information to help you plan your visit.",
+      "link": "https://www.artgallery.nsw.gov.au/visit-us/plan-your-visit/"
+    },
+    {
+      "q": "Do you offer learning programs?",
+      "a": "Yes, the gallery offers various learning programs.",
+      "link": "https://www.artgallery.nsw.gov.au/learn/learning-programs/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:32Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "10df0ac7ad9b0b7d65a3e16387ad22fa805ceb76",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

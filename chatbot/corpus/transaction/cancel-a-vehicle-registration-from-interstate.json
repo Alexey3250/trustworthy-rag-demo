@@ -1,0 +1,110 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate",
+  "source_url": "https://www.service.nsw.gov.au/transaction/cancel-a-vehicle-registration-from-interstate",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "cancel-a-vehicle-registration-from-interstate",
+  "title": "Cancel a vehicle registration from interstate",
+  "summary": "This page explains how to cancel a vehicle registration that is currently in NSW if you live in another state and apply for a refund of the unused motor vehicle tax.",
+  "topics": [
+    "cancel-registration",
+    "interstate",
+    "vehicle-tax",
+    "refund"
+  ],
+  "intro": "If you live interstate and your vehicle is registered in NSW, you can cancel your vehicle registration and apply for a refund of the unused portion of the motor vehicle tax.\n\nBefore you cancel your NSW vehicle registration, consider registering the vehicle and paying stamp duty in your state. Otherwise, you'll need to pay NSW stamp duty when cancelling the NSW registration.\n\nNote: Refunds can take 6 to 8 weeks to process.",
+  "who_can_apply": [
+    "Live interstate",
+    "Be the registered operator of the vehicle"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Request for refund of NSW registration'",
+    "A 'surrendered number plate' receipt from the interstate authority or the NSW number plates",
+    "Copies of your required documents"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Send the completed form, your 'surrendered number plate' receipt and other required documents to the email address on the form with the subject line 'Request for refund of NSW registration'.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Only the NSW motor vehicle tax is refundable. Other charges, such as the registration fee and number plate fee, are not refundable.",
+      "link": null
+    },
+    {
+      "text": "If you register your vehicle interstate under the same name as NSW, you'll incur a cancellation fee only.",
+      "link": null
+    },
+    {
+      "text": "If you register your vehicle interstate under a different name, you'll incur a transfer fee and cancellation fee.",
+      "link": null
+    },
+    {
+      "text": "Your cancellation and/or transfer fees will be deducted from your refund amount.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "proof of registration entitlement",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/basics/proof-of-registration-entitlement"
+    },
+    {
+      "text": "cancellation and/or transfer fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/vehicle-registration-fees"
+    },
+    {
+      "text": "Form 1565: Request for refund of NSW registration – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071541-request-for-refund.pdf"
+    },
+    {
+      "text": "Cancelling registration from interstate – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/transferring-or-cancelling-registration/cancelling-registration-from-interstate"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Cancel a vehicle registration within NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-vehicle-registration-within-nsw"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does it take to receive a refund?",
+      "a": "Refunds can take 6 to 8 weeks to process.",
+      "link": null
+    },
+    {
+      "q": "What should I do before cancelling my NSW registration?",
+      "a": "Before cancelling, consider registering the vehicle and paying stamp duty in your state. Otherwise, you will need to pay NSW stamp duty when cancelling.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:12Z",
+    "last_modified": "17 April 2026",
+    "html_sha1": "f7760289baef59acca5c205a6f78496747236683",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

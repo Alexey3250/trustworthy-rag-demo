@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-course",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-tafe-nsw-course",
+  "title": "Find a TAFE NSW course",
+  "summary": "Find information and options for the 1,200+ nationally recognised courses offered by TAFE NSW.",
+  "topics": [
+    "tafe-nsw",
+    "course-search",
+    "apprenticeships",
+    "qualifications"
+  ],
+  "intro": "TAFE NSW offers more than 1,200 courses, providing nationally recognised qualifications, certificates, diplomas, apprenticeships and bachelor degrees.\n\nTo find a TAFE NSW course, you can browse by course areas or use a search tool.\n\nYou can search by:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "browse by course areas",
+      "url": "https://www.tafensw.edu.au/course-areas"
+    },
+    {
+      "text": "use a search tool",
+      "url": "https://www.tafensw.edu.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a TAFE NSW campus",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-tafe-nsw-campus"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:33Z",
+    "last_modified": "22 January 2025",
+    "html_sha1": "7c529c405060b0f908299104710809706f1fb8eb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

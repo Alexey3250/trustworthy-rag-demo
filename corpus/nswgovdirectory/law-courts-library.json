@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/law-courts-library",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/law-courts-library",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "law-courts-library",
+  "title": "Law Courts Library",
+  "summary": "This page provides access to the Law Courts Library, a resource for legal information and research materials.",
+  "topics": [
+    "law-courts-library",
+    "legal-research",
+    "courts",
+    "justice"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://courts.nsw.gov.au/resources/law-courts-library.html",
+      "url": "https://courts.nsw.gov.au/resources/law-courts-library.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:06Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "e73610a74a4fb2b7d66f5dc6f97084d2caec8526",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-industries-csi",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-industries-csi",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "corrective-services-industries-csi",
+  "title": "Corrective Services Industries (CSI)",
+  "summary": "This page provides information about Corrective Services Industries (CSI) and related services in NSW.",
+  "topics": [
+    "corrective-services",
+    "nsw-department-of-justice",
+    "community-support"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.csi.nsw.gov.au/",
+      "url": "https://www.csi.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are Corrective Services Industries (CSI)?",
+      "a": "CSI is a service that provides support and rehabilitation for people involved with the justice system.",
+      "link": null
+    },
+    {
+      "q": "Who can access CSI services?",
+      "a": "CSI services are generally aimed at people who are involved with the justice system and require rehabilitation.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about CSI?",
+      "a": "You can visit the dedicated CSI website for detailed information and support.",
+      "link": "https://www.csi.nsw.gov.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:36Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f86f58a485a78d62f6248536e88210fdb7c65d00",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

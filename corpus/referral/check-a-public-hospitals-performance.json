@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-a-public-hospitals-performance",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-a-public-hospitals-performance",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-a-public-hospitals-performance",
+  "title": "Check a public hospital's performance",
+  "summary": "Use the Bureau of Health Information (BHI) online tool to check the performance of public hospitals in NSW.",
+  "topics": [
+    "hospital-performance",
+    "nsw-health",
+    "bhi",
+    "emergency-department"
+  ],
+  "intro": "The Bureau of Health Information (BHI) is an independent body reporting on the performance of the NSW health system.\n\nThe BHI provides an online tool to check the emergency department and elective surgery performance of more than 80 public hospitals in NSW.\n\nThe quarterly performance reports include:\n\nUse the BHI online tool to check NSW public hospital performance.\n\nRelated information:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Bureau of Health Information",
+      "url": "https://www.bhi.nsw.gov.au"
+    },
+    {
+      "text": "check NSW public hospital performance",
+      "url": "https://www.bhi.nsw.gov.au/search_local_hospital_performance"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find NSW public hospital parking, services and directions",
+      "url": "https://www.service.nsw.gov.au/transaction/find-nsw-hospital-parking-services-and-directions"
+    },
+    {
+      "text": "Check wait times for major NSW hospital emergency departments",
+      "url": "https://www.service.nsw.gov.au/referral/check-wait-times-for-major-nsw-hospital-emergency-departments"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:18Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "14c854b6c62395902ca7dcff8125fb8f6c797eaf",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

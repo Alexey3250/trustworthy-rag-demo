@@ -1,0 +1,120 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/check-vessel-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "check-vessel-registration",
+  "title": "Check a vessel registration",
+  "summary": "Check the registration details of a vessel that was previously or is currently registered in NSW.",
+  "topics": [
+    "vessel-registration",
+    "boating",
+    "nsw-service"
+  ],
+  "intro": "You can check a vessel’s registration details online. The free check includes:",
+  "who_can_apply": [
+    "Vessels previously or currently registered in NSW"
+  ],
+  "what_you_need": [
+    "The vessel’s NSW registration number"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the ‘Check online’ button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Enter the vessel’s NSW registration number, without any spaces or dots.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the ‘search’ icon.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Review the registration details.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you intend to buy a vessel from a private seller, you should visit the Personal Property Securities Register website to find out if there is any finance owing.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Personal Property Securities Register",
+      "url": "https://www.ppsr.gov.au/"
+    },
+    {
+      "text": "Boating Industry Association of NSW",
+      "url": "https://www.bia.org.au/"
+    },
+    {
+      "text": "Australian Maritime Safety Authority",
+      "url": "https://www.amsa.gov.au/"
+    },
+    {
+      "text": "Find a Boatcode agent – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/find-a-boatcode-agent"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-vessel-registration"
+    },
+    {
+      "text": "Renew or restore a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-restore-vessel-registration"
+    },
+    {
+      "text": "Replace a vessel's registration certificate",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-vessels-registration-certificate"
+    },
+    {
+      "text": "Change address and contact details (boat licence, vessel registration or other maritime licence records)",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-and-contact-details-boat-licence-vessel-registration-or-other-maritime-licence-records"
+    },
+    {
+      "text": "Change a vessel's details",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vessels-details"
+    },
+    {
+      "text": "Cancel a vessel registration",
+      "url": "https://www.service.nsw.gov.au/transaction/cancel-a-vessel-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can check a vessel's registration?",
+      "a": "The free check can only be run on vessels that were previously or are currently registered in NSW.",
+      "link": null
+    },
+    {
+      "q": "What information do I need to check the registration?",
+      "a": "You need the vessel’s NSW registration number.",
+      "link": null
+    },
+    {
+      "q": "How do I check a vessel's registration online?",
+      "a": "Select the ‘Check online’ button, enter the vessel’s NSW registration number (without spaces or dots), and select the ‘search’ icon.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:09Z",
+    "last_modified": "29 January 2026",
+    "html_sha1": "f4a4fcb0cc1f8cfdc9b934c6776e06447fac36b9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

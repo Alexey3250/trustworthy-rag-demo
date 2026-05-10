@@ -1,0 +1,74 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-garaging-address-individual",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-garaging-address-individual",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-your-garaging-address-individual",
+  "title": "Change the details of your garaging address (individual)",
+  "summary": "Learn how to notify Transport for NSW when your vehicle's garaging address changes.",
+  "topics": [
+    "garaging-address",
+    "vehicle-details",
+    "nsw-transport"
+  ],
+  "intro": "If your vehicle's garaging address details change – for example, if you start parking or garaging your vehicle overnight at a different or additional location – you need to let Transport for NSW know.\n\nThe new garaging address must be a street address in NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "your proof of identity",
+    "the PDF form – 'Change of Records'",
+    "your new garaging details"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and provide the information in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Form 1021: Change of Records – Transport for NSW – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Vehicle registration – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change address with NSW Government",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-with-nsw-government"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:18Z",
+    "last_modified": "10 March 2026",
+    "html_sha1": "d189185fa5fc89e8236147db66b10e53614dbc42",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

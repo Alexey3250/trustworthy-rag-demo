@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/clinical-excellence-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/clinical-excellence-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "clinical-excellence-commission",
+  "title": "Clinical Excellence Commission",
+  "summary": "This page provides information about the Clinical Excellence Commission, which is part of the Health NSW Ministry.",
+  "topics": [
+    "clinical-excellence",
+    "health-nsw",
+    "commission"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.cec.health.nsw.gov.au/",
+      "url": "https://www.cec.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Health, NSW Ministry of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/health-nsw-ministry-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:38Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0552a6d0112c108b2d0b53914c2d2f50acf6e65e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

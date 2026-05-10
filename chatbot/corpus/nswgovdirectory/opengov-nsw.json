@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/opengov-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/opengov-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "opengov-nsw",
+  "title": "OpenGov NSW",
+  "summary": "This page provides a directory of open government data and services from NSW.",
+  "topics": [
+    "government-data",
+    "nsw-services",
+    "open-data",
+    "directory"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.opengov.nsw.gov.au",
+      "url": "https://www.opengov.nsw.gov.au"
+    },
+    {
+      "text": "Agency Login",
+      "url": "https://sara.au.auth0.com/login?state=hKFo2SBsWlIzdzZBa3l4NDZwOWxOMzdIYW1FQjV1eXhtZUVfeqFupWxvZ2luo3RpZNkgSnVzcHlMU3ZhcWVTWGhDVkZWOUtCTWlGa211c2U3cVqjY2lk2SA1QWJTT0RvaXFLeEtHeTd5YlVKMlFOZW5CU3BmNlV6bw&client=5AbSODoiqKxKGy7ybUJ2QNenBSpf6Uzo&protocol=samlp"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "State Records NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/state-records-nsw"
+    },
+    {
+      "text": "Creative Industries, Tourism, Hospitality and Sport, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/creative-industries-tourism-hospitality-and-sport-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:17Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "b4195c9b6dbc0179c06e46e95715c75ffebf2275",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

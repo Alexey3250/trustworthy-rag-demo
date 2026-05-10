@@ -1,0 +1,53 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-vehicle-access-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-tow-truck-vehicle-access-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-tow-truck-vehicle-access-permit",
+  "title": "Apply for a tow truck vehicle access permit",
+  "summary": "Find out how to apply for a tow truck vehicle access permit if your vehicle exceeds standard mass or dimension limits.",
+  "topics": [
+    "tow-truck",
+    "vehicle-permit",
+    "access-permit",
+    "heavy-vehicle"
+  ],
+  "intro": "General mass and dimension limits apply to all heavy vehicles. If your tow truck doesn't comply with these prescribed mass or dimension requirements, you'll need to apply for an access permit through the National Heavy Vehicle Regulator (NHVR).\n\nThe NHVR permit applies to travel throughout Australia, with the exception of Western Australia and the Northern Territory, where you'll need to apply directly to the relevant state or territory road transport authority.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Visit the National Heavy Vehicle Regulator (NHVR) website to apply, amend, cancel or replace a tow truck permit.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Go to the NHVR website",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "Go to the NHVR website",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/tow-truck-permit"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:01Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "4bc6f0960f66d9b07f0b873a996a52704c61215c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

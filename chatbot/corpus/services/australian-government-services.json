@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/australian-government-services",
+  "source_url": "https://www.service.nsw.gov.au/services/australian-government-services",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "australian-government-services",
+  "title": "Australian Government services",
+  "summary": "This page provides links and information about various Australian Government services available to NSW residents.",
+  "topics": [
+    "australian-government-services",
+    "medicare",
+    "centrelink",
+    "health-care-card",
+    "mygov"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Medicare in Australia",
+      "url": "https://www.service.nsw.gov.au/guide/medicare-in-australia"
+    },
+    {
+      "text": "Centrelink payments",
+      "url": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment"
+    },
+    {
+      "text": "myGov",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-mygov-account"
+    },
+    {
+      "text": "Replace a Health Care Card",
+      "url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-health-care-card"
+    },
+    {
+      "text": "Replace a Pensioner Concession Card",
+      "url": "https://www.service.nsw.gov.au/referral/replace-a-lost-stolen-or-damaged-pensioner-concession-card"
+    },
+    {
+      "text": "Set up a My Health Record online",
+      "url": "https://www.service.nsw.gov.au/referral/set-up-a-my-health-record-online"
+    },
+    {
+      "text": "Applying for a Commonwealth Seniors Health Card",
+      "url": "https://www.service.nsw.gov.au/referral/applying-for-a-commonwealth-seniors-health-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about Medicare in Australia?",
+      "a": "You can find information about Medicare in Australia at the Medicare in Australia page.",
+      "link": "https://www.service.nsw.gov.au/guide/medicare-in-australia"
+    },
+    {
+      "q": "How can I manage my Centrelink payments?",
+      "a": "You can get or manage your Centrelink payments through the Centrelink payments page.",
+      "link": "https://www.service.nsw.gov.au/transaction/get-or-manage-your-centrelink-payment"
+    },
+    {
+      "q": "How do I access my myGov account?",
+      "a": "You can access your myGov account using the myGov page.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-your-mygov-account"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:59Z",
+    "last_modified": "21 January 2025",
+    "html_sha1": "5cf3b070059f23130070a5bca570608b8fb30106",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

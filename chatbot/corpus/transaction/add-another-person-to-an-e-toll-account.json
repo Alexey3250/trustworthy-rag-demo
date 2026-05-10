@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/add-another-person-to-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/add-another-person-to-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "add-another-person-to-an-e-toll-account",
+  "title": "Add another person to an E-Toll Account",
+  "summary": "Learn how to give other people access to your Transport for NSW E-Toll Account.",
+  "topics": [
+    "e-toll-account",
+    "transport-for-nsw",
+    "account-access",
+    "additional-contact"
+  ],
+  "intro": "You can arrange for other people to have access to your Transport for NSW E-Toll Account:\n\nThe additional contacts:",
+  "who_can_apply": [
+    "You must be the account holder."
+  ],
+  "what_you_need": [
+    "Your account details",
+    "The contact details of the person you want to add (you must have their permission)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "raise an enquiry in your E-Toll Account",
+      "link": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "n": 2,
+      "text": "call 13 18 65",
+      "link": "tel:131865"
+    },
+    {
+      "n": 3,
+      "text": "visit a Service NSW Centre with your supporting documents.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "your E-Toll Account",
+      "url": "https://account.myetoll.transport.nsw.gov.au/login"
+    },
+    {
+      "text": "myE-Toll website",
+      "url": "https://www.myetoll.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "open your E-Toll Account online",
+      "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account"
+    },
+    {
+      "text": "Manage an additional contact on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-an-additional-contact-on-an-e-toll-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can add another person to an E-Toll Account?",
+      "a": "You must be the account holder.",
+      "link": null
+    },
+    {
+      "q": "What do I need to add another person to my E-Toll Account?",
+      "a": "You need your account details and the contact details of the person you want to add. You must also have their permission.",
+      "link": null
+    },
+    {
+      "q": "How can I add another person to my E-Toll Account?",
+      "a": "You can raise an enquiry in your E-Toll Account, call 13 18 65, or visit a Service NSW Centre with your supporting documents.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:16Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "264c028adc3ca5b21323ad4c12f2cb51a34aac7b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

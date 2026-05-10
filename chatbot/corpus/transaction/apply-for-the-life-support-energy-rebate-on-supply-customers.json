@@ -1,0 +1,155 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-on-supply-customers",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-on-supply-customers",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-life-support-energy-rebate-on-supply-customers",
+  "title": "Apply for the NSW Life Support Energy Rebate (on-supply customers)",
+  "summary": "Find out if you can apply for the NSW Life Support Energy Rebate if you are an on-supply customer who needs to use approved life support equipment at home.",
+  "topics": [
+    "energy-rebate",
+    "life-support",
+    "nsw-electricity",
+    "on-supply-customer"
+  ],
+  "intro": "The NSW Life Support Rebate helps pay electricity bills for people who need, or have someone living with them who needs, to use approved energy-intensive life support equipment at home (such as home dialysis, ventilators and oxygen concentrators).\n\nThe NSW Life Support Energy Rebate is up to $1,477.52 per embedded network (on-supply) household, per financial year, depending on the equipment type.\n\nIf you live in an embedded network (on-supply), you can apply for the rebate below.\n\nIf you are a retail (on-market) customer, you need to contact your electricity retailer to apply.\n\nNote: Embedded network (on-supply) means your electricity is supplied by an embedded network – such as in a residential community, retirement village or strata scheme – and you receive your electricity bill or invoice from the strata manager or community/village operator. If you’re not sure whether you're an on-supply customer, contact the electricity provider named on your electricity bill.",
+  "who_can_apply": [
+    "You must have an electricity account for your home in NSW.",
+    "You must be the account holder (the account and bill must be in your name).",
+    "You or someone living with you must have been assessed by a registered medical practitioner to verify that the use of the approved life support equipment is required at their principal place of residence.",
+    "The application is for embedded network (on-supply) customers."
+  ],
+  "what_you_need": [
+    "The completed NSW Life Support Rebate Medical Declaration form.",
+    "Your medical practitioner to complete and sign the medical declaration in the form.",
+    "A printed invoice (not hand-written) copy of your latest electricity bill which must have your bank account details (to receive your rebate)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Download and complete the 'applicant' and 'patient' section in the NSW Life Support Rebate Medical Declaration – PDF.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/NSWP-and-E-LSR-Attachment-A-Medical-Declaration.pdf?2"
+    },
+    {
+      "n": 3,
+      "text": "Ask your medical practitioner (GP or specialist) to complete and sign the medical declaration section in the NSW Life Support Rebate form.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/life-support-rebate-on-supply-application-form.pdf?2"
+    },
+    {
+      "n": 4,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the NSW Life Support Rebate Application Form On-Supply Household – PDF.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/life-support-rebate-on-supply-application-form.pdf?2"
+    },
+    {
+      "n": 6,
+      "text": "‘Download and complete the 'applicant' and 'patient' section in the NSW Life Support Rebate Medical Declaration – PDF.",
+      "link": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/NSWP-and-E-MER-Attachment-A-Medical-Declaration.pdf?2"
+    },
+    {
+      "n": 7,
+      "text": "Ask your medical practitioner (GP or specialist) to complete and sign the relevant sections of the NSW Life Support Rebate Application On-Supply Household form and the NSW Life Support Rebate Medical Declaration.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "Attach a copy of your most recent electricity bill.",
+      "link": null
+    },
+    {
+      "n": 9,
+      "text": "Post your application to NSW Life Support Rebate, PO Box 435, Parramatta NSW 2124.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You'll need to reapply for this rebate every year and provide the NSW Life Support Rebate Medical Declaration every 4 years.",
+      "link": null
+    },
+    {
+      "text": "Some machines have a part-time and full-time (24 hour a day) rate rebate. Your doctor will need to indicate on the form the rate you use the equipment.",
+      "link": null
+    },
+    {
+      "text": "You can receive more than one rebate if your doctor has prescribed more than one type of machine, such as an oxygen concentrator and a ventilator.",
+      "link": null
+    },
+    {
+      "text": "If more than one person uses the approved equipment, you can receive multiple rebates, but you need to submit a separate application form for each patient.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Life Support Rebate Medical Declaration – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/NSWP-and-E-LSR-Attachment-A-Medical-Declaration.pdf?2"
+    },
+    {
+      "text": "NSW Life Support Rebate form",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/life-support-rebate-on-supply-application-form.pdf?2"
+    },
+    {
+      "text": "NSW Life Support Rebate Medical Declaration – PDF",
+      "url": "https://www.energy.nsw.gov.au/sites/default/files/2022-09/NSWP-and-E-MER-Attachment-A-Medical-Declaration.pdf?2"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "contact your electricity retailer to apply",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-life-support-energy-rebate-retail-customers"
+    },
+    {
+      "text": "Apply for the NSW Medical Energy Rebate (on supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-medical-energy-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Low Income Household Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-low-income-household-rebate-on-supply-customers"
+    },
+    {
+      "text": "Apply for the NSW Gas Rebate (on-supply and bottled gas customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-gas-rebate-on-supply-and-bottled-gas-customers"
+    },
+    {
+      "text": "Apply for the NSW Family Energy Rebate (on-supply customers)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-family-energy-rebate-on-supply-customers"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who is eligible for the NSW Life Support Energy Rebate?",
+      "a": "You must have an electricity account for your home in NSW, be the account holder, and either you or someone living with you must have been assessed by a registered medical practitioner to verify the need for approved life support equipment at your principal place of residence.",
+      "link": null
+    },
+    {
+      "q": "What is an embedded network (on-supply) customer?",
+      "a": "This means your electricity is supplied by an embedded network (such as in a residential community, retirement village, or strata scheme), and you receive your bill from the strata manager or community/village operator.",
+      "link": null
+    },
+    {
+      "q": "How much is the NSW Life Support Energy Rebate?",
+      "a": "The rebate is up to $1,477.52 per embedded network (on-supply) household, per financial year, depending on the equipment type.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:55Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "3142e1851efa5b3d977aaaf2ffa9c94d4d6217f5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

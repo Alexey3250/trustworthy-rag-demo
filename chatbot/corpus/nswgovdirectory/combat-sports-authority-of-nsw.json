@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/combat-sports-authority-of-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/combat-sports-authority-of-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "combat-sports-authority-of-nsw",
+  "title": "Combat Sports Authority of NSW",
+  "summary": "This page provides information about the Combat Sports Authority of NSW.",
+  "topics": [
+    "combat-sports",
+    "nsw",
+    "sport"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.sport.nsw.gov.au/combatsports",
+      "url": "https://www.sport.nsw.gov.au/combatsports"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Office of Sport, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-of-sport-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:35Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "62bb23d7744c2d12e1ec5518a073f74dd074f098",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

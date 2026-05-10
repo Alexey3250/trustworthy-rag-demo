@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-international-paintball-competitor-permit",
+  "title": "Apply for an international paintball competitor permit",
+  "summary": "Use this page to apply for an international paintball competitor permit to bring a paintball marker into NSW from overseas.",
+  "topics": [
+    "paintball",
+    "permit",
+    "international",
+    "nsw"
+  ],
+  "intro": "You need an international paintball competitor permit to bring a paintball marker (paintball gun) into NSW from overseas.\n\nThe permit is valid for one year.",
+  "who_can_apply": [
+    "Be aged 18 or over",
+    "Pass a 'fit and proper' person assessment",
+    "Live outside Australia"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Application for a paintball marker permit'",
+    "The PDF form: 'Paintball permit additional details form' (if applicable)",
+    "Your contact details",
+    "Your passport details",
+    "Details of the NSW competition you will be competing in",
+    "Payment for the fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your payment online and enter the receipt number on the application form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Download and complete the Paintball permit additional details form – PDF if applicable.",
+      "link": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb006.pdf"
+    },
+    {
+      "n": 5,
+      "text": "Email the form and supporting documents using the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "Paintball permit additional details form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/pb006.pdf"
+    },
+    {
+      "text": "Running a paintball business requirements in NSW – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Replace a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long is the international paintball competitor permit valid for?",
+      "a": "The permit is valid for one year.",
+      "link": null
+    },
+    {
+      "q": "What are the requirements to apply for the permit?",
+      "a": "You must be aged 18 or over, pass a 'fit and proper' person assessment, and live outside Australia.",
+      "link": null
+    },
+    {
+      "q": "How can I pay the fee for the permit?",
+      "a": "Payment methods include Paypal, or a credit or debit card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:47Z",
+    "last_modified": "25 March 2026",
+    "html_sha1": "f577971657a86bb6e9fc7ec2a54943408c91d6af",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

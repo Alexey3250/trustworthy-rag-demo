@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances",
+  "source_url": "https://www.service.nsw.gov.au/transaction/prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "prepare-a-security-plan-for-storing-explosives-and-or-security-sensitive-dangerous-substances",
+  "title": "Prepare a security plan for storing explosives and/or security sensitive dangerous substances",
+  "summary": "Learn about the requirements and process for preparing a security plan when storing explosives or security sensitive dangerous substances.",
+  "topics": [
+    "explosives",
+    "security-plan",
+    "dangerous-substances",
+    "safework-nsw"
+  ],
+  "intro": "You need a security plan if you apply for a SafeWork NSW licence that includes storing explosives or security sensitive dangerous substances (SSDS), such as a licence to:\n\nIf the explosives or SSDS are stored at more than one site, a separate security plan must be prepared and submitted for each site.\n\nSafeWork NSW inspectors will inspect sites to confirm the details in your security plan. They will notify you of the date of the inspection. SafeWork NSW inspectors also conduct random on-site process checks.",
+  "who_can_apply": [
+    "Applying for a SafeWork NSW licence that includes storing explosives or security sensitive dangerous substances (SSDS)."
+  ],
+  "what_you_need": [
+    "The PDF form: Security plan for storage and handling of explosives and/or security sensitive dangerous substances",
+    "Storage information for each site, including a security risk assessment and supply and stock details."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit the form with your licence application (if applicable) and keep a copy for your inspection.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Explosives and fireworks licences – SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/licences-and-registrations/licences/explosives-and-fireworks-licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a licence to transport explosives or security sensitive dangerous substances",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-licence-to-transport-explosives-or-security-sensitive-dangerous-substances"
+    },
+    {
+      "text": "Apply for a dangerous goods driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-driver-licence"
+    },
+    {
+      "text": "Apply for a dangerous goods vehicle licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-dangerous-goods-vehicle-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do I need a security plan?",
+      "a": "You need a security plan if you apply for a SafeWork NSW licence that includes storing explosives or security sensitive dangerous substances (SSDS).",
+      "link": null
+    },
+    {
+      "q": "Do I need a separate security plan if I store substances at multiple sites?",
+      "a": "Yes, if the explosives or SSDS are stored at more than one site, a separate security plan must be prepared and submitted for each site.",
+      "link": null
+    },
+    {
+      "q": "What happens after I submit my security plan?",
+      "a": "SafeWork NSW inspectors will inspect sites to confirm the details in your security plan and may also conduct random on-site process checks. They will notify you of the inspection date.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:01Z",
+    "last_modified": "6 August 2025",
+    "html_sha1": "8a17ae02236248c8554c7db4e5cac712117238c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

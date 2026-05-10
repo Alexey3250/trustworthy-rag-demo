@@ -1,0 +1,46 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-plantation-forestry",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/dpi-plantation-forestry",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "dpi-plantation-forestry",
+  "title": "DPI Plantation forestry",
+  "summary": "This page provides information about plantation forestry services offered by the Department of Primary Industries.",
+  "topics": [
+    "plantation-forestry",
+    "forestry",
+    "primary-industries"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.dpi.nsw.gov.au/forestry/forestry-operations/plantation-forestry",
+      "url": "https://www.dpi.nsw.gov.au/forestry/forestry-operations/plantation-forestry"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Primary Industries, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-department-of"
+    },
+    {
+      "text": "Primary Industries and Regional Development, Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/primary-industries-and-regional-development-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:50Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "864550b6b1179b1d4ae2d76912f4bad8e431a0e6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

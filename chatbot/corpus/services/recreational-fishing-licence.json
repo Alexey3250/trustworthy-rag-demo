@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/recreational-fishing-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/recreational-fishing-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "recreational-fishing-licence",
+  "title": "Recreational fishing licence",
+  "summary": "This page provides information and links for applying for, renewing, or managing a recreational fishing licence in NSW.",
+  "topics": [
+    "fishing-licence",
+    "recreational-fishing",
+    "nsw-service",
+    "licence-management"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a recreational fishing licence (3-day or 1-month)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-3-day-or-1-month"
+    },
+    {
+      "text": "Apply for a recreational fishing licence (1-year or 3-year)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Renew a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Replace a lost, damaged or stolen licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "text": "Change the contact details on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-contact-details-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Change the name on a recreational fishing licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-name-on-a-recreational-fishing-licence"
+    },
+    {
+      "text": "Apply to be an accredited fishing licence agent",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-an-accredited-fishing-licence-agent"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I apply for a recreational fishing licence?",
+      "a": "You can apply for a licence for different durations, including 3-day or 1-month, or 1-year or 3-year.",
+      "link": null
+    },
+    {
+      "q": "How do I renew my recreational fishing licence?",
+      "a": "You can renew your licence using the dedicated renewal service.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-recreational-fishing-licence"
+    },
+    {
+      "q": "What should I do if my licence is lost, damaged, or stolen?",
+      "a": "You can replace a lost, damaged, or stolen licence using the replacement service.",
+      "link": "https://www.service.nsw.gov.au/transaction/replace-a-recreational-fishing-licence-1-year-or-3-year"
+    },
+    {
+      "q": "How can I change details on my licence?",
+      "a": "You can change your contact details or change the name associated with your licence.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:35Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "3c0f33e388ae5c882f57de718875348f6327b456",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

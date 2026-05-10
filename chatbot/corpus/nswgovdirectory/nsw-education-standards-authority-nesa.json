@@ -1,0 +1,88 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-education-standards-authority-nesa",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-education-standards-authority-nesa",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-education-standards-authority-nesa",
+  "title": "NSW Education Standards Authority (NESA)",
+  "summary": "This page provides information about the NSW Education Standards Authority (NESA), which is involved in education standards and curriculum.",
+  "topics": [
+    "education",
+    "nswa",
+    "curriculum",
+    "standards",
+    "schools"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.nsw.gov.au/education-and-training/nesa",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa"
+    },
+    {
+      "text": "NESA News – NSW Education Standards Authority",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/news"
+    },
+    {
+      "text": "NSW Curriculum structure – Department of Education",
+      "url": "https://curriculum.nsw.edu.au/use-the-curriculum/learn-about-nsw-curriculum/curriculum-structure"
+    },
+    {
+      "text": "Students Online",
+      "url": "https://studentsonline.nesa.nsw.edu.au/"
+    },
+    {
+      "text": "Schools Online – Login",
+      "url": "https://bosho.boardofstudies.nsw.edu.au/links/schoolsonline.html"
+    },
+    {
+      "text": "Get accredited – NSW Education Standards Authority",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/teacher-accreditation/get-accredited"
+    },
+    {
+      "text": "List of registered non-government schools – Department of Education",
+      "url": "https://www.nsw.gov.au/education-and-training/nesa/registration-and-compliance/non-government-schools/registered-schools"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Australian Music Examination Board (NSW)",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/australian-music-examination-board-nsw"
+    },
+    {
+      "text": "Education, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/education-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about NESA?",
+      "a": "You can find more information about NESA at the NSW Government website.",
+      "link": "https://www.nsw.gov.au/education-and-training/nesa"
+    },
+    {
+      "q": "What is the NSW Curriculum structure?",
+      "a": "The NSW Curriculum structure can be learned about on the Department of Education website.",
+      "link": "https://curriculum.nsw.edu.au/use-the-curriculum/learn-about-nsw-curriculum/curriculum-structure"
+    },
+    {
+      "q": "How do students access online services?",
+      "a": "Students can use the Students Online portal.",
+      "link": "https://studentsonline.nesa.nsw.edu.au/"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:59Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "5b70c2660af957a329ae0f64a150f6b0d0374b12",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

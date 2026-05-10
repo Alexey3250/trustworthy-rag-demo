@@ -1,0 +1,132 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-with-an-interlock-condition",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-with-an-interlock-condition",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-driver-licence-with-an-interlock-condition",
+  "title": "Apply for a driver licence with an interlock condition",
+  "summary": "Learn how to apply for a NSW driver licence that includes an interlock condition if you have been ordered to participate in the Alcohol Interlock Program.",
+  "topics": [
+    "driver-licence",
+    "interlock-condition",
+    "alcohol-interlock-program",
+    "service-nsw"
+  ],
+  "intro": "If you've been given an order to participate in the Alcohol Interlock Program, you must be issued a NSW licence with an interlock condition. You need to visit a Service NSW Centre to apply for the licence.\n\nYou can do this once you:",
+  "who_can_apply": [
+    "You must have been given an order to participate in the Alcohol Interlock Program."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Payment for any licence and program fees (concessions and financial assistance are available)",
+    "Concession card (if applicable)",
+    "Passing any knowledge or practical tests, including an eyesight test, required for the type of licence",
+    "Completed PDF forms"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download and complete the required forms.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Make sure you have all your documentation, including proof of identity and proof of concession (if applicable).",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Visit a service centre and submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You cannot apply for a learner rider licence if you're subject to an interlock order.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "interlock device installed on your vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/alcohol-interlock-program#toc-participating-in-the-program"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "program fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/alcohol-interlock-program#toc-program-fees"
+    },
+    {
+      "text": "Licence Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "Interlock Driver Licence Statement and Privacy Declaration",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071887-interlock-driver-licence-statement-declaration.pdf"
+    },
+    {
+      "text": "Interlock Installation Certificate",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071886-interlock-installation-certificate.pdf"
+    },
+    {
+      "text": "Medical Consultation Certificate",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071885-interlock-medical-consultation-certificate.pdf"
+    },
+    {
+      "text": "Alcohol Interlock Program Participant Guide – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/noindex/2025-04/alcohol-interlock-program-participant-guide-april-2025.pdf"
+    },
+    {
+      "text": "Alcohol limits, drugs and medicines – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/roads-safety-and-rules/safe-driving/alcohol-and-drugs"
+    },
+    {
+      "text": "Alcohol Interlock Program – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/demerits-penalties-and-offences/offences/alcohol-and-drug-offences/alcohol-interlock-program"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Visit a service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for a driver licence without an interlock condition",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driver-licence-without-an-interlock-condition"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where do I apply for a licence with an interlock condition?",
+      "a": "You must visit a Service NSW Centre to apply for the licence.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "q": "What do I need to apply for the licence?",
+      "a": "You need your proof of identity, payment for any licence and program fees, your concession card (if applicable), and to pass any required knowledge, practical, and eyesight tests.",
+      "link": null
+    },
+    {
+      "q": "What are the steps to apply for the licence?",
+      "a": "First, download and complete the required forms. Next, gather all your documentation, including proof of identity and proof of concession. Finally, visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:15Z",
+    "last_modified": "25 September 2025",
+    "html_sha1": "7bc797ccc481b2fd5c77ca2b0d86c012a67bfcee",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

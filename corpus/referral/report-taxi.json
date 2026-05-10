@@ -1,0 +1,57 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/report-taxi",
+  "source_url": "https://www.service.nsw.gov.au/referral/report-taxi",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "report-taxi",
+  "title": "Report a taxi",
+  "summary": "You can report an unsatisfactory experience when booking or travelling by taxi.",
+  "topics": [
+    "report-taxi",
+    "taxi-complaints",
+    "feedback"
+  ],
+  "intro": "If you are unhappy with an experience when booking or travelling by taxi you can share your feedback by making a report.\n\nYou should provide feedback through the Taxi fare complaints form if your taxi driver:\n\nWhen you make a report, you should include as much information about the experience as possible, including:",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "If you want to talk to someone about your report, you can phone the Point to Point Transport Commission Industry Contact Centre on 131 727.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Taxi fare complaints form",
+      "url": "https://www.pointtopoint.nsw.gov.au/what-a-service-provider/find-a-service-provider/taxi-service-providers/taxi-fare-hotline/contact"
+    },
+    {
+      "text": "Point to Point Transport Commission Industry",
+      "url": "https://www.pointtopoint.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "How can I report an issue with a taxi?",
+      "a": "You should provide feedback through the Taxi fare complaints form.",
+      "link": "https://www.pointtopoint.nsw.gov.au/what-a-service-provider/find-a-service-provider/taxi-service-providers/taxi-fare-hotline/contact"
+    },
+    {
+      "q": "What information should I include when making a report?",
+      "a": "You should include as much information about the experience as possible.",
+      "link": null
+    },
+    {
+      "q": "Who can I talk to about my report?",
+      "a": "You can phone the Point to Point Transport Commission Industry Contact Centre on 131 727.",
+      "link": "https://www.pointtopoint.nsw.gov.au/contact-us"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:20Z",
+    "last_modified": "8 September 2025",
+    "html_sha1": "6e668e820531c28c205a365a79876b526a666bef",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

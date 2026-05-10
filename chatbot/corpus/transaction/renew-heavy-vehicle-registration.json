@@ -1,0 +1,135 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-heavy-vehicle-registration",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-heavy-vehicle-registration",
+  "title": "Renew a heavy vehicle registration",
+  "summary": "This page provides information on how to renew a heavy vehicle registration online.",
+  "topics": [
+    "heavy-vehicle-registration",
+    "renewal",
+    "inspection",
+    "transport-for-nsw"
+  ],
+  "intro": "When your heavy vehicle registration is due for renewal, you will be sent a renewal notice. This notice will tell you what is required for your vehicle to meet the renewal requirements.\n\nMost vehicles will require an inspection. You should schedule the inspection and renewal dates keeping in mind:\n\nYour certificate of registration will state whether the vehicle needs a HVAIS or HVIS inspection.\n\nYou can renew a heavy vehicle registration online.",
+  "who_can_apply": [
+    "The heavy vehicle must meet all requirements of either the HVIS or the HVAIS to be eligible for registration renewal. The specific scheme depends on the vehicle type."
+  ],
+  "what_you_need": [
+    "The vehicle's plate number or the billing number",
+    "A compulsory third party (CTP) insurance policy (green slip), which your insurer usually sends electronically to Transport for NSW (TfNSW)",
+    "HVIS or HVAIS inspection report results (these are usually forwarded directly to TfNSW)",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to renew the vehicle registration.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Keep a copy of the receipt for your records.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "A 3-month or 6-month registration term is available for trailers and heavy vehicles over 4.5 tonnes Gross Vehicle Mass.",
+      "link": null
+    },
+    {
+      "text": "Renewal notices are sent out 4-6 weeks prior to the renewal due date.",
+      "link": null
+    },
+    {
+      "text": "You can renew your registration online up to 3 months before it expires, but you will need to have a renewal notice to do so (unless you’re renewing a conditional registration). A renewal notice can be generated up to 3 months earlier, by calling 13 77 88 or visiting a service centre.",
+      "link": "tel:137788"
+    },
+    {
+      "text": "You can also renew your registration online up to 3 months after the expiry date. The new registration period will start from the date you make the payment, however the expiry date remains the same – you will not get a full year of registration.",
+      "link": null
+    },
+    {
+      "text": "If you do not renew the registration by the expiry date, your vehicle is unregistered. Driving an unregistered vehicle is illegal and carries heavy penalties, and can mean your vehicle is not covered by CTP insurance.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles"
+    },
+    {
+      "text": "Seasonal registration cannot be renewed online. Seasonal registration can only be renewed at a service centre, by mail or by calling 13 77 88.",
+      "link": "tel:137788"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/fees-concessions-and-forms/heavy-vehicle-registration-costs"
+    },
+    {
+      "text": "unregistered vehicle",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/unregistered-vehicles"
+    },
+    {
+      "text": "Inspections for heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/registering-a-heavy-vehicle-4"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "using BPAY to pay for your vehicle registration renewal",
+      "url": "https://www.service.nsw.gov.au/common-questions/using-bpay-to-renew-a-vehicle-registration"
+    },
+    {
+      "text": "Book a heavy vehicle inspection",
+      "url": "https://www.service.nsw.gov.au/transaction/book-heavy-vehicle-inspection"
+    },
+    {
+      "text": "Renew the registration on a public passenger vehicle or heavy vehicle (without an HVIS inspection)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-the-registration-on-a-public-passenger-vehicle-or-heavy-vehicle-without-an-hvis-inspection"
+    },
+    {
+      "text": "Apply for a heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-heavy-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens when my heavy vehicle registration is due for renewal?",
+      "a": "You will receive a renewal notice that details what is required for your vehicle to meet the renewal requirements.",
+      "link": null
+    },
+    {
+      "q": "Do all heavy vehicles require an inspection for renewal?",
+      "a": "Most vehicles will require an inspection. Your certificate of registration will state whether the vehicle needs an HVAIS or HVIS inspection.",
+      "link": null
+    },
+    {
+      "q": "How can I renew my heavy vehicle registration?",
+      "a": "You can renew a heavy vehicle registration online by selecting the 'Renew online' button and following the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:53Z",
+    "last_modified": "19 February 2026",
+    "html_sha1": "2f7f443e8b7fc3245321cea073f174b0ab1df8a6",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-personally-imported-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-to-register-a-personally-imported-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-to-register-a-personally-imported-vehicle",
+  "title": "Apply to register a personally imported vehicle",
+  "summary": "This page outlines the process for applying to register a personally imported vehicle after it has cleared customs.",
+  "topics": [
+    "vehicle-registration",
+    "personally-imported-vehicle",
+    "auvis",
+    "service-nsw"
+  ],
+  "intro": "When your personally imported vehicle has cleared customs, you need to drive it directly to a weighbridge (if it's a make and model not normally available in Australia), and/or an Authorised Unregistered Vehicle Inspection Scheme (AUVIS) station.\n\nRegistration is exempt on this journey, as long as you don't break the journey, or take the vehicle home (unless it's being transported on a trailer).\n\nThe AUVIS examiner will:\n\nDepending on the type of import approval you obtained, you may be required to attach an import plate to the vehicle. If so, attach it in accordance with the instructions supplied.\n\nThe vehicle then needs to be re-inspected at the AUVIS station, before you can apply to register it.",
+  "who_can_apply": [
+    "The vehicle must be personally imported and have cleared customs.",
+    "The vehicle must be re-inspected at the AUVIS station before registration can be applied for."
+  ],
+  "what_you_need": [
+    "VIA documentation",
+    "Proof of entitlement to register the vehicle (bill of sale or overseas registration certificate, if applicable)",
+    "Proof of identity documents",
+    "AUVIS inspection report",
+    "Compulsory third party (CTP) insurance receipt (green slip) with the number plate section left blank (except for trailers and caravans)",
+    "Vehicle Safety Compliance Certification Scheme (VSCCS) compliance certificate (if applicable)",
+    "Vehicle Identity & Inspections Unit (VIIU) report (if applicable)",
+    "Business or organisation details (if applicable)",
+    "Representative's authority (if being registered in the name of an organisation)",
+    "The PDF form – 'Application for Registration'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Take the completed form and required documents to a Service NSW Centre and lodge your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "5 tonnes tare mass or more",
+      "link": null
+    },
+    {
+      "text": "fitted with power-operated brakes",
+      "link": null
+    },
+    {
+      "text": "a trailer 2 tonnes GTM or more, or fitted with break-away brakes",
+      "link": null
+    },
+    {
+      "text": "a bus 2.5 tonnes tare mass or over",
+      "link": null
+    },
+    {
+      "text": "a prime-mover.",
+      "link": null
+    },
+    {
+      "text": "You'll need to obtain your initial inspection reports from a Heavy Vehicle Inspection Scheme (HVAIS) station rather than an AUVIS station, if your personally imported vehicle is any of the following:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "type of import approval",
+      "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/rvs/vehicle-type-approvals"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Form 1009: Application for Registration (TfNSW) – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070093-registration.pdf"
+    },
+    {
+      "text": "Vehicle standards information – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-07/vsi-04-registration-imported-vehicles.pdf"
+    },
+    {
+      "text": "Registering an imported vehicle – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/imported-vehicles"
+    },
+    {
+      "text": "Find a safety inspection provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/renewing-vehicle-registration/safety-checks-and-vehicle-inspections/find-a-safety-inspection-provider"
+    },
+    {
+      "text": "Importing a road vehicle into Australia",
+      "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/vehicles/importing-road-vehicle-australia"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Vehicle Safety Compliance Certification Scheme (VSCCS)",
+      "url": "https://www.service.nsw.gov.au/transaction/find-a-vehicle-safety-compliance-certification-scheme-vsccs-licensed-certifier"
+    },
+    {
+      "text": "Vehicle Identity & Inspections Unit (VIIU)",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-inspection-with-the-vehicle-identity-inspections-unit"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Apply for registration under the automotive workshop scheme (RAWS)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-under-the-automotive-workshop-scheme-raws"
+    },
+    {
+      "text": "Register a brand new vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/register-a-brand-new-vehicle"
+    },
+    {
+      "text": "Opt in to Digital Vehicle Registration",
+      "url": "https://www.service.nsw.gov.au/transaction/digital-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens after my personally imported vehicle clears customs?",
+      "a": "You must drive the vehicle directly to a weighbridge (if it is a make and model not normally available in Australia) and/or an Authorised Unregistered Vehicle Inspection Scheme (AUVIS) station. Registration is exempt during this journey, provided you do not break the journey or take the vehicle home (unless it is being transported on a trailer).",
+      "link": null
+    },
+    {
+      "q": "What is required before I can apply to register the vehicle?",
+      "a": "The vehicle must be re-inspected at the AUVIS station before you can apply to register it.",
+      "link": null
+    },
+    {
+      "q": "Where do I lodge my application?",
+      "a": "Take the completed form and required documents to a Service NSW Centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:53Z",
+    "last_modified": "4 November 2024",
+    "html_sha1": "0750c14bf1cd7601b84731d144287599edf39c07",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

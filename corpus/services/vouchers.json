@@ -1,0 +1,84 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/vouchers",
+  "source_url": "https://www.service.nsw.gov.au/services/vouchers",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "vouchers",
+  "title": "Vouchers",
+  "summary": "This page provides information about vouchers available through Service NSW.",
+  "topics": [
+    "vouchers",
+    "financial-support",
+    "services",
+    "nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "MyServiceNSW Account help topics",
+      "link": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Savings Finder",
+      "link": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Financial support for students",
+      "link": "https://www.service.nsw.gov.au/services/financial-support-students"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "link": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Find an Active and Creative Kids voucher activity provider",
+      "url": "https://mybusiness.service.nsw.gov.au/business-finder/vouchers?voucherType=ActiveCreativeKids"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-active-and-creative-kids-voucher"
+    },
+    {
+      "text": "Share an Active and Creative Kids voucher",
+      "url": "https://www.service.nsw.gov.au/transaction/share-a-voucher"
+    },
+    {
+      "text": "Access your Voucher profile",
+      "url": "https://www.service.nsw.gov.au/transaction/update-your-voucher-profile"
+    },
+    {
+      "text": "MyServiceNSW Account help topics",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account"
+    },
+    {
+      "text": "Savings Finder",
+      "url": "https://www.service.nsw.gov.au/campaign/savings-finder"
+    },
+    {
+      "text": "Financial support for students",
+      "url": "https://www.service.nsw.gov.au/services/financial-support-students"
+    },
+    {
+      "text": "Request an Internal Review of a decision about a grant application",
+      "url": "https://www.service.nsw.gov.au/transaction/request-an-internal-review-of-a-decision-about-a-grant-application"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:03Z",
+    "last_modified": "21 November 2025",
+    "html_sha1": "035a29276ca7ff8203bcfde59172dd1e466e8a18",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

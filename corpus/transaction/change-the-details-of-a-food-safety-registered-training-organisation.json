@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-registered-training-organisation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-registered-training-organisation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-a-food-safety-registered-training-organisation",
+  "title": "Change the details of a food safety registered training organisation",
+  "summary": "This page explains how a registered training organisation (RTO) under the food safety supervisor program can notify the NSW Food Authority of changes to its details.",
+  "topics": [
+    "food-safety",
+    "registered-training-organisation",
+    "nsw-food-authority",
+    "business-details"
+  ],
+  "intro": "If you're a registered training organisation (RTO) under the food safety supervisor program and your details have changed, you need to notify the NSW Food Authority.",
+  "who_can_apply": [
+    "You are a registered training organisation (RTO) under the food safety supervisor program and your details have changed."
+  ],
+  "what_you_need": [
+    "Your NSW Food Authority RTO number",
+    "Your updated details",
+    "Changes to your scope of registration (if applicable)",
+    "The certificate of registration of your business name (if applicable)",
+    "The PDF form – 'Registered Training Organisation change of details form'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete and sign the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your application by mail or email, to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/"
+    },
+    {
+      "text": "List of approved registered training organisations",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/fss-food-safety-supervisors/training-organisations"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details of a food safety supervisor trainer",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-food-safety-supervisor-trainer"
+    },
+    {
+      "text": "Apply to become a regulatory food safety auditor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-become-a-regulatory-food-safety-auditor"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:59Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "8f7f37d9c4d9c1937b0d43ce8549a5915c28f8c3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

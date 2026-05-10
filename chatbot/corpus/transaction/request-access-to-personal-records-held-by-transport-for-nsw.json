@@ -1,0 +1,114 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw",
+  "source_url": "https://www.service.nsw.gov.au/transaction/request-access-to-personal-records-held-by-transport-for-nsw",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "request-access-to-personal-records-held-by-transport-for-nsw",
+  "title": "Request access to personal records held by Transport for NSW",
+  "summary": "You can request access to personal records held by Transport for NSW regarding your driver licence, motor vehicle, or trailer.",
+  "topics": [
+    "nsw-driver-licence",
+    "vehicle-registration",
+    "personal-records",
+    "transport-for-nsw"
+  ],
+  "intro": "To request information about your NSW Driver Licence, motor vehicle or trailer complete the PDF form.\n\nOnly the licence holder can be given licence details.\n\n### Restrictions\n\nOnly registration information relating to a known registered operator can be provided.\n\nPersonal information about a current or previous operator will not be provided as part of a vehicle information enquiry.",
+  "who_can_apply": [
+    "The licence holder must make the request."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Payment",
+    "The PDF form: Access to Own Personal Records Application"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the PDF form – Access to Own Personal Records Application.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Attach copies of your proof of identity documents to the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Submit your request:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-requests-for-information-fees"
+    },
+    {
+      "text": "Access to Own Personal Records Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45062918-access-to-personal-records-app.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "make a request online",
+      "url": "https://www.service.nsw.gov.au/transaction/request-a-driving-record"
+    },
+    {
+      "text": "contact us",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Submit a notice of disposal for a vehicle",
+      "url": "https://www.service.nsw.gov.au/transaction/submit-a-notice-of-disposal-for-a-vehicle"
+    },
+    {
+      "text": "Renew or upgrade a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-or-upgrade-a-nsw-driver-licence"
+    },
+    {
+      "text": "Renew a vehicle registration online",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-vehicle-registration"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can access my personal records?",
+      "a": "Only the licence holder can be given licence details.",
+      "link": null
+    },
+    {
+      "q": "What kind of information can I request?",
+      "a": "You can request confirmation of licence details, registration details, vehicle listings, or name or address history.",
+      "link": null
+    },
+    {
+      "q": "What information will not be provided?",
+      "a": "Personal information about a current or previous operator will not be provided as part of a vehicle information enquiry.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:03Z",
+    "last_modified": "21 October 2025",
+    "html_sha1": "8d0108a6abbad0cb355bb836e15e25ae65b7e048",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-household-chemical-cleanout-event",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-household-chemical-cleanout-event",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-household-chemical-cleanout-event",
+  "title": "Find a household chemical cleanout event",
+  "summary": "Find out about free household chemical cleanout events hosted by the NSW Government and local councils.",
+  "topics": [
+    "household-chemicals",
+    "cleanout-events",
+    "recycling",
+    "waste-disposal"
+  ],
+  "intro": "You can dispose of hazardous household chemicals at household chemical cleanout events.\n\nThe NSW Government works together with local councils to host these events, which are free and held across NSW on specified dates throughout the year.\n\nYou can drop off up to 20 litres or 20 kilograms of a single item for the following chemicals at cleanout events:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Up to 20 litres or 20 kilograms of a single item for the following chemicals."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Community Recycling Centres – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/recycling-and-reuse/household-recycling-overview/community-recycling-centres"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:17Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "d1df0f052d68e85051ec250f16907ad4013f08f1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

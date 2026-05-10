@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/provisional-rider-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/provisional-rider-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "provisional-rider-licence",
+  "title": "Provisional rider licence",
+  "summary": "Find out about and apply for a provisional rider licence in NSW.",
+  "topics": [
+    "provisional-rider-licence",
+    "motorcycle-licence",
+    "nsw-driver-licence"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must meet the specific requirements for a provisional rider licence."
+  ],
+  "what_you_need": [
+    "Review the Motorcycle Riders' Handbook.",
+    "Apply online via the appropriate service area link (serviced or unserviced)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "link": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    },
+    {
+      "text": "NSW driver licence",
+      "link": "https://www.service.nsw.gov.au/services/nsw-driver-licence"
+    },
+    {
+      "text": "Learner rider licence",
+      "link": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Apply for a provisional rider licence (serviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-serviced-area"
+    },
+    {
+      "text": "Apply for a provisional rider licence (unserviced area)",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-rider-licence-unserviced-area"
+    },
+    {
+      "text": "Motorcycle Riders' Handbook",
+      "url": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    },
+    {
+      "text": "NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/services/nsw-driver-licence"
+    },
+    {
+      "text": "Learner rider licence",
+      "url": "https://www.service.nsw.gov.au/services/learner-rider-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a provisional rider licence?",
+      "a": "A provisional rider licence allows you to ride a motorcycle under certain conditions, which are outlined on this page.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for a provisional rider licence?",
+      "a": "You can apply online depending on whether you are in a serviced or unserviced area.",
+      "link": null
+    },
+    {
+      "q": "Do I need to know about motorcycle riding rules?",
+      "a": "It is recommended that you read the Motorcycle Riders' Handbook.",
+      "link": "https://www.service.nsw.gov.au/transaction/motorcycle-riders-handbook"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:52Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "4e1cfeb87774140e139da666fa5275a1d919b0aa",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

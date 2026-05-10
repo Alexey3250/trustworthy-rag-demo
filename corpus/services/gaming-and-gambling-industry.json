@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry",
+  "source_url": "https://www.service.nsw.gov.au/services/gaming-and-gambling-industry",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "gaming-and-gambling-industry",
+  "title": "Gaming and gambling",
+  "summary": "This page provides information about the rules and regulations governing the gaming and gambling industry in New South Wales.",
+  "topics": [
+    "gaming",
+    "gambling",
+    "licences",
+    "industry-regulation",
+    "fundraising"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Check a business or trade licence",
+      "link": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Hospitality industry training (RSA, RCG, ARCG)",
+      "link": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Fundraising and trade lotteries",
+      "link": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Gaming machine licences",
+      "url": "https://www.service.nsw.gov.au/referral/gaming-machine-licences"
+    },
+    {
+      "text": "Check the register of authorised community gaming and trade promotions",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-register-of-authorised-community-gaming-and-trade-promotions"
+    },
+    {
+      "text": "Change directors or shareholders (corporate gaming-related licences)",
+      "url": "https://www.service.nsw.gov.au/referral/directors-shareholders-corporate-gaming-licences"
+    },
+    {
+      "text": "Check the local impact assessment (LIA) public register",
+      "url": "https://www.service.nsw.gov.au/transaction/check-the-local-impact-assessment-lia-public-register"
+    },
+    {
+      "text": "Apply for approval as secretary of a registered club",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-approval-as-secretary-of-a-registered-club"
+    },
+    {
+      "text": "Check a business or trade licence",
+      "url": "https://www.service.nsw.gov.au/guide/check-a-business-or-trade-licence"
+    },
+    {
+      "text": "Hospitality industry training (RSA, RCG, ARCG)",
+      "url": "https://www.service.nsw.gov.au/services/responsible-service-of-alcohol-rsa-and-responsible-conduct-of-gambling-rcg"
+    },
+    {
+      "text": "Fundraising and trade lotteries",
+      "url": "https://www.service.nsw.gov.au/services/fundraising-and-trade-lotteries"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:10Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "73ec5a9ced30528571ab57fc1ba9101a1d1063d5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

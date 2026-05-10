@@ -1,0 +1,108 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/mpsterms",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/mpsterms",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "mpsterms",
+  "title": "Mobility Parking Scheme - Privacy Statement",
+  "summary": "This notice explains why and how Service NSW collects your personal information when you apply for the Mobility Parking Scheme.",
+  "topics": [
+    "privacy",
+    "mobility-parking-scheme",
+    "personal-information",
+    "service-nsw"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [
+    "Your name, address, and contact details",
+    "Documents establishing your identity",
+    "Details about your driver licence and licensing history",
+    "Medical information from your doctor demonstrating any mobility disability (e.g., a medical certificate)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "we handle your personal information",
+      "link": null
+    },
+    {
+      "text": "you can access and seek correction of the information",
+      "link": null
+    },
+    {
+      "text": "privacy enquiries or complaints can be made.",
+      "link": null
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "link": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "link": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    },
+    {
+      "text": "Read the Service NSW privacy statement for more information on how:",
+      "link": null
+    },
+    {
+      "text": "You can call Service NSW on 13 77 88.",
+      "link": null
+    },
+    {
+      "text": "Service NSW is located at 2-24 Rawson Place Sydney NSW 2000.",
+      "link": null
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Mobility Parking Scheme",
+      "url": "https://www.service.nsw.gov.au/services/mobility-parking-scheme"
+    },
+    {
+      "text": "Service NSW privacy statement",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    },
+    {
+      "text": "Privacy collection notices",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice"
+    },
+    {
+      "text": "MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/privacy-collection-notice/myservicensw-account"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected for the Mobility Parking Scheme?",
+      "a": "Service NSW collects your name, address, contact details, documents establishing your identity, details about your driver licence and licensing history, and medical information from your doctor demonstrating any mobility disability.",
+      "link": null
+    },
+    {
+      "q": "Why is my personal information collected?",
+      "a": "The information is collected to perform functions related to the administration of the MPS, to communicate with you about your application status, and to verify your identity through the Document Verification Service.",
+      "link": null
+    },
+    {
+      "q": "Do I have to provide this information?",
+      "a": "The notice addresses whether you are required by law to provide the information.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:38Z",
+    "last_modified": "15 December 2025",
+    "html_sha1": "d73d856479f3bf9d7c5d3b759c0fae2f7dda34e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

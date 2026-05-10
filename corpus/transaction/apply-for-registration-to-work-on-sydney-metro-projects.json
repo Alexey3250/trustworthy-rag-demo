@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-to-work-on-sydney-metro-projects",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-registration-to-work-on-sydney-metro-projects",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-registration-to-work-on-sydney-metro-projects",
+  "title": "Apply for registration to work on Sydney Metro projects",
+  "summary": "Find out about the requirements and application process for building practitioners to register and work on Sydney Metro projects.",
+  "topics": [
+    "sydney-metro",
+    "building-practitioner",
+    "registration",
+    "design-and-building-practitioners"
+  ],
+  "intro": "From 3 July 2023 building works related to the Sydney Metro that are over, beside, or near a station – 'over station enabling works' – must comply with the Design and Building Practitioners Act 2020.\n\nBuilding practitioners working on these projects need to be registered under the DBP Act.\n\nIf you're not eligible to be registered through the building practitioners pathway, you can still apply to register if:\n\nWhen you apply through either of the above you are only registered under the DBP Act to work on over station enabling work.\n\nTo work on class 2, 3, or 9c buildings, visit Professional engineer and design and building practitioners and select the appropriate tile.",
+  "who_can_apply": [
+    "Building practitioners working on Sydney Metro projects must be registered under the DBP Act.",
+    "If not eligible through the building practitioners pathway, you can still apply if you are only registered under the DBP Act to work on over station enabling work.",
+    "To work on class 2, 3, or 9c buildings, you must visit the Professional engineer and design and building practitioners page and select the appropriate tile."
+  ],
+  "what_you_need": [
+    "For general registration, visit the Professional engineer and design and building practitioners page.",
+    "For specific applications, use the following links: building practitioners, Technically Assured Organisation (TAO) Scheme, Apply to register as a building practitioner – body corporate, Apply to register as a building practitioner – body corporate nominee/building practitioner – general, and Professional engineer and design and building practitioners."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Technically Assured Organisation (TAO) Scheme",
+      "url": "https://www.transport.nsw.gov.au/industry/asset-management-branch/technically-assured-organisation-scheme"
+    },
+    {
+      "text": "Apply to register as a building practitioner – body corporate",
+      "url": "https://dbp.fairtrading.nsw.gov.au/forms/18393"
+    },
+    {
+      "text": "Apply to register as a building practitioner – body corporate nominee/building practitioner – general",
+      "url": "https://dbp.fairtrading.nsw.gov.au/forms/18348"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "building practitioners",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-building-practitioner-registration"
+    },
+    {
+      "text": "Professional engineer and design and building practitioners",
+      "url": "https://www.service.nsw.gov.au/services/business-industries-and-employment/building-and-construction-industry/design-and-building-practitioners"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What must building works related to the Sydney Metro comply with?",
+      "a": "From 3 July 2023, building works related to the Sydney Metro that are over, beside, or near a station (over station enabling works) must comply with the Design and Building Practitioners Act 2020.",
+      "link": null
+    },
+    {
+      "q": "Who needs to be registered to work on Sydney Metro projects?",
+      "a": "Building practitioners working on these projects need to be registered under the DBP Act.",
+      "link": null
+    },
+    {
+      "q": "Can I still apply to register if I am not eligible through the building practitioners pathway?",
+      "a": "Yes, you can still apply to register if you are only registered under the DBP Act to work on over station enabling work.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:43Z",
+    "last_modified": "8 January 2024",
+    "html_sha1": "3b661f64b8ca170f2b6e60b243235ed5aaf0d191",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

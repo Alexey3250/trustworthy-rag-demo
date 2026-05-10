@@ -1,0 +1,126 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fumigator-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-fumigator-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-fumigator-licence",
+  "title": "Apply for a fumigator licence",
+  "summary": "Learn about the requirements and steps to apply for a fumigator licence in NSW.",
+  "topics": [
+    "fumigator-licence",
+    "pesticides",
+    "environment",
+    "occupational-licences"
+  ],
+  "intro": "Occupations and businesses involved in the use of pesticides must be licensed by the Environment Protection Authority (EPA).\n\nYou need a fumigator licence to use products containing:\n\nUnder the Automatic Mutual Recognition (AMR) scheme, holders of certain interstate licences can work automatically in NSW but must notify the licence regulator of their intention to work.",
+  "who_can_apply": [
+    "Must be 18 years or older.",
+    "Must complete training that includes one of the following core competencies within the CPP Property Services Training Package:",
+    "CPPUPM3011 Manage organisms by applying fumigants to commodities and environments.",
+    "CPPPMT3011A Conduct fumigation.",
+    "CPPUPM3006 Manage pests by applying pesticides.",
+    "CPPPMT3006A Apply pesticides to manage pests.",
+    "The training can be based on superseded competencies, but both of the following must be completed: CPPUPM3011 and CPPPMT3011."
+  ],
+  "what_you_need": [
+    "Your personal and contact details",
+    "A copy of your identification (driver licence or passport)",
+    "The name of your registered training organisation",
+    "A passport size photo",
+    "Your fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Register to start a new application' to receive an email with login details and an application code.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you'd also like to apply for a pest management technician licence, add that licence type to your application.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-pest-management-technician-licence"
+    },
+    {
+      "text": "A fumigator licence is valid for 5 years.",
+      "link": null
+    },
+    {
+      "text": "Pest management technicians must comply with the notification and record keeping requirements of the NSW Pesticide Regulation 2009 and ensure that work practices minimise risk of harm to the community and the environment.",
+      "link": "https://www.service.nsw.gov.au/transaction/keep-a-record-of-pesticide-use"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://ablis.business.gov.au/service/nsw/pest-management-technician-or-fumigator-licence/16560"
+    },
+    {
+      "text": "Pest management technicians' fact sheet – PDF",
+      "url": "https://www.epa.nsw.gov.au/sites/default/files/pesticide-factsheets-pest-mgt-technicians.pdf"
+    },
+    {
+      "text": "Licences and advice for occupational pesticide users – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/pesticides/licences-and-advice-for-occupational-pesticide-users"
+    },
+    {
+      "text": "Compulsory notification of pesticide use – EPA",
+      "url": "https://www.epa.nsw.gov.au/your-environment/pesticides/compulsory-notification-pesticide-use"
+    },
+    {
+      "text": "Pest management technicians, fumigators and training permits – EPA",
+      "url": "https://www.epa.nsw.gov.au/Your-environment/Pesticides/Licences-and-advice-for-occupational-pesticide-users/pest-management-technicians-fumigators-training-permits"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "notify the licence regulator of their intention to work",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-to-work-in-nsw-under-automatic-mutual-recognition"
+    },
+    {
+      "text": "apply for a pest management technician licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-pest-management-technician-licence"
+    },
+    {
+      "text": "record keeping",
+      "url": "https://www.service.nsw.gov.au/transaction/keep-a-record-of-pesticide-use"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs a fumigator licence?",
+      "a": "Occupations and businesses that use pesticides must be licensed by the Environment Protection Authority (EPA).",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements?",
+      "a": "You must be 18 years or older and complete training that includes one of the core competencies within the CPP Property Services Training Package.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the licence?",
+      "a": "Select 'Apply online', then 'Register to start a new application' to receive login details and an application code, and finally follow the prompts to complete your application.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:39Z",
+    "last_modified": "4 November 2025",
+    "html_sha1": "a090ce60c88b0dbd6163d4121e726bddb6f9d5b5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

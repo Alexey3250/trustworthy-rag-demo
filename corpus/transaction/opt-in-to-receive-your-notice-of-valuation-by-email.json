@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email",
+  "source_url": "https://www.service.nsw.gov.au/transaction/opt-in-to-receive-your-notice-of-valuation-by-email",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "opt-in-to-receive-your-notice-of-valuation-by-email",
+  "title": "Opt in to receive your Notice of Valuation by email",
+  "summary": "Learn how to opt in to receive your Notice of Valuation by email instead of receiving a paper notice.",
+  "topics": [
+    "land-value",
+    "notice-of-valuation",
+    "email-notification",
+    "property-owner"
+  ],
+  "intro": "Land value is the value of your land only – your home, or any additional structures or improvements you may have made, are not considered when the property is valued.\n\nEvery 3 years the NSW Valuer General sends you a Notice of Valuation showing how much your land is worth.\n\nYou can opt in to get your Notice of Valuation by email instead of receiving a paper notice.\n\nNote: Your Notice of Valuation may have already been printed for postal delivery in this 3-year cycle. If you opt in now you may still get a paper notification, but you'll be opted in to receive an email for the next valuation cycle.",
+  "who_can_apply": [
+    "Must be an individual property owner.",
+    "Joint owners must opt in separately.",
+    "Owners within a strata scheme (e.g., apartment building, townhouse, or villa) are not eligible.",
+    "Business property owners can register to get Notices of Valuation by email on the Valuer General's website."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Details from one identity document (such as Australian driver licence, Medicare card, or passport)",
+    "Your property address"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Opt in' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to opt in.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you're a joint owner and you opt in to get emails, you should let the other owners know. The other owners can opt in using their own MyServiceNSW Account. If a paper notice is needed later, all owners who opted in will need to opt out through their MyServiceNSW Account notifications.",
+      "link": null
+    },
+    {
+      "text": "Councils use land values to calculate and distribute rates, see the Your land value fact sheet.",
+      "link": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/resource-library/land-values-factsheet"
+    },
+    {
+      "text": "The NSW Valuer General determines the value of land as if it were sold on 1 July in the valuing year.",
+      "link": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Valuer General's website",
+      "url": "https://www.valuergeneral.nsw.gov.au/services/ason-update.htm"
+    },
+    {
+      "text": "Your land value fact sheet",
+      "url": "https://www.nsw.gov.au/housing-and-construction/land-values-nsw/resource-library/land-values-factsheet"
+    },
+    {
+      "text": "NSW Valuer General",
+      "url": "https://www.nsw.gov.au/departments-and-agencies/department-of-planning-housing-and-infrastructure/nsw-valuer-general"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "identity document",
+      "url": "https://www.service.nsw.gov.au/verifying-your-identity"
+    },
+    {
+      "text": "Find out the land value of a property",
+      "url": "https://www.service.nsw.gov.au/transaction/find-out-the-land-value-of-a-property"
+    },
+    {
+      "text": "Lodge an objection to a Notice of Valuation",
+      "url": "https://www.service.nsw.gov.au/transaction/lodge-an-objection-to-a-notice-of-valuation"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is land value?",
+      "a": "Land value is the value of your land only. Your home or any additional structures or improvements are not considered when the property is valued.",
+      "link": null
+    },
+    {
+      "q": "How often is the Notice of Valuation sent?",
+      "a": "The NSW Valuer General sends a Notice of Valuation every 3 years.",
+      "link": null
+    },
+    {
+      "q": "Can I still receive a paper notice if I opt in now?",
+      "a": "Your Notice of Valuation may have already been printed for postal delivery in the current 3-year cycle. If you opt in now, you may still get a paper notification, but you will be opted in to receive an email for the next valuation cycle.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:29Z",
+    "last_modified": "12 March 2026",
+    "html_sha1": "26cb148ee28b79a19ca18d930b06b8b730073110",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

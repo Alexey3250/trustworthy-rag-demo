@@ -1,0 +1,119 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-the-away-from-home-haemodialysis-afhh-program",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-the-away-from-home-haemodialysis-afhh-program",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-the-away-from-home-haemodialysis-afhh-program",
+  "title": "Apply for the Away from Home Haemodialysis (AFHH) program",
+  "summary": "Find out how to apply for the Away from Home Haemodialysis (AFHH) program, which funds up to 3 dialysis sessions per year while you travel.",
+  "topics": [
+    "haemodialysis",
+    "dialysis",
+    "nsw-health",
+    "travel-assistance"
+  ],
+  "intro": "The Away from Home Haemodialysis (AFHH) program funds up to 3 sessions per calendar year at participating private dialysis units while you travel within NSW or interstate for any reason, including visiting family and friends, enjoying a short holiday or for work and education purposes.\n\nNote: AFHH is not a rebate scheme. You need to meet the eligibility requirements and apply for assistance before you travel.",
+  "who_can_apply": [
+    "Be a resident of NSW currently undergoing haemodialysis at a dialysis unit or at home.",
+    "Be stable on dialysis, with a functional and non-infected fistula or a permanent catheter.",
+    "Have received haemodialysis treatment for at least 3 months.",
+    "Receive clearance from your treating physician confirming you are well enough to travel.",
+    "Meet the receiving dialysis unit’s clinical criteria (assessed in the weeks prior to the scheduled sessions)."
+  ],
+  "what_you_need": [
+    "The Away From Home Haemodialysis (AFHH) Program Patient Application Form - PDF.",
+    "Your personal information, including your Medicare number and contact details.",
+    "Your current haemodialysis treatment information.",
+    "Information about the private dialysis unit(s) you intend on travelling to, including preferred travel dates."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check your eligibility using the AFHH online Eligibility Tracker",
+      "link": "https://www.enable.health.nsw.gov.au/services/afhh/afhh-eligibility-checker"
+    },
+    {
+      "n": 2,
+      "text": "Contact the private dialysis unit(s) you are planning on travelling to and check availability for your desired sessions/dates. A list of participating private dialysis units is available on the website.",
+      "link": "https://www.enable.health.nsw.gov.au/services/afhh/participating-dialysis-units"
+    },
+    {
+      "n": 3,
+      "text": "Complete the Away From Home Haemodialysis (AFHH) Program Patient Application Form - PDF.",
+      "link": "https://www.enable.health.nsw.gov.au/__data/assets/pdf_file/0019/262243/Away_From_Home_Haemodialysis-AFHH-Program_Registration_Form.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Submit your application by post or email to the details on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "The AFHH program only covers the cost of your dialysis session(s) while you are away from your usual dialysis unit",
+      "link": null
+    },
+    {
+      "text": "Any costs outside of a basic haemodialysis session will not be covered",
+      "link": null
+    },
+    {
+      "text": "It is the responsibility of the patient to organise the dialysis booking at least 3 months in advance (where possible), to secure the required number of sessions at the receiving dialysis unit",
+      "link": null
+    },
+    {
+      "text": "Patients with private health insurance that includes cover for haemodialysis are not eligible.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "participating private dialysis units",
+      "url": "https://www.enable.health.nsw.gov.au/services/afhh/participating-dialysis-units"
+    },
+    {
+      "text": "Eligibility Tracker",
+      "url": "https://www.enable.health.nsw.gov.au/services/afhh/afhh-eligibility-checker"
+    },
+    {
+      "text": "Away From Home Haemodialysis (AFHH) Program Patient Application Form - PDF",
+      "url": "https://www.enable.health.nsw.gov.au/__data/assets/pdf_file/0019/262243/Away_From_Home_Haemodialysis-AFHH-Program_Registration_Form.pdf"
+    },
+    {
+      "text": "Away From Home Haemodialysis (AFHH) website",
+      "url": "https://www.enable.health.nsw.gov.au/services/afhh"
+    },
+    {
+      "text": "EnableNSW",
+      "url": "https://www.enable.health.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is the Away from Home Haemodialysis (AFHH) program?",
+      "a": "The AFHH program funds up to 3 dialysis sessions per calendar year at participating private dialysis units when you travel within NSW or interstate.",
+      "link": null
+    },
+    {
+      "q": "Is AFHH a rebate scheme?",
+      "a": "No, AFHH is not a rebate scheme. You must meet the eligibility requirements and apply for assistance before you travel.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to apply for the AFHH program?",
+      "a": "You must be a resident of NSW undergoing haemodialysis at a dialysis unit or at home, be stable on dialysis with a functional fistula or permanent catheter, have received haemodialysis for at least 3 months, and receive clearance from your treating physician to travel.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:45Z",
+    "last_modified": "3 October 2024",
+    "html_sha1": "fe89b76f580bbf887b850ad786d11b36ad29fdca",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

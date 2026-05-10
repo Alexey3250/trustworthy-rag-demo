@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/out-of-home-care",
+  "source_url": "https://www.service.nsw.gov.au/services/out-of-home-care",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "out-of-home-care",
+  "title": "Out-of-home care",
+  "summary": "Find information and services related to children and young people in statutory out-of-home care.",
+  "topics": [
+    "out-of-home-care",
+    "children",
+    "young-people",
+    "carers",
+    "records"
+  ],
+  "intro": "About children in statutory out-of-home care\n\nOut-of-home care is provided to children and young people who are unable to live with their own families. The Office of the Children’s Guardian is the regulator of out-of-home care agencies.\n\nCheck the NSW Carers Register\n\nOnly designated agencies can access the register for information about carer applicants, and carer and household member histories.\n\nUpdate the specialised substitute residential care register\n\nHow to update the specialised substitute residential care (SSRC) register with information about children and young people accessing overnight care services.\n\nAccess your out-of-home care records\n\nHow to request access to your personal childhood information held by the Department of Communities and Justice from your time in out-of-home care in NSW.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Working with Children Check",
+      "link": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "NDIS worker check",
+      "link": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "About children in statutory out-of-home care",
+      "url": "https://ocg.nsw.gov.au/parents-and-carers/children-statutory-out-home-care"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check the NSW Carers Register",
+      "url": "https://www.service.nsw.gov.au/referral/check-the-nsw-carers-register"
+    },
+    {
+      "text": "Update the specialised substitute residential care register",
+      "url": "https://www.service.nsw.gov.au/transaction/update-the-specialised-substitute-residential-care-register"
+    },
+    {
+      "text": "Access your out-of-home care records",
+      "url": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records"
+    },
+    {
+      "text": "Working with Children Check",
+      "url": "https://www.service.nsw.gov.au/services/working-with-children"
+    },
+    {
+      "text": "NDIS worker check",
+      "url": "https://www.service.nsw.gov.au/guide/ndis-worker-check"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who regulates out-of-home care agencies?",
+      "a": "The Office of the Children’s Guardian is the regulator of out-of-home care agencies.",
+      "link": null
+    },
+    {
+      "q": "Where can I find information about children in statutory out-of-home care?",
+      "a": "You can find information about children in statutory out-of-home care.",
+      "link": "https://ocg.nsw.gov.au/parents-and-carers/children-statutory-out-home-care"
+    },
+    {
+      "q": "How can I check the NSW Carers Register?",
+      "a": "You can check the NSW Carers Register.",
+      "link": "https://www.service.nsw.gov.au/referral/check-the-nsw-carers-register"
+    },
+    {
+      "q": "How do I update the specialised substitute residential care register?",
+      "a": "You can update the specialised substitute residential care (SSRC) register with information about children and young people accessing overnight care services.",
+      "link": "https://www.service.nsw.gov.au/transaction/update-the-specialised-substitute-residential-care-register"
+    },
+    {
+      "q": "How do I access my out-of-home care records?",
+      "a": "You can request access to your personal childhood information held by the Department of Communities and Justice from your time in out-of-home care in NSW.",
+      "link": "https://www.service.nsw.gov.au/transaction/access-your-out-of-home-care-records"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:37Z",
+    "last_modified": "20 August 2025",
+    "html_sha1": "1a3676f317d06999b60c4fe4eff0ecbde49ddb8d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

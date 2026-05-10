@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-vehicle",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-your-vehicle",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-your-vehicle",
+  "title": "Change the details of your vehicle",
+  "summary": "You can change your vehicle's details by submitting a request at a Service NSW Centre.",
+  "topics": [
+    "vehicle-registration",
+    "service-nsw",
+    "change-details",
+    "transport-nsw"
+  ],
+  "intro": "You can change your vehicle's details at a Service NSW Centre, including:\n\nThe changes may need to be verified by an authorised examiner, or other Transport for NSW official, before the changes are recorded.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The 'Change of Records' PDF form",
+    "Your current Certificate of Registration or vehicle registration details",
+    "Proof of identity",
+    "Payment (if applicable)",
+    "The appropriate inspection report or certificate (may be required depending on the change)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documentation.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre and submit your change request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Historical odometer data cannot be changed. You can refer to the vehicle’s logbook and service history to get historical readings.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "Change of Records – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070212-change-of-records.pdf"
+    },
+    {
+      "text": "Modified and non-standard vehicles",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/vehicle-registration/how-to-register/registering-a-used-or-secondhand-vehicle/modified-and-non-standard-vehicles"
+    },
+    {
+      "text": "Road vehicle descriptor online system – Transport for NSW",
+      "url": "https://rvd.transport.nsw.gov.au"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Get help with a vehicle Defect Notice",
+      "url": "https://www.service.nsw.gov.au/transaction/get-help-with-vehicle-defects"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What documents do I need to change my vehicle's details?",
+      "a": "You will need the 'Change of Records' PDF form, your current Certificate of Registration or vehicle registration details, proof of identity, payment (if applicable), and the appropriate inspection report or certificate (if required).",
+      "link": null
+    },
+    {
+      "q": "Do I always need an inspection report?",
+      "a": "No, you may not need an inspection report, for example, if you are only changing your vehicle’s colour.",
+      "link": null
+    },
+    {
+      "q": "Where do I submit my change request?",
+      "a": "You must visit a Service NSW Centre to submit your change request.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:51Z",
+    "last_modified": "10 March 2026",
+    "html_sha1": "d5640dd4143818e6e14b84287f6f9796b2387a5b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

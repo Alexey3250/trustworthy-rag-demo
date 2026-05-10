@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-procurement",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-procurement",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "nsw-procurement",
+  "title": "NSW Procurement",
+  "summary": "This page provides information about NSW Government procurement processes and resources for buying goods and services.",
+  "topics": [
+    "nsw-procurement",
+    "government-buying",
+    "tenders",
+    "suppliers"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://buy.nsw.gov.au/",
+      "url": "https://buy.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:30Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "092649b69bba6417299c15478cae68a8eb972323",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

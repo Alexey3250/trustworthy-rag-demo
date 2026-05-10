@@ -1,0 +1,113 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-master-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/renew-a-security-master-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "renew-a-security-master-licence",
+  "title": "Renew a security master licence",
+  "summary": "You can renew and pay for your security master licence online if you have received a renewal form and the licence has not expired by more than 90 days.",
+  "topics": [
+    "security-master-licence",
+    "renew-licence",
+    "nsw-service"
+  ],
+  "intro": "If you've received a security licence renewal form, you can renew and pay online. There are 2 types of renewals:\n\n### If your licence has expired\n\nIf it is more than 90 days after the expiry date on your licence you need to submit a new application. You cannot trade until your new licence is issued.",
+  "who_can_apply": [
+    "Must have received a renewal form and the expiry date must not be over 90 days.",
+    "Must satisfy stringent integrity requirements, including those related to any close associates.",
+    "Must declare details of any close associates of the business.",
+    "Must hold, or will hold, any relevant financial interest in the business.",
+    "Must be, or will be, entitled to exercise any relevant power in the business.",
+    "Must hold, or will hold, any relevant position (e.g., director, manager)."
+  ],
+  "what_you_need": [
+    "Your licence number.",
+    "Your renewal number (as shown on your renewal notice), or your personal details.",
+    "Payment for the fee."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Renew online' button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to renew your security master licence.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "fee payment",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/class_2_licences/class_2_licences_content/fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "submit a new application",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-master-licence"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    },
+    {
+      "text": "Check a security master licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-master-licence"
+    },
+    {
+      "text": "Check a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-operative-licence"
+    },
+    {
+      "text": "Renew a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-operative-licence"
+    },
+    {
+      "text": "Get a firearms or security industry licence issued",
+      "url": "https://www.service.nsw.gov.au/transaction/get-a-firearms-or-security-industry-licence-issued"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my security licence has expired?",
+      "a": "If your licence has expired by more than 90 days, you must submit a new application. You cannot trade until your new licence is issued.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-master-licence"
+    },
+    {
+      "q": "Who is eligible to apply for a master licence?",
+      "a": "To qualify, you must satisfy stringent integrity requirements, declare details of any close associates, and hold or be entitled to relevant financial interests or positions in the business.",
+      "link": null
+    },
+    {
+      "q": "Can a master licence be given to a partnership?",
+      "a": "No, a master licence cannot be issued to a partnership, and it is not transferable.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:50Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "907d3a064ed906fc27c2fb5170d7383e0c2b13f5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

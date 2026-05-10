@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/lifetime-care-and-support-scheme-icare",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/lifetime-care-and-support-scheme-icare",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "lifetime-care-and-support-scheme-icare",
+  "title": "Lifetime Care and Support Scheme (icare)",
+  "summary": "This page provides information about the Lifetime Care and Support Scheme (icare), which helps people who need ongoing care and support.",
+  "topics": [
+    "care-support",
+    "health-care",
+    "support-scheme",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Eligibility depends on your specific needs and circumstances."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries/who-we-care-for",
+      "url": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries/who-we-care-for"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "icare",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    },
+    {
+      "text": "Treasury, NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/treasury"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Lifetime Care and Support Scheme (icare)?",
+      "a": "The Lifetime Care and Support Scheme (icare) provides support for people who need ongoing care and support.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for care and support?",
+      "a": "Eligibility depends on your specific needs and circumstances. You should check the official iCare website for detailed information.",
+      "link": "https://www.icare.nsw.gov.au/injured-or-ill-people/motor-accident-injuries/who-we-care-for"
+    },
+    {
+      "q": "Where can I find more information about iCare?",
+      "a": "You can visit the official iCare website or the Service NSW directory for more details.",
+      "link": "https://www.service.nsw.gov.au/nswgovdirectory/icare-insurance-and-care-nsw"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:23Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "ce478ab45fadc127504e9f61cb6af5de523296e8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

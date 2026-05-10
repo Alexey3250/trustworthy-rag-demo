@@ -1,0 +1,115 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-an-exemption-from-prohibited-vehicle-or-passenger-conditions",
+  "title": "Apply for an exemption from prohibited vehicle or passenger conditions",
+  "summary": "Learn how to apply for an exemption from prohibited vehicle or passenger conditions if you are a P1 or P2 driver.",
+  "topics": [
+    "driver-licence",
+    "p1-p2-driver",
+    "exemption",
+    "service-nsw"
+  ],
+  "intro": "If you're a P1 or P2 driver, there are restrictions on the number of passengers you can carry and the type of vehicle you can drive. An exemption may be granted in special circumstances.\n\nYou can apply for an exemption at a Service NSW Centre.",
+  "who_can_apply": [
+    "You must be a P1 or P2 driver who is seeking an exemption from restrictions on passengers or vehicle type."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "The PDF form: 'Application for Exemption: Peer Passenger, One Passenger or Prohibited Vehicle Condition'",
+    "Supporting documents for your exemption request",
+    "Fee payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the required documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Visit a service centre to submit your application.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees"
+    },
+    {
+      "text": "Application for Exemption – Peer Passenger, One Passenger or Prohibited Vehicle Condition – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45071143-provisional-licence-conditions-exemption-application.pdf"
+    },
+    {
+      "text": "Prohibited vehicles for P plate drivers – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/p1-and-p2-prohibited-vehicles"
+    },
+    {
+      "text": "Provisional P1 driver licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p1-licence"
+    },
+    {
+      "text": "Provisional P2 licence – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/provisional-p2-licence"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change address as a holder of a passenger exemption letter",
+      "url": "https://www.service.nsw.gov.au/transaction/change-address-as-a-holder-of-a-passenger-exemption-letter"
+    },
+    {
+      "text": "Apply for a provisional P1 driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to apply for an exemption?",
+      "a": "P1 or P2 drivers who are restricted on the number of passengers or type of vehicle they can drive.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for an exemption?",
+      "a": "You can apply for an exemption at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply?",
+      "a": "You need your proof of identity, the required PDF form, supporting documents for your request, and payment for the fee.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:34Z",
+    "last_modified": "29 November 2024",
+    "html_sha1": "3a8d7d6b3f1c48f38e975d4d2414de7e448de64c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

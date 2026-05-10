@@ -1,0 +1,96 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/service-nsw-online-services",
+  "source_url": "https://www.service.nsw.gov.au/services/service-nsw-online-services",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "service-nsw-online-services",
+  "title": "About Service NSW online services",
+  "summary": "This page provides information on various ways to access NSW Government services, including online, in-person, and mobile options.",
+  "topics": [
+    "nsw-government-services",
+    "online-services",
+    "service-centre",
+    "account-management",
+    "business-services"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "MyServiceNSW Account A MyServiceNSW Account is the secure online way to manage your transactions with the NSW Government. Add services to your account for quick reference and convenient management.",
+      "url": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "text": "Service NSW website The Service NSW website lists the services offered by the NSW state government and tells you who is eligible and how to apply. Find grants and cost of living assistance.",
+      "url": "https://account.service.nsw.gov.au/manage/settings/nsw-digital-id"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "search for a transaction",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "A to Z list",
+      "url": "https://www.service.nsw.gov.au/services/view-all-topics"
+    },
+    {
+      "text": "Service NSW Mobile App The Service NSW Mobile App is the handy way to keep track of your NSW Government products and services on the go. Add digital licences for display on your device.",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Service NSW Business Profile",
+      "url": "https://www.service.nsw.gov.au/business/business-profile"
+    },
+    {
+      "text": "Service NSW Business Bureau app",
+      "url": "https://www.service.nsw.gov.au/service-nsw-business-bureau-app"
+    },
+    {
+      "text": "Find resources",
+      "url": "https://www.service.nsw.gov.au/business"
+    },
+    {
+      "text": "book an appointment at a service centre",
+      "url": "https://www.service.nsw.gov.au/transaction/book-an-appointment-at-a-service-centre"
+    },
+    {
+      "text": "Find a location",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I manage my NSW Government transactions online?",
+      "a": "You can use your MyServiceNSW Account, which is the secure online way to manage your transactions with the NSW Government.",
+      "link": "https://account.service.nsw.gov.au/"
+    },
+    {
+      "q": "What are the different ways to access NSW Government services?",
+      "a": "You can access services online via the Service NSW website, through the MyServiceNSW Account, or in person at a service centre.",
+      "link": null
+    },
+    {
+      "q": "Where can I find a list of all services offered by the NSW state government?",
+      "a": "The Service NSW website lists the services offered by the NSW state government and tells you who is providing them.",
+      "link": "https://account.service.nsw.gov.au/manage/settings/nsw-digital-id"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:12Z",
+    "last_modified": "30 September 2025",
+    "html_sha1": "7d9694e1411b9db778c4cd092057712a4fc8c720",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

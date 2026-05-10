@@ -1,0 +1,66 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/lord-howe-island-police-station",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/lord-howe-island-police-station",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "lord-howe-island-police-station",
+  "title": "Lord Howe Island Police Station",
+  "summary": "This page provides information about the Lord Howe Island Police Station.",
+  "topics": [
+    "police-station",
+    "lord-howe-island",
+    "service-centre"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-31.526903,159.066085"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "mobile service centres",
+      "url": "https://www.service.nsw.gov.au/mobile-service-centres"
+    },
+    {
+      "text": "store locations",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "browse our services directory",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "Coffs Harbour Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/coffs-harbour-service-centre"
+    },
+    {
+      "text": "Port Macquarie Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/port-macquarie-service-centre"
+    },
+    {
+      "text": "Nambucca Heads Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/nambucca-heads-service-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:01Z",
+    "last_modified": null,
+    "html_sha1": "7cfec03d3907f8f75c04e3cdeb318c6ce668eaf0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

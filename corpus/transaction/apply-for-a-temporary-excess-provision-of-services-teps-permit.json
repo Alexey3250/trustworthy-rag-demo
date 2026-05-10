@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-temporary-excess-provision-of-services-teps-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-temporary-excess-provision-of-services-teps-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-temporary-excess-provision-of-services-teps-permit",
+  "title": "Apply for a Temporary Excess Provision of Services (TEPS) permit",
+  "summary": "Apply for a Temporary Excess Provision of Services (TEPS) permit if you need to supply more security operators than your current master licence allows.",
+  "topics": [
+    "security-licence",
+    "teps-permit",
+    "security-services"
+  ],
+  "intro": "A security master licence authorises the holder to provide a specific number of people to carry out security activities.\n\nIf you need to supply more security operators than you're licensed for, you can apply for a Temporary Excess Provision of Services (TEPS) permit for a specified time period.\n\nYou need to submit your application at least 24 hours before providing additional security people.\n\nYou can apply online for a TEPS permit.",
+  "who_can_apply": [
+    "Must hold a current master licence."
+  ],
+  "what_you_need": [
+    "A OneGov account or MyServiceNSW Account",
+    "Your licence number",
+    "Permit start and end dates",
+    "Payment (Mastercard or Visa)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Follow the prompts to complete your application.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Download and complete the Application for temporary excess provision of services request form – PDFNote: You can only make payment by Mastercard or Visa.",
+      "link": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/248352/SEC_-_P1122_-_Temporary_Excess_Provision_of_Services_Permit.pdf"
+    },
+    {
+      "n": 4,
+      "text": "Send the form by email or post to the address noted on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/master_licences/temporary_excess_provision_of_services_permits"
+    },
+    {
+      "text": "Application for temporary excess provision of services request form – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/248352/SEC_-_P1122_-_Temporary_Excess_Provision_of_Services_Permit.pdf"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check a security Temporary Excess Provision of Services permit",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-temporary-excess-provision-of-services-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far in advance do I need to apply for a TEPS permit?",
+      "a": "You must submit your application at least 24 hours before providing additional security people.",
+      "link": null
+    },
+    {
+      "q": "What is required to apply for a TEPS permit?",
+      "a": "You must hold a current master licence.",
+      "link": null
+    },
+    {
+      "q": "How can I apply for a TEPS permit?",
+      "a": "You can apply online for a TEPS permit. Alternatively, you can download and complete the Application for temporary excess provision of services request form – PDF and send it by email or post.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:50Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "4a22c04ee2bdf55e53fe872a74e45df0f4e8e65c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

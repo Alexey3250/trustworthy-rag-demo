@@ -1,0 +1,78 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-safer-drivers-course-provider",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-safer-drivers-course-provider",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-safer-drivers-course-provider",
+  "title": "Find a Safer Drivers Course provider",
+  "summary": "Find a provider for the Safer Drivers Course, which is a combined theory and practical course for learner drivers.",
+  "topics": [
+    "safer-drivers-course",
+    "learner-driver-licence",
+    "driving-skills",
+    "provisional-licence"
+  ],
+  "intro": "The Safer Drivers Course is a combined theory and practical course for learner drivers who:\n\n1000 free places are offered each year for learner drivers from disadvantaged backgrounds who meet the requirements listed above, and:\n\nThe course helps you understand more about speed management, gap selection, hazard awareness and safe following distances, and prepares you for when you drive unsupervised on your Provisional licence.\n\nYou receive 20 hours of log book credit when you complete the course.",
+  "who_can_apply": [
+    "Learner drivers",
+    "Learner drivers from disadvantaged backgrounds (for free places)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Safer Drivers Course",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/safer-drivers-course"
+    },
+    {
+      "text": "Safer Drivers Course provider",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/learner-driver-licence/find-safer-drivers-course-providers"
+    },
+    {
+      "text": "Safer Drivers Course Concession Application – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45072000-safer-driver-course-concession.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a learner driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-learner-driver-licence"
+    },
+    {
+      "text": "Replace a learner driver log book",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-learner-driver-log-book"
+    },
+    {
+      "text": "Get the learner driver log book app",
+      "url": "https://www.service.nsw.gov.au/transaction/get-the-learner-driver-log-book-app"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Safer Drivers Course cover?",
+      "a": "The course helps you understand speed management, gap selection, hazard awareness, and safe following distances, preparing you for unsupervised driving on your Provisional licence.",
+      "link": null
+    },
+    {
+      "q": "How many log book credits do I receive after completing the course?",
+      "a": "You receive 20 hours of log book credit when you complete the course.",
+      "link": null
+    },
+    {
+      "q": "Are there free places available for the Safer Drivers Course?",
+      "a": "1000 free places are offered each year for learner drivers from disadvantaged backgrounds who meet the requirements.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:52Z",
+    "last_modified": "27 November 2024",
+    "html_sha1": "a99598ad681c51e71c75e2f92445237d16172a52",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

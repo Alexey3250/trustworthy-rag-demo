@@ -1,0 +1,150 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-restricted-driving-instructor-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-restricted-driving-instructor-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-restricted-driving-instructor-licence",
+  "title": "Apply for a restricted driving instructor licence",
+  "summary": "This page provides information and steps for applying for a restricted driving instructor licence to train licensed drivers.",
+  "topics": [
+    "driving-instructor-licence",
+    "service-nsw",
+    "licence-requirements",
+    "apply-online"
+  ],
+  "intro": "A restricted driving instructor licence allows you to train drivers who are already licensed – such as defensive driver training for police and ambulance officers.\n\nYou are not licensed to teach learner drivers.\n\nYou can submit your initial application online or at a Service NSW Centre and have 6 months to meet all the requirements.\n\nIf you need more than 6 months you'll have to lodge another application. You will not require a new medical assessment, or to re-sit the theory and practical tests unless they were undertaken more than 18 months prior.\n\nNote: There is a separate application procedure if you already hold an interstate licence.",
+  "who_can_apply": [
+    "Be aged 21 years or older.",
+    "Hold a current full (unrestricted) Australian driver licence.",
+    "Have held an unrestricted licence in the class you wish to instruct for a minimum of 3 of the last 4 years.",
+    "Be a fit and proper person.",
+    "Have a safe driving record (parking offences are excluded).",
+    "Hold a TAE or Diploma in Education (or equivalent higher qualification)."
+  ],
+  "what_you_need": [
+    "A commercial medical assessment no more than 6 months prior.",
+    "Successfully complete the instructor knowledge test (90 questions) for the class of licence you wish to instruct, in English and without interpreter assistance.",
+    "Paid the 5-year non-refundable licence fee at a service centre.",
+    "Your driver licence.",
+    "A digital photo of yourself, or 2 passport size photos (if applying at a service centre).",
+    "If you haven't held a NSW driver licence for more than 5 years, provide a full driving record/history from the authority in the state or country where you previously held your driver licence.",
+    "A secondary proof of identity document (if you hold an interstate driver licence).",
+    "A copy of completion of the Certificate IV in Motor Vehicle Driver Training (TLI41222) module.",
+    "A copy of your TAE or Diploma in Education or equivalent higher qualification (as approved by TfNSW).",
+    "Proof of passing a TfNSW assessment on the Driving Instructor Act and Regulation, which requires signing a declaration.",
+    "The PDF form 'Application for Licence under Driving Instructors Act 1992' (if applying at a service centre)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select the 'Apply online' button.Note: You cannot save and resume your application once you've started.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to submit your application.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the Application for Licence under Driving Instructors Act 1992 – PDF.Note: Do not sign it – your signature must be witnessed at the service centre.",
+      "link": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    },
+    {
+      "n": 6,
+      "text": "Visit a service centre and submit your application.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Restricted driving instructor licence applicants do not need:",
+      "link": null
+    },
+    {
+      "text": "Restricted licences are only available for car and motorcycle driving/riding instructors. They're not available for any heavy vehicle classes.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fit and proper person – PDF",
+      "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/driving-instructors-and-assessors-fit-and-proper-policy-pn295.pdf"
+    },
+    {
+      "text": "commercial medical assessment – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45065806-medical-assessment-for-driving-instructors.pdf"
+    },
+    {
+      "text": "secondary proof of identity document",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity#toc-secondary-identification-documents---list-2"
+    },
+    {
+      "text": "Application for Licence under Driving Instructors Act 1992 – PDF",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45061655-driving-instructor-licence-app.pdf"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "teach learner drivers",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-driving-instructor-licence"
+    },
+    {
+      "text": "separate application procedure",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-driving-instructor-licence-under-mutual-recognition"
+    },
+    {
+      "text": "digital photo of yourself",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#photographs"
+    },
+    {
+      "text": "provide a full driving record/history from the authority in the state or country where you previously held your driver licence",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#application-process"
+    },
+    {
+      "text": "Browser requirements",
+      "url": "https://www.service.nsw.gov.au/common-questions/driving-riding-instructor-and-bus-authority#browser-requirements"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I teach learner drivers with this licence?",
+      "a": "No, a restricted driving instructor licence only allows you to train drivers who are already licensed, such as for defensive driver training.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to submit my initial application?",
+      "a": "You have 6 months to meet all the requirements after submitting your initial application online or at a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What if I need more than 6 months to meet the requirements?",
+      "a": "If you need more than 6 months, you must lodge another application. You will not need a new medical assessment or to re-sit the theory and practical tests unless they were undertaken more than 18 months ago.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:23Z",
+    "last_modified": "7 August 2025",
+    "html_sha1": "bb1ea4dcf1d5f4df0b7f4012c23187c75695ea40",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

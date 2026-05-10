@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-terms-and-conditions",
+  "source_url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-terms-and-conditions",
+  "category": "flood-recovery-back-home-grant-terms-and-conditions",
+  "article_kind": "content",
+  "slug": "flood-recovery-back-home-grant-terms-and-conditions",
+  "title": "Flood recovery Back Home grant – Terms and Conditions",
+  "summary": "This page outlines the terms and conditions for the Flood recovery Back Home grant.",
+  "topics": [
+    "flood-recovery",
+    "back-home-grant",
+    "terms-and-conditions",
+    "disaster-relief"
+  ],
+  "intro": null,
+  "who_can_apply": [
+    "Must be affected by a natural disaster declaration.",
+    "Must adhere to the specific eligibility criteria outlined in the program guidelines."
+  ],
+  "what_you_need": [
+    "Adherence to the Program Guidelines.",
+    "Understanding of the Terms and Conditions."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "‘Natural disaster declarations’ website",
+      "url": "https://www.nsw.gov.au/disaster-recovery/natural-disaster-declarations#toc-previous-financial-years"
+    },
+    {
+      "text": "‘Natural disaster declarations’ website",
+      "url": "https://www.nsw.gov.au/emergency/recovery/natural-disaster-declarations"
+    },
+    {
+      "text": "NSW Fair Trading website",
+      "url": "https://www.nsw.gov.au/housing-and-construction/renting-a-place-to-live/residential-rental-bonds/rental-bonds-online-for-tenants"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Program Guidelines",
+      "url": "https://www.service.nsw.gov.au/flood-recovery-back-home-grant-guidelines"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the purpose of the Back Home grant?",
+      "a": "The grant provides support following a natural disaster declaration, as detailed in the terms and conditions.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible for the grant?",
+      "a": "Eligibility criteria are detailed within the program guidelines and terms and conditions.",
+      "link": null
+    },
+    {
+      "q": "How are payments handled?",
+      "a": "Payments are governed by specific conditions, and the program outlines how payments are made and recovered.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:42Z",
+    "last_modified": "28 June 2023",
+    "html_sha1": "504609ed8cc7cb2fdfb8a45a521c4daf20c2ee14",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

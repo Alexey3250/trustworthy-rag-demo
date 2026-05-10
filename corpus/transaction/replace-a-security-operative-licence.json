@@ -1,0 +1,128 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-security-operative-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-security-operative-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-security-operative-licence",
+  "title": "Replace a security operative licence",
+  "summary": "Learn how to replace a lost, stolen, damaged, or illegible security operative licence.",
+  "topics": [
+    "security-licence",
+    "replace-licence",
+    "nsw-police"
+  ],
+  "intro": "If your licence is lost or stolen, you have 7 days to file a report and obtain an Event number:\n\nIf your licence is destroyed, damaged or illegible, you must first call the Security Licensing & Enforcement Directorate (SLED) on 1300 362 001.\n\n### Update your contact details\n\nIf your contact details have changed you can update your details when you replace your licence online.",
+  "who_can_apply": [
+    "Must have a MyServiceNSW Account",
+    "Must know their licence number"
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Your licence number",
+    "Fee payment",
+    "To check your security operative licence number and details, visit Verify NSW."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Replace online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Log in, or create your MyServiceNSW Account.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to replace your security operative licence.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "complete the application form Amend, vary or replace an existing Class 1 and/or Class 2 licence – PDF",
+      "link": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/248240/SEC_-_P645_-_Amend,_Vary_or_Replace_an_Existing_Class_1_and_or_2_Licence_2025.pdf"
+    },
+    {
+      "n": 5,
+      "text": "send the form by post to the address on the form.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Police Force Community Portal",
+      "url": "https://portal.police.nsw.gov.au/s/login"
+    },
+    {
+      "text": "fee payment",
+      "url": "https://www.police.nsw.gov.au/online_services/sled/security_licences/class_2_licences/class_2_licences_content/fees"
+    },
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Security"
+    },
+    {
+      "text": "Amend, vary or replace an existing Class 1 and/or Class 2 licence – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0020/248240/SEC_-_P645_-_Amend,_Vary_or_Replace_an_Existing_Class_1_and_or_2_Licence_2025.pdf"
+    },
+    {
+      "text": "Security licences and permits – Privacy collection notice – PDF",
+      "url": "https://www.police.nsw.gov.au/__data/assets/pdf_file/0006/840318/SLED_Security_PCN_December_2025.pdf"
+    },
+    {
+      "text": "Security licences – NSW Police",
+      "url": "https://www.police.nsw.gov.au/online_services/security_licensing_and_enforcement_directorate/security_licences"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-security-operative-licence"
+    },
+    {
+      "text": "Add or remove a security operative subclass",
+      "url": "https://www.service.nsw.gov.au/transaction/add-or-remove-a-security-operative-subclass"
+    },
+    {
+      "text": "Renew a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-security-operative-licence"
+    },
+    {
+      "text": "Check a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-security-operative-licence"
+    },
+    {
+      "text": "Change name or contact details on a security operative licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-name-or-contact-details-on-a-security-operative-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I do if my licence is lost or stolen?",
+      "a": "You have 7 days to file a report and obtain an Event number.",
+      "link": null
+    },
+    {
+      "q": "What if my licence is destroyed, damaged, or illegible?",
+      "a": "You must first call the Security Licensing & Enforcement Directorate (SLED) on 1300 362 001.",
+      "link": null
+    },
+    {
+      "q": "How can I update my contact details?",
+      "a": "You can update your details when you replace your licence online.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:35Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "e808c113b73986344ad8a5a41777ad1be5e29e9f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

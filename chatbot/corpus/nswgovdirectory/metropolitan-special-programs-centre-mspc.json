@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/metropolitan-special-programs-centre-mspc",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/metropolitan-special-programs-centre-mspc",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "metropolitan-special-programs-centre-mspc",
+  "title": "Metropolitan Special Programs Centre (MSPC)",
+  "summary": "This page provides information about the Metropolitan Special Programs Centre (MSPC).",
+  "topics": [
+    "correctional-centre",
+    "metropolitan-special-programs-centre",
+    "dcj-nsw",
+    "custody"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/metropolitan-special-programs-centre-mspc.html",
+      "url": "https://correctiveservices.dcj.nsw.gov.au/correctional-centres/find-a-correctional-centre/metropolitan-special-programs-centre-mspc.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Corrective Services NSW",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/corrective-services-nsw"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:55Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "f48e3157ac867915c71f45de01a3cb9289126c1d",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

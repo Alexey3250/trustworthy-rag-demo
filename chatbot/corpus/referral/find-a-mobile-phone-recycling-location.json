@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-a-mobile-phone-recycling-location",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-a-mobile-phone-recycling-location",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-a-mobile-phone-recycling-location",
+  "title": "Find a mobile phone recycling location",
+  "summary": "Find out how and where to recycle all brands and types of mobile phones, batteries, chargers, and accessories in NSW.",
+  "topics": [
+    "mobile-phone-recycling",
+    "ewaste",
+    "recycling",
+    "mobile-muster"
+  ],
+  "intro": "You can recycle all brands and types of mobile phones including their batteries, chargers and accessories through MobileMuster.\n\nThere are free drop-off locations throughout NSW or free postage options for up to 15kg of mobile phones and accessories.\n\nThe following products are also accepted at your local Telstra, Optus or Vodafone stores:\n\nMobileMuster is a recycling program accredited by the federal government.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Mobile phones of all brands and types",
+    "Batteries",
+    "Chargers",
+    "Accessories"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "free drop-off locations",
+      "url": "https://www.mobilemuster.com.au/recycle-a-mobile/"
+    },
+    {
+      "text": "About mobile phone recycling - MobileMuster",
+      "url": "https://www.mobilemuster.com.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Find a household battery recycling location",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-household-battery-recycling-location"
+    },
+    {
+      "text": "Find a household chemical cleanout event",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-household-chemical-cleanout-event"
+    },
+    {
+      "text": "Find a community recycling centre",
+      "url": "https://www.service.nsw.gov.au/referral/find-a-community-recycling-centre"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:24Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "c1307188bc176ea7dc6b62695ecfc2e17efe142a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

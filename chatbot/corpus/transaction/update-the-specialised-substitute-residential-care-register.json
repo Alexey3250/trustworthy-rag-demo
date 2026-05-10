@@ -1,0 +1,111 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/update-the-specialised-substitute-residential-care-register",
+  "source_url": "https://www.service.nsw.gov.au/transaction/update-the-specialised-substitute-residential-care-register",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "update-the-specialised-substitute-residential-care-register",
+  "title": "Update the specialised substitute residential care register",
+  "summary": "Find out how to update information on the specialised substitute residential care (SSRC) register.",
+  "topics": [
+    "child-care",
+    "residential-care",
+    "specialised-substitute-residential-care",
+    "care-provider"
+  ],
+  "intro": "The specialised substitute residential care (SSRC) register records information about children and young people accessing overnight care services and the agencies that provide or supervise that care.\n\nThe SSRC register:\n\nChildren and young people have a right to access and correct any information held about them by a provider or on the SSRC register.",
+  "who_can_apply": [
+    "Care provider"
+  ],
+  "what_you_need": [
+    "Complete a Child Safe self-assessment.",
+    "Send an email to ssrc@ocg.nsw.gov.au to request access to the SSRC register.",
+    "Make a new placement",
+    "Exit a placement",
+    "Make a supervisor notification",
+    "Make a case plan notification",
+    "Review a placement history."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Complete a Child Safe self-assessment.",
+      "link": "https://cssa.ocg.nsw.gov.au/"
+    },
+    {
+      "n": 2,
+      "text": "Send an email to ssrc@ocg.nsw.gov.au to request access to the SSRC register.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "make a new placement",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "exit a placement",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "make a supervisor notification",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "make a case plan notification",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "review a placement history.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For details about the SSRC visit the NSW Office of the Children’s Guardian (OCG) website or contact OCG.",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "overnight care services",
+      "url": "https://ocg.nsw.gov.au/organisations/specialised-substitute-residential-care/about-ssrc"
+    },
+    {
+      "text": "Child Safe Scheme",
+      "url": "https://ocg.nsw.gov.au/child-safe-scheme"
+    },
+    {
+      "text": "Child Safe self-assessment",
+      "url": "https://cssa.ocg.nsw.gov.au/"
+    },
+    {
+      "text": "log in to the SSRC register",
+      "url": "https://ssrc.gtp.nsw.gov.au"
+    },
+    {
+      "text": "contact OCG",
+      "url": "https://ocg.nsw.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can update the SSRC register?",
+      "a": "You must be a care provider to update the SSRC register.",
+      "link": null
+    },
+    {
+      "q": "Where can I find details about the SSRC register?",
+      "a": "For details about the SSRC, visit the NSW Office of the Children’s Guardian (OCG) website or contact OCG.",
+      "link": "https://ocg.nsw.gov.au/organisations/specialised-substitute-residential-care/about-ssrc"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:48:08Z",
+    "last_modified": "25 August 2025",
+    "html_sha1": "f51a30aa6c237b862c8762c8b8cb5f04532060e9",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

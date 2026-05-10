@@ -1,0 +1,58 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/find-information-on-property-acquisition",
+  "source_url": "https://www.service.nsw.gov.au/referral/find-information-on-property-acquisition",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "find-information-on-property-acquisition",
+  "title": "Find information on property acquisition",
+  "summary": "Find information and support regarding the acquisition of privately owned land by government agencies.",
+  "topics": [
+    "property-acquisition",
+    "land-acquisition",
+    "compensation",
+    "nsw-government"
+  ],
+  "intro": "Some NSW and Australian Government agencies, state-owned corporations and local councils can acquire privately owned land for public purposes, such as:\n\nThese agencies are known as acquiring authorities.\n\nThe Centre for Property Acquisition is an independent service that aims to support affected property owners by providing an open and fair process during this experience.\n\nThe Centre for Property Acquisition helps acquiring authorities to follow NSW guidelines and understand their obligations in the acquisition process. It also checks and reports on performance in relation to acquisitions in NSW.\n\nIf your property is being acquired, the Centre for Property Acquisition can help guide you through the stages of property valuation, compensation and agreement. You can also access free confidential support through the Property Acquisition Support Line.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Centre for Property Acquisition",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-acquisition"
+    },
+    {
+      "text": "Property Acquisition Support Line",
+      "url": "https://www.nsw.gov.au/housing-and-construction/property-acquisition/support-for-you/mental-health-and-wellbeing-support-services"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can acquire privately owned land?",
+      "a": "NSW and Australian Government agencies, state-owned corporations, and local councils can acquire privately owned land for public purposes.",
+      "link": null
+    },
+    {
+      "q": "What does the Centre for Property Acquisition do?",
+      "a": "It is an independent service that supports affected property owners by providing an open and fair process during acquisition, and it helps acquiring authorities follow NSW guidelines.",
+      "link": null
+    },
+    {
+      "q": "How can I get help if my property is being acquired?",
+      "a": "The Centre for Property Acquisition can guide you through property valuation, compensation, and agreement, and you can access free confidential support through the Property Acquisition Support Line.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:17Z",
+    "last_modified": "9 December 2024",
+    "html_sha1": "9e9e31bbb1286e94788588d07708196a4961d236",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

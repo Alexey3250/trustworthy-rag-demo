@@ -1,0 +1,43 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/veterans-affairs-nsw-office-for",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/veterans-affairs-nsw-office-for",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "veterans-affairs-nsw-office-for",
+  "title": "Veterans Affairs, NSW Office for",
+  "summary": "This page provides information about the Veterans Affairs NSW Office, which assists veterans with various services and support.",
+  "topics": [
+    "veterans",
+    "nsw",
+    "support",
+    "affairs"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.veterans.nsw.gov.au/",
+      "url": "https://www.veterans.nsw.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:53:37Z",
+    "last_modified": "7 May 2026",
+    "html_sha1": "a6d16d72488732c2ac15c0db5c138a77ca95d0fb",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

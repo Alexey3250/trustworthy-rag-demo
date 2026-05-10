@@ -1,0 +1,102 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises",
+  "source_url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "change-the-details-of-a-motor-dealer-recycler-or-repairer-premises",
+  "title": "Change the details of a motor dealer, recycler or repairer premises",
+  "summary": "Learn how to notify NSW Fair Trading of changes to the details of your motor dealer, recycler, or repairer premises.",
+  "topics": [
+    "motor-dealer",
+    "recycler",
+    "repairer",
+    "premises-change"
+  ],
+  "intro": "If you hold a motor dealer, recycler or repairer licence and your notified premises or mobile workshop details have changed, you must notify NSW Fair Trading of a change to your details by email or at a Service NSW Centre:\n\nThis includes online motor dealers offering for sale and selling motor vehicles on their website.\n\n'Notified premises' are premises (excluding trade shows) where you intend to carry on a business authorised by your licence including the URL address of an online motor dealer website.",
+  "who_can_apply": [
+    "Hold a motor dealer, recycler, or repairer licence",
+    "Have changed notified premises or mobile workshop details",
+    "Operate an online motor dealer offering for sale and selling motor vehicles on their website"
+  ],
+  "what_you_need": [
+    "The PDF form: 'Change to Notified Premises'",
+    "Your contact and licence details",
+    "Details on where and when you will start or cease operating your business at the premises",
+    "Information on the intended use of your new premises or mobile workshop",
+    "Planning approval details for the business use of your premises"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your completed form at a service centre, or email it to the address specified on the form.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To look up your licence number and details, visit Verify NSW.",
+      "link": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Motor dealers conducting business online must:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "Change to Notified Premises form – PDF",
+      "url": "https://ablisfiles.business.gov.au/newsouthwales/resource/ap59804.pdf"
+    },
+    {
+      "text": "Working as a motor vehicle tradesperson – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-vehicle-tradesperson"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who needs to notify NSW Fair Trading of a change?",
+      "a": "Anyone who holds a motor dealer, recycler, or repairer licence and whose notified premises or mobile workshop details have changed.",
+      "link": null
+    },
+    {
+      "q": "What types of changes require notification?",
+      "a": "Changes to your notified premises or mobile workshop details, including online motor dealers offering for sale and selling motor vehicles on their website.",
+      "link": null
+    },
+    {
+      "q": "How do I submit the change details?",
+      "a": "You must notify NSW Fair Trading by email or at a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:35Z",
+    "last_modified": "4 September 2025",
+    "html_sha1": "65a507d7d641af2d4981ac9768f30aaa64c2a7f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-dealer-licence",
+  "source_url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-dealer-licence",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "surrender-a-motor-dealer-licence",
+  "title": "Surrender a motor dealer licence",
+  "summary": "This page explains how to notify NSW Fair Trading if you no longer wish to keep your motor dealer licence.",
+  "topics": [
+    "motor-dealer-licence",
+    "surrender-licence",
+    "nsw-fair-trading"
+  ],
+  "intro": "If you do not want to keep your motor dealer licence you need to notify NSW Fair Trading.\n\nTo check your motor dealer licence number and details, visit Verify NSW.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "licence details",
+    "the PDF form – 'Notice of Surrender'"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form and submit it:",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "To find out more about motor dealer licensing visit NSW Fair Trading.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "Verify NSW",
+      "url": "https://verify.licence.nsw.gov.au/home/Motor"
+    },
+    {
+      "text": "NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/working-as-a-motor-dealer"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Change the details on a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-dealer-licence"
+    },
+    {
+      "text": "Replace a motor dealer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-dealer-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:08Z",
+    "last_modified": "1 December 2025",
+    "html_sha1": "8743a0b6c7820dd7c5fad3b2464d46e9d6cc2c8a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

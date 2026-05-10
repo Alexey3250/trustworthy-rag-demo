@@ -1,0 +1,37 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/check-nsw-public-holidays",
+  "source_url": "https://www.service.nsw.gov.au/referral/check-nsw-public-holidays",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "check-nsw-public-holidays",
+  "title": "Check NSW Public Holidays",
+  "summary": "This page provides information about NSW public holidays, which are published and maintained by NSW Industrial Relations.",
+  "topics": [
+    "nsw-public-holidays",
+    "industrial-relations",
+    "holidays"
+  ],
+  "intro": "NSW Industrial Relations publishes and maintains details about NSW public holidays.\n\nThere is information about:\n\nYou will also have the option to download iCalendars from Industrial relations.\n\nIf you would like to know more about the standard public holidays that apply in NSW, you can visit the NSW Public Holidays calendar.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "the NSW Public Holidays calendar",
+      "url": "https://www.industrialrelations.nsw.gov.au/public-holidays/local-public-holidays-in-nsw/"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:33Z",
+    "last_modified": "7 April 2026",
+    "html_sha1": "2d70242ace3231777a806eb71bfc8398354c8437",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

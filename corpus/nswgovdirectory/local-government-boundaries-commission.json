@@ -1,0 +1,47 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/local-government-boundaries-commission",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/local-government-boundaries-commission",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "local-government-boundaries-commission",
+  "title": "Local Government Boundaries Commission",
+  "summary": "This page provides information about the Local Government Boundaries Commission.",
+  "topics": [
+    "local-government",
+    "boundaries",
+    "commission",
+    "nsw-government"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.olg.nsw.gov.au/commissions-and-tribunals/local-government-boundaries-commission",
+      "url": "https://www.olg.nsw.gov.au/commissions-and-tribunals/local-government-boundaries-commission"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Local Government, Office of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/office-local-government"
+    },
+    {
+      "text": "Planning, Housing and Infrastructure, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/planning-housing-and-infrastructure-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:26Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "73175c88759e320bfcbe09661841b93c75a0f7e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

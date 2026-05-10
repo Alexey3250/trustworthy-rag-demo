@@ -1,0 +1,62 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-an-assistance-animal-permit",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-an-assistance-animal-permit",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-an-assistance-animal-permit",
+  "title": "Apply for an assistance animal permit",
+  "summary": "Find out about the requirements and process for getting a permit or accreditation for your assistance animal to travel on public transport in NSW.",
+  "topics": [
+    "assistance-animal",
+    "public-transport",
+    "nsw",
+    "permit"
+  ],
+  "intro": "If you want your assistance animal to accompany you on public transport in NSW, you need to have either a permit from Transport for NSW or accreditation from an organisation endorsed by Transport for NSW. Interstate accreditation must be recognised by Transport for NSW.\n\nValid accreditation allows your animal to ride with you, free of charge, on trains, buses, ferries, light rail, taxis, private buses and private ferry services.TfNSW permits are free, and valid for 24 months.\n\nTo apply you need:\n\nFor more information and how to apply refer to the Transport for NSW website.",
+  "who_can_apply": [
+    "The assistance animal must have either a permit from Transport for NSW or accreditation from an organisation endorsed by Transport for NSW."
+  ],
+  "what_you_need": [
+    "To apply, you need to refer to the Transport for NSW website for more information and how to apply."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Transport for NSW website",
+      "url": "https://transportnsw.info/tickets-fares/eligibility-concessions/apply-for-assistance-animal-permit"
+    },
+    {
+      "text": "general enquiry form",
+      "url": "https://transportnsw.info/contact-us/feedback/general-feedback"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "What is needed for an assistance animal to travel on public transport in NSW?",
+      "a": "You need either a permit from Transport for NSW or accreditation from an organisation endorsed by Transport for NSW.",
+      "link": null
+    },
+    {
+      "q": "What services can an accredited animal use?",
+      "a": "Valid accreditation allows your animal to ride with you, free of charge, on trains, buses, ferries, light rail, taxis, private buses and private ferry services.",
+      "link": null
+    },
+    {
+      "q": "How long is a TfNSW permit valid for?",
+      "a": "TfNSW permits are free and valid for 24 months.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:56Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "6c099832ac9c31ae2ccd2d89c526387fc815815e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/multicultural-nsw",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/multicultural-nsw",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "multicultural-nsw",
+  "title": "Multicultural NSW",
+  "summary": "This page provides information and resources about multiculturalism and diverse communities in New South Wales.",
+  "topics": [
+    "multiculturalism",
+    "nsw",
+    "diversity",
+    "communities"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://multicultural.nsw.gov.au/",
+      "url": "https://multicultural.nsw.gov.au/"
+    },
+    {
+      "text": "Translations and transcripts – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/translations-and-transcripts/"
+    },
+    {
+      "text": "Language services – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/services/"
+    },
+    {
+      "text": "Grants Programs – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/grants"
+    },
+    {
+      "text": "Awards, sponsorship programs and events – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/awards-events/"
+    },
+    {
+      "text": "Reach culturally diverse audiences with Multicultural Link – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/multicultural-link/"
+    },
+    {
+      "text": "Overview of NSW's population and communities – Multicultural NSW",
+      "url": "https://multicultural.nsw.gov.au/communities"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "NSW Faith Affairs Council",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/nsw-faith-affairs-council"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:51:57Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "6059a955c5498f4136581be3657d9ffcebf27ef4",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

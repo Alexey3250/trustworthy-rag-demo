@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit",
+  "source_url": "https://www.service.nsw.gov.au/services/heavy-vehicle-permit",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "heavy-vehicle-permit",
+  "title": "Heavy vehicle permit",
+  "summary": "Find information and apply for various heavy vehicle access permits required to operate heavy vehicles in New South Wales.",
+  "topics": [
+    "heavy-vehicle",
+    "permit",
+    "access",
+    "class-1",
+    "pbs"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "Heavy vehicle registration",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicle licence",
+      "link": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    }
+  ],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "Class 1 load-carrying vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/class-1-load-carrying-vehicle-access-permits"
+    },
+    {
+      "text": "Applying for heavy vehicle access permits (B-doubles and HML vehicles)",
+      "url": "https://www.service.nsw.gov.au/referral/applying-for-heavy-vehicle-access-permits-b-doubles-and-hml-vehicles"
+    },
+    {
+      "text": "Apply for a Class 3 (Miscellaneous) vehicle access permit",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-class-3-miscellaneous-vehicle-access-permit"
+    },
+    {
+      "text": "Apply for a Performance-Based Standards (PBS) access permit",
+      "url": "https://www.service.nsw.gov.au/referral/apply-for-a-performance-based-standards-pbs-access-permit"
+    },
+    {
+      "text": "Renewing heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits"
+    },
+    {
+      "text": "Amending heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/amending-heavy-vehicle-access-permits"
+    },
+    {
+      "text": "Third-party approvals (heavy vehicles)",
+      "url": "https://www.service.nsw.gov.au/referral/third-party-approvals-heavy-vehicles"
+    },
+    {
+      "text": "Heavy vehicle registration",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-registration"
+    },
+    {
+      "text": "Heavy vehicle licence",
+      "url": "https://www.service.nsw.gov.au/services/heavy-vehicle-licence"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:57Z",
+    "last_modified": "24 April 2026",
+    "html_sha1": "e74b39712420dc6e0619028938749113f611bdf3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

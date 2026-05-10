@@ -1,0 +1,60 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-4-august",
+  "source_url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-4-august",
+  "category": "services",
+  "article_kind": "content",
+  "slug": "suburbs-close-4-august",
+  "title": "East Coast Severe Weather suburbs in impacted area - close 4 August",
+  "summary": "This page provides information about the East Coast Severe Weather Personal Hardship Assistance payment and the suburbs impacted by the event.",
+  "topics": [
+    "natural-disaster",
+    "financial-assistance",
+    "severe-weather",
+    "suburbs"
+  ],
+  "intro": "To be eligible for the East Coast Severe Weather Personal Hardship Assistance payment, you must live in one of the listed suburbs within the Impacted Area.\n\nApplications for payment for the suburbs listed on this page close 4 August 2025.\n\nSee the list of eligible suburbs where applications close 21 July 2025.\n\nThe list of eligible suburbs may be updated from time to time. The most recent update was made on 14 July 2025.\n\nB | C | D | F | G | H | K | L | M | O | P | R | S | T | W | Y",
+  "who_can_apply": [
+    "You must live in one of the listed suburbs within the Impacted Area to be eligible for the East Coast Severe Weather Personal Hardship Assistance payment."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [
+    {
+      "text": "East Coast Severe Weather Personal Hardship Assistance",
+      "url": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212"
+    },
+    {
+      "text": "eligible suburbs where applications close 21 July 2025",
+      "url": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-21-july"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for the East Coast Severe Weather Personal Hardship Assistance payment?",
+      "a": "Applications for payment for the suburbs listed on this page close 4 August 2025. You can find more information and apply via the East Coast Severe Weather Personal Hardship Assistance link.",
+      "link": "https://www.service.nsw.gov.au/transaction/individual-flood-grant-agrn-1212"
+    },
+    {
+      "q": "When does the application deadline close for the suburbs listed on this page?",
+      "a": "Applications for payment for the suburbs listed on this page close 4 August 2025.",
+      "link": null
+    },
+    {
+      "q": "Where can I find the list of eligible suburbs?",
+      "a": "You can see the list of eligible suburbs where applications close 21 July 2025.",
+      "link": "https://www.service.nsw.gov.au/services/financial-assistance-after-a-natural-disaster/suburbs-close-21-july"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:11Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "59ad550400320c3e41a2fbc0f715153f3d2aefd0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

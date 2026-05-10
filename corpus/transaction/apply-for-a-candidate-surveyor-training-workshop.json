@@ -1,0 +1,94 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-candidate-surveyor-training-workshop",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-a-candidate-surveyor-training-workshop",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-a-candidate-surveyor-training-workshop",
+  "title": "Apply for a candidate surveyor training workshop",
+  "summary": "Find out how to apply for a preparatory training workshop for candidate surveyors.",
+  "topics": [
+    "surveyor",
+    "candidate",
+    "training",
+    "workshop",
+    "exams"
+  ],
+  "intro": "To help candidate surveyors prepare for their final exams and registration, the NSW Board of Surveying and Spatial Information (BOSSI) holds a preparatory workshop, usually over a weekend in May.",
+  "who_can_apply": [
+    "Enrolled as a candidate land or mining surveyor in NSW",
+    "Paid annual enrolment fee to BOSSI"
+  ],
+  "what_you_need": [
+    "Your registration number",
+    "A credit or debit card to pay the workshop fee"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Select 'Start' on the application screen.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Follow the prompts to apply for the training workshop.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "preparatory workshop",
+      "url": "https://www.bossi.nsw.gov.au/candidates/candidate_training_workshop"
+    },
+    {
+      "text": "workshop fee",
+      "url": "https://www.bossi.nsw.gov.au/surveyors/BOSSI_fees"
+    },
+    {
+      "text": "Contact BOSSI",
+      "url": "https://www.bossi.nsw.gov.au/contact_us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply to be a candidate land or mining surveyor",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-be-a-candidate-land-or-mining-surveyor"
+    },
+    {
+      "text": "Apply to sit a land or mining surveyor exam",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-to-sit-a-land-or-mining-surveyor-exam"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for the training workshop?",
+      "a": "You must be enrolled as a candidate land or mining surveyor in NSW and have paid your annual enrolment fee to BOSSI.",
+      "link": null
+    },
+    {
+      "q": "When is the preparatory workshop usually held?",
+      "a": "The workshop is usually held over a weekend in May.",
+      "link": null
+    },
+    {
+      "q": "How do I apply for the training workshop?",
+      "a": "Select the 'Apply online' button, select 'Start' on the application screen, and follow the prompts to apply.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:26Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "6e6acd23558a387d898a078df9f27a81352377e1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

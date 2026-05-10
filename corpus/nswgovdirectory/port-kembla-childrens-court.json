@@ -1,0 +1,50 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/port-kembla-childrens-court",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/port-kembla-childrens-court",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "port-kembla-childrens-court",
+  "title": "Port Kembla Children's Court",
+  "summary": "This page provides information about the Port Kembla Children's Court.",
+  "topics": [
+    "childrens-court",
+    "justice",
+    "nsw-courts"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://childrenscourt.nsw.gov.au/contact-us/port-kembla-children-s-court.html",
+      "url": "https://childrenscourt.nsw.gov.au/contact-us/port-kembla-children-s-court.html"
+    },
+    {
+      "text": "NSW Online Registry",
+      "url": "https://onlineregistry.lawlink.nsw.gov.au/Landing.html"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Courts, tribunals and court services",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/courts-tribunals-and-court-services"
+    },
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:52Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "0f5572e67f071e75e8e8b659028d77df609d650a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/book-a-hazard-perception-test-hpt",
+  "source_url": "https://www.service.nsw.gov.au/transaction/book-a-hazard-perception-test-hpt",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "book-a-hazard-perception-test-hpt",
+  "title": "Book a hazard perception test (HPT)",
+  "summary": "Learn about and book the computer-based Hazard Perception Test (HPT) required to obtain a provisional P1 driver licence.",
+  "topics": [
+    "driver-licence",
+    "hazard-perception-test",
+    "provisional-p1-licence"
+  ],
+  "intro": "To get your provisional P1 driver licence, you need to:\n\nThe HPT is a computer-based test. During the HPT, you use the computer’s touchscreen to show how you respond to real traffic situations, such as if and when you would slow down, overtake, or turn.\n\nYou cannot sit your practical driving test until you've successfully completed your HPT.\n\nHPT tests are taken at a Service NSW Centre. A fee is attached, and each time you book a HPT, you have to pay the fee.\n\nTo help you study for the HPT, read the HPT handbook.",
+  "who_can_apply": [
+    "Must hold a current NSW learner driver licence.",
+    "If under 25, must have held the learner driver licence for at least 10 months.",
+    "If 25 or over, can take the HPT when ready."
+  ],
+  "what_you_need": [
+    "NSW driver licence number, Photo Card number, or Transport for NSW customer number.",
+    "An account with Online Services (optional).",
+    "The PDF form – Licence Application.",
+    "Payment.",
+    "Proof of identity when visiting a service centre."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Check the eligibility requirements.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Gather your supporting documents.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the 'Book online' button.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Enter the required details as:",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Follow the prompts to book a HPT.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you successfully complete your HPT, your result is valid for 15 months.",
+      "link": null
+    },
+    {
+      "text": "Once you've passed the HPT, you need to pass the driving test within 15 months. If you don't, you'll need to sit the HPT again.",
+      "link": null
+    },
+    {
+      "text": "The HPT is available in several languages.",
+      "link": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests/hazard-perception-test"
+    },
+    {
+      "text": "There is a free interpreter service available on 13 22 13.",
+      "link": "tel:132213"
+    },
+    {
+      "text": "You can take your test in a quieter environment at a Quiet Hour service centre location.",
+      "link": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "fee",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/fees#toc-test-fees"
+    },
+    {
+      "text": "HPT handbook",
+      "url": "https://www.nsw.gov.au/sites/default/files/2021-08/hazard-perception-handbook.pdf"
+    },
+    {
+      "text": "Licence Application",
+      "url": "https://tfnswforms.transport.nsw.gov.au/45070018-licence-application.pdf"
+    },
+    {
+      "text": "prove your identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/proving-your-identity"
+    },
+    {
+      "text": "several languages",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/driver-licences/driver-licence-tests/hazard-perception-test"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Quiet Hour service centre location",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Get a NSW driver licence guide",
+      "url": "https://www.service.nsw.gov.au/guide/getting-a-nsw-driver-licence"
+    },
+    {
+      "text": "Book a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/book-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "View, change or cancel a driver or rider licence test",
+      "url": "https://www.service.nsw.gov.au/transaction/view-change-or-cancel-a-driver-or-rider-licence-test"
+    },
+    {
+      "text": "Apply for a provisional P1 driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-provisional-p1-driver-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Hazard Perception Test (HPT)?",
+      "a": "The HPT is a computer-based test where you use a touchscreen to show how you respond to real traffic situations, such as when you would slow down, overtake, or turn.",
+      "link": null
+    },
+    {
+      "q": "Can I take the practical driving test before the HPT?",
+      "a": "No, you cannot sit your practical driving test until you have successfully completed your HPT.",
+      "link": null
+    },
+    {
+      "q": "Who is eligible to take the HPT?",
+      "a": "You must hold a current NSW learner driver licence. If you are under 25, you must have held your learner driver licence for at least 10 months. If you are 25 or over, you can take the HPT when you feel ready.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:14Z",
+    "last_modified": "3 February 2025",
+    "html_sha1": "fcfb755679f7180581cc68b92652c12ab190180e",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

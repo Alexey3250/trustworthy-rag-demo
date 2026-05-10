@@ -1,0 +1,40 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/notify-safework-nsw-of-an-incident",
+  "source_url": "https://www.service.nsw.gov.au/referral/notify-safework-nsw-of-an-incident",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "notify-safework-nsw-of-an-incident",
+  "title": "Notify SafeWork NSW of an incident",
+  "summary": "This page explains that certain workplace health and safety incidents must be reported immediately to SafeWork NSW.",
+  "topics": [
+    "workplace-safety",
+    "incident-reporting",
+    "safework-nsw",
+    "health-safety"
+  ],
+  "intro": "By law, certain workplace health and safety incidents must be immediately reported to SafeWork NSW. These incidents may involve an employee, contractor or member of the public.\n\nSignificant penalties apply if you fail to report a notifiable incident.\n\nIncidents you must report are:\n\nNotify SafeWork NSW immediately when you become aware of a notifiable incident: call 13 10 50.\n\nAs well as providing first aid where required, you must also:\n\nVisit SafeWork NSW Incident notification.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Be aware of a notifiable incident involving an employee, contractor, or member of the public."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "SafeWork NSW Incident notification",
+      "url": "https://www.safework.nsw.gov.au/notify-safework/incident-notification"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:15Z",
+    "last_modified": "8 April 2026",
+    "html_sha1": "52ace21855c2a917c22f009ee260f253e39e46d1",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "url": "https://www.service.nsw.gov.au/services/motor-vehicle-repairer-licence",
+  "source_url": "https://www.service.nsw.gov.au/services/motor-vehicle-repairer-licence",
+  "category": "services",
+  "article_kind": "category",
+  "slug": "motor-vehicle-repairer-licence",
+  "title": "Motor vehicle repairer licence",
+  "summary": "This page provides information and links for managing a motor vehicle repairer licence, including applying, renewing, changing details, and surrendering the licence.",
+  "topics": [
+    "motor-vehicle-repairer-licence",
+    "business-licence",
+    "repairer-business",
+    "nsw-service"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Check your motor vehicle repairer business complies with regulations",
+      "url": "https://mybusiness.service.nsw.gov.au/compliance/motor-industry/motor-repairer-compliance-tool"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Apply for a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Renew a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Replace a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Restore a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/restore-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Change the details on a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-on-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Check a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/check-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "text": "Change the details of a motor dealer, recycler or repairer premises",
+      "url": "https://www.service.nsw.gov.au/transaction/change-the-details-of-a-motor-dealer-recycler-or-repairer-premises"
+    },
+    {
+      "text": "Surrender a motor vehicle repairer licence",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-motor-vehicle-repairer-licence"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a motor vehicle repairer licence?",
+      "a": "You can apply for a motor vehicle repairer licence using the dedicated transaction page.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "q": "What do I do if I need to renew or replace my licence?",
+      "a": "You can renew or replace your licence through the relevant transaction pages.",
+      "link": "https://www.service.nsw.gov.au/transaction/renew-a-motor-vehicle-repairer-licence"
+    },
+    {
+      "q": "How can I check if my business complies with regulations?",
+      "a": "You can check your motor vehicle repairer business compliance using the dedicated compliance tool.",
+      "link": "https://mybusiness.service.nsw.gov.au/compliance/motor-industry/motor-repairer-compliance-tool"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:50:03Z",
+    "last_modified": "14 January 2025",
+    "html_sha1": "cd059f51d8e7fb12ef5df7224ee04acfdbaaaab0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

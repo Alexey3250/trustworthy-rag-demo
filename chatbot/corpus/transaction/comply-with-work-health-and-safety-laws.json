@@ -1,0 +1,73 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/comply-with-work-health-and-safety-laws",
+  "source_url": "https://www.service.nsw.gov.au/transaction/comply-with-work-health-and-safety-laws",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "comply-with-work-health-and-safety-laws",
+  "title": "Comply with work health and safety laws",
+  "summary": "This page informs employers and businesses about their legal requirement to comply with Work Health and Safety (WHS) laws for all people in their workplace.",
+  "topics": [
+    "work-health-and-safety",
+    "employers",
+    "businesses",
+    "whs-laws"
+  ],
+  "intro": "If you're an employer or run a business, you must comply with Work Health and Safety (WHS) laws for the health and safety of workers, contractors, volunteers and people who come in contact with your business.\n\nYou can access SafeWork NSW online training seminars to learn more about WHS, returning to work and injury management.\n\nSafeWork NSW provides safety advice and information specific to industries, including road freight transport, housing construction, farming, electrical and power.",
+  "who_can_apply": [
+    "Employer",
+    "Business owner"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "hazardous manual tasks",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/hazardous-manual-tasks"
+    },
+    {
+      "text": "hazardous chemicals",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/hazardous-chemical"
+    },
+    {
+      "text": "noise at work",
+      "url": "https://www.safework.nsw.gov.au/hazards-a-z/noise-at-work"
+    },
+    {
+      "text": "SafeWork NSW online training seminars",
+      "url": "https://www.safework.nsw.gov.au/advice-and-resources/online-safety-webinars"
+    },
+    {
+      "text": "safety advice and information specific to industries",
+      "url": "https://www.safework.nsw.gov.au/your-industry"
+    },
+    {
+      "text": "SafeWork NSW",
+      "url": "https://www.safework.nsw.gov.au/"
+    },
+    {
+      "text": "Safe Work Australia",
+      "url": "https://www.safeworkaustralia.gov.au/"
+    },
+    {
+      "text": "Small business rebates",
+      "url": "https://www.nsw.gov.au/grants-and-funding/1000-safework-small-business-rebate"
+    },
+    {
+      "text": "Young workers eToolkit",
+      "url": "https://www.safework.nsw.gov.au/resource-library/at-risk-workers/young-workers-toolkit"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:39Z",
+    "last_modified": "27 November 2025",
+    "html_sha1": "03bb72381cfdbd1ad993e83b7f12a963cd9877d3",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

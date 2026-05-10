@@ -1,0 +1,65 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/prepare-for-a-regular-food-inspection",
+  "source_url": "https://www.service.nsw.gov.au/referral/prepare-for-a-regular-food-inspection",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "prepare-for-a-regular-food-inspection",
+  "title": "Prepare for a regular food inspection",
+  "summary": "Find out what to do to prepare your retail food business for a regular inspection by your local council.",
+  "topics": [
+    "food-safety",
+    "food-inspection",
+    "retail-business",
+    "local-council"
+  ],
+  "intro": "If you run a retail food business, your local council will inspect your premises regularly to check compliance with food safety requirements and standards.\n\nIf your council has opted in to the 'Scores on Doors' food hygiene scoring program, you may be awarded a certificate which can be displayed on your premises and used in marketing materials.\n\nTo prepare for your inspection:\n\nRead more about food inspections on NSW Food Authority website.",
+  "who_can_apply": [
+    "You run a retail food business."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Scores on Doors",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/food-regulation-partnership/scores-doors-councils"
+    },
+    {
+      "text": "Food Premises Assessment Report – PDF",
+      "url": "https://www.foodauthority.nsw.gov.au/media/921"
+    },
+    {
+      "text": "NSW Food Authority",
+      "url": "https://www.foodauthority.nsw.gov.au/retail/inspections"
+    },
+    {
+      "text": "Australian New Zealand Food Standards Code",
+      "url": "https://www.foodstandards.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Meet food safety requirements",
+      "url": "https://www.service.nsw.gov.au/referral/food-safety"
+    },
+    {
+      "text": "Notify the Food Authority or local council of a food business",
+      "url": "https://www.service.nsw.gov.au/transaction/notify-the-food-authority-or-local-council-of-a-food-business"
+    },
+    {
+      "text": "Appoint a food safety supervisor",
+      "url": "https://www.service.nsw.gov.au/transaction/appoint-a-food-safety-supervisor"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:54Z",
+    "last_modified": "10 October 2024",
+    "html_sha1": "a0ab4d34c7c0696e8c44d9fe7558c070773750e5",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

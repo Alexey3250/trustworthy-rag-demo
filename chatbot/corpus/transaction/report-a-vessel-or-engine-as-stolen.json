@@ -1,0 +1,59 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/report-a-vessel-or-engine-as-stolen",
+  "source_url": "https://www.service.nsw.gov.au/transaction/report-a-vessel-or-engine-as-stolen",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "report-a-vessel-or-engine-as-stolen",
+  "title": "Report a vessel or engine as stolen",
+  "summary": "Find out how to report a stolen vessel or engine online, by phone, or in person.",
+  "topics": [
+    "stolen-vessel",
+    "stolen-engine",
+    "channeljsonjsonobjecttype"
+  ],
+  "intro": "If your vessel or vessel's engine has been stolen, you can report the theft online or by calling the Police Assistance Line on 131 444.\n\nYou also need to notify Transport for NSW by calling 13 77 88 or visiting a Service NSW Centre.",
+  "who_can_apply": [],
+  "what_you_need": [
+    "Police Event number",
+    "vessel or engine details (if available)",
+    "written notification that the vessel or engine is stolen",
+    "your proof of identity."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "report the theft online",
+      "url": "https://portal.police.nsw.gov.au/s/theft-definition-page?reportType=CP_Theft"
+    },
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "Boating and marine in NSW – Transport for NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Report a stolen vessel or engine as recovered",
+      "url": "https://www.service.nsw.gov.au/transaction/report-a-stolen-vessel-or-engine-as-recovered"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:55:49Z",
+    "last_modified": "11 February 2026",
+    "html_sha1": "525b46fcdeb5d6d0fd577b8d911b875a20840a53",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

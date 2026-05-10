@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-boatcode-agency-accreditation",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-boatcode-agency-accreditation",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-boatcode-agency-accreditation",
+  "title": "Apply for Boatcode Agency Accreditation",
+  "summary": "This page provides information on how to apply for Boatcode Agency Accreditation to validate and affix Hull Identification Numbers (HIN) on vessels.",
+  "topics": [
+    "boatcode",
+    "agency-accreditation",
+    "marine-industry",
+    "vessel-identification"
+  ],
+  "intro": "Transport for NSW has a network of Boatcode Agents to validate and affix Hull Identification Numbers (HIN) on vessels.\n\nBoatcode Agents must meet eligibility criteria and are allocated where they are needed.\n\nYou can apply for Boatcode Agency Accreditation by post or in person.",
+  "who_can_apply": [
+    "Be associated with the marine industry and have an ACN (or ABN if a sole trader).",
+    "Be open to the general public a minimum of 5½ days per week.",
+    "Have at least one staff member who is an Accredited Boatcode Examiner.",
+    "Have the necessary tools and equipment for affixing a HIN and a specified range of materials, such as punches and engravers.",
+    "Be prepared to keep HIN certificates and HIN plates in a secure (lockable) storage device at all times.",
+    "Provide a copy of your second-hand dealer licence or consent for Transport for NSW to conduct a criminal record check.",
+    "Be prepared to nominate an Examiner to travel within your local area to undertake Boatcode activities.",
+    "Provide ample off-street parking and have an area that is suitable to accommodate a boat and trailer.",
+    "Have a separate work area to conduct administrative duties."
+  ],
+  "what_you_need": [
+    "Proof of identity",
+    "Your ACN or ABN (if a sole trader)",
+    "A copy of your trade qualifications",
+    "Your application for Boatcode Agency Accreditation",
+    "Your application for Boatcode Examiner Accreditation (if applicable)",
+    "A signed copy of your Boatcode Agency Agreement",
+    "Your payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Phone 13 12 36 for application details and documents.",
+      "link": "tel:131236"
+    },
+    {
+      "n": 2,
+      "text": "Submit your application in person at a Service NSW Centre or post it to:",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "proof of identity",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/maritime-licences/boat-and-pwc-licences/proof-of-identity"
+    },
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/fees-and-concessions"
+    },
+    {
+      "text": "Boating and marine in NSW",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine"
+    },
+    {
+      "text": "Hull Identification Number (HIN) and Boatcode",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/boat-and-vessel-registration/vessel-labels-and-id/hin-and-boatcode"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "our payment methods",
+      "url": "https://www.service.nsw.gov.au/services/payment-methods"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I apply for Boatcode Agency Accreditation?",
+      "a": "You can apply by post or in person.",
+      "link": null
+    },
+    {
+      "q": "What are the eligibility requirements to become a Boatcode Agency?",
+      "a": "You must be associated with the marine industry and have an ACN (or ABN if a sole trader). You must also be open to the general public a minimum of 5½ days per week, have necessary staff and equipment, and provide suitable premises.",
+      "link": null
+    },
+    {
+      "q": "Where can I submit my application?",
+      "a": "You can submit your application in person at a Service NSW Centre or call 13 12 36 for details.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:10Z",
+    "last_modified": "27 October 2025",
+    "html_sha1": "b99264c0d6711b97d564ce5b0c103ae271d7fe3c",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/apply-for-a-class-3-miscellaneous-vehicle-access-permit",
+  "source_url": "https://www.service.nsw.gov.au/referral/apply-for-a-class-3-miscellaneous-vehicle-access-permit",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "apply-for-a-class-3-miscellaneous-vehicle-access-permit",
+  "title": "Apply for a Class 3 (Miscellaneous) vehicle access permit",
+  "summary": "This page provides information on applying for a Class 3 (Miscellaneous) vehicle access permit if your heavy vehicle does not comply with specific mass, dimension, or operating requirements.",
+  "topics": [
+    "vehicle-access-permit",
+    "heavy-vehicle",
+    "class-3-permit",
+    "nhvr"
+  ],
+  "intro": "If your heavy vehicle does not comply with mass, dimension or operating requirements set out in a gazette notice, you'll need to apply for a Class 3 (Miscellaneous) access permit.\n\nYou may also require the Class 3 permit if you're operating under a jurisdictional permit-based scheme.\n\nYou apply for the permit via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.\n\nThe NHVR permit applies to travel throughout Australia, with the exception of Western Australia and the Northern Territory, where you'll need to apply directly to the relevant state or territory road transport authority.\n\nVisit the Class 3 (Miscellaneous) vehicle access permit on the NHVR website for detailed information.",
+  "who_can_apply": [
+    "Your heavy vehicle does not comply with mass, dimension, or operating requirements set out in a gazette notice.",
+    "You are operating under a jurisdictional permit-based scheme."
+  ],
+  "what_you_need": [
+    "Apply via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "gazette notice",
+      "url": "https://www.nhvr.gov.au/law-policies/notices-and-permit-based-schemes/state-notices/new-south-wales"
+    },
+    {
+      "text": "NHVR Go",
+      "url": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "text": "relevant state or territory road transport authority",
+      "url": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "text": "Class 3 (Miscellaneous) vehicle access permit",
+      "url": "https://www.nhvr.gov.au/road-access/access-management/applications/class-3-miscellaneous-permit"
+    },
+    {
+      "text": "NHVR Fee Schedule",
+      "url": "https://www.nhvr.gov.au/law-policies/fee-schedule"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Renewing heavy vehicle access permits",
+      "url": "https://www.service.nsw.gov.au/referral/renewing-heavy-vehicle-access-permits"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I apply for a Class 3 (Miscellaneous) vehicle access permit?",
+      "a": "You apply for the permit via the National Heavy Vehicle Regulator (NHVR) portal, NHVR Go.",
+      "link": "https://portal.nhvr.gov.au/login?clientId=1"
+    },
+    {
+      "q": "Does the NHVR permit cover all of Australia?",
+      "a": "The NHVR permit applies to travel throughout Australia, but you must apply directly to the relevant state or territory road transport authority if you are in Western Australia or the Northern Territory.",
+      "link": "https://www.nhvr.gov.au/about-us/useful-links"
+    },
+    {
+      "q": "Where can I find detailed information about the Class 3 (Miscellaneous) vehicle access permit?",
+      "a": "Visit the Class 3 (Miscellaneous) vehicle access permit page on the NHVR website for detailed information.",
+      "link": "https://www.nhvr.gov.au/road-access/access-management/applications/class-3-miscellaneous-permit"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:28Z",
+    "last_modified": "22 April 2025",
+    "html_sha1": "a6bf7063fa0b0603c4fac1865dc0c5823ec2b8f8",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

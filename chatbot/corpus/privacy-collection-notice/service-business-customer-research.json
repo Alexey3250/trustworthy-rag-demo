@@ -1,0 +1,61 @@
+{
+  "url": "https://www.service.nsw.gov.au/privacy-collection-notice/service-business-customer-research",
+  "source_url": "https://www.service.nsw.gov.au/privacy-collection-notice/service-business-customer-research",
+  "category": "privacy-collection-notice",
+  "article_kind": "content",
+  "slug": "service-business-customer-research",
+  "title": "Service NSW Small Business Research Panel – Privacy Collection Notice",
+  "summary": "This notice explains how Service NSW collects and uses your personal information when you sign up for the Small Business Research Panel and participate in customer research.",
+  "topics": [
+    "small-business",
+    "research-panel",
+    "privacy",
+    "customer-research"
+  ],
+  "intro": "Service NSW is collecting your personal information to assist you in signing up for the Service NSW Small Business Research Panel (the panel), and as part of your participation in customer research activities.\n\nService NSW gives priority to protecting the privacy of your personal information. We do this by handling personal information in a responsible manner and in accordance with the NSW Privacy Laws: Privacy and Personal Information Protection Act 1998.",
+  "who_can_apply": [
+    "Individuals who are interested in signing up for the Service NSW Small Business Research Panel."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Privacy and Personal Information Protection Act 1998",
+      "url": "https://legislation.nsw.gov.au/view/html/inforce/current/act-1998-133"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Service NSW Privacy",
+      "url": "https://www.service.nsw.gov.au/privacy-statement"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What information is collected when I sign up for the panel?",
+      "a": "Service NSW collects your full name, business contact number, email address, position in the business, business details (like ABN and location), research preferences, contact preferences, and feedback from research activities.",
+      "link": null
+    },
+    {
+      "q": "Why does Service NSW collect my information?",
+      "a": "The information is used to determine your eligibility for the panel, contact you for voluntary research activities, and improve services for businesses in NSW using your feedback.",
+      "link": null
+    },
+    {
+      "q": "What types of research activities might I participate in?",
+      "a": "Activities can be face-to-face (workshops, focus groups, interviews), online (surveys, polls, interviews), telephone (surveys, polls), or product testing.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:14Z",
+    "last_modified": "23 February 2026",
+    "html_sha1": "74b05293b4daba91efa589f2d585ea5923656df0",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

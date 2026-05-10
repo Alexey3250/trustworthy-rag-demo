@@ -1,0 +1,51 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-social-housing",
+  "source_url": "https://www.service.nsw.gov.au/referral/make-a-complaint-about-social-housing",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "make-a-complaint-about-social-housing",
+  "title": "Make a complaint about social housing",
+  "summary": "Find out how to make a complaint about a social housing issue, including who to contact and what to do if the issue is not resolved.",
+  "topics": [
+    "social-housing",
+    "make-a-complaint",
+    "tenant-enquiries",
+    "maintenance-requests"
+  ],
+  "intro": "If you want to make a complaint about a social housing issue, contact the Department of Communities and Justice (DCJ) on 1800 422 322.\n\nYou can also call this number for all maintenance requests and tenant enquiries.\n\nIf you cannot resolve your issue with DCJ, you can make a complaint to the NSW Ombudsman.",
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "DCJ website",
+      "url": "https://dcj.nsw.gov.au/contact-us/csc.html/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "make a complaint to the NSW Ombudsman",
+      "url": "https://www.service.nsw.gov.au/transaction/make-a-complaint-about-a-nsw-government-agency"
+    },
+    {
+      "text": "Request or report property maintenance issues in social housing",
+      "url": "https://www.service.nsw.gov.au/referral/request-or-report-property-maintenance-issues-in-social-housing"
+    },
+    {
+      "text": "Appeal a social housing provider decision",
+      "url": "https://www.service.nsw.gov.au/transaction/appeal-a-social-housing-provider-decision"
+    }
+  ],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:07Z",
+    "last_modified": "3 December 2024",
+    "html_sha1": "268b3c18b451550065601a0e41d1f80903ad6c21",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

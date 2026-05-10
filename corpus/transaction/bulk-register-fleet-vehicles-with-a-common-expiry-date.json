@@ -1,0 +1,35 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/bulk-register-fleet-vehicles-with-a-common-expiry-date",
+  "source_url": "https://www.service.nsw.gov.au/transaction/bulk-register-fleet-vehicles-with-a-common-expiry-date",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "bulk-register-fleet-vehicles-with-a-common-expiry-date",
+  "title": "Bulk register fleet vehicles with a common expiry date",
+  "summary": "Learn about applying to register a fleet of vehicles with a common expiry date (CED), meaning all registrations will renew at the same time.",
+  "topics": [
+    "fleet-vehicles",
+    "registration",
+    "expiry-date",
+    "bulk-registration"
+  ],
+  "intro": "If you have a fleet of vehicles, you can apply to register them with a common expiry date (CED). This means the registrations on the vehicles will be due for renewal at the same time.\n\nTo be eligible for a CED fleet you must have:\n\nConditional and seasonal registrations cannot be part of a CED fleet.\n\nTo find out more or get help with the bulk fleet registration, contact the CED team on:",
+  "who_can_apply": [
+    "Conditional and seasonal registrations cannot be part of a CED fleet."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:56:05Z",
+    "last_modified": "4 April 2025",
+    "html_sha1": "48d1dc5b9d20a8c5e41d826c8c5f7e82b8b47351",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/applying-for-a-commonwealth-seniors-health-card",
+  "source_url": "https://www.service.nsw.gov.au/referral/applying-for-a-commonwealth-seniors-health-card",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "applying-for-a-commonwealth-seniors-health-card",
+  "title": "Applying for a Commonwealth Seniors Health Card",
+  "summary": "Find out about the Commonwealth Seniors Health Card (CSHC) for eligible Australians who have reached pension age.",
+  "topics": [
+    "seniors",
+    "health-card",
+    "pension-age",
+    "concessions"
+  ],
+  "intro": "A Commonwealth Seniors Health Card (CSHC) is available for eligible Australians who have reached pension age.\n\nHolders of a CSHC receive concessions on certain medical expenses, and depending on their individual GP, that may also include having visits to their doctor, bulk billed.\n\nIn addition, most state/territory and local councils will provide cost of living benefits to card holders.\n\nTo be eligible for a CSHC, you must not be receiving any income support from Centrelink or the Department of Veterans' Affairs, and meet other criteria relating to your residency status and income.\n\nVisit CSHC on the Services Australia website for more detailed information on:\n\nNote: The CSHC is provided by Services Australia, not Service NSW.",
+  "who_can_apply": [
+    "Must be an eligible Australian who has reached pension age.",
+    "Must not be receiving any income support from Centrelink or the Department of Veterans' Affairs.",
+    "Must meet other criteria relating to residency status and income."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "CSHC on the Services Australia website",
+      "url": "https://www.servicesaustralia.gov.au/commonwealth-seniors-health-card"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:31Z",
+    "last_modified": "21 January 2025",
+    "html_sha1": "27292b14b1479b87ca6e5fa950de6b5d80c01e01",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

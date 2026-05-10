@@ -1,0 +1,177 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account",
+  "source_url": "https://www.service.nsw.gov.au/transaction/open-an-e-toll-account",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "open-an-e-toll-account",
+  "title": "Open an E-Toll Account",
+  "summary": "Open an E-Toll Account to automatically pay tolls when traveling on toll roads.",
+  "topics": [
+    "e-toll",
+    "toll-road",
+    "account-opening",
+    "travel-nsw"
+  ],
+  "intro": "If you travel on a toll road, you must pay a fee. Motorists that regularly travel on toll roads, can open an E-Toll Account to automatically pay the toll.\n\nYou can choose between two accounts that allow you to travel on all Australian roads at any time:\n\nE-Toll Tag Account\n\nE-Toll Tagless Account\n\nNote: All toll roads are electronically tolled. There are no cash tollbooths. If you’re visiting NSW, or plan to use toll roads for up to 30 days, you can order an eMU Casual Pass.\n\nYou can apply for an E-Toll Account online, by calling 13 18 65 or by visiting a Service NSW Centre.",
+  "who_can_apply": [
+    "Motorists that regularly travel on toll roads."
+  ],
+  "what_you_need": [
+    "The vehicle's details, including the state the vehicle is registered in.",
+    "Your Australian Business Number (ABN) or Australian Company Number (ACN) (if applicable).",
+    "The registration fee (for an E-Toll Tagless Account).",
+    "Payment for the account's opening credit.",
+    "Personal details for up to 2 additional contacts (optional)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Open an account' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Choose the account you want to open.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Read and accept the Terms and Conditions.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Follow the prompts to open an account.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Download and complete the E-Toll application form – PDF",
+      "link": "https://www.myetoll.transport.nsw.gov.au/e-toll-application-form"
+    },
+    {
+      "n": 6,
+      "text": "Visit a service centre and open an account in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "n": 7,
+      "text": "If you choose a physical tag, it will be posted to your nominated address within 5 to 7 business days.",
+      "link": null
+    },
+    {
+      "n": 8,
+      "text": "After opening an account, you can use toll roads straight away if you have linked a valid licence plate number to your account. Note: Any vehicle matching fees incurred during this time will be re-credited to your E-Toll Account. You'll see them on your next statement (E-Toll Tag Accounts only).",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "It's important to fit your tag correctly. You may incur additional fees if your tag is not detected when you're using a toll road.",
+      "link": null
+    },
+    {
+      "text": "If you travel on a toll road without an E-Toll Account or an eMU Casual Pass, you'll need to pay a toll trip.",
+      "link": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "E-Toll application form – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/e-toll-application-form"
+    },
+    {
+      "text": "How to install your E-Toll Tag – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071696-install-your-e-toll-tag.pdf"
+    },
+    {
+      "text": "How to install your E-Toll Tag – Model: OBU610 – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071696a-install-e-toll-tag-obu610_0.pdf"
+    },
+    {
+      "text": "How to install your E-Toll Tag – Model: Kapsch – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/kapsch-class2-car-tag-installation-instructions.pdf"
+    },
+    {
+      "text": "How to install your Heavy Vehicle E-Toll Tag – PDF",
+      "url": "https://www.myetoll.transport.nsw.gov.au/sites/default/files/2020-07/45071217-heavy-vehicle-e-toll-tag_0.pdf"
+    },
+    {
+      "text": "Terms and Conditions – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/e-toll-terms-and-conditions"
+    },
+    {
+      "text": "Fees – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/e-toll-tag-and-e-toll-tagless"
+    },
+    {
+      "text": "FAQs – E-Toll",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs"
+    },
+    {
+      "text": "Types of tags and how to install them",
+      "url": "https://www.myetoll.transport.nsw.gov.au/help-and-faqs/getting-started"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "order an eMU Casual Pass",
+      "url": "https://www.service.nsw.gov.au/transaction/order-a-casual-emu-pass"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "pay a toll trip",
+      "url": "https://www.service.nsw.gov.au/transaction/pay-a-toll-trip"
+    },
+    {
+      "text": "Apply for an E-Toll Account concession",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-e-toll-account-concession"
+    },
+    {
+      "text": "Order extra tags for an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/order-extra-tags-for-an-e-toll-account"
+    },
+    {
+      "text": "Replace an E-Toll tag",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-an-e-toll-tag"
+    },
+    {
+      "text": "Change the vehicle details on an E-Toll Account",
+      "url": "https://www.service.nsw.gov.au/transaction/change-vehicle-details-e-toll-account"
+    },
+    {
+      "text": "Apply for an ERider pass",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-erider-pass"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I visit NSW for a short time?",
+      "a": "If you are visiting NSW, or plan to use toll roads for up to 30 days, you can order an eMU Casual Pass.",
+      "link": "https://www.service.nsw.gov.au/transaction/order-a-casual-emu-pass"
+    },
+    {
+      "q": "How can I open an E-Toll Account?",
+      "a": "You can apply online, by calling 13 18 65, or by visiting a Service NSW Centre.",
+      "link": null
+    },
+    {
+      "q": "What do I need to open an E-Toll Account?",
+      "a": "You need the vehicle's details (including the state of registration), your ABN or ACN (if applicable), payment for the account's opening credit, and personal details for up to two additional contacts (optional).",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:46Z",
+    "last_modified": "4 February 2025",
+    "html_sha1": "4bf210f86ccce153c0e0be0c1a527d4a243ca17b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/register-to-be-an-organ-donor",
+  "source_url": "https://www.service.nsw.gov.au/referral/register-to-be-an-organ-donor",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "register-to-be-an-organ-donor",
+  "title": "Register to be an organ and tissue donor",
+  "summary": "Learn how to register your decision to be an organ and tissue donor online.",
+  "topics": [
+    "organ-donation",
+    "tissue-donation",
+    "donor-register",
+    "donate-life"
+  ],
+  "intro": "If you are aged 16 or over and want to donate your organs and tissues for transplant after death, you can register your decision online with the Australian Organ Donor Register.\n\nYou will need your Medicare card to register online.\n\nYou can also check if you’re already registered as a donor.\n\nYour family will need to provide consent before donation can go ahead so remember to discuss your decision with family and close friends.",
+  "who_can_apply": [
+    "Must be aged 16 or over"
+  ],
+  "what_you_need": [
+    "Medicare card (to register online)",
+    "Family consent (required before donation)"
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": "For feedback and other enquiries about organ and tissue donation, contact DonateLife.",
+  "more_info": [
+    {
+      "text": "through Medicare in your myGov account",
+      "link": "https://my.gov.au/"
+    },
+    {
+      "text": "by following the instructions to complete the form Australian Organ Donor Register – PDF.",
+      "link": "https://www.servicesaustralia.gov.au/nh007df"
+    },
+    {
+      "text": "You can also register your donation decision:",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "DonateLife website",
+      "url": "https://www.donatelife.gov.au/register-donor-today?utm_source=serviceNSW&utm_medium=URL&utm_campaign=serviceNSW"
+    },
+    {
+      "text": "myGov account",
+      "url": "https://my.gov.au/"
+    },
+    {
+      "text": "Australian Organ Donor Register – PDF",
+      "url": "https://www.servicesaustralia.gov.au/nh007df"
+    },
+    {
+      "text": "contact DonateLife",
+      "url": "https://www.donatelife.gov.au/contact-us"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Update organ donation details",
+      "url": "https://www.service.nsw.gov.au/referral/update-organ-donation-details"
+    },
+    {
+      "text": "Order a new organ donor card",
+      "url": "https://www.service.nsw.gov.au/referral/order-a-new-organ-donor-card"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can register as an organ donor?",
+      "a": "You must be aged 16 or over to register your decision to donate your organs and tissues for transplant after death.",
+      "link": null
+    },
+    {
+      "q": "Do I need to talk to my family?",
+      "a": "Yes, your family will need to provide consent before donation can go ahead, so you should discuss your decision with family and close friends.",
+      "link": null
+    },
+    {
+      "q": "How can I check if I am already registered?",
+      "a": "You can check if you are already registered as a donor.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:44:53Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "45f5d4ce9c94912b4efb25cf14dd3e3ac7f9b10a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

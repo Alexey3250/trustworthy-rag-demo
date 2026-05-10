@@ -1,0 +1,112 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit",
+  "source_url": "https://www.service.nsw.gov.au/transaction/replace-a-paintball-permit",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "replace-a-paintball-permit",
+  "title": "Replace a paintball permit",
+  "summary": "You can apply for a replacement paintball permit if your original permit is lost, damaged, stolen, destroyed, or has a printing error.",
+  "topics": [
+    "paintball-permit",
+    "replace-permit",
+    "service-nsw"
+  ],
+  "intro": "If your permit is lost, damaged, stolen, destroyed or issued with a printing error, you can apply for a replacement at a Service NSW Centre or by post.\n\nYou can replace the following permits:",
+  "who_can_apply": [
+    "The permit must be lost, damaged, stolen, destroyed, or issued with a printing error."
+  ],
+  "what_you_need": [
+    "The 'Replace a paintball permit' PDF form",
+    "Permit number (if known)",
+    "Proof of identity (such as a driver licence or Australian passport)",
+    "Business details (if applicable)",
+    "Reason for replacement",
+    "Payment"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Make a payment online and enter your receipt number on the form.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Send the application by email to the details on the form, or visit a service centre to submit in person.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "payment",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw/paintball-permit-fees"
+    },
+    {
+      "text": "Paintball permit",
+      "url": "https://www.nsw.gov.au/business-and-economy/running-a-business/industry-specific-business-requirements/running-a-paintball-business-nsw"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "Change of details for a paintball permit",
+      "url": "https://www.service.nsw.gov.au/transaction/change-of-details-for-a-paintball-permit"
+    },
+    {
+      "text": "Apply for a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-marker-permit"
+    },
+    {
+      "text": "Apply for a paintball venue permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-paintball-venue-permit"
+    },
+    {
+      "text": "Apply for an international paintball competitor permit",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-an-international-paintball-competitor-permit"
+    },
+    {
+      "text": "Renew a paintball marker permit",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-paintball-marker-permit"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I replace a lost or damaged paintball permit?",
+      "a": "You can apply for a replacement at a Service NSW Centre or by post.",
+      "link": null
+    },
+    {
+      "q": "What do I need to replace my permit?",
+      "a": "You need the 'Replace a paintball permit' PDF form, your permit number (if known), proof of identity (like a driver licence or Australian passport), business details (if applicable), the reason for replacement, and your payment.",
+      "link": null
+    },
+    {
+      "q": "What payment methods are accepted?",
+      "a": "Payment methods include PayPal, or a credit or debit card.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:41:48Z",
+    "last_modified": "29 July 2025",
+    "html_sha1": "4284f8ef536159a27dbf4603032f9eff4c03970f",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

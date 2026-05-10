@@ -1,0 +1,81 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis",
+  "source_url": "https://www.service.nsw.gov.au/transaction/access-support-through-the-ndis",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "access-support-through-the-ndis",
+  "title": "Access support through the National Disability Insurance Scheme (NDIS)",
+  "summary": "Find out how the National Disability Insurance Scheme (NDIS) works and where to get support.",
+  "topics": [
+    "ndis",
+    "disability-support",
+    "australia-scheme",
+    "independence"
+  ],
+  "intro": "The National Disability Insurance Scheme (NDIS) is an Australia-wide scheme. It is designed to help participants get the support they need so their skills and independence can improve over time.\n\nTo be eligible for the NDIS you must:\n\nNDIS funding is provided directly to the individual.\n\nTo find out how the scheme works, who your NSW Local Area Coordinator is, and how to go about applying, visit the NDIS website.",
+  "who_can_apply": [
+    "Must be eligible for the NDIS."
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NDIS website",
+      "url": "https://ocg.nsw.gov.au/ndiswc"
+    },
+    {
+      "text": "Understanding the NDIS – PDF",
+      "url": "https://www.ndis.gov.au/media/80/download"
+    },
+    {
+      "text": "Understanding the NDIS Easy English – PDF",
+      "url": "https://www.ndis.gov.au/media/125/download"
+    },
+    {
+      "text": "NDIS offices in NSW",
+      "url": "https://ndis.gov.au/about-us/locations.html#nsw_ndis"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "National Disability Insurance Scheme Worker Check (NDISWC)",
+      "url": "https://www.service.nsw.gov.au/services/ndiswc"
+    },
+    {
+      "text": "Disability assistance",
+      "url": "https://www.service.nsw.gov.au/services/disability-assistance"
+    },
+    {
+      "text": "Apply for an NDIS Worker Check",
+      "url": "https://www.service.nsw.gov.au/transaction/ndiswc-apply"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the NDIS?",
+      "a": "The National Disability Insurance Scheme (NDIS) is an Australia-wide scheme designed to help participants improve their skills and independence over time.",
+      "link": null
+    },
+    {
+      "q": "How is NDIS funding provided?",
+      "a": "NDIS funding is provided directly to the individual.",
+      "link": null
+    },
+    {
+      "q": "Where can I find more information about the NDIS?",
+      "a": "To find out how the scheme works, who your NSW Local Area Coordinator is, and how to apply, visit the NDIS website.",
+      "link": "https://ocg.nsw.gov.au/ndiswc"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:49:14Z",
+    "last_modified": "20 April 2026",
+    "html_sha1": "217caf10955ea92996aecbdb9d3cb7927804e428",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

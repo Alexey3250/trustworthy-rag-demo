@@ -1,0 +1,95 @@
+{
+  "url": "https://www.service.nsw.gov.au/service-centre/hay-service-centre",
+  "source_url": "https://www.service.nsw.gov.au/service-centre/hay-service-centre",
+  "category": "service-centre",
+  "article_kind": "store",
+  "slug": "hay-service-centre",
+  "title": "Hay Service Centre",
+  "summary": "This page provides information about the Hay Service Centre, including payment options, accessibility facilities, and nearby Service NSW locations.",
+  "topics": [
+    "service-centre",
+    "accessibility",
+    "payment",
+    "directions"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Get directions",
+      "url": "https://www.google.com/maps/dir/?api=1&destination=-34.507513,144.844263"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Contact Service NSW",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Find services",
+      "url": "https://www.service.nsw.gov.au/services"
+    },
+    {
+      "text": "create a MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-create-an-account"
+    },
+    {
+      "text": "download the Service NSW mobile app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "online booking",
+      "url": "https://www.service.nsw.gov.au/OnlineBookings"
+    },
+    {
+      "text": "Search",
+      "url": "https://www.service.nsw.gov.au/search-results"
+    },
+    {
+      "text": "find a Quiet Hour at another service centre",
+      "url": "https://www.service.nsw.gov.au/about-us/our-services/quiet-hour#find-a-quiet-hour-service-centre-location"
+    },
+    {
+      "text": "Moulamein Agency",
+      "url": "https://www.service.nsw.gov.au/service-centre/moulamein-agency"
+    },
+    {
+      "text": "Griffith Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/griffith-service-centre"
+    },
+    {
+      "text": "Deniliquin Service Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre/deniliquin-service-centre"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What payment methods are accepted at the Hay Service Centre?",
+      "a": "You can pay using cash, EFTPOS, or credit or debit card.",
+      "link": null
+    },
+    {
+      "q": "Is the Hay Service Centre accessible for people with disabilities?",
+      "a": "The centre offers wheelchair access, entry at street level, and street parking. It also provides Auslan video remote interpreting, a hearing loop, and remote live captioning.",
+      "link": null
+    },
+    {
+      "q": "Where can I find other Service NSW locations near Hay?",
+      "a": "Nearby locations include the Moulamein Agency, Griffith Service Centre, and Deniliquin Service Centre.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:14Z",
+    "last_modified": null,
+    "html_sha1": "86d757ffbbfe0f0c203187fde17d43c6289f1982",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

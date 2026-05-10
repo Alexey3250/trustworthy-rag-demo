@@ -1,0 +1,83 @@
+{
+  "url": "https://www.service.nsw.gov.au/referral/grain-harvest-management-scheme",
+  "source_url": "https://www.service.nsw.gov.au/referral/grain-harvest-management-scheme",
+  "category": "referral",
+  "article_kind": "referral",
+  "slug": "grain-harvest-management-scheme",
+  "title": "Grain Harvest Management Scheme",
+  "summary": "Learn about the Grain Harvest Management Scheme (GHMS), which allows heavy vehicles to exceed regulated mass limits when transporting certain grains.",
+  "topics": [
+    "grain-harvest-management-scheme",
+    "heavy-vehicles",
+    "agriculture",
+    "transport"
+  ],
+  "intro": "The NSW Grain Harvest Management Scheme (GHMS) promotes the safe and productive movement of grain.\n\nUnder the scheme, heavy vehicles may exceed the regulated total mass limits by up to 5% when delivering some cereals, oilseeds and pulses. This applies from the farm to participating grain receivers in participating NSW council areas.\n\nTo operate a heavy vehicle under the GHMS, you do not need to enrol or pay an application fee.\n\nFind out about the Grain Harvest Management Scheme.",
+  "who_can_apply": [
+    "Operating a heavy vehicle delivering cereals, oilseeds, or pulses from a farm to a participating grain receiver in a participating NSW council area."
+  ],
+  "what_you_need": [
+    "None (No enrolment or application fee is required)."
+  ],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Grain Harvest Management Scheme",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/schemes-and-programs/grain"
+    },
+    {
+      "text": "use an interactive online map",
+      "url": "https://maps.nhvr.gov.au/?networkLayerContext=NATIONAL_MAP&view=Category&exemptionSetId=-2"
+    },
+    {
+      "text": "National Network Map – National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/road-access/route-planner/national-network-map"
+    },
+    {
+      "text": "Restricted access heavy vehicles – Transport for NSW",
+      "url": "https://www.transport.nsw.gov.au/operations/roads-and-waterways/business-and-industry/heavy-vehicles/road-access/restricted-access"
+    },
+    {
+      "text": "National Heavy Vehicle Regulator",
+      "url": "https://www.nhvr.gov.au/"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Check approved routes for the NSW Livestock Loading Scheme",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-the-nsw-livestock-loading-scheme"
+    },
+    {
+      "text": "Check approved routes for a Restricted Access Vehicle",
+      "url": "https://www.service.nsw.gov.au/referral/check-approved-routes-for-a-restricted-access-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does the Grain Harvest Management Scheme (GHMS) allow?",
+      "a": "The GHMS allows heavy vehicles to exceed regulated total mass limits by up to 5% when delivering cereals, oilseeds, and pulses.",
+      "link": null
+    },
+    {
+      "q": "Where does the GHMS apply?",
+      "a": "It applies from the farm to participating grain receivers in participating NSW council areas.",
+      "link": null
+    },
+    {
+      "q": "Do I need to enrol or pay a fee to operate under the GHMS?",
+      "a": "No, you do not need to enrol or pay an application fee to operate a heavy vehicle under the GHMS.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:45:31Z",
+    "last_modified": "2 April 2025",
+    "html_sha1": "f9935c21f17102a51bde2648586e5d17d6117918",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-or-replace-a-photo-card-using-a-photo-kit-form",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-or-replace-a-photo-card-using-a-photo-kit-form",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-or-replace-a-photo-card-using-a-photo-kit-form",
+  "title": "Apply for or replace a photo card using a photo-kit form",
+  "summary": "Learn how to apply for or replace a NSW Photo Card using a photo-kit form if you cannot visit a Service NSW Centre.",
+  "topics": [
+    "nsw-photo-card",
+    "proof-of-identity",
+    "photo-kit-form",
+    "service-nsw"
+  ],
+  "intro": "If you do not have photo identification such as a NSW Driver Licence you can use a NSW Photo Card to prove your identity in most places a driver licence is recognised.\n\nGetting a NSW Photo Card is voluntary. It has the same application process as a NSW Driver Licence.\n\n### If you cannot visit a service centre\n\nIf you have a medical or health condition that prevents you from visiting a Service NSW Centre you can apply for or replace your NSW Photo Card using a photo-kit form.\n\n### Apply in person\n\nIf you can visit a Service NSW Centre to have your photo taken and submit your application find out how to apply for a NSW Photo Card in person.",
+  "who_can_apply": [
+    "Must be a NSW resident and aged 16 and over.",
+    "Must be able to provide acceptable proof of identity documents.",
+    "Must have previously held a NSW Driver Licence or NSW Photo Card.",
+    "Must have a medical certificate from a General Practitioner (GP) or referring specialist stating that you cannot visit a service centre due to a medical or health condition."
+  ],
+  "what_you_need": [
+    "A colour passport-size photo as detailed on the form.",
+    "Proof of identity as detailed on the form.",
+    "Your NSW residential address.",
+    "The letter provided by a General Practitioner (GP) or referring specialist.",
+    "An appropriate witness as described on the form.",
+    "Photocopy of your concession card.",
+    "Accepted change of name document (must be witnessed and certified if your proof of identity documents are in a different name).",
+    "The completed and printed photo-kit application form (downloadable PDF or obtained by calling +61 2 8894 1599)."
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Download PDF form' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Complete the form.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Gather the necessary documents.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Attach your supporting documents to the completed form.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Send your photo-kit application form by post to the address on the form with your fee payment.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Attach your supporting documents to the completed form.",
+      "link": null
+    },
+    {
+      "n": 7,
+      "text": "Give your photo-kit application form to your representative (such as a relative, friend or carer) to submit your completed application on your behalf at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "fees": "You need to pay a fee for this service. Complete the credit card authority (Mastercard, Visa or American Express) on the application form. Cash payments are not accepted. Check the amount payable for NSW Photo Card fees.\n\nNote: There is no fee if you are eligible for a free NSW Photo Card.\n\n### Free NSW Photo Card eligibility\n\nYou may be eligible for a free NSW Photo Card if you have one of the following:",
+  "processing_time": null,
+  "contact": "If you need help with your application:\n\nIf you need to follow up after you submit your application you can contact the Photo Kit Unit by sending an email to photokitunit@service.nsw.gov.au",
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "NSW Photo Card fees",
+      "url": "https://www.nsw.gov.au/driving-boating-and-transport/driver-and-rider-licences/proof-of-identity/photo-cards/fees-and-concessions"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for a NSW Photo Card in person",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-photo-card"
+    },
+    {
+      "text": "name change",
+      "url": "https://www.service.nsw.gov.au/services/change-of-name"
+    },
+    {
+      "text": "service centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "online enquiry form",
+      "url": "https://www.service.nsw.gov.au/contact-us"
+    },
+    {
+      "text": "Replace a NSW Photo Card",
+      "url": "https://www.service.nsw.gov.au/transaction/replace-a-photocard"
+    },
+    {
+      "text": "Renew a driver licence while temporarily interstate or overseas (using a photo-kit form)",
+      "url": "https://www.service.nsw.gov.au/transaction/renew-a-driver-licence-while-temporarily-interstate-or-overseas"
+    },
+    {
+      "text": "Cancel a NSW driver or rider licence voluntarily",
+      "url": "https://www.service.nsw.gov.au/transaction/surrender-a-nsw-driver-or-rider-licence-voluntarily"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who can apply for a NSW Photo Card using a photo-kit form?",
+      "a": "You must be a NSW resident aged 16 or over, provide acceptable proof of identity, and either previously hold a NSW Driver Licence or NSW Photo Card. You must also have a medical certificate stating you cannot visit a service centre due to a medical or health condition.",
+      "link": null
+    },
+    {
+      "q": "What documents do I need to apply using a photo-kit form?",
+      "a": "You need a colour passport-size photo, proof of identity, your NSW residential address, a letter from a General Practitioner (GP) or referring specialist, an appropriate witness, a photocopy of your concession card, and accepted change of name documents.",
+      "link": null
+    },
+    {
+      "q": "How do I submit my photo-kit application?",
+      "a": "You can send the completed form and supporting documents by post to the address on the form, or give the form to a representative (such as a relative, friend, or carer) to submit at a service centre.",
+      "link": "https://www.service.nsw.gov.au/service-centre"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:46:17Z",
+    "last_modified": "10 December 2025",
+    "html_sha1": "35c4ec3d36ce8e42123e29b906fe6f6d0da6e919",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

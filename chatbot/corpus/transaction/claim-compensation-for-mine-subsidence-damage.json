@@ -1,0 +1,122 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/claim-compensation-for-mine-subsidence-damage",
+  "source_url": "https://www.service.nsw.gov.au/transaction/claim-compensation-for-mine-subsidence-damage",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "claim-compensation-for-mine-subsidence-damage",
+  "title": "Claim compensation for mine subsidence damage",
+  "summary": "This page explains how to lodge a claim for compensation if your property has been damaged by mine subsidence.",
+  "topics": [
+    "mine-subsidence",
+    "compensation",
+    "property-damage",
+    "claims"
+  ],
+  "intro": "If you think your property has been damaged by mine subsidence, you can lodge a claim for compensation through the Subsidence Advisory NSW online portal.\n\nSome types of damage that can occur include:\n\nYou will need to lodge a claim within 12 months of becoming aware that the damage was caused by subsidence.\n\nFor emergencies:",
+  "who_can_apply": [
+    "Must be the property owner or an authorised representative of the property owner."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "Details of all property owners, including relevant proof of authority",
+    "The property address, including lot and DP number (if available)",
+    "A detailed description of the damage, including photos (if available)",
+    "The date you first became aware of the damage"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Review the step-by-step process for making a claim.Note: You can also watch a video that explains the process.",
+      "link": "https://www.nsw.gov.au/subsidence-advisory/claims#toc-step-by-step-claims-process"
+    },
+    {
+      "n": 2,
+      "text": "Select the ‘Claim online’ button.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Log in, or create a MyServiceNSW Account. You will then be directed to the portal homepage.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select the 'Claims' tile.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Under 'Draft claims', select 'Create' to start a claim.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts to complete your application, and upload any documents (including photos of the damage) to support your claim.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "You can log in to the Subsidence Advisory NSW Portal to track and manage your claim.",
+      "link": "https://portal.subsidenceadvisory.nsw.gov.au"
+    }
+  ],
+  "external_links": [
+    {
+      "text": "types of damage",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/mine-subsidence#toc-about-mine-subsidence"
+    },
+    {
+      "text": "Triple Zero (000)",
+      "url": "https://www.fire.nsw.gov.au/page.php?id=309"
+    },
+    {
+      "text": "step-by-step process for making a claim",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/claims#toc-step-by-step-claims-process"
+    },
+    {
+      "text": "watch a video",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/claims#toc-video-guide-claims-process-for-active-mining-areas"
+    },
+    {
+      "text": "Subsidence Advisory NSW Privacy Policy",
+      "url": "https://www.nsw.gov.au/subsidence-advisory/privacy-policy"
+    },
+    {
+      "text": "Subsidence Advisory NSW Portal",
+      "url": "https://portal.subsidenceadvisory.nsw.gov.au"
+    },
+    {
+      "text": "Guidelines: Process for Claiming Mine Subsidence Compensation – PDF",
+      "url": "https://www.nsw.gov.au/sites/default/files/2022-01/mine-subsidence-compensation-claims-process-guidelines-subsidence-advisory-nsw.pdf"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [
+    {
+      "q": "Who can lodge a claim for mine subsidence damage?",
+      "a": "You must be the property owner or an authorised representative of the property owner.",
+      "link": null
+    },
+    {
+      "q": "How long do I have to lodge a claim?",
+      "a": "You must lodge a claim within 12 months of becoming aware that the damage was caused by subsidence.",
+      "link": null
+    },
+    {
+      "q": "What do I need to start a claim?",
+      "a": "You need a MyServiceNSW Account, your details and the details of all property owners (including proof of authority), the property address (including lot and DP number), a detailed description of the damage (including photos), and the date you first became aware of the damage.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:42:54Z",
+    "last_modified": "28 October 2025",
+    "html_sha1": "e963db570beee593b8fe51f67a3b65979246624b",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

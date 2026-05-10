@@ -1,0 +1,151 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover",
+  "source_url": "https://www.service.nsw.gov.au/transaction/apply-for-home-building-compensation-cover",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "apply-for-home-building-compensation-cover",
+  "title": "Apply for home building compensation cover",
+  "summary": "This page provides information about Home Building Compensation (HBC) cover, which protects homeowners if their builder causes damage.",
+  "topics": [
+    "home-building-compensation",
+    "home-owners",
+    "builders",
+    "insurance-cover"
+  ],
+  "intro": "Home building compensation (HBC) cover (formerly known as home warranty insurance), helps to protect home owners if their builder:\n\nYou must hold HBC cover of at least $340,000 before you start any work or take any money (including a deposit) for any residential home or renovation project where the:\n\nNote: You do not need HBC cover if you subcontract the work from another licensed contractor.\n\nProjects that typically require HBC cover include:\n\nYou must:\n\nIt is an offence under NSW law to not do this.",
+  "who_can_apply": [
+    "Homeowners undertaking residential building or renovation projects."
+  ],
+  "what_you_need": [
+    "HBC cover of at least $340,000",
+    "A contractor licence for building, trade or specialist work (for contractors)",
+    "An ABN/ACN (for contractors)",
+    "A certificate of eligibility (for contractors)"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Find an insurance broker distributor from icare HBCF’s list.",
+      "link": "https://www.icare.nsw.gov.au/builders-and-homeowners/builders-and-distributors/find-a-broker-distributor"
+    },
+    {
+      "n": 2,
+      "text": "Get a certificate of eligibility from your broker distributor.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Submit your application for HBC cover through your broker distributor.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "you've had your licence suspended for failing to comply with a court or tribunal order to compensate them, or",
+      "link": null
+    },
+    {
+      "text": "you become insolvent, die or disappear.",
+      "link": null
+    },
+    {
+      "text": "### Check if a job is covered",
+      "link": null
+    },
+    {
+      "text": "Jobs that have HBC cover are listed on the free public register HBC check. Anyone can use HBC check to confirm that a builder or tradesperson has valid cover for the residential work they're doing in NSW.",
+      "link": null
+    },
+    {
+      "text": "### Making a HBC cover claim",
+      "link": null
+    },
+    {
+      "text": "A home owner can make a claim on your HBC cover if you're unable to complete building work or honour your warranty obligations, because:",
+      "link": null
+    },
+    {
+      "text": "The State Insurance Regulatory Authority (SIRA) regulates the HBC scheme, and icare HBCF is the only insurance provider that offers HBC cover.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "HBC Assist tool",
+      "url": "https://www.sira.nsw.gov.au/homebuildingcompensationdecisionstree/info"
+    },
+    {
+      "text": "exempt from insurance",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation/exemptions-from-the-home-building-compensation-scheme"
+    },
+    {
+      "text": "icare HBCF’s list",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/builders-and-distributors/find-a-broker-distributor"
+    },
+    {
+      "text": "HBC check",
+      "url": "https://hbccheck.nsw.gov.au/"
+    },
+    {
+      "text": "Home building compensation insurance – SIRA",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation"
+    },
+    {
+      "text": "Apply for a Certificate of Insurance (HBC) – icare",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/builders-and-distributors/apply-for-insurance"
+    },
+    {
+      "text": "Home building compensation insurance: information for builders and tradies – SIRA",
+      "url": "https://www.sira.nsw.gov.au/home-building-compensation/home-building-compensation-for-builders-and-tradies"
+    },
+    {
+      "text": "Approved HBC insurance brokers",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/builders-eligibility/find-a-broker/"
+    },
+    {
+      "text": "HBCF Builder Self-Service Portal – icare",
+      "url": "https://www.icare.nsw.gov.au/builders-and-homeowners/builders-and-distributors/builder-self-service-portal"
+    },
+    {
+      "text": "Home Building Compensation Fund – icare",
+      "url": "https://www.icare.nsw.gov.au/government-agencies/our-funds-and-schemes/home-building-compensation-fund"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "certificate of eligibility",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-certificate-of-eligibility"
+    },
+    {
+      "text": "Use the Home Building Compensation (HBC) Check",
+      "url": "https://www.service.nsw.gov.au/transaction/use-the-hbc-check"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is Home Building Compensation (HBC) cover?",
+      "a": "HBC cover helps protect homeowners if their builder causes damage to the home.",
+      "link": null
+    },
+    {
+      "q": "When do I need HBC cover?",
+      "a": "You must hold HBC cover of at least $340,000 before starting any work or taking any money (including a deposit) for a residential home or renovation project.",
+      "link": null
+    },
+    {
+      "q": "Do I need HBC cover if I use a subcontractor?",
+      "a": "You do not need HBC cover if you subcontract the work from another licensed contractor.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:47:58Z",
+    "last_modified": "9 September 2024",
+    "html_sha1": "06378f1b2eab93b6e61b4ec073ffe36cf401210a",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

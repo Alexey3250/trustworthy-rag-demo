@@ -1,0 +1,79 @@
+{
+  "url": "https://www.service.nsw.gov.au/nswgovdirectory/director-of-public-prosecutions-office-of-the",
+  "source_url": "https://www.service.nsw.gov.au/nswgovdirectory/director-of-public-prosecutions-office-of-the",
+  "category": "nswgovdirectory",
+  "article_kind": "directory",
+  "slug": "director-of-public-prosecutions-office-of-the",
+  "title": "Director of Public Prosecutions, Office of the (ODPP)",
+  "summary": "This page provides information about the Director of Public Prosecutions (ODPP), including services for victims and witnesses, and career opportunities.",
+  "topics": [
+    "director-of-public-prosecutions",
+    "victims-and-witnesses",
+    "legal-services",
+    "careers"
+  ],
+  "intro": null,
+  "who_can_apply": [],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "https://www.odpp.nsw.gov.au/",
+      "url": "https://www.odpp.nsw.gov.au/"
+    },
+    {
+      "text": "Going to court and giving evidence",
+      "url": "https://www.odpp.nsw.gov.au/preparing-for-court/going-to-court"
+    },
+    {
+      "text": "Witness Assistance Service (WAS)",
+      "url": "https://www.odpp.nsw.gov.au/victims-witnesses/witness-assistance-service"
+    },
+    {
+      "text": "General enquiry (online form)",
+      "url": "https://www.odpp.nsw.gov.au/about-us/contact-us"
+    },
+    {
+      "text": "Witness and Victim Services – Office of the Director of Public Prosecutions",
+      "url": "https://www.odpp.nsw.gov.au/victims-witnesses"
+    },
+    {
+      "text": "ODPP Careers",
+      "url": "https://www.odpp.nsw.gov.au/about-us/careers"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "Communities and Justice, NSW Department of",
+      "url": "https://www.service.nsw.gov.au/nswgovdirectory/communities-and-justice-nsw-department-of"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can I find information about the ODPP?",
+      "a": "The ODPP website provides general information and services for victims and witnesses.",
+      "link": "https://www.odpp.nsw.gov.au/"
+    },
+    {
+      "q": "What services are available for victims and witnesses?",
+      "a": "The ODPP offers a Witness Assistance Service (WAS) and general services for victims and witnesses.",
+      "link": "https://www.odpp.nsw.gov.au/victims-witnesses"
+    },
+    {
+      "q": "How can I prepare for giving evidence in court?",
+      "a": "There is information available on preparing for court and giving evidence.",
+      "link": "https://www.odpp.nsw.gov.au/preparing-for-court/going-to-court"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:52:04Z",
+    "last_modified": "27 February 2026",
+    "html_sha1": "c89215bca3240e29de5203c391acdf04b305fc51",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

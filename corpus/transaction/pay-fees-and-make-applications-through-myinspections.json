@@ -1,0 +1,70 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/pay-fees-and-make-applications-through-myinspections",
+  "source_url": "https://www.service.nsw.gov.au/transaction/pay-fees-and-make-applications-through-myinspections",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "pay-fees-and-make-applications-through-myinspections",
+  "title": "Manage plumbing and drainage inspections (MyInspections)",
+  "summary": "Use the MyInspections Gateway to manage plumbing and drainage work inspections in specific Sydney regions.",
+  "topics": [
+    "plumbing",
+    "drainage",
+    "inspections",
+    "myinspections"
+  ],
+  "intro": "The MyInspections Gateway is the system used to manage plumbing and drainage work inspections in the Sydney, Illawarra, Blue Mountains, Newcastle regions.\n\nYou can use MyInspections to:",
+  "who_can_apply": [],
+  "what_you_need": [
+    "The details of the property to be inspected",
+    "The reference number of any inspection applications you want to correct or fees to pay",
+    "Mastercard or Visa for payment of inspection fees"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Select the 'Apply online' button.",
+      "link": null
+    },
+    {
+      "n": 2,
+      "text": "Either:",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select the task you want to complete and follow the prompts.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "inspection fees",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/plumbers-and-drainers/metropolitan-inspections/fees"
+    },
+    {
+      "text": "MyInspections user guide – PDF",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/plumbers-and-drainers/metropolitan-inspections/how-to-book/guide-to-myinspections-gateway"
+    },
+    {
+      "text": "MyInspections – Building Commission NSW",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/plumbers-and-drainers/metropolitan-inspections/myinspections"
+    },
+    {
+      "text": "Plumbers and drainers – NSW Fair Trading",
+      "url": "https://www.nsw.gov.au/housing-and-construction/compliance-and-regulation/plumbers-and-drainers"
+    }
+  ],
+  "internal_links": [],
+  "faqs": [],
+  "source": {
+    "fetched_at": "2026-05-09T19:54:56Z",
+    "last_modified": "3 November 2025",
+    "html_sha1": "52609e78a5d76ce0224c7eac54c87b8e6bc1a4ba",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

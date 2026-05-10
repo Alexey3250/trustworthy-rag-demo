@@ -1,0 +1,124 @@
+{
+  "url": "https://www.service.nsw.gov.au/transaction/get-a-digital-nsw-seniors-card-or-nsw-senior-savers-card",
+  "source_url": "https://www.service.nsw.gov.au/transaction/get-a-digital-nsw-seniors-card-or-nsw-senior-savers-card",
+  "category": "transaction",
+  "article_kind": "transaction",
+  "slug": "get-a-digital-nsw-seniors-card-or-nsw-senior-savers-card",
+  "title": "Get a digital NSW Seniors Card or NSW Senior Savers Card",
+  "summary": "Learn how to get a digital version of your NSW Seniors Card or NSW Senior Savers Card using the Service NSW app.",
+  "topics": [
+    "nsw-seniors-card",
+    "nsw-senior-savers-card",
+    "service-nsw-app",
+    "digital-card"
+  ],
+  "intro": "If you already have a NSW Seniors Card or NSW Senior Savers Card, you can get a digital version of your card through the Service NSW app.\n\nThe digital card does not replace your current physical card. You can choose which version suits you best, and participating businesses will recognise both when shown.\n\nIf you do not have a Seniors/Senior Savers Card, you'll need to apply for your physical card before you can access your digital card.",
+  "who_can_apply": [
+    "Must already have a NSW Seniors Card or NSW Senior Savers Card."
+  ],
+  "what_you_need": [
+    "A MyServiceNSW Account",
+    "The latest version of the Service NSW app"
+  ],
+  "how_to_steps": [
+    {
+      "n": 1,
+      "text": "Download the latest version of the Service NSW app to your smartphone.",
+      "link": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "n": 2,
+      "text": "Log in to the app with your MyServiceNSW Account details.",
+      "link": null
+    },
+    {
+      "n": 3,
+      "text": "Select 'Wallet' from the homescreen.",
+      "link": null
+    },
+    {
+      "n": 4,
+      "text": "Select 'Add' from the wallet.",
+      "link": null
+    },
+    {
+      "n": 5,
+      "text": "Select 'Seniors/Senior Savers Card'.",
+      "link": null
+    },
+    {
+      "n": 6,
+      "text": "Follow the prompts to add your Seniors/Senior Savers Card to the Service NSW app.",
+      "link": null
+    }
+  ],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [
+    {
+      "text": "If you need assistance, you can contact 13 77 88 or visit a Service NSW Centre.",
+      "link": null
+    }
+  ],
+  "external_links": [
+    {
+      "text": "NSW Seniors Card website",
+      "url": "https://www.nsw.gov.au/community-services/seniors-card"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "apply for your physical card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "text": "Service NSW app",
+      "url": "https://www.service.nsw.gov.au/campaign/service-nsw-mobile-app"
+    },
+    {
+      "text": "Service NSW Centre",
+      "url": "https://www.service.nsw.gov.au/service-centre"
+    },
+    {
+      "text": "NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/services/nsw-seniors-card-program"
+    },
+    {
+      "text": "How to add services to your MyServiceNSW Account",
+      "url": "https://www.service.nsw.gov.au/services/myservicensw-account/how-to-add-services"
+    },
+    {
+      "text": "Convert a NSW Senior Savers Card to a NSW Seniors Card",
+      "url": "https://www.service.nsw.gov.au/transaction/convert-a-nsw-senior-savers-card-to-a-nsw-seniors-card"
+    },
+    {
+      "text": "Manage your marketing preferences for the NSW Seniors Card program",
+      "url": "https://www.service.nsw.gov.au/transaction/manage-your-marketing-preferences-for-the-nsw-seniors-card-program"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does the digital card replace my physical card?",
+      "a": "No, the digital card does not replace your current physical card. Participating businesses will recognise both when shown.",
+      "link": null
+    },
+    {
+      "q": "What should I do if I don't have a Seniors/Senior Savers Card?",
+      "a": "You must apply for your physical card first before you can access your digital card.",
+      "link": "https://www.service.nsw.gov.au/transaction/apply-for-a-nsw-seniors-card-or-nsw-senior-savers-card"
+    },
+    {
+      "q": "How do I add my card to the Service NSW app?",
+      "a": "Download the Service NSW app, log in with your MyServiceNSW Account, select 'Wallet', then 'Add', and finally 'Seniors/Senior Savers Card' to follow the prompts.",
+      "link": null
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T19:43:59Z",
+    "last_modified": "6 December 2024",
+    "html_sha1": "643ad8d9b67ed4d8bafebffe4e59d1d6ecaaf8db",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

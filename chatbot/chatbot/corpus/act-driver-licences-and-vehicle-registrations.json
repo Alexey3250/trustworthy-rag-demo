@@ -1,0 +1,104 @@
+{
+  "url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations",
+  "source_url": "https://www.service.nsw.gov.au/guide/act-driver-licences-and-vehicle-registrations",
+  "category": "guide",
+  "article_kind": "guide",
+  "slug": "act-driver-licences-and-vehicle-registrations",
+  "title": "ACT driver licences and vehicle registrations",
+  "summary": "Information for ACT residents regarding driver licences and vehicle registrations, and how to transfer them to NSW.",
+  "topics": [
+    "driver-licence",
+    "vehicle-registration",
+    "interstate-transfer"
+  ],
+  "intro": "If you live in the Australian Capital Territory (ACT), you’ll need to contact Access Canberra for state/territory government services, including driver licences and vehicle registrations.\n\nService NSW cannot help you with your ACT licence or rego, unless you’ve moved to NSW and need to:\n\nNote: For Australian Government services, such as Medicare and passports, you’ll need to contact Services Australia.",
+  "who_can_apply": [
+    "Residents of the Australian Capital Territory (ACT)"
+  ],
+  "what_you_need": [],
+  "how_to_steps": [],
+  "fees": null,
+  "processing_time": null,
+  "contact": null,
+  "more_info": [],
+  "external_links": [
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au"
+    },
+    {
+      "text": "Services Australia",
+      "url": "https://www.servicesaustralia.gov.au/"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/licences/renew-or-replace-your-driver-licence"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/renewing-vehicle-registration"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/cancelling-vehicle-registration"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/vehicle-registration-records"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/buying-an-act-registered-vehicle"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking/registration/selling-an-act-registered-vehicle"
+    },
+    {
+      "text": "Access Canberra",
+      "url": "https://www.accesscanberra.act.gov.au/driving-transport-and-parking"
+    }
+  ],
+  "internal_links": [
+    {
+      "text": "transfer your ACT driver licence to a NSW driver licence",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-an-interstate-driver-licence"
+    },
+    {
+      "text": "transfer or register your ACT vehicle in NSW",
+      "url": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    },
+    {
+      "text": "Buying a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/buying-a-vehicle"
+    },
+    {
+      "text": "Selling a vehicle",
+      "url": "https://www.service.nsw.gov.au/guide/selling-a-vehicle"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where should I contact for ACT driver licences and vehicle registrations?",
+      "a": "You should contact Access Canberra.",
+      "link": "https://www.accesscanberra.act.gov.au"
+    },
+    {
+      "q": "Can Service NSW help me with my ACT driver licence?",
+      "a": "Service NSW cannot help you with your ACT licence unless you have moved to NSW and need to transfer it to a NSW driver licence.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-an-interstate-driver-licence"
+    },
+    {
+      "q": "What if I need to transfer or register my ACT vehicle in NSW?",
+      "a": "You can use Service NSW to transfer or register your ACT vehicle in NSW.",
+      "link": "https://www.service.nsw.gov.au/transaction/transfer-or-register-an-interstate-vehicle"
+    }
+  ],
+  "source": {
+    "fetched_at": "2026-05-09T10:02:40Z",
+    "last_modified": "2 July 2025",
+    "html_sha1": "569b4e1fdb0f97c86653c0b7439e544bccddee04",
+    "enriched": true,
+    "enrichment_status": "ok"
+  }
+}

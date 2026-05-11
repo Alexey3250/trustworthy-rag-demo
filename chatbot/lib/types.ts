@@ -70,7 +70,8 @@ export type PerfEvent =
   | { type: "tokens"; n: number }
   | { type: "tps"; tps: number }
   | { type: "model"; provider: string; model: string }
-  | { type: "usage"; input: number; output: number; embed: number };
+  | { type: "usage"; input: number; output: number; embed: number }
+  | { type: "embed_source"; source: "cache" | "live" | "none" };
 
 export type Mode = "answer" | "clarify" | "guide";
 

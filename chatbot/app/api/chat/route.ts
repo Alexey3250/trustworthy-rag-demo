@@ -83,6 +83,10 @@ export async function POST(req: NextRequest) {
           type: "perf",
           event: { type: "stage", name: "retrieve.dense", ms: result.denseMs },
         });
+        send({
+          type: "perf",
+          event: { type: "embed_source", source: result.embedSource },
+        });
         send({ type: "retrieved", hits: result.hits, mode: result.mode });
 
         // ------- GUIDE mode: canned, no LLM call -------

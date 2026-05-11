@@ -15,10 +15,10 @@ function Section({
   if (hidden) return null;
   return (
     <div className="mt-3">
-      <div className="text-[11px] font-semibold tracking-wider text-slate-500 uppercase">
+      <div className="text-[11px] font-semibold tracking-wider text-goldDark/80 uppercase">
         {title}
       </div>
-      <div className="mt-1 text-[14px] leading-relaxed text-slate-800 dark:text-slate-100">
+      <div className="mt-1 text-[14px] leading-relaxed text-ink">
         {children}
       </div>
     </div>
@@ -40,28 +40,28 @@ export function AnswerCard({
 }) {
   const d = hit.doc;
   const e = hit.entry;
-  const [open, setOpen] = useState(variant !== "related");
-  const collapsible = variant === "related";
+  const [open, setOpen] = useState(false);
 
   const borderClass =
     variant === "primary"
-      ? "border-nswSky/40"
+      ? "border-gold/40 shadow-gold"
       : variant === "candidate"
-        ? "border-slate-300 dark:border-white/15"
-        : "border-slate-200 dark:border-white/10";
+        ? "border-amber-300"
+        : "border-gold/15";
 
   return (
     <article
       id={`${msgId}-src-${index + 1}`}
-      className={`scroll-mt-24 rounded-xl border bg-white dark:bg-white/[0.04] shadow-sm overflow-hidden transition-shadow ${borderClass}`}
+      className={`scroll-mt-24 rounded-xl border bg-white shadow-sm overflow-hidden transition-shadow ${borderClass}`}
     >
       <header
-        className={`px-4 py-3 border-b border-slate-100 dark:border-white/10 ${
-          collapsible
-            ? "cursor-pointer hover:bg-slate-50 dark:hover:bg-white/[0.02]"
-            : ""
+        className={`px-4 py-3 cursor-pointer hover:bg-gold/[0.04] transition-colors ${
+          open ? "border-b border-gold/10" : ""
         }`}
-        onClick={() => collapsible && setOpen((v) => !v)}
+        onClick={() => setOpen((v) => !v)}
+        role="button"
+        aria-expanded={open}
+        aria-controls={`${msgId}-src-${index + 1}-body`}
       >
         <div className="flex items-start justify-between gap-3">
           <div className="min-w-0">
@@ -69,17 +69,17 @@ export function AnswerCard({
               <span
                 className={`inline-flex items-center justify-center min-w-[20px] h-[20px] rounded-full text-white text-[10px] ${
                   variant === "primary"
-                    ? "bg-nswSky"
+                    ? "bg-gold-gradient"
                     : variant === "candidate"
                       ? "bg-amber-500"
-                      : "bg-slate-400"
+                      : "bg-ink/30"
                 }`}
               >
                 {index + 1}
               </span>
-              <span className="text-slate-500">{e.category}</span>
+              <span className="text-ink/50">{e.category}</span>
               {variant === "primary" && (
-                <span className="px-1.5 py-0.5 rounded bg-nswSky/10 text-nsw dark:text-nswSky border border-nswSky/30 text-[10px]">
+                <span className="px-1.5 py-0.5 rounded bg-gold/10 text-goldDark border border-gold/30 text-[10px]">
                   primary source
                 </span>
               )}
@@ -89,38 +89,36 @@ export function AnswerCard({
                 </span>
               )}
             </div>
-            <h3 className="mt-1 font-semibold text-slate-900 dark:text-slate-50 leading-snug truncate">
+            <h3 className="mt-1 font-semibold text-ink leading-snug">
               {e.title}
             </h3>
-            {variant !== "related" && d.summary && (
-              <p className="text-sm text-slate-600 dark:text-slate-300 mt-1">
+            {d.summary && (
+              <p className="text-sm text-ink/60 mt-1 line-clamp-2">
                 {d.summary}
               </p>
             )}
           </div>
           <div className="flex items-center gap-2 shrink-0">
-            <div className="text-[10px] font-mono text-slate-400 whitespace-nowrap text-right hidden sm:block">
+            <div className="text-[10px] font-mono text-ink/40 whitespace-nowrap text-right hidden sm:block">
               <div>fused {hit.fusedScore.toFixed(3)}</div>
               <div>
                 bm25 {hit.bm25Score.toFixed(2)} · cos {hit.denseScore.toFixed(2)}
               </div>
             </div>
-            {collapsible && (
-              <span
-                className={`text-slate-400 transition-transform ${
-                  open ? "rotate-180" : ""
-                }`}
-                aria-hidden
-              >
-                ▾
-              </span>
-            )}
+            <span
+              className={`text-ink/40 transition-transform ${
+                open ? "rotate-180" : ""
+              }`}
+              aria-hidden
+            >
+              ▾
+            </span>
           </div>
         </div>
       </header>
 
       {open && (
-        <>
+        <div id={`${msgId}-src-${index + 1}-body`}>
           <div className="px-4 py-3">
             <Section title="Who can apply" hidden={!d.who_can_apply?.length}>
               <ul className="list-disc pl-5 space-y-1">
@@ -150,7 +148,7 @@ export function AnswerCard({
                           href={s.link}
                           target="_blank"
                           rel="noreferrer noopener"
-                          className="text-nswSky underline decoration-dotted"
+                          className="text-goldDark hover:text-ink underline decoration-dotted"
                         >
                           ↗
                         </a>
@@ -167,7 +165,7 @@ export function AnswerCard({
                   {d.faqs.slice(0, 3).map((f, i) => (
                     <div key={i}>
                       <div className="font-medium">{f.q}</div>
-                      <div className="text-slate-600 dark:text-slate-300 text-sm">
+                      <div className="text-ink/70 text-sm">
                         {f.a}
                         {f.link && (
                           <>
@@ -176,7 +174,7 @@ export function AnswerCard({
                               href={f.link}
                               target="_blank"
                               rel="noreferrer noopener"
-                              className="text-nswSky underline decoration-dotted"
+                              className="text-goldDark hover:text-ink underline decoration-dotted"
                             >
                               source
                             </a>
@@ -190,12 +188,13 @@ export function AnswerCard({
             )}
           </div>
 
-          <footer className="px-4 py-3 bg-slate-50 dark:bg-white/[0.03] border-t border-slate-100 dark:border-white/10 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-slate-600 dark:text-slate-400">
+          <footer className="px-4 py-3 bg-gold/[0.04] border-t border-gold/10 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-ink/60">
             <a
               href={e.url}
               target="_blank"
               rel="noreferrer noopener"
-              className="font-medium text-nsw dark:text-nswSky underline decoration-dotted break-all"
+              onClick={(ev) => ev.stopPropagation()}
+              className="font-medium text-goldDark hover:text-ink underline decoration-dotted break-all"
             >
               {e.url}
             </a>
@@ -203,7 +202,7 @@ export function AnswerCard({
               <span className="font-mono">last updated · {e.last_modified}</span>
             )}
           </footer>
-        </>
+        </div>
       )}
     </article>
   );

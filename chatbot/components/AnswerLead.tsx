@@ -131,11 +131,26 @@ export function AnswerLead({
   msgId: string;
 }) {
   if (!text.trim()) {
-    return <span className="text-slate-400">Thinking…</span>;
+    return (
+      <div className="flex items-center gap-2 text-ink/60 text-[15px]">
+        <span className="inline-flex gap-1" aria-hidden>
+          <span className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse" />
+          <span
+            className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse"
+            style={{ animationDelay: "0.15s" }}
+          />
+          <span
+            className="h-1.5 w-1.5 rounded-full bg-gold animate-pulse"
+            style={{ animationDelay: "0.3s" }}
+          />
+        </span>
+        <span>Searching the corpus…</span>
+      </div>
+    );
   }
   const blocks = parseBlocks(text);
   return (
-    <div className="space-y-2 text-[15px] leading-relaxed text-slate-800 dark:text-slate-100">
+    <div className="space-y-2 text-[15px] leading-relaxed text-ink">
       {blocks.map((b, i) =>
         b.kind === "p" ? (
           <p key={i}>{renderInline(b.text, hits, msgId, `${i}`)}</p>

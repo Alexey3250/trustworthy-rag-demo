@@ -73,6 +73,30 @@ export function PerfPanel({ msg }: { msg: Message }) {
               </span>
             </span>
           )}
+          {p.embed_source === "cache" && (
+            <span
+              title="Query embedding served from the static cache (corpus/.query-cache.json) — no embeddings endpoint hit"
+              className="px-1.5 py-0.5 rounded bg-emerald-100 text-emerald-800 text-[10px] uppercase tracking-wider"
+            >
+              embed: cache
+            </span>
+          )}
+          {p.embed_source === "live" && (
+            <span
+              title="Query embedding fetched live from the embeddings endpoint"
+              className="px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 text-[10px] uppercase tracking-wider"
+            >
+              embed: live
+            </span>
+          )}
+          {p.embed_source === "none" && (
+            <span
+              title="No embedding available — fell back to BM25-only retrieval"
+              className="px-1.5 py-0.5 rounded bg-slate-100 text-slate-700 text-[10px] uppercase tracking-wider"
+            >
+              bm25 only
+            </span>
+          )}
           {p.latency_ms !== undefined && (
             <span>
               <span className="text-slate-400">latency</span>{" "}

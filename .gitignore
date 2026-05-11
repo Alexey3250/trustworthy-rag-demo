@@ -31,3 +31,9 @@ npm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# Claude Code per-machine overrides (launch.json is shared)
+.claude/settings.local.json
+
+# TypeScript incremental build cache
+**/tsconfig.tsbuildinfo

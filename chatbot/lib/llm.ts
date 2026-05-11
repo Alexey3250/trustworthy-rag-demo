@@ -1,5 +1,6 @@
 import OpenAI from "openai";
 import { env } from "./env";
+import { lookupQueryEmbedding } from "./queryCache";
 
 /**
  * Both Ollama (>= 0.5) and Cerebras Cloud expose the OpenAI Chat
@@ -45,6 +46,26 @@ export async function embedOne(text: string): Promise<EmbedResult | null> {
     promptTokens: resp.usage?.prompt_tokens ?? 0,
     totalTokens: resp.usage?.total_tokens ?? 0,
   };
+}
+
+/**
+ * Query-side embedding with a pre-computed cache for the showcase
+ * suggestions. Tried in order:
+ *   1. Static cache (`corpus/.query-cache.json`) — zero network, zero
+ *      tokens. Makes hybrid retrieval work on Vercel + Cerebras-only
+ *      deployments for the preset questions.
+ *   2. Live `embedOne()` — only runs if EMBED_* is configured.
+ * Returns null if neither hits, so the caller falls back to BM25-only.
+ */
+export async function embedQuery(text: string): Promise<
+  (EmbedResult & { source: "cache" | "live" }) | null
+> {
+  const cached = lookupQueryEmbedding(text);
+  if (cached) {
+    return { vector: cached, promptTokens: 0, totalTokens: 0, source: "cache" };
+  }
+  const live = await embedOne(text);
+  return live ? { ...live, source: "live" } : null;
 }
 
 export function describeProvider(model?: string) {

@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Service NSW Chatbot (demo)",
+  title: "Government Concierge — Service NSW Assistant",
   description:
-    "A trustworthy, retrieval-grounded assistant over public Service NSW pages.",
+    "An elegant, retrieval-grounded assistant for Service NSW (New South Wales, Australia) — licences, registrations, fines, and other public services.",
 };
 
 export default function RootLayout({
@@ -14,7 +14,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="min-h-screen antialiased">{children}</body>
+      <body className="min-h-screen antialiased font-sans">{children}</body>
     </html>
   );
 }

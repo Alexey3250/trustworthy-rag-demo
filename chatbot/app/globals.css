@@ -3,22 +3,56 @@
 @tailwind utilities;
 
 :root {
-  color-scheme: light dark;
+  color-scheme: light;
+  --gold: #c9a55a;
+  --gold-light: #e6cc80;
+  --gold-dark: #a8842f;
+  --cream: #fbf7ee;
+  --ink: #1a1410;
 }
 
-html, body {
+html,
+body {
   height: 100%;
 }
 
 body {
-  background: #f5f7fb;
-  color: #0b1320;
+  background:
+    radial-gradient(
+      ellipse 80% 50% at 50% -10%,
+      rgba(201, 165, 90, 0.18),
+      transparent 60%
+    ),
+    radial-gradient(
+      ellipse 60% 40% at 90% 110%,
+      rgba(230, 204, 128, 0.12),
+      transparent 60%
+    ),
+    #fbf7ee;
+  color: #1a1410;
   font-feature-settings: "ss01", "ss02";
+  background-attachment: fixed;
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #0b1320;
-    color: #e6ecf5;
-  }
+/* Subtle gold scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(201, 165, 90, 0.35);
+  border-radius: 8px;
+  border: 2px solid #fbf7ee;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(168, 132, 47, 0.55);
+}
+
+/* Selection */
+::selection {
+  background: rgba(201, 165, 90, 0.35);
+  color: #1a1410;
 }

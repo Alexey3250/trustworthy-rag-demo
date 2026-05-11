@@ -16,7 +16,7 @@ import type {
   Mode,
   RetrievalHit,
 } from "../types";
-import { embedOne } from "../llm";
+import { embedQuery } from "../llm";
 import { pickMode } from "../prompts";
 import { buildBm25, searchBm25, type BM25Index } from "./bm25";
 
@@ -53,6 +53,7 @@ export type HybridResult = {
   bm25Ms: number;
   denseMs: number;
   embedTokens: number;
+  embedSource: "cache" | "live" | "none";
 };
 
 export async function hybridRetrieve(opts: {
@@ -96,12 +97,14 @@ export async function hybridRetrieve(opts: {
   const denseList: { idx: number; score: number }[] = [];
   let embedTokens = 0;
   let denseUsed = false;
+  let embedSource: "cache" | "live" | "none" = "none";
   if (embeddings && embeddings.vectors.length === entries.length) {
     try {
-      const er = await embedOne(query);
+      const er = await embedQuery(query);
       if (er) {
         denseUsed = true;
         embedTokens = er.totalTokens || er.promptTokens;
+        embedSource = er.source;
         for (let i = 0; i < entries.length; i++) {
           denseList.push({
             idx: i,
@@ -180,5 +183,6 @@ export async function hybridRetrieve(opts: {
     bm25Ms,
     denseMs,
     embedTokens,
+    embedSource,
   };
 }
